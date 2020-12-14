@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+<head>{{ partial "head.html" . }}</head>
+
+<body>
+    <div id="all">
+        <div class="container-fluid">
+            <div class="row row-offcanvas row-offcanvas-left">
+                {{ block "main" . }} {{ end }}
+            </div>
+        </div>
+    </div> {{ partial "scripts.html" . }}
+    <small class="text-muted">Links participate in Amazon Associate program and might generate a fee on qualifying sales</small>
+</body>
+
+</html>
