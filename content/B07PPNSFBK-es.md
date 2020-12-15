@@ -25,11 +25,11 @@ Está [Seagate Game Drive  2 TB  Unidad de disco duro externa  HDD portátil  co
 
 ℹ️:
 
-- Compatible con consolas PS4 de cualquier generación (software del sistema versión 4.50 o posterior)
-- Diseñada y probada para juegos de PS4
-- La conexión USB 3.0 de alta velocidad le permite una experiencia de videojuegos de velocidad óptima
 - Se puede conectar directamente a cualquier puerto USB de la consola PlayStation 4
+- Diseñada y probada para juegos de PS4
 - Capacidad para más de 50 juegos en una unidad de 2 TB
 - Sencilla configuración guiada por PlayStation que toma menos de tres minutos
+- La conexión USB 3.0 de alta velocidad le permite una experiencia de videojuegos de velocidad óptima
+- Compatible con consolas PS4 de cualquier generación (software del sistema versión 4.50 o posterior)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PPNSFBK/?tag=tolees-21)
