@@ -25,10 +25,10 @@ Tienes [eXtremeRate Carcasa para Xbox One Elite Protectora Tacto Suave Placa Fro
 
 ℹ️:
 
-- El paquete incluye: 1*funda frontal, herramienta de abrir el mando, 2*anillos de acento. (Importante: No incluyen el mando y otras partes)
 - Modelo compatible: Perfecto para Xbox One Elite Series 2(Model 1797)；no es compatible con Xbox One Elite(1698), Xbox One X, Xbox One S y Xbox One Original.Verifique la segunda foto antes de la compra.
 - Capacidad de instalación: Se requiere que los clientes desarmen el mando para instalar este carcasa frontal; Obtenga la guía de video de instalación en Youtobe buscando "Extremerate Elite Series 2 Shell"o"t94qtGq52uU".
 - Característica personalizada: El aspecto de mate se ve bastente bien. Tiene tacto suave y antideslizantes, juega sin sudor por largo tiempo.
 - Corte preciso: Se adapta perfectamente,es lo más adecuado,fabricado con exactitud,con un acabado perfecto.
+- El paquete incluye: 1*funda frontal, herramienta de abrir el mando, 2*anillos de acento. (Importante: No incluyen el mando y otras partes)
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0831LVMND/?tag=tolees-21)
