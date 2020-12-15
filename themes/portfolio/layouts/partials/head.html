@@ -30,7 +30,15 @@
   <meta property="og:type" content="Product" />
   <meta property="og:url" content="{{ .Permalink | absURL }}" />
   <meta property="og:image" content="{{ .Params.image | absURL }}" />
+  <meta property="og:description" content="{{ .Params.summary }}" />
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:description" content="{{ .Params.summary }}">
+  <meta name="twitter:image" content="{{ .Params.image | absURL }}">
+
   {{ if .Params.prodname }}
+  <meta name="twitter:title" content="{{ .Params.prodname }}">
+
   <script type="application/ld+json">
       {
           "@context": "https://schema.org/",
