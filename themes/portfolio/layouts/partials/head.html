@@ -26,15 +26,15 @@
   ` | safeHTML }}
   <meta name="yandex-verification" content="{{ .Site.Params.yandex }}" />
 
-  <meta property="og:title" content="{{ .Params.prodname }}" />
+  <meta property="og:title" content='{{ .Params.prodname }}' />
   <meta property="og:type" content="Product" />
   <meta property="og:url" content="{{ .Permalink | absURL }}" />
   <meta property="og:image" content="{{ .Params.image | absURL }}" />
-  <meta property="og:description" content="{{ .Params.title }}" />
+  <meta property="og:description" content='{{ .Params.title }}' />
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="{{ .Params.prodname }}">
-  <meta name="twitter:description" content="{{ .Params.title }}">
+  <meta name="twitter:title" content='{{ .Params.prodname }}'>
+  <meta name="twitter:description" content='{{ .Params.title }}'>
   <meta name="twitter:image" content="{{ .Params.image | absURL }}">
 
   {{ if .Params.prodname }}
@@ -43,12 +43,12 @@
       {
           "@context": "https://schema.org/",
           "@type": "Product",
-          "name": "{{ .Params.prodname }}",
+          "name": '{{ .Params.prodname }}',
           "image": [
               "{{ .Params.image | absURL }}"
           ],
           {{ with.Params.title }}
-            "description": "{{ . }}" > ,
+            "description": '{{ . }}' > ,
           {{ end }}
           "sku": "{{ .Params.slug }}",
           "offers": {
