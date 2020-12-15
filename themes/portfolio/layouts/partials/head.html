@@ -47,7 +47,7 @@
           "image": [
               "{{ .Params.image | absURL }}"
           ],
-          {{ with.Params.summary }}
+          {{ with.Params.title }}
             "description": "{{ . }}" > ,
           {{ end }}
           "sku": "{{ .Params.slug }}",
