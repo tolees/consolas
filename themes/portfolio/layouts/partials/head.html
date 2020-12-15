@@ -43,12 +43,12 @@
       {
           "@context": "https://schema.org/",
           "@type": "Product",
-          "name": '{{ .Params.prodname }}',
+          "name": "{{ .Params.prodname }}",
           "image": [
               "{{ .Params.image | absURL }}"
           ],
           {{ with.Params.title }}
-            "description": '{{ . }}' > ,
+            "description": "{{ . }}",
           {{ end }}
           "sku": "{{ .Params.slug }}",
           "offers": {
