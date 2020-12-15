@@ -25,9 +25,9 @@ Ahora mismo tienes [Ardistel - Travel AC Adaptor  2 M  Nintendo Switch ](https:/
 
 🔎:
 
-- Entrada: AC 100V-240V @ 50/60Hz 350mA / Salida: 5V - 2.4A
 - Longitud del cable: 2 metros
-- *Consola, juegos, mandos, tarjetas y accesorios no incluidos
 - Conector USB Type-C para la consola.
+- Entrada: AC 100V-240V @ 50/60Hz 350mA / Salida: 5V - 2.4A
+- *Consola, juegos, mandos, tarjetas y accesorios no incluidos
 
 [Visítala!!!](https://www.amazon.es/dp/B071Z3GVXX/?tag=tolees-21)
