@@ -25,9 +25,9 @@ Tienes [Tetris 99 + 12 meses Nintendo Switch Online](https://www.amazon.es/dp/B0
 
 ℹ️:
 
-- ¡Elimina las líneas de Tetris con cabeza, derrota a los otros 98 jugadores y álzate con la victoria!
-- Si te atreves, hasta puedes elegir manualmente a los jugadores que quieres atacar
 - TETRIS 99 presenta el clásico juego de puzles como nunca lo habías visto.
 - Siempre podrás comprobar cómo les va a los rivales gracias a las estadísticas que incluye
+- ¡Elimina las líneas de Tetris con cabeza, derrota a los otros 98 jugadores y álzate con la victoria!
+- Si te atreves, hasta puedes elegir manualmente a los jugadores que quieres atacar
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07V5DBSXD/?tag=tolees-21)
