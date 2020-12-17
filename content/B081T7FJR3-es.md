@@ -25,11 +25,11 @@ Está [LEGO Jurassic World - Edición Exclusiva Amazon - PlayStation 4](https://
 
 ℹ️:
 
-- DLC Trilogy Pack #1; busca dinosaurios alrededor de la isla en el Animal Control Vehicle y juega como personajes de franquicia clásicos como Eric y Paul Kirby
-- Personaliza tu propia colección de dinosaurios: colecciona ámbar LEGO y experimenta con ADN para crear originales dinosaurios, como el Dilophosaurus Rex
-- Revive momentos clave de las cuatro películas de Jurassic
-- Siembra el caos con dinosaurios LEGO: elije entre 20 dinosaurios, incluyendo el amable Triceratops, el leal Raptor, el salvaje Compy e incluso el T; rex
 - Edición exclusiva de Amazon. Incluye DLC con contenido adicional
+- Revive momentos clave de las cuatro películas de Jurassic
+- DLC Trilogy Pack #1; busca dinosaurios alrededor de la isla en el Animal Control Vehicle y juega como personajes de franquicia clásicos como Eric y Paul Kirby
+- Siembra el caos con dinosaurios LEGO: elije entre 20 dinosaurios, incluyendo el amable Triceratops, el leal Raptor, el salvaje Compy e incluso el T; rex
 - Rellena y explora la Isla Nublar y la Isla Sorna
+- Personaliza tu propia colección de dinosaurios: colecciona ámbar LEGO y experimenta con ADN para crear originales dinosaurios, como el Dilophosaurus Rex
 
 [Ver la oferta!!](https://www.amazon.es/dp/B081T7FJR3/?tag=tolees-21)
