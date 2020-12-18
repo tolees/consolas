@@ -27,8 +27,8 @@ Ahora mismo tienes [Kingtop - Soporte vertical para consola y controladores para
 
 - Seguro y portátil: con sobrecorriente, sobretensión, sobretemperatura, diseño de protección contra cortocircuitos, más seguro para su consola y controlador cuando se carga y prolonga la vida operativa; el soporte del cargador es ligero y cómodo de llevar cuando viaja.
 - Potente sistema de refrigeración: 3 ventiladores de refrigeración silenciosos pueden enfriar eficientemente tu consola cuando juegues, te ayudarán a prolongar la vida útil de tu PS4.
-- Diseño de ahorro de espacio: diseño compacto con todas las funciones que necesitan los jugadores PS4, posiciona verticalmente la consola, controladores, discos de juego para optimizar el espacio.
 - Carga y juego: carga rápida de dos controladores simultáneamente en aproximadamente 2,5 ~ 4h. El indicador LED se volverá rojo cuando se está cargando, luego verde después de cargarse completamente.
 - Diseño todo en uno: el soporte vertical multifuncional KINGTOP combina ventilador de refrigeración, base de carga doble, almacenamiento de juegos, puerto USB HUB, perfectamente compatible con PS4, PS4 Slim, consola PS4 Pro y controladores.
+- Diseño de ahorro de espacio: diseño compacto con todas las funciones que necesitan los jugadores PS4, posiciona verticalmente la consola, controladores, discos de juego para optimizar el espacio.
 
 [Visítala!!!](https://www.amazon.es/dp/B08C79S2XK/?tag=tolees-21)
