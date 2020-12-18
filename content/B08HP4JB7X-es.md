@@ -25,7 +25,7 @@ Está [Immortals Fenyx Rising Limited Edition Amazon PS4](https://www.amazon.es/
 
 ℹ️:
 
-- El Pack de Armas “Benditos de Orión”. Blande el poder de Orión y las constelaciones con este pack celestial de armas. Contiene skins temáticas de Orión para la espada, el hacha y el arco. Incluye: o Espada: Dice la leyenda que esta hoja es lo suficientemente afilada como para cortar una estrella del cielo. Las propias constelaciones temen al héroe que empuñe esta espada. o Hacha: Hasta la más bella de las estrellas fugaces siente celos del arco de esta mítica hacha. o Arco: Controla el poder de una estrella fugaz dejándote llevar por el poder cósmico de este arco. Las Prism Wings. Cada filamento individual de cada una de las plumas contiene en ella todos los colores imaginables del arco iris. Estas alas son el orgullo de Dédalo.
 - Reserva y consigue una misión extra: Un Cuento de Fuego y Luz, en la que descubrirás la historia de Helios y el Faetón
+- El Pack de Armas “Benditos de Orión”. Blande el poder de Orión y las constelaciones con este pack celestial de armas. Contiene skins temáticas de Orión para la espada, el hacha y el arco. Incluye: o Espada: Dice la leyenda que esta hoja es lo suficientemente afilada como para cortar una estrella del cielo. Las propias constelaciones temen al héroe que empuñe esta espada. o Hacha: Hasta la más bella de las estrellas fugaces siente celos del arco de esta mítica hacha. o Arco: Controla el poder de una estrella fugaz dejándote llevar por el poder cósmico de este arco. Las Prism Wings. Cada filamento individual de cada una de las plumas contiene en ella todos los colores imaginables del arco iris. Estas alas son el orgullo de Dédalo.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08HP4JB7X/?tag=tolees-21)
