@@ -26,8 +26,8 @@ Tienes [The Surge 2  PS4 ](https://www.amazon.es/dp/B07RWSV2VL/?tag=tolees-21) c
 ℹ️:
 
 - Cercena las partes del enemigo que quieras saquear
+- Excelente evolución y personalización del personaje
 - Brutales combates cuerpo a cuerpo
 - Enfréntate a rivales y jefes mortíferos
-- Excelente evolución y personalización del personaje
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07RWSV2VL/?tag=tolees-21)
