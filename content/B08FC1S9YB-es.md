@@ -25,10 +25,10 @@ Tienes [Watch Dogs Legion Limited Edition Amazon PS5](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- LONDRES, UN MUNDO ABIERTO: Explora un mundo abierto enorme y visita los lugares más emblemáticos de Londres
+- JUEGA CON CUALQUIER PERSONAJE: Experimenta un gameplay nunca visto antes. Cualquiera que veas puede unirse a tu equipo y cuenta con una historia, personalidad y habilidades únicas.
+- ÚNETE A TUS AMIGOS: Trae a tu equipo en línea y une fuerzas con hasta tres amigos mientras os movéis con libertad y exploráis el mundo juntos o hacéis misiones cooperativas y completáis retos de contenido endgame
 - Reserva para acceder al Pack Rey Dorado y haz que tus héroes recorran las calles de Londres con: - La máscara El Peso de la Corona. - El skin de pistola Hermanas Serpiente. - El skin de vehículo Lux.
 - HACKEAR ES TU ARMA: Haz de la infraestructura tecnológica de Londres tu arma. Hackea los drones de combate armados, despliega robots araña sigilosos, derriba enemigos mientras te ocultas utilizando una capa de realidad aumentada y mucho más.
-- ÚNETE A TUS AMIGOS: Trae a tu equipo en línea y une fuerzas con hasta tres amigos mientras os movéis con libertad y exploráis el mundo juntos o hacéis misiones cooperativas y completáis retos de contenido endgame
-- JUEGA CON CUALQUIER PERSONAJE: Experimenta un gameplay nunca visto antes. Cualquiera que veas puede unirse a tu equipo y cuenta con una historia, personalidad y habilidades únicas.
+- LONDRES, UN MUNDO ABIERTO: Explora un mundo abierto enorme y visita los lugares más emblemáticos de Londres
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08FC1S9YB/?tag=tolees-21)

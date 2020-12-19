@@ -25,10 +25,10 @@ Tienes [Intruders: Hide and Seek  PS4 Français ](https://www.amazon.es/dp/B07MZ
 
 ℹ️:
 
-- Vous ne pouvez ni fuir ni les affronter. La seule chose que vous pouvez faire, c’est … vous cacher.
-- Avec vos parents en captivité et votre sœur cachée, vous êtes enfermé dans la maison avec les intrus. Vous devrez trouver un moyen de sauver votre famille pendant que vous découvrez qui sont les trois agresseurs et ce quils veulent.
 - Intruders : Hide and Seek est un jeu d’action à la première personne, un thriller intense qui associe la plus grande terreur psychologique et le point de vue dun enfant sans défense.
+- Avec vos parents en captivité et votre sœur cachée, vous êtes enfermé dans la maison avec les intrus. Vous devrez trouver un moyen de sauver votre famille pendant que vous découvrez qui sont les trois agresseurs et ce quils veulent.
 - Dans cette nouvelle expérience, compatible avec PlayStationVR, vous êtes Ben, laîné de la famille Richter. Pendant des vacances dans la maison de campagne familiale, vous voyez comment trois intrus dangereux se faufilent dans la maison et retiennent vos parents.
+- Vous ne pouvez ni fuir ni les affronter. La seule chose que vous pouvez faire, c’est … vous cacher.
 - Voix off: anglais, espagnol Sous-titres: français, allemand, italien, portugais brésilien
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MZ2GYX9/?tag=tolees-21)
