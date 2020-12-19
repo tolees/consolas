@@ -25,10 +25,10 @@ Tienes [Lego DC Super-Villanos Nintendo Switch  Edición Exclusiva Amazon](https
 
 ℹ️:
 
-- La Liga de la Injusticia no se verá superada a la hora de hacer maldades; los jugadores nunca se habían aventurado en el universo LEGO desde la perspectiva única de un villano
+- El nexo principal del juego está en Gotham City y Metrópolis, e incluye otras ubicaciones y lugares famosos de DC Comics como Smallville, el Salón del Mal, el Salón de la Justicia y la Atalaya de la Liga de la Justicia
+- Al principio del juego, los jugadores pueden crear a su propio supervillano único, o elegir entre los personajes malvados ya creados al que será el personaje principal y protagonista de la historia
 - Edición exclusiva de Amazon. Incluye DLC con contenido adicional
 - Incluye DLC: DC Super Héroes Pack; juega en la piel de tus superhéroes favoritos procedentes de la emocionante serie de TV DC; este pack de personajes incluye a: Black Lightning, Supergirl, Flash, Atom, Vibe y Green Arrow
-- Al principio del juego, los jugadores pueden crear a su propio supervillano único, o elegir entre los personajes malvados ya creados al que será el personaje principal y protagonista de la historia
-- El nexo principal del juego está en Gotham City y Metrópolis, e incluye otras ubicaciones y lugares famosos de DC Comics como Smallville, el Salón del Mal, el Salón de la Justicia y la Atalaya de la Liga de la Justicia
+- La Liga de la Injusticia no se verá superada a la hora de hacer maldades; los jugadores nunca se habían aventurado en el universo LEGO desde la perspectiva única de un villano
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B081T6D6SM/?tag=tolees-21)
