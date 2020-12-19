@@ -25,7 +25,7 @@ Ahora mismo tienes [Wolfenstein Youngblood - Edición Deluxe PS4](https://www.am
 
 🔎:
 
-- Juega como una de las hijas gemelas de B. J; blazkowicz en una misión a vida o muerte para encontrarle en el París de los años 80
 - Usa un arsenal de nuevas armas, dispositivos y habilidades de armadura para echar a los nazis de la ciudad de la luz
+- Juega como una de las hijas gemelas de B. J; blazkowicz en una misión a vida o muerte para encontrarle en el París de los años 80
 
 [Visítala!!!](https://www.amazon.es/dp/B07DP3F1T6/?tag=tolees-21)
