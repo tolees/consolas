@@ -25,8 +25,8 @@ Está [Wolfenstein Youngblood - Edición Deluxe Xbox One](https://www.amazon.es/
 
 ℹ️:
 
-- Juega como una de las hijas gemelas de B. J; blazkowicz en una misión a vida o muerte para encontrarle en el París de los años 80
 - Usa un arsenal de nuevas armas, dispositivos y habilidades de armadura para echar a los nazis de la ciudad de la luz
 - Youngblood es una aventura cooperativa del galardonado estudio MachineGames
+- Juega como una de las hijas gemelas de B. J; blazkowicz en una misión a vida o muerte para encontrarle en el París de los años 80
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DP2NW7F/?tag=tolees-21)
