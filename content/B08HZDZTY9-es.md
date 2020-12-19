@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Immortals Fenyx Rising Gold Edition XBOX al 30.09 % de descuento'
-date: 2020-12-18 01:08:43
+title: 'Immortals Fenyx Rising Gold Edition XBOX al 45.09 % de descuento'
+date: 2020-12-19 08:39:45
 image: 'https://m.media-amazon.com/images/I/51NqfL9uSUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B08HZDZTY9-es'
-actualPrice: 69.9 EUR
+actualPrice: 54.9 EUR
 currency: EUR
-price: 69.9
+price: 54.9
 comparePrice: 99.99 EUR
 prodname: 'Immortals Fenyx Rising Gold Edition XBOX X'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08HZDZTY9/?tag=tolees-21'
-descuento: '30.09'
-average: '88.08181818181819'
+descuento: '45.09'
+average: '85.31666666666668'
 ---
 
-Ahora mismo tienes [Immortals Fenyx Rising Gold Edition XBOX X](https://www.amazon.es/dp/B08HZDZTY9/?tag=tolees-21) a 69.9 EUR (original: 99.99 EUR) (30.09 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Immortals Fenyx Rising Gold Edition XBOX X](https://www.amazon.es/dp/B08HZDZTY9/?tag=tolees-21) a 54.9 EUR (original: 99.99 EUR) (45.09 %  de descuento) en el siguiente enlace!
 
 [![Immortals Fenyx Rising Gold Edition XBOX](https://m.media-amazon.com/images/I/51NqfL9uSUL._SL200_.jpg)](https://www.amazon.es/dp/B08HZDZTY9/?tag=tolees-21)
 
