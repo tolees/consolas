@@ -25,10 +25,10 @@ Ahora mismo tienes [Elgato HD60 Pro  Capturas a 1080p y retransmisión directa s
 
 🔎:
 
+- Control de streaming: añade una webcam, gráficos superpuestos y mucho más
 - Copia maestra: graba simultáneamente a 1080p60 en H.264 mientras haces streaming
 - Función de streaming en directo a Twitch, YouTube y más
-- Haz streaming y graba tus partidas de Xbox, PlayStation o Nintendo, con una imagen espectacular a 1080p y 60 fps
 - Visualización instantánea: haz streaming con una tecnología superior de baja latencia
-- Control de streaming: añade una webcam, gráficos superpuestos y mucho más
+- Haz streaming y graba tus partidas de Xbox, PlayStation o Nintendo, con una imagen espectacular a 1080p y 60 fps
 
 [Visítala!!!](https://www.amazon.es/dp/B014MQIVPS/?tag=tolees-21)
