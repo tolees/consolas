@@ -25,10 +25,10 @@ Tienes [Kingdom Hearts 3 - Xbox One](https://www.amazon.es/dp/B00DD0AIYC/?tag=to
 
 ℹ️:
 
+- Descubre mundos de Disney y Pixar: Embárcate en una aventura por el universo Disney; Viaja por los distintos mundos para protefferlos de la invasión de los sincorazón y entabla amistad con los héroes de Toy Story, Monstruos, Big Hero 6
 - Revive cortos clásicos de Dsiney a través de minijuegos: Salvar el mundo es duro, tómate un respiro con 20 minijuegos basados en cortos ´clásicos de Disney.
+- Siente la magia: Lanza impactantes hechizos mágicos para enfrentarte a los sincorazón; Llama a tus amigos para que te echen una mano. Cambia las tornas en la batalla utilizando las nuevas atracciones inspiradas en los parques temáticos.
 - Combates trepidantes cargados de acción: Explora los mundos de Disney-Pixar e interactúa directamente con ellos. Lucha contra bandadas de sincorazón mientras escalas acantilados, buceas bajo el agua o caes en picado por el aire
 - Usa el poder de las llaves espada: Las misteriosas llaves espada ahora pueden transformarse y adoptar nuevas habilidades, movimientos y animaciones adicionales. ¡Equipa varias llaves espada a la vez para desbloquear ataques espectaculares!
-- Siente la magia: Lanza impactantes hechizos mágicos para enfrentarte a los sincorazón; Llama a tus amigos para que te echen una mano. Cambia las tornas en la batalla utilizando las nuevas atracciones inspiradas en los parques temáticos.
-- Descubre mundos de Disney y Pixar: Embárcate en una aventura por el universo Disney; Viaja por los distintos mundos para protefferlos de la invasión de los sincorazón y entabla amistad con los héroes de Toy Story, Monstruos, Big Hero 6
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00DD0AIYC/?tag=tolees-21)
