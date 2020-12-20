@@ -25,10 +25,10 @@ Está [Cargador de mando Xbox 360 Estación de carga para mando Xbox 360 360E 30
 
 ℹ️:
 
-- Carga rápida, con 2 puertos USB de carga, permite cargar 2 mandos al mismo tiempo. Solo se necesitan 2 horas para cargar completamente.
 - Luz LED indicadora de estado del cargador, rojo: carga de visualización, gauna: carga terminada.
-- Protección IC, nuestro cargador integrado de IC protege tus mandos contra sobrecalentamiento, sobrecorriente, sobrecarga y cortocircuito.
 - Carga cómoda: se alimenta a través del puerto USB desde el PC o desde todos los puertos USB disponibles.
 - Cargador compatible con mando de Xbox 360, 360E, 360S. Dos baterías recargables y un cable incluido en el paquete.
+- Protección IC, nuestro cargador integrado de IC protege tus mandos contra sobrecalentamiento, sobrecorriente, sobrecarga y cortocircuito.
+- Carga rápida, con 2 puertos USB de carga, permite cargar 2 mandos al mismo tiempo. Solo se necesitan 2 horas para cargar completamente.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07G3QGNLK/?tag=tolees-21)
