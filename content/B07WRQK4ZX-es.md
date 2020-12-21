@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Monkey King: Hero is Back - PS4 al 60.04 % de descuento'
-date: 2020-12-15 10:27:51
+title: 'Monkey King: Hero is Back - PS4 al 60.04 % de rebaja'
+date: 2020-12-21 14:39:51
 image: 'https://m.media-amazon.com/images/I/51px0kB+NbL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,19 +16,19 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07WRQK4ZX/?tag=tolees-21'
 descuento: '60.04'
-average: '19.939999999999998'
+average: '19.499999999999996'
 ---
 
-Ahora mismo tienes [Monkey King: Hero is Back - PS4](https://www.amazon.es/dp/B07WRQK4ZX/?tag=tolees-21) a 15.98 EUR (original: 39.99 EUR) (60.04 %  de descuento) en el siguiente enlace!
+Tienes [Monkey King: Hero is Back - PS4](https://www.amazon.es/dp/B07WRQK4ZX/?tag=tolees-21) con precio final de  15.98 EUR (original: 39.99 EUR) (60.04 %  de rebaja) aqui!
 
 [![Monkey King: Hero is Back - PS4](https://m.media-amazon.com/images/I/51px0kB+NbL._SL200_.jpg)](https://www.amazon.es/dp/B07WRQK4ZX/?tag=tolees-21)
 
 🔎:
 
 - Niveles de dificultad apropiados
-- Controles y manejo sencillos
 - Un juego con el que pueden divertirse y relajarse tanto mayores como pequeños
+- Controles y manejo sencillos
 - Combinación de acción oriental y momentos cómicos
 - Ritmo relajado
 
-[Visítala!!!](https://www.amazon.es/dp/B07WRQK4ZX/?tag=tolees-21)
+[Comprar!!!](https://www.amazon.es/dp/B07WRQK4ZX/?tag=tolees-21)

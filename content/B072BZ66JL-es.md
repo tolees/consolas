@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 17.84 % en Nintendo - Set De Dos Mandos Joy-Con  Co'
-date: 2020-12-20 00:49:01
+title: 'Nintendo - Set De Dos Mandos Joy-Con  Co al 17.84 % de descuento'
+date: 2020-12-21 14:22:17
 image: 'https://m.media-amazon.com/images/I/41Ev7BJMd7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,10 +16,10 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072BZ66JL/?tag=tolees-21'
 descuento: '17.84'
-average: '74.72500000000001'
+average: '74.7079347826087'
 ---
 
-Tienes [Nintendo - Set De Dos Mandos Joy-Con  Color Verde Neón / Rosa Neón  Nintendo Switch ](https://www.amazon.es/dp/B072BZ66JL/?tag=tolees-21) con un 17.84 % de descuento con precio de oferta de 73.94 EUR (original: 89.99 EUR) en el siguiente enlace!
+Está [Nintendo - Set De Dos Mandos Joy-Con  Color Verde Neón / Rosa Neón  Nintendo Switch ](https://www.amazon.es/dp/B072BZ66JL/?tag=tolees-21) con 17.84 de descuento por 73.94 EUR (original: 89.99 EUR) en el siguiente enlace!
 
 [![Nintendo - Set De Dos Mandos Joy-Con  Co](https://m.media-amazon.com/images/I/41Ev7BJMd7L._SL200_.jpg)](https://www.amazon.es/dp/B072BZ66JL/?tag=tolees-21)
 
@@ -29,4 +29,4 @@ Tienes [Nintendo - Set De Dos Mandos Joy-Con  Color Verde Neón / Rosa Neón  Ni
 - Set compuesto por un mando Joy-Con izquierda (verde neón) y un mando Joy-Con derecha (rosa neón)
 - Cada Joy-Con contiene sus propios botones, sensor de acelerómetro y sensor de movimiento que posibilita que puedan funcionar como un mando independiente
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B072BZ66JL/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B072BZ66JL/?tag=tolees-21)
