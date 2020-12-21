@@ -25,10 +25,10 @@ Ahora mismo tienes [Nintendo Switch Lite Turquesa + Animal Crossing New Horizons
 
 🔎:
 
-- Compacta y ligera para que sea fácil de transportar.
-- Tiene los controles integrados, por lo que carece de vibración HD y de cámara infrarroja de movimiento.
-- Incluye 3 meses de suscripción a Nintendo Switch Online, para que puedas visitar otras islas, recibir invitados en la tuya y todas las ventajas multijugador y de catálogo de juegos disponibles con la suscripción.
 - Incluye un código de descarga de Animal Crossing New Horizons
+- Tiene los controles integrados, por lo que carece de vibración HD y de cámara infrarroja de movimiento.
+- Compacta y ligera para que sea fácil de transportar.
 - Enfocada al juego portátil. La consola no puede conectarse al televisor ni es compatible con la base de Nintendo Switch.
+- Incluye 3 meses de suscripción a Nintendo Switch Online, para que puedas visitar otras islas, recibir invitados en la tuya y todas las ventajas multijugador y de catálogo de juegos disponibles con la suscripción.
 
 [Visítala!!!](https://www.amazon.es/dp/B08MRQ9FTS/?tag=tolees-21)
