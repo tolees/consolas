@@ -19,11 +19,11 @@ descuento: '35.10'
 average: '557.5'
 ---
 
-Está [Sony Xperia XZ2  color plata + Marvel s Spider-Man  PS4 ](https://www.amazon.es/dp/B07NNXDHBY/?tag=tolees-21) con 35.10 de descuento por 557.5 EUR (original: 858.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sony Xperia XZ2  color plata + Marvel s Spider-Man  PS4 ](https://www.amazon.es/dp/B07NNXDHBY/?tag=tolees-21) a 557.5 EUR (original: 858.95 EUR) (35.10 %  de descuento) en el siguiente enlace!
 
 [![Sony Xperia XZ2  color plata + Marvel s ](https://images-eu.ssl-images-amazon.com/images/I/411i8PL6adL._SL200_.jpg)](https://www.amazon.es/dp/B07NNXDHBY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07NNXDHBY/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07NNXDHBY/?tag=tolees-21)

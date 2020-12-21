@@ -19,11 +19,11 @@ descuento: '57.58'
 average: '29.69'
 ---
 
-Está [Harvest Moon: La luz de la esperanza Edición Coleccionista PS4](https://www.amazon.es/dp/B07CDZFQNY/?tag=tolees-21) con 57.58 de descuento por 29.69 EUR (original: 69.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Harvest Moon: La luz de la esperanza Edición Coleccionista PS4](https://www.amazon.es/dp/B07CDZFQNY/?tag=tolees-21) a 29.69 EUR (original: 69.99 EUR) (57.58 %  de descuento) en el siguiente enlace!
 
 [![Harvest Moon: La luz de la esperanza Edi](https://images-eu.ssl-images-amazon.com/images/I/51ZvHNrsbkL._SL200_.jpg)](https://www.amazon.es/dp/B07CDZFQNY/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07CDZFQNY/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07CDZFQNY/?tag=tolees-21)
