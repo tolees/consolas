@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.91 % en LEGO Marvel Super Heroes - Edición Exclu'
-date: 2020-12-19 11:46:46
+date: 2020-12-20 23:51:12
 image: 'https://m.media-amazon.com/images/I/51aEd4XghpL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,11 +25,11 @@ Tienes [LEGO Marvel Super Heroes - Edición Exclusiva Amazon - PlayStation 4](ht
 
 ℹ️:
 
-- Deja un reguero de destrucción mientras atraviesas muros o lanzas coches utilizando tu súper fuerza
-- Descubre una ciudad de Nueva York como nunca antes, hecha de las características piezas de LEGO
-- DLC Asgard Character Pack; contiene 8 nuevos personajes: Odin, Sif, Hogun, Volstagg, Fandral y Jane Foster en el lado del bien, y los elfos Oscuros Malekith y Kurse en el equipo del mal
 - Edición exclusiva de Amazon. Incluye DLC con contenido adicional
+- Descubre una ciudad de Nueva York como nunca antes, hecha de las características piezas de LEGO
+- Deja un reguero de destrucción mientras atraviesas muros o lanzas coches utilizando tu súper fuerza
 - Golpea, esquiva y vuela en el primer juego de LEGO con más de 100 de tus superhéroes y villanos favoritos del Universo Marvel como Iron Man, Lobezno, Hulk, Spider-Man, Capitán América, Black Widow, Loki o Deadpool
+- DLC Asgard Character Pack; contiene 8 nuevos personajes: Odin, Sif, Hogun, Volstagg, Fandral y Jane Foster en el lado del bien, y los elfos Oscuros Malekith y Kurse en el equipo del mal
 - Crea personajes únicos gracias a las opciones de personalización
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B081T6JH3K/?tag=tolees-21)
