@@ -25,11 +25,11 @@ Está [Nacon Daija - Arcade Stick con Licencia Oficial para PS4 y PS3 - Compatib
 
 ℹ️:
 
+- Componentes profesionales del renombrado fabricante SANWA
 - Compatible con PS5
 - Conector para auriculares minijack 3.5 mm
-- Componentes profesionales del renombrado fabricante SANWA
 - Arcade stick con licencia oficial para PS4 y PS3
-- Amplia superficie de juego: la zona de control queda en el lateral derecho para facilitar el acceso y dejar la zona de juego solo con los botones de acción
 - Parte superior personalizable: se incluyen dos diseños y destornillador
+- Amplia superficie de juego: la zona de control queda en el lateral derecho para facilitar el acceso y dejar la zona de juego solo con los botones de acción
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07JDBWB9X/?tag=tolees-21)
