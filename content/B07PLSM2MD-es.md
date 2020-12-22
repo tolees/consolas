@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Switch Nintendo Labo: Kit de VR - Set de al 68.27 % de descuento'
-date: 2020-12-21 22:05:14
+date: 2020-12-22 22:38:19
 image: 'https://m.media-amazon.com/images/I/41Tk6DjL4iL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Ahora mismo tienes [Switch Nintendo Labo: Kit de VR - Set de expansión 2](https
 
 🔎:
 
+- Puedes crear 2 accesorios Toy-Con diferentes con este set.
 - Nintendo Labo: kit de VR permite a los niños y a toda la familia crear su primera experiencia con la realidad virtual.
 - Incluye: Pájaro toy-con; Abanico de pie toy-com.
-- Puedes crear 2 accesorios Toy-Con diferentes con este set.
 
 [Visítala!!!](https://www.amazon.es/dp/B07PLSM2MD/?tag=tolees-21)
