@@ -25,11 +25,11 @@ En este momento está [LEGO Marvel Super Heroes - Edición Exclusiva Amazon - Pl
 
 🔎:
 
-- Crea personajes únicos gracias a las opciones de personalización
-- Deja un reguero de destrucción mientras atraviesas muros o lanzas coches utilizando tu súper fuerza
-- DLC Asgard Character Pack; contiene 8 nuevos personajes: Odin, Sif, Hogun, Volstagg, Fandral y Jane Foster en el lado del bien, y los elfos Oscuros Malekith y Kurse en el equipo del mal
-- Golpea, esquiva y vuela en el primer juego de LEGO con más de 100 de tus superhéroes y villanos favoritos del Universo Marvel como Iron Man, Lobezno, Hulk, Spider-Man, Capitán América, Black Widow, Loki o Deadpool
-- Descubre una ciudad de Nueva York como nunca antes, hecha de las características piezas de LEGO
 - Edición exclusiva de Amazon. Incluye DLC con contenido adicional
+- Crea personajes únicos gracias a las opciones de personalización
+- DLC Asgard Character Pack; contiene 8 nuevos personajes: Odin, Sif, Hogun, Volstagg, Fandral y Jane Foster en el lado del bien, y los elfos Oscuros Malekith y Kurse en el equipo del mal
+- Descubre una ciudad de Nueva York como nunca antes, hecha de las características piezas de LEGO
+- Deja un reguero de destrucción mientras atraviesas muros o lanzas coches utilizando tu súper fuerza
+- Golpea, esquiva y vuela en el primer juego de LEGO con más de 100 de tus superhéroes y villanos favoritos del Universo Marvel como Iron Man, Lobezno, Hulk, Spider-Man, Capitán América, Black Widow, Loki o Deadpool
 
 [Aquí!!!](https://www.amazon.es/dp/B081T6JH3K/?tag=tolees-21)
