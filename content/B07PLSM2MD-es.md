@@ -25,8 +25,8 @@ Ahora mismo tienes [Switch Nintendo Labo: Kit de VR - Set de expansión 2](https
 
 🔎:
 
-- Puedes crear 2 accesorios Toy-Con diferentes con este set.
 - Nintendo Labo: kit de VR permite a los niños y a toda la familia crear su primera experiencia con la realidad virtual.
+- Puedes crear 2 accesorios Toy-Con diferentes con este set.
 - Incluye: Pájaro toy-con; Abanico de pie toy-com.
 
 [Visítala!!!](https://www.amazon.es/dp/B07PLSM2MD/?tag=tolees-21)

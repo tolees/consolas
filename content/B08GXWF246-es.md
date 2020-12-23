@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SIMS 4 + GP9 PS4 al 60.97 % de descuento'
-date: 2020-12-21 10:48:57
+date: 2020-12-22 23:13:31
 image: 'https://m.media-amazon.com/images/I/51KuE18GRlL._SL200_.jpg'
 comments: true
 category: ofertas
