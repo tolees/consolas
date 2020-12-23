@@ -25,10 +25,10 @@ Ahora mismo tienes [Just Dance 2020 Nintendo Switch](https://www.amazon.es/dp/B0
 
 🔎:
 
+- ¡No hacen falta accesorios adicionales para unirse a la diversión! ¡Usa tu smartphone con la aplicación Just Dance Controller
 - ¡Sé la estrella de tu propio programa! Just Dance 2020 se puede personalizar más que nunca con un sistema de recomendaciones mejorado
 - Just Dance 2020 celebra una década reuniendo a la gente con contenidos nuevos y emocionantes
-- Con Just Dance 2020, vuelven los favoritos de los fans junto con 40 nuevas canciones de moda para que disfrute toda la familia
 - ¡No pares de bailar! La fiesta nunca termina con Just Dance 2020
-- ¡No hacen falta accesorios adicionales para unirse a la diversión! ¡Usa tu smartphone con la aplicación Just Dance Controller
+- Con Just Dance 2020, vuelven los favoritos de los fans junto con 40 nuevas canciones de moda para que disfrute toda la familia
 
 [Visítala!!!](https://www.amazon.es/dp/B07SZ2TLGN/?tag=tolees-21)
