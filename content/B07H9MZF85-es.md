@@ -25,10 +25,10 @@ Tienes [Crosstour Proyector  Mini Proyector Portátil Soporte HD  Cine en Casa c
 
 ℹ️:
 
-- Easy Installation & Longer Life - P600 can be installed on a tripod or mounted on the ceiling for a better viewing experience. With a lamp life of 55,000 hours, it can be used for more than 15 years and we offer a 12-month warranty. It is your best gift choice for your lovers and friends.
-- Dual Speakers & Big Screen - Built-in surround sound speakers with which the mini projector turns your room into a great home theater. You can enjoy movies or sports games on a 34 to 176 inch large screen. No need to go to crowded theaters or cinemas anymore!
-- Wide Compatibility - With HDMI, AV, VGA, USB, 3.5mm audio and TF ports, you can easily connect to various devices such as Chromecast, Firestick, TV Box, Laptops, Blue-Ray DVD, PS4, Drives USB, speakers or headphones. You can also connect it to phones or tablets using specific HDMI adapters or wireless dongle.
-- Mini Size & Multiple Accessories - The portable projector measures only 20.3 * 15.3 * 7.6 cm and 0.89 kg, lighter than most LCD projectors. It can be easily carried outdoors. Includes various accessories: HDMI Cable, AV Cable, Power Cable, Remote Control, Manual and Lens Cover.
 - Excellent Image Quality - 2020 version, the P600 projector features higher brightness and higher brightness with 2000: 1 contrast ratio. The projector supports 1080P Full HD and thus can provide more vivid images. Softer LED light causes less eyestrain, giving you a more comfortable cinematic viewing experience.
+- Dual Speakers & Big Screen - Built-in surround sound speakers with which the mini projector turns your room into a great home theater. You can enjoy movies or sports games on a 34 to 176 inch large screen. No need to go to crowded theaters or cinemas anymore!
+- Mini Size & Multiple Accessories - The portable projector measures only 20.3 * 15.3 * 7.6 cm and 0.89 kg, lighter than most LCD projectors. It can be easily carried outdoors. Includes various accessories: HDMI Cable, AV Cable, Power Cable, Remote Control, Manual and Lens Cover.
+- Easy Installation & Longer Life - P600 can be installed on a tripod or mounted on the ceiling for a better viewing experience. With a lamp life of 55,000 hours, it can be used for more than 15 years and we offer a 12-month warranty. It is your best gift choice for your lovers and friends.
+- Wide Compatibility - With HDMI, AV, VGA, USB, 3.5mm audio and TF ports, you can easily connect to various devices such as Chromecast, Firestick, TV Box, Laptops, Blue-Ray DVD, PS4, Drives USB, speakers or headphones. You can also connect it to phones or tablets using specific HDMI adapters or wireless dongle.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07H9MZF85/?tag=tolees-21)
