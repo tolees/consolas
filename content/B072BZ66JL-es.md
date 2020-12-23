@@ -26,7 +26,7 @@ Está [Nintendo - Set De Dos Mandos Joy-Con  Color Verde Neón / Rosa Neón  Nin
 ℹ️:
 
 - El diseño incluye la sofisticada función de vibración HD
-- Set compuesto por un mando Joy-Con izquierda (verde neón) y un mando Joy-Con derecha (rosa neón)
 - Cada Joy-Con contiene sus propios botones, sensor de acelerómetro y sensor de movimiento que posibilita que puedan funcionar como un mando independiente
+- Set compuesto por un mando Joy-Con izquierda (verde neón) y un mando Joy-Con derecha (rosa neón)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B072BZ66JL/?tag=tolees-21)
