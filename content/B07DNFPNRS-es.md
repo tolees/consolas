@@ -25,9 +25,9 @@ Ahora mismo tienes [Forza Horizon 4 Standard Edition Xbox One](https://www.amazo
 
 🔎:
 
-- Ve por cuenta propia o únete a otros equipos para explorar la histórica Gran Bretaña en un mundo abierto compartido
 - Colecciona, modifica y conduce más de 450 coches
-- Compite, realiza acrobacias, crea y explora: elige tu propio camino para convertirte en una Superestrella Horizon
 - Las estaciones dinámicas lo cambian todo en el festival automovilístico
+- Ve por cuenta propia o únete a otros equipos para explorar la histórica Gran Bretaña en un mundo abierto compartido
+- Compite, realiza acrobacias, crea y explora: elige tu propio camino para convertirte en una Superestrella Horizon
 
 [Visítala!!!](https://www.amazon.es/dp/B07DNFPNRS/?tag=tolees-21)
