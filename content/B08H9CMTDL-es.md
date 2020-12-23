@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fortnite Lote: La Última Risa - PlayStat al 16.86 % de rebaja'
-date: 2020-12-22 02:28:34
+date: 2020-12-23 14:07:35
 image: 'https://m.media-amazon.com/images/I/51BaTUM+xAL._SL200_.jpg'
 comments: true
 category: ofertas
