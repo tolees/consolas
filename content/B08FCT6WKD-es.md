@@ -25,10 +25,10 @@ Está [PDP Gaming - Kit carga y juega  S/X   Xbox Series X ](https://www.amazon.
 
 ℹ️:
 
-- Funciona con Xbox Series X y Xbox One, y es compatible con los sistemas de carga ultrafinos PDP Gaming (se venden por separado).
 - Indicadores LED que parpadean durante la carga y permanecen fijos una vez finalizada esta.
+- Compatible con Xbox One, Series X/S.
+- Funciona con Xbox Series X y Xbox One, y es compatible con los sistemas de carga ultrafinos PDP Gaming (se venden por separado).
 - Juega y carga con el cable liviano de 3 m que se incluye.
 - Las baterías recargables de 1200 mAh ofrecen veinte horas de juego con una sola carga.
-- Compatible con Xbox One, Series X/S.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08FCT6WKD/?tag=tolees-21)
