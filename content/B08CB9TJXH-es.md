@@ -28,7 +28,7 @@ Tienes [ASUS RT-AX82U - Router Gaming AX5400 Doble Banda Gigabit  Compatible PS5
 - Personaliza la iluminación: puedes elegir entre una variedad de efectos ASUS Aura RGB y configurarlos para que respondan a modos específicos
 - Compatible con ASUS AiMesh: crea una red de malla para todo el hogar utilizando routers compatibles con AiMesh
 - Wi-Fi 6 de nueva generación: disfruta de hasta 5400 Mbps de velocidad y canales de 160 MHz con Wi-Fi 6 (802.11ax)
-- Red doméstica con funciones de seguridad profesional: ASUS AiProtection Pro gratuito de por vida con tecnología Trend Micro, WPA3 y controles parentales para proteger tu hogar
 - Modo para juegos de móvil: minimiza el retardo y la latencia de los juegos móviles a través de la aplicación ASUS Router
+- Red doméstica con funciones de seguridad profesional: ASUS AiProtection Pro gratuito de por vida con tecnología Trend Micro, WPA3 y controles parentales para proteger tu hogar
 
 [Comprar!!!](https://www.amazon.es/dp/B08CB9TJXH/?tag=tolees-21)
