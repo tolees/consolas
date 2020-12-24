@@ -25,10 +25,10 @@ En este momento está [Sony - Dualshock 4 V2 Mando Inalámbrico  Color Rojo  Mag
 
 🔎:
 
-- Es de la marca Sony
-- Controlador inalámbrico Dualshock 4
-- Se puede utilizar con las aplicaciones disponibles en Windows PC/Mac
 - Comunicación inalámbrica: Bluetooth Ver2.1+EDR
+- Es de la marca Sony
+- Se puede utilizar con las aplicaciones disponibles en Windows PC/Mac
 - Puertos: USB (micro B), puerto de ampliación, toma de auricular estéreo
+- Controlador inalámbrico Dualshock 4
 
 [Aquí!!!](https://www.amazon.es/dp/B01N3THRBU/?tag=tolees-21)
