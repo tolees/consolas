@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Descuento del 32.51 % en Two Point Hospital - Nintendo Switch'
-date: 2020-12-19 15:22:17
+title: 'Descuento del 20.01 % en Two Point Hospital - Nintendo Switch'
+date: 2020-12-24 07:11:19
 image: 'https://m.media-amazon.com/images/I/51ya3zcQIuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07VVRZ5XN-es'
-actualPrice: 26.99 EUR
+actualPrice: 31.99 EUR
 currency: EUR
-price: 26.99
+price: 31.99
 comparePrice: 39.99 EUR
 prodname: 'Two Point Hospital - Nintendo Switch'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07VVRZ5XN/?tag=tolees-21'
-descuento: '32.51'
-average: '30.465357142857144'
+descuento: '20.01'
+average: '30.567'
 ---
 
-Tienes [Two Point Hospital - Nintendo Switch](https://www.amazon.es/dp/B07VVRZ5XN/?tag=tolees-21) con un 32.51 % de descuento con precio de oferta de 26.99 EUR (original: 39.99 EUR) en el siguiente enlace!
+Tienes [Two Point Hospital - Nintendo Switch](https://www.amazon.es/dp/B07VVRZ5XN/?tag=tolees-21) con un 20.01 % de descuento con precio de oferta de 31.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![Two Point Hospital - Nintendo Switch](https://m.media-amazon.com/images/I/51ya3zcQIuL._SL200_.jpg)](https://www.amazon.es/dp/B07VVRZ5XN/?tag=tolees-21)
 
