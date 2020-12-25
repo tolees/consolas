@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Dualshock 4 V2 Mando Inalámbrico  con un 16.85 % de descuento'
-date: 2020-12-24 08:11:34
+date: 2020-12-25 08:29:29
 image: 'https://m.media-amazon.com/images/I/41n8FWC2sEL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01N3THRBU/?tag=tolees-21'
 descuento: '16.85'
-average: '60.4454054054054'
+average: '60.32052631578947'
 ---
 
 En este momento está [Sony - Dualshock 4 V2 Mando Inalámbrico  Color Rojo  Magma Red   PS4 ](https://www.amazon.es/dp/B01N3THRBU/?tag=tolees-21) a 55.7 EUR (original: 66.99 EUR) (16.85 %  de descuento) en el siguiente enlace!
@@ -25,10 +25,10 @@ En este momento está [Sony - Dualshock 4 V2 Mando Inalámbrico  Color Rojo  Mag
 
 🔎:
 
-- Comunicación inalámbrica: Bluetooth Ver2.1+EDR
 - Es de la marca Sony
-- Se puede utilizar con las aplicaciones disponibles en Windows PC/Mac
 - Puertos: USB (micro B), puerto de ampliación, toma de auricular estéreo
+- Se puede utilizar con las aplicaciones disponibles en Windows PC/Mac
 - Controlador inalámbrico Dualshock 4
+- Comunicación inalámbrica: Bluetooth Ver2.1+EDR
 
 [Aquí!!!](https://www.amazon.es/dp/B01N3THRBU/?tag=tolees-21)
