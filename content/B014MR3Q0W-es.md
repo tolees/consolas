@@ -25,9 +25,9 @@ Tienes [PowerA - Estuche De Transporte Legend Of Zelda: Adventurer  Nintendo 3DS
 
 ℹ️:
 
-- El paño de limpieza Peel & Stick de Hyrule
 - Tiene 2 tarjetas de juego
 - Cuero sintético con lazo de cinturón
+- El paño de limpieza Peel & Stick de Hyrule
 - 2 lápices (Espada Maestra y escudo de Hylian)
 - Funciona con todos los sistemas Nintendo DS
 
