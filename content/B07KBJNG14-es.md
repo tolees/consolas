@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Playstation 4 Pro  PS4  Consola de  al 19.51 % de rebaja'
-date: 2020-12-25 14:24:38
+date: 2020-12-26 15:07:01
 image: 'https://m.media-amazon.com/images/I/41lmCP5X00L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07KBJNG14/?tag=tolees-21'
 descuento: '19.51'
-average: '399.8929126213592'
+average: '398.5614285714285'
 ---
 
 Tienes [Sony Playstation 4 Pro  PS4  Consola de 1TB + 20 euros Tarjeta Prepago  Edición Exclusiva Amazon  - nuevo chasis G](https://www.amazon.es/dp/B07KBJNG14/?tag=tolees-21) con precio final de  329.99 EUR (original: 409.99 EUR) (19.51 %  de rebaja) aqui!
@@ -25,12 +25,12 @@ Tienes [Sony Playstation 4 Pro  PS4  Consola de 1TB + 20 euros Tarjeta Prepago  
 
 🔎:
 
-- Este producto está disponible exclusivamente en Amazon
-- Tipo de producto: consola PS4 Pro
-- Juegos en 4 K dinámico
-- Capacidad: 1TB
 - Tiene GPU con el doble de potencia que la PS4 estándar
+- Tipo de producto: consola PS4 Pro
 - Podrás utilizar los 20 euros de tu monedero virtual también con el juego Fortnite
+- Juegos en 4 K dinámico
 - Incluye tarjeta prepago de PlayStation para recargar tu monedero virtual con 20 €
+- Capacidad: 1TB
+- Este producto está disponible exclusivamente en Amazon
 
 [Comprar!!!](https://www.amazon.es/dp/B07KBJNG14/?tag=tolees-21)
