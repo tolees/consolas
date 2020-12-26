@@ -19,7 +19,7 @@ paginate = 30
   copyright = ""
   sidebarAbout = []
   # Enable Google Analytics by entering your tracking code
-  gtag = G-1BKKRPRJ18
+  gtag="G-1BKKRPRJ18"
   yandex = ""
 
   # Nav links in the side bar
