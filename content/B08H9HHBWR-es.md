@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Just Dance 2021 PS4 al 31.78 % de rebaja'
-date: 2020-12-23 11:04:54
+title: 'Just Dance 2021 PS4 al 41.70 % de rebaja'
+date: 2020-12-27 20:31:45
 image: 'https://m.media-amazon.com/images/I/51N-79lmfjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B08H9HHBWR-es'
-actualPrice: 34.99 EUR
+actualPrice: 29.9 EUR
 currency: EUR
-price: 34.99
+price: 29.9
 comparePrice: 51.29 EUR
 prodname: 'Just Dance 2021 PS4'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08H9HHBWR/?tag=tolees-21'
-descuento: '31.78'
-average: '37.617999999999995'
+descuento: '41.70'
+average: '36.33166666666666'
 ---
 
-Tienes [Just Dance 2021 PS4](https://www.amazon.es/dp/B08H9HHBWR/?tag=tolees-21) con precio final de  34.99 EUR (original: 51.29 EUR) (31.78 %  de rebaja) aqui!
+Tienes [Just Dance 2021 PS4](https://www.amazon.es/dp/B08H9HHBWR/?tag=tolees-21) con precio final de  29.9 EUR (original: 51.29 EUR) (41.70 %  de rebaja) aqui!
 
 [![Just Dance 2021 PS4](https://m.media-amazon.com/images/I/51N-79lmfjL._SL200_.jpg)](https://www.amazon.es/dp/B08H9HHBWR/?tag=tolees-21)
 
