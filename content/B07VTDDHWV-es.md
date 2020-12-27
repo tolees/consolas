@@ -25,10 +25,10 @@ Ahora mismo tienes [PDP Gaming - Auriculares Con Cable LVL40 Con Licencia Oficia
 
 🔎:
 
+- Compatible con Nintendo Switch & Lite
 - Escucha todas las instrucciones con sus potentes auriculares de audio de 40 mm.
+- Compatible con Waves Sound Sony para que puedas disfrutar del sonido espacial jugando en Nintendo Switch
 - Diseño transpirable y ligero para largas sesiones de juego.
 - El micrófono bidireccional con cancelación de ruido brinda una comunicación clara; además, puedes silenciar tu micrófono con solo subirlo en un rápido movimiento.
-- Compatible con Waves Sound Sony para que puedas disfrutar del sonido espacial jugando en Nintendo Switch
-- Compatible con Nintendo Switch & Lite
 
 [Visítala!!!](https://www.amazon.es/dp/B07VTDDHWV/?tag=tolees-21)
