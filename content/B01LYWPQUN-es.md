@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Dualshock 4 V2 Mando Inalámbrico  al 33.49 % de descuento'
-date: 2020-12-24 16:11:50
+date: 2020-12-28 19:12:13
 image: 'https://m.media-amazon.com/images/I/51+CVDEeATL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01LYWPQUN/?tag=tolees-21'
 descuento: '33.49'
-average: '60.61270833333335'
+average: '60.19000000000002'
 ---
 
 Está [Sony - Dualshock 4 V2 Mando Inalámbrico  Color Negro V2  PS4 ](https://www.amazon.es/dp/B01LYWPQUN/?tag=tolees-21) con 33.49 de descuento por 39.9 EUR (original: 59.99 EUR) en el siguiente enlace!
@@ -25,8 +25,8 @@ Está [Sony - Dualshock 4 V2 Mando Inalámbrico  Color Negro V2  PS4 ](https://w
 
 ℹ️:
 
-- Para PS4
 - Es de la marca Sony
+- Para PS4
 - Controlador inalámbrico Dualshock 4
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01LYWPQUN/?tag=tolees-21)
