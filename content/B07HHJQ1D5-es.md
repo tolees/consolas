@@ -25,7 +25,7 @@ Tienes [Sony PlayStation - Consola Classic + 2 mandos](https://www.amazon.es/dp/
 
 ℹ️:
 
-- Incluye 20 juegos clásicos preinstalados
 - Contenido de la caja: consola, cable HDMI, dos mandos de PS1 originales y un cable USB de carga sin adaptador de corriente
+- Incluye 20 juegos clásicos preinstalados
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HHJQ1D5/?tag=tolees-21)
