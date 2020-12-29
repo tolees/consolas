@@ -25,9 +25,9 @@ Está [Darksiders Genesis - Nintendo Switch](https://www.amazon.es/dp/B07SQFZX1Z
 
 ℹ️:
 
+- Lucifer está planeando dar un gran poder a los grandes demonios de todo el infierno
 - Guerra y Lucha han recibido una nueva misión
 - Guerra y Lucha deberán de cazar a estos demonios
-- Lucifer está planeando dar un gran poder a los grandes demonios de todo el infierno
 - Lucha para evitar la enrevesada conspiración demoníaca que amenaza con destruir el equilibrio para siempre y eliminar a toda la existencia
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07SQFZX1Z/?tag=tolees-21)
