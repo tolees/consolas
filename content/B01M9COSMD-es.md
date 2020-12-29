@@ -25,8 +25,8 @@ Tienes [Red Dead Redemption 2  PS4 ](https://www.amazon.es/dp/B01M9COSMD/?tag=to
 
 🔎:
 
-- Una banda de forajidos, renegados y parias unidos bajo el liderazgo del carismático e idealista Dutch van der Linde
-- Diversos hábitats y climas con unas doscientas especies de animales terrestres, aves y peces
 - Descubre algunas de las ciudades que conforman el vasto y variado mundo del juego
+- Diversos hábitats y climas con unas doscientas especies de animales terrestres, aves y peces
+- Una banda de forajidos, renegados y parias unidos bajo el liderazgo del carismático e idealista Dutch van der Linde
 
 [Comprar!!!](https://www.amazon.es/dp/B01M9COSMD/?tag=tolees-21)
