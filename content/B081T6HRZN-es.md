@@ -25,11 +25,11 @@ Está [LEGO Los Increibles - Edición Exclusiva Amazon - Nintendo Switch](https:
 
 ℹ️:
 
+- Dos películas, un juego: los jugadores podrán vivir las apasionantes aventuras de la superheroica familia Parr de nuevas maneras mientras se adentran en sus momentos favoritos de las películas Los Increíbles y Los Increíbles 2 en un mundo LEGO lleno de diversión y sorpresas
+- Edición exclusiva de Amazon. Incluye DLC con contenido adicional
 - Personalización de personajes con un nuevo giro: los jugadores pueden modificar el aspecto de su personaje y sus habilidades
 - Oleadas de delincuencia en los distritos de la ciudad
-- Dos películas, un juego: los jugadores podrán vivir las apasionantes aventuras de la superheroica familia Parr de nuevas maneras mientras se adentran en sus momentos favoritos de las películas Los Increíbles y Los Increíbles 2 en un mundo LEGO lleno de diversión y sorpresas
-- El trabajo en familia es la clave: los jugadores deberán trabajar en equipo y combinar las emblemáticas habilidades y los extraordinarios poderes de la familia Parr para construir asombrosas y descomunales estructuras LEGO
 - DLC Parr Family Vacation Pack; disfruta jugando como tu superfamilia favorita durante sus vacaciones con este pack de personajes Vacaciones de la familia Parr; este pack de personajes incluye: Bob Parr, Helen Parr, Violet Parr, Dash Parr, JackJack Parr y Lucius Best
-- Edición exclusiva de Amazon. Incluye DLC con contenido adicional
+- El trabajo en familia es la clave: los jugadores deberán trabajar en equipo y combinar las emblemáticas habilidades y los extraordinarios poderes de la familia Parr para construir asombrosas y descomunales estructuras LEGO
 
 [Ver la oferta!!](https://www.amazon.es/dp/B081T6HRZN/?tag=tolees-21)
