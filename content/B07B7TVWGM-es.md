@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Super Chariot  Nintendo Switch  al 29.98 % de descuento'
-date: 2020-12-19 11:15:36
+date: 2020-12-29 08:11:40
 image: 'https://m.media-amazon.com/images/I/51irPu5EexL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B7TVWGM/?tag=tolees-21'
 descuento: '29.98'
-average: '19.91090909090909'
+average: '20.078461538461536'
 ---
 
 Ahora mismo tienes [Super Chariot  Nintendo Switch ](https://www.amazon.es/dp/B07B7TVWGM/?tag=tolees-21) a 21.0 EUR (original: 29.99 EUR) (29.98 %  de descuento) en el siguiente enlace!
@@ -25,9 +25,9 @@ Ahora mismo tienes [Super Chariot  Nintendo Switch ](https://www.amazon.es/dp/B0
 
 🔎:
 
+- Juega con un amigo en el modo multijugador local: haz que tu Nintendo Switch(R) vibre en modo TV o Sobremesa
+- Os esperan desafíos épicos a los dos: ¡la cooperación es la clave para superarlos
 - Maravillosos mundos en 2D, repletos de personajes y objetos únicos
 - Más de 60 horas de juego te esperan mientras avanzas por 25 niveles salpicados de senderos secretos y tesoros abundantes
-- Os esperan desafíos épicos a los dos: ¡la cooperación es la clave para superarlos
-- Juega con un amigo en el modo multijugador local: haz que tu Nintendo Switch(R) vibre en modo TV o Sobremesa
 
 [Visítala!!!](https://www.amazon.es/dp/B07B7TVWGM/?tag=tolees-21)
