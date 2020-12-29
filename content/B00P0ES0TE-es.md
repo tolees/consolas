@@ -26,9 +26,9 @@ Tienes [UGREEN Cable Alargador USB 3.0 Cable Extensor 2 Pack USB 3.0 Tipo A Mach
 ℹ️:
 
 - Simplemente enchufar el USB macho al ordenador, televisor o cualquier aparato que quiere alargar, el USB hembra se queda listo para conectar los USB periféricos como impresora, teclado, ratón, pendrive, teléfono VoIP, disco duro, cámara digital, webcam, pincho wifi, mando de Xbox o PS3, BT receptores y etc.
+- Cable Alargador USB 3.0 cuenta con conetores dorados y resistentes a corrosión para garantizar la transmisión óptima, y el apantallamiento que lleva puede proteger efectivamente contra ruido de señales electromagnéticas. Sirve como protección adecuada para los USB puertos que se conectan y desconectan con gran frecuencia.
 - USB 3.0 Macho a Hembra permite una velocidad de transmisión de hasta 5 Gbps, retrocompatible con la versión anterior USB 1.1 y USB 2.0, que le explora al máximo los rendimientos de sus USB periféricos
 - Cable alargador USB 3.0 Macho a Hembra para darle distancia extra y más comodidad de uso. Le permite conectar dos dispositivos alejados entre sí y al mismo tiempo proteger puertos del ordenador, TV o radio de coche contra frecuentes enchufes y desenchufes. Para Playstations, Xboxes, unidades flash USB, lectores de tarjetas, discos duros, teclados, impresoras, escáneres, cámaras.
-- Cable Alargador USB 3.0 cuenta con conetores dorados y resistentes a corrosión para garantizar la transmisión óptima, y el apantallamiento que lleva puede proteger efectivamente contra ruido de señales electromagnéticas. Sirve como protección adecuada para los USB puertos que se conectan y desconectan con gran frecuencia.
 - Es una opción ideal para hacer accesible el puerto USB del TV, sin tener que dar la vuelta o menear el televisor cada vez que quiere conectar algo. También simplifica el uso de dispositivo que tiene difícil accesibilidad de USB, como torre de ordenador que tiene la usb conexión por detrás y a su vez está debajo del escritorio.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00P0ES0TE/?tag=tolees-21)
