@@ -25,8 +25,8 @@ En este momento está [Sony - Dualshock 4 V2 Mando Inalámbrico  Color Verde Cam
 
 🔎:
 
-- Controlador inalámbrico Dualshock 4
 - Se puede utilizar con las aplicaciones disponibles en Windows PC/Mac
 - Es de la marca Sony
+- Controlador inalámbrico Dualshock 4
 
 [Aquí!!!](https://www.amazon.es/dp/B01MT8UETS/?tag=tolees-21)
