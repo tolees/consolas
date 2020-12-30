@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Super Chariot  Nintendo Switch  al 29.98 % de descuento'
-date: 2020-12-29 08:11:40
+date: 2020-12-30 14:11:24
 image: 'https://m.media-amazon.com/images/I/51irPu5EexL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07B7TVWGM/?tag=tolees-21'
 descuento: '29.98'
-average: '20.078461538461536'
+average: '20.20133333333333'
 ---
 
 Ahora mismo tienes [Super Chariot  Nintendo Switch ](https://www.amazon.es/dp/B07B7TVWGM/?tag=tolees-21) a 21.0 EUR (original: 29.99 EUR) (29.98 %  de descuento) en el siguiente enlace!
