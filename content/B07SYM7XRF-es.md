@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Immortals Fenyx Rising PS4 al 38.52 % de descuento'
-date: 2020-12-26 23:10:51
+date: 2020-12-30 08:52:08
 image: 'https://m.media-amazon.com/images/I/51nlUxhzk+L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07SYM7XRF/?tag=tolees-21'
 descuento: '38.52'
-average: '48.248333333333335'
+average: '46.16125'
 ---
 
 Ahora mismo tienes [Immortals Fenyx Rising PS4](https://www.amazon.es/dp/B07SYM7XRF/?tag=tolees-21) a 39.9 EUR (original: 64.9 EUR) (38.52 %  de descuento) en el siguiente enlace!
