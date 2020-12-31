@@ -25,10 +25,10 @@ Tienes [Watch Dogs Legion Limited Edition Amazon PS5](https://www.amazon.es/dp/B
 
 🔎:
 
-- Explore a massive urban open world and fight to liberate London’s many famous landmarks—including Trafalgar Square, Big Ben, Tower Bridge, Camden, Piccadilly Circus, or the London Eye
 - Play the game the way you want. Build a team with a huge range of characters to choose from
-- Play as anyone: Recruit anyone from the entire population of London into your resistance
-- The Limited Edition includes:Digital content, The London Dissident Pack: unlock three new masks to lead your resistance with style
 - World-class music artist, Stormzy will feature in his own mission ‘Fall on My Enemies’ will see Stormzy enlisting the resistance group to protect the broadcast of his track Rainfall in central London
+- Play as anyone: Recruit anyone from the entire population of London into your resistance
+- Explore a massive urban open world and fight to liberate London’s many famous landmarks—including Trafalgar Square, Big Ben, Tower Bridge, Camden, Piccadilly Circus, or the London Eye
+- The Limited Edition includes:Digital content, The London Dissident Pack: unlock three new masks to lead your resistance with style
 
 [Comprar!!!](https://www.amazon.es/dp/B08FC1S9YB/?tag=tolees-21)
