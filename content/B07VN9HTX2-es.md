@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xbox One S Gears 5 al 16.39 % de descuento'
-date: 2020-12-29 22:13:41
+date: 2020-12-30 22:16:49
 image: 'https://m.media-amazon.com/images/I/51UEiFt5+gL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07VN9HTX2/?tag=tolees-21'
 descuento: '16.39'
-average: '286.7997530864197'
+average: '285.91277108433724'
 ---
 
 Ahora mismo tienes [Xbox One S Gears 5](https://www.amazon.es/dp/B07VN9HTX2/?tag=tolees-21) a 249.99 EUR (original: 299.0 EUR) (16.39 %  de descuento) en el siguiente enlace!
