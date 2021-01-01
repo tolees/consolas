@@ -25,10 +25,10 @@ Está [Exlene® Nintendo 3DS USB cable cargador de la energía Juega mientras se
 
 ℹ️:
 
-- Rojo, Azul, Negro, Blanco colores disponibles.
-- Puede ser utilizado en el hogar, en la oficina o en movimiento, en cualquier lugar puede acceder a una toma USB para la carga.
-- Adecuada para Nintendo 3DS, 3DS XL, 2DS, DSi, DSi XL Consolas.
 - De grosor 24 AWG de cobre para una baja resistencia, produciendo carga más rápida en el tiempo más corto en comparación con la mayoría de las opciones.
 - Nintendo DSI NDSI USB cable de carga de energía está diseñado y certificado para el rendimiento, durabilidad y seguridad.
+- Adecuada para Nintendo 3DS, 3DS XL, 2DS, DSi, DSi XL Consolas.
+- Puede ser utilizado en el hogar, en la oficina o en movimiento, en cualquier lugar puede acceder a una toma USB para la carga.
+- Rojo, Azul, Negro, Blanco colores disponibles.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01JKLOVHM/?tag=tolees-21)
