@@ -25,11 +25,11 @@ En este momento está [Tennis World Tour 2 PS4 [Version Española]](https://www.
 
 🔎:
 
+- 1 formato de competición: Tie Break Tens
 - Múltiples estadios oficiales, entre ellos la cancha de Manolo Santana en Madrid y el OWL Arena en Halle
 - 38 estrellas del tenis: los nombres más importantes se presentan este año, incluidos Rafael Nadal, Roger Federer y Ashleigh Barty
-- 1 formato de competición: Tie Break Tens
+- Con un juego más realista y la posibilidad de jugar como las estrellas de tenis más grandes en competiciones de fama mundial, Tennis World Tour 2 es un simulador desarrollado para complacer tanto a los fans del tenis como a los jugadores más exigentes.
 - Múltiples modos de juego: Carrera, Partida rápida, En línea, Torneo, Partidas clasificatorias y Tie Break Decenas: hay un formato para cada jugador
 - Características muy esperadas: la capacidad de jugar partidos de dobles con hasta 4 jugadores localmente y en línea, un sistema de servicio mejorado y una nueva mecánica de sincronización de tiros
-- Con un juego más realista y la posibilidad de jugar como las estrellas de tenis más grandes en competiciones de fama mundial, Tennis World Tour 2 es un simulador desarrollado para complacer tanto a los fans del tenis como a los jugadores más exigentes.
 
 [Aquí!!!](https://www.amazon.es/dp/B08GTGFYJJ/?tag=tolees-21)
