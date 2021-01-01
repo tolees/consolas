@@ -26,9 +26,9 @@ En este momento está [UGREEN Adaptador de Red USB 3.0 a Gigabit Ethernet  USB 3
 🔎:
 
 - COMPATIBILIDAD MEJORADA: El adaptador LAN trata de un accesorio necesario para su ordenador portátil o sobremesa, iMac, Macbook o Raspberry Pi. Admite principales sistemas operativos 32 y 64bits de Windows 10 / 8 / 8.1 / 7 / Vista / XP, Mac OS v10.6 y superior como El Captain/Yosemite/MacOS Sierra, ChromeOS y el Linux Ubuntu/Debian, etc.
-- COMPACTO Y PORTABLE: Su diseño pequeño y peso ligero lo hace muy cómodo de llevar. Simplemente metirlo en cualquier bolsa o mochila puedes llevar donde quieras.
-- PARA NINTENDO SWITCH: Este Adaptador usb a RJ45 viene con el chipset AX88179 integrado, el mismo chipset que el adaptador LAN oficial, funciona perfectamente con el Nintendo Switch para jugar online en Modo Televisor, sin tener que realizar ninguna configuración. Con conexión de cable para el Switch Dock se evitan efectivamente las desconexiones como puede pasar con el WiFi.
 - CONEXIÓN GIGABIT ETHERNET: USB 3.0 ethernet adaptador de red te ofrece una manera eficiente y práctica para sustituir la tarjeta de red averiada de la placa, o mejorar la conexión LAN por Gigabit 1000Mbps GigaE.
+- PARA NINTENDO SWITCH: Este Adaptador usb a RJ45 viene con el chipset AX88179 integrado, el mismo chipset que el adaptador LAN oficial, funciona perfectamente con el Nintendo Switch para jugar online en Modo Televisor, sin tener que realizar ninguna configuración. Con conexión de cable para el Switch Dock se evitan efectivamente las desconexiones como puede pasar con el WiFi.
 - CD DRIVER INCLUIDO: En el paquete viene con un CD driver e instrucciones incluidas. Sencillamente instalar por primera vez el driver controlador correspondiente mediante el CD o bajarlo desde la página del fabricante, conéctalo y listo para navegar. Para Windows 8/8.1/10, funciona de forma enchufar y jugar, sin driver necesitado. Si su ordenador con Mac OS 10.5 posteriores, puede contactarnos para enviarle un driver de nuevo versión.
+- COMPACTO Y PORTABLE: Su diseño pequeño y peso ligero lo hace muy cómodo de llevar. Simplemente metirlo en cualquier bolsa o mochila puedes llevar donde quieras.
 
 [Aquí!!!](https://www.amazon.es/dp/B00MYTSN18/?tag=tolees-21)
