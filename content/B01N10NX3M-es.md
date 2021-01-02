@@ -25,7 +25,7 @@ En este momento está [Nintendo - Adaptador De Corriente  Nintendo Switch ](http
 
 🔎:
 
-- Conexión USB-C compatible con Nintendo Switch
 - Cable USB integrado
+- Conexión USB-C compatible con Nintendo Switch
 
 [Aquí!!!](https://www.amazon.es/dp/B01N10NX3M/?tag=tolees-21)
