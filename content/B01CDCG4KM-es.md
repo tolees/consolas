@@ -25,10 +25,10 @@ Tienes [Fosmon Dual Base de Cargador Compatible con Mando Xbox One/One S/One X/E
 
 🔎:
 
-- [CARGADOR DE CONTROLADOR XBOX ONE] ¡Despídase de las pilas AA! Con el cargador del controlador Xbox One de Fosmon, ya no necesitarás seguir comprando baterías para tu controlador - xbox one carga y juega
-- [MAYOR VELOCIDAD DE LA BATERÍA] Los paquetes de baterías NiMH de la estación de carga 1000mah de la estación de carga Xbox One de Fosmon brindan hasta 30-33 horas de tiempo de reproducción.
-- [FÁCIL DE USAR] Cuando no esté jugando, simplemente coloque el Controlador Xbox One equipado en la Estación de Carga y comenzará a cargarse automáticamente sin necesidad de quitar la batería. El indicador LED verde parpadeará cuando el controlador se esté cargando y se mantendrá encendido para indicar que la carga está completa.
-- [GARANTÍA LIMITADA DE POR VIDA] Este producto viene con una garantía limitada de por vida. Por favor, consulte el sitio web de Fosmon para más información.
 - [COMPATIBLE CON CONTROLADORES XBOX ONE / ONE S / ONE X / Elite] Esta estación de carga de controlador funciona para los controladores X / One One / One X / Elite
+- [MAYOR VELOCIDAD DE LA BATERÍA] Los paquetes de baterías NiMH de la estación de carga 1000mah de la estación de carga Xbox One de Fosmon brindan hasta 30-33 horas de tiempo de reproducción.
+- [GARANTÍA LIMITADA DE POR VIDA] Este producto viene con una garantía limitada de por vida. Por favor, consulte el sitio web de Fosmon para más información.
+- [CARGADOR DE CONTROLADOR XBOX ONE] ¡Despídase de las pilas AA! Con el cargador del controlador Xbox One de Fosmon, ya no necesitarás seguir comprando baterías para tu controlador - xbox one carga y juega
+- [FÁCIL DE USAR] Cuando no esté jugando, simplemente coloque el Controlador Xbox One equipado en la Estación de Carga y comenzará a cargarse automáticamente sin necesidad de quitar la batería. El indicador LED verde parpadeará cuando el controlador se esté cargando y se mantendrá encendido para indicar que la carga está completa.
 
 [Comprar!!!](https://www.amazon.es/dp/B01CDCG4KM/?tag=tolees-21)
