@@ -25,10 +25,10 @@ Ahora mismo tienes [Fade to Silence - Xbox One](https://www.amazon.es/dp/B07P6GS
 
 🔎:
 
-- Expediciones con trineo de lobos: prepara el trineo, elige a un compañero y embárcate en expediciones de larga duración hacia las regiones más alejadas
-- Lucha contra espeluznantes criaturas cada vez más peligrosas que recorren un mundo apocalíptico
-- Sistema de combate: sistema de armas por niveles, combate cuerpo a cuerpo y a distancia
-- Decisiones morales: salva y recluta a varios PNJ que se unirán a tu grupo; tendrás que tomar decisiones difíciles; ¿quién te acompañará y quién se quedará atrás
 - Explora un extenso paisaje invernal: en la versión de lanzamiento puedes explorar el delta de un río, una densa región boscosa y campos de cultivo
+- Decisiones morales: salva y recluta a varios PNJ que se unirán a tu grupo; tendrás que tomar decisiones difíciles; ¿quién te acompañará y quién se quedará atrás
+- Lucha contra espeluznantes criaturas cada vez más peligrosas que recorren un mundo apocalíptico
+- Expediciones con trineo de lobos: prepara el trineo, elige a un compañero y embárcate en expediciones de larga duración hacia las regiones más alejadas
+- Sistema de combate: sistema de armas por niveles, combate cuerpo a cuerpo y a distancia
 
 [Visítala!!!](https://www.amazon.es/dp/B07P6GSLN7/?tag=tolees-21)
