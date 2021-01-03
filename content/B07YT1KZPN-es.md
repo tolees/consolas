@@ -26,9 +26,9 @@ Está [Razer Kraken Ultimate Auriculares Gaming USB  Con Micrófono con cancelac
 ℹ️:
 
 - Iluminación inferior RGB Razer Chroma: Con 16.8 millones de colores y una gama de efectos, las almohadillas de los auriculares se iluminan con una iluminación inferior que se puede ajustar para lograr un estilo verdaderamente personalizado
-- THX Spatial Audio: Hazte con la ventaja competitiva: localiza a tus oponentes con alta precisión y consciencia utilizando un audio posicional preciso y distintivo que te permite localizar a tus oponentes incluso antes de que estén a la vista
-- Micrófono con cancelación activa de ruido: Garantiza la adecuada claridad al transmitir información a tu equipo, con un micrófono de gran precisión que cancela eficazmente el ruido de fondo, como el del ventilador, el aire acondicionado o el equipo
 - Almohadillas de gel refrigerante y aptas para su uso con gafas: Para una comodidad duradera
+- Micrófono con cancelación activa de ruido: Garantiza la adecuada claridad al transmitir información a tu equipo, con un micrófono de gran precisión que cancela eficazmente el ruido de fondo, como el del ventilador, el aire acondicionado o el equipo
+- THX Spatial Audio: Hazte con la ventaja competitiva: localiza a tus oponentes con alta precisión y consciencia utilizando un audio posicional preciso y distintivo que te permite localizar a tus oponentes incluso antes de que estén a la vista
 - Estructura de aluminio de bauxita con un acolchado más grueso: Peso ligero, duradero y flexible; el acolchado de la diadema alivia la presión sobre la cabeza, para que los auriculares resulten aún más ligeros
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07YT1KZPN/?tag=tolees-21)
