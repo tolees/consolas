@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.01 % en Hunt : Showdown - PS4'
-date: 2020-12-22 22:49:25
+date: 2021-01-03 12:04:52
 image: 'https://m.media-amazon.com/images/I/51GG8TpVguL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07V1ZGD5F/?tag=tolees-21'
 descuento: '50.01'
-average: '26.699090909090906'
+average: '25.666923076923073'
 ---
 
 Tienes [Hunt : Showdown - PS4](https://www.amazon.es/dp/B07V1ZGD5F/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!
@@ -25,10 +25,10 @@ Tienes [Hunt : Showdown - PS4](https://www.amazon.es/dp/B07V1ZGD5F/?tag=tolees-2
 
 ℹ️:
 
-- Los jugadores se sumergirán en un mundo totalmente creíble y rico en detalles, lleno de tonos oscuros que mantiene a los jugadores preguntándose, ¿qué hay detrás de esa esquina? Enemigos reales, monstruos reales, tensión real
-- Elige tu propio estilo y resuelve los problemas que te encuentres a tu manera; usa herramientas, tácticas y un rico entorno para volver las adversidades en tu favor
-- Si cuanto más alto es el riesgo, mayor es la recompensa, apuesta tu vida
 - Lucha por una recompensa contra otros equipos de cazadores en un mundo lleno de enemigos desafiantes en partidas de 20 a 40 minutos
+- Si cuanto más alto es el riesgo, mayor es la recompensa, apuesta tu vida
+- Elige tu propio estilo y resuelve los problemas que te encuentres a tu manera; usa herramientas, tácticas y un rico entorno para volver las adversidades en tu favor
 - Gana recompensas y mejoras a coste de perder a tu personaje para siempre
+- Los jugadores se sumergirán en un mundo totalmente creíble y rico en detalles, lleno de tonos oscuros que mantiene a los jugadores preguntándose, ¿qué hay detrás de esa esquina? Enemigos reales, monstruos reales, tensión real
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07V1ZGD5F/?tag=tolees-21)
