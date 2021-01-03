@@ -1,34 +1,34 @@
 ---
 layout: post
-title: 'Descuento del 30.00 % en Crosstour Proyector  Mini Proyector Port'
-date: 2020-12-28 20:29:30
+title: 'Descuento del 27.00 % en Crosstour Proyector  Mini Proyector Port'
+date: 2021-01-03 07:15:37
 image: 'https://m.media-amazon.com/images/I/41jcP0QChqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07H9MZF85-es'
-actualPrice: 69.99 EUR
+actualPrice: 72.99 EUR
 currency: EUR
-price: 69.99
+price: 72.99
 comparePrice: 99.99 EUR
 prodname: 'Crosstour Proyector  Mini Proyector Portátil Soporte HD  Cine en Casa con Control Remoto  55000 Horas Vida  Altavoces Duales Compatible con HDMI USB SD Chromecast PS4  Cable HDMI/AV Incluido '
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07H9MZF85/?tag=tolees-21'
-descuento: '30.00'
-average: '67.59464285714286'
+descuento: '27.00'
+average: '67.78068965517242'
 ---
 
-Tienes [Crosstour Proyector  Mini Proyector Portátil Soporte HD  Cine en Casa con Control Remoto  55000 Horas Vida  Altavoces Duales Compatible con HDMI USB SD Chromecast PS4  Cable HDMI/AV Incluido ](https://www.amazon.es/dp/B07H9MZF85/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 69.99 EUR (original: 99.99 EUR) en el siguiente enlace!
+Tienes [Crosstour Proyector  Mini Proyector Portátil Soporte HD  Cine en Casa con Control Remoto  55000 Horas Vida  Altavoces Duales Compatible con HDMI USB SD Chromecast PS4  Cable HDMI/AV Incluido ](https://www.amazon.es/dp/B07H9MZF85/?tag=tolees-21) con un 27.00 % de descuento con precio de oferta de 72.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![Crosstour Proyector  Mini Proyector Port](https://m.media-amazon.com/images/I/41jcP0QChqL._SL200_.jpg)](https://www.amazon.es/dp/B07H9MZF85/?tag=tolees-21)
 
 ℹ️:
 
-- Easy Installation & Longer Life - P600 can be installed on a tripod or mounted on the ceiling for a better viewing experience. With a lamp life of 55,000 hours, it can be used for more than 15 years and we offer a 12-month warranty. It is your best gift choice for your lovers and friends.
-- Mini Size & Multiple Accessories - The portable projector measures only 20.3 * 15.3 * 7.6 cm and 0.89 kg, lighter than most LCD projectors. It can be easily carried outdoors. Includes various accessories: HDMI Cable, AV Cable, Power Cable, Remote Control, Manual and Lens Cover.
-- Excellent Image Quality - 2020 version, the P600 projector features higher brightness and higher brightness with 2000: 1 contrast ratio. The projector supports 1080P Full HD and thus can provide more vivid images. Softer LED light causes less eyestrain, giving you a more comfortable cinematic viewing experience.
-- Wide Compatibility - With HDMI, AV, VGA, USB, 3.5mm audio and TF ports, you can easily connect to various devices such as Chromecast, Firestick, TV Box, Laptops, Blue-Ray DVD, PS4, Drives USB, speakers or headphones. You can also connect it to phones or tablets using specific HDMI adapters or wireless dongle.
-- Dual Speakers & Big Screen - Built-in surround sound speakers with which the mini projector turns your room into a great home theater. You can enjoy movies or sports games on a 34 to 176 inch large screen. No need to go to crowded theaters or cinemas anymore!
+- Fácil instalación y mayor vida útil: el P600 se puede instalar en un trípode o montar en el techo para una mejor experiencia de visualización. Con una vida útil de la lámpara de 55.000 horas, se puede utilizar durante más de 15 años y ofrecemos una garantía de 12 meses. Es su mejor opción de regalo para sus amantes y amigos.
+- Excelente calidad de imagen: versión 2020, el proyector P600 presenta mayor brillo y mayor brillo con una relación de contraste de 2000: 1. El proyector admite 1080P Full HD y, por lo tanto, puede proporcionar imágenes más vívidas. La luz LED más suave provoca menos fatiga visual, lo que le brinda una experiencia de visualización cinematográfica más cómoda.
+- Altavoces duales y pantalla grande: altavoces de sonido envolvente integrados con los que el mini proyector convierte su habitación en un gran cine en casa. Puede disfrutar de películas o juegos deportivos en una pantalla grande de 34 a 176 pulgadas. ¡Ya no es necesario ir a teatros o cines abarrotados!
+- Amplia compatibilidad: con puertos HDMI, AV, VGA, USB, audio de 3,5 mm y TF, puede conectarse fácilmente a varios dispositivos como Chromecast, Firestick, TV Box, computadoras portátiles, Blue-Ray DVD, PS4, unidades USB, altavoces o auriculares. . También puede conectarlo a teléfonos o tabletas mediante adaptadores HDMI específicos o dongle inalámbrico.
+- Tamaño pequeño y accesorios múltiples: el proyector portátil mide solo 20,3 * 15,3 * 7,6 cm y 0,89 kg, más ligero que la mayoría de los proyectores LCD. Se puede llevar fácilmente al aire libre. Incluye varios accesorios: cable HDMI, cable AV, cable de alimentación, control remoto, manual y cubierta de lente.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07H9MZF85/?tag=tolees-21)
