@@ -25,7 +25,7 @@ En este momento está [Dragon Ball Z Combo Pack  para mando Dualshock PlayStatio
 
 🔎:
 
-- Materiales de gran calidad
 - Licencia Oficial Dragon Ball
+- Materiales de gran calidad
 
 [Aquí!!!](https://www.amazon.es/dp/B072BHS98J/?tag=tolees-21)
