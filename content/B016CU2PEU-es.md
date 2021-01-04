@@ -25,10 +25,10 @@ Ahora mismo tienes [UGREEN Adaptador USB a Jack 3.5 mm  Tarjeta de Sonido USB  A
 
 🔎:
 
+- Adaptador USB a Jack 3.5 mm compatible con Windows XP, 7, 8, 8.1, 10, Mac OS X, Linux, Raspberry, Chromebook etc.
+- Tarjeta de Sonido USB está orientado a ser el sustituto ideal de la tarjeta de sonido en la placa base que falla, o los originales puertos de sonido que se estropean, o el USB adaptador defectuoso.
 - Tarjeta de Sonido USB solamente soporta los micrófonos con clavija de TRS, las de TS o TRRS no funcionarán con este adaptador.
 - Plug and play, sin necesidad de instalar nada. Este Tarjeta de Sonido USB a jack 3.5 sólo con enchufar al ordenador mediante el USB puerto, conectar los auriculares o el micrófono y a funcionar.
-- Tarjeta de Sonido USB está orientado a ser el sustituto ideal de la tarjeta de sonido en la placa base que falla, o los originales puertos de sonido que se estropean, o el USB adaptador defectuoso.
-- Adaptador USB a Jack 3.5 mm compatible con Windows XP, 7, 8, 8.1, 10, Mac OS X, Linux, Raspberry, Chromebook etc.
 - UGREEN Adaptador USB a Jack 3.5 mm viene a dotar de entradas de audio y micrófono a equipos que no lo incorporan, haciendo grabar y escuchar el sonido al mismo tiempo.
 
 [Visítala!!!](https://www.amazon.es/dp/B016CU2PEU/?tag=tolees-21)
