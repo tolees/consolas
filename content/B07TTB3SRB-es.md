@@ -25,12 +25,12 @@ En este momento está [ASTRO Gaming A50 Auriculares inalámbricos Gaming y Base 
 
 🔎:
 
-- Software del Centro de Mando ASTRO: ajusta audio y comunicaciones de voz, crea, guarda y comparte perfiles de ecualización, ajusta el bloqueador de ruido, el tono lateral y el nivel de micrófono
-- Más de 15 horas de batería: La batería recargable de iones de litio dura más de 15 horas de juego
 - Equilibrio entre el videojuego y la voz: Gracias a los controles incorporados en las orejeras, con estos cascos, tienes control total sobre el juego y el audio del chat
-- ASTRO Audio V2: Al proporcionar un espectro de frecuencia preciso y suave, ofrecen agudos nítidos, medios controlados y bajos sin distorsión para diálogos, música y sonidos claros en el juego
-- Dolby Atmos (versión Xbox): El audio espacial libera el sonido de las restricciones de los canales, permitiéndole moverse en un espacio tridimensional, incluyendo por encima y por debajo del oyente
 - Compatible con Xbox Series X|S con una actualización de firmware requerida para habilitar el juego y el audio a través de USB
+- ASTRO Audio V2: Al proporcionar un espectro de frecuencia preciso y suave, ofrecen agudos nítidos, medios controlados y bajos sin distorsión para diálogos, música y sonidos claros en el juego
+- Más de 15 horas de batería: La batería recargable de iones de litio dura más de 15 horas de juego
+- Dolby Atmos (versión Xbox): El audio espacial libera el sonido de las restricciones de los canales, permitiéndole moverse en un espacio tridimensional, incluyendo por encima y por debajo del oyente
 - Auriculares de audio Dolby: Sumérgete en el juego gracias al audio cinematográfico de alta resolución y a la direccionalidad del sonido que te dan una ventaja competitiva
+- Software del Centro de Mando ASTRO: ajusta audio y comunicaciones de voz, crea, guarda y comparte perfiles de ecualización, ajusta el bloqueador de ruido, el tono lateral y el nivel de micrófono
 
 [Aquí!!!](https://www.amazon.es/dp/B07TTB3SRB/?tag=tolees-21)

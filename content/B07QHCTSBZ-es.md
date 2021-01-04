@@ -26,7 +26,7 @@ Ahora mismo tienes [Borderlands 3 - Edición Estándar  PlayStation 4  Disc](htt
 🔎:
 
 - Las copias de Borderlands 3 en Xbox One y PlayStation 4 incluirán una mejora digital para la versión del juego de la siguiente generación (dentro de la misma familia de consolas) sin coste adicional. Para los discos físicos, esta característica solo estará disponible en los modelos de consola de la siguiente generación que tengan unidad de disco.
-- Disfruta del juego en una magnífica resolución 4K a 60 FPS tanto en las partidas para un jugador como en el modo cooperativo online (disponible en PlayStation 5 y Xbox Series X). Disfruta del caos en modo cooperativo desde el sofá con la posibilidad de jugar en pantalla dividida para tres o cuatro jugadores en multijugador local (solo disponible en PlayStation 5 y Xbox Series X|S).
 - Borderlands 3 está optimizado para las consolas de nueva generación.
+- Disfruta del juego en una magnífica resolución 4K a 60 FPS tanto en las partidas para un jugador como en el modo cooperativo online (disponible en PlayStation 5 y Xbox Series X). Disfruta del caos en modo cooperativo desde el sofá con la posibilidad de jugar en pantalla dividida para tres o cuatro jugadores en multijugador local (solo disponible en PlayStation 5 y Xbox Series X|S).
 
 [Visítala!!!](https://www.amazon.es/dp/B07QHCTSBZ/?tag=tolees-21)
