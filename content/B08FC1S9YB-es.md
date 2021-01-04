@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Watch Dogs Legion Limited Edition Amazon al 50.12 % de rebaja'
-date: 2020-12-31 18:58:42
+date: 2021-01-04 09:11:18
 image: 'https://m.media-amazon.com/images/I/51+b+iRIacL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08FC1S9YB/?tag=tolees-21'
 descuento: '50.12'
-average: '53.41157894736842'
+average: '52.124761904761904'
 ---
 
 Tienes [Watch Dogs Legion Limited Edition Amazon PS5](https://www.amazon.es/dp/B08FC1S9YB/?tag=tolees-21) con precio final de  39.9 EUR (original: 79.99 EUR) (50.12 %  de rebaja) aqui!
@@ -25,10 +25,10 @@ Tienes [Watch Dogs Legion Limited Edition Amazon PS5](https://www.amazon.es/dp/B
 
 🔎:
 
-- World-class music artist, Stormzy will feature in his own mission ‘Fall on My Enemies’ will see Stormzy enlisting the resistance group to protect the broadcast of his track Rainfall in central London
-- Explore a massive urban open world and fight to liberate London’s many famous landmarks—including Trafalgar Square, Big Ben, Tower Bridge, Camden, Piccadilly Circus, or the London Eye
-- Play as anyone: Recruit anyone from the entire population of London into your resistance
-- Play the game the way you want. Build a team with a huge range of characters to choose from
-- The Limited Edition includes:Digital content, The London Dissident Pack: unlock three new masks to lead your resistance with style
+- ÚNETE A TUS AMIGOS: Trae a tu equipo en línea y une fuerzas con hasta tres amigos mientras os movéis con libertad y exploráis el mundo juntos o hacéis misiones cooperativas y completáis retos de contenido endgame
+- JUEGA CON CUALQUIER PERSONAJE: Experimenta un gameplay nunca visto antes. Cualquiera que veas puede unirse a tu equipo y cuenta con una historia, personalidad y habilidades únicas.
+- LONDRES, UN MUNDO ABIERTO: Explora un mundo abierto enorme y visita los lugares más emblemáticos de Londres
+- HACKEAR ES TU ARMA: Haz de la infraestructura tecnológica de Londres tu arma. Hackea los drones de combate armados, despliega robots araña sigilosos, derriba enemigos mientras te ocultas utilizando una capa de realidad aumentada y mucho más.
+- Reserva para acceder al Pack Rey Dorado y haz que tus héroes recorran las calles de Londres con: - La máscara El Peso de la Corona. - El skin de pistola Hermanas Serpiente. - El skin de vehículo Lux.
 
 [Comprar!!!](https://www.amazon.es/dp/B08FC1S9YB/?tag=tolees-21)
