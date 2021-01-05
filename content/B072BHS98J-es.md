@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dragon Ball Z Combo Pack  para mando Dua con un 30.79 % de descuento'
-date: 2021-01-03 23:18:57
+date: 2021-01-05 00:35:30
 image: 'https://m.media-amazon.com/images/I/41v0LJOWP7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B072BHS98J/?tag=tolees-21'
 descuento: '30.79'
-average: '9.270000000000001'
+average: '9.237058823529413'
 ---
 
 En este momento está [Dragon Ball Z Combo Pack  para mando Dualshock PlayStation 4](https://www.amazon.es/dp/B072BHS98J/?tag=tolees-21) a 8.99 EUR (original: 12.99 EUR) (30.79 %  de descuento) en el siguiente enlace!
