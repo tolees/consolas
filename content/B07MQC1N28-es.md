@@ -25,8 +25,8 @@ En este momento está [Paladone XBox - Logo Light  PP5686XB ](https://www.amazon
 
 🔎:
 
-- Funciona con usb o con pilas: esta lámpara puede ser independiente o montada en la pared, lo que le permite colocar en cualquier lugar
 - Icónico - en forma y diseño del logotipo de la consola xbox es un regalo ideal para los fans y los jugadores de xbox
+- Funciona con usb o con pilas: esta lámpara puede ser independiente o montada en la pared, lo que le permite colocar en cualquier lugar
 - Un regalo fantástico: los productos de xbox son algunas de las consolas de videojuegos más populares de todos los tiempos
 - Cool y elegante - embellece tu dormitorio, sala de juegos o cualquier otra habitación de tu casa con la luz del logotipo de xbox
 - Oficial - la xbox logo light es un producto oficial de xbox con licencia
