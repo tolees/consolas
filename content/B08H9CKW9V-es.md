@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fortnite Lote: La Última Risa - Xbox al 16.86 % de rebaja'
-date: 2021-01-05 01:05:31
+date: 2021-01-06 01:13:00
 image: 'https://m.media-amazon.com/images/I/51Y0+hSon3L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08H9CKW9V/?tag=tolees-21'
 descuento: '16.86'
-average: '26.862499999999994'
+average: '26.783999999999992'
 ---
 
 Tienes [Fortnite Lote: La Última Risa - Xbox](https://www.amazon.es/dp/B08H9CKW9V/?tag=tolees-21) con precio final de  24.9 EUR (original: 29.95 EUR) (16.86 %  de rebaja) aqui!
