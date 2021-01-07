@@ -25,10 +25,10 @@ Tienes [Hori - Splatoon 2 Splat Pack  Nintendo Switch ](https://www.amazon.es/dp
 
 ℹ️:
 
-- Funda compacta
-- Grips para sticks analógicos
-- Colorido diseño para Splatoon 2
 - Estuche de juegos con carabina (4 cartuchos)
 - Licencia oficial de Nintendo
+- Colorido diseño para Splatoon 2
+- Funda compacta
+- Grips para sticks analógicos
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01A0QEWR0/?tag=tolees-21)
