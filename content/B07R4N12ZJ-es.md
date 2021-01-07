@@ -26,9 +26,9 @@ Ahora mismo tienes [Razer Raiju Tournament Edition 2019 Controlador de juegos in
 🔎:
 
 - Configuración de la aplicación móvil: Reasigna los botones multifunción y los gatillos, cambia las opciones de ajuste de sensibilidad o afina la intensidad de los motores de vibración para completar tu experiencia de juego; y todo a través del sencillo control de la aplicación móvil
-- Botones de acción táctiles mecanizados RazerTM: Prueba una primicia mundial, el Raiju Tournament Edition cuenta con botones de acción táctiles mecanizados RazerTM que proporcionan una combinación optima de suave tacto almohadillado y una retroalimentación táctil precisa
 - Distribución ergonómica de botones multifunción: El Raiju Tournament Edition viene preparado con un montón de botones extra para el juego profesional: cuatro botones multifunción reasignables Razer, disfruta del control más preciso al alcance de la mano mientras optimizas las técnicas de niveles superiores
-- Cambio de modo: Con el cambio de modo puedes cambiar fácil entre los tres modos de conectividad: PS4, USB y PC, esto hace que la resincronización al intercambiar dispositivos sea eficiente
+- Botones de acción táctiles mecanizados RazerTM: Prueba una primicia mundial, el Raiju Tournament Edition cuenta con botones de acción táctiles mecanizados RazerTM que proporcionan una combinación optima de suave tacto almohadillado y una retroalimentación táctil precisa
 - Modo de gatillo sensible: Unos milisegundos marcan la diferencia cuando estás en el fragor de batalla, cuando el Modo de gatillo sensible está activado, los switches de tope mecánico reducen la distancia de recorrido de los dos gatillos principales, para permitir una rápida acción del gatillo y así lograr la ventaja competitiva
+- Cambio de modo: Con el cambio de modo puedes cambiar fácil entre los tres modos de conectividad: PS4, USB y PC, esto hace que la resincronización al intercambiar dispositivos sea eficiente
 
 [Visítala!!!](https://www.amazon.es/dp/B07R4N12ZJ/?tag=tolees-21)
