@@ -25,10 +25,10 @@ Está [Hori - Carcasa Duraflexi  Nintendo Switch Lite ](https://www.amazon.es/dp
 
 ℹ️:
 
-- Acabado traslúcido: luce el color y diseño de tu consola
-- Licencia oficial de Nintendo
-- No más grietas: combinación única de resistencia y flexibilidad
-- Fabricada en TPU (poliuretano termoplástico)
 - Permite el acceso a todos los controles y tomas
+- Licencia oficial de Nintendo
+- Fabricada en TPU (poliuretano termoplástico)
+- No más grietas: combinación única de resistencia y flexibilidad
+- Acabado traslúcido: luce el color y diseño de tu consola
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07W3QM1YR/?tag=tolees-21)
