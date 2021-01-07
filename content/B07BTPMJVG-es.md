@@ -25,13 +25,13 @@ Ahora mismo tienes [Red Faction Guerrilla Re-Mars-Tered - Xbox One](https://www.
 
 🔎:
 
-- Use destruction to your tactical advantage, setting ambushes or chain reaction explosions
-- Nowhere to hide when you put your guerrilla warfare skills in multiplayer combat modes
-- Leverage fully-dynamic physics-based destruction to improvise on the fly
-- Carve your path through an ever changing landscape as you improvise your combat tactics
 - Launch attacks based on your own gameplay style
 - Fully destructible open-world environments swarming with EDF forces
+- Leverage fully-dynamic physics-based destruction to improvise on the fly
+- Nowhere to hide when you put your guerrilla warfare skills in multiplayer combat modes
+- Carve your path through an ever changing landscape as you improvise your combat tactics
 - Utilize guerrilla tactics, improvised weaponry, and modified vehicles to lead insurgent attacks on EDF targets
+- Use destruction to your tactical advantage, setting ambushes or chain reaction explosions
 - Epic Sci-Fi Setting - Explore the huge, unforgiving Martian landscape
 
 [Visítala!!!](https://www.amazon.es/dp/B07BTPMJVG/?tag=tolees-21)
