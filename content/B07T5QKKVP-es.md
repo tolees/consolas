@@ -25,10 +25,10 @@ Tienes [HORI - Controlador Split Pad Pro Daemon X Machina  Nintendo Switch ](htt
 
 ℹ️:
 
-- Licencias oficiales de Nintendo y Marvelous
-- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
-- Diseño exclusivo para Daemon X Machina, compatible también con otros títulos para Switch
 - La precisión y comodidad del Pro Controller, en modo portátil
+- Diseño exclusivo para Daemon X Machina, compatible también con otros títulos para Switch
+- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
 - Botones traseros programables
+- Licencias oficiales de Nintendo y Marvelous
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07T5QKKVP/?tag=tolees-21)

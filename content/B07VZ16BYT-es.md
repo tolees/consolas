@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Two Point Hospital - Xbox One al 50.01 % de descuento'
-date: 2021-01-06 06:53:04
+date: 2021-01-07 12:49:11
 image: 'https://m.media-amazon.com/images/I/51-3ZZR27KL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07VZ16BYT/?tag=tolees-21'
 descuento: '50.01'
-average: '27.15666666666667'
+average: '25.853636363636365'
 ---
 
 Está [Two Point Hospital - Xbox One](https://www.amazon.es/dp/B07VZ16BYT/?tag=tolees-21) con 50.01 de descuento por 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!
@@ -26,8 +26,8 @@ Está [Two Point Hospital - Xbox One](https://www.amazon.es/dp/B07VZ16BYT/?tag=t
 ℹ️:
 
 - Meterse en el juego es más fácil que nunca, con un sistema de control totalmente rediseñado que traen precisión total
-- Gestiona los trabajos de tu hospital, ¡y el dinero que estás haciendo también! Sigue curando gente e incrementando la reputación de tu hospital para expandir tu imperio; trata de no matar a nadie
-- Two Point Hospital en PS4, Xbox One y Nintendo Switch incluye dos expansiones Premium: Bigfoot y Pebberley Island
 - Construye tu hospital a tu gusto, modifica la disposición de las habitaciones y coloca objetos para construir los hospitales más bonitos y eficientes y tratar algunas de las más atípicas (y divertidas) enfermedades
+- Two Point Hospital en PS4, Xbox One y Nintendo Switch incluye dos expansiones Premium: Bigfoot y Pebberley Island
+- Gestiona los trabajos de tu hospital, ¡y el dinero que estás haciendo también! Sigue curando gente e incrementando la reputación de tu hospital para expandir tu imperio; trata de no matar a nadie
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VZ16BYT/?tag=tolees-21)
