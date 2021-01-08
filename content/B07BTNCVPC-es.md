@@ -26,9 +26,9 @@ Ahora mismo tienes [Sonic Mania Plus - Nintendo Switch [Importación inglesa]](h
 🔎:
 
 - A true, classic Sonic experience: Gorgeous pixel graphics featuring a variety of new Zones with iconic favorites from Sonic 1, 2, 3, Sonic & Knuckles and Sonic The Hedgehog CD
-- Definitive version: Pixel-perfect HD visuals, 60 FPS gameplay and all new content in one package! Join Sonic and his friends as they face off against Dr Eggman and his new robo-henchmen the Hard Boiled Heavies!
-- Sega Mega Drive Reversible Cover
-- Game with Holographic Package
 - 32 Page Art Book
+- Sega Mega Drive Reversible Cover
+- Definitive version: Pixel-perfect HD visuals, 60 FPS gameplay and all new content in one package! Join Sonic and his friends as they face off against Dr Eggman and his new robo-henchmen the Hard Boiled Heavies!
+- Game with Holographic Package
 
 [Visítala!!!](https://www.amazon.es/dp/B07BTNCVPC/?tag=tolees-21)
