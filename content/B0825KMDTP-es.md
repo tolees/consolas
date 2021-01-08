@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 20.53 % en Nintendo Iberica SL - Amiibo Samus Oscur'
-date: 2021-01-06 23:26:01
+date: 2021-01-08 15:50:39
 image: 'https://m.media-amazon.com/images/I/51g1LAK8NEL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B0825KMDTP/?tag=tolees-21'
 descuento: '20.53'
-average: '14.295757575757573'
+average: '14.313529411764703'
 ---
 
 Tienes [Nintendo Iberica SL - Amiibo Samus Oscura  Colección Super Smash Bros ](https://www.amazon.es/dp/B0825KMDTP/?tag=tolees-21) con un 20.53 % de descuento con precio de oferta de 14.9 EUR (original: 18.75 EUR) en el siguiente enlace!
