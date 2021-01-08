@@ -25,10 +25,10 @@ En este momento está [Nacon - Mando Compacto para PS4  color Azul](https://www.
 
 🔎:
 
-- 2 motores de vibración
-- Superficie "Soft touch" para un agarre perfecto incluso en sesiones de juego largas
-- Panel táctil totalmente funcional
-- Indicador LED de jugador
 - Conector para auriculares de 3.5 mm
+- Panel táctil totalmente funcional
+- 2 motores de vibración
+- Indicador LED de jugador
+- Superficie "Soft touch" para un agarre perfecto incluso en sesiones de juego largas
 
 [Aquí!!!](https://www.amazon.es/dp/B0746R8TKN/?tag=tolees-21)
