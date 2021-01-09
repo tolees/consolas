@@ -25,10 +25,10 @@ Tienes [Crosstour Proyector  Mini Proyector Portátil Soporte HD  Cine en Casa c
 
 ℹ️:
 
-- Fácil instalación y mayor vida útil: el P600 se puede instalar en un trípode o montar en el techo para una mejor experiencia de visualización. Con una vida útil de la lámpara de 55.000 horas, se puede utilizar durante más de 15 años y ofrecemos una garantía de 12 meses. Es su mejor opción de regalo para sus amantes y amigos.
+- Altavoces duales y pantalla grande: altavoces de sonido envolvente integrados con los que el mini proyector convierte su habitación en un gran cine en casa. Puede disfrutar de películas o juegos deportivos en una pantalla grande de 34 a 176 pulgadas. ¡Ya no es necesario ir a teatros o cines abarrotados!
 - Excelente calidad de imagen: versión 2020, el proyector P600 presenta mayor brillo y mayor brillo con una relación de contraste de 2000: 1. El proyector admite 1080P Full HD y, por lo tanto, puede proporcionar imágenes más vívidas. La luz LED más suave provoca menos fatiga visual, lo que le brinda una experiencia de visualización cinematográfica más cómoda.
+- Fácil instalación y mayor vida útil: el P600 se puede instalar en un trípode o montar en el techo para una mejor experiencia de visualización. Con una vida útil de la lámpara de 55.000 horas, se puede utilizar durante más de 15 años y ofrecemos una garantía de 12 meses. Es su mejor opción de regalo para sus amantes y amigos.
 - Amplia compatibilidad: con puertos HDMI, AV, VGA, USB, audio de 3,5 mm y TF, puede conectarse fácilmente a varios dispositivos como Chromecast, Firestick, TV Box, computadoras portátiles, Blue-Ray DVD, PS4, unidades USB, altavoces o auriculares. . También puede conectarlo a teléfonos o tabletas mediante adaptadores HDMI específicos o dongle inalámbrico.
 - Tamaño pequeño y accesorios múltiples: el proyector portátil mide solo 20,3 * 15,3 * 7,6 cm y 0,89 kg, más ligero que la mayoría de los proyectores LCD. Se puede llevar fácilmente al aire libre. Incluye varios accesorios: cable HDMI, cable AV, cable de alimentación, control remoto, manual y cubierta de lente.
-- Altavoces duales y pantalla grande: altavoces de sonido envolvente integrados con los que el mini proyector convierte su habitación en un gran cine en casa. Puede disfrutar de películas o juegos deportivos en una pantalla grande de 34 a 176 pulgadas. ¡Ya no es necesario ir a teatros o cines abarrotados!
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07H9MZF85/?tag=tolees-21)
