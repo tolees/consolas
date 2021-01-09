@@ -50,9 +50,7 @@
           "image": [
               "{{ .Params.image | absURL }}"
           ],
-          {{ with.Params.title }}
-            "description": "{{ . }}",
-          {{ end }}
+          "description": "{{ .Params.title }}",
           "sku": "{{ .Params.slug }}",
           "offers": {
               "@type": "Offer",
