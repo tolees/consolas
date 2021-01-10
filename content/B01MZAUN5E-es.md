@@ -25,10 +25,10 @@ Tienes [Hori - Multicargador Joy-Con  Nintendo Switch ](https://www.amazon.es/dp
 
 ℹ️:
 
-- Licencia oficial de Nintendo
-- Base ancha y estable con botones de goma
-- Carga hasta 4 Joy-Con a la vez
-- Sistema de colocación sencillo tipo riel
 - Indicadores LED de estado de carga
+- Base ancha y estable con botones de goma
+- Sistema de colocación sencillo tipo riel
+- Carga hasta 4 Joy-Con a la vez
+- Licencia oficial de Nintendo
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MZAUN5E/?tag=tolees-21)
