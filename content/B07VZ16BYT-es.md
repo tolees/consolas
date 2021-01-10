@@ -26,8 +26,8 @@ Está [Two Point Hospital - Xbox One](https://www.amazon.es/dp/B07VZ16BYT/?tag=t
 ℹ️:
 
 - Two Point Hospital en PS4, Xbox One y Nintendo Switch incluye dos expansiones Premium: Bigfoot y Pebberley Island
+- Construye tu hospital a tu gusto, modifica la disposición de las habitaciones y coloca objetos para construir los hospitales más bonitos y eficientes y tratar algunas de las más atípicas (y divertidas) enfermedades
 - Gestiona los trabajos de tu hospital, ¡y el dinero que estás haciendo también! Sigue curando gente e incrementando la reputación de tu hospital para expandir tu imperio; trata de no matar a nadie
 - Meterse en el juego es más fácil que nunca, con un sistema de control totalmente rediseñado que traen precisión total
-- Construye tu hospital a tu gusto, modifica la disposición de las habitaciones y coloca objetos para construir los hospitales más bonitos y eficientes y tratar algunas de las más atípicas (y divertidas) enfermedades
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07VZ16BYT/?tag=tolees-21)
