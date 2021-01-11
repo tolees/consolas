@@ -25,10 +25,10 @@ Está [RCA a HDMI  Techole Aluminio 3 RCA Compuestas AV a HDMI Converter de Vide
 
 ℹ️:
 
-- 🎮 Buena Compatibilidad - Este adaptador AV a HDMI es compatible con PAL, NTSC3.58, NTSC4.43, SECAM, PAL / M, PAL / N estándar. Adecuado para conectar dispositivos AV con entrada compuesta, como PS4, Xbox, DVD, Blu-ray, consolas de juegos, receptores de TV o PC a dispositivos con salida HDMI, como proyector de video, monitor, TV, etc.
 - 🎮 Fácil de Usar - Plug & Play. Sin controladores para instalar, es portátil y flexible.
-- 🎮 RCA a HDMI - Conversión de señales de audio y video analógicas (compuestas) a señales HDMI. La avanzada tecnología de conversión de video de AV a HDMI con una escala de hasta 1080p / 720p hace que la imagen sea más vívida.
-- 🎮 Notas - Este RCA a HDMI solo convierte AV a HDMI y no es compatible con HDMI a AV. Se suministra alimentación al producto a través de un cable de alimentación USB (5V 1A) para garantizar el funcionamiento correcto del producto.
 - 🎮 Sólido y Estable - La carcasa metálica de aluminio es ligera, compuesto de alta calidad 3 x RCA con anti-interferencias, lo que hace que la imagen sea clara y estable, sin parpadeo ni distorsión.
+- 🎮 Buena Compatibilidad - Este adaptador AV a HDMI es compatible con PAL, NTSC3.58, NTSC4.43, SECAM, PAL / M, PAL / N estándar. Adecuado para conectar dispositivos AV con entrada compuesta, como PS4, Xbox, DVD, Blu-ray, consolas de juegos, receptores de TV o PC a dispositivos con salida HDMI, como proyector de video, monitor, TV, etc.
+- 🎮 Notas - Este RCA a HDMI solo convierte AV a HDMI y no es compatible con HDMI a AV. Se suministra alimentación al producto a través de un cable de alimentación USB (5V 1A) para garantizar el funcionamiento correcto del producto.
+- 🎮 RCA a HDMI - Conversión de señales de audio y video analógicas (compuestas) a señales HDMI. La avanzada tecnología de conversión de video de AV a HDMI con una escala de hasta 1080p / 720p hace que la imagen sea más vívida.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07SS9RKX1/?tag=tolees-21)
