@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mortal Kombat 11: Limited Edition XBSX L con un 16.76 % de descuento'
-date: 2021-01-01 04:22:50
+date: 2021-01-11 02:46:46
 image: 'https://m.media-amazon.com/images/I/51UgCZZEX1L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08LWBGXJQ/?tag=tolees-21'
 descuento: '16.76'
-average: '50.45555555555555'
+average: '50.39999999999999'
 ---
 
 En este momento está [Mortal Kombat 11: Limited Edition XBSX Limitada Xbox](https://www.amazon.es/dp/B08LWBGXJQ/?tag=tolees-21) a 49.9 EUR (original: 59.95 EUR) (16.76 %  de descuento) en el siguiente enlace!
