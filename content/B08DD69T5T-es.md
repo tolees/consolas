@@ -25,10 +25,10 @@ Tienes [eXtremeRate PlayVital - Carcasa trasera para Nintendo Switch Console  NS
 
 ℹ️:
 
-- Diseño personalizado: personaliza tu interruptor sin reemplazar sus carcasas. Funda protectora ergonómica para Nintendo Switch te ofrece una experiencia cómoda y fácil de agarrar.
 - Característica personalizada: la funda protectora ligera de color verde menta se ve genial; gran agarre suave, suave en la mano y tacto sedoso; antideslizante, sin sudor durante un largo período de juego.
-- Combinación perfecta: diseñado con cortes especialmente colocados. Todas las funciones del interruptor son accesibles sin interferencias. Puedes quitar libremente el joycon izquierdo y derecho de la consola del interruptor sin quitar la funda.
-- Protección integral: la carcasa resistente está fabricada con material de policarbonato que absorbe los golpes y arañazos, protege completamente tu interruptor de golpes diarios, caídas, arañazos, polvo y prolonga la vida útil del dispositivo.
 - Recordatorio: Algunos puertos de conmutación son más ajustados para que la funda no se pueda acoplar. Si tu protector de pantalla de cristal templado es grueso, puede no ser compatible con Dock. Sugiere utilizar el protector de pantalla de grosor medio.
+- Protección integral: la carcasa resistente está fabricada con material de policarbonato que absorbe los golpes y arañazos, protege completamente tu interruptor de golpes diarios, caídas, arañazos, polvo y prolonga la vida útil del dispositivo.
+- Diseño personalizado: personaliza tu interruptor sin reemplazar sus carcasas. Funda protectora ergonómica para Nintendo Switch te ofrece una experiencia cómoda y fácil de agarrar.
+- Combinación perfecta: diseñado con cortes especialmente colocados. Todas las funciones del interruptor son accesibles sin interferencias. Puedes quitar libremente el joycon izquierdo y derecho de la consola del interruptor sin quitar la funda.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08DD69T5T/?tag=tolees-21)

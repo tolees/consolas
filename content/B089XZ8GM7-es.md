@@ -25,10 +25,10 @@ Ahora mismo tienes [Bateria para Xbox One Mando - Estación de dos puertos con 2
 
 🔎:
 
-- [Dos modos del producto: hemos diseñado este producto xbox one para que tenga una función de soporte, puede almacenar el asa cuando no esté trabajando. Debido a que cada sección es individual, puede funcionar para dos mandos a la vez, o incluso para baterías.
-- El estado de producto: el indicador de batería se encuentra en la parte frontal de la pantalla en su estación de carga Xbox One, LED rojo indica que las baterías están cargadas y en modo de espera y LED verde indica que están completamente cargadas.
+- Protección de la batería: este producto xbox one tiene una protección para el trabajo. Una vez terminado el trabajo, no se preocupe por dañar el mando, incluso si olvides retirar la batería a tiempo.
 - Si tiene alguna pregunta sobre el producto, por favor póngase en contacto con nosotros a tiempo, le proporcionaremos un servicio satisfactorio. Nota: El producto comprado no incluye el mando en la imagen.
 - [Compatible y batería]: la batería es compatible con el mando para Xbox one, Xbox one S/X/Elite. 2 baterías Ni-MH de alta calidad de 1200 mAh. Estas baterías son una gran alternativa a las baterías AA normales.
-- Protección de la batería: este producto xbox one tiene una protección para el trabajo. Una vez terminado el trabajo, no se preocupe por dañar el mando, incluso si olvides retirar la batería a tiempo.
+- [Dos modos del producto: hemos diseñado este producto xbox one para que tenga una función de soporte, puede almacenar el asa cuando no esté trabajando. Debido a que cada sección es individual, puede funcionar para dos mandos a la vez, o incluso para baterías.
+- El estado de producto: el indicador de batería se encuentra en la parte frontal de la pantalla en su estación de carga Xbox One, LED rojo indica que las baterías están cargadas y en modo de espera y LED verde indica que están completamente cargadas.
 
 [Visítala!!!](https://www.amazon.es/dp/B089XZ8GM7/?tag=tolees-21)
