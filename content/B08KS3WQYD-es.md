@@ -25,10 +25,10 @@ En este momento está [eXtremeRate PlayVital  diseño de estrella lindo interrup
 
 🔎:
 
-- Múltiples combinaciones de colores para elegir, cada joystick tiene un diseño de estrella blanca, fresco y encantador. Puedes combinar el shell eXtremeRate para personalizar tu Switch o Switch Lite
-- Fácil de instalar, solo tarda unos segundos en instalar las tapas de agarre del pulgar en el joystick de la consola. Ajuste perfecto, compacto con el joystick después de instalar, no te preocupes por que se caiga.
-- Nota: esta funda de joystick no es adecuada para PS4, Switch Pro, Xbox One controlador. Si encuentras algún problema (daños, arañazos, suciedad, etc. ), no dude en contactarnos. Nuestra tienda siempre se esfuerza por la satisfacción del cliente y siempre hace todo lo posible para satisfacer las necesidades del cliente con una mejor calidad.
 - Esta tapa de silicona para pulgar está especialmente diseñada para Nintendo Switch Joy-Con & Switch Lite, que puede proporcionar una protección eficaz para sus palos analógicos.
+- Nota: esta funda de joystick no es adecuada para PS4, Switch Pro, Xbox One controlador. Si encuentras algún problema (daños, arañazos, suciedad, etc. ), no dude en contactarnos. Nuestra tienda siempre se esfuerza por la satisfacción del cliente y siempre hace todo lo posible para satisfacer las necesidades del cliente con una mejor calidad.
+- Fácil de instalar, solo tarda unos segundos en instalar las tapas de agarre del pulgar en el joystick de la consola. Ajuste perfecto, compacto con el joystick después de instalar, no te preocupes por que se caiga.
+- Múltiples combinaciones de colores para elegir, cada joystick tiene un diseño de estrella blanca, fresco y encantador. Puedes combinar el shell eXtremeRate para personalizar tu Switch o Switch Lite
 - La tapa de agarre para pulgar está hecha de silicona de alta calidad, suave y cómoda. Puede proteger tu joystick de arañazos, golpes, suciedad u otros daños.
 
 [Aquí!!!](https://www.amazon.es/dp/B08KS3WQYD/?tag=tolees-21)
