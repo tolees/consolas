@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wolfenstein Youngblood - Edición Deluxe  al 62.74 % de descuento'
-date: 2020-12-19 10:31:18
+date: 2021-01-12 12:02:14
 image: 'https://m.media-amazon.com/images/I/51JvqAnSviL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,16 +16,16 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DP3F1T6/?tag=tolees-21'
 descuento: '62.74'
-average: '15.66'
+average: '15.57058823529412'
 ---
 
-Ahora mismo tienes [Wolfenstein Youngblood - Edición Deluxe PS4](https://www.amazon.es/dp/B07DP3F1T6/?tag=tolees-21) a 14.9 EUR (original: 39.99 EUR) (62.74 %  de descuento) en el siguiente enlace!
+Está [Wolfenstein Youngblood - Edición Deluxe PS4](https://www.amazon.es/dp/B07DP3F1T6/?tag=tolees-21) con 62.74 de descuento por 14.9 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![Wolfenstein Youngblood - Edición Deluxe ](https://m.media-amazon.com/images/I/51JvqAnSviL._SL200_.jpg)](https://www.amazon.es/dp/B07DP3F1T6/?tag=tolees-21)
 
-🔎:
+ℹ️:
 
 - Usa un arsenal de nuevas armas, dispositivos y habilidades de armadura para echar a los nazis de la ciudad de la luz
 - Juega como una de las hijas gemelas de B. J; blazkowicz en una misión a vida o muerte para encontrarle en el París de los años 80
 
-[Visítala!!!](https://www.amazon.es/dp/B07DP3F1T6/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DP3F1T6/?tag=tolees-21)
