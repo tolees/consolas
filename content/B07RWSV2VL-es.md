@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 66.74 % en The Surge 2  PS4 '
-date: 2020-12-19 20:16:25
+title: 'The Surge 2  PS4  al 66.74 % de descuento'
+date: 2021-01-12 11:19:35
 image: 'https://m.media-amazon.com/images/I/51f+UkUsASL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,18 +16,18 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07RWSV2VL/?tag=tolees-21'
 descuento: '66.74'
-average: '27.72125'
+average: '26.85777777777778'
 ---
 
-Tienes [The Surge 2  PS4 ](https://www.amazon.es/dp/B07RWSV2VL/?tag=tolees-21) con un 66.74 % de descuento con precio de oferta de 19.95 EUR (original: 59.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [The Surge 2  PS4 ](https://www.amazon.es/dp/B07RWSV2VL/?tag=tolees-21) a 19.95 EUR (original: 59.99 EUR) (66.74 %  de descuento) en el siguiente enlace!
 
 [![The Surge 2  PS4 ](https://m.media-amazon.com/images/I/51f+UkUsASL._SL200_.jpg)](https://www.amazon.es/dp/B07RWSV2VL/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
-- Enfréntate a rivales y jefes mortíferos
-- Excelente evolución y personalización del personaje
 - Cercena las partes del enemigo que quieras saquear
 - Brutales combates cuerpo a cuerpo
+- Excelente evolución y personalización del personaje
+- Enfréntate a rivales y jefes mortíferos
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07RWSV2VL/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07RWSV2VL/?tag=tolees-21)
