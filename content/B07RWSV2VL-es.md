@@ -25,9 +25,9 @@ Ahora mismo tienes [The Surge 2  PS4 ](https://www.amazon.es/dp/B07RWSV2VL/?tag=
 
 🔎:
 
-- Brutales combates cuerpo a cuerpo
 - Enfréntate a rivales y jefes mortíferos
 - Cercena las partes del enemigo que quieras saquear
+- Brutales combates cuerpo a cuerpo
 - Excelente evolución y personalización del personaje
 
 [Visítala!!!](https://www.amazon.es/dp/B07RWSV2VL/?tag=tolees-21)
