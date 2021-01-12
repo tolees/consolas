@@ -26,9 +26,9 @@ Ahora mismo tienes [Mando a distancia PS5](https://www.amazon.es/dp/B08KJF2G2K/?
 🔎:
 
 - Navega rápidamente por el contenido multimedia con los botones integrados de reproducción/pausa y de avance y retroceso rápido.
-- Navega cómodamente por el entretenimiento en tu consola PlayStation 5 con los intuitivos controles multimedia y para tu TV.
-- Enciende tu PS5 y navega por sus menús directamente con el mando para disfrutarla al máximo.
 - Controla sin esfuerzo una amplia gama de entretenimiento superventas en PS5.
 - Controla los ajustes de volumen y encendido de los televisores compatibles con el transmisor IR integrado.
+- Enciende tu PS5 y navega por sus menús directamente con el mando para disfrutarla al máximo.
+- Navega cómodamente por el entretenimiento en tu consola PlayStation 5 con los intuitivos controles multimedia y para tu TV.
 
 [Visítala!!!](https://www.amazon.es/dp/B08KJF2G2K/?tag=tolees-21)

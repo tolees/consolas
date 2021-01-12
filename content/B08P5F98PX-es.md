@@ -28,7 +28,7 @@ En este momento está [PlayVital Psychedelic - Juego completo de fundas para Dua
 - Las pegatinas personalizadas están especialmente diseñadas para la consola PlayStation 5 Digital Edition, controlador, estación de carga, auriculares y mando a distancia
 - Una variedad de diseños de patrones para elegir, el juego completo de pegatinas personalizadas hará que tu PS5 sea diferente
 - Los adhesivos protectores están hechos de vinilo de alta calidad, cortados con precisión y se ajustan perfectamente para proteger tu PS5 de arañazos y polvo
-- Fácil de usar y pegar, fácil de quitar, sin dejar residuos. Obtén una guía de vídeo de instalación buscando "PlayVital Sticker for PS5 Digital Edition" en Youtube
 - El paquete incluye: 1 funda para consola PS5, 1 funda para mando de PS5, 1 funda para estación de carga, 1 funda para auriculares, 1 funda para mando a distancia de medios. (Nota: estas son solo pegatinas, la consola, el controlador y otros no incluidos)
+- Fácil de usar y pegar, fácil de quitar, sin dejar residuos. Obtén una guía de vídeo de instalación buscando "PlayVital Sticker for PS5 Digital Edition" en Youtube
 
 [Aquí!!!](https://www.amazon.es/dp/B08P5F98PX/?tag=tolees-21)
