@@ -25,10 +25,10 @@ Ahora mismo tienes [Doraemon: Story of Seasons PS4](https://www.amazon.es/dp/B08
 
 🔎:
 
-- Aprovecha los inventos de Doraemon para que desarrollar tu granja y convertirla en una experiencia mágica.
-- Estrecha vínculos con los habitantes del pueblo e interacciona con ellos mientras exploras y revitalizas la región junto a Doraemon, Shizuka, Gigante y Suneo.
-- Ponte en el papel de Nobita, un muchacho corriente con un corazón de oro, y ayúdale a poner en marcha una granja en ruinas
 - Personaliza tu granja cultivando, criando animales, construyendo muebles y explorando todas las posibilidades que ofrece la localidad
 - Un Story of Seasons con un toque diferente.
+- Ponte en el papel de Nobita, un muchacho corriente con un corazón de oro, y ayúdale a poner en marcha una granja en ruinas
+- Estrecha vínculos con los habitantes del pueblo e interacciona con ellos mientras exploras y revitalizas la región junto a Doraemon, Shizuka, Gigante y Suneo.
+- Aprovecha los inventos de Doraemon para que desarrollar tu granja y convertirla en una experiencia mágica.
 
 [Visítala!!!](https://www.amazon.es/dp/B08HN8VGC7/?tag=tolees-21)

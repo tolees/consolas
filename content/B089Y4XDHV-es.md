@@ -26,8 +26,8 @@ Tienes [Bateria para Xbox 360 Mando 2 Pack 1200mA Batería para Xbox 360  Xbox 3
 🔎:
 
 - [Compatible y Protección]: Compatible con el mando para Xbox 360/360S/360E. Viene con protección contra sobrecarga, sobretensión y cortocircuito.
-- [Fácil de usar: cuando no juegue, simplemente coloca el mando para Xbox 360 en la estación del producto y comenzará a funcionar automáticamente sin quitar la batería.
 - Si tiene alguna pregunta sobre el producto, por favor póngase en contacto con nosotros a tiempo, le proporcionaremos un servicio satisfactorio.
+- [Fácil de usar: cuando no juegue, simplemente coloca el mando para Xbox 360 en la estación del producto y comenzará a funcionar automáticamente sin quitar la batería.
 - [Ranura de doble estación]: No es necesario quitar el bloque de batería cuando trabaja. El LED muestra claramente el estado de funcionamiento. Rojo en el trabajo y amarillo en espera.
 - [Trabajo rápido]: Dos mandos se pueden trabajar simultáneamente, un mando puede trabajar en 2 horas y dos mandos tienen solo unas 4 horas.
 

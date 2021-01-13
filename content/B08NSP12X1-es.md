@@ -26,9 +26,9 @@ Está [eXtremeRate PlayVital - Funda de silicona antideslizante 3D para mando Xb
 ℹ️:
 
 - Viene con 1 funda de silicona y 3 pares de tapas de agarre para pulgar en diferentes estilos, controlador y otras partes no están incluidos. Importante: este producto no se ajusta al controlador cuando está con un adaptador de auriculares.
-- La cubierta de goma cortada con precisión proporciona una protección completa y fiable para el controlador Xbox Series S/X, evitando arañazos, suciedad, caídas, derrames y grasa causados por el uso diario.
-- La superficie de la piel antideslizante de silicona está diseñada con muchas ediciones 3D tachonadas, que pueden mejorar la sensación de agarre durante el juego, evitar resbalones y hacer que disfrutes de una mejor experiencia de juego.
 - Funda de silicona de alta calidad especialmente diseñada para el controlador Xbox Series S/X (modelo 1914). Una variedad de estilos y colores para elegir, mantiene tu mando seguro, nuevo y elegante.
+- La superficie de la piel antideslizante de silicona está diseñada con muchas ediciones 3D tachonadas, que pueden mejorar la sensación de agarre durante el juego, evitar resbalones y hacer que disfrutes de una mejor experiencia de juego.
 - Por favor, busca "PlayVital Silicone Cover for Xbox Series X/S" en Youtube para obtener la guía de instalación; la funda de silicona duradera es fácil de instalar y quitar, y no interferirá con la función del controlador después de que se ponga, no obstaculizará el uso de botones y puertos. Nota: esta funda de silicona no es compatible con la estación de carga.
+- La cubierta de goma cortada con precisión proporciona una protección completa y fiable para el controlador Xbox Series S/X, evitando arañazos, suciedad, caídas, derrames y grasa causados por el uso diario.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08NSP12X1/?tag=tolees-21)
