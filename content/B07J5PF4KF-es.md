@@ -25,10 +25,10 @@ Tienes [Estuche para Juegos de Nintendo Switch  AOLVO 12-en-1 Lindo Funda para C
 
 🔎:
 
-- Alta calidad: plástico ABS de alta calidad. Ecológico, sólido y duradero para almacenar tarjetas.
 - Fácil de transportar: el tamaño pequeño y el peso ligero hacen que sea muy portátil y fácil de llevar.
+- Alta calidad: plástico ABS de alta calidad. Ecológico, sólido y duradero para almacenar tarjetas.
 - Diseño único: bonito diseño de cubo con signos de interrogación en los 4 lados. Divertido y encantador. 3 colores brillantes disponibles.
-- Gran capacidad: mide aproximadamente 5 x 5 x 5 cm, la funda para tarjetas de juego tiene 12 ranuras para tarjetas de juego Nintendo Switch y tarjetas Micro SD.
 - Protección completa: protege completamente tus tarjetas de juego/tarjetas TF y mantenlas organizadas de forma segura para evitar que se pierdan.
+- Gran capacidad: mide aproximadamente 5 x 5 x 5 cm, la funda para tarjetas de juego tiene 12 ranuras para tarjetas de juego Nintendo Switch y tarjetas Micro SD.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07J5PF4KF/?tag=tolees-21)
