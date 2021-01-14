@@ -25,10 +25,10 @@ Tienes [YPBPR Scaler - Adaptador de HDMI a componente para Apple TV  PS3  Roku  
 
 🔎:
 
-- [Male YPbPr] no necesita comprar ningún cable macho adicional, ahorre dinero y se puede utilizar cómodamente.
-- [Compatibilidad ancha] El adaptador HDMI a YPbPr es compatible con muchos dispositivos. Se adapta a Blu-Ray, HD-DVD, VHS, reproductor de DVD, HDTV Box, HD-PVRs, HD-DVRs, grabadoras HD, PS3, Xbox 360, Xbox, Fire-Stick, Roku, Apple TV, PC, cámara HD.
-- [Función de escalador] Soporta la escalada y baja de la señal HDMI en YPbPr. La resolución de salida se puede cambiar a 480P 60, 576P 50, 720P 50/60, 1080P 50/60.
-- [Fácil de usar] Plug & Play, conexión en segundos, no requiere ajuste (solo es compatible con HDMI a componente (YPbPr) en lugar de componente (YPbPr) a HDMI).
 - [Conversor HDMI a YPBPR] El conversor de vídeo HDMI a componente (YPbP) permite la integración perfecta del cine en casa moderno en dispositivos analógicos antiguos y audio digital.
+- [Función de escalador] Soporta la escalada y baja de la señal HDMI en YPbPr. La resolución de salida se puede cambiar a 480P 60, 576P 50, 720P 50/60, 1080P 50/60.
+- [Compatibilidad ancha] El adaptador HDMI a YPbPr es compatible con muchos dispositivos. Se adapta a Blu-Ray, HD-DVD, VHS, reproductor de DVD, HDTV Box, HD-PVRs, HD-DVRs, grabadoras HD, PS3, Xbox 360, Xbox, Fire-Stick, Roku, Apple TV, PC, cámara HD.
+- [Male YPbPr] no necesita comprar ningún cable macho adicional, ahorre dinero y se puede utilizar cómodamente.
+- [Fácil de usar] Plug & Play, conexión en segundos, no requiere ajuste (solo es compatible con HDMI a componente (YPbPr) en lugar de componente (YPbPr) a HDMI).
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B083BWJKS9/?tag=tolees-21)
