@@ -25,10 +25,10 @@ Ahora mismo tienes [eXtremeRate PlayVital Funda para Nintendo Switch Carcasa Est
 
 🔎:
 
-- Encaja perfectamente: Diseñado con recortes precisos. Todas las funciones de Switch son accesibles sin interferencias. Se puede quitar Joycons desde la consola libremente sin remover nuestra funda.
-- Nota: Algunas Docks están un poco apretado, por lo que joycon con funda no se puede acoplar bien al dock. Si tu protector de pantalla de vidrio templado es grueso, también es posible que no sea compatible con el Dock. Por tanto, nos recomienda que utilice un protector de pantalla de grosor medio.
-- Característica personalizada: El color es simple y clásico, suave al tacto, antideslizante y anti transpiración. Más cómodo que la carcasa original.
 - Diseño personalizado: Personaliza tu Switch sin quitar su carcasa original. Se va a brindarte una experiencia cómoda y fácil de agarrar con esta funda protectora ergonómica para Nintendo Switch.
 - Protección completa: Hecho de material de PC resistente, es amortiguador y anti-rayas. Proteja tu Switch de todo tipo de daños, caídas, arañazos y polvo de todos los días, también prolonga la vida útil del dispositivo.
+- Encaja perfectamente: Diseñado con recortes precisos. Todas las funciones de Switch son accesibles sin interferencias. Se puede quitar Joycons desde la consola libremente sin remover nuestra funda.
+- Característica personalizada: El color es simple y clásico, suave al tacto, antideslizante y anti transpiración. Más cómodo que la carcasa original.
+- Nota: Algunas Docks están un poco apretado, por lo que joycon con funda no se puede acoplar bien al dock. Si tu protector de pantalla de vidrio templado es grueso, también es posible que no sea compatible con el Dock. Por tanto, nos recomienda que utilice un protector de pantalla de grosor medio.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08DD4H2RC/?tag=tolees-21)
