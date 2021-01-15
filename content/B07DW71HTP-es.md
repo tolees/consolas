@@ -25,10 +25,10 @@ Está [Mando con cable PowerA para Nintendo Switch](https://www.amazon.es/dp/B07
 
 ℹ️:
 
+- Producto con licencia oficial Este mando PowerA tiene licencia oficial para Nintendo Switch; siempre busca este sello cuando compres accesorios para juegos de video como de que el producto fue sometido a las rigurosas pruebas de Nintendo y su proceso de evaluación; los productos que no tienen este sello pueden no funcionar con tu sistema Nintendo o pueden presentar problemas de compatibilidad con ciertos juegos
+- La edición especial Chrome con el diseño de Metroid Mando de estilo tradicional para Nintendo Switch Cable USB extraíble de 2,5 m Acabado suave Con licencia oficial de Nintendo
+- ¿Por qué tiene cable? Cuesta casi la mitad de los inalámbricos No se necesitan pilas ni cargador Menos desfase/tiempos de espera de entrada en comparación con el inalámbrico Conexión de juego instantánea (no se necesita sincronización)
 - Con licencia oficial para Nintendo Switch Forma cómoda y construcción sólida y liviana Botones de sistema Switch (+, -, Home, Capture) Botones disparadores frontales izquierdo/derecho y gatillos (L/R/ZL/ZR) Dos controles analógicos: precisión optimizada para eliminar la zonas muertas Panel de control de dirección con forma de + y 8 direcciones (cruceta) Diseño de botones ABXY Nintendo (más grande que el Joy-Con) Cable micro-USB extraíble de 3 metros a cable USB-C estándar
 - Metroid, Chrome Metroid, mando de Chrome Metroid, mando de Chrome Metroid, Metroid, mando Switch de Metroid, mando Switch de Metroid, Metroid para Nintendo Switch, Metroid para Nintendo Switch
-- ¿Por qué tiene cable? Cuesta casi la mitad de los inalámbricos No se necesitan pilas ni cargador Menos desfase/tiempos de espera de entrada en comparación con el inalámbrico Conexión de juego instantánea (no se necesita sincronización)
-- La edición especial Chrome con el diseño de Metroid Mando de estilo tradicional para Nintendo Switch Cable USB extraíble de 2,5 m Acabado suave Con licencia oficial de Nintendo
-- Producto con licencia oficial Este mando PowerA tiene licencia oficial para Nintendo Switch; siempre busca este sello cuando compres accesorios para juegos de video como de que el producto fue sometido a las rigurosas pruebas de Nintendo y su proceso de evaluación; los productos que no tienen este sello pueden no funcionar con tu sistema Nintendo o pueden presentar problemas de compatibilidad con ciertos juegos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DW71HTP/?tag=tolees-21)
