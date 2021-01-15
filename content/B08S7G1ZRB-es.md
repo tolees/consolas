@@ -25,10 +25,10 @@ Está [eXtremeRate Botones Completos para Mando Xbox Series S X Botón de LB RB 
 
 ℹ️:
 
-- Requiere que los clientes retiren manualmente el mando para reemplazar este botones completos kit. Busca "eXtremeRate Buttons for Xbox Series X/S" o "kjIIxrSEzlc" en Youtube para obtener el vídeo de instalación.
-- Botones de repuesto diseñado a medida para adaptarse perfectamente al mando Xbox Series X/S. Corte preciso para que funcionen exactamente como los botones originales.
 - Sólo compatible con Xbox Series X & Xbox Series S. No es compatible con otros mandos de Xbox One. Verifique la segunda imagen antes de la compra.
 - El paquete incluye: 1* RT/LT/RB/LB Botones, 1* ABXY Acción Botones, 1* Start/Back/Sync Botones, 1* Barra Central, 1* Botón compatir dedicado, 1* Herramienta para abrir, 2* Destornilladores, 17* Tornillos de Repuesto. (Importante: El mando, carcasas y otras partes no están incluidos)
 - Característica personalizada: El aspecto es muy bonito. Sería genial si lo combina con nuestra carcasa del control.
+- Requiere que los clientes retiren manualmente el mando para reemplazar este botones completos kit. Busca "eXtremeRate Buttons for Xbox Series X/S" o "kjIIxrSEzlc" en Youtube para obtener el vídeo de instalación.
+- Botones de repuesto diseñado a medida para adaptarse perfectamente al mando Xbox Series X/S. Corte preciso para que funcionen exactamente como los botones originales.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08S7G1ZRB/?tag=tolees-21)
