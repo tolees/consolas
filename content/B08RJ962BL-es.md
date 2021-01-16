@@ -25,10 +25,10 @@ Ahora mismo tienes [eXtremeRate Carcasa Completa para Xbox One Standard Carcasa 
 
 🔎:
 
-- El paquete incluye: 1*carcasa frontal, 1*carcasa trasera, 1*derecho izquierdo carcasa de grip, 1*carcasa de batería, 1*herramienta de abrir, 2*destornilladores, 17*tornillos de repuesto. (Importante: el control, batería touch metal pieza y otras partes no están incluidas).
 - Se adapta perfectamente: Es lo más adecuado,fabricado con exactitud, con un acabado perfecto.
+- El paquete incluye: 1*carcasa frontal, 1*carcasa trasera, 1*derecho izquierdo carcasa de grip, 1*carcasa de batería, 1*herramienta de abrir, 2*destornilladores, 17*tornillos de repuesto. (Importante: el control, batería touch metal pieza y otras partes no están incluidas).
+- Compatibilidad: Se ajusta perfectamente al control estándar de Xbox One (Modelo 1697). No es compatible con otros controles. Compruebe la segunda foto antes de comprar.
 - Requiere habilidad de instalación: Clientes necesita desmontar el mando para instalar esta carcasa. Requiere clientes instalar en el mando a mano.
 - Característica personalizada: el color blanco se ve muy bien, lo que hará que su control sea único entre la multitud
-- Compatibilidad: Se ajusta perfectamente al control estándar de Xbox One (Modelo 1697). No es compatible con otros controles. Compruebe la segunda foto antes de comprar.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08RJ962BL/?tag=tolees-21)
