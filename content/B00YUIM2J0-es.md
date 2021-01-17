@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.00 % en Logitech G29 Driving Force Volante de Ca'
-date: 2021-01-14 20:35:31
+date: 2021-01-17 15:24:02
 image: 'https://m.media-amazon.com/images/I/41za6KklhSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B00YUIM2J0/?tag=tolees-21'
 descuento: '30.00'
-average: '245.88115702479342'
+average: '246.4357723577236'
 ---
 
 Tienes [Logitech G29 Driving Force Volante de Carreras y Pedales  Force Feedback  Aluminio Anodizado  Palancas de cambio  Volante de Cuero  Pedales Ajustables  Enchufe EU  PS5  PS4  PC  Mac - Negro](https://www.amazon.es/dp/B00YUIM2J0/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 279.99 EUR (original: 399.99 EUR) en el siguiente enlace!
