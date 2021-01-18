@@ -25,10 +25,10 @@ Está [PlayVital Cubierta a Prueba de Polvo para Playstation 5 Consola Funda con
 
 ℹ️:
 
+- Material de primera calidad: Hecho de nylon lavable y planchable a mano, con diseño de doble capa forro impermeable y corte preciso para puerto de cable.
 - Protección en total para tu consola: evita el polvo, los pequeños arañazos, los rayos UV, los líquidos y los pelos de las mascotas.
 - Modelo compatible: solo compatible con consola de PlayStation 5, edición digital y regular ambos.
-- Material de primera calidad: Hecho de nylon lavable y planchable a mano, con diseño de doble capa forro impermeable y corte preciso para puerto de cable.
-- Nota: Por favor, retire la cubierta cuando la consola está encendido para evitar el sobrecalentamiento.
 - Corte preciso: acceso fácil para puerto de cable de consola, fácil de colocar y retirar.
+- Nota: Por favor, retire la cubierta cuando la consola está encendido para evitar el sobrecalentamiento.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08RBRX1RT/?tag=tolees-21)
