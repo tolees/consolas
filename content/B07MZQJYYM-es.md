@@ -25,10 +25,10 @@ Ahora mismo tienes [MYPIN 4k @60FPS HD HDR USB 3.0 Captura de Juegos Grabación 
 
 🔎:
 
+- 【1080P @ 60FPS captura de video】Puede mostrar contenido HDMI, grabación de video, grabación de reuniones, grabación de juegos y otras funciones en la computadora. Adecuado para ventanas: GPU, Intel HD, NVIDIA GeForce GTX 600 gráficos de la serie (o mejor). CPU: Intel i5-4xxx quad o mejor para ambos sistemas operativos
 - 【4k @ 60 fps HDMI2.0 Video Passthrough】Paso de video 4k @ 60fps HDMI2.0: Admite entrada de video 4K @ 60 fps 4: 4: 4 y fuente HDMI de salida. La captura cumple con los estándares UVC y UAC, Plug-n-play, sin necesidad de controlador o alimentación externa; Vibrant HDR muestra una increíble gama de colores, blancos más brillantes y negros más profundos
 - 【Compatibilidad mas fuerte】Game Capture Box, graba y transmite PlayStation 4, Xbox One, Xbox 360, Wii U, webcam y más. Compartiendo tu juego en Twitch o YouTube sin límites
-- 【1080P @ 60FPS captura de video】Puede mostrar contenido HDMI, grabación de video, grabación de reuniones, grabación de juegos y otras funciones en la computadora. Adecuado para ventanas: GPU, Intel HD, NVIDIA GeForce GTX 600 gráficos de la serie (o mejor). CPU: Intel i5-4xxx quad o mejor para ambos sistemas operativos
-- 【1080P transmisión en vivo】Captura de video HD Admite transmisión de video en vivo, transmisión por Internet y videoconferencia. Grabe y comparta su video en vivo con la salida HDMI, la grabación de video se puede sincronizar a una pantalla más grande, compatible con el popular software de transmisión y servicios como "OBS Studio"
 - 【MIC en soporte】Con entrada de audio adicional le permite grabar su voz, también puede grabar chats con una entrada de audio de gamepad; El audio del micrófono se puede escuchar cuando revisa el video grabado en la computadora, no se escucha durante la grabación
+- 【1080P transmisión en vivo】Captura de video HD Admite transmisión de video en vivo, transmisión por Internet y videoconferencia. Grabe y comparta su video en vivo con la salida HDMI, la grabación de video se puede sincronizar a una pantalla más grande, compatible con el popular software de transmisión y servicios como "OBS Studio"
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MZQJYYM/?tag=tolees-21)
