@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PLSNTQD-es Switch Nintendo Labo: Kit de VR - Set de expansión 1'
-tags: tole.es, nintendo
+tags: [ 'tole.es','nintendo', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

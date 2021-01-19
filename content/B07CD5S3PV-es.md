@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CD5S3PV-es LEGO Die Unglaublichen - Standard Edition - Nintendo...'
-tags: tole.es, nintendo
+tags: [ 'tole.es','nintendo', ]
 actualPrice: 38.25 EUR
 currency: EUR
 price: 38.25

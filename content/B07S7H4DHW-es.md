@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7H4DHW-es Lamicall Soporte Tablet Multiángulo Soporte Tablet :...'
-tags: tole.es, nintendo
+tags: [ 'tole.es','nintendo', ]
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

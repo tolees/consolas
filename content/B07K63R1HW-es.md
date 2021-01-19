@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K63R1HW-es Baoblaze Botón de Activación LB RB con Kit de Placa...'
-tags: tole.es, xbox
+tags: [ 'tole.es','xbox', ]
 actualPrice: 4.01 EUR
 currency: EUR
 price: 4.01

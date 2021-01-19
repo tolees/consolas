@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7VDTYX-es Orzly Gaming Keyboard and Mouse and Mouse Pad and Gaming...'
-tags: tole.es, ps4, xbox
+tags: [ 'tole.es','ps4','xbox', ]
 actualPrice: 44.27 EUR
 currency: EUR
 price: 44.27

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YB75P8T-es Auriculares Gaming PS4 Cascos Gaming de Mac Estéreo con...'
-tags: tole.es, ps4
+tags: [ 'tole.es','ps4', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

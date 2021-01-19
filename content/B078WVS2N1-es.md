@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WVS2N1-es 2 Sets Llaves de Repuesto Controlador L2 R2 L1 R1 Botón...'
-tags: tole.es, ps4
+tags: [ 'tole.es','ps4', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

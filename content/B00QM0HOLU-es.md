@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QM0HOLU-es Replacement Full Housing Shell Case Button Kit for...'
-tags: tole.es, ps4
+tags: [ 'tole.es','ps4', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

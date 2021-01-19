@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F26Z9KW-es Cascos Gaming Auriculares Gaming PS4 con Microfono para PC...'
-tags: tole.es, ps4, xbox
+tags: [ 'tole.es','ps4','xbox', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

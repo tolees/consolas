@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L8XC6BY-es Mackuna Flex Plus 0.2M Cable de extensión HDMI Audio -...'
-tags: tole.es, ps4, xbox
+tags: [ 'tole.es','ps4','xbox', ]
 actualPrice: 7.44 EUR
 currency: EUR
 price: 7.44

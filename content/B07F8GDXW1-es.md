@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F8GDXW1-es ECHTPower Cargador Mando PS4 Estación de Carga USB...'
-tags: tole.es, playstation, ps4
+tags: [ 'tole.es','playstation','ps4', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99
