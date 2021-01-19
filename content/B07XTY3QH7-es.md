@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XTY3QH7-es Dragon Ball Z: Kakarot Deluxe Edition - PlayStation 4...'
-tags: [ 'tole.es','playstation', ]
+tags: [ 'playstation', ]
 actualPrice: 74.71 EUR
 currency: EUR
 price: 74.71

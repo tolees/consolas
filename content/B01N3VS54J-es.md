@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N3VS54J-es Hori - Funda De Felpa Yo-Kai Watch Komasan Nintendo 3Ds 2Ds'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 7.56 EUR
 currency: EUR
 price: 7.56

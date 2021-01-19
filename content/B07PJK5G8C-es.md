@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PJK5G8C-es KONKY Ventilador PS4 Cooler PS4 Turbo Ventilador Externo...'
-tags: [ 'tole.es','playstation','ps4', ]
+tags: [ 'playstation','ps4', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

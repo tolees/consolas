@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0162V3LKQ-es Krom KHENSU - NXKROMKHNS - Gamepad Alámbrico/Inalámbrico...'
-tags: [ 'tole.es','playstation', ]
+tags: [ 'playstation', ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

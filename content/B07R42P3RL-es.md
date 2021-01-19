@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R42P3RL-es THE G-LAB Kult RADIUM - 4800 DPI Ratón Gaming con Sensor...'
-tags: [ 'tole.es','ps4','xbox', ]
+tags: [ 'ps4','xbox', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GFWMF2Z-es Steelseries Arctis 5 Auriculares De Juego Iluminados por...'
-tags: [ 'tole.es','playstation', ]
+tags: [ 'playstation', ]
 actualPrice: 91.99 EUR
 currency: EUR
 price: 91.99

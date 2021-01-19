@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0829LYZ5T-es Doom Slayers Collection - PS4'
-tags: [ 'tole.es','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

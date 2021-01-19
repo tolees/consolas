@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078MGGWBZ-es Nintendo NINTENDO NES Console Bi-Fold Wallet Multi-Colour...'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

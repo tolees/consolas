@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YW76YXL-es eXtremeRate LED Botones para Mando PS4 Botón de D-pad L1...'
-tags: [ 'tole.es','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

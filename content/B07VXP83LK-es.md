@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VXP83LK-es Ardistel - Game Traveler Deluxe Travel Case NNS50C...'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 15.79 EUR
 currency: EUR
 price: 15.79

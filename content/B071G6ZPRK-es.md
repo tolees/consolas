@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071G6ZPRK-es LucidSound - LS25 eSports Gaming Headset PS4'
-tags: [ 'tole.es','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 64.04 EUR
 currency: EUR
 price: 64.04

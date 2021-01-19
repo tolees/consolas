@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GXKCX6Y-es Mando Inalámbrico GameCube Color Negro Nintendo Switch'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 29.72 EUR
 currency: EUR
 price: 29.72

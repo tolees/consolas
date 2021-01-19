@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G4TF12Y-es Middle Earth: Shadow of War Definitive Edition -...'
-tags: [ 'tole.es','playstation', ]
+tags: [ 'playstation', ]
 actualPrice: 37.54 EUR
 currency: EUR
 price: 37.54

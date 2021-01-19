@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GDHPRSN-es BlueFire Cascos Gaming con Micrófono Auriculares PS4...'
-tags: [ 'tole.es','ps4','xbox', ]
+tags: [ 'ps4','xbox', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

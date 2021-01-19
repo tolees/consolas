@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BN1H7GS-es Indeca - Bolsa Coca-Cola PS4'
-tags: [ 'tole.es','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

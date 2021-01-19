@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YSF5K9V-es Proyector Excelvan 1080P Proyector 4000 lúmenes Proyector...'
-tags: [ 'tole.es','ps4','xbox', ]
+tags: [ 'ps4','xbox', ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

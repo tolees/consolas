@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YGQC87H-es Meridiem Games - Naruto Arcade Mini Nintendo Switch'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 11.81 EUR
 currency: EUR
 price: 11.81

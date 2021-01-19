@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DFM97MD-es Disco Duro Externo 2tb USB 3.1 Disco Duro Externo para Mac...'
-tags: [ 'tole.es','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y4RYH2T-es Charmast Powerbank 10000mAh Mini Batería Externa LED...'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

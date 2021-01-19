@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0166YAUM6-es Imp - Dragon Ball Z Grips PS4'
-tags: [ 'tole.es','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 2.04 EUR
 currency: EUR
 price: 2.04

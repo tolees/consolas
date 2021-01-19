@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075F9KZQG-es PowerA - Cargador de coche Question Block Nintendo Switch'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 11.31 EUR
 currency: EUR
 price: 11.31

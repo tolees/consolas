@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PVRL9BS-es Carcasa para Control de Consola Playstation Controlador de...'
-tags: [ 'tole.es','playstation','ps4', ]
+tags: [ 'playstation','ps4', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

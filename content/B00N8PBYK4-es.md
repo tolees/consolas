@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N8PBYK4-es Nintendo Pikachu Amiibo - Figuras de acción y de colección...'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

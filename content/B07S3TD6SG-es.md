@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S3TD6SG-es HEYSTOP Carcasa Nintendo Switch Funda Nintendo Switch con...'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

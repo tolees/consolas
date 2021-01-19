@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WG5R1XB-es HEYSTOP Funda Compatible con Nintendo Switch Lite...'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

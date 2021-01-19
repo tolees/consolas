@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GD6GMKJ-es BlueFire Cascos Gaming Auriculares Gaming PS4 con...'
-tags: [ 'tole.es','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

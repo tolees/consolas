@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZ22JZP-es God Eater 3 for Nintendo Switch'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

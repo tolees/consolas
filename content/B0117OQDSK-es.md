@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0117OQDSK-es Nintendo - Figura Goomba Con Coin 10 cm'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

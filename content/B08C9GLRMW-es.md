@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C9GLRMW-es eXtremeRate Carcasa Semitransparente para Joy-con de...'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 18.49 EUR
 currency: EUR
 price: 18.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BZ5MYSG-es Joy-Con - Mando de repuesto para Nintendo Switch Izquierdo...'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 49.13 EUR
 currency: EUR
 price: 49.13

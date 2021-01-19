@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004L3VU8S-es Lioncast Arcade Fightstick Palanca de Mando Controlador...'
-tags: [ 'tole.es','playstation', ]
+tags: [ 'playstation', ]
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

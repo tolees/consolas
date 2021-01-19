@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DWYXYRK-es TUTUO para Cargador Mando PS4 Estación de Carga DualShock...'
-tags: [ 'tole.es','playstation','ps4', ]
+tags: [ 'playstation','ps4', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJGKL6T-es Lincci - Funda rígida para Nintendo Switch con cartuchos'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 11.23 EUR
 currency: EUR
 price: 11.23

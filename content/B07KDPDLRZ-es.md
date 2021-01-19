@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KDPDLRZ-es Baoblaze Reparación de Motor de Vibración a Izquierda 3D...'
-tags: [ 'tole.es','playstation','ps4', ]
+tags: [ 'playstation','ps4', ]
 actualPrice: 3.08 EUR
 currency: EUR
 price: 3.08

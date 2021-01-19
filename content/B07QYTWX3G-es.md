@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QYTWX3G-es KLIM™ Voice V2 + Micrófono USB de Escritorio + Nuevo 2020...'
-tags: [ 'tole.es','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 19.43 EUR
 currency: EUR
 price: 19.43

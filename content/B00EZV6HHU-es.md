@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EZV6HHU-es KontrolFreek - FPS Freek Vortex PS4'
-tags: [ 'tole.es','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

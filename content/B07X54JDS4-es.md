@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X54JDS4-es YINSAN Auriculares Gaming para PS4 Cascos Gaming Premium...'
-tags: [ 'tole.es','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

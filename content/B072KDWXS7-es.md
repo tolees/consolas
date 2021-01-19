@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072KDWXS7-es FR·TEC - Funda Silicona + Grip Para Joy- Con Amarillo...'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 3.68 EUR
 currency: EUR
 price: 3.68

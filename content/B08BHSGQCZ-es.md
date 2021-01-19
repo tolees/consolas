@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BHSGQCZ-es Disco Duro Externo 1 TB Disco Duro Externo para PC Mac...'
-tags: [ 'tole.es','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

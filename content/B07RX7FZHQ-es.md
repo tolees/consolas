@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RX7FZHQ-es FIFA 20 - PlayStation 4 [Importación inglesa]'
-tags: [ 'tole.es','playstation', ]
+tags: [ 'playstation', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

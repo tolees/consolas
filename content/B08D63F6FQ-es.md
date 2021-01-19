@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D63F6FQ-es Disco Duro Externo 2 TB para PC Mac Xbox MacBook...'
-tags: [ 'tole.es','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IFDRJ7A-es 3x Pegatina Cubierta Adhesiva Impreso Estrella Rosada...'
-tags: [ 'tole.es','playstation','ps4', ]
+tags: [ 'playstation','ps4', ]
 actualPrice: 7.16 EUR
 currency: EUR
 price: 7.16

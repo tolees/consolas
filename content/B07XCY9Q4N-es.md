@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XCY9Q4N-es Orzly Kit Accesorios para Nintendo Switch Geek Pack con:...'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 48.18 EUR
 currency: EUR
 price: 48.18

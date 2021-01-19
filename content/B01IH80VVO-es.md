@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IH80VVO-es Red Dead Redemption Classics - Xbox one'
-tags: [ 'tole.es','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 17.3 EUR
 currency: EUR
 price: 17.3

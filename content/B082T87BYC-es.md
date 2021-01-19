@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082T87BYC-es Resident Evil 3 Remake - Xbox One'
-tags: [ 'tole.es','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 41.31 EUR
 currency: EUR
 price: 41.31

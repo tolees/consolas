@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081DVXB8T-es para HDMI Scanline Generator Scanner para Juegos Retro...'
-tags: [ 'tole.es','ps4','xbox', ]
+tags: [ 'ps4','xbox', ]
 actualPrice: 41.86 EUR
 currency: EUR
 price: 41.86

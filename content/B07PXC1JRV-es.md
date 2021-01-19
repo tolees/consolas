@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PXC1JRV-es Controlador inalámbrico PS4 para Playstation 4 /...'
-tags: [ 'tole.es','playstation','ps4', ]
+tags: [ 'playstation','ps4', ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

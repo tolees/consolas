@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NRRF9JM-es Webcam HD 1080P Stream Cámara Web con Micrófonos Duales...'
-tags: [ 'tole.es','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 34.84 EUR
 currency: EUR
 price: 34.84

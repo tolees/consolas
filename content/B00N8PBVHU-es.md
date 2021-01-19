@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00N8PBVHU-es Nintendo - Figura Amiibo Smash Fit Trainer'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

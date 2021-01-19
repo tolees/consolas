@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XCDFH3R-es KLIM Puma – Cascos Auriculares Gaming con micrófono –...'
-tags: [ 'tole.es','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 69.97 EUR
 currency: EUR
 price: 69.97

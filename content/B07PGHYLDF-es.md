@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PGHYLDF-es Carrera- Nintendo Mario Kart-Mach 8 Juego con Coches...'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08K8FZVCV-es eXtremeRate Carcasa para Xbox One Elite Protectora Tacto...'
-tags: [ 'tole.es','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

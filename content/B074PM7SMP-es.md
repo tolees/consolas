@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PM7SMP-es Pdp - Auriculares Stereo AG 6 con Licencia Oficial Sony PS4'
-tags: [ 'tole.es','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 23.68 EUR
 currency: EUR
 price: 23.68

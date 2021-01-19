@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G9HTXTX-es Mando inalámbrico Pro4 FPS wireless controller -...'
-tags: [ 'tole.es','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 29.71 EUR
 currency: EUR
 price: 29.71

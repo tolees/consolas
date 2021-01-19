@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WWZZBSQ-es Hori - Pokémon Trainer Pack Pikachu Nintendo Switch /...'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 17.09 EUR
 currency: EUR
 price: 17.09

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SST3JPG-es Darksiders Genesis - Xbox One'
-tags: [ 'tole.es','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

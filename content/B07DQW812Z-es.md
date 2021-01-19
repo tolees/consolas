@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DQW812Z-es Megaman 11 para PlayStation 4 - Edición Estándar'
-tags: [ 'tole.es','playstation', ]
+tags: [ 'playstation', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

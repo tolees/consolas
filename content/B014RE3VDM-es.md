@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014RE3VDM-es Nintendo - Remote Plus - Edición TOAD Nintendo Wii U'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 42.44 EUR
 currency: EUR
 price: 42.44

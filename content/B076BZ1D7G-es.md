@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076BZ1D7G-es Pegatinas Cubiertas Adhesiva Decal Set para Sony...'
-tags: [ 'tole.es','playstation','ps4', ]
+tags: [ 'playstation','ps4', ]
 actualPrice: 11.84 EUR
 currency: EUR
 price: 11.84

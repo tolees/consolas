@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01A0TEIX0-es Hori - Funda De Felpa Splatoon 2 Nintendo Switch'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 11.67 EUR
 currency: EUR
 price: 11.67

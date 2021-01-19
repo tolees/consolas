@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HZ6B8HD-es Disco Duro Externo 1 TB USB-C Disco Duro Externo para PC...'
-tags: [ 'tole.es','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

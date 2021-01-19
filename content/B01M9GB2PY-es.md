@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M9GB2PY-es Subsonic - Caso Rígido Con Licencia Oficial Real Madrid...'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

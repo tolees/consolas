@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0I0K0E-es Assassin s Creed: The Ezio Collection - Xbox One'
-tags: [ 'tole.es','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075H3XB4Y-es PowerA - Comfort Grip Para 2 Joy-Con De Mario Odyssey...'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

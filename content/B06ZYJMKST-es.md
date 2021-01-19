@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZYJMKST-es Ardistel - N-Switch Game Traveler Deluxe NNS50 MK Nintendo...'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

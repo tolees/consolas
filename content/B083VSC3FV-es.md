@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083VSC3FV-es Disco Duro Externo 2TB Disco Duro Externo USB3.1 Type C...'
-tags: [ 'tole.es','ps4','xbox', ]
+tags: [ 'ps4','xbox', ]
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

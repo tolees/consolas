@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GVRV8D9-es Mando con cable Pro4 controller para consola PS4 / Slim/...'
-tags: [ 'tole.es','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 23.52 EUR
 currency: EUR
 price: 23.52

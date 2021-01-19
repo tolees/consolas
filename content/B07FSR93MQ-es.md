@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FSR93MQ-es Hori - Controlador D-Pad L Super Mario Nintendo Switch'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

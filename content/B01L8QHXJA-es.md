@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L8QHXJA-es Import Europe - Strike Pack FPS Dominator Mod PS4'
-tags: [ 'tole.es','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 46.88 EUR
 currency: EUR
 price: 46.88

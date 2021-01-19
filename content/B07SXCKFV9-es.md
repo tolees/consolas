@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SXCKFV9-es Controlador inalámbrico DualShock 4 para Playstation 4...'
-tags: [ 'tole.es','playstation', ]
+tags: [ 'playstation', ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

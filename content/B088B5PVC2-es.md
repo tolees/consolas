@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088B5PVC2-es tomtoc Funda Ultra Delgada para Nintendo Switch Patente...'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

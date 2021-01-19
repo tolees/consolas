@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ALCAIMQ-es KINGTOP PS4 Fan Universal Ventilador de Refrigeración...'
-tags: [ 'tole.es','playstation','ps4', ]
+tags: [ 'playstation','ps4', ]
 actualPrice: 16.81 EUR
 currency: EUR
 price: 16.81

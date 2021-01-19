@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TY1DKTT-es eFootball PES 2020 - Xbox One [Importación inglesa]'
-tags: [ 'tole.es','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 15.53 EUR
 currency: EUR
 price: 15.53

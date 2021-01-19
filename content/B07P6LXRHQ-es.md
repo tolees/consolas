@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P6LXRHQ-es Rotación Profesional Diseño Ajustable Clip de Montaje de...'
-tags: [ 'tole.es','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 2.37 EUR
 currency: EUR
 price: 2.37

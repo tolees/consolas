@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TS1WJ24-es ZWOOS Adaptador HDMI a VGA 1080p Convertidor de HDMI...'
-tags: [ 'tole.es','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 8.7 EUR
 currency: EUR
 price: 8.7

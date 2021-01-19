@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07695WBMX-es AUKEY Quick Charge 3.0 Bateria Externa 26500mAh Cargador...'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

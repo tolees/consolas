@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GX7VCM1-es PDP - Starter Kit Edición Mario Remix Nintendo Switch'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

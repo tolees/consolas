@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F7ZJG2J-es [ Versión Nuevo ] TeckNet 2.0M Cable HDMI 2.0 4K Ultra HD...'
-tags: [ 'tole.es','playstation','ps4','xbox', ]
+tags: [ 'playstation','ps4','xbox', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

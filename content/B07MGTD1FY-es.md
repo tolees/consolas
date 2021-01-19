@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MGTD1FY-es LoveOlvidoE 2 unids Universal 3D Thumbstick Cap Aleación...'
-tags: [ 'tole.es','ps4','xbox', ]
+tags: [ 'ps4','xbox', ]
 actualPrice: 1.9 EUR
 currency: EUR
 price: 1.9

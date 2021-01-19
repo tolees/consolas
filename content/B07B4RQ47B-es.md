@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4RQ47B-es AUKEY Powerbank USB C 10000mAh con Power Delivery de 18 W...'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

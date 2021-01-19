@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K6KP9G4-es IBRA 10M Luxury Cable de HDMI de Ultra Alta Velocidad...'
-tags: [ 'tole.es','playstation','ps4','xbox', ]
+tags: [ 'playstation','ps4','xbox', ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

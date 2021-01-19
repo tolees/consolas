@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z6CNGF1-es Mando para conmutador / Switch Lite mando inalámbrico para...'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 32.11 EUR
 currency: EUR
 price: 32.11

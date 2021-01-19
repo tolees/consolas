@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBPR3HQ-es Shuliancable Cable HDMI Compatible con Ethernet Retorno de...'
-tags: [ 'tole.es','playstation', ]
+tags: [ 'playstation', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PG9B5LJ-es Nacon Revolution Unlimited - Mando inalámbrico [Versión...'
-tags: [ 'tole.es','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 138.29 EUR
 currency: EUR
 price: 138.29

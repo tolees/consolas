@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PSCCC78-es Redragon H510 ZEUS - Cascos headset cómodos para Gaming -...'
-tags: [ 'tole.es','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

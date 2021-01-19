@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YKYZVMB-es Molyhood Controlador inalámbrico para PS3 Bluetooth Mando...'
-tags: [ 'tole.es','playstation', ]
+tags: [ 'playstation', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AJUFF8M-es HORI - Horipad azul Nintendo Switch'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 17.35 EUR
 currency: EUR
 price: 17.35

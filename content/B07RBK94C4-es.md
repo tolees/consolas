@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RBK94C4-es C-FUNN Carcasa del Cartucho Reemplazo De La Tarjeta De...'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 8.13 EUR
 currency: EUR
 price: 8.13

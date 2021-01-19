@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DP1P89P-es Controller para Nintendo Switch EasySMX Mandos Nintendo...'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 35.61 EUR
 currency: EUR
 price: 35.61

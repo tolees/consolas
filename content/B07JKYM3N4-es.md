@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JKYM3N4-es NUBWO N12 Xbox One PS4 auriculares para juegos auriculares...'
-tags: [ 'tole.es','nintendo','ps4','xbox', ]
+tags: [ 'nintendo','ps4','xbox', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018SZFTWW-es Blade - Grips Woxter Color Azul PS4'
-tags: [ 'tole.es','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 1.57 EUR
 currency: EUR
 price: 1.57

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4P40LG-es Hori - Mando Real Arcade Pro V Hayabusa Hori Nintendo...'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 107.99 EUR
 currency: EUR
 price: 107.99

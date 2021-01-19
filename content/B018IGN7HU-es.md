@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018IGN7HU-es Nintendo - Figura amiibo Animal Crossing Estela'
-tags: [ 'tole.es','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

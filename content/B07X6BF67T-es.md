@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X6BF67T-es THE G-LAB Korp COBALT Auriculares Gaming - Auriculares...'
-tags: [ 'tole.es','ps4','xbox', ]
+tags: [ 'ps4','xbox', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

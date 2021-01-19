@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06VYC44V6-es Timorn Negro Full Sets Face Botones para PS4 Dual Shock 4...'
-tags: [ 'tole.es','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

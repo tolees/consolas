@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DH26KXB-es Disco Duro Externo 1tb USB3.1 Disco Duro Externo para Mac...'
-tags: [ 'tole.es','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

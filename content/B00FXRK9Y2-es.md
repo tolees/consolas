@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FXRK9Y2-es Sony Playstation 3 - Lámina protectora adhesiva para mando...'
-tags: [ 'tole.es','playstation', ]
+tags: [ 'playstation', ]
 actualPrice: 12.02 EUR
 currency: EUR
 price: 12.02

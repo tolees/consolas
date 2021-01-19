@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDKJ5P2-es Powcan Mando Inalámbrico PS3 Bluetooth PS3 Gamepad...'
-tags: [ 'tole.es','playstation', ]
+tags: [ 'playstation', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DJ3JV9W-es Disco Duro Externo 1 TB Type C USB3.1 para PC Mac Xbox One...'
-tags: [ 'tole.es','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

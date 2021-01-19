@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082PQRJL3-es Remnant From the Ashes - PS4'
-tags: [ 'tole.es','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 20.65 EUR
 currency: EUR
 price: 20.65

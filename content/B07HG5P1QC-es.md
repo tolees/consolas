@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HG5P1QC-es KLIM™ AIM Ratón Gaming Chroma RGB - Cable USB...'
-tags: [ 'tole.es','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

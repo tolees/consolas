@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZYJQWK7-es Timorn Piezas de Reparación Torx T8 Tornillos Conjunto...'
-tags: [ 'tole.es','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99
