@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4118hMa6swL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q4SD1NB-es'
+slug: 'B07Q4SD1NB-es Etpark Mando Xbox 360  PC Mando USB Controlador de Gamepad Joystick de juegos Joypad para Xbox 360  mando de diseño ergonómico mejorado para Xbox 360 Slim y PC con Windows XP / Vista / 7/8 / 8.1 / 10'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

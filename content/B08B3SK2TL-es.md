@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uPSUj-shL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B3SK2TL-es'
+slug: 'B08B3SK2TL-es CHOETECH Cargador USB C[GaN Tech]  PD 65W Cargador de Pared USB C+USB A para MacBook Pro/Air  MacBook  iPad Pro  Dell XPS iPhone 11 Pro/XR/X  Samsung Galaxy  Huawei  iPad Google Pixel  Nintendo Switch'
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

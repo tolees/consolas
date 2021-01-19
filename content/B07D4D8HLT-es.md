@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/514zncXd3KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D4D8HLT-es'
+slug: 'B07D4D8HLT-es ALWUP Cascos PS4 Gaming  Auriculares Gaming PS4 Xbox One con Micrófono Auriculares PC Game Graves Profundos Sonido Estéreo Anti-Ruido y Luces LED USB para Playstation Nintendo Switch Laptop Computer'
 actualPrice: 21.41 EUR
 currency: EUR
 price: 21.41

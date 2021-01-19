@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/313FJvFqcyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H07FV5Y-es'
+slug: 'B01H07FV5Y-es BenQ ZOWIE RL2755 - Monitor de 27" para consola e-Sports  FHD  Lag-free   monitor oficial para PlayStation 4  PS4 / PS4 Pro '
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

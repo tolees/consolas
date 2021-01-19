@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31R527dGE+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S5QKSSB-es'
+slug: 'B07S5QKSSB-es RAVPower Cargador USB con 2 Puertos USB 17W Cargador de Red Tecnología iSmart 2.0 Compatible con iPhone 11 Pro MAX XS MAX XR X 8 Plus iPad Pro Air Mini Huaiwei Xiaomi Samsung Nintendo Switch Negro'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

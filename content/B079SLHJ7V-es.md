@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/317mfhf6d3L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B079SLHJ7V-es'
+slug: 'B079SLHJ7V-es WWE 2K18 - Nintendo Switch [Importación inglesa]'
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

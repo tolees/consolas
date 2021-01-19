@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ChOuz9cJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XD4Q6RN-es'
+slug: 'B07XD4Q6RN-es KLIM ™ Rush - Auriculares Gaming + Diadema cómoda y Ajustable + Cascos con micrófono + Clavija Jack de 3 5 mm + Cascos Gaming PS4 PC Mac Xbox One Switch iOS Android + 5 años de garantía + NUEVOS 2020'
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

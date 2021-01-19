@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419ZTtb+pgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004L3VU8S-es'
+slug: 'B004L3VU8S-es Lioncast Arcade Fightstick Palanca de Mando Controlador con Botones programables  Sanwa  Turbo/Modo rápido y Base de Goma para PC/Sony Playstation  PS2  PS3 '
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lRTjpL-uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CT2WVLX-es'
+slug: 'B08CT2WVLX-es Mando Inalámbrico para PS4  Mando Inalámbrico Gamepad Doble Vibración Seis Ejes Mando Game Compatible con Playstation 4/PS4 Slim/PS4 Pro  Rojo Transparente '
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

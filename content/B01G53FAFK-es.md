@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OGpphUchL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01G53FAFK-es'
+slug: 'B01G53FAFK-es EasyAcc G1 Virtual 7.1 - Juego de Auriculares para Videojuegos  Sonido Envolvente  funci¨®n de vibraci¨®n  USB  para Juegos de Ordenador  PS4'
 actualPrice: 27.22 EUR
 currency: EUR
 price: 27.22

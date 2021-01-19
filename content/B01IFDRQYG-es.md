@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51j+9t3cohL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IFDRQYG-es'
+slug: 'B01IFDRQYG-es 3pcs Pegatinas Cubierta Adhesiva de Consola Impreso Cielo Estrellado para Sony PlayStation 4 PS4 Controlador'
 actualPrice: 6.47 EUR
 currency: EUR
 price: 6.47

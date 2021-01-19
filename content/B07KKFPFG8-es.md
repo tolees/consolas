@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4170SzAJV4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KKFPFG8-es'
+slug: 'B07KKFPFG8-es Lioncast LX60 USB Auriculares para Juegos para PC  PS4  Xbox One  Nintendo Switch  Mac  teléfono Inteligente  Estéreo & Sonido Envolvente Virtual 7.1  iluminación RGB LED  LED de Silencio '
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

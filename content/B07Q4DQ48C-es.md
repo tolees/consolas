@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CDAL8G4eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q4DQ48C-es'
+slug: 'B07Q4DQ48C-es Final Fantasy XIV: Shadowbringers  PS4 '
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

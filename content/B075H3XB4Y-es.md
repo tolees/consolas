@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41FqxD-z6IL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075H3XB4Y-es'
+slug: 'B075H3XB4Y-es PowerA - Comfort Grip Para 2 Joy-Con De Mario Odyssey  Nintendo Switch '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

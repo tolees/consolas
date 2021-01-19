@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cZvKu119L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZGMW73H-es'
+slug: 'B07ZGMW73H-es Cable Micro USB  Tujun [3 Unidades/3 pies+3 pies+6 pies] Android USB de Carga rápida Cable de Nailon para Samsung Galaxy S7 S6 S5 J7 Note 5  Kindle  Nexus  Sony  Xbox  HTC  PS4 y más Rojo + Azul.'
 actualPrice: 2.26 EUR
 currency: EUR
 price: 2.26

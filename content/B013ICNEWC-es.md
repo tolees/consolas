@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/417sp3ggkjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013ICNEWC-es'
+slug: 'B013ICNEWC-es KabelDirekt 5m Cable de Extensión HDMI  compatible con  HDMI 2.0a/b  2.0  1.4a  4K Ultra HD  3D  Full HD 1080p  HDR  ARC High Speed con Ethernet  PS4  XBOX  HDTV   TOP Series'
 actualPrice: 10.16 EUR
 currency: EUR
 price: 10.16

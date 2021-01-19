@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ZikcfeR3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HNWFGD4-es'
+slug: 'B07HNWFGD4-es Fácil de Instalar Tarjeta de Memoria de Alta Velocidad de 128MB Guardar Tarjeta de Datos del Juego Adecuada para Nintendo Gamecube y Wii 2043 Bloques'
 actualPrice: 5.27 EUR
 currency: EUR
 price: 5.27

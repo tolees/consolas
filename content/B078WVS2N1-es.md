@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dhazPT5iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WVS2N1-es'
+slug: 'B078WVS2N1-es 2 Sets Llaves de Repuesto Controlador L2 R2 L1 R1 Botón Tapas Analógicas Kit Accesorios de Videojuegos para Sony PS4 Controlador Azul+Rojo'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

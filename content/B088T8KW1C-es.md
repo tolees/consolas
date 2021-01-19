@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xEXlfMANL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088T8KW1C-es'
+slug: 'B088T8KW1C-es PROZOR 192kHz DAC Convertidor Digital a Analógico con Ajuste de Volumen Optico SPDIF Toslink Coaxial a Estéreo RCA L/R Jack de 3 5 mm Soporta LPCM 2.0 para HDTV PS4 DVD Altavoces Auriculares'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

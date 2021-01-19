@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/516H5gEdGYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B075VG8VNW-es'
+slug: 'B075VG8VNW-es Exquisite Games - Big Box Call Of Duty WWII  PS4 '
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

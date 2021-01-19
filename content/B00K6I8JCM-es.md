@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uX162SeUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K6I8JCM-es'
+slug: 'B00K6I8JCM-es Nintendo Selects New Super Mario Bros.Wii  Juego'
 actualPrice: 41.39 EUR
 currency: EUR
 price: 41.39

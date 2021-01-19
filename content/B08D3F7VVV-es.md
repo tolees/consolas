@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qAHLL1mxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D3F7VVV-es'
+slug: 'B08D3F7VVV-es Primewire –2m Cable HDMI 2.1 - Alta Velocidad con Ethernet - 8k @ 120 Hz con DSC - 7680 x 4320 - UHD II - Compatible con HDMI 2.1 2.0a 2.0b - 3D - HDR - ARC - Compatible con Blue Ray PS4 Xbox'
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

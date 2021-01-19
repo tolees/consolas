@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518ZqaK7PoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P7QJJM2-es'
+slug: 'B07P7QJJM2-es My time at Portia - PS4 [Importación francesa]'
 actualPrice: 9.76 EUR
 currency: EUR
 price: 9.76

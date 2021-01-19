@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51SVJiM5XyL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K6KP9G4-es'
+slug: 'B00K6KP9G4-es IBRA 10M Luxury Cable de HDMI de Ultra Alta Velocidad Cable de 18Gb/s HDMI 2.0b Soporte 4K@60Hz Fire TV  Ethernet  Retorno de Audio Video UHD 2160p HD 1080p 3D  Xbox Playstation PS3 PS4 PC'
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sBooq+57L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X2XV4VW-es'
+slug: 'B07X2XV4VW-es Nacon - Micrófono de Streaming  Oficial Sony  PS4 '
 actualPrice: 47.24 EUR
 currency: EUR
 price: 47.24

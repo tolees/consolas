@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518SKcGi9mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073X3ZJ5H-es'
+slug: 'B073X3ZJ5H-es Pdp - Mando Licenciado Nueva  Color Camuflaje Negro  Xbox One '
 actualPrice: 19.59 EUR
 currency: EUR
 price: 19.59

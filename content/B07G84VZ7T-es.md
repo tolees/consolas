@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LwALgiAlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G84VZ7T-es'
+slug: 'B07G84VZ7T-es Razer Thresher - Auriculares inalámbricos para PS4'
 actualPrice: 109.8 EUR
 currency: EUR
 price: 109.8

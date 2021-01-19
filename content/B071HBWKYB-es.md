@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JgSpeYnlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071HBWKYB-es'
+slug: 'B071HBWKYB-es Timorn Plástico Duros Controlador de la Vivienda Shell Caso de Reemplazo de la Cubierta para Playstation 4 PS4  1 x Estuche + 1 x Destornillador '
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

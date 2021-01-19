@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iChg-93yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CMG5RC1-es'
+slug: 'B08CMG5RC1-es Disco Duro Externo 2 TB USB-C Disco Duro Externo para PC  Mac  Xbox One  MacBook. 2TB Negro '
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

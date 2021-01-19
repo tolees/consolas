@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418SHyalOYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BN1H7GS-es'
+slug: 'B07BN1H7GS-es Indeca - Bolsa Coca-Cola  PS4 '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

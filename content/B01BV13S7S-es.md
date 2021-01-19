@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dgS1tTXhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BV13S7S-es'
+slug: 'B01BV13S7S-es Seagate Game Drive para Xbox  4 TB  Disco duro externo  HDD portátil  diseñado para Xbox One  STEA4000402 '
 actualPrice: 114.99 EUR
 currency: EUR
 price: 114.99

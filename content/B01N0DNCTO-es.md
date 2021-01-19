@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qGFgZk5xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0DNCTO-es'
+slug: 'B01N0DNCTO-es Playseat Evolution Playstation [Importación Inglesa]'
 actualPrice: 269.0 EUR
 currency: EUR
 price: 269.0

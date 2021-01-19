@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NojA70eTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PN21NF6-es'
+slug: 'B07PN21NF6-es ORICO 5Gbps SuperSpeed 4 Puertos USB 3.0 Hub con BC1.2 función de Carga  Portátil  PS4  Xbox  Memoria USB  Ratón  Teclado Compatible con Windows y Linux-Plata'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XKkYwbNVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071WBWGBT-es'
+slug: 'B071WBWGBT-es Syncwire Cable HDMI 2.0 de alta velocidad 2M - Ultra HD 4k HDMI 18 Gbps Compatible con Fire TV  Apple TV  Ethernet  Retorno de Audio  vídeo UHD 2160p  HD 1080p  3D  Playstation PS3 PS4 PC'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

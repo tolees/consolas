@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xhf1tJw5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084TKK57D-es'
+slug: 'B084TKK57D-es Mortal Kombat 11 - Edición Estándar  Incluye DLC Joker   PS4 '
 actualPrice: 29.92 EUR
 currency: EUR
 price: 29.92

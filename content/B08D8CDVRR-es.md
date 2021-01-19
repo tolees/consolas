@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414Um38fL5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D8CDVRR-es'
+slug: 'B08D8CDVRR-es Ocobudbxw Cámara con Sensor de Movimiento Ocular micrófono para Sony Playstation 3 PS3 Game'
 actualPrice: 18.11 EUR
 currency: EUR
 price: 18.11

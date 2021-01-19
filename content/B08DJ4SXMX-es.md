@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41F4KDqpX4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DJ4SXMX-es'
+slug: 'B08DJ4SXMX-es Tarjeta de captura de juegos ZasLuke  USB 3.0 4K Audio Video Capture Card con HDMI Loop-Out 1080P 60FPS Live Streaming HDMI Capture para PS4  Nintendo Switch  Xbox One y Xbox 360 y más'
 actualPrice: 61.55 EUR
 currency: EUR
 price: 61.55

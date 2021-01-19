@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51soYxhoRLL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0746SDHT3-es'
+slug: 'B0746SDHT3-es Nacon Revolution Pro Controller - Mando alámbrico  color rojo  PS4 '
 actualPrice: 87.34 EUR
 currency: EUR
 price: 87.34

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/71I3F-ZS7sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFNM183-es'
+slug: 'B07DFNM183-es Pack Pegatinas [150-PCS] Q-Window Stickers Vinilo Graffiti Calcomanías Pegatina para Coche Moto Infantiles Pared Teclado IPhone Ps4 Niños Bicicleta Ordenador Equipaje Snowboard Macbook Xbox One bomb'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

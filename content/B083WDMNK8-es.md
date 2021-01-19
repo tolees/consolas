@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317A9Kb3OiL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083WDMNK8-es'
+slug: 'B083WDMNK8-es Disco Duro Externo 1 TB  Disco Duro Externo Type C USB3.1 para PC  Mac  PS4  Xbox One  MacBook  Desktop  Laptop  Chromebook. 1TB Negro '
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

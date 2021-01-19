@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41R7a7YroVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PXC1JRV-es'
+slug: 'B07PXC1JRV-es Controlador inalámbrico PS4  para Playstation 4 / Pro/Slim/PC portátil  Panel táctil Joypad con Doble vibración  Forma oportuna al Instante para Compartir Joystick'
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

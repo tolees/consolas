@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51N7RvOHV1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JIX6KWG-es'
+slug: 'B01JIX6KWG-es Two Dots - Mando Con Cable Pro Pad 4  PS4 '
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

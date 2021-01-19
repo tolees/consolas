@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rWJmJr3mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073W79FCP-es'
+slug: 'B073W79FCP-es ELEGIANT Auriculares Gaming PC  Cascos Gaming Headset con Micrófono de Vídeojuego con Cancelación de Sonido Estéreo Bajo para Ordenador PS4 Xbox One Negro'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

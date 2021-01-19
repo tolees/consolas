@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZExrEmjwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YSF5K9V-es'
+slug: 'B07YSF5K9V-es Proyector Excelvan  1080P Proyector 4000 lúmenes Proyector Mini HD para Entretenimiento en el hogar Conectar con computadora portátil TV Box Teléfono PS4 Xbox TV Stick'
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

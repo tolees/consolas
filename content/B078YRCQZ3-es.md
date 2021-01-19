@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gEsphLoKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078YRCQZ3-es'
+slug: 'B078YRCQZ3-es Funda PS4 Pro Mando Silicona Caso Piel Fundas Protectores Cubierta para Sony PS4 Slim/Pro Mando con Pulgar Agarre Thumb Grips x 2  Blanco  - VISPOW'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

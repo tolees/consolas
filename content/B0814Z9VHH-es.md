@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jSu8DJZqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0814Z9VHH-es'
+slug: 'B0814Z9VHH-es HEYSTOP Compatible Mando Nintendo Switch Inalámbrico Gamepad Controller para Nintendo Switch/Switch Lite/PC'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

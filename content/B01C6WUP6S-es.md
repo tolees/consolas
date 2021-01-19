@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+k22pogCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C6WUP6S-es'
+slug: 'B01C6WUP6S-es HORI - Vault Case Animal Crossing  Nintendo Switch / Switch Lite '
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

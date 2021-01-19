@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51c6vE8xj0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EZV6HHU-es'
+slug: 'B00EZV6HHU-es KontrolFreek - FPS Freek Vortex  PS4 '
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

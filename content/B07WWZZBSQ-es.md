@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416LAUZISTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WWZZBSQ-es'
+slug: 'B07WWZZBSQ-es Hori - Pokémon Trainer Pack Pikachu  Nintendo Switch / Switch Lite '
 actualPrice: 17.09 EUR
 currency: EUR
 price: 17.09

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NvNjaVaZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SCDWSFC-es'
+slug: 'B07SCDWSFC-es Monster Hunter World: Iceborne - Master Edition - PS4'
 actualPrice: 39.66 EUR
 currency: EUR
 price: 39.66

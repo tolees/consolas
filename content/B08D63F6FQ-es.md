@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dndfM6dTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D63F6FQ-es'
+slug: 'B08D63F6FQ-es Disco Duro Externo 2 TB para PC  Mac Xbox  MacBook  Chromebook  2TB Rojo '
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

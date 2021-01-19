@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FINDP0MbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019MMN94A-es'
+slug: 'B019MMN94A-es Hori - Fighting Stick Mini  PS4  PS3  PC '
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41G-rr-peXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089KSKJ4Y-es'
+slug: 'B089KSKJ4Y-es Disco duro externo  1 TB 2 TB de disco duro ultradelgado USB 3.0 portátil almacenamiento externo para PC  portátil  Xbox One  Mac  2 TB  plata   color plateado'
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

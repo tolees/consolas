@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ppLyAC7vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TS1WJ24-es'
+slug: 'B07TS1WJ24-es ZWOOS Adaptador HDMI a VGA  1080p Convertidor de HDMI Masculino a VGA Hembra Compatible con Computadora  HDTV  Xbox'
 actualPrice: 8.7 EUR
 currency: EUR
 price: 8.7

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZbVgDfw3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077PXRF46-es'
+slug: 'B077PXRF46-es Trust Gaming GXT 219 - Hub USB para PS4 Slim  Negro'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

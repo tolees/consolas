@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31s-2ca1CZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003JHQMQW-es'
+slug: 'B003JHQMQW-es Lioncast 2x Micrófonos USB universal para ordenador y Karaoke; Compatible con juegos de Wii  PS3  PS4  Xbox One y PC como Guitar Hero  Rock Star  etc .; Cable de 2 5 m - Negro'
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

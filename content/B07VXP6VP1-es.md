@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51R+qHfLQpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VXP6VP1-es'
+slug: 'B07VXP6VP1-es Ardistel - Game Traveler Deluxe Travel Case NNS50B  Nintendo Switch '
 actualPrice: 15.79 EUR
 currency: EUR
 price: 15.79

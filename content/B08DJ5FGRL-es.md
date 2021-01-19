@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AMIeeru9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DJ5FGRL-es'
+slug: 'B08DJ5FGRL-es Disco Duro Externo 2tb USB 3.1 para Mac  PC MacBook  Chromebook  Xbox  1tb  Plata '
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

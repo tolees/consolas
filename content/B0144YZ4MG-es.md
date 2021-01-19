@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dIkb7Li+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0144YZ4MG-es'
+slug: 'B0144YZ4MG-es Ardistel - Headset Blackfire BFX10  PlayStation 4 '
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aOcj8+OeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NPZJ7SS-es'
+slug: 'B07NPZJ7SS-es Controlador PowerA Wired con licencia oficial para Xbox One  Xbox One S  Xbox One X und Windows 10  - Escarcha ártica Camo'
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

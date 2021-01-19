@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41imOf-+s2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JVC83F1-es'
+slug: 'B07JVC83F1-es 4 Gamers - PRO4-70 Negro Auricular Gaming  Licenciado  PS4 '
 actualPrice: 22.39 EUR
 currency: EUR
 price: 22.39

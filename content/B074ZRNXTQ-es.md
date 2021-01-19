@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lMJUwWBoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074ZRNXTQ-es'
+slug: 'B074ZRNXTQ-es FR·TEC -  Grips XL Amarillo Neón - Nintendo Switch'
 actualPrice: 2.39 EUR
 currency: EUR
 price: 2.39

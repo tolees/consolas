@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-BvEECokL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZFYQ7V6-es'
+slug: 'B07ZFYQ7V6-es FR-TEC - Cargador para Mando Playstation 4  Estación de Carga Inalámbrica  PS4 '
 actualPrice: 25.46 EUR
 currency: EUR
 price: 25.46

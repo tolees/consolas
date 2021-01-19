@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uPrr8xvUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B3Z1YU0-es'
+slug: 'B01B3Z1YU0-es XtremeRate 4 Pares de Tapas Joystick Comptible con PS4 Analógico Funda de Silicona Tapa de Pulgar para Joysticks Thumbsticks de PS4 Original Slim ProAzul'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

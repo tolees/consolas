@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kuTNeJucL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HHRR491-es'
+slug: 'B07HHRR491-es Jump Force - Collector s Edition  Playstation 4'
 actualPrice: 129.95 EUR
 currency: EUR
 price: 129.95

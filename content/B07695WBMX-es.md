@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ybxnFNNML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07695WBMX-es'
+slug: 'B07695WBMX-es AUKEY Quick Charge 3.0 Bateria Externa 26500mAh  Cargador Portatil con 2 Ports para phones  Nintendo Switch y más'
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

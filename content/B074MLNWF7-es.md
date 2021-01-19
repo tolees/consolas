@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61aYjOyxgPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074MLNWF7-es'
+slug: 'B074MLNWF7-es JEU Console KOEI TECMO Warriors All Stars PS4'
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

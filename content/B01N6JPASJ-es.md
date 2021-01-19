@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518LCVke0PL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6JPASJ-es'
+slug: 'B01N6JPASJ-es eXtremeRate 2 Pares de Gatillo Extensor L2 R2 Disparador de bontones Ajustables quickfire Trigger para Mando de Playstation 4 PS4 con JDM-030 Azul '
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

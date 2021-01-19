@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TBs-2MN4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072FB6FGS-es'
+slug: 'B072FB6FGS-es Timorn Soporte Interno de Soporte Medio de la Placa Madre para Playstation 4 PS4 Pro Controlador JDM-040  2pcs '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

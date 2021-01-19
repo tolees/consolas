@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FMtcvlxVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F5LV5KM-es'
+slug: 'B07F5LV5KM-es IBRA Cable de Alta Velocidad Optical HDMI de 5M Cable HDMI de Alta Velocidad v2.0 18Gbps Soporte 4K @ 60Hz / 4: 4: 4 / 3D / 4K HDR HDCP 2.2 para HDTV  Roku TV  Xbox One X  Home Theater  PS4  PS3'
 actualPrice: 34.47 EUR
 currency: EUR
 price: 34.47

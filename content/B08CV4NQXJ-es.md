@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316dsr+PrlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CV4NQXJ-es'
+slug: 'B08CV4NQXJ-es eXtremeRate Botones Completos para Xbox One S/X Botón de LB RB LT RT Bumpers Triggers Gatillos D-Pad ABXY Start Back Sync Botones con Herramientas para Xbox One S One X Modelo 1708 -Menta Verde'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

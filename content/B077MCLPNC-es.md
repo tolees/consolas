@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IZfFYBfcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MCLPNC-es'
+slug: 'B077MCLPNC-es FR·TEC -  Dragon Ball Super Grips 1 Star  para Nintendo Switch'
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

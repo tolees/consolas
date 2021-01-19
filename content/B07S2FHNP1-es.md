@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51o7O6wLVfL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2FHNP1-es'
+slug: 'B07S2FHNP1-es GRID  Day One Edition   PlayStation PS4 '
 actualPrice: 49.48 EUR
 currency: EUR
 price: 49.48

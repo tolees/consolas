@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51iLpkEyryL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DNZX4SS-es'
+slug: 'B08DNZX4SS-es Power Theory Protector Pantalla Cristal Templado para Nintendo Switch  2 unidades  Vidrio Ultrafino  0.33mm   Ultraresistente  9H Dureza  con Kit de Instalación sin Burbujas'
 actualPrice: 12.95 EUR
 currency: EUR
 price: 12.95

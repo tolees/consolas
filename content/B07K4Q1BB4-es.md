@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lfld+ePkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K4Q1BB4-es'
+slug: 'B07K4Q1BB4-es P Prettyia Botón de Activación LB RB paa Parte de Reparación de Metal de Controlador de Microsoft Xbox One'
 actualPrice: 9.33 EUR
 currency: EUR
 price: 9.33

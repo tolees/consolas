@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JbDWdP7wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRYJQ4P-es'
+slug: 'B07PRYJQ4P-es A.O.T. 2: Final Battle - Nintendo Switch'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

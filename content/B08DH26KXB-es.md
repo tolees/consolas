@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ElepsjCHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DH26KXB-es'
+slug: 'B08DH26KXB-es Disco Duro Externo 1tb USB3.1 Disco Duro Externo para Mac  PC MacBook  Chromebook  Xbox  1tb  Azul '
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

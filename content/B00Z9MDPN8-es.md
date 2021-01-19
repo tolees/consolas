@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51eBNLUowBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Z9MDPN8-es'
+slug: 'B00Z9MDPN8-es eXtremeRate Torx T8H T6 Destornilladores para Xbox One Herramienta Open Shell para Reparar e Instalar el Mando de Xbox 360/Xbox One/One Elite/One S/One X'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

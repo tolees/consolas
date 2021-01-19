@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51a40-ebHiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0721N1GXB-es'
+slug: 'B0721N1GXB-es Shadow Of The Colossus  PS4 '
 actualPrice: 14.78 EUR
 currency: EUR
 price: 14.78

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5163kOvue1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RHV87ND-es'
+slug: 'B07RHV87ND-es Leisure Suit: Larry - Wet Dreams Don t Dry - PS4'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

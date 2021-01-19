@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31p129kASvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08K8FZVCV-es'
+slug: 'B08K8FZVCV-es eXtremeRate Carcasa para Xbox One Elite Protectora Tacto Suave Placa Frontal reemplazo Kit Cubierta Shell Funda para Mando Xbox One Elite Series 2 Modelo 1797-Incluye Anillos de Joysticks Blanco '
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

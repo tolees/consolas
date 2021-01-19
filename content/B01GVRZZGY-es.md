@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51f-QFRcv3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GVRZZGY-es'
+slug: 'B01GVRZZGY-es God of War - PlayStation 4 [Importación inglesa]'
 actualPrice: 30.03 EUR
 currency: EUR
 price: 30.03

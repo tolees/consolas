@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51F9n3hc1GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CSV0BNY-es'
+slug: 'B01CSV0BNY-es Nintendo - Figura amiibo Kirby Kirby'
 actualPrice: 11.11 EUR
 currency: EUR
 price: 11.11

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411hQ7EuLYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WTS3RK9-es'
+slug: 'B07WTS3RK9-es Hori - Funda compacta Zelda Breath of the Wild  Nintendo Switch '
 actualPrice: 9.5 EUR
 currency: EUR
 price: 9.5

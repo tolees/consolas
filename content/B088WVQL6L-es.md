@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41s9Jm4iqUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088WVQL6L-es'
+slug: 'B088WVQL6L-es Suscripcion Xbox Game Pass  3 Meses Ultimate + 1 Mes Gratis | Xbox One/Windows 10 PC - Código de descarga'
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

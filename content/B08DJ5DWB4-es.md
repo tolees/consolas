@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EEM3tuDHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DJ5DWB4-es'
+slug: 'B08DJ5DWB4-es Disco Duro Externo 1tb USB 3.1 Type C Disco Duro Externo para Mac  PC MacBook  Chromebook  Xbox  1tb  Azul '
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

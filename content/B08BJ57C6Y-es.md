@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51corhlEikL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BJ57C6Y-es'
+slug: 'B08BJ57C6Y-es Disco Duro Externo 2 TB  Disco Duro Externo USB3.0 para PC  Mac Xbox  MacBook  Chromebook  2TB Azul '
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

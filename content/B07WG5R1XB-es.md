@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SjCCC0d5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WG5R1XB-es'
+slug: 'B07WG5R1XB-es HEYSTOP Funda Compatible con Nintendo Switch Lite  Impermeable Carcasa Nintendo Switch Lite de Transporte （Negro + 2 Pcs 0.30mm Switch Lite Protector de Pantalla'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NYJO4JnML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BNDJVWB-es'
+slug: 'B08BNDJVWB-es eXtremeRate LB RB LT RT Parachoques disparadores D-Pad ABXY Start Back Sync botones  juego completo de botones con herramientas para Xbox One S y Xbox One X Controller  modelo 1708 '
 actualPrice: 15.27 EUR
 currency: EUR
 price: 15.27

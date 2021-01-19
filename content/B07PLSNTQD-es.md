@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IvKHN7wRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PLSNTQD-es'
+slug: 'B07PLSNTQD-es Switch Nintendo Labo: Kit de VR - Set de expansión 1'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31d0b+jiwgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5B4QCL-es'
+slug: 'B07W5B4QCL-es Hori - Funda Rígida Negra  Nintendo Switch Lite '
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wlZfQy32L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086M1WRKQ-es'
+slug: 'B086M1WRKQ-es Seagate Game Drive para PS4 2 TB  Disco duro portátil externo HDD: USB 3.0  The Last of Us II Special Edition  diseñada para PS4  STGD2000103 '
 actualPrice: 71.89 EUR
 currency: EUR
 price: 71.89

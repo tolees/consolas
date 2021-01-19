@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31pz-c8dc8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J7JA4EG-es'
+slug: 'B01J7JA4EG-es Hiditec Ratón Gaming Alámbrico Blitz - Sensor Profesional IR - 3.500 dpi | Tecnología Gamer OMRON | para Ordenador PC - PS4 - Xbox | Fabricante Español | Incluye Garantía de 2 años'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

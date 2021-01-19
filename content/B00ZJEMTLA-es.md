@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31OC85oPywL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZJEMTLA-es'
+slug: 'B00ZJEMTLA-es PDP - Mono Auricular Chat Afterglow LVL 1  Playstation 4 '
 actualPrice: 7.82 EUR
 currency: EUR
 price: 7.82

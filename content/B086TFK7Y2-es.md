@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QieNiiRyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086TFK7Y2-es'
+slug: 'B086TFK7Y2-es Saints Row The Third Remastered - PlayStation 4'
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

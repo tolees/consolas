@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41A4wiGE55L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZ2CFWK-es'
+slug: 'B01MZ2CFWK-es eXtremeRate Prueba de Polvo Consola PS4 Funda Cubierta Protectora Horizontal Diseño de Doble Capa Forro Corte Preciso Fácil de Acceso los Cables Guardapolvo para Consola Playstation 4 PS4 Pro Negro '
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

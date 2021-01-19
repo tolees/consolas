@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31%2B2zrwl2gL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B075F9KZQG-es'
+slug: 'B075F9KZQG-es PowerA - Cargador de coche Question Block  Nintendo Switch '
 actualPrice: 11.31 EUR
 currency: EUR
 price: 11.31

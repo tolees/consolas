@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41NY6-wGSbL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0748QZ2ZP-es'
+slug: 'B0748QZ2ZP-es Oreillette gaming MCFC Manchester city pour PS4 - Xbox One - PS3'
 actualPrice: 15.66 EUR
 currency: EUR
 price: 15.66

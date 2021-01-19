@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41BDr35lZGL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EADTVL2-es'
+slug: 'B00EADTVL2-es PDP - Cargador Energizer 2 Mandos  PS4 '
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

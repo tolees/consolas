@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZYC7hMG7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IFDRJ7K-es'
+slug: 'B01IFDRJ7K-es 3x Pegatina Cubierta Adhesiva para Sony PlayStation 4 PS4 Consola Controlador Diseño de Esqueleto Impreso'
 actualPrice: 6.3 EUR
 currency: EUR
 price: 6.3

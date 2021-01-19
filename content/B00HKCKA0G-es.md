@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SjaalXD8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HKCKA0G-es'
+slug: 'B00HKCKA0G-es Tritton Kama - Auriculares estéreo de diadema cerrados   color negro  PS4  PS Vita '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

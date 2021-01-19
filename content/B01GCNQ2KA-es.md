@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JwiIat84L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GCNQ2KA-es'
+slug: 'B01GCNQ2KA-es Reemplazo Accesorios Kit de Botones Enchapados para Sony PS4 Controlador Oro'
 actualPrice: 4.25 EUR
 currency: EUR
 price: 4.25

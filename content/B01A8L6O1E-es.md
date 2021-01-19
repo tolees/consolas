@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IXQLRsv7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01A8L6O1E-es'
+slug: 'B01A8L6O1E-es Hori - Real Arcade Pro Soulcalibur VI  Xbox One  PC '
 actualPrice: 85.5 EUR
 currency: EUR
 price: 85.5

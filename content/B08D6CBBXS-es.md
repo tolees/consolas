@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51VLX2EdhuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D6CBBXS-es'
+slug: 'B08D6CBBXS-es Ertisa Mando Inalámbrico para PS4  Gamepad Wireless Bluetooth Controlador Controller Joystick con Vibración Doble Remoto Compatible con Playstation 4/PS4 Slim/Pro and PS3'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

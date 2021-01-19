@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RIdX8L2LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083MNBTK3-es'
+slug: 'B083MNBTK3-es Moving Out PS4'
 actualPrice: 19.17 EUR
 currency: EUR
 price: 19.17

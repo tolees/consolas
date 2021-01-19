@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61G-mvV4thL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFLX8TH-es'
+slug: 'B07KFLX8TH-es Igrome Auriculares Gaming PS4 Cascos Gaming de Mac Estéreo con Micrófono Juego Gaming Headset con 3.5mm Jack Luz LED Bajo Ruido Compatible con PC/Xbox One/Nintendo Switch/Móvil  Rojo '
 actualPrice: 16.18 EUR
 currency: EUR
 price: 16.18

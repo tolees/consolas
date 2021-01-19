@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wdWSf92cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZRM8T7-es'
+slug: 'B07MZRM8T7-es Kaisi Torx destornillador T3 T4 T5 T6 T8 T9 T10 T15 seguridad torx drivers destornilladores magnéticos kit de reparación de precisión para Xbox PS4 anillo timbre MacBook ordenador'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

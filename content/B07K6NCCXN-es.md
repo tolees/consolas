@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41n2PCiX30L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6NCCXN-es'
+slug: 'B07K6NCCXN-es FR·TEC -  Auriculares Gaming Headset AIZEN - PS4  Xbox One  Nintendo Switch  PC  Mac'
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OtZCAAxQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HXWQ6IC-es'
+slug: 'B01HXWQ6IC-es eXtremeRate 30 Piezas/Set Adhesivo para la Barra de luz Mando PS4 Vinilo Pegatinas Calcomanías Skins Stickers de la Barra Luminosa para Controlador Playstation 4 PS4 Pro Slim Original Modelo-24 '
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

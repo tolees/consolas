@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HeTlPUsYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QYTWX3G-es'
+slug: 'B07QYTWX3G-es KLIM™ Voice V2 + Micrófono USB de Escritorio + Nuevo 2020 + Óptima Calidad de Sonido + Ideal para grabación y reconocimiento de Voz  Streaming  Youtube  Podcast + Compatible Windows Mac PS4 + Azul'
 actualPrice: 19.43 EUR
 currency: EUR
 price: 19.43

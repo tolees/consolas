@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NUDcstSAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDKJ5P2-es'
+slug: 'B07VDKJ5P2-es Powcan Mando Inalámbrico PS3  Bluetooth PS3 Gamepad Controller Doble vibración Mando a Distancia Joystick para Playstation 3 y PC Windows 7/8/9/10 con Cable de Carga USB  Negro '
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

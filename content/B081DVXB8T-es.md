@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QIF-xOHmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081DVXB8T-es'
+slug: 'B081DVXB8T-es para HDMI Scanline Generator Scanner para Juegos Retro Gamers MAME Emulators Arcades para Nessa Switch Xbox 360 PS4 - Negro'
 actualPrice: 41.86 EUR
 currency: EUR
 price: 41.86

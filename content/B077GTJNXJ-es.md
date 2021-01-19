@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41b643LA-hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077GTJNXJ-es'
+slug: 'B077GTJNXJ-es FR- TEC - Protector Silicona + Grips Camo Navy  para mando Dualshock de PlayStation 4'
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

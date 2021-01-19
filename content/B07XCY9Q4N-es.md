@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NQrXGoWyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XCY9Q4N-es'
+slug: 'B07XCY9Q4N-es Orzly Kit Accesorios para Nintendo Switch Geek Pack con: Funda y Protector de Pantalla Switch  Empuñaduras & Volante para mandos JoyCon  Una Base de Carga USB y Un Soporte portátil  y más [ColorPop]'
 actualPrice: 48.18 EUR
 currency: EUR
 price: 48.18

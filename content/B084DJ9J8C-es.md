@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bvwbsvKdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084DJ9J8C-es'
+slug: 'B084DJ9J8C-es Funda + protector LCD para consola Nintendo Switch Lite edición Animal Crossing: New Horizons  Nintendo Switch Lite '
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61+DhOhNwvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKK259Y-es'
+slug: 'B07DKK259Y-es Rage 2 Deluxe Edition - Xbox One'
 actualPrice: 21.96 EUR
 currency: EUR
 price: 21.96

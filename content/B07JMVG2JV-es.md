@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KfgspSVGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMVG2JV-es'
+slug: 'B07JMVG2JV-es Thrustmaster - T.Flight Hotas One Ace Combat 7 Joystick para Xbox One y Windows - Mando de potencia desmontable de tamaño real - Con licencia oficial de Microsoft'
 actualPrice: 63.63 EUR
 currency: EUR
 price: 63.63

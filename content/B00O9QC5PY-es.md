@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/519twXJo6tL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O9QC5PY-es'
+slug: 'B00O9QC5PY-es Nintendo - Figura Amiibo Smash Zelda'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

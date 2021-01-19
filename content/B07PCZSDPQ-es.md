@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51K+Kfali+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PCZSDPQ-es'
+slug: 'B07PCZSDPQ-es Dragon Ball Z - Funda Para Almacenamiento De 24 Juegos  Nintendo Switch '
 actualPrice: 6.93 EUR
 currency: EUR
 price: 6.93

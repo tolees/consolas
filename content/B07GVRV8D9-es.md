@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41colk6hvhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GVRV8D9-es'
+slug: 'B07GVRV8D9-es Mando con cable Pro4 controller para consola PS4 / Slim/ Pr - PC -PS3 - Accesorios de videojuegos Real Madrid'
 actualPrice: 23.52 EUR
 currency: EUR
 price: 23.52

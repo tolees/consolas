@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JFHGFIQiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FBDD37B-es'
+slug: 'B08FBDD37B-es Rybozen 4K HDMI KVM Switch Caja de 2 Puertos Teclado Mouse Switcher Incluye 2 USB Type-B Cable Support 4k @ 30HZ 3D para Laptop PS4 Xbox One HDTV Monitor'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

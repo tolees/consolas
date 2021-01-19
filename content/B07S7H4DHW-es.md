@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rdM-Sp2uL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7H4DHW-es'
+slug: 'B07S7H4DHW-es Lamicall Soporte Tablet  Multiángulo Soporte Tablet : Soporte con Cuello de Cisne para Pad 2018 Pro 10.5/9.7  Pad Mini 1 2 3 4  Pad Air  Air 2  Phone  Nintendo Switch  Samsung  Otras Tablets - Negro'
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

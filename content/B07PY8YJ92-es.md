@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51oBGEr9znL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PY8YJ92-es'
+slug: 'B07PY8YJ92-es Kingdom Come: Deliverance - Royal Edition - PS4'
 actualPrice: 25.12 EUR
 currency: EUR
 price: 25.12

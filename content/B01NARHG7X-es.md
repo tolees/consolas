@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WMKCGNfbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NARHG7X-es'
+slug: 'B01NARHG7X-es TP-Link TL-PA7010 KIT - 2 Adaptadores de Comunicación por Línea Eléctrica  AV 1000 Mbps Gigabit  PLC  Extensor  Repetidores de Red  Amplificador Cobertura Internet  2 puertos  PS4 '
 actualPrice: 42.0 EUR
 currency: EUR
 price: 42.0

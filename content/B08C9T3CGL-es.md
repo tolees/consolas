@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PV2-xpfWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C9T3CGL-es'
+slug: 'B08C9T3CGL-es eXtremeRate Carcasa Completa para Nintendo Switch Funda Cubierta Trasera para Consola de Switch Case de Agarre y Botones Coloridos para Joy-con de Nintendo Switch Shell de Bricolaje Hielo Azul '
 actualPrice: 32.49 EUR
 currency: EUR
 price: 32.49

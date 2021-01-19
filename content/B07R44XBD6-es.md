@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OdSD260vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R44XBD6-es'
+slug: 'B07R44XBD6-es WANPOOL - Soporte para reposacabezas de Coche para Tablets y teléfonos con Pantallas de 5 a 10 5 Pulgadas - Apple iPhone iPad Air Mini  Samsung Galaxy  Nintendo Switch'
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

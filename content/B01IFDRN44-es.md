@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wFy9ikPgL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IFDRN44-es'
+slug: 'B01IFDRN44-es 3pcs Pegatinas de Consola Cubierta Adhesiva Hexágono Impreso para Sony PlayStation 4 PS4 Consola Controlador'
 actualPrice: 7.16 EUR
 currency: EUR
 price: 7.16

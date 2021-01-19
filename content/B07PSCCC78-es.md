@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41036jCNPvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PSCCC78-es'
+slug: 'B07PSCCC78-es Redragon H510 ZEUS - Cascos headset cómodos para Gaming - Audio de Alta Definición + Potentes Bajos - Auriculares de Diadema con Micrófono para Videojuegos PC  Móvil  PS4 - Sonido 7.1 + Software'
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51VmgOIv7SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00N8PBVHU-es'
+slug: 'B00N8PBVHU-es Nintendo - Figura Amiibo Smash Fit Trainer'
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

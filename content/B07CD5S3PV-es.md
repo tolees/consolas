@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51RcJsCVI8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CD5S3PV-es'
+slug: 'B07CD5S3PV-es LEGO Die Unglaublichen - Standard Edition - Nintendo Switch [Importación alemana]'
 actualPrice: 38.25 EUR
 currency: EUR
 price: 38.25

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CeQKXvaOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076DTXQ45-es'
+slug: 'B076DTXQ45-es Sharplace 2pcs Analogico Silicona Cap Joystick Thumb Stick Funda de Protectora Controlador para Mando Xbox one / Xbox 360'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

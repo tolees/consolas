@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/61UqTfoPIWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CHQH57J-es'
+slug: 'B07CHQH57J-es Valkyria Chronicles 4 - PS4'
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BJBpiDhAL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S3VT81G-es'
+slug: 'B07S3VT81G-es Vampire The Masquerade Bloodlines 2 - PlayStation 4'
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

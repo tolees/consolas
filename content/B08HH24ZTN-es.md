@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Mvmr08PUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HH24ZTN-es'
+slug: 'B08HH24ZTN-es Disco Duro Externo 1tb Portátil 2.5"  USB3.0 SATA HDD Almacenamiento Disco Duro Externo para PC  Mac  MacBook  Chromebook  Xbox  1tb  Azul '
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

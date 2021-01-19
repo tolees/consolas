@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MCO5v9jzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01A8L6O3M-es'
+slug: 'B01A8L6O3M-es Hori - Horipad Inalámbrico Super Mario  Nintendo Switch '
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

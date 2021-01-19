@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tHjjo6L7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YFG9PG2-es'
+slug: 'B07YFG9PG2-es WD Black  P50 Game Drive NVMe SSD de 2TB  Velocidad de hasta 2000MB/s y Compatible con PC  Xbox One y PS4'
 actualPrice: 384.0 EUR
 currency: EUR
 price: 384.0

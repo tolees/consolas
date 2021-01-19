@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qHKSINi3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZJLXB89-es'
+slug: 'B07ZJLXB89-es Spongebob SquarePants: Battle for Bikini Bottom Rehydrated - Edición Shiny  PS4 '
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

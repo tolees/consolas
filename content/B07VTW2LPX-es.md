@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PBImgFZ7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VTW2LPX-es'
+slug: 'B07VTW2LPX-es WD 4 TB My Passport disco duro portátil con protección con contraseña y software de copia de seguridad automática  Compatible con PC  Xbox y PS4  color Negro'
 actualPrice: 112.0 EUR
 currency: EUR
 price: 112.0

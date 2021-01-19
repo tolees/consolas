@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31CPgQCA9xL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B0723DC3LY-es'
+slug: 'B0723DC3LY-es AmazonBasics - Kit de empuñaduras para mandos Joy-Con de Nintendo Switch - Rojo'
 actualPrice: 7.32 EUR
 currency: EUR
 price: 7.32

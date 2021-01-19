@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e++9OBNcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F4RLZCL-es'
+slug: 'B08F4RLZCL-es Disco Duro Externo 1tb Portátil 2.5" USB3.0 SATA HDD Almacenamiento para PC  Mac  MacBook  Chromebook  Xbox  1tb  Negro '
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

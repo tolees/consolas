@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41il2KlZ4xL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZQL6ZKY-es'
+slug: 'B07ZQL6ZKY-es Mando Inalámbrico para PS4 / PC / Android  HONGLI Gamepad Wireless Bluetooth Controlador para Playstation 4 con Vibración Doble Remoto Joystick'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

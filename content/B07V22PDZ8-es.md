@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516bHnxg9EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V22PDZ8-es'
+slug: 'B07V22PDZ8-es RedThunder Teclado Semimecánico Gaming  Retroiluminación RGB  Teclado Gaming PS4 con Cable USB  Teclado para PC/Laptop / PS4 / Xbox One  Teclados Español '
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

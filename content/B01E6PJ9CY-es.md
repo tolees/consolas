@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41hKXUalLWL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E6PJ9CY-es'
+slug: 'B01E6PJ9CY-es MagiDeal 3 par de Tapas Luminosas de Pulgar para Sony PS4 Controlador Joystick Accesorios para Videojuegos'
 actualPrice: 2.45 EUR
 currency: EUR
 price: 2.45

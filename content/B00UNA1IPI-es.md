@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vHOg-KVEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UNA1IPI-es'
+slug: 'B00UNA1IPI-es Seagate Expansion STEA500400 - Disco duro externo portátil para PC  Xbox One y PlayStation 4  500GB  USB 3.0    Negro'
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

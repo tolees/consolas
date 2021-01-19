@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413gY0F6F3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SPJ8JG5-es'
+slug: 'B07SPJ8JG5-es PowerA Mando con cable para Nintendo Switch: Pokémon'
 actualPrice: 25.19 EUR
 currency: EUR
 price: 25.19

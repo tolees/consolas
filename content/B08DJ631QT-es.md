@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KD5NADRlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DJ631QT-es'
+slug: 'B08DJ631QT-es Disco Duro Externo 1tb USB 3.1 para Mac  PC  MacBook  Chromebook  Xbox  1tb  Negro '
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

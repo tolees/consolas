@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41A0I-eG8HL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GCN2RWW-es'
+slug: 'B07GCN2RWW-es LucidSound - LS31 Wireless Gaming Headset  PS4 '
 actualPrice: 92.7 EUR
 currency: EUR
 price: 92.7

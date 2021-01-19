@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UtRf621uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792TKTXS-es'
+slug: 'B0792TKTXS-es Switch Nintendo Labo - Set de personalización'
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vpg202+dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N19K6PM-es'
+slug: 'B07N19K6PM-es Microsoft Xbox One S - Consola 1 TB + Anthem: Legión Del Alba - Edición Especial'
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

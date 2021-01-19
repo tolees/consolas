@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+JD7CQDrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VL7XCSM-es'
+slug: 'B07VL7XCSM-es eXtremeRate ABXY D-Pad ZR ZL L R Botones para Mando Nintendo Switch Pro Teclas de Reemplazo Tacto Suave Botón Completo con Herramientas para Nintendo Switch Pro-Controlador NO Incluido Sakura Rosa '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

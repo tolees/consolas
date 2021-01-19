@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513fm8IV8uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088B5PVC2-es'
+slug: 'B088B5PVC2-es tomtoc Funda Ultra Delgada para Nintendo Switch  Patente Original Estuche Rígido con más Espacio de Almacenamiento para 10 Juegos  Case de Transporte con Proteción de Nivel Militar  Azul Menta'
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

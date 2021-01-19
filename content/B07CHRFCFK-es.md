@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vn98lbE3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CHRFCFK-es'
+slug: 'B07CHRFCFK-es Shenmue I & II - PS4'
 actualPrice: 21.85 EUR
 currency: EUR
 price: 21.85

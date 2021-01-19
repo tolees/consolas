@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RtBgeP+EL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0144YZ4OO-es'
+slug: 'B0144YZ4OO-es Ardistel - Batería De Emergencia Para Mandos  PlayStation 4 '
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

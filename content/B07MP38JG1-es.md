@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MQ-cyGdfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MP38JG1-es'
+slug: 'B07MP38JG1-es eXtremeRate Carcasa para Nintendo Switch Funda Completa para Mando Controlador Consola Joy-con de Nintendo Switch Shell de Bricolaje reemplazable con Botón Completo  Blanco '
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

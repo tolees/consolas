@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41W66CzE6xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089KQKKXM-es'
+slug: 'B089KQKKXM-es Subsonic - Auricular para juegos para PS4 / Xbox one/ PC / Switch  sólo Fortnite  - Accesorios para gamers - Azul  Xbox One '
 actualPrice: 13.72 EUR
 currency: EUR
 price: 13.72

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311mEaKfTPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KCL8MBL-es'
+slug: 'B07KCL8MBL-es 8x Almohadillas de Pies para Controlador de Playstation 4'
 actualPrice: 6.77 EUR
 currency: EUR
 price: 6.77

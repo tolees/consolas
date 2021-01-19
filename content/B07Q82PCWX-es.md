@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512Cofk9RYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q82PCWX-es'
+slug: 'B07Q82PCWX-es Samurai Shodown - PS4'
 actualPrice: 30.51 EUR
 currency: EUR
 price: 30.51

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dP3rEpIML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P6LXRHQ-es'
+slug: 'B07P6LXRHQ-es Rotación Profesional Diseño Ajustable Clip de Montaje de TV Soporte de Cámara Soporte de Soporte Soporte de Cámara para PS4 Montaje de Cámara Accesorio'
 actualPrice: 2.37 EUR
 currency: EUR
 price: 2.37

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51iPcE9ibnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SST3JPG-es'
+slug: 'B07SST3JPG-es Darksiders Genesis - Xbox One'
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

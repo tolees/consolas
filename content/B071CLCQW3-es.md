@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vgYgIFVUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071CLCQW3-es'
+slug: 'B071CLCQW3-es eXtremeRate Carcasa con 2 Anillos para Mando Xbox One Elite Protectora Tacto Suave Placa Frontal Kit de reemplazo Cubierta Shell Funda para Controlador de Xbox One Elite Modelo 1698  Sombra Rojo'
 actualPrice: 18.02 EUR
 currency: EUR
 price: 18.02

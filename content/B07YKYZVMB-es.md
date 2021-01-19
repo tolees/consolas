@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hp0BSPCrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YKYZVMB-es'
+slug: 'B07YKYZVMB-es Molyhood Controlador inalámbrico para PS3  Bluetooth Mando para Playstation 3  Juego Gamepad Joystick con Doble-Vibración Controller de 6 ejes'
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

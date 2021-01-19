@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418bFgUS5pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FR16DLK-es'
+slug: 'B08FR16DLK-es eXtremeRate 2 Protectores de Pantalla para Nintendo Switch Lite Protector de Pantalla de Vidrio Templado Transparente HD con Borde Colores Anti-arañazos Anti-Huella Inastillable Sin Burbujas Gris '
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

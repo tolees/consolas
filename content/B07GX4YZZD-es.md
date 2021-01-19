@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xmXrjfDsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GX4YZZD-es'
+slug: 'B07GX4YZZD-es PDP - Funda Slim Travel Case Edición Poke Ball  Nintendo Switch '
 actualPrice: 12.39 EUR
 currency: EUR
 price: 12.39

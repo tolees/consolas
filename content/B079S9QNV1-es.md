@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5151mUnjfUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079S9QNV1-es'
+slug: 'B079S9QNV1-es LA Noire PS4 - PlayStation 4 [Importación inglesa]'
 actualPrice: 19.13 EUR
 currency: EUR
 price: 19.13

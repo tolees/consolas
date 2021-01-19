@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-IW35qCcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V7DXSPY-es'
+slug: 'B07V7DXSPY-es 2 baterías para mando de Xbox One/Xbox One S/Xbox One X 1200 mAh recargables con cable de carga'
 actualPrice: 24.35 EUR
 currency: EUR
 price: 24.35

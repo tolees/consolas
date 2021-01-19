@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4138FNjGcwL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0746S4MHC-es'
+slug: 'B0746S4MHC-es Nacon - Mando Compacto para PS4  color Cristal Verde'
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

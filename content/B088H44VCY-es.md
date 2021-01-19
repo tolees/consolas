@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pU6aOc8gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088H44VCY-es'
+slug: 'B088H44VCY-es 【Actualizado 2020】 Proyector WiFi  BOSNAS Mini Proyector Portátil 5800 Lúmenes Nativo 720P  Soporta Full HD 1080P  Pantalla de 200 "  78000 Horas Vida para TV Stick PS4 HDMI VGA AV USB Android iOS'
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

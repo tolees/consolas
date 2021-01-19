@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41im-vlxaQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0117OQDSK-es'
+slug: 'B0117OQDSK-es Nintendo - Figura Goomba Con Coin  10 cm'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

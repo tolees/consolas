@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41A0P60iUyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071F6ZS4X-es'
+slug: 'B071F6ZS4X-es Lápiz óptico para Nintendo 2DS - COCOTOP Compatible con ranura para consola de videojuegos Lápiz táctil de plástico para 2DS -  paquete de 10 '
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510gxnPgESL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GD6GMKJ-es'
+slug: 'B07GD6GMKJ-es BlueFire Cascos Gaming  Auriculares Gaming PS4 con Micrófono Mac Estéreo Juego Gaming Jack 3 5mm LED Bajo Ruido Compatible con PC/Xbox One/Móvil  Verde '
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

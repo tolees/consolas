@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VRa4Y+nUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T4J59MP-es'
+slug: 'B07T4J59MP-es Mando para Nintendo Switch RegeMoudal para Nintendo Switch Pro Controller Controlador Inalámbrico con Función Gyro Axis/Double Shock y Turbo Bluetooth Gamepad para Nintendo Switch/Switch Lite'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

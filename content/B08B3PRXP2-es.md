@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312CqRnji6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B3PRXP2-es'
+slug: 'B08B3PRXP2-es Disco Duro Externo 2 TB  Disco Duro Externo Type C USB3.1 para PC  Mac  Xbox One  MacBook. 2TB Azul '
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

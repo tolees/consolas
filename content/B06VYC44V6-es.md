@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EDCAsXDRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VYC44V6-es'
+slug: 'B06VYC44V6-es Timorn Negro Full Sets Face Botones para PS4 Dual Shock 4 Controller Botones de Repuesto Accesorios de Repuesto Accesorios  1 Juego '
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

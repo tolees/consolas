@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3179IgfzMwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FUBKJMC-es'
+slug: 'B01FUBKJMC-es Reemplazo Kit de Botón de Tapa L2 L1 R1 R2 Thumbstick para Sony PS4 Controlador Blanco'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

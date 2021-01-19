@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41y8SSGEbEL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNGY6MB-es'
+slug: 'B07VNGY6MB-es PowerA - Mando inalámbrico mejorado Pokémon Great Ball  Nintendo Switch '
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

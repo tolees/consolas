@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41dNoVE1DrL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YZ58MJW-es'
+slug: 'B07YZ58MJW-es BOSNAS Proyector 6000 Lúmenes Proyector Full HD Soporta 1920 x 1080P Proyector Cine en Casa Sonido Hi-Fi Proyector LED 70000 Horas Bajo Ruido Video Fluido PS4 HDMI USB VGA AV'
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

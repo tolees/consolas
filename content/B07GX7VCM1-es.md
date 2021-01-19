@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WvaqNdJAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GX7VCM1-es'
+slug: 'B07GX7VCM1-es PDP - Starter Kit Edición Mario Remix  Nintendo Switch '
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

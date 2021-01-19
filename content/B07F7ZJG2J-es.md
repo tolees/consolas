@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4144ScmlcEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F7ZJG2J-es'
+slug: 'B07F7ZJG2J-es [ Versión Nuevo ] TeckNet 2.0M Cable HDMI 2.0  4K Ultra HD 2160p  3D y ARC Cable de Blindaje Triple para Fire TV  Apple TV  Xbox  Ethernet  HD 1080p  Playstation PS3 PS4 PC  Trenzado de Nylon'
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

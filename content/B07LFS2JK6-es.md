@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zpSX18OQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFS2JK6-es'
+slug: 'B07LFS2JK6-es Hori - Flight Stick Ace Combat 7  PS4  PS3  PC '
 actualPrice: 96.74 EUR
 currency: EUR
 price: 96.74

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+MNU1WoML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071K5QS1J-es'
+slug: 'B071K5QS1J-es Timorn Replacement Full Screws Set Reparación de Piezas para Consola Nintendo 3DS  1 Set '
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

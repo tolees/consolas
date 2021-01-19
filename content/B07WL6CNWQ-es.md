@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41milqNpV8L._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WL6CNWQ-es'
+slug: 'B07WL6CNWQ-es Hori - Protector de pantalla  Nintendo Switch Lite '
 actualPrice: 6.44 EUR
 currency: EUR
 price: 6.44

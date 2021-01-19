@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51S7-alszlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0829LYZ5T-es'
+slug: 'B0829LYZ5T-es Doom Slayers Collection - PS4'
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415eqKlPU9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QM0HOLU-es'
+slug: 'B00QM0HOLU-es Replacement Full Housing Shell Case Button Kit for PlayStation4 PS4 Wireless Controller White [Importación Inglesa]'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pU6aOc8gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083FL9C3P-es'
+slug: 'B083FL9C3P-es 【Actualizado 2020】 Proyector WiFi  BOSNAS Nativo 720P Mini Proyector Portátil Cine en Casa  Soporta Full HD 1080P  Pantalla de 200 " para Móvil Android iPhone Laptop TV Stick PS4 HDMI USB AV'
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

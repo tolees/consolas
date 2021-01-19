@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MzSifqWnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QTB9FKU-es'
+slug: 'B00QTB9FKU-es Bigben Interactive - Auricular Plug&Play  Playstation 4 '
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

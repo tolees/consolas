@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hvj1t1iGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y4RYH2T-es'
+slug: 'B07Y4RYH2T-es Charmast Powerbank 10000mAh Mini Batería Externa LED Linterna Power Bank Cargador portátil móvil Micro USB Tipo C para iPhone X/XS / 8/7/6  Samsung Galaxy  Huawei  iPad  Nintendo Switch'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

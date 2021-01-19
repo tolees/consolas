@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LM5dMxjuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFBFWVW-es'
+slug: 'B07DFBFWVW-es Funko Pop! - Patrick Star Spongebob Holiday  Xbox '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

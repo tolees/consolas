@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Mc6gScwmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BMSPSMW-es'
+slug: 'B07BMSPSMW-es aming Headset para PS4  XBOX One  PC controlador diza100 V4 Gaming Auriculares con carcasas aluminio Oreja'
 actualPrice: 22.91 EUR
 currency: EUR
 price: 22.91

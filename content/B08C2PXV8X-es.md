@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ad9sJnNeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C2PXV8X-es'
+slug: 'B08C2PXV8X-es Disco Duro Externo 2tb USB3.0 Disco Duro Externo para Mac  PC  Desktop  Laptop  MacBook  Xbox One  2tb  Rojo '
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

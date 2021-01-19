@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518Ol9v+ROL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C9QQZTX-es'
+slug: 'B08C9QQZTX-es REDSTORM 2.4G Mando Inalámbrico para Nintendo Switch  Gamepad con LED Ajustable de Cinco Velocidades y Retroalimentación de Vibración Dual  Windows XP /10/7/8/8.1/PC'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

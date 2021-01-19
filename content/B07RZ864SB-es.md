@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51b359j4FXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RZ864SB-es'
+slug: 'B07RZ864SB-es FIFA 20 - Xbox One [Importación inglesa]'
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

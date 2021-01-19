@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511nRRyuU0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TV15HCQ-es'
+slug: 'B07TV15HCQ-es Shuliancable Cable HDMI  Compatible con Ethernet Retorno de Audio  Compatible con Fire TV  3D  vídeo 1080p y ARC  Playstation PS3 PC  20M  Red Black '
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

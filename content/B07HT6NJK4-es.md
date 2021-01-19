@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418NxfMaZzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HT6NJK4-es'
+slug: 'B07HT6NJK4-es Cargador Mando PS4  KNONEW PS4 Estación de carga USB Base de Carga Rápida para Sony Playstation 4 / PS4 / PS4 Pro / PS4 DualShock mando delgado con 4 dongles de carga micro USB y 4 Grips para pulgar'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99
