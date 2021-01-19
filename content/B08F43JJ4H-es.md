@@ -25,9 +25,9 @@ Tienes [PowerA - Mando con cable mejorado PowerA para Nintendo Switch - Mario pl
 
 🔎:
 
+- No necesita pilas
 - Con licencia oficial de Nintendo y garantía limitada de dos años: visita PowerA.com/Support
 - Cable USB extraíble de 3 metros
-- No necesita pilas
 - El mando incluye toma de audio de 3,5 mm y botones de juego avanzado asignables
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08F43JJ4H/?tag=tolees-21)
