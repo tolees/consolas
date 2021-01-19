@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FUGKI50-es Timorn 12 Pines del Interruptor de alimentación del Cable...'
-tags: playstation, ps4
+tags: tole.es, playstation, ps4
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GVY1WXF-es Mando Inalámbrico Mejorado Negro Nintendo Switch'
-tags: nintendo
+tags: tole.es, nintendo
 actualPrice: 39.72 EUR
 currency: EUR
 price: 39.72

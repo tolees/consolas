@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZJEMQEA-es Pdp - Mono Auricular Chat Afterglow LVL 1 Xbox One'
-tags: xbox
+tags: tole.es, xbox
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

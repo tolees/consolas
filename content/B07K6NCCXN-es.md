@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K6NCCXN-es FR·TEC - Auriculares Gaming Headset AIZEN - PS4 Xbox One...'
-tags: nintendo, ps4, xbox
+tags: tole.es, nintendo, ps4, xbox
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

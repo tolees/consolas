@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DJ5BT87-es Disco Duro Externo 2 TB USB3.0 para PC Mac MacBook Xbox...'
-tags: xbox
+tags: tole.es, xbox
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

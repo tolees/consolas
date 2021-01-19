@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WE7I02W-es De Metal Stick Palanca De Mando Para Sony Playstation 4...'
-tags: playstation, xbox
+tags: tole.es, playstation, xbox
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

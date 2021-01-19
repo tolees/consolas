@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PGJ7Q1-es Pdp - Auricular Stereo Afterglow AG6 Con Cable Xbox One'
-tags: xbox
+tags: tole.es, xbox
 actualPrice: 27.71 EUR
 currency: EUR
 price: 27.71

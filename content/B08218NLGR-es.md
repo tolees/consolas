@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08218NLGR-es Controlador para PS4 Achort Wireless Controlador Mando...'
-tags: ps4
+tags: tole.es, ps4
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

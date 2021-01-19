@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071CMTM2V-es Razer Kraken 7.1 V2: sonido envolvente 7.1 - Micrófono...'
-tags: ps4
+tags: tole.es, ps4
 actualPrice: 91.11 EUR
 currency: EUR
 price: 91.11

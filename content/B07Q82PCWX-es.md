@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q82PCWX-es Samurai Shodown - PS4'
-tags: ps4
+tags: tole.es, ps4
 actualPrice: 30.51 EUR
 currency: EUR
 price: 30.51

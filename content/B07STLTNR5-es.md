@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07STLTNR5-es Hori - Real Arcade Pro.V Hayabusa Edición Street Fighter...'
-tags: nintendo
+tags: tole.es, nintendo
 actualPrice: 102.48 EUR
 currency: EUR
 price: 102.48

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089KSKJ4Y-es Disco duro externo 1 TB 2 TB de disco duro ultradelgado...'
-tags: xbox
+tags: tole.es, xbox
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

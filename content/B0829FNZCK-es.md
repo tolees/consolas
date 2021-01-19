@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0829FNZCK-es Gioteck - Mando inalambrico Bluetooth negro Gioteck WX-4...'
-tags: nintendo
+tags: tole.es, nintendo
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

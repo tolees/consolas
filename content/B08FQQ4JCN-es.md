@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FQQ4JCN-es eXtremeRate Multicolores LED Botones para Mando Nintendo...'
-tags: nintendo
+tags: tole.es, nintendo
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

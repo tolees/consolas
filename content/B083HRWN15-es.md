@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083HRWN15-es Mini Proyector FANGOR Mini Video Proyector portátil con...'
-tags: xbox
+tags: tole.es, xbox
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

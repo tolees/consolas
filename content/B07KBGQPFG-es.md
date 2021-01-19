@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KBGQPFG-es P Prettyia Almohadilla Antipolvo con Joystick para...'
-tags: nintendo
+tags: tole.es, nintendo
 actualPrice: 7.27 EUR
 currency: EUR
 price: 7.27

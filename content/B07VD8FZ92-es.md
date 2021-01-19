@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VD8FZ92-es PDP - Auricular Stereo Gaming LVL40 Con Cable Negro Camo PS4'
-tags: ps4
+tags: tole.es, ps4
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

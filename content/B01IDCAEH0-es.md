@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IDCAEH0-es Gioteck - Estacion de carga DC4 Para 2 mandos PS4 PS4'
-tags: ps4
+tags: tole.es, ps4
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

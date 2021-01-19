@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPL79TQ-es Luigi s Mansion 3. Nintendo Switch [Edición: Alemana]'
-tags: nintendo
+tags: tole.es, nintendo
 actualPrice: 55.74 EUR
 currency: EUR
 price: 55.74

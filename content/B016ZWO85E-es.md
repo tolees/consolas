@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016ZWO85E-es Sony - Carcasa Intercambiable Para Consola Playstation 4...'
-tags: playstation
+tags: tole.es, playstation
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

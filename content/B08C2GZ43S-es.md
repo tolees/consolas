@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C2GZ43S-es Disco Duro Externo 2tb USB3.0 Disco Duro Externo para Mac...'
-tags: xbox
+tags: tole.es, xbox
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00QTB9FKU-es Bigben Interactive - Auricular Plug&Play Playstation 4'
-tags: playstation
+tags: tole.es, playstation
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

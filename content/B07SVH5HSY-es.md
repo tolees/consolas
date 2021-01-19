@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVH5HSY-es Sniper: Ghost Warrior - Contracts Xbox One'
-tags: xbox
+tags: tole.es, xbox
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

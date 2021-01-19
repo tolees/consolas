@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078YRCQZ3-es Funda PS4 Pro Mando Silicona Caso Piel Fundas Protectores...'
-tags: ps4
+tags: tole.es, ps4
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

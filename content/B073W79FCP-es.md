@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073W79FCP-es ELEGIANT Auriculares Gaming PC Cascos Gaming Headset con...'
-tags: ps4, xbox
+tags: tole.es, ps4, xbox
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

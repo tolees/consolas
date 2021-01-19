@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K6I8JCM-es Nintendo Selects New Super Mario Bros.Wii Juego'
-tags: nintendo
+tags: tole.es, nintendo
 actualPrice: 41.39 EUR
 currency: EUR
 price: 41.39

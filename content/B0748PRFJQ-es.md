@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0748PRFJQ-es Microsoft - Mando Inalámbrico: Edición Limitada Minecraft...'
-tags: xbox
+tags: tole.es, xbox
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

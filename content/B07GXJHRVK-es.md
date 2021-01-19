@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GXJHRVK-es Mando Inalámbrico Mejorado Link Silueta Nintendo Switch'
-tags: nintendo
+tags: tole.es, nintendo
 actualPrice: 40.59 EUR
 currency: EUR
 price: 40.59

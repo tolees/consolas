@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079C7QBJG-es Playstation lámpara Play Station'
-tags: playstation
+tags: tole.es, playstation
 actualPrice: 14.57 EUR
 currency: EUR
 price: 14.57

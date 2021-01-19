@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JZPDKQ3-es AUTOUTLET 3 en 1 Grip y raqueta de tenis Juego de...'
-tags: nintendo
+tags: tole.es, nintendo
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086TFK7Y2-es Saints Row The Third Remastered - PlayStation 4'
-tags: playstation
+tags: tole.es, playstation
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

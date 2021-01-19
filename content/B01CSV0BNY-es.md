@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CSV0BNY-es Nintendo - Figura amiibo Kirby Kirby'
-tags: nintendo
+tags: tole.es, nintendo
 actualPrice: 11.11 EUR
 currency: EUR
 price: 11.11

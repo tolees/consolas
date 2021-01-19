@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CZVCKYP-es Primewire – 2m Cable HDMI 2.1 - Alta Velocidad con...'
-tags: ps4, xbox
+tags: tole.es, ps4, xbox
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

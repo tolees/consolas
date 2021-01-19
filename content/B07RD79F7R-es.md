@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RD79F7R-es Searchyou True Blue Mini Crackhead Pack con 64G 101 Juegos...'
-tags: playstation
+tags: tole.es, playstation
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

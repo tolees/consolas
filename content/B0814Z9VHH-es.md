@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0814Z9VHH-es HEYSTOP Compatible Mando Nintendo Switch Inalámbrico...'
-tags: nintendo
+tags: tole.es, nintendo
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

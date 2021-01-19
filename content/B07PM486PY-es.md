@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PM486PY-es eXtremeRate Dawn Programable Remap Kit PS4 Scuf...'
-tags: ps4
+tags: tole.es, ps4
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

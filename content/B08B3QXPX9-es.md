@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B3QXPX9-es Disco Duro Externo 2 TB Type C USB3.1 Disco Duro Externo...'
-tags: xbox
+tags: tole.es, xbox
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

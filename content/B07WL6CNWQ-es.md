@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WL6CNWQ-es Hori - Protector de pantalla Nintendo Switch Lite'
-tags: nintendo
+tags: tole.es, nintendo
 actualPrice: 6.44 EUR
 currency: EUR
 price: 6.44

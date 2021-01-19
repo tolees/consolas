@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K76JY3G-es De Silicona Cubierta De La Caja Protectora De La Piel Para...'
-tags: xbox
+tags: tole.es, xbox
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

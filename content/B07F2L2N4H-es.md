@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2L2N4H-es Funda Compatible con Nintendo Switch HEYSTOP TPU PC...'
-tags: nintendo
+tags: tole.es, nintendo
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

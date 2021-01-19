@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GDMMKP5-es Gioteck - Auricular Estereo con cable azul y negro TX-30...'
-tags: nintendo
+tags: tole.es, nintendo
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

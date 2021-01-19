@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NSRXBQK-es New Bee Soporte Auriculares Universal en Mesa para Bose...'
-tags: playstation
+tags: tole.es, playstation
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

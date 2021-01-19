@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F8IKSL4-es mini kitty 2 en 1 Mando Plus con Motion Plus y Nunchunk...'
-tags: nintendo
+tags: tole.es, nintendo
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0

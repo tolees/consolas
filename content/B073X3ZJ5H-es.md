@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073X3ZJ5H-es Pdp - Mando Licenciado Nueva Color Camuflaje Negro Xbox One'
-tags: xbox
+tags: tole.es, xbox
 actualPrice: 19.59 EUR
 currency: EUR
 price: 19.59

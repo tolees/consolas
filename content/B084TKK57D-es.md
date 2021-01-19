@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084TKK57D-es Mortal Kombat 11 - Edición Estándar Incluye DLC Joker PS4'
-tags: ps4
+tags: tole.es, ps4
 actualPrice: 29.92 EUR
 currency: EUR
 price: 29.92

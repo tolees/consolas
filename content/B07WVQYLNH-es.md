@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WVQYLNH-es Orzly Paquete de Accesorios para Nintendo Switch Lite –...'
-tags: nintendo
+tags: tole.es, nintendo
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

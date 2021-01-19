@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JQGPLV1-es eXtremeRate Carcasa para Xbox One Funda Delantera con...'
-tags: xbox
+tags: tole.es, xbox
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

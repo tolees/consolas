@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FUBKIX2-es Reemplazo Kit de Botón de Tapa L2 L1 R1 R2 Thumbstick para...'
-tags: ps4
+tags: tole.es, ps4
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

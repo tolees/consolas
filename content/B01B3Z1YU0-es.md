@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B3Z1YU0-es XtremeRate 4 Pares de Tapas Joystick Comptible con PS4...'
-tags: ps4
+tags: tole.es, ps4
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFLX8TH-es Igrome Auriculares Gaming PS4 Cascos Gaming de Mac Estéreo...'
-tags: ps4
+tags: tole.es, ps4
 actualPrice: 16.18 EUR
 currency: EUR
 price: 16.18

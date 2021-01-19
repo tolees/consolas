@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DJ4D4QL-es Disco Duro Externo 2tb Portátil 2.5" USB3.0 SATA HDD...'
-tags: xbox
+tags: tole.es, xbox
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

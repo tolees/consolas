@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B3SK2TL-es CHOETECH Cargador USB C[GaN Tech] PD 65W Cargador de Pared...'
-tags: nintendo
+tags: tole.es, nintendo
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BMSPSMW-es aming Headset para PS4 XBOX One PC controlador diza100 V4...'
-tags: ps4, xbox
+tags: tole.es, ps4, xbox
 actualPrice: 22.91 EUR
 currency: EUR
 price: 22.91

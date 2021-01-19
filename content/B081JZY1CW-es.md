@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081JZY1CW-es Slabo Lámina de Vidrio Premium para Nintendo Switch Lite...'
-tags: nintendo
+tags: tole.es, nintendo
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

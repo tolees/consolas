@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SCDWSFC-es Monster Hunter World: Iceborne - Master Edition - PS4'
-tags: ps4
+tags: tole.es, ps4
 actualPrice: 39.66 EUR
 currency: EUR
 price: 39.66

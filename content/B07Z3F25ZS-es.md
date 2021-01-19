@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z3F25ZS-es Proyector YABER 6200 Lúmenes Proyector Full HD 1920x1080P...'
-tags: ps4
+tags: tole.es, ps4
 actualPrice: 179.59 EUR
 currency: EUR
 price: 179.59

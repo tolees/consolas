@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GPM141U-es eXtremeRate Torx T8H T6 Destornillador Original para Xbox...'
-tags: xbox
+tags: tole.es, xbox
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

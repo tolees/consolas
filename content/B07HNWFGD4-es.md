@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HNWFGD4-es Fácil de Instalar Tarjeta de Memoria de Alta Velocidad de...'
-tags: nintendo
+tags: tole.es, nintendo
 actualPrice: 5.27 EUR
 currency: EUR
 price: 5.27

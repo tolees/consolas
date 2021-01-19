@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYJM4L8-es HyperX HX-HSCLS-BL Cloud para PS4 - Cascos de Gaming con...'
-tags: ps4
+tags: tole.es, ps4
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

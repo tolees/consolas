@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2FHNP1-es GRID Day One Edition PlayStation PS4'
-tags: playstation, ps4
+tags: tole.es, playstation, ps4
 actualPrice: 49.48 EUR
 currency: EUR
 price: 49.48

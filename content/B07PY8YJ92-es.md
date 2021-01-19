@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PY8YJ92-es Kingdom Come: Deliverance - Royal Edition - PS4'
-tags: ps4
+tags: tole.es, ps4
 actualPrice: 25.12 EUR
 currency: EUR
 price: 25.12

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XF62L8X-es Proyector WiMiUS 6200 Lúmenes Proyector Full HD 1920x1080P...'
-tags: ps4
+tags: tole.es, ps4
 actualPrice: 152.09 EUR
 currency: EUR
 price: 152.09

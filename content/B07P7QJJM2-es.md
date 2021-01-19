@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P7QJJM2-es My time at Portia - PS4 [Importación francesa]'
-tags: ps4
+tags: tole.es, ps4
 actualPrice: 9.76 EUR
 currency: EUR
 price: 9.76

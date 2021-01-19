@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZ2CFWK-es eXtremeRate Prueba de Polvo Consola PS4 Funda Cubierta...'
-tags: playstation, ps4
+tags: tole.es, playstation, ps4
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

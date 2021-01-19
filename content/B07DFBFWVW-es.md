@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFBFWVW-es Funko Pop! - Patrick Star Spongebob Holiday Xbox'
-tags: xbox
+tags: tole.es, xbox
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

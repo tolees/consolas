@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081RJFTRT-es KLIM Nova + Base de refrigeración para portátiles RGB -...'
-tags: ps4
+tags: tole.es, ps4
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPZJ7SS-es Controlador PowerA Wired con licencia oficial para Xbox...'
-tags: xbox
+tags: tole.es, xbox
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

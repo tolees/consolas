@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6JPASJ-es eXtremeRate 2 Pares de Gatillo Extensor L2 R2 Disparador...'
-tags: playstation, ps4
+tags: tole.es, playstation, ps4
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L3K3FFS-es TEYADI 2.5" Ultra Slim Disco Duro Externo Portátil 9mm...'
-tags: ps4, xbox
+tags: tole.es, ps4, xbox
 actualPrice: 38.79 EUR
 currency: EUR
 price: 38.79

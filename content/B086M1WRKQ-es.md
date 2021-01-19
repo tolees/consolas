@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086M1WRKQ-es Seagate Game Drive para PS4 2 TB Disco duro portátil...'
-tags: ps4
+tags: tole.es, ps4
 actualPrice: 71.89 EUR
 currency: EUR
 price: 71.89

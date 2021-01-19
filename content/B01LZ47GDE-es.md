@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZ47GDE-es PlayStation VR Worlds'
-tags: playstation
+tags: tole.es, playstation
 actualPrice: 13.3 EUR
 currency: EUR
 price: 13.3

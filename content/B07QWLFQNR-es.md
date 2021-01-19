@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QWLFQNR-es Bovon Soporte Tablet para Coche Soporte de Tablet para...'
-tags: nintendo
+tags: tole.es, nintendo
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

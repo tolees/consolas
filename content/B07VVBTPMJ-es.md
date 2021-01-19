@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VVBTPMJ-es Fyoung - Kit de accesorios 3 en 1 para Nintendo Switch...'
-tags: nintendo
+tags: tole.es, nintendo
 actualPrice: 12.68 EUR
 currency: EUR
 price: 12.68

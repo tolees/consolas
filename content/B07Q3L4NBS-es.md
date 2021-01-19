@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q3L4NBS-es Maegoo Mandos Controlador Inalámbrico para Nintendo Switch...'
-tags: nintendo
+tags: tole.es, nintendo
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

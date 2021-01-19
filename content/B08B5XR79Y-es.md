@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B5XR79Y-es eXtremeRate Carcasa Joy-con para Nintendo Switch Funda de...'
-tags: nintendo
+tags: tole.es, nintendo
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

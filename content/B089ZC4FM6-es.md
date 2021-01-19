@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089ZC4FM6-es Railway Empire Complete Collection PS4'
-tags: ps4
+tags: tole.es, ps4
 actualPrice: 31.48 EUR
 currency: EUR
 price: 31.48

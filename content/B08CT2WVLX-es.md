@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CT2WVLX-es Mando Inalámbrico para PS4 Mando Inalámbrico Gamepad Doble...'
-tags: playstation, ps4
+tags: tole.es, playstation, ps4
 actualPrice: 32.0 EUR
 currency: EUR
 price: 32.0

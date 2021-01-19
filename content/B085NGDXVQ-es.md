@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085NGDXVQ-es RedThunder Teclado mecánico para juegos con una sola mano...'
-tags: ps4, xbox
+tags: tole.es, ps4, xbox
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6QLRPU-es Nintendo - Figura Amiibo Bokoblin Serie Zelda'
-tags: nintendo
+tags: tole.es, nintendo
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

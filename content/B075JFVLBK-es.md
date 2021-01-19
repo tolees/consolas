@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075JFVLBK-es eXtremeRate 30 Piezas/Set Adhesivo para la Barra de luz...'
-tags: playstation, ps4
+tags: tole.es, playstation, ps4
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

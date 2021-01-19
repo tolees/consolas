@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003XSSR6U-es Mando con cable Pro4 controller para consola PS4 / Slim/...'
-tags: ps4
+tags: tole.es, ps4
 actualPrice: 22.3 EUR
 currency: EUR
 price: 22.3

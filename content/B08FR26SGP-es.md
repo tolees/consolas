@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FR26SGP-es eXtremeRate 2 Protectores de Pantalla para Nintendo Switch...'
-tags: nintendo
+tags: tole.es, nintendo
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

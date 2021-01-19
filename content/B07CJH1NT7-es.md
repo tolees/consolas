@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CJH1NT7-es eXtremeRate Luminoso Joysticks Botones de acción dirección...'
-tags: ps4
+tags: tole.es, ps4
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

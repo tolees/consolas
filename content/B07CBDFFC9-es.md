@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CBDFFC9-es Harvest Moon: La luz de la esperanza Edición Coleccionista...'
-tags: nintendo
+tags: tole.es, nintendo
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

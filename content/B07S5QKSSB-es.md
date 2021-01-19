@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S5QKSSB-es RAVPower Cargador USB con 2 Puertos USB 17W Cargador de...'
-tags: nintendo
+tags: tole.es, nintendo
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

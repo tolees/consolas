@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086BPCZ8F-es RCA a HDMI DIGITNOW! 3 RCA Compuestas AV a HDMI...'
-tags: ps4
+tags: tole.es, ps4
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

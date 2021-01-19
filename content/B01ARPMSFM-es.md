@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ARPMSFM-es Beyond Two Souls + Heavy Rain PS4'
-tags: ps4
+tags: tole.es, ps4
 actualPrice: 21.23 EUR
 currency: EUR
 price: 21.23

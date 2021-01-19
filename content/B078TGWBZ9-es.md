@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078TGWBZ9-es TUTUO Nintendo Switch Controlador Mando Inalámbrico...'
-tags: nintendo
+tags: tole.es, nintendo
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

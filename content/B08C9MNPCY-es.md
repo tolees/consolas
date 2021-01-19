@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C9MNPCY-es ZIYOULANG - Ratón de juegos con cable 69G Honeycomb Shell...'
-tags: ps4, xbox
+tags: tole.es, ps4, xbox
 actualPrice: 25.42 EUR
 currency: EUR
 price: 25.42

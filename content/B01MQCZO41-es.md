@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQCZO41-es Timorn 4 Pares / 8PCS palillo analógico del Pulgar de los...'
-tags: ps4
+tags: tole.es, ps4
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

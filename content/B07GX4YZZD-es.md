@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GX4YZZD-es PDP - Funda Slim Travel Case Edición Poke Ball Nintendo...'
-tags: nintendo
+tags: tole.es, nintendo
 actualPrice: 12.39 EUR
 currency: EUR
 price: 12.39
