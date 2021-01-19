@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Immortals Fenyx Rising Gold Edition XBOX al 34.09 % de rebaja'
-date: 2021-01-17 23:56:34
+date: 2021-01-19 00:29:16
 image: 'https://m.media-amazon.com/images/I/51NqfL9uSUL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08HZDZTY9/?tag=tolees-21'
 descuento: '34.09'
-average: '72.74235294117648'
+average: '72.54685714285715'
 ---
 
 Tienes [Immortals Fenyx Rising Gold Edition XBOX X](https://www.amazon.es/dp/B08HZDZTY9/?tag=tolees-21) con precio final de  65.9 EUR (original: 99.99 EUR) (34.09 %  de rebaja) aqui!
