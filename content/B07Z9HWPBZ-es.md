@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PPnfIkswL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z9HWPBZ-es Meridiem Games - Meridiem Games - Dragon Ball Arcade Mini  Nintendo Switch   Nintendo Switch '
+slug: 'B07Z9HWPBZ-es Meridiem Games - Meridiem Games - Dragon Ball Arcade Mini...'
+tags: nintendo
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

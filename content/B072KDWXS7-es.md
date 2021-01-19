@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wy+6XE+AL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072KDWXS7-es FR·TEC -  Funda Silicona + Grip Para Joy- Con Amarillo Izquierdo - Nintendo Switch'
+slug: 'B072KDWXS7-es FR·TEC - Funda Silicona + Grip Para Joy- Con Amarillo...'
+tags: nintendo
 actualPrice: 3.68 EUR
 currency: EUR
 price: 3.68

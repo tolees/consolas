@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41l-xpy2FoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GLG3ZDW-es Osaloe Switch HDMI 1x4  1 Entrada y 4 Salidas   Conmutador HDMI Digital Portátil con Full HD 1080P 4K * 2K 3D  HDMI Splitter para HDTV DVD Xbox PS4 PS3 PC Receptor Satélite  Negro '
+slug: 'B08GLG3ZDW-es Osaloe Switch HDMI 1x4 1 Entrada y 4 Salidas Conmutador...'
+tags: ps4, xbox
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

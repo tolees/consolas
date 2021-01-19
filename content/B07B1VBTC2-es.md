@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51e8ipG6oAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B1VBTC2-es Sades SA810 Auriculares Gaming - 3.5mm Cancelación De Ruido Gaming Headset  juego auriculares con micrófono para nueva Xbox One PS4 portátil Mac Tablet  Blanco '
+slug: 'B07B1VBTC2-es Sades SA810 Auriculares Gaming - 3.5mm Cancelación De...'
+tags: ps4, xbox
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

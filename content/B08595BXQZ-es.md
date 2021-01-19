@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08595BXQZ-es Adaptador de alimentación Xbox One con cable de carga'
+tags: xbox
 actualPrice: 37.53 EUR
 currency: EUR
 price: 37.53

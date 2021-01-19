@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51k-Iy6AYyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZ21ZPK-es Intruders: Hide and Seek  PS4 Español  [Importación alemana]'
+slug: 'B07MZ21ZPK-es Intruders: Hide and Seek PS4 Español [Importación alemana]'
+tags: ps4
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

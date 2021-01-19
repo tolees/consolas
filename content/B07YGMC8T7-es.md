@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+epOhUnzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YGMC8T7-es Meridiem Games - Resident Evil Arcade Mini  Nintendo Switch '
+slug: 'B07YGMC8T7-es Meridiem Games - Resident Evil Arcade Mini Nintendo Switch'
+tags: nintendo
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

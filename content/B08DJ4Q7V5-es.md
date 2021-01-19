@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dndfM6dTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DJ4Q7V5-es Disco Duro Externo 1 TB  Disco Duro Externo USB3.0 para PC  Mac Xbox  MacBook  Chromebook 1TB Rojo '
+slug: 'B08DJ4Q7V5-es Disco Duro Externo 1 TB Disco Duro Externo USB3.0 para PC...'
+tags: xbox
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

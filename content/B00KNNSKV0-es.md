@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aWMGpt0tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KNNSKV0-es PROZOR DAC Convertidor Digital a Analógico 192kHz Adaptador Audio Óptico Toslink Coaxial a RCA L/R 3.5mm Jack Digital a Analógico Soporte PCM/LPCM para HDTV PS3 PS4 DVD BLU-Ray Amplificador AV'
+slug: 'B00KNNSKV0-es PROZOR DAC Convertidor Digital a Analógico 192kHz...'
+tags: ps4
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

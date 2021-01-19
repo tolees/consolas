@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0007UATDG-es Nintendo Wii Sports Pack [importación]'
+tags: nintendo
 actualPrice: 124.9 EUR
 currency: EUR
 price: 124.9

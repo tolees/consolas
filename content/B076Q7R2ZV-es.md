@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51O11kPAE9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076Q7R2ZV-es TUTUO Nintendo Switch Dock USB Tipo C a HDMI Adaptador USB Hub Convertidor Cable USB 3.0 y USB C PD  Power Delivery  Hub para Nintendo Switch  Macbook Pro 2017 2016  Samsung Galaxy Note9 S9  Oneplus 6'
+slug: 'B076Q7R2ZV-es TUTUO Nintendo Switch Dock USB Tipo C a HDMI Adaptador USB...'
+tags: nintendo
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

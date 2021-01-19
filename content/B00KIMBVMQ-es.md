@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KIMBVMQ-es Fallout 4 - Xbox One [Importación inglesa]'
+tags: xbox
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fMvdDEatL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FUBKIX2-es Reemplazo Kit de Botón de Tapa L2 L1 R1 R2 Thumbstick para Sony PS4 Controlador Naranja'
+slug: 'B01FUBKIX2-es Reemplazo Kit de Botón de Tapa L2 L1 R1 R2 Thumbstick para...'
+tags: ps4
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xKLrMQHAL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074PM7SMP-es Pdp - Auriculares Stereo AG 6 con Licencia Oficial Sony  PS4 '
+slug: 'B074PM7SMP-es Pdp - Auriculares Stereo AG 6 con Licencia Oficial Sony PS4'
+tags: ps4
 actualPrice: 23.68 EUR
 currency: EUR
 price: 23.68

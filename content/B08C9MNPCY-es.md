@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41C-HgbrMwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C9MNPCY-es ZIYOULANG - Ratón de juegos con cable  69G Honeycomb Shell ligero con 6400 DPI  6 botones programables USB para juegos  para jugadores de PC y usuarios de Xbox y PS4  color blanco'
+slug: 'B08C9MNPCY-es ZIYOULANG - Ratón de juegos con cable 69G Honeycomb Shell...'
+tags: ps4, xbox
 actualPrice: 25.42 EUR
 currency: EUR
 price: 25.42

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51AMPuKs+3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTGSG9X-es NBA 2K20 - Standard Edition - Nintendo Switch [Importación alemana]'
+slug: 'B07TTGSG9X-es NBA 2K20 - Standard Edition - Nintendo Switch [Importación...'
+tags: nintendo
 actualPrice: 32.13 EUR
 currency: EUR
 price: 32.13

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tidYVcy1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086QKBQ15-es Cocoda Cascos Gaming para PS4 Nintendo Switch Xbox One  Ligero Auriculares Gaming con Luz LED & Control del Volumen & Cancelación Ruido  Diadema Ajustable Cascos con Microfono para PC Laptop Mac'
+slug: 'B086QKBQ15-es Cocoda Cascos Gaming para PS4 Nintendo Switch Xbox One...'
+tags: nintendo, ps4, xbox
 actualPrice: 25.48 EUR
 currency: EUR
 price: 25.48

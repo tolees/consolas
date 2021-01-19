@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kNcbSc0GL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HFL254S-es Trust GXT 4374 Ruptor - Auriculares Gaming  Unidades Acústicas de 50 mm  Control del Volumen e Interruptor para Silenciar el Micrófono  para PC  PS4  Xbox One y Nintento Switch  Gris'
+slug: 'B07HFL254S-es Trust GXT 4374 Ruptor - Auriculares Gaming Unidades...'
+tags: ps4, xbox
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

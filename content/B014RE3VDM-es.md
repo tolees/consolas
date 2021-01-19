@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41v2kHRInmL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B014RE3VDM-es Nintendo - Remote Plus - Edición TOAD  Nintendo Wii U '
+slug: 'B014RE3VDM-es Nintendo - Remote Plus - Edición TOAD Nintendo Wii U'
+tags: nintendo
 actualPrice: 42.44 EUR
 currency: EUR
 price: 42.44

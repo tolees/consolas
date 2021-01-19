@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JhpsTJPdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RBK94C4-es C-FUNN Carcasa del Cartucho Reemplazo De La Tarjeta De Juego Nintendo NES 72 60Pin A 72Pin Adapter - Gris'
+slug: 'B07RBK94C4-es C-FUNN Carcasa del Cartucho Reemplazo De La Tarjeta De...'
+tags: nintendo
 actualPrice: 8.13 EUR
 currency: EUR
 price: 8.13

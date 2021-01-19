@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51I7jNTLILL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00N8PBYK4-es Nintendo Pikachu Amiibo - Figuras de acción y de colección  Collectible Figure  Multicolor '
+slug: 'B00N8PBYK4-es Nintendo Pikachu Amiibo - Figuras de acción y de colección...'
+tags: nintendo
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

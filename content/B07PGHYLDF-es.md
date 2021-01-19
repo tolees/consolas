@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sQcgvvA0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PGHYLDF-es Carrera- Nintendo Mario Kart-Mach 8 Juego con Coches  Multicolor  Stadlbauer 20062492 '
+slug: 'B07PGHYLDF-es Carrera- Nintendo Mario Kart-Mach 8 Juego con Coches...'
+tags: nintendo
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

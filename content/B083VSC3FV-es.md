@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31H2C2BUsLL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083VSC3FV-es Disco Duro Externo 2TB  Disco Duro Externo USB3.1 Type C para PC  Mac  PS4  Xbox One  MacBook  Desktop  Laptop  Chromebook. 2TB Plata '
+slug: 'B083VSC3FV-es Disco Duro Externo 2TB Disco Duro Externo USB3.1 Type C...'
+tags: ps4, xbox
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

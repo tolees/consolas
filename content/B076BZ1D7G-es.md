@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419wy1N0FKL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076BZ1D7G-es Pegatinas Cubiertas Adhesiva Decal Set para Sony PlayStation 4 PS4 Consola Controlador - Mano de Sangre Impreso'
+slug: 'B076BZ1D7G-es Pegatinas Cubiertas Adhesiva Decal Set para Sony...'
+tags: playstation, ps4
 actualPrice: 11.84 EUR
 currency: EUR
 price: 11.84

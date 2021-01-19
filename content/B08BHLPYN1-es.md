@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413F-j4XDhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BHLPYN1-es Disco Duro Externo 2 TB  Disco Duro Externo para PC  Mac Xbox  MacBook  Chromebook  2TB Negro '
+slug: 'B08BHLPYN1-es Disco Duro Externo 2 TB Disco Duro Externo para PC Mac...'
+tags: xbox
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

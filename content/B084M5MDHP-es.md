@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dZ-B7mmjL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084M5MDHP-es Disco Duro Externo 1 TB  Disco Duro Externo Type C USB3.1 para PC  Mac  PS4  Xbox One  MacBook  Desktop  Laptop  Chromebook. 1TB Azul '
+slug: 'B084M5MDHP-es Disco Duro Externo 1 TB Disco Duro Externo Type C USB3.1...'
+tags: ps4, xbox
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

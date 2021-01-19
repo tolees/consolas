@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ElFvSb9nL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KYC1VL7-es HyperX HX-HSCSCX-BK CloudX Stinger Core - Cascos de Gaming para Xbox One'
+slug: 'B07KYC1VL7-es HyperX HX-HSCSCX-BK CloudX Stinger Core - Cascos de Gaming...'
+tags: xbox
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

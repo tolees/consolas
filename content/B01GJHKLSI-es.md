@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41raYUK8cRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GJHKLSI-es Trust Gaming GXT 744 - Funda de Silicona para Mando PS4  Color Rojo'
+slug: 'B01GJHKLSI-es Trust Gaming GXT 744 - Funda de Silicona para Mando PS4...'
+tags: ps4
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

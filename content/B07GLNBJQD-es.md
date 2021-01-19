@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-7EZh5gdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GLNBJQD-es Xbox One Enhanced Wired Controller - Xbox One [Importación inglesa]'
+slug: 'B07GLNBJQD-es Xbox One Enhanced Wired Controller - Xbox One [Importación...'
+tags: xbox
 actualPrice: 27.84 EUR
 currency: EUR
 price: 27.84

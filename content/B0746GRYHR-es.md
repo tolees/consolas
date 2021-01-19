@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FZRfv4+4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0746GRYHR-es SADES SA810 Gaming Headset Xbox One PS4 auriculares de juego estéreo auriculares con micrófono de aislamiento de ruido para Xbox One PC PS4 teléfono portátil  blanco '
+slug: 'B0746GRYHR-es SADES SA810 Gaming Headset Xbox One PS4 auriculares de...'
+tags: ps4, xbox
 actualPrice: 20.29 EUR
 currency: EUR
 price: 20.29

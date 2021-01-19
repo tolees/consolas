@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/31WlsJ9w2vL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GXKCX6Y-es Mando Inalámbrico GameCube  Color Negro  Nintendo Switch '
+slug: 'B07GXKCX6Y-es Mando Inalámbrico GameCube Color Negro Nintendo Switch'
+tags: nintendo
 actualPrice: 29.72 EUR
 currency: EUR
 price: 29.72

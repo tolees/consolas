@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uQJo7291L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0733PJQ5W-es 4X PS4 analógico controlador de joystick tapa tapa palanca de mando para Sony'
+slug: 'B0733PJQ5W-es 4X PS4 analógico controlador de joystick tapa tapa palanca...'
+tags: ps4
 actualPrice: 1.53 EUR
 currency: EUR
 price: 1.53

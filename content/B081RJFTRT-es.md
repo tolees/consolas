@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51j+I6L7M1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081RJFTRT-es KLIM Nova + Base de refrigeración para portátiles RGB - 11" a 19" + Estable y silenciosa + Panel de Metal + Refrigeración para portátil Gaming Compatible con Mac y PS4 + Nueva 2020'
+slug: 'B081RJFTRT-es KLIM Nova + Base de refrigeración para portátiles RGB -...'
+tags: ps4
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

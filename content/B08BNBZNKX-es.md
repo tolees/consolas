@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319DcUp9QUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BNBZNKX-es Disco Duro Externo 2tb USB 3.1 para Mac  PC MacBook  Chromebook  Xbox  2tb  Plata '
+slug: 'B08BNBZNKX-es Disco Duro Externo 2tb USB 3.1 para Mac PC MacBook...'
+tags: xbox
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

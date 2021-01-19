@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5107yl7OffL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RD79F7R-es Searchyou True Blue Mini Crackhead Pack con 64G 101 Juegos para Playstation Classic'
+slug: 'B07RD79F7R-es Searchyou True Blue Mini Crackhead Pack con 64G 101 Juegos...'
+tags: playstation
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

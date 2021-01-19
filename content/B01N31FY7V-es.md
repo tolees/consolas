@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mj1peyVML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N31FY7V-es Timorn Botón Aleatorio de reemplazo de Presione el Soporte de la Cinta de la Esponja para el regulador PS4 de Playstation 4  1pc '
+slug: 'B01N31FY7V-es Timorn Botón Aleatorio de reemplazo de Presione el Soporte...'
+tags: playstation, ps4
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kkRMYgfIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SYNK2MR-es Hori - Fighting Stick Mini  Edición Street Fighter II Chun-Li  Nintendo Switch '
+slug: 'B07SYNK2MR-es Hori - Fighting Stick Mini Edición Street Fighter II Chun-...'
+tags: nintendo
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

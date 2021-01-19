@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41APlDSwhyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DJ35MGX-es Disco Duro Externo 1tb USB 3.1 para Mac  PC MacBook  Chromebook  Xbox  1tb  Rojo '
+slug: 'B08DJ35MGX-es Disco Duro Externo 1tb USB 3.1 para Mac PC MacBook...'
+tags: xbox
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

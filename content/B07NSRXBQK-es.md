@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AQmJADSUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NSRXBQK-es New Bee Soporte Auriculares Universal en Mesa para Bose QuietComfort 25  QuietComfort 35  Gaming Headset Stand  Beats Solo 3  Beats Solo 2  Sony Playstation etc.  Negro '
+slug: 'B07NSRXBQK-es New Bee Soporte Auriculares Universal en Mesa para Bose...'
+tags: playstation
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BhiD5g3wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CR3LD3R-es JSAUX Cable Alargador USB 3.0 [3M] Tipo A Macho a Hembra Extensor para Conexión Entre PC  TV y Periféricos como Impresora  Ratón  Teclado  Hub  Pendrive  Xbox  Impresoras  ratón y Otros-Rojo'
+slug: 'B08CR3LD3R-es JSAUX Cable Alargador USB 3.0 [3M] Tipo A Macho a Hembra...'
+tags: xbox
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

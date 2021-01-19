@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zRIMqY-hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VB3WG32-es PDP - Mando Mini Con Cable Rock Candy Amarillo Pop Glow  Nintendo Switch '
+slug: 'B07VB3WG32-es PDP - Mando Mini Con Cable Rock Candy Amarillo Pop Glow...'
+tags: nintendo
 actualPrice: 16.52 EUR
 currency: EUR
 price: 16.52

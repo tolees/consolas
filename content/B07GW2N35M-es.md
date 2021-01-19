@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51ldJ18h2QL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GW2N35M-es Rollercoster Tycoon Adventures - Classics - Nintendo Switch [Importación italiana]'
+slug: 'B07GW2N35M-es Rollercoster Tycoon Adventures - Classics - Nintendo...'
+tags: nintendo
 actualPrice: 26.2 EUR
 currency: EUR
 price: 26.2

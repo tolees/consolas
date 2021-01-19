@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51y09kWHM-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GLJ53YT-es Mandos para Nintendo Switch  REDSTORM Bluetooth Mando Inalámbrico Switch Pro Gamepad Joypad Joystick Admite Sensor 6 Gyro Axis Turbo y Dual Motor Vibration'
+slug: 'B08GLJ53YT-es Mandos para Nintendo Switch REDSTORM Bluetooth Mando...'
+tags: nintendo
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

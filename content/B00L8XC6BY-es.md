@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418X3qi6r7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00L8XC6BY-es Mackuna Flex Plus 0.2M Cable de extensión HDMI Audio - Video con Ethernet  1080P  4k2k  PS4  Xbox One  DVD  BLU-Ray  Sky HD  Virgin Box  UHD  Full HD  Plasma & TV LED  3D TV Plomo  ARC  Dolby TrueHD'
+slug: 'B00L8XC6BY-es Mackuna Flex Plus 0.2M Cable de extensión HDMI Audio -...'
+tags: ps4, xbox
 actualPrice: 7.44 EUR
 currency: EUR
 price: 7.44

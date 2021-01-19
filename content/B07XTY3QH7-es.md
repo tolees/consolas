@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517efIkYHSL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XTY3QH7-es Dragon Ball Z: Kakarot Deluxe Edition - PlayStation 4 [Importación alemana]'
+slug: 'B07XTY3QH7-es Dragon Ball Z: Kakarot Deluxe Edition - PlayStation 4...'
+tags: playstation
 actualPrice: 74.71 EUR
 currency: EUR
 price: 74.71

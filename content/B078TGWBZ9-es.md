@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PEOx9fwJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078TGWBZ9-es TUTUO Nintendo Switch Controlador Mando Inalámbrico Gamepad Bluetooth Controller Joypad Video Guego Joystick para Nintendo Switch Pro -Negro'
+slug: 'B078TGWBZ9-es TUTUO Nintendo Switch Controlador Mando Inalámbrico...'
+tags: nintendo
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

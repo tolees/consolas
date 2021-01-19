@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41s+xdz5ScL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JQGPLV1-es eXtremeRate Carcasa para Xbox One Funda Delantera con Agarre Izquierdo Derecho Protectora de Placa Tacto Suave Cubierta Antideslizante Asa Mango para Mando de Xbox One S/X-Model 1708 Grano de Madera '
+slug: 'B08JQGPLV1-es eXtremeRate Carcasa para Xbox One Funda Delantera con...'
+tags: xbox
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

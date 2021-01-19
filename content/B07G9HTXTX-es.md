@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KIqOXrUdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G9HTXTX-es Mando inalámbrico Pro4 FPS wireless controller - Accessorio para consola PS4 / Slim / Pro / PC / PS3 - Camo'
+slug: 'B07G9HTXTX-es Mando inalámbrico Pro4 FPS wireless controller -...'
+tags: ps4
 actualPrice: 29.71 EUR
 currency: EUR
 price: 29.71

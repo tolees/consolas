@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/512O-Nch%2B5L._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B072KGYZ3L-es Lego Marvel Super Heroes 2 - Nintendo Switch [Importación francesa]'
+slug: 'B072KGYZ3L-es Lego Marvel Super Heroes 2 - Nintendo Switch [Importación...'
+tags: nintendo
 actualPrice: 43.12 EUR
 currency: EUR
 price: 43.12

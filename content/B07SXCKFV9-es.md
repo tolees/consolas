@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZuvwL4kCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SXCKFV9-es Controlador inalámbrico DualShock 4 para Playstation 4 Sunset Orange'
+slug: 'B07SXCKFV9-es Controlador inalámbrico DualShock 4 para Playstation 4...'
+tags: playstation
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515Qvg6+u1L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IFDRJ7A-es 3x Pegatina Cubierta Adhesiva Impreso Estrella Rosada Atractivo para Sony PlayStation 4 PS4 Consola Controlador'
+slug: 'B01IFDRJ7A-es 3x Pegatina Cubierta Adhesiva Impreso Estrella Rosada...'
+tags: playstation, ps4
 actualPrice: 7.16 EUR
 currency: EUR
 price: 7.16

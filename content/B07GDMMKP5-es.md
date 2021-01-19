@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414U93Sw8mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GDMMKP5-es Gioteck - Auricular Estereo con cable azul y negro TX-30 Multiplataforma  Nintendo Switch '
+slug: 'B07GDMMKP5-es Gioteck - Auricular Estereo con cable azul y negro TX-30...'
+tags: nintendo
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

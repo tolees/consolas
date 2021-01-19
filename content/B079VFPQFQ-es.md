@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31nSnWCDSHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079VFPQFQ-es EMPIRE GAMING - Micrófono USTREAM USB Ideal para el Gaming y Live Streaming - Compatible PC  Mac  PS4  Xbox One y Aplicaciones: Twitch  Youtube  Discord - Negro/Rojo'
+slug: 'B079VFPQFQ-es EMPIRE GAMING - Micrófono USTREAM USB Ideal para el Gaming...'
+tags: ps4, xbox
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

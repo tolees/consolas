@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41v7BLF8VhL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKYM3N4-es NUBWO N12 Xbox One PS4 auriculares para juegos  auriculares estéreo con cable con control de volumen y silencio  auriculares con micrófono de reducción de ruido para Nintendo Switch'
+slug: 'B07JKYM3N4-es NUBWO N12 Xbox One PS4 auriculares para juegos auriculares...'
+tags: nintendo, ps4, xbox
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

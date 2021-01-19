@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Qmjjx59zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WLR66NM-es Timorn La más Nueva versión Teclado del reemplazo Cable Conductor de la Cinta de la película conductora para Playstation 4 PS4 Controller  1 Juego '
+slug: 'B06WLR66NM-es Timorn La más Nueva versión Teclado del reemplazo Cable...'
+tags: playstation, ps4
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415jyfHgg5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086JPSC89-es iVANKY Cable Alargador HDMI 2 Metros  Cable Extensión HDMI 4K @ 60Hz Macho a Hembra  Compatible con 2K @ 165Hz  Full HD 1080P  HDR  ARC  HDTV  Xbox'
+slug: 'B086JPSC89-es iVANKY Cable Alargador HDMI 2 Metros Cable Extensión HDMI...'
+tags: xbox
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rPvXAn2gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G84G7VF-es MiraBox Game Capture HDMI - USB 3.0 1080P 60FPS HD Dispositivo de transmisión para Playstation 4  Xbox One  Xbox 360 - Compatible con Windows Linux Mac'
+slug: 'B07G84G7VF-es MiraBox Game Capture HDMI - USB 3.0 1080P 60FPS HD...'
+tags: playstation, xbox
 actualPrice: 81.59 EUR
 currency: EUR
 price: 81.59

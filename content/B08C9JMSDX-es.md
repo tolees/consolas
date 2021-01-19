@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tHqLXztGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C9JMSDX-es eXtremeRate Carcasa Completa para Nintendo Switch Funda Cubierta Trasera para Consola de Switch Case de Agarre y Botones Coloridos para Joy-con de Nintendo Switch Shell de Bricolaje Amarillo Ámbar '
+slug: 'B08C9JMSDX-es eXtremeRate Carcasa Completa para Nintendo Switch Funda...'
+tags: nintendo
 actualPrice: 32.49 EUR
 currency: EUR
 price: 32.49

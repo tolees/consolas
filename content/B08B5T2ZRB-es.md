@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FiVUGDLJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B5T2ZRB-es eXtremeRate Carcasa para JoyCons de Nintendo Switch Funda de Agarre Shell de Bricolaje Cubierta Tacto Suave con ABXY Drecctión Botones para Nintendo Switch No Incluye Carcasa de Consola Coral '
+slug: 'B08B5T2ZRB-es eXtremeRate Carcasa para JoyCons de Nintendo Switch Funda...'
+tags: nintendo
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

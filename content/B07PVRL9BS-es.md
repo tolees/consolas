@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413hVU+q+lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PVRL9BS-es Carcasa para Control de Consola Playstation Controlador de PS4 en Dorado-0110'
+slug: 'B07PVRL9BS-es Carcasa para Control de Consola Playstation Controlador de...'
+tags: playstation, ps4
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

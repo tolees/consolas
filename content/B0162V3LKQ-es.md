@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418DzjXwKiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0162V3LKQ-es Krom KHENSU - NXKROMKHNS - Gamepad  Alámbrico/Inalámbrico  Windows 7 Enterprise  Windows 8  Windows Vista Home Premium  Windows 7 Enterprise x64  Windows 8 Ent  PC  Playstation 3  USB 2.0  Turbo'
+slug: 'B0162V3LKQ-es Krom KHENSU - NXKROMKHNS - Gamepad Alámbrico/Inalámbrico...'
+tags: playstation
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

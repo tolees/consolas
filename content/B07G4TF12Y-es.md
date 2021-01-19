@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/5157TjqMbTL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4TF12Y-es Middle Earth: Shadow of War Definitive Edition - PlayStation 4 [Importación inglesa]'
+slug: 'B07G4TF12Y-es Middle Earth: Shadow of War Definitive Edition -...'
+tags: playstation
 actualPrice: 37.54 EUR
 currency: EUR
 price: 37.54

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51T6zeRSecL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TT59W1G-es Shuliancable Cable HDMI  Compatible con Ethernet Retorno de Audio  Compatible con Fire TV  3D  vídeo 1080p y ARC  Playstation PS3 PC  10M  Red Black '
+slug: 'B07TT59W1G-es Shuliancable Cable HDMI Compatible con Ethernet Retorno de...'
+tags: playstation
 actualPrice: 13.19 EUR
 currency: EUR
 price: 13.19

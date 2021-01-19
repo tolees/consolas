@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511j2sYtwWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G35HT5Z-es RCA a HDMI convertidor Wavlink 1080p 3RCA a HDMI CVBS AV Compuesto Video Audio Adaptador con USB Charge Cable apoyar 1080P para PC Laptop Xbox PS4 PS3 TV STB VHS VCR Camera DVD [Negro]'
+slug: 'B07G35HT5Z-es RCA a HDMI convertidor Wavlink 1080p 3RCA a HDMI CVBS AV...'
+tags: ps4, xbox
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

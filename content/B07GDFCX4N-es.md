@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hnj+6-TJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GDFCX4N-es BlueFire Cascos para Xbox One PS4  Auriculares Gaming Bajo Envolvente Estéreo de Luz LED con Micrófono 3.5mm Puerto Compatible con Xbox One  PS4 PC y Smartphone  Azul '
+slug: 'B07GDFCX4N-es BlueFire Cascos para Xbox One PS4 Auriculares Gaming Bajo...'
+tags: ps4, xbox
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

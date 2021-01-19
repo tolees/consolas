@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41tPQHk9cHL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQRWCH9-es Maegoo Mando Controlador Inalámbrico para Nintendo Switch  Bluetooth Remote Wireless Pro Mandos Controller Gamepad Joypad con Función Gyro Axis/Dual Shock y Turbo - Azul'
+slug: 'B07TQRWCH9-es Maegoo Mando Controlador Inalámbrico para Nintendo Switch...'
+tags: nintendo
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

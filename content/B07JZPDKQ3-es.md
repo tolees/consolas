@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+CWDExGDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZPDKQ3-es AUTOUTLET 3 en 1 Grip y raqueta de tenis Juego de accesorios del volante for el juego de Mario Tennis Aces  Nintendo equipo de juego empuñadura del controlador del interruptor Switch Joy-Con'
+slug: 'B07JZPDKQ3-es AUTOUTLET 3 en 1 Grip y raqueta de tenis Juego de...'
+tags: nintendo
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hoB6fUo7L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074ZPBYWN-es 3x Pegatina Cubierta Adhesiva Creativo Protección Jeugo Impreso Grano de Madera para Sony PlayStation 4 PS4 Consola'
+slug: 'B074ZPBYWN-es 3x Pegatina Cubierta Adhesiva Creativo Protección Jeugo...'
+tags: playstation, ps4
 actualPrice: 6.47 EUR
 currency: EUR
 price: 6.47

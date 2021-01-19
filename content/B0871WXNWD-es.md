@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41knqliBOqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0871WXNWD-es Laelr Controladores inalámbricos más recientes para Nintendo Switch Mini controlador izquierdo y derecho Mini vibración Gamepad Joystick Controlador Bluetooth para controles remotos N-Switch'
+slug: 'B0871WXNWD-es Laelr Controladores inalámbricos más recientes para...'
+tags: nintendo
 actualPrice: 40.87 EUR
 currency: EUR
 price: 40.87

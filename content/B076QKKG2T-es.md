@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41z9cEHubfL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B076QKKG2T-es Razer Electra V2 - Auriculares analógicos para juegos y música  compatible con PC  PS4  Xbox One  Switch y dispositivos móviles'
+slug: 'B076QKKG2T-es Razer Electra V2 - Auriculares analógicos para juegos y...'
+tags: ps4, xbox
 actualPrice: 35 EUR
 currency: EUR
 price: 35

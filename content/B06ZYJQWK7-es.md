@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41euQ4WdUzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZYJQWK7-es Timorn Piezas de Reparación Torx T8 Tornillos Conjunto Reemplazo para Xbox 360 Wireless Controller  20 Juegos '
+slug: 'B06ZYJQWK7-es Timorn Piezas de Reparación Torx T8 Tornillos Conjunto...'
+tags: xbox
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

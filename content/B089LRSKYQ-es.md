@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316JVMJ2PFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089LRSKYQ-es Disco Duro Externo 2tb USB 3.1 Disco Duro Externo para Mac  PC MacBook  Chromebook  Xbox  2tb  Negro '
+slug: 'B089LRSKYQ-es Disco Duro Externo 2tb USB 3.1 Disco Duro Externo para Mac...'
+tags: xbox
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

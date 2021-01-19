@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RdIbb3ktL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C2J2VS3-es Disco Duro Externo 2tb USB 3.1 para Mac  PC MacBook  Chromebook  Xbox  1tb  Azul '
+slug: 'B08C2J2VS3-es Disco Duro Externo 2tb USB 3.1 para Mac PC MacBook...'
+tags: xbox
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

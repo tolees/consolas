@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iChg-93yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B3QXPX9-es Disco Duro Externo 2 TB Type C USB3.1 Disco Duro Externo para PC  Mac  Xbox One  MacBook  Desktop  Laptop  Chromebook. 2TB Negro '
+slug: 'B08B3QXPX9-es Disco Duro Externo 2 TB Type C USB3.1 Disco Duro Externo...'
+tags: xbox
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

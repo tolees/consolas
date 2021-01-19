@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tAWLvAXIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MBSXMH7-es ShuOne USB3.0 HDMI 1080P 60 FPS Juego Tarjeta de Captura  Apoyo transmisión en Vivo a Twitch  Youtube  OBS  Potplayer y VLC  para Windows  Linux  macOS  PS3 PS4 Xbox Wii U'
+slug: 'B07MBSXMH7-es ShuOne USB3.0 HDMI 1080P 60 FPS Juego Tarjeta de Captura...'
+tags: ps4, xbox
 actualPrice: 78.99 EUR
 currency: EUR
 price: 78.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51AX74+byVL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBKW254-es Nacon Revolution Pro Controller para PS4 [Importación Inglesa]'
+slug: 'B01NBKW254-es Nacon Revolution Pro Controller para PS4 [Importación...'
+tags: ps4
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

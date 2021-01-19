@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lnySgc-pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CVCQ1B4-es eXtremeRate Botones para Joycons de Nintendo Switch Botón de ABXY Dirección Botones Coloridos Teclas de reemplazo Kit de Reparación con Herramientas para Nintendo Switch Joy-con No lncluye Carcasa'
+slug: 'B08CVCQ1B4-es eXtremeRate Botones para Joycons de Nintendo Switch Botón...'
+tags: nintendo
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

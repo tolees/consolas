@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WCJWx8tlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GUROCO6-es Interesting® 4 Pcs Pulgar Palo apretones Tapa Joystick Stick Grips Silicona Tapones de Cubren para PS4 PS3 PS2 Xbox un 360 Juego Cat Paw'
+slug: 'B01GUROCO6-es Interesting® 4 Pcs Pulgar Palo apretones Tapa Joystick...'
+tags: ps4, xbox
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319AJXIwGrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WE7I02W-es De Metal Stick Palanca De Mando Para Sony Playstation 4 Xbox Un Controlador De Color Rojo'
+slug: 'B00WE7I02W-es De Metal Stick Palanca De Mando Para Sony Playstation 4...'
+tags: playstation, xbox
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c4CqwAnXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0823VVWJD-es Cargador para Nintendo Switch  Gifort 4 en 1 Joy-Con Cargador Base de Cargador para Nintendo Switch Joy-con Pro Controller Console  Cargador Dock con Indicador LED y cable cargador USB tipo C'
+slug: 'B0823VVWJD-es Cargador para Nintendo Switch Gifort 4 en 1 Joy-Con...'
+tags: nintendo
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

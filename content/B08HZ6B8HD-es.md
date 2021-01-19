@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ERiY0hshL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HZ6B8HD-es Disco Duro Externo 1 TB  USB-C Disco Duro Externo para PC  Mac  Xbox One  MacBook  Desktop  Laptop  Chromebook. 1TB Rojo '
+slug: 'B08HZ6B8HD-es Disco Duro Externo 1 TB USB-C Disco Duro Externo para PC...'
+tags: xbox
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

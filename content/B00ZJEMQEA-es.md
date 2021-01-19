@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mSBHja2jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZJEMQEA-es Pdp - Mono Auricular Chat Afterglow LVL 1  Xbox One '
+slug: 'B00ZJEMQEA-es Pdp - Mono Auricular Chat Afterglow LVL 1 Xbox One'
+tags: xbox
 actualPrice: 5.95 EUR
 currency: EUR
 price: 5.95

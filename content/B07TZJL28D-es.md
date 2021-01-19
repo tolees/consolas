@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-RL+zqSyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZJL28D-es eXtremeRate Carcasa para Nintendo Switch Pro Funda Delantera Placa Trasera Cubierta DIY Shell de reemplazo Case para Nintendo Switch Pro-Controlador NO Incluido  Fiesta de Miedo '
+slug: 'B07TZJL28D-es eXtremeRate Carcasa para Nintendo Switch Pro Funda...'
+tags: nintendo
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

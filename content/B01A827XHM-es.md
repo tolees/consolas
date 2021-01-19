@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ComucLGzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01A827XHM-es HORI - PlayStand Multipuerto USB  Nintendo Switch / Switch Lite '
+slug: 'B01A827XHM-es HORI - PlayStand Multipuerto USB Nintendo Switch / Switch...'
+tags: nintendo
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

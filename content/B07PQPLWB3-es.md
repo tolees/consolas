@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51X4cvmpyWL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PQPLWB3-es 4K Cable HDMI 2 metros  2.0 Cable HDMI Ultra HD  soporta 4K Ultra HD  3D  2160P  1080P  Ethernet  conectores chapados en oro trenzado de nylon para PS4  XBOX  TV  computadora y monitor'
+slug: 'B07PQPLWB3-es 4K Cable HDMI 2 metros 2.0 Cable HDMI Ultra HD soporta 4K...'
+tags: ps4, xbox
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DvzRkh0oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R42P3RL-es THE G-LAB Kult RADIUM - 4800 DPI Ratón Gaming con Sensor óptico de alta precisión - Ratón Gaming USB con cable  7 botones programables  Retroiluminación RGB - PC  Xbox One  PS4 -  Negro '
+slug: 'B07R42P3RL-es THE G-LAB Kult RADIUM - 4800 DPI Ratón Gaming con Sensor...'
+tags: ps4, xbox
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

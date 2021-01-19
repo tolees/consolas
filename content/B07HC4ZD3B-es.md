@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417WmMqTAAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HC4ZD3B-es Hori - Base de Carga Poké Ball Plus  Nintendo Switch '
+slug: 'B07HC4ZD3B-es Hori - Base de Carga Poké Ball Plus Nintendo Switch'
+tags: nintendo
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

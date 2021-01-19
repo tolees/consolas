@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ap25ZgZxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003XSSR6U-es Mando con cable Pro4 controller para consola PS4 / Slim/ Pr - PC -PS3 - Accesorios de videojuegos Atlético de Madrid'
+slug: 'B003XSSR6U-es Mando con cable Pro4 controller para consola PS4 / Slim/...'
+tags: ps4
 actualPrice: 22.3 EUR
 currency: EUR
 price: 22.3

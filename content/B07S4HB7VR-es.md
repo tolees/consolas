@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61AdzoASi+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S4HB7VR-es QWDDECO Sticker Pack  360 PCS  Vinilo Pegatinas para portátiles  botellas de agua  equipaje  monopatín  PS4  Xbox one  Iphone  los mejores regalos para adultos  adolescentes  niños y niñas.Calcomanías'
+slug: 'B07S4HB7VR-es QWDDECO Sticker Pack 360 PCS Vinilo Pegatinas para...'
+tags: ps4, xbox
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51QTmU-pd3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082MHLDC9-es Maegoo Inalámbrico Mando para Nintendo Switch  Bluetooth Wireless Nintendo Switch Pro Mando Controlador Gamepad Joypad Joystick Admite Sensor 6 Gyro Axis  Turbo y Dual Motor Vibration  Amarillo '
+slug: 'B082MHLDC9-es Maegoo Inalámbrico Mando para Nintendo Switch Bluetooth...'
+tags: nintendo
 actualPrice: 23.19 EUR
 currency: EUR
 price: 23.19

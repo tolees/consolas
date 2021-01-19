@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PML8NKT-es A.O.T. 2: Final Battle - Xbox One'
+tags: xbox
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

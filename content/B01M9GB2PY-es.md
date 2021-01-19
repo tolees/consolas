@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4164bjHwk3L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M9GB2PY-es Subsonic - Caso Rígido Con Licencia Oficial Real Madrid  New Nintendo 3DS  New Nintendo 3DS XL  PSP  PS Vita '
+slug: 'B01M9GB2PY-es Subsonic - Caso Rígido Con Licencia Oficial Real Madrid...'
+tags: nintendo
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

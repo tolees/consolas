@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310n4UKty5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ALIW8AK-es Hori - Auriculares Switch Azul/Rojo Neón  Nintendo Switch '
+slug: 'B01ALIW8AK-es Hori - Auriculares Switch Azul/Rojo Neón Nintendo Switch'
+tags: nintendo
 actualPrice: 20.59 EUR
 currency: EUR
 price: 20.59

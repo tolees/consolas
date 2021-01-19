@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51corhlEikL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HLTPTFT-es Disco Duro Externo 1 TB USB3.0 para PC  Mac  MacBook  Xbox One  1TB Azul '
+slug: 'B08HLTPTFT-es Disco Duro Externo 1 TB USB3.0 para PC Mac MacBook Xbox...'
+tags: xbox
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

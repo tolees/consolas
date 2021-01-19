@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y8-4egn6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D69KYVB-es Disco Duro Externo 2 TB USB3.0 para PC  Mac Xbox  MacBook  Chromebook  2TB Azul '
+slug: 'B08D69KYVB-es Disco Duro Externo 2 TB USB3.0 para PC Mac Xbox MacBook...'
+tags: xbox
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

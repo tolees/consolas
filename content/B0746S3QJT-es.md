@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qcsWzmhkL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0746S3QJT-es Nacon - Mando Compacto para PS4  color Rojo Cristal'
+slug: 'B0746S3QJT-es Nacon - Mando Compacto para PS4 color Rojo Cristal'
+tags: ps4
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

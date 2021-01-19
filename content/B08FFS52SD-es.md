@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CQ2UKhYSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FFS52SD-es Tina @ Wireless pro para Nintendo Switch  controlador inalámbrico compatible para consola Nintendo Switch con gamepad remoto integrado  joypad  captura de pantalla  sensor de gravedad'
+slug: 'B08FFS52SD-es Tina @ Wireless pro para Nintendo Switch controlador...'
+tags: nintendo
 actualPrice: 20.8 EUR
 currency: EUR
 price: 20.8

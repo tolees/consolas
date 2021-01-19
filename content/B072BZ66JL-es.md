@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ev7BJMd7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072BZ66JL-es Nintendo - Set De Dos Mandos Joy-Con  Color Verde Neón / Rosa Neón  Nintendo Switch '
+slug: 'B072BZ66JL-es Nintendo - Set De Dos Mandos Joy-Con Color Verde Neón /...'
+tags: nintendo
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

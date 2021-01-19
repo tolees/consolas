@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41kt65tSZ8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HDH49FV-es eXtremeRate Carcasa para Xbox One Funda Delantera con Agarre Izquierdo Derecho Protectora de la Placa Cubierta Antideslizante Asa Mango para Mando de Xbox One S/X-Model 1708 Transparente '
+slug: 'B08HDH49FV-es eXtremeRate Carcasa para Xbox One Funda Delantera con...'
+tags: xbox
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

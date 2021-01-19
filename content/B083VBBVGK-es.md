@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083VBBVGK-es SnowRunner - PS4'
+tags: ps4
 actualPrice: 40.49 EUR
 currency: EUR
 price: 40.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fsgk0rCaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D5ZCF26-es Disco Duro Externo 1 TB para PC  Mac Xbox  MacBook  Chromebook  1TB Negro '
+slug: 'B08D5ZCF26-es Disco Duro Externo 1 TB para PC Mac Xbox MacBook...'
+tags: xbox
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

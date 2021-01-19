@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415pNrXIz3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GXJHRVK-es Mando Inalámbrico Mejorado Link Silueta  Nintendo Switch '
+slug: 'B07GXJHRVK-es Mando Inalámbrico Mejorado Link Silueta Nintendo Switch'
+tags: nintendo
 actualPrice: 40.59 EUR
 currency: EUR
 price: 40.59

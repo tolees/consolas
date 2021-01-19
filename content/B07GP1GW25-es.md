@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DqWYpnpdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GP1GW25-es Thrustmaster - TSS Freno de Mano Sparco Mod + Add-On  PS4  Xbox One  PC para Windows 10 8 7 '
+slug: 'B07GP1GW25-es Thrustmaster - TSS Freno de Mano Sparco Mod + Add-On PS4...'
+tags: ps4, xbox
 actualPrice: 195.04 EUR
 currency: EUR
 price: 195.04

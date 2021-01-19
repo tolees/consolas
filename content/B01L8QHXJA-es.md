@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413za+TTkHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L8QHXJA-es Import Europe - Strike Pack FPS Dominator Mod  PS4 '
+slug: 'B01L8QHXJA-es Import Europe - Strike Pack FPS Dominator Mod PS4'
+tags: ps4
 actualPrice: 46.88 EUR
 currency: EUR
 price: 46.88

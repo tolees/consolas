@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51O9jQHZT4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XCDFH3R-es KLIM Puma – Cascos Auriculares Gaming con micrófono – Sonido Envolvente 7.1 Audio – Vibración integrada – Blanco – Ideales para Jugar en PC y PS4 [ Nueva 2020 Versión ]'
+slug: 'B06XCDFH3R-es KLIM Puma – Cascos Auriculares Gaming con micrófono –...'
+tags: ps4
 actualPrice: 69.97 EUR
 currency: EUR
 price: 69.97

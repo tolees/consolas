@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YtuOwQ2jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0746SMSC6-es Nacon - Mando Compacto para PS4  color Rojo'
+slug: 'B0746SMSC6-es Nacon - Mando Compacto para PS4 color Rojo'
+tags: ps4
 actualPrice: 28.92 EUR
 currency: EUR
 price: 28.92

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Sn-RW7cAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SCFX56C-es YU-GI-OH! LEGACY OF THE DUELIST: LINK EVOLUTION - - Nintendo Switch [Importación italiana]'
+slug: 'B07SCFX56C-es YU-GI-OH! LEGACY OF THE DUELIST: LINK EVOLUTION - -...'
+tags: nintendo
 actualPrice: 31.65 EUR
 currency: EUR
 price: 31.65

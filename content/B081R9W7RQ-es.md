@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UXthMqD-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081R9W7RQ-es Beexcellent Cascos PS4  Auriculares con Micrófono Flexible  50mm Driver Estéreo Envolventes  Orejeras Cómodas Iluminación RGB para PS4 Xbox One PC Tablet'
+slug: 'B081R9W7RQ-es Beexcellent Cascos PS4 Auriculares con Micrófono Flexible...'
+tags: ps4, xbox
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

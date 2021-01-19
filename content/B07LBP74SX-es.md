@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41P6MZFz0CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBP74SX-es Shuliancable Cable HDMI  Compatible con Ethernet Retorno de Audio  Compatible con Fire TV  3D  vídeo 1080p y ARC  Playstation PS3 PC  10M  Black '
+slug: 'B07LBP74SX-es Shuliancable Cable HDMI Compatible con Ethernet Retorno de...'
+tags: playstation
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

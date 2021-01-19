@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510ldWOv7oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F1RD4TM-es Samoleus Gaming Auriculares con Microfono  Cascos Gaming PS4 PC Xbox One  Cascos Gamer  Headset Cascos Jack 3.5mm  Luz LED con Switch  Laptop  Playstation 4  Upgraded Red '
+slug: 'B07F1RD4TM-es Samoleus Gaming Auriculares con Microfono Cascos Gaming...'
+tags: playstation, ps4, xbox
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

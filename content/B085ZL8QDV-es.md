@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-rGVEUeDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085ZL8QDV-es Cocoda Cascos Gaming  Auriculares Gaming PS4 para PS3/PC/Xbox One/Nintendo Switch/Laptop  Auriculares Microfono Estéreo con Bass Surround Cancelacion Ruido  3.5mm Jack  Control de Volumen'
+slug: 'B085ZL8QDV-es Cocoda Cascos Gaming Auriculares Gaming PS4 para...'
+tags: ps4
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

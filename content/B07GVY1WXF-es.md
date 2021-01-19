@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318kB+8m4ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GVY1WXF-es Mando Inalámbrico Mejorado  Negro  Nintendo Switch '
+slug: 'B07GVY1WXF-es Mando Inalámbrico Mejorado Negro Nintendo Switch'
+tags: nintendo
 actualPrice: 39.72 EUR
 currency: EUR
 price: 39.72

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415C2wcfhtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4P40LG-es Hori - Mando Real Arcade Pro V Hayabusa Hori  Nintendo Switch  PC '
+slug: 'B01N4P40LG-es Hori - Mando Real Arcade Pro V Hayabusa Hori Nintendo...'
+tags: nintendo
 actualPrice: 107.99 EUR
 currency: EUR
 price: 107.99

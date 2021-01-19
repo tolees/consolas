@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513-UkqtmZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GDGV15Y-es ShinePick Auriculares Gaming  3.5mm Cancelación De Ruido Gaming Headset  Juego Auriculares con Micrófono para Nintendo Switch Xbox One PS4 Portátil Mac Tablet  Rojo '
+slug: 'B07GDGV15Y-es ShinePick Auriculares Gaming 3.5mm Cancelación De Ruido...'
+tags: nintendo, ps4, xbox
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31dZ-B7mmjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CMPLH3X-es Disco Duro Externo 2 TB USB-C Disco Duro Externo para PC  Mac  Xbox One  MacBook. 2TB Azul '
+slug: 'B08CMPLH3X-es Disco Duro Externo 2 TB USB-C Disco Duro Externo para PC...'
+tags: xbox
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

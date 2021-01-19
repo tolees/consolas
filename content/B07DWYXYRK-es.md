@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hjnSVEi5L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DWYXYRK-es TUTUO para Cargador Mando PS4  Estación de Carga DualShock 4 con Pantalla de Visualización del Estado de Carga  para Controlador Inalámbrico de Playstation 4  4 Slim and 4 Pro'
+slug: 'B07DWYXYRK-es TUTUO para Cargador Mando PS4 Estación de Carga DualShock...'
+tags: playstation, ps4
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

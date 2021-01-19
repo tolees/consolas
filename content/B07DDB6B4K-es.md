@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IDDjL+QzL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DDB6B4K-es Wireless Nintendo Switch Mandos  Maegoo Nintendo Switch Controller Gamepad Joystick para Switch con Gyro Axis Dual Shock Vibration Gamepad Nintendo inalámbrico'
+slug: 'B07DDB6B4K-es Wireless Nintendo Switch Mandos Maegoo Nintendo Switch...'
+tags: nintendo
 actualPrice: 25.19 EUR
 currency: EUR
 price: 25.19

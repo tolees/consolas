@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YQI1QUoZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084DJ78SW-es Funda + protector LCD para consola Nintendo Switch edición Animal Crossing: New Horizons  Nintendo Switch '
+slug: 'B084DJ78SW-es Funda + protector LCD para consola Nintendo Switch edición...'
+tags: nintendo
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

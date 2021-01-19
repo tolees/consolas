@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41niMwbUx1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GHM45W8-es GEEMEE Mando Inalámbrico para PS4  Wireless Bluetooth Controlador Gamepad Remoto Joystick  Sensor giroscópico de 6 Ejes  función de AudioDual Shock Gaming Controller para Playstation 4 / Pro/Slim'
+slug: 'B08GHM45W8-es GEEMEE Mando Inalámbrico para PS4 Wireless Bluetooth...'
+tags: playstation, ps4
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Yi39HTeIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FFSFXJ6-es Lego DC Super-Villans Xbox One  Edición Estándar'
+slug: 'B07FFSFXJ6-es Lego DC Super-Villans Xbox One Edición Estándar'
+tags: xbox
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

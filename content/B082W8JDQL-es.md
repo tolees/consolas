@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41rtAURBStL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B082W8JDQL-es Mando Inalámbrico para PS4  Wireless Bluetooth Controlador para Playstation 4 con Vibración Doble Remoto Joystick'
+slug: 'B082W8JDQL-es Mando Inalámbrico para PS4 Wireless Bluetooth Controlador...'
+tags: playstation, ps4
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

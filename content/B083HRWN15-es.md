@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hvizJeltL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083HRWN15-es Mini Proyector  FANGOR Mini Video Proyector portátil con Reproductor de DVD 4500Lux proyector de Cine en casa Bluetooth 720P Nativa Compatible con HDMI/USB/Micro SD/VGA/Fire TV Stick/PS4/ Xbox'
+slug: 'B083HRWN15-es Mini Proyector FANGOR Mini Video Proyector portátil con...'
+tags: xbox
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

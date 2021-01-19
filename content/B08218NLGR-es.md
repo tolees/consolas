@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dbftH6M4L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08218NLGR-es Controlador para PS4 Achort Wireless Controlador Mando Inalámbrico Gamepad Dualshock Joystick con Bluetooth y conexión por cable 4 4 botones de ala para PS4/PS4 Slim/PS4 Pro/PC negro'
+slug: 'B08218NLGR-es Controlador para PS4 Achort Wireless Controlador Mando...'
+tags: ps4
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

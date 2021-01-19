@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FMpydElIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FC7RNG1-es REDSTORM Mando para Nintendo Switch mando pro switch inalámbrico  somatosensorial de 6 ejes  turbo función ajustable  motor de doble vibración  joystick multifunción para juegos de Nintendo Switch'
+slug: 'B08FC7RNG1-es REDSTORM Mando para Nintendo Switch mando pro switch...'
+tags: nintendo
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

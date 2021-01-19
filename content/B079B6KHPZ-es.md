@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079B6KHPZ-es Darksiders III - Xbox One'
+tags: xbox
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

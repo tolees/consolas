@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PEfwjsl9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K1T9BWM-es Ardistel - Silicone Sleeve Gamer Dual Kit Blackfire  PS4 '
+slug: 'B01K1T9BWM-es Ardistel - Silicone Sleeve Gamer Dual Kit Blackfire PS4'
+tags: ps4
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

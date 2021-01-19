@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VRWDCN7-es Darksiders Genesis Collectors - Xbox One'
+tags: xbox
 actualPrice: 78.66 EUR
 currency: EUR
 price: 78.66

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+D19m1zhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AJUFF8M-es HORI - Horipad azul  Nintendo Switch '
+slug: 'B01AJUFF8M-es HORI - Horipad azul Nintendo Switch'
+tags: nintendo
 actualPrice: 17.35 EUR
 currency: EUR
 price: 17.35

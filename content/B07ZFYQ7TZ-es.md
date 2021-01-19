@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41CZP9EUcLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZFYQ7TZ-es FR-TEC - Auriculares Gaming Headset SHIELD Rojo  Nintendo Switch '
+slug: 'B07ZFYQ7TZ-es FR-TEC - Auriculares Gaming Headset SHIELD Rojo Nintendo...'
+tags: nintendo
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

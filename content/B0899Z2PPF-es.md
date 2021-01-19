@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Rb9QKQDzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0899Z2PPF-es PiAEK Controlador para Nintendo Switch Controlador inalámbrico Bluetooth para Nintendo Switch 6-Axis HD DualShock Turbo Antideslizante con Caja de Tarjeta de Juego  Amarillo '
+slug: 'B0899Z2PPF-es PiAEK Controlador para Nintendo Switch Controlador...'
+tags: nintendo
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

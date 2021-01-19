@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Uvs2MnD7L._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006H3ACMK-es Slabo 2 x Protector de Pantalla Compatible con Nintendo DS Lite lámina Protectora Ultra Transparente'
+slug: 'B006H3ACMK-es Slabo 2 x Protector de Pantalla Compatible con Nintendo DS...'
+tags: nintendo
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

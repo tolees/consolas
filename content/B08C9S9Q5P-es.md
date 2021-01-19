@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ekrqdBl4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C9S9Q5P-es eXtremeRate Carcasa Trasera para Consola de Nintendo Switch Funda Case Shell de Bricolaje Cubierta de reemplazo con Soporte para Nintendo Switch No Incluye la Carcasa de Joy-con Verde Esmeralda '
+slug: 'B08C9S9Q5P-es eXtremeRate Carcasa Trasera para Consola de Nintendo...'
+tags: nintendo
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

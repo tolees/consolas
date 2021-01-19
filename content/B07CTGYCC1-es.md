@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51K3H9MNwRL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTGYCC1-es Auriculares SADES SA810 Xbox One PS4 Stereo Gaming con micrófono y cancelación de Ruido y Control de Volumen para la Nueva Xbox One/PC/Mac / PS4 / Table/Phone'
+slug: 'B07CTGYCC1-es Auriculares SADES SA810 Xbox One PS4 Stereo Gaming con...'
+tags: ps4, xbox
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

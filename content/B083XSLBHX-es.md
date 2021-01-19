@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413F-j4XDhL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083XSLBHX-es Disco Duro Externo 1 TB  Disco Duro Externo para PC  Mac Xbox  MacBook  Chromebook  PS4  1TB Negro '
+slug: 'B083XSLBHX-es Disco Duro Externo 1 TB Disco Duro Externo para PC Mac...'
+tags: ps4, xbox
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

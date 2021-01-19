@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ThwpQO8gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WGW88NS-es Thrustmaster - eSwap Pro Controller: gamepad  el versátil mando profesional con cable  PS4 / PC '
+slug: 'B07WGW88NS-es Thrustmaster - eSwap Pro Controller: gamepad el versátil...'
+tags: ps4
 actualPrice: 130.49 EUR
 currency: EUR
 price: 130.49

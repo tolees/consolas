@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51A4Jru4AmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W1Z3T5G-es Ardistel - Game Traveler Deluxe Travel Case NNS57  Nintendo Switch '
+slug: 'B07W1Z3T5G-es Ardistel - Game Traveler Deluxe Travel Case NNS57 Nintendo...'
+tags: nintendo
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

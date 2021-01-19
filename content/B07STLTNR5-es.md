@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JlnOeUE8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07STLTNR5-es Hori - Real Arcade Pro.V Hayabusa  Edición Street Fighter II Retro  Nintendo Switch/PC '
+slug: 'B07STLTNR5-es Hori - Real Arcade Pro.V Hayabusa Edición Street Fighter...'
+tags: nintendo
 actualPrice: 102.48 EUR
 currency: EUR
 price: 102.48

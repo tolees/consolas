@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Oz8Y7nKkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QTTYW9P-es Final Fantasy XIV: Shadowbringers - Complete Edition  PS4 '
+slug: 'B07QTTYW9P-es Final Fantasy XIV: Shadowbringers - Complete Edition PS4'
+tags: ps4
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

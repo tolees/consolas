@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yHh7jr7mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L8L8K2E-es Timorn Reemplazo Piezas L1 R1 L2 R2 gatillo Piezas Botones con resortes compatibles para Playstation PS 4 Controlador PS4 DualShock 4  1 Set '
+slug: 'B01L8L8K2E-es Timorn Reemplazo Piezas L1 R1 L2 R2 gatillo Piezas Botones...'
+tags: playstation, ps4
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

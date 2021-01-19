@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+yY9q8nnL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CJH1NT7-es eXtremeRate Luminoso Joysticks Botones de acción dirección Botón de reemplazo 7 Colores 9 Modos Control táctil para el Mando del PlayStaion 4 PS4 Original Slim Pro'
+slug: 'B07CJH1NT7-es eXtremeRate Luminoso Joysticks Botones de acción dirección...'
+tags: ps4
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

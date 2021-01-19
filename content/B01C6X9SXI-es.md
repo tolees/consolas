@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41q3SC0ybIL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C6X9SXI-es Hori - Kit de protección  Nintendo Switch Lite '
+slug: 'B01C6X9SXI-es Hori - Kit de protección Nintendo Switch Lite'
+tags: nintendo
 actualPrice: 12.39 EUR
 currency: EUR
 price: 12.39

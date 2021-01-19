@@ -6,7 +6,8 @@ image: ''
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XDYXRLE-es Bigben Interactive - Headset Auricular PS4Communicator  Playstation 4 '
+slug: 'B00XDYXRLE-es Bigben Interactive - Headset Auricular PS4Communicator...'
+tags: playstation
 actualPrice: 9.09 EUR
 currency: EUR
 price: 9.09

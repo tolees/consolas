@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wrv+pkufL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0748PRFJQ-es Microsoft - Mando Inalámbrico: Edición Limitada Minecraft Pig  Xbox One   rosa'
+slug: 'B0748PRFJQ-es Microsoft - Mando Inalámbrico: Edición Limitada Minecraft...'
+tags: xbox
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

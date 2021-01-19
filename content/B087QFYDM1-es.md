@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Xmi8hcvhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087QFYDM1-es Kloius Soporte de Carga USB Soporte de Carga Doble PS4 para Mango PS4 Accesorios'
+slug: 'B087QFYDM1-es Kloius Soporte de Carga USB Soporte de Carga Doble PS4...'
+tags: ps4
 actualPrice: 24.11 EUR
 currency: EUR
 price: 24.11

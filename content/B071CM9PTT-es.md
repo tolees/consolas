@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418-v9kuPrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071CM9PTT-es eXtremeRate Compatible con Nintendo Switch Pegatina antiarañazos para Resolver el Problema de Rayado en la Dock Base'
+slug: 'B071CM9PTT-es eXtremeRate Compatible con Nintendo Switch Pegatina...'
+tags: nintendo
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

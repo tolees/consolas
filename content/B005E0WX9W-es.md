@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aiuJjqbJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005E0WX9W-es Ivuna Flex Plus 0 2M Cable de extensi?n HDMI con Giro Ajustable y Conector Giratorio - Audio - Video  1080P  4k2k  PS4  Xbox One  DVD  BLU-Ray  Sky HD  Virgin Box  UHD  LCD Full HD  Plasma y TV LED'
+slug: 'B005E0WX9W-es Ivuna Flex Plus 0 2M Cable de extensi?n HDMI con Giro...'
+tags: ps4, xbox
 actualPrice: 8.01 EUR
 currency: EUR
 price: 8.01

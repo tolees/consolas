@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yysryYhLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRRF9JM-es Webcam HD 1080P Stream Cámara Web con Micrófonos Duales Integrados Compatible con Xbox OBS Twitch Skype Youtube XSplit  Compatible con Mac OS Windows 10/8/7'
+slug: 'B07NRRF9JM-es Webcam HD 1080P Stream Cámara Web con Micrófonos Duales...'
+tags: xbox
 actualPrice: 34.84 EUR
 currency: EUR
 price: 34.84

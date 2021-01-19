@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413Hg0XGXML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K76JY3G-es De Silicona Cubierta De La Caja Protectora De La Piel Para El Regulador Del Juego De Xbox 360 - Gris Camo'
+slug: 'B00K76JY3G-es De Silicona Cubierta De La Caja Protectora De La Piel Para...'
+tags: xbox
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

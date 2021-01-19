@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kU-j1XQNL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GDHPRSN-es BlueFire Cascos Gaming con Micrófono  Auriculares PS4 Reducción de Sonido y Control de Volumen Gaming Headset con Conector Jack 3.5mm y Luces led para Xbox One  PS4  Rojo '
+slug: 'B07GDHPRSN-es BlueFire Cascos Gaming con Micrófono Auriculares PS4...'
+tags: ps4, xbox
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99
