@@ -26,10 +26,10 @@ Ahora mismo tienes [HORI - Controlador Split Pad Pro Pikachu & Eevee  Nintendo S
 
 🔎:
 
-- Botones traseros programables
-- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
 - Superficie de agarre, gatillos, sticks y cruceta de mayor tamaño que los de los Joy-Con
-- la precisión y comodidad del Pro Controller, en modo portátil
+- Botones traseros programables
 - Licencias oficiales de Nintendo y Pokémon
+- la precisión y comodidad del Pro Controller, en modo portátil
+- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08KT7RVGG/?tag=tolees-21)
