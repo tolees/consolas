@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FBDD37B-es Rybozen 4K HDMI KVM Switch Caja de 2 Puertos Teclado Mouse...'
+sku: 'B08FBDD37B-es'
 tags: [ 'ps4','xbox', ]
 actualPrice: 29.99 EUR
 currency: EUR

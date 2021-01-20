@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G4DD5DB-es Astro Gaming A50 - Auriculares con Micrófono Inalámbricos...'
+sku: 'B07G4DD5DB-es'
 tags: [ 'xbox', ]
 actualPrice: 169.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQCZO41-es Timorn 4 Pares / 8PCS palillo analógico del Pulgar de los...'
+sku: 'B01MQCZO41-es'
 tags: [ 'ps4', ]
 actualPrice: 6.99 EUR
 currency: EUR

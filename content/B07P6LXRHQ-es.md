@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P6LXRHQ-es Rotación Profesional Diseño Ajustable Clip de Montaje de...'
+sku: 'B07P6LXRHQ-es'
 tags: [ 'ps4', ]
 actualPrice: 2.37 EUR
 currency: EUR

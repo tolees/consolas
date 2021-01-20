@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F2L2N4H-es Funda Compatible con Nintendo Switch HEYSTOP TPU PC...'
+sku: 'B07F2L2N4H-es'
 tags: [ 'nintendo', ]
 actualPrice: 8.98 EUR
 currency: EUR

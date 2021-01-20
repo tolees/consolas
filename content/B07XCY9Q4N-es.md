@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XCY9Q4N-es Orzly Kit Accesorios para Nintendo Switch Geek Pack con:...'
+sku: 'B07XCY9Q4N-es'
 tags: [ 'nintendo', ]
 actualPrice: 48.18 EUR
 currency: EUR

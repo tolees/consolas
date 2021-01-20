@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074PMGMHL-es Nuevo SADES SA810 Multi-Platform Auriculares Gaming 3.5mm...'
+sku: 'B074PMGMHL-es'
 tags: [ 'xbox', ]
 actualPrice: 22.99 EUR
 currency: EUR

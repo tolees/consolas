@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081RJFTRT-es KLIM Nova + Base de refrigeración para portátiles RGB -...'
+sku: 'B081RJFTRT-es'
 tags: [ 'ps4', ]
 actualPrice: 23.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CZFQMG8-es Disco Duro Externo 1tb Portátil 2.5" USB3.0 SATA HDD...'
+sku: 'B08CZFQMG8-es'
 tags: [ 'ps4','xbox', ]
 actualPrice: 63.99 EUR
 currency: EUR

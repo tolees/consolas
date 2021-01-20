@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019MMN94A-es Hori - Fighting Stick Mini PS4 PS3 PC'
+sku: 'B019MMN94A-es'
 tags: [ 'ps4', ]
 actualPrice: 31.49 EUR
 currency: EUR

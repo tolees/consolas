@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GW2N35M-es Rollercoster Tycoon Adventures - Classics - Nintendo...'
+sku: 'B07GW2N35M-es'
 tags: [ 'nintendo', ]
 actualPrice: 26.2 EUR
 currency: EUR

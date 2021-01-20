@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K6I8JCM-es Nintendo Selects New Super Mario Bros.Wii Juego'
+sku: 'B00K6I8JCM-es'
 tags: [ 'nintendo', ]
 actualPrice: 41.39 EUR
 currency: EUR

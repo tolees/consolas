@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q4SD1NB-es Etpark Mando Xbox 360 PC Mando USB Controlador de Gamepad...'
+sku: 'B07Q4SD1NB-es'
 tags: [ 'xbox', ]
 actualPrice: 20.99 EUR
 currency: EUR

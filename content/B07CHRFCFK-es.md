@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CHRFCFK-es Shenmue I & II - PS4'
+sku: 'B07CHRFCFK-es'
 tags: [ 'ps4', ]
 actualPrice: 21.85 EUR
 currency: EUR

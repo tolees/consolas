@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CD5S3PV-es LEGO Die Unglaublichen - Standard Edition - Nintendo...'
+sku: 'B07CD5S3PV-es'
 tags: [ 'nintendo', ]
 actualPrice: 38.25 EUR
 currency: EUR

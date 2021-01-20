@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ARPMSFM-es Beyond Two Souls + Heavy Rain PS4'
+sku: 'B01ARPMSFM-es'
 tags: [ 'ps4', ]
 actualPrice: 21.23 EUR
 currency: EUR

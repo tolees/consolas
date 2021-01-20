@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FFS52SD-es Tina @ Wireless pro para Nintendo Switch controlador...'
+sku: 'B08FFS52SD-es'
 tags: [ 'nintendo', ]
 actualPrice: 20.8 EUR
 currency: EUR

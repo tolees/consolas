@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088WVQL6L-es Suscripcion Xbox Game Pass 3 Meses Ultimate + 1 Mes Gratis...'
+sku: 'B088WVQL6L-es'
 tags: [ 'xbox', ]
 actualPrice: 38.99 EUR
 currency: EUR

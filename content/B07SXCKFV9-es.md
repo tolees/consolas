@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SXCKFV9-es Controlador inalámbrico DualShock 4 para Playstation 4...'
+sku: 'B07SXCKFV9-es'
 tags: [ 'playstation', ]
 actualPrice: 21.0 EUR
 currency: EUR

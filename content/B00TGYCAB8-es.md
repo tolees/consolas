@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TGYCAB8-es Charging Station Para Mandos PS4'
+sku: 'B00TGYCAB8-es'
 tags: [ 'ps4', ]
 actualPrice: 14.39 EUR
 currency: EUR

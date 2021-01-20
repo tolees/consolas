@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01ALLAXV8-es HORI - Vault Case Pikachu Nintendo Switch / Switch Lite'
+sku: 'B01ALLAXV8-es'
 tags: [ 'nintendo', ]
 actualPrice: 19.99 EUR
 currency: EUR

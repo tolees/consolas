@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7DXSPY-es 2 baterías para mando de Xbox One/Xbox One S/Xbox One X...'
+sku: 'B07V7DXSPY-es'
 tags: [ 'xbox', ]
 actualPrice: 24.35 EUR
 currency: EUR

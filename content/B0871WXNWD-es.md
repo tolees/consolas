@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0871WXNWD-es Laelr Controladores inalámbricos más recientes para...'
+sku: 'B0871WXNWD-es'
 tags: [ 'nintendo', ]
 actualPrice: 40.87 EUR
 currency: EUR

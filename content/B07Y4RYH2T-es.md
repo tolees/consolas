@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y4RYH2T-es Charmast Powerbank 10000mAh Mini Batería Externa LED...'
+sku: 'B07Y4RYH2T-es'
 tags: [ 'nintendo', ]
 actualPrice: 9.99 EUR
 currency: EUR

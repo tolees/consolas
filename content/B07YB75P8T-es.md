@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YB75P8T-es Auriculares Gaming PS4 Cascos Gaming de Mac Estéreo con...'
+sku: 'B07YB75P8T-es'
 tags: [ 'ps4', ]
 actualPrice: 20.99 EUR
 currency: EUR

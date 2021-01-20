@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005E0WX9W-es Ivuna Flex Plus 0 2M Cable de extensi?n HDMI con Giro...'
+sku: 'B005E0WX9W-es'
 tags: [ 'ps4','xbox', ]
 actualPrice: 8.01 EUR
 currency: EUR

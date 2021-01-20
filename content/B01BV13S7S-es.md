@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BV13S7S-es Seagate Game Drive para Xbox 4 TB Disco duro externo HDD...'
+sku: 'B01BV13S7S-es'
 tags: [ 'xbox', ]
 actualPrice: 114.99 EUR
 currency: EUR

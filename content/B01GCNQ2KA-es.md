@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GCNQ2KA-es Reemplazo Accesorios Kit de Botones Enchapados para Sony...'
+sku: 'B01GCNQ2KA-es'
 tags: [ 'ps4', ]
 actualPrice: 4.25 EUR
 currency: EUR

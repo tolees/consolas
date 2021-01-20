@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H07FV5Y-es BenQ ZOWIE RL2755 - Monitor de 27" para consola e-Sports...'
+sku: 'B01H07FV5Y-es'
 tags: [ 'playstation','ps4', ]
 actualPrice: 169.99 EUR
 currency: EUR

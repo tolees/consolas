@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HFL254S-es Trust GXT 4374 Ruptor - Auriculares Gaming Unidades...'
+sku: 'B07HFL254S-es'
 tags: [ 'ps4','xbox', ]
 actualPrice: 24.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073W79FCP-es ELEGIANT Auriculares Gaming PC Cascos Gaming Headset con...'
+sku: 'B073W79FCP-es'
 tags: [ 'ps4','xbox', ]
 actualPrice: 19.99 EUR
 currency: EUR

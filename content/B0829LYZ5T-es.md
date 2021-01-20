@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0829LYZ5T-es Doom Slayers Collection - PS4'
+sku: 'B0829LYZ5T-es'
 tags: [ 'ps4', ]
 actualPrice: 22.94 EUR
 currency: EUR

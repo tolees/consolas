@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FVBCBYG-es Hori - Go Pack Super Mario Nintendo Switch'
+sku: 'B07FVBCBYG-es'
 tags: [ 'nintendo', ]
 actualPrice: 19.95 EUR
 currency: EUR

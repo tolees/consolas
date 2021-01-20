@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VTW2LPX-es WD 4 TB My Passport disco duro portátil con protección con...'
+sku: 'B07VTW2LPX-es'
 tags: [ 'ps4','xbox', ]
 actualPrice: 112.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPZJ7SS-es Controlador PowerA Wired con licencia oficial para Xbox...'
+sku: 'B07NPZJ7SS-es'
 tags: [ 'xbox', ]
 actualPrice: 21.24 EUR
 currency: EUR

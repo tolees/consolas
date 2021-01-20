@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CZH36SL-es Disco Duro Externo 2tb Portátil 2.5" USB3.0 SATA HDD...'
+sku: 'B08CZH36SL-es'
 tags: [ 'xbox', ]
 actualPrice: 63.99 EUR
 currency: EUR

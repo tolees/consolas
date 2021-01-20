@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVHL121-es Mando Inalámbrico para Nintendo Switch Mando Pro...'
+sku: 'B08CVHL121-es'
 tags: [ 'nintendo', ]
 actualPrice: 26.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BNRG28K-es Disco Duro Externo 1tb USB 3.1 para Mac PC MacBook...'
+sku: 'B08BNRG28K-es'
 tags: [ 'xbox', ]
 actualPrice: 47.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GJHKLSI-es Trust Gaming GXT 744 - Funda de Silicona para Mando PS4...'
+sku: 'B01GJHKLSI-es'
 tags: [ 'ps4', ]
 actualPrice: 4.99 EUR
 currency: EUR

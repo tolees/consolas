@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZ21ZPK-es Intruders: Hide and Seek PS4 Español [Importación alemana]'
+sku: 'B07MZ21ZPK-es'
 tags: [ 'ps4', ]
 actualPrice: 14.99 EUR
 currency: EUR

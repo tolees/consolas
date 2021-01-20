@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0829FNZCK-es Gioteck - Mando inalambrico Bluetooth negro Gioteck WX-4...'
+sku: 'B0829FNZCK-es'
 tags: [ 'nintendo', ]
 actualPrice: 19.99 EUR
 currency: EUR

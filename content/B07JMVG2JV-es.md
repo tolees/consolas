@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMVG2JV-es Thrustmaster - T.Flight Hotas One Ace Combat 7 Joystick...'
+sku: 'B07JMVG2JV-es'
 tags: [ 'xbox', ]
 actualPrice: 63.63 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O9QC5PY-es Nintendo - Figura Amiibo Smash Zelda'
+sku: 'B00O9QC5PY-es'
 tags: [ 'nintendo', ]
 actualPrice: 12.99 EUR
 currency: EUR

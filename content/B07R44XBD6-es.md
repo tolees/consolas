@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R44XBD6-es WANPOOL - Soporte para reposacabezas de Coche para Tablets...'
+sku: 'B07R44XBD6-es'
 tags: [ 'nintendo', ]
 actualPrice: 19.5 EUR
 currency: EUR

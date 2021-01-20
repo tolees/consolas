@@ -1,7 +1,34 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 {{ with .Title }}<title>{{ . }}</title>{{ end }}
+
+<meta name="twitter:card" content="summary">
+<meta property="og:url" content="{{ .Permalink | absURL }}" />
+
+{{ if not .Params.prodname }}
+
 {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+<meta property="og:description" content="{{ .Site.Params.description }}" />
+<meta property="og:title" content='{{ .Title }}' />
+<meta name="twitter:title" content='{{ .Title }}'>
+<meta name="twitter:description" content='{{ .Site.Params.description }}'>
+
+{{ end }}
+
+{{ if  .Params.prodname }}
+<meta name="description" content="🔥{{ .Params.actualPrice}} ❌{{ .Params.comparePrice }} - {{ .Params.prodname }}">
+
+<meta property="og:type" content="Product" />
+<meta property="og:description" content="🔥{{ .Params.actualPrice}} ❌{{ .Params.comparePrice }} - {{ .Params.prodname }}" />
+<meta property="og:title" content='{{ .Params.prodname }}' />
+<meta property="og:image" content="{{ .Params.image | absURL }}" />
+
+<meta name="twitter:title" content='{{ .Params.prodname }}'>
+<meta name="twitter:description" content='🔥{{ .Params.actualPrice}} ❌{{ .Params.comparePrice }} - {{ .Params.prodname }}'>
+<meta name="twitter:image" content="{{ .Params.image | absURL }}">
+{{ end }}
+
+
 {{ range .AlternativeOutputFormats -}}
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 {{ end -}}
@@ -27,14 +54,9 @@
         <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   ` | safeHTML }}
-  <meta name="yandex-verification" content="{{ .Site.Params.yandex }}" />
 
-  <meta property="og:title" content='{{ .Params.prodname }}' />
-  <meta property="og:type" content="Product" />
-  <meta property="og:url" content="{{ .Permalink | absURL }}" />
-  <meta property="og:image" content="{{ .Params.image | absURL }}" />
-  <meta property="og:description" content="{{ .Params.title }}" />
-  
+  <meta name="yandex-verification" content="{{ .Site.Params.yandex }}" />
+   
   {{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
   {{- if .IsPage }}
   {{- if not .PublishDate.IsZero }}<meta property="article:published_time" {{ .PublishDate.Format $iso8601 | printf "content=%q" | safeHTMLAttr }} />
@@ -46,14 +68,7 @@
   {{- end }}
   {{- end }}{{/* .IsPage */}}
 
-
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content='{{ .Params.prodname }}'>
-  <meta name="twitter:description" content='{{ .Params.title }}'>
-  <meta name="twitter:image" content="{{ .Params.image | absURL }}">
-
   {{ if .Params.prodname }}
-
   <script type="application/ld+json">
       {
           "@context": "https://schema.org/",
@@ -62,15 +77,19 @@
           "image": [
               "{{ .Params.image | absURL }}"
           ],
-          "description": "{{ .Params.title }}",
-          "sku": "{{ .Params.slug }}",
+          "description": "🔥{{ .Params.actualPrice}} ❌{{ .Params.comparePrice }} - {{ .Params.title }}",
+          "mpn":"",{{ with .Params.sku }}"sku": "{{ . }}",{{ end }}
           "offers": {
               "@type": "Offer",
               "url": "{{ .Permalink | absURL }}",
               "priceCurrency": "{{ .Params.currency }}",
               "price": "{{ .Params.price }}",
               "itemCondition": "https://schema.org/NewCondition",
-              "availability": "https://schema.org/InStock"
+              "availability": "https://schema.org/InStock",
+              "seller": {
+                "@type": "Organization",
+                "name": "Amazon"
+              }
           }
       }
   </script>

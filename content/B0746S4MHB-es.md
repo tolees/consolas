@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0746S4MHB-es Nacon - Mando Compacto para PS4 color Naranja'
+sku: 'B0746S4MHB-es'
 tags: [ 'ps4', ]
 actualPrice: 28.92 EUR
 currency: EUR

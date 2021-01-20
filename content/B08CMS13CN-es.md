@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CMS13CN-es Disco Duro Externo 1 TB USB-C Disco Duro Externo para PC...'
+sku: 'B08CMS13CN-es'
 tags: [ 'xbox', ]
 actualPrice: 47.99 EUR
 currency: EUR

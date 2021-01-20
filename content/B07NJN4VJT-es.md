@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJN4VJT-es PDP - Auricular Stereo Gaming LVL50 Wireless Gris PS4'
+sku: 'B07NJN4VJT-es'
 tags: [ 'ps4', ]
 actualPrice: 59.99 EUR
 currency: EUR

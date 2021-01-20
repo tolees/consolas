@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BX5FQT4-es eXtremeRate Botones Mando PS4 Teclas de Repuesto D-Pad R1...'
+sku: 'B08BX5FQT4-es'
 tags: [ 'playstation','ps4', ]
 actualPrice: 14.99 EUR
 currency: EUR

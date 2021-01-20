@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071K5QS1J-es Timorn Replacement Full Screws Set Reparación de Piezas...'
+sku: 'B071K5QS1J-es'
 tags: [ 'nintendo', ]
 actualPrice: 7.99 EUR
 currency: EUR

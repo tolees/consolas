@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VXP6VP1-es Ardistel - Game Traveler Deluxe Travel Case NNS50B...'
+sku: 'B07VXP6VP1-es'
 tags: [ 'nintendo', ]
 actualPrice: 15.79 EUR
 currency: EUR

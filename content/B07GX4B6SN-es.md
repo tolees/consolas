@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GX4B6SN-es PDP - Funda Slim Travel Case Edición Mario Camo Nintendo...'
+sku: 'B07GX4B6SN-es'
 tags: [ 'nintendo', ]
 actualPrice: 6.92 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00O57WHPA-es Nintendo 2DS - Consola Color Rosa + Tomodachi Life...'
+sku: 'B00O57WHPA-es'
 tags: [ 'nintendo', ]
 actualPrice: 69.9 EUR
 currency: EUR

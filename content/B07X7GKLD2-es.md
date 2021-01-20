@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X7GKLD2-es Forefront Cases Protector Pantalla para Nintendo Switch...'
+sku: 'B07X7GKLD2-es'
 tags: [ 'nintendo', ]
 actualPrice: 1.7 EUR
 currency: EUR

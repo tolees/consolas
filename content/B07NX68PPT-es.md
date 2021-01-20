@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NX68PPT-es Krom KAISER - NXKROMKSR - Gamepad PC PS3 PS4'
+sku: 'B07NX68PPT-es'
 tags: [ 'ps4', ]
 actualPrice: 30.0 EUR
 currency: EUR

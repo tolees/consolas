@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MBSXMH7-es ShuOne USB3.0 HDMI 1080P 60 FPS Juego Tarjeta de Captura...'
+sku: 'B07MBSXMH7-es'
 tags: [ 'ps4','xbox', ]
 actualPrice: 78.99 EUR
 currency: EUR

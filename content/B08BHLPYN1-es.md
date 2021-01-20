@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BHLPYN1-es Disco Duro Externo 2 TB Disco Duro Externo para PC Mac...'
+sku: 'B08BHLPYN1-es'
 tags: [ 'xbox', ]
 actualPrice: 67.99 EUR
 currency: EUR

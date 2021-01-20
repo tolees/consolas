@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C9S9Q5P-es eXtremeRate Carcasa Trasera para Consola de Nintendo...'
+sku: 'B08C9S9Q5P-es'
 tags: [ 'nintendo', ]
 actualPrice: 14.99 EUR
 currency: EUR

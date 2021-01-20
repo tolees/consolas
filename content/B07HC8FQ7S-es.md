@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HC8FQ7S-es YOSH Cable USB Tipo C con tecnología Quick Charge 3.0 2...'
+sku: 'B07HC8FQ7S-es'
 tags: [ 'nintendo', ]
 actualPrice: 6.39 EUR
 currency: EUR

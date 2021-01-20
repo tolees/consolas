@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CDNWN2Z-es Disco Duro Externo 1 TB Disco Duro Externo Type C USB3.1...'
+sku: 'B08CDNWN2Z-es'
 tags: [ 'xbox', ]
 actualPrice: 47.99 EUR
 currency: EUR

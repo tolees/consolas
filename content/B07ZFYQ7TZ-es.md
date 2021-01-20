@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZFYQ7TZ-es FR-TEC - Auriculares Gaming Headset SHIELD Rojo Nintendo...'
+sku: 'B07ZFYQ7TZ-es'
 tags: [ 'nintendo', ]
 actualPrice: 14.39 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VVBTPMJ-es Fyoung - Kit de accesorios 3 en 1 para Nintendo Switch...'
+sku: 'B07VVBTPMJ-es'
 tags: [ 'nintendo', ]
 actualPrice: 12.68 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CDNHWSC-es Disco Duro Externo 2 TB Disco Duro Externo Type C USB3.1...'
+sku: 'B08CDNHWSC-es'
 tags: [ 'xbox', ]
 actualPrice: 63.99 EUR
 currency: EUR

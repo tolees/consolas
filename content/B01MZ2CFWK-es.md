@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MZ2CFWK-es eXtremeRate Prueba de Polvo Consola PS4 Funda Cubierta...'
+sku: 'B01MZ2CFWK-es'
 tags: [ 'playstation','ps4', ]
 actualPrice: 13.49 EUR
 currency: EUR

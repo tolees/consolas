@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZJL28D-es eXtremeRate Carcasa para Nintendo Switch Pro Funda...'
+sku: 'B07TZJL28D-es'
 tags: [ 'nintendo', ]
 actualPrice: 24.99 EUR
 currency: EUR

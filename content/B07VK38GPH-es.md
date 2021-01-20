@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VK38GPH-es Hixon Batería de Xbox One y Cargador 2 Pilas 2500mAh...'
+sku: 'B07VK38GPH-es'
 tags: [ 'xbox', ]
 actualPrice: 24.99 EUR
 currency: EUR

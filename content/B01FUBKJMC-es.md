@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FUBKJMC-es Reemplazo Kit de Botón de Tapa L2 L1 R1 R2 Thumbstick para...'
+sku: 'B01FUBKJMC-es'
 tags: [ 'ps4', ]
 actualPrice: 5.99 EUR
 currency: EUR

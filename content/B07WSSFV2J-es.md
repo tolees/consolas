@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WSSFV2J-es Hori - Pokémon Trainer Pack Pokéball Nintendo Switch /...'
+sku: 'B07WSSFV2J-es'
 tags: [ 'nintendo', ]
 actualPrice: 19.99 EUR
 currency: EUR

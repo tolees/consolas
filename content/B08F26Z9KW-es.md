@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F26Z9KW-es Cascos Gaming Auriculares Gaming PS4 con Microfono para PC...'
+sku: 'B08F26Z9KW-es'
 tags: [ 'ps4','xbox', ]
 actualPrice: 19.99 EUR
 currency: EUR

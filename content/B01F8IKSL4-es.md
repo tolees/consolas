@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01F8IKSL4-es mini kitty 2 en 1 Mando Plus con Motion Plus y Nunchunk...'
+sku: 'B01F8IKSL4-es'
 tags: [ 'nintendo', ]
 actualPrice: 16.0 EUR
 currency: EUR

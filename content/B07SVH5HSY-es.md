@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVH5HSY-es Sniper: Ghost Warrior - Contracts Xbox One'
+sku: 'B07SVH5HSY-es'
 tags: [ 'xbox', ]
 actualPrice: 23.96 EUR
 currency: EUR

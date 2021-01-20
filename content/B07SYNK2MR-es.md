@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SYNK2MR-es Hori - Fighting Stick Mini Edición Street Fighter II Chun-...'
+sku: 'B07SYNK2MR-es'
 tags: [ 'nintendo', ]
 actualPrice: 43.99 EUR
 currency: EUR

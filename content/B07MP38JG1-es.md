@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MP38JG1-es eXtremeRate Carcasa para Nintendo Switch Funda Completa...'
+sku: 'B07MP38JG1-es'
 tags: [ 'nintendo', ]
 actualPrice: 31.99 EUR
 currency: EUR

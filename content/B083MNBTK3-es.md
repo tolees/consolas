@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083MNBTK3-es Moving Out PS4'
+sku: 'B083MNBTK3-es'
 tags: [ 'ps4', ]
 actualPrice: 19.17 EUR
 currency: EUR

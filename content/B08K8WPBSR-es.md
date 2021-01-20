@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08K8WPBSR-es eXtremeRate Carcasa para Nintendo Switch Lite Protector...'
+sku: 'B08K8WPBSR-es'
 tags: [ 'nintendo', ]
 actualPrice: 32.99 EUR
 currency: EUR

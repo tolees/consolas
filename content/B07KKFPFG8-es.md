@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KKFPFG8-es Lioncast LX60 USB Auriculares para Juegos para PC PS4 Xbox...'
+sku: 'B07KKFPFG8-es'
 tags: [ 'nintendo','ps4','xbox', ]
 actualPrice: 69.95 EUR
 currency: EUR

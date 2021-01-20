@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083HRWN15-es Mini Proyector FANGOR Mini Video Proyector portátil con...'
+sku: 'B083HRWN15-es'
 tags: [ 'xbox', ]
 actualPrice: 89.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0746SDHT3-es Nacon Revolution Pro Controller - Mando alámbrico color...'
+sku: 'B0746SDHT3-es'
 tags: [ 'ps4', ]
 actualPrice: 87.34 EUR
 currency: EUR

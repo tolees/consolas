@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D5ZDHP3-es Monitor Portátil Uperfect 15 6 Pulgadas Monitor Gaming FHD...'
+sku: 'B08D5ZDHP3-es'
 tags: [ 'ps4','xbox', ]
 actualPrice: 199.99 EUR
 currency: EUR

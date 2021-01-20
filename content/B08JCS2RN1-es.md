@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JCS2RN1-es Disco Duro Externo 1 TB Type C USB3.1 Disco Duro Externo...'
+sku: 'B08JCS2RN1-es'
 tags: [ 'xbox', ]
 actualPrice: 47.99 EUR
 currency: EUR

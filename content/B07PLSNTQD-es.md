@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PLSNTQD-es Switch Nintendo Labo: Kit de VR - Set de expansión 1'
+sku: 'B07PLSNTQD-es'
 tags: [ 'nintendo', ]
 actualPrice: 9.99 EUR
 currency: EUR

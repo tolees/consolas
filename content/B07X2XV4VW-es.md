@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X2XV4VW-es Nacon - Micrófono de Streaming Oficial Sony PS4'
+sku: 'B07X2XV4VW-es'
 tags: [ 'ps4', ]
 actualPrice: 47.24 EUR
 currency: EUR

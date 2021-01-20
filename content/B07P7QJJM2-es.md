@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P7QJJM2-es My time at Portia - PS4 [Importación francesa]'
+sku: 'B07P7QJJM2-es'
 tags: [ 'ps4', ]
 actualPrice: 9.76 EUR
 currency: EUR

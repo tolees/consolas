@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071HBWKYB-es Timorn Plástico Duros Controlador de la Vivienda Shell...'
+sku: 'B071HBWKYB-es'
 tags: [ 'playstation','ps4', ]
 actualPrice: 10.99 EUR
 currency: EUR

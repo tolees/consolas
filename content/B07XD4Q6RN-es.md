@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XD4Q6RN-es KLIM ™ Rush - Auriculares Gaming + Diadema cómoda y...'
+sku: 'B07XD4Q6RN-es'
 tags: [ 'ps4','xbox', ]
 actualPrice: 39.97 EUR
 currency: EUR

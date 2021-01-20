@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFYPQ3N-es Team Sonic Racing Nintendo Switch'
+sku: 'B07DFYPQ3N-es'
 tags: [ 'nintendo', ]
 actualPrice: 29.9 EUR
 currency: EUR
@@ -26,11 +27,11 @@ En este momento está [Team Sonic Racing  Nintendo Switch](https://www.amazon.es
 
 🔎:
 
-- Modos multijugador y cooperativo local. 12 jugadores por carrera, pantalla partida para 4 y varios modos de juego en línea sin conexión como Gran Premio, Exhibición, Contrarreloj y Aventuras en equipo
-- Wisps. 14 objetos espectaculares tanto de ataque como defensa con los que podrás vencer a tus rivales y hacerte con la victoria
-- Modo aventura. Una historia única en la que los jugadores aprenderán las bases del juego y conocerán a sus personajes
-- Carreras en equipo. Corre en equipo y vence equipo. Usa distintas jugadas de equipo para ayudar a tus compañeros, chocar contra oponentes y activar tu megaturbo
-- Personalización de apariencias y rendimiento. Altera la imagen y conducción de tu vehículo
 - Varios tipos de personajes. 15 personajes del universo de Sonic con los que podrás jugar. Estos serán de 3 tipos distintos: velocidad, técnica y potencia
+- Modo aventura. Una historia única en la que los jugadores aprenderán las bases del juego y conocerán a sus personajes
+- Personalización de apariencias y rendimiento. Altera la imagen y conducción de tu vehículo
+- Carreras en equipo. Corre en equipo y vence equipo. Usa distintas jugadas de equipo para ayudar a tus compañeros, chocar contra oponentes y activar tu megaturbo
+- Wisps. 14 objetos espectaculares tanto de ataque como defensa con los que podrás vencer a tus rivales y hacerte con la victoria
+- Modos multijugador y cooperativo local. 12 jugadores por carrera, pantalla partida para 4 y varios modos de juego en línea sin conexión como Gran Premio, Exhibición, Contrarreloj y Aventuras en equipo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07DFYPQ3N/?tag=tolees-21)

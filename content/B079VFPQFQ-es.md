@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079VFPQFQ-es EMPIRE GAMING - Micrófono USTREAM USB Ideal para el Gaming...'
+sku: 'B079VFPQFQ-es'
 tags: [ 'ps4','xbox', ]
 actualPrice: 17.99 EUR
 currency: EUR

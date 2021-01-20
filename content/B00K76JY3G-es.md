@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K76JY3G-es De Silicona Cubierta De La Caja Protectora De La Piel Para...'
+sku: 'B00K76JY3G-es'
 tags: [ 'xbox', ]
 actualPrice: 9.98 EUR
 currency: EUR

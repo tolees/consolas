@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FC85BRP-es Mando Inalámbrico para Nintendo Switch REDSTORM Bluetooth...'
+sku: 'B08FC85BRP-es'
 tags: [ 'nintendo', ]
 actualPrice: 29.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7H4DHW-es Lamicall Soporte Tablet Multiángulo Soporte Tablet :...'
+sku: 'B07S7H4DHW-es'
 tags: [ 'nintendo', ]
 actualPrice: 16.79 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KI78SEY-es Nintendo Selects: Super Mario 3D World'
+sku: 'B01KI78SEY-es'
 tags: [ 'nintendo', ]
 actualPrice: 15.87 EUR
 currency: EUR

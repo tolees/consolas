@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R16J6GQ-es Proyector4500 Lúmenes Excelvan Proyector de Video Portátil...'
+sku: 'B07R16J6GQ-es'
 tags: [ 'ps4', ]
 actualPrice: 169.99 EUR
 currency: EUR

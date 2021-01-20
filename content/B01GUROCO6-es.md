@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GUROCO6-es Interesting® 4 Pcs Pulgar Palo apretones Tapa Joystick...'
+sku: 'B01GUROCO6-es'
 tags: [ 'ps4','xbox', ]
 actualPrice: 3.99 EUR
 currency: EUR

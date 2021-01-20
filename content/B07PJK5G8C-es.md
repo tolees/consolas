@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PJK5G8C-es KONKY Ventilador PS4 Cooler PS4 Turbo Ventilador Externo...'
+sku: 'B07PJK5G8C-es'
 tags: [ 'playstation','ps4', ]
 actualPrice: 12.99 EUR
 currency: EUR

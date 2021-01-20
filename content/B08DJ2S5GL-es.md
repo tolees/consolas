@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DJ2S5GL-es Disco Duro Externo 1 TB Type C USB3.1 para PC Mac Xbox One...'
+sku: 'B08DJ2S5GL-es'
 tags: [ 'xbox', ]
 actualPrice: 47.99 EUR
 currency: EUR

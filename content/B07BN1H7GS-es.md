@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BN1H7GS-es Indeca - Bolsa Coca-Cola PS4'
+sku: 'B07BN1H7GS-es'
 tags: [ 'ps4', ]
 actualPrice: 14.99 EUR
 currency: EUR

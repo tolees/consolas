@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S4HB7VR-es QWDDECO Sticker Pack 360 PCS Vinilo Pegatinas para...'
+sku: 'B07S4HB7VR-es'
 tags: [ 'ps4','xbox', ]
 actualPrice: 15.99 EUR
 currency: EUR

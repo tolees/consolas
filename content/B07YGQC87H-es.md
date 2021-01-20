@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YGQC87H-es Meridiem Games - Naruto Arcade Mini Nintendo Switch'
+sku: 'B07YGQC87H-es'
 tags: [ 'nintendo', ]
 actualPrice: 11.81 EUR
 currency: EUR

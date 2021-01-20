@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003JHQMQW-es Lioncast 2x Micrófonos USB universal para ordenador y...'
+sku: 'B003JHQMQW-es'
 tags: [ 'ps4','xbox', ]
 actualPrice: 24.95 EUR
 currency: EUR

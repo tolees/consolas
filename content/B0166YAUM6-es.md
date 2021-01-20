@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0166YAUM6-es Imp - Dragon Ball Z Grips PS4'
+sku: 'B0166YAUM6-es'
 tags: [ 'ps4', ]
 actualPrice: 2.04 EUR
 currency: EUR

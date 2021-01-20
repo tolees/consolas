@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088T8KW1C-es PROZOR 192kHz DAC Convertidor Digital a Analógico con...'
+sku: 'B088T8KW1C-es'
 tags: [ 'ps4', ]
 actualPrice: 14.99 EUR
 currency: EUR

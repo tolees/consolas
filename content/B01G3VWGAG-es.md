@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G3VWGAG-es Lego Dimensions Starter Pack - Xbox 360 [Importación...'
+sku: 'B01G3VWGAG-es'
 tags: [ 'xbox', ]
 actualPrice: 28.45 EUR
 currency: EUR

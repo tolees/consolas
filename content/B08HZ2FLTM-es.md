@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HZ2FLTM-es Disco Duro Externo 2 TB Disco Duro Externo para PC Mac...'
+sku: 'B08HZ2FLTM-es'
 tags: [ 'xbox', ]
 actualPrice: 63.99 EUR
 currency: EUR

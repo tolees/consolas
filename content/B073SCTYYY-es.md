@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073SCTYYY-es Ardistel - N-Switch Game Traveler Deluxe Travel Case NNS51...'
+sku: 'B073SCTYYY-es'
 tags: [ 'nintendo', ]
 actualPrice: 10.49 EUR
 currency: EUR

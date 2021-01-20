@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T4J59MP-es Mando para Nintendo Switch RegeMoudal para Nintendo Switch...'
+sku: 'B07T4J59MP-es'
 tags: [ 'nintendo', ]
 actualPrice: 29.99 EUR
 currency: EUR

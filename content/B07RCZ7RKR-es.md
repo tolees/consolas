@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCZ7RKR-es Universal volante y pedales para PC PlayStation 3/4 PS3 /...'
+sku: 'B07RCZ7RKR-es'
 tags: [ 'playstation','ps4','xbox', ]
 actualPrice: 45.77 EUR
 currency: EUR

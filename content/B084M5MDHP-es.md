@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084M5MDHP-es Disco Duro Externo 1 TB Disco Duro Externo Type C USB3.1...'
+sku: 'B084M5MDHP-es'
 tags: [ 'ps4','xbox', ]
 actualPrice: 45.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BJ3Q7HJ-es Disco Duro Externo 2 TB Disco Duro Externo USB3.0 para PC...'
+sku: 'B08BJ3Q7HJ-es'
 tags: [ 'xbox', ]
 actualPrice: 63.99 EUR
 currency: EUR

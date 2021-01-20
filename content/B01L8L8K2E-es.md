@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L8L8K2E-es Timorn Reemplazo Piezas L1 R1 L2 R2 gatillo Piezas Botones...'
+sku: 'B01L8L8K2E-es'
 tags: [ 'playstation','ps4', ]
 actualPrice: 5.99 EUR
 currency: EUR

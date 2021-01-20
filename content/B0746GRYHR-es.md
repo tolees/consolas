@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0746GRYHR-es SADES SA810 Gaming Headset Xbox One PS4 auriculares de...'
+sku: 'B0746GRYHR-es'
 tags: [ 'ps4','xbox', ]
 actualPrice: 20.29 EUR
 currency: EUR

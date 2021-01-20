@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071CLCQW3-es eXtremeRate Carcasa con 2 Anillos para Mando Xbox One...'
+sku: 'B071CLCQW3-es'
 tags: [ 'xbox', ]
 actualPrice: 18.02 EUR
 currency: EUR

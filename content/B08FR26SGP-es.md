@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FR26SGP-es eXtremeRate 2 Protectores de Pantalla para Nintendo Switch...'
+sku: 'B08FR26SGP-es'
 tags: [ 'nintendo', ]
 actualPrice: 14.59 EUR
 currency: EUR

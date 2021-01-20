@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CHQH57J-es Valkyria Chronicles 4 - PS4'
+sku: 'B07CHQH57J-es'
 tags: [ 'ps4', ]
 actualPrice: 34.9 EUR
 currency: EUR

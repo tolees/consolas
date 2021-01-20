@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G35HT5Z-es RCA a HDMI convertidor Wavlink 1080p 3RCA a HDMI CVBS AV...'
+sku: 'B07G35HT5Z-es'
 tags: [ 'ps4','xbox', ]
 actualPrice: 14.99 EUR
 currency: EUR

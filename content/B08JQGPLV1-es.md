@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JQGPLV1-es eXtremeRate Carcasa para Xbox One Funda Delantera con...'
+sku: 'B08JQGPLV1-es'
 tags: [ 'xbox', ]
 actualPrice: 18.99 EUR
 currency: EUR

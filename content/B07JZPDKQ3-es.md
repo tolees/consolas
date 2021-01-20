@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JZPDKQ3-es AUTOUTLET 3 en 1 Grip y raqueta de tenis Juego de...'
+sku: 'B07JZPDKQ3-es'
 tags: [ 'nintendo', ]
 actualPrice: 21.99 EUR
 currency: EUR

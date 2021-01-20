@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CR3LD3R-es JSAUX Cable Alargador USB 3.0 [3M] Tipo A Macho a Hembra...'
+sku: 'B08CR3LD3R-es'
 tags: [ 'xbox', ]
 actualPrice: 8.49 EUR
 currency: EUR

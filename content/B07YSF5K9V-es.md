@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YSF5K9V-es Proyector Excelvan 1080P Proyector 4000 lúmenes Proyector...'
+sku: 'B07YSF5K9V-es'
 tags: [ 'ps4','xbox', ]
 actualPrice: 129.99 EUR
 currency: EUR

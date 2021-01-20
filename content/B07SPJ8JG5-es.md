@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SPJ8JG5-es PowerA Mando con cable para Nintendo Switch: Pokémon'
+sku: 'B07SPJ8JG5-es'
 tags: [ 'nintendo', ]
 actualPrice: 25.19 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071CM9PTT-es eXtremeRate Compatible con Nintendo Switch Pegatina...'
+sku: 'B071CM9PTT-es'
 tags: [ 'nintendo', ]
 actualPrice: 8.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WTS3RK9-es Hori - Funda compacta Zelda Breath of the Wild Nintendo...'
+sku: 'B07WTS3RK9-es'
 tags: [ 'nintendo', ]
 actualPrice: 9.5 EUR
 currency: EUR

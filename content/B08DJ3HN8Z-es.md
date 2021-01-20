@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DJ3HN8Z-es Disco Duro Externo 2tb USB 3.1 para Mac PC MacBook...'
+sku: 'B08DJ3HN8Z-es'
 tags: [ 'xbox', ]
 actualPrice: 43.99 EUR
 currency: EUR

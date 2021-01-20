@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PCZSDPQ-es Dragon Ball Z - Funda Para Almacenamiento De 24 Juegos...'
+sku: 'B07PCZSDPQ-es'
 tags: [ 'nintendo', ]
 actualPrice: 6.93 EUR
 currency: EUR

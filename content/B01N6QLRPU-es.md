@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6QLRPU-es Nintendo - Figura Amiibo Bokoblin Serie Zelda'
+sku: 'B01N6QLRPU-es'
 tags: [ 'nintendo', ]
 actualPrice: 10.49 EUR
 currency: EUR

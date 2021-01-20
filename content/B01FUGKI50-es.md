@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FUGKI50-es Timorn 12 Pines del Interruptor de alimentación del Cable...'
+sku: 'B01FUGKI50-es'
 tags: [ 'playstation','ps4', ]
 actualPrice: 5.99 EUR
 currency: EUR

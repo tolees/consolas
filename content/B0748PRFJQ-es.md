@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0748PRFJQ-es Microsoft - Mando Inalámbrico: Edición Limitada Minecraft...'
+sku: 'B0748PRFJQ-es'
 tags: [ 'xbox', ]
 actualPrice: 49.95 EUR
 currency: EUR

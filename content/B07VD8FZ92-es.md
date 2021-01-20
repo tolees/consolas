@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VD8FZ92-es PDP - Auricular Stereo Gaming LVL40 Con Cable Negro Camo PS4'
+sku: 'B07VD8FZ92-es'
 tags: [ 'ps4', ]
 actualPrice: 23.79 EUR
 currency: EUR

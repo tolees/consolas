@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01A827XHM-es HORI - PlayStand Multipuerto USB Nintendo Switch / Switch...'
+sku: 'B01A827XHM-es'
 tags: [ 'nintendo', ]
 actualPrice: 29.95 EUR
 currency: EUR

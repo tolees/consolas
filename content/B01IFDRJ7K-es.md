@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IFDRJ7K-es 3x Pegatina Cubierta Adhesiva para Sony PlayStation 4 PS4...'
+sku: 'B01IFDRJ7K-es'
 tags: [ 'playstation','ps4', ]
 actualPrice: 6.3 EUR
 currency: EUR

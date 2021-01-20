@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0DNCTO-es Playseat Evolution Playstation [Importación Inglesa]'
+sku: 'B01N0DNCTO-es'
 tags: [ 'playstation', ]
 actualPrice: 269.0 EUR
 currency: EUR

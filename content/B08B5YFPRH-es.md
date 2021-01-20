@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B5YFPRH-es eXtremeRate Botones para Nintendo Switch Botón ABXY Botón...'
+sku: 'B08B5YFPRH-es'
 tags: [ 'nintendo', ]
 actualPrice: 12.99 EUR
 currency: EUR

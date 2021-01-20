@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H3F19CM-es Microsoft - Soporte Vertical Xbox One S'
+sku: 'B01H3F19CM-es'
 tags: [ 'xbox', ]
 actualPrice: 5.0 EUR
 currency: EUR

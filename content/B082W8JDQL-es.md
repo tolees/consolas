@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082W8JDQL-es Mando Inalámbrico para PS4 Wireless Bluetooth Controlador...'
+sku: 'B082W8JDQL-es'
 tags: [ 'playstation','ps4', ]
 actualPrice: 32.99 EUR
 currency: EUR

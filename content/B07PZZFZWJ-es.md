@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PZZFZWJ-es Carcasa para Control de Consola Playstation Controlador de...'
+sku: 'B07PZZFZWJ-es'
 tags: [ 'playstation','ps4', ]
 actualPrice: 11.99 EUR
 currency: EUR

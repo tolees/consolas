@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z9HL18B-es Meridiem Games - Meridiem Games - One Piece Arcade Mini...'
+sku: 'B07Z9HL18B-es'
 tags: [ 'nintendo', ]
 actualPrice: 14.59 EUR
 currency: EUR

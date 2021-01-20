@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075MCDFMP-es Cewaal 10Pcs Joystick Cap Case Grips Analog Cubierta del...'
+sku: 'B075MCDFMP-es'
 tags: [ 'ps4','xbox', ]
 actualPrice: 3.19 EUR
 currency: EUR

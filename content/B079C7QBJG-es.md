@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079C7QBJG-es Playstation lámpara Play Station'
+sku: 'B079C7QBJG-es'
 tags: [ 'playstation', ]
 actualPrice: 14.57 EUR
 currency: EUR

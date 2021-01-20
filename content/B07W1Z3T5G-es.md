@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W1Z3T5G-es Ardistel - Game Traveler Deluxe Travel Case NNS57 Nintendo...'
+sku: 'B07W1Z3T5G-es'
 tags: [ 'nintendo', ]
 actualPrice: 14.99 EUR
 currency: EUR

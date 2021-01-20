@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086QKBQ15-es Cocoda Cascos Gaming para PS4 Nintendo Switch Xbox One...'
+sku: 'B086QKBQ15-es'
 tags: [ 'nintendo','ps4','xbox', ]
 actualPrice: 25.48 EUR
 currency: EUR

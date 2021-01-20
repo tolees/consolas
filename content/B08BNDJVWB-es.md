@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BNDJVWB-es eXtremeRate LB RB LT RT Parachoques disparadores D-Pad...'
+sku: 'B08BNDJVWB-es'
 tags: [ 'xbox', ]
 actualPrice: 15.27 EUR
 currency: EUR

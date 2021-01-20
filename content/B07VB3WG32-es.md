@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VB3WG32-es PDP - Mando Mini Con Cable Rock Candy Amarillo Pop Glow...'
+sku: 'B07VB3WG32-es'
 tags: [ 'nintendo', ]
 actualPrice: 16.52 EUR
 currency: EUR
