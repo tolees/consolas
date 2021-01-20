@@ -28,7 +28,7 @@ Ahora mismo tienes [The Surge 2  Xbox One ](https://www.amazon.es/dp/B07RWC1SD7/
 
 - Brutales combates cuerpo a cuerpo
 - Cercena las partes del enemigo que quieras saquear
-- Enfréntate a rivales y jefes mortíferos
 - Excelente evolución y personalización del personaje
+- Enfréntate a rivales y jefes mortíferos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RWC1SD7/?tag=tolees-21)
