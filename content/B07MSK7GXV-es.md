@@ -28,8 +28,8 @@ Ahora mismo tienes [Paladone LAMPARA NINTENDO NES  blanca](https://www.amazon.es
 🔎:
 
 - Tiene una medida 8.5 x 17 x 8.5 cm ideal para que la disfruten todos los fans de nintendo
-- Potencia: 2.5
-- Voltaje: 5.0
 - Componentes incluidos: bombilla
+- Voltaje: 5.0
+- Potencia: 2.5
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MSK7GXV/?tag=tolees-21)
