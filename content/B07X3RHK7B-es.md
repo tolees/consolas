@@ -27,10 +27,10 @@ Ahora mismo tienes [innoAura Kit de Accesorios para Nintendo Switch Lite  incluy
 
 🔎:
 
-- [Garantía y Servicio Posventa] Ofrecemos 30 días de reembolso total y reemplazo gratuito. Por favor, no dudes en contactarnos en cualquier momento si no estás completamente satisfecho con nuestro kit. Te ayudaremos a resolver tu problema en 24 horas.
 - [Muy Económico y Conveniente] Si compras la funda de transporte, la funda de TPU y los dos protectores de pantalla por separado, es más caro que comprar el kit. ¡Y puedes ahorrar tiempo para elegir el otro accesorio que gastarías encontrar accesorios compatibles!
+- [Garantía y Servicio Posventa] Ofrecemos 30 días de reembolso total y reemplazo gratuito. Por favor, no dudes en contactarnos en cualquier momento si no estás completamente satisfecho con nuestro kit. Te ayudaremos a resolver tu problema en 24 horas.
 - [Protección de pantalla de vidrio templado HD] El protector de pantalla de dureza 9H puede proteger la pantalla de rayones o caídas. Con 0,3 mm de espesor, haciéndolo ultra fino, lo que promete total compatibilidad con la sensibilidad de la pantalla táctil.
-- [Funda de Alta Calidad] Esta funda de transporte está hecha de material de alta calidad. Con carcasa dura e interior blando, mantén tu Nintendo Switch Lite libre de rayones, polvo, caídas, etc. Dos tieras de fijación para asegurar tu Nintendo Switch Lite y evitar que se caiga. Viene con 8 tarjetas de juego y un de bolsillo de malla que se adapta a cables, juegos y otros accesorios adicionales más pequeños pero esenciales.
 - [Funda de TPU] La funda está hecha de material TPU suave y resistente a los rayones, el diseño del mango evita los golpes cotidianos, los rayones, el polvo y las huellas dactilares. La superficie clara de la funda resalta el color y el diseño original de la Nintendo Switch Lite.
+- [Funda de Alta Calidad] Esta funda de transporte está hecha de material de alta calidad. Con carcasa dura e interior blando, mantén tu Nintendo Switch Lite libre de rayones, polvo, caídas, etc. Dos tieras de fijación para asegurar tu Nintendo Switch Lite y evitar que se caiga. Viene con 8 tarjetas de juego y un de bolsillo de malla que se adapta a cables, juegos y otros accesorios adicionales más pequeños pero esenciales.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07X3RHK7B/?tag=tolees-21)
