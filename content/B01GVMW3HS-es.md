@@ -28,9 +28,9 @@ En este momento está [Microsoft Forza Horizon 3  Xbox One vídeo - Juego  Xbox 
 🔎:
 
 - Be the boss of your own Horizon Festival; customise every aspect of your game; hire and fire friends to win you fans or invite them to join in the all-new four players online campaign co-op
+- Xbox One console
+- Forza Horizon 3 standard edition includes the full game and the Forza Hub App
 - Explore Australia, the Horizon Festival’s one of the largest, beautiful and diverse open world ever
 - Discover thrilling driving gameplay like Danger Sign Jumps, Convoys and Drift Zones
-- Forza Horizon 3 standard edition includes the full game and the Forza Hub App
-- Xbox One console
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01GVMW3HS/?tag=tolees-21)
