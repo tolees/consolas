@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Nintendo Super Smash Bros Amiibo - Pichu con un 20.53 % de descuento'
-date: 2021-01-16 09:33:23
+date: 2021-01-21 22:31:02
 image: 'https://m.media-amazon.com/images/I/41D1KLU02wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R3V1B8Y-es'
+slug: 'B07R3V1B8Y-es Nintendo Super Smash Bros Amiibo - Pichu'
+sku: 'B07R3V1B8Y-es'
+tags: [ 'nintendo', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9
