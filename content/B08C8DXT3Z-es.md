@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Cola Cao Original: con Cacao Natural-2 7 con un 17.56 % de descuento'
-date: 2021-01-15 16:07:37
+date: 2021-01-21 23:58:15
 image: 'https://m.media-amazon.com/images/I/513E6cIWXwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C8DXT3Z-es'
+slug: 'B08C8DXT3Z-es Cola Cao Original: con Cacao Natural-2 7kg Despertador...'
+sku: 'B08C8DXT3Z-es'
+tags: [ 'playstation', ]
 actualPrice: 11.5 EUR
 currency: EUR
 price: 11.5
@@ -16,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08C8DXT3Z/?tag=tolees-21'
 descuento: '17.56'
-average: '13.262280701754383'
+average: '11.5'
 ---
 
 En este momento está [Cola Cao Original: con Cacao Natural-2 7kg  Despertador PlayStation ](https://www.amazon.es/dp/B08C8DXT3Z/?tag=tolees-21) a 11.5 EUR (original: 13.95 EUR) (17.56 %  de descuento) en el siguiente enlace!
@@ -25,10 +27,10 @@ En este momento está [Cola Cao Original: con Cacao Natural-2 7kg  Despertador P
 
 🔎:
 
-- Alérgenos: contiene trigo y cebada; mantener en lugar fresco y seco
-- Gratis el despertador lámpara playstation haz que cada despertar se convierta en un juego con el nuevo despertador playstation; las medidas del despertador son: 20cm de ancho x 7 cm de alto; funciona con 3 pilas AAA (no incluidas)
 - 192 raciones en su formato ahorro de 2,7kg (contiene 2 bolsas en su interior)
+- Gratis el despertador lámpara playstation haz que cada despertar se convierta en un juego con el nuevo despertador playstation; las medidas del despertador son: 20cm de ancho x 7 cm de alto; funciona con 3 pilas AAA (no incluidas)
 - Con cacao certificado utz; colacao apoya el cultivo sostenible de cacao; los agricultores certificados implementan mejores prácticas agrícolas, con respeto a la gente y al planeta
 - El colacao de siempre, eso tan tuyo; con cacao natural que se mezcla con el resto de ingredientes sin añadir aditivos; sus grumitos se deben al cacao natural y porque no contiene aditivos
+- Alérgenos: contiene trigo y cebada; mantener en lugar fresco y seco
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08C8DXT3Z/?tag=tolees-21)
