@@ -27,10 +27,10 @@ Está [UGREEN Bluetooth USB PC  Adaptador Bluetooth para Mando PS4/Mando Xbox On
 
 ℹ️:
 
-- CONEXIÓN AUTOMÁTICA : Después de emparejar con un dispositivo bluetooth por primera vez, volverán a conectarse automáticamente si el pc y su dispositivo están encendidos, sin tener que emparejar de nuevo. Lleva un LED indicador que parpadea mientras está conectado, la luz acasionará ninguna moloestia como queda penas imperceptible.
 - SOPORTA VARIOS TIPOS DE DISPOTIVOS BT : Adaptador bluetooth para pc capacita conectividad Bluetooth a dispositivos como ordenadores y Smart TVs del sistema Windows que no lo tienen, facilitando la conexión y sincronización sin cables necesitados con más periféricos de teléfonos, tablets, mandos para Xbox One S / Xbox One X y PS4 (Dualshock 4) / PS4 PRO, ratones, teclados, altavoz, auriculares bluetooth inalambrico,airpods,impresora bluetooth
+- AMPLIA COMPATIBILIDAD : Antena bluetooth para pc es compatible con las versiones de 32 y 64 bits de Windows 10, 8.1, 8, 7, Vista, XP. No admite sistemas operativos de Mac OS y Windows RT y tampoco funciona con el sistema de sonido del coche.
 - 20M ALCANCE DE TRANSMISIÓN : Receptor bluetooth usb pc viene incorporada la última Bluetooth V4.0 con tecnologías BLE (Bluetooth Low Energy) y EDR (Enhanced Data Rate), este adaptador BT está dirigido a enlaces más sencillos con bajo consumo y mayor velocidad de emisión de datos de 3 Mbps con largo alcance de 20 metros.
 - EXCELENTE CALIDAD DE SONIDO : Bluetooth usb pc aporta rendimientos excelentes sin cortes, retrasos ni fallos, ideal para el uso de oficina o fines recreativos como escuchar música. Fácil de configurar, enchufar u listo para transferencias de carpetas, incluido CSR HarmonyTM driver programa para sincronización de audio.
-- AMPLIA COMPATIBILIDAD : Antena bluetooth para pc es compatible con las versiones de 32 y 64 bits de Windows 10, 8.1, 8, 7, Vista, XP. No admite sistemas operativos de Mac OS y Windows RT y tampoco funciona con el sistema de sonido del coche.
+- CONEXIÓN AUTOMÁTICA : Después de emparejar con un dispositivo bluetooth por primera vez, volverán a conectarse automáticamente si el pc y su dispositivo están encendidos, sin tener que emparejar de nuevo. Lleva un LED indicador que parpadea mientras está conectado, la luz acasionará ninguna moloestia como queda penas imperceptible.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01LX6HISL/?tag=tolees-21)
