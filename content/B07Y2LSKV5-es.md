@@ -27,12 +27,12 @@ Tienes [Corsair HS50 Pro Stereo Auriculares para Juegos  Ajustables Espuma visco
 
 ℹ️:
 
+- Creados para ofrecer comodidad: las almohadillas ajustables de lujosa espuma viscoelástica proporcionan una comodidad óptima durante horas de juego
 - Controles para volumen y silencio en auricular: controles para volumen y silencio en auricular que permiten realizar ajustes sobre la marcha sin distraerse del juego
-- Ligeros y duraderos: la construcción duradera y ligera de los HS50 PRO con diadema de aluminio consigue que resistan muchos años
-- Certificado Discord: para una comunicación nítida y un sonido óptimo
+- Micrófono unidireccional con cancelación del ruido: el micrófono unidireccional extraíble reduce el ruido ambiental para mejorar la calidad de la voz
 - Compatibles con varias plataformas: Juegue en PC, PS4, Xbox One*, Switch y móviles a través de un conector de 3,5 mm. ,puede ser necesario un adaptador de Microsoft que se vende por separado
 - Calidad de sonido óptimo: los transductores de neodimio de 50 mm ajustados a medida y de buen calidad ofrecen el alcance suficiente para oír todo lo necesario en el campo de batalla
-- Micrófono unidireccional con cancelación del ruido: el micrófono unidireccional extraíble reduce el ruido ambiental para mejorar la calidad de la voz
-- Creados para ofrecer comodidad: las almohadillas ajustables de lujosa espuma viscoelástica proporcionan una comodidad óptima durante horas de juego
+- Ligeros y duraderos: la construcción duradera y ligera de los HS50 PRO con diadema de aluminio consigue que resistan muchos años
+- Certificado Discord: para una comunicación nítida y un sonido óptimo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07Y2LSKV5/?tag=tolees-21)

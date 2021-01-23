@@ -27,10 +27,10 @@ Ahora mismo tienes [PICTEK Cargador Mando PS4  Carga Ultrarrápido con Tira de L
 
 🔎:
 
-- ♫【Dos Estaciones y Carga Rápida】 El cargador ps4 le permite cargar dos mandos PS4 al mismo tiempo o solo uno sin conectarse al sistema PS4 desde el PC, fuente de alimentación o banco de energía. Un mando cargado completamente necesita solo 2h / Dos mandos- 2.5h
-- ♫【LED Indicadora y Tira de Luz Extra】 Aparte de los led indicadora normal, nuestra estación de carga ps4 cuenta con dos tiras de luz extra para indicar el estado de carga. Verde significa cargado completamente y Rojo cargaando. Pueden saber fácilmente cuándo los mandos están listos para usar.
+- ♫【Protección de seguridad y gran compatibilidad】 Con chip de protección incorporado para evitar sobrecarga / sobrecalentamiento / sobrecorriente / sobretensión / cortocircuito, este cargador PS4 es más seguro y más confiable de usar. Compatible con PS4 / PS4 Slim / PS4 Pro.
 - ♫【Carga Más Estable y Libre】 El diseño de tira antideslizante deja sus mandos más estable y que nunca se deslice hacia abajo. El cable alcanza 80cm, que puede ponerse más lejos y ofrece la experiencia más libre.
 - ♫【4 Puertos Micro USB y Más Fácil de Cargar】 No se necesita esfuerzo extra. Solo poniendo el receptor en el puerto micro USB y depués colocando los mandos en el cargador, los mandos alinearán los puertos USB en su lugar y cargarán perfectamente.
-- ♫【Protección de seguridad y gran compatibilidad】 Con chip de protección incorporado para evitar sobrecarga / sobrecalentamiento / sobrecorriente / sobretensión / cortocircuito, este cargador PS4 es más seguro y más confiable de usar. Compatible con PS4 / PS4 Slim / PS4 Pro.
+- ♫【Dos Estaciones y Carga Rápida】 El cargador ps4 le permite cargar dos mandos PS4 al mismo tiempo o solo uno sin conectarse al sistema PS4 desde el PC, fuente de alimentación o banco de energía. Un mando cargado completamente necesita solo 2h / Dos mandos- 2.5h
+- ♫【LED Indicadora y Tira de Luz Extra】 Aparte de los led indicadora normal, nuestra estación de carga ps4 cuenta con dos tiras de luz extra para indicar el estado de carga. Verde significa cargado completamente y Rojo cargaando. Pueden saber fácilmente cuándo los mandos están listos para usar.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07X97GJLB/?tag=tolees-21)
