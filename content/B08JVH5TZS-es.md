@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 15.00 % en Corsair HS75 XB Wireless Auriculares par'
-date: 2021-01-23 06:15:52
+date: 2021-01-24 06:33:20
 image: 'https://m.media-amazon.com/images/I/41ulZLEZQBL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08JVH5TZS/?tag=tolees-21'
 descuento: '15.00'
-average: '178.079545454545'
+average: '177.705074626866'
 ---
 
 Tienes [Corsair HS75 XB Wireless Auriculares para Juegos para Xbox One y Xbox Series X  Conéctese Instante sin Adaptador Inalámbrico  Audio Dolby Atmos Envolvente  Micrófono Unidireccional  Negro](https://www.amazon.es/dp/B08JVH5TZS/?tag=tolees-21) con un 15.00 % de descuento con precio de oferta de 152.99 EUR (original: 179.99 EUR) en el siguiente enlace!
