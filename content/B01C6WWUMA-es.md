@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HORI - Horipad inalámbrico Mario  Ninten al 20.08 % de descuento'
-date: 2021-01-23 08:00:09
+date: 2021-01-24 15:13:04
 image: 'https://m.media-amazon.com/images/I/51TxBAAI8+L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B01C6WWUMA/?tag=tolees-21'
 descuento: '20.08'
-average: '47.1828703703703'
+average: '47.0513636363635'
 ---
 
 Está [HORI - Horipad inalámbrico Mario  Nintendo Switch ](https://www.amazon.es/dp/B01C6WWUMA/?tag=tolees-21) con 20.08 de descuento por 39.95 EUR (original: 49.99 EUR) en el siguiente enlace!
@@ -27,10 +27,10 @@ Está [HORI - Horipad inalámbrico Mario  Nintendo Switch ](https://www.amazon.e
 
 ℹ️:
 
-- Licencia oficial de Nintendo
 - Batería recargable
+- Licencia oficial de Nintendo
+- Conexión inalámbrica vía Bluetooth
 - Acelerómetro y giroscopio
 - Autonomía: hasta 20 h
-- Conexión inalámbrica vía Bluetooth
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01C6WWUMA/?tag=tolees-21)
