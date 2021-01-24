@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Descuento del 23.09 % en AVerMedia GC311 Live Gamer MINI  HDMI 10'
+date: 2021-01-24 10:25:44
+image: 'https://m.media-amazon.com/images/I/419jSx8baDL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07NNQ4RF5-es AVerMedia GC311 Live Gamer MINI HDMI 1080p60 Pass-thru...'
+sku: 'B07NNQ4RF5-es'
+tags: [ 'nintendo','ps4','xbox', ]
+actualPrice: 99.9 EUR
+currency: EUR
+price: 99.9
+comparePrice: 129.9 EUR
+prodname: 'AVerMedia GC311 Live Gamer MINI  HDMI 1080p60 Pass-thru  tarjeta de captura de juegos USB 2.0  Plug & Play  para principiantes  Nintendo Switch  PS4  Xbox  iPhone  iPad'
+country: 'es'
+flag: '🇪🇸'
+buyurl: 'https://www.amazon.es/dp/B07NNQ4RF5/?tag=tolees-21'
+descuento: '23.09'
+average: '85.6335714285714'
+---
+
+Tienes [AVerMedia GC311 Live Gamer MINI  HDMI 1080p60 Pass-thru  tarjeta de captura de juegos USB 2.0  Plug & Play  para principiantes  Nintendo Switch  PS4  Xbox  iPhone  iPad](https://www.amazon.es/dp/B07NNQ4RF5/?tag=tolees-21) con un 23.09 % de descuento con precio de oferta de 99.9 EUR (original: 129.9 EUR) en el siguiente enlace!
+
+[![AVerMedia GC311 Live Gamer MINI  HDMI 10](https://m.media-amazon.com/images/I/419jSx8baDL._SL200_.jpg)](https://www.amazon.es/dp/B07NNQ4RF5/?tag=tolees-21)
+
+ℹ️:
+
+- 【Plug and Play listo para usar】: no necesita batería, transmita y grabe fácilmente el juego en PS4, Xbox one, Nintendo Switch,Wii U, iPhone, iPad
+- 【 Calidad Full HD】: captura en Full HD 1080p60 con codificador de hardware H.264
+- 【RECentral software】:RECentral 4 para Windows 10, RECentral Express para macOS 10.15
+- 【Compatible con aplicaciones de transmisión por secuencias como】: XSplit u OBS, y transmisión a YouTube, Twitch, Mixer, Facebook Live, Smashcast, Ustream de forma inmediata
+- 【 Hardware Integrado】codificador ayudará a reducir la carga de la pc de transmisión dedicada, lo que significa que el dispositivo funcionará perfectamente con una pc de transmisión dedicada de baja especificación
+
+[🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07NNQ4RF5/?tag=tolees-21)

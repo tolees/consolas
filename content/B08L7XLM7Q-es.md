@@ -29,8 +29,8 @@ Ahora mismo tienes [FASTSNAIL Base de carga para controlador de PS5  carga rápi
 
 - Carga rápida: la carga completa necesita alrededor de 1 ~ 3 horas de acuerdo a la potencia de entrada diferente, diferentes adaptadores pueden conducir a una hora de diferencia. (Por favor, utiliza un adaptador de más de 5 V/2 A para lograr la velocidad de carga más rápida).
 - Cargador dual: esta base de carga está diseñada especialmente para el controlador PS5, puede cargar 2 controladores simultáneamente con adaptador tipo C, que es fácil de insertar o sacar de la carga del controlador, y protege eficazmente la interfaz de carga del controlador del desgaste.
-- Chip inteligente: la tecnología inteligente de microcontrol se aplica a la gestión de circuitos/salida para lograr una carga de conversión de alta eficiencia. Protegido de sobrecorriente, sobretensión, sobrecalentamiento o cortocircuito.
 - Diseño compacto: estilo compacto, colocación conveniente. Bajo consumo de energía en espera, ahorro de energía y protección del medio ambiente. Imprescindible para los jugadores del juego.
+- Chip inteligente: la tecnología inteligente de microcontrol se aplica a la gestión de circuitos/salida para lograr una carga de conversión de alta eficiencia. Protegido de sobrecorriente, sobretensión, sobrecalentamiento o cortocircuito.
 - Almohadillas antideslizantes: las almohadillas antideslizantes en la parte inferior pueden fijar el cargador, evitan que los controladores se deslicen y evitan que tu mesa se raye.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08L7XLM7Q/?tag=tolees-21)
