@@ -28,8 +28,8 @@ Tienes [Seagate Technology - Seagate Expansion STEA4000400 - Disco duro externo 
 ℹ️:
 
 - Disco duro externo 4 TB, USB 3.0
+- Arrastre y suelte los archivos para guardarlos, desde el primer instante
 - Transferencia rápida de datos gracias a la conexión USB 3.0
 - Contenido de la caja: unidad de disco duro portátil 4 TB, cable USB 3.0, guía de instalación rápida
-- Arrastre y suelte los archivos para guardarlos, desde el primer instante
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B017KE8OG0/?tag=tolees-21)
