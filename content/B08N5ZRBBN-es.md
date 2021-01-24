@@ -27,8 +27,8 @@ Tienes [TUTUO Funda Protectora de Silicona para Mando de PS5  Carcasa Protectora
 
 ℹ️:
 
-- 【Protección】 Cubierta del controlador de silicona de alta calidad para el controlador PS5, evite cualquier daño a su controlador PS5 por golpes, rasguños, cuide su controlador perfectamente.
 - 【Diseño único】 Diseñado específicamente para el controlador PS5 Dualshock 5, este agarre cuenta con un corte de botón ordenado para brindar protección de agarre sin interferir con el juego.
+- 【Protección】 Cubierta del controlador de silicona de alta calidad para el controlador PS5, evite cualquier daño a su controlador PS5 por golpes, rasguños, cuide su controlador perfectamente.
 - 【Material del producto】 Hecho de material de silicona de alta calidad, tiene el mejor aspecto, tacto y solidez.
 - 【Agarre mejorado】 Forma de superficie TACHADA especialmente diseñada y material de alta calidad Brinda una mejor sensación de agarre al tocar, evita resbalones.
 - 【Personalizado】 Funda protectora para el controlador de playstation 5 Funda de silicona de alta calidad con agarre personalizado para el controlador PS5. Se adapta perfectamente al controlador de PlayStation 5. Nota: el controlador de PS5 no está incluido.
