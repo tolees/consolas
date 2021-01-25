@@ -1,31 +1,38 @@
 ---
 layout: post
-title: 'Rage 2 Deluxe Edition - Xbox One al 75.60 % de rebaja'
-date: 2020-08-25 08:09:12
+title: 'Bethesda - Rage 2 Deluxe Edition - Xbox  al 76.43 % de rebaja'
+date: 2021-01-25 17:17:42
 image: 'https://m.media-amazon.com/images/I/61+DhOhNwvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKK259Y-es Rage 2 Deluxe Edition - Xbox One'
+slug: 'B07DKK259Y-es Bethesda - Rage 2 Deluxe Edition - Xbox One'
 sku: 'B07DKK259Y-es'
 tags: [ 'xbox', ]
-actualPrice: 21.96 EUR
+actualPrice: 21.21 EUR
 currency: EUR
-price: 21.96
+price: 21.21
 comparePrice: 89.99 EUR
-prodname: 'Rage 2 Deluxe Edition - Xbox One'
+prodname: 'Bethesda - Rage 2 Deluxe Edition - Xbox One'
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07DKK259Y/?tag=tolees-21'
-descuento: '75.60'
-average: '28.105'
+descuento: '76.43'
+average: '24.6575'
 ---
 
-Tienes [Rage 2 Deluxe Edition - Xbox One](https://www.amazon.es/dp/B07DKK259Y/?tag=tolees-21) con precio final de  21.96 EUR (original: 89.99 EUR) (75.60 %  de rebaja) aqui!
+Tienes [Bethesda - Rage 2 Deluxe Edition - Xbox One](https://www.amazon.es/dp/B07DKK259Y/?tag=tolees-21) con precio final de  21.21 EUR (original: 89.99 EUR) (76.43 %  de rebaja) aqui!
 
-[![Rage 2 Deluxe Edition - Xbox One](https://m.media-amazon.com/images/I/61+DhOhNwvL._SL200_.jpg)](https://www.amazon.es/dp/B07DKK259Y/?tag=tolees-21)
+[![Bethesda - Rage 2 Deluxe Edition - Xbox ](https://m.media-amazon.com/images/I/61+DhOhNwvL._SL200_.jpg)](https://www.amazon.es/dp/B07DKK259Y/?tag=tolees-21)
 
 🔎:
 
+- Ofrece un frenesí de masacres en el que podrás visitar cualquier sitio, disparar a cualquier cosa y volarlo todo por los aires
+- Rage 2 es fruto de la colaboración entre dos pesos pesados como son Avalanche Studios, expertos en la creación de demenciales mundos abiertos, e id Software, los dioses de los shooters en primera persona
+- Entra de lleno en un mundo distópico en el que la sociedad, la ley y el orden brillan por su ausencia
+- Con trepidantes combates entre vehículos, una acción en primera persona demencial y un mundo abierto en el que reina la locura
+- Encarnarás a Walker, el último Ranger del Yermo que amenaza el poder de la Autoridad; después de que te arrebaten tu hogar y te den por muerto, te tocará luchar en nombre de la justicia y la libertad
+- Un asteroide ha aniquilado al 80% de la humanidad, despiadadas bandas sedientas de sangre vagan por las carreteras, y la tiránica Autoridad ansía gobernar a los supervivientes con mano de hierro
+- Contenido exclusivo Deluxe Edition: Superarma BFG de la UAC (DOOM), códigos del mago del yermo, expansión “El resurgir de los fantasmas”, estandarte de combate y potenciador del progreso
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DKK259Y/?tag=tolees-21)
