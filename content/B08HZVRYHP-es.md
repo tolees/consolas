@@ -27,8 +27,8 @@ En este momento está [SEGA - Company of Heroes 2 - All Out War Edition](https:/
 
 🔎:
 
+- All Out War Edition también incluye un Código de Steam para un amigo, todos los DLC´s de los Comandantes, la Banda Sonora Original Oficial y un Libro de Arte de la Franquicia
 - Dirige 5 facciones a lo largo de una selección de escenarios multijugador y escaramuza
 - Company of Heroes 2: All Out War Edition es el juego de Estrategia en Tiempo Real definitive
-- All Out War Edition también incluye un Código de Steam para un amigo, todos los DLC´s de los Comandantes, la Banda Sonora Original Oficial y un Libro de Arte de la Franquicia
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HZVRYHP/?tag=tolees-21)
