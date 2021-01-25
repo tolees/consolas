@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain - Mortal K con un 16.76 % de descuento'
-date: 2021-01-24 06:16:48
+date: 2021-01-25 06:58:41
 image: 'https://m.media-amazon.com/images/I/51UgCZZEX1L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B08LWBGXJQ/?tag=tolees-21'
 descuento: '16.76'
-average: '50.2846153846154'
+average: '50.2571428571429'
 ---
 
 En este momento está [Warner Bros Interactive Spain - Mortal Kombat 11: Limited Edition XBSX Limitada Xbox](https://www.amazon.es/dp/B08LWBGXJQ/?tag=tolees-21) a 49.9 EUR (original: 59.95 EUR) (16.76 %  de descuento) en el siguiente enlace!
