@@ -27,14 +27,14 @@ Tienes [SEGA - Mega Drive Classics](https://www.amazon.es/dp/B07JCVPXB5/?tag=tol
 
 ℹ️:
 
-- Challenge Mode: pequeños retos para algunos juegos, como terminar el juego en un tiempo
-- Guarda la partida en cualquier momento y rebobina cuando tengas algún contratiempo
 - Personaliza tus controles
-- Modo Espejo- La imagen de la pantalla se da la vuelta para un mayor reto. Trofeos y logros
-- Permite jugar en televisión, modo portátil y con la pantalla y los mandos aparte
-- Pantalla táctil para la navegación en el menú
-- Incluye póster de doble cara: Streets of Rage y Golden Axe
 - Multijugador online – 2 jugadores
 - La mayor colección de clásicos retros en un solo pack
+- Modo Espejo- La imagen de la pantalla se da la vuelta para un mayor reto. Trofeos y logros
+- Incluye póster de doble cara: Streets of Rage y Golden Axe
+- Permite jugar en televisión, modo portátil y con la pantalla y los mandos aparte
+- Challenge Mode: pequeños retos para algunos juegos, como terminar el juego en un tiempo
+- Guarda la partida en cualquier momento y rebobina cuando tengas algún contratiempo
+- Pantalla táctil para la navegación en el menú
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07JCVPXB5/?tag=tolees-21)
