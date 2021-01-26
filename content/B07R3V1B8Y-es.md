@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo Super Smash Bros Amiibo - Pichu con un 20.53 % de descuento'
-date: 2021-01-21 22:31:02
+date: 2021-01-26 16:38:52
 image: 'https://m.media-amazon.com/images/I/41D1KLU02wL._SL200_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 19.05 % en Nintendo Iberica - amiibo Ice Climber'
-date: 2021-01-21 22:30:59
+date: 2021-01-26 16:39:30
 image: 'https://m.media-amazon.com/images/I/51K5lvZ3oxL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07L3KGX5G/?tag=tolees-21'
 descuento: '19.05'
-average: '13.827391304347826'
+average: '13.855'
 ---
 
 Tienes [Nintendo Iberica - amiibo Ice Climber](https://www.amazon.es/dp/B07L3KGX5G/?tag=tolees-21) con un 19.05 % de descuento con precio de oferta de 14.49 EUR (original: 17.9 EUR) en el siguiente enlace!
