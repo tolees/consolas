@@ -27,9 +27,9 @@ Tienes [Nintendo - Figura Amiibo Yoshi Lana  Color Azul Celeste](https://www.ama
 
 ℹ️:
 
+- amiibo are a series of character toys that interact with games on the Nintendo Wii U and 3DS
 - There is a wide range of characters from numerous games to choose from, so collect them all
 - When an amiibo is placed on the GamePad, that character will be brought into the game
 - As you play, your figures data will also be updated, so keep playing to make your amiibo unique
-- amiibo are a series of character toys that interact with games on the Nintendo Wii U and 3DS
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00VK5OSUM/?tag=tolees-21)
