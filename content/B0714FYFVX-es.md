@@ -27,10 +27,10 @@ Tienes [NANOCABLE - Nano Cable 10.03.0401 - Ethernet Adaptador de Red USB 3.0  G
 
 🔎:
 
+- Usb 3.0 ethernet adaptador de red premite reemplazar o agregar un puerto de ethernet para macbook, mac y windows ordenadores, laptops y etc
+- Compatible con ieee 802.3, 802.3u and 802.3ab, chipset: rtl8153
+- Gracias a sus dimensiones reducidas, resulta bastante portátil que permite llevarse en una bolsa o mochila a cualquier lugar
 - El adaptador de tarjeta de red externa puede proporcionar una velocidad de 1000 mbps por medio del usb puertos en el pc u ordenador compatible
 - Soporte los sistemas operativos de windows 10, windows 7 (32/64 bits), windows 8 (32/64 bits), windows 8.1 (32/64 bits), windows vista (32/64 bits), xp, mac os 10.11 a 10.6 y linux
-- Compatible con ieee 802.3, 802.3u and 802.3ab, chipset: rtl8153
-- Usb 3.0 ethernet adaptador de red premite reemplazar o agregar un puerto de ethernet para macbook, mac y windows ordenadores, laptops y etc
-- Gracias a sus dimensiones reducidas, resulta bastante portátil que permite llevarse en una bolsa o mochila a cualquier lugar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0714FYFVX/?tag=tolees-21)
