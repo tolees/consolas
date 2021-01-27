@@ -27,10 +27,10 @@ Ahora mismo tienes [MoKo Estación de Carga Compatible con Controlador inalámbr
 
 🔎:
 
-- Fácil de usar - Simplemente coloque el controlador en la cuna de carga para cargar y quítelo cuando esté en uso.El mango se puede cargarse completamente en 4 horas sólo si la potencia de entrada no es inferior a 5V/2A.
-- Seguro y antideslizante - La cuna de carga funciona tanto como cargador como soporte. Además de cargar el controlador, también mantiene el controlador de la PS5 ordenado cuando no está en uso. La alfombrilla antideslizante de la parte inferior mantiene el cargador y el controlador firmemente en su lugar.
-- Carga rápida - Con 2 puertos de carga, puedes cargar 2 controladores al mismo tiempo o 2 controladores al mismo tiempo. Ahorra tiempo con la carga rápida de ambos controladores al mismo tiempo.
 - Indicador LED - El indicador LED incorporado en la pantalla de fuentes indica claramente el estado de carga, el enchufe del controlador se vuelve rojo y una carga completa se vuelve verde. Puedes saber el estado de la carga por el color.
+- Carga rápida - Con 2 puertos de carga, puedes cargar 2 controladores al mismo tiempo o 2 controladores al mismo tiempo. Ahorra tiempo con la carga rápida de ambos controladores al mismo tiempo.
+- Seguro y antideslizante - La cuna de carga funciona tanto como cargador como soporte. Además de cargar el controlador, también mantiene el controlador de la PS5 ordenado cuando no está en uso. La alfombrilla antideslizante de la parte inferior mantiene el cargador y el controlador firmemente en su lugar.
+- Fácil de usar - Simplemente coloque el controlador en la cuna de carga para cargar y quítelo cuando esté en uso.El mango se puede cargarse completamente en 4 horas sólo si la potencia de entrada no es inferior a 5V/2A.
 - Portátil y fiable - La cuna de carga es de fácil acceso para el controlador, es muy estable, se mantiene bien conectada, es pequeña y ocupa poco espacio, y también es un lugar conveniente para el controlador que se almacena.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08M3XDFR7/?tag=tolees-21)
