@@ -27,9 +27,9 @@ Tienes [Power A - Estuche Discreto Para Legend Of Zelda  Verde  Nintendo Switch 
 
 🔎:
 
+- Forro interior de felpa con soporte de juego integrado para modo sobremesa
 - Almacenamiento para 5 tarjetas de juego y bolsillo de malla
 - Con licencia oficial para Nintendo Switch
-- Forro interior de felpa con soporte de juego integrado para modo sobremesa
 - Diseño exclusivo con la silueta de Legend of Zelda
 - Carcasa exterior blanda con cremallera que se adapta perfectamente a la consola en modo portátil
 
