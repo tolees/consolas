@@ -27,10 +27,10 @@ Tienes [GMFINE - Adaptador convertidor Scart a HDMI  Adaptador Scart a HDMI Comp
 
 🔎:
 
-- ✿ Entrada Scart y salida HDMI: Interfaz de entrada SCART: DVD, decodificador y reproductor blu, etc. Formato de entrada Scart: compatible con los formatos de TV estándar PAL, NTSC3.58, NTSC4.43, SECAM, PAL / M, PAL / N. Interfaz de salida HDMI: conectar a HDTV o monitor; Formato de salida HDMI: compatible con HDMI1.3, admite salida 720p / 1080p.
 - ✿Adaptador convertidor SCART a HDMI: el convertidor SCART a HDMI se utiliza para la entrada SCART analógica a la salida HDMI digital. Puede conectar el dispositivo de retroceso solo tiene una interfaz euroconector como DVD, decodificador a dispositivo de visualización HD.
-- ✿Plug and Play: no se necesita un controlador adicional, es fácil de instalar y usar. Simplemente conecte el adaptador y vea el video HD. El convertidor Scart a HDMI compacto y liviano es conveniente para almacenar y transportar.
 - ✿Procesamiento de señal avanzado: este convertidor Scart a HDMI con tecnología de escalado de alta calidad que proporciona un procesamiento de señal avanzado con alta precisión, color, resolución y detalle, dando vida al video y brindando imágenes HD más nítido y realista disponible.
 - ✿ Admite hasta 1080P: convertidor de video Scart a HDMI para entrada nanlog scart a salida HDMI 1080P (60HZ). Este convertidor HDMI Scart detecta y convierte automáticamente la señal compuesta a salida HDMI 1080p (60Hz), manteniendo el efecto HD original y luego estabilizando la salida.
+- ✿ Entrada Scart y salida HDMI: Interfaz de entrada SCART: DVD, decodificador y reproductor blu, etc. Formato de entrada Scart: compatible con los formatos de TV estándar PAL, NTSC3.58, NTSC4.43, SECAM, PAL / M, PAL / N. Interfaz de salida HDMI: conectar a HDTV o monitor; Formato de salida HDMI: compatible con HDMI1.3, admite salida 720p / 1080p.
+- ✿Plug and Play: no se necesita un controlador adicional, es fácil de instalar y usar. Simplemente conecte el adaptador y vea el video HD. El convertidor Scart a HDMI compacto y liviano es conveniente para almacenar y transportar.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08SK3WZ9C/?tag=tolees-21)
