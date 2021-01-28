@@ -27,10 +27,10 @@ En este momento está [SEGA - Shenmue I & II - Xbox One](https://www.amazon.es/d
 
 🔎:
 
+- Habla con cualquiera, recorre el mundo en busca de pistas y NPCs con vidas independientes y con horarios propios
 - Distráete con juegos arcade, coleccionables, carreras de patos y mucho más
 - Resuelve el misterio de la muerte de tu padre. Una historia de venganza a gran escala, con una experiencia que nunca olvidarás
 - Por primera vez el clásico de Dreamcast en PS4, Xbox One y Steam, con nueva interfaz y audio en japonés por primera vez para todo el mundo
-- Habla con cualquiera, recorre el mundo en busca de pistas y NPCs con vidas independientes y con horarios propios
 - Posibilidad de elegir entre controles clásicos o modernos y resolución de pantalla escalable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CK8SJPF/?tag=tolees-21)
