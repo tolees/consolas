@@ -27,10 +27,10 @@ Ahora mismo tienes [Power A - PowerA - Mando con cable Link  Nintendo Switch ](h
 
 🔎:
 
-- Cambiar los botones del sistema (+, -, Inicio, Capturar)
-- Forma ergonómica del controlador con el diseño del botón Nintendo Switch
-- Diseño del botón Nintendo ABXY (más grande que Joy-Con)
-- Cable USB desmontable de 10 pies (3 m) con correa de velcro
 - Con licencia oficial de Nintendo y The Pokémon Company International
+- Cable USB desmontable de 10 pies (3 m) con correa de velcro
+- Forma ergonómica del controlador con el diseño del botón Nintendo Switch
+- Cambiar los botones del sistema (+, -, Inicio, Capturar)
+- Diseño del botón Nintendo ABXY (más grande que Joy-Con)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WCCN92L/?tag=tolees-21)
