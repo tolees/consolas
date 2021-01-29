@@ -27,9 +27,9 @@ Tienes [Wiistar - Conversor de audio analógico a digital  adaptador de señal �
 
 ℹ️:
 
-- Conector de salida: 1 x óptico, 1 x coaxial
+- Optical y la conexión coaxial pueden emitir audio al mismo tiempo.
 - Entrada de entrada: 1 x L/R, 1 x 3,5 mm conector de audio.
 - Soporta tasas de muestreo en 32, 44,1, 48 y 96 KHz. Corriente de bits SPDIF de 24 bits en el canal izquierdo y derecho.
-- Optical y la conexión coaxial pueden emitir audio al mismo tiempo.
+- Conector de salida: 1 x óptico, 1 x coaxial
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07Y8LV5BX/?tag=tolees-21)
