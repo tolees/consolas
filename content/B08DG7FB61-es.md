@@ -27,10 +27,10 @@ Está [Tarjeta SanDisk microSDXC UHS-I para Nintendo Switch 512GB  Producto con 
 
 ℹ️:
 
-- Añade hasta 512.GB al instante
-- Velocidades increíbles en una tarjeta MicroSD con licencia oficial para el sistema Nintendo Switch
-- Capacidad de almacenamiento de memoria: 512
 - Pasa menos tiempo esperando y más tiempo jugando gracias a las velocidades de lectura de hasta 100.MB/s y velocidades de escritura de hasta 90.MB/s
+- Velocidades increíbles en una tarjeta MicroSD con licencia oficial para el sistema Nintendo Switch
 - Guarda los juegos que descargues y las capturas de pantalla y vídeo en un solo lugar para que así puedas viajar ligero
+- Capacidad de almacenamiento de memoria: 512
+- Añade hasta 512.GB al instante
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08DG7FB61/?tag=tolees-21)
