@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 31.63 % en Power A - PowerA - Mando inalámbrico mej'
-date: 2021-01-28 10:05:35
+title: 'Descuento del 30.33 % en Power A - PowerA - Mando inalámbrico mej'
+date: 2021-01-29 21:39:37
 image: 'https://m.media-amazon.com/images/I/41kSGxDjRNL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,28 @@ author: ring
 slug: 'B07Y5VKGKM-es Power A - PowerA - Mando inalámbrico mejorado para...'
 sku: 'B07Y5VKGKM-es'
 tags: [ 'nintendo', ]
-actualPrice: 34.18 EUR
+actualPrice: 34.83 EUR
 currency: EUR
-price: 34.18
+price: 34.83
 comparePrice: 49.99 EUR
 prodname: 'Power A - PowerA - Mando inalámbrico mejorado para Nintendo Switch Doom 25  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
 buyurl: 'https://www.amazon.es/dp/B07Y5VKGKM/?tag=tolees-21'
-descuento: '31.63'
-average: '37.686'
+descuento: '30.33'
+average: '36.87'
 ---
 
-Tienes [Power A - PowerA - Mando inalámbrico mejorado para Nintendo Switch Doom 25  Nintendo Switch ](https://www.amazon.es/dp/B07Y5VKGKM/?tag=tolees-21) con un 31.63 % de descuento con precio de oferta de 34.18 EUR (original: 49.99 EUR) en el siguiente enlace!
+Tienes [Power A - PowerA - Mando inalámbrico mejorado para Nintendo Switch Doom 25  Nintendo Switch ](https://www.amazon.es/dp/B07Y5VKGKM/?tag=tolees-21) con un 30.33 % de descuento con precio de oferta de 34.83 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![Power A - PowerA - Mando inalámbrico mej](https://m.media-amazon.com/images/I/41kSGxDjRNL._SL200_.jpg)](https://www.amazon.es/dp/B07Y5VKGKM/?tag=tolees-21)
 
 ℹ️:
 
-- Con licencia oficial para Nintendo
 - Mando ergonómico con disposición de botones estándar y diseño Doom 25
+- Con licencia oficial para Nintendo
+- Incluye mandos de movimiento y botones de control avanzado de juego
 - Luces LED de alimentación, asignación de botones, número del jugador y advertencia de batería baja
 - Libertad inalámbrica Bluetooth
-- Incluye mandos de movimiento y botones de control avanzado de juego
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07Y5VKGKM/?tag=tolees-21)
