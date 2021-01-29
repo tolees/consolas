@@ -27,10 +27,10 @@ En este momento está [2K GAMES - Civilization VI - PlayStation 4 [Importación 
 
 🔎:
 
-- PLAY YOUR WAY: The path to victory is the one you determine
 - DYNAMIC DIPLOMACY: Interactions with other civilizations change over the course of the game..EXCITING AND UNIQUE SCENARIOS: Civilization VI for PlayStation 4 and Xbox One includes four playable scenarios..COOPERATIVE AND COMPETITIVE MULTIPLAYER: Up to 4 players can cooperate or compete for supremacy
-- THE WORLDS GREATEST LEADERS: Play as one of 24 leaders from around the world, throughout history.
+- PLAY YOUR WAY: The path to victory is the one you determine
 - ACTIVE RESEARCH: Unlock boosts that speed your civilizations progress through history.
+- THE WORLDS GREATEST LEADERS: Play as one of 24 leaders from around the world, throughout history.
 - EXPANSIVE EMPIRES: See the marvels of your empire spread across the map.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07YDQ48YS/?tag=tolees-21)
