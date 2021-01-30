@@ -79,6 +79,10 @@
           ],
           "description": "🔥{{ .Params.actualPrice}} ❌{{ .Params.comparePrice }} - {{ .Params.title }}",
           "mpn":"",{{ with .Params.sku }}"sku": "{{ . }}",{{ end }}
+          {{ with .Params.brand }}"brand": {
+        "@type": "Brand",
+        "name": "{{ . }}"
+      },{{end}}
           "offers": {
               "@type": "Offer",
               "url": "{{ .Permalink | absURL }}",
