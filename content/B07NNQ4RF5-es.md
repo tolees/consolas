@@ -28,10 +28,10 @@ Tienes [AVerMedia GC311 Live Gamer MINI  HDMI 1080p60 Pass-thru  tarjeta de capt
 
 ℹ️:
 
-- 【 Calidad Full HD】: captura en Full HD 1080p60 con codificador de hardware H.264
-- 【 Hardware Integrado】codificador ayudará a reducir la carga de la pc de transmisión dedicada, lo que significa que el dispositivo funcionará perfectamente con una pc de transmisión dedicada de baja especificación
-- 【RECentral software】:RECentral 4 para Windows 10, RECentral Express para macOS 10.15
 - 【Plug and Play listo para usar】: no necesita batería, transmita y grabe fácilmente el juego en PS4, Xbox one, Nintendo Switch,Wii U, iPhone, iPad
+- 【 Calidad Full HD】: captura en Full HD 1080p60 con codificador de hardware H.264
+- 【RECentral software】:RECentral 4 para Windows 10, RECentral Express para macOS 10.15
 - 【Compatible con aplicaciones de transmisión por secuencias como】: XSplit u OBS, y transmisión a YouTube, Twitch, Mixer, Facebook Live, Smashcast, Ustream de forma inmediata
+- 【 Hardware Integrado】codificador ayudará a reducir la carga de la pc de transmisión dedicada, lo que significa que el dispositivo funcionará perfectamente con una pc de transmisión dedicada de baja especificación
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07NNQ4RF5/?tag=tolees-21)
