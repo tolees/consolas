@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Subsonic - Auricular para juegos para PS4 / Xbox one/ PC / Switch  sólo Fortnite  - Accesorios para gamers - Azul  Xbox One '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089KQKKXM/?tag=tolees-21'
 descuento: '42.81'
 average: '15.763333333333334'

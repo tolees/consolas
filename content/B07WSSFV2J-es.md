@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Hori - Pokémon Trainer Pack Pokéball  Nintendo Switch / Switch Lite '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WSSFV2J/?tag=tolees-21'
 descuento: '20.01'
 average: '20.12142857142857'

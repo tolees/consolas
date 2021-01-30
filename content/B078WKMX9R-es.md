@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Auriculares Gaming Premium para PS4  PC  Xbox One  Cascos Gaming con LED  Auriculares de diadema Adjustables con Micrófono y control de volumen  Bass Surround y Cancelación de Ruido'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WKMX9R/?tag=tolees-21'
 descuento: '37.51'
 average: '16.99'

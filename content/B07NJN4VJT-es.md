@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'PDP - Auricular Stereo Gaming LVL50 Wireless  Gris  PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NJN4VJT/?tag=tolees-21'
 descuento: '25.00'
 average: '59.99'

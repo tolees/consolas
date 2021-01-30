@@ -16,6 +16,7 @@ comparePrice: 3.49 EUR
 prodname: 'Rotación Profesional Diseño Ajustable Clip de Montaje de TV Soporte de Cámara Soporte de Soporte Soporte de Cámara para PS4 Montaje de Cámara Accesorio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P6LXRHQ/?tag=tolees-21'
 descuento: '32.09'
 average: '2.37'

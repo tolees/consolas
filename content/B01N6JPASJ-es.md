@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'eXtremeRate 2 Pares de Gatillo Extensor L2 R2 Disparador de bontones Ajustables quickfire Trigger para Mando de Playstation 4 PS4 con JDM-030 Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6JPASJ/?tag=tolees-21'
 descuento: '52.66'
 average: '8.99'

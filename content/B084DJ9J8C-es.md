@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Funda + protector LCD para consola Nintendo Switch Lite edición Animal Crossing: New Horizons  Nintendo Switch Lite '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084DJ9J8C/?tag=tolees-21'
 descuento: '33.44'
 average: '21.099999999999998'

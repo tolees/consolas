@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Lioncast Arcade Fightstick Palanca de Mando Controlador con Botones programables  Sanwa  Turbo/Modo rápido y Base de Goma para PC/Sony Playstation  PS2  PS3 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004L3VU8S/?tag=tolees-21'
 descuento: '20.03'
 average: '29.12375'

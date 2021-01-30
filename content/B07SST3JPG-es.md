@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Darksiders Genesis - Xbox One'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SST3JPG/?tag=tolees-21'
 descuento: '25.11'
 average: '28.31'

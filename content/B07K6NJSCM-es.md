@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'FR·TEC - Auriculares Gaming Headset Genbu - PS4  Xbox One  Nintendo Switch  PC  Mac'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K6NJSCM/?tag=tolees-21'
 descuento: '44.01'
 average: '17.856666666666666'

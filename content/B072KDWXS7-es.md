@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'FR·TEC -  Funda Silicona + Grip Para Joy- Con Amarillo Izquierdo - Nintendo Switch'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072KDWXS7/?tag=tolees-21'
 descuento: '26.25'
 average: '3.68'

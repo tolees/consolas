@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Microsoft Xbox One S - Consola 1 TB + Anthem: Legión Del Alba - Edición Especial'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07N19K6PM/?tag=tolees-21'
 descuento: '33.11'
 average: '182.68666666666667'

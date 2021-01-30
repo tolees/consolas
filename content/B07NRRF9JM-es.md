@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'Webcam HD 1080P Stream Cámara Web con Micrófonos Duales Integrados Compatible con Xbox OBS Twitch Skype Youtube XSplit  Compatible con Mac OS Windows 10/8/7'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NRRF9JM/?tag=tolees-21'
 descuento: '15.00'
 average: '34.84'

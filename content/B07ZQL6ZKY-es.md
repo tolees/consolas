@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Mando Inalámbrico para PS4 / PC / Android  HONGLI Gamepad Wireless Bluetooth Controlador para Playstation 4 con Vibración Doble Remoto Joystick'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZQL6ZKY/?tag=tolees-21'
 descuento: '68.01'
 average: '31.99'

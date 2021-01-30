@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Nintendo - Figura Goomba Con Coin  10 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0117OQDSK/?tag=tolees-21'
 descuento: '58.86'
 average: '6.99'

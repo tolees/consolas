@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'Gioteck - Mando inalambrico negro Gioteck VX-4 para Playstation 4 y PC  PS 4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X5XZGQF/?tag=tolees-21'
 descuento: '25.01'
 average: '31.340000000000003'

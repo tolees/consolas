@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'eXtremeRate Dawn Programable Remap Kit PS4 Scuf Reasignación de Botones para Playstaion 4 con Mod Chip&Carcasa Trasera&4 Botones Traseros Compatible con PS4 JDM 040/050/055 Fibra de Carbono '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PM486PY/?tag=tolees-21'
 descuento: '30.24'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Hixon Batería de Xbox One y Cargador  2 Pilas 2500mAh Recargable y 1 Cargador para Controladores Inalámbricos Xbox One / One S / One X / One Elite'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VK38GPH/?tag=tolees-21'
 descuento: '37.51'
 average: '24.99'

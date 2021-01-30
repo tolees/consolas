@@ -16,6 +16,7 @@ comparePrice: 21.95 EUR
 prodname: 'Indeca - Auriculares casco PS4   PC  Xbox  Multiplataforma Moto GP 2018  PlayStation 4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079HCLQJV/?tag=tolees-21'
 descuento: '40.82'
 average: '12.99'

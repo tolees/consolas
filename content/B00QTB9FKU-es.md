@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Bigben Interactive - Auricular Plug&Play  Playstation 4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QTB9FKU/?tag=tolees-21'
 descuento: '77.49'
 average: '6.995'

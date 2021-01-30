@@ -16,6 +16,7 @@ comparePrice: 239.99 EUR
 prodname: 'Proyector4500 Lúmenes Excelvan Proyector de Video Portátil Resolución 1280*768P Soporte 1080P Full HD LCD Contraste 1000:1 1080P/USB/VGA/SD/HDMI para Viajes y casa Compatible con PS4 TV Box Mobile PC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R16J6GQ/?tag=tolees-21'
 descuento: '29.17'
 average: '167.76777777777778'

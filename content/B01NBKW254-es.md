@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Nacon Revolution Pro Controller para PS4 [Importación Inglesa]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NBKW254/?tag=tolees-21'
 descuento: '36.70'
 average: '82.33333333333333'

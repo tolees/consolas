@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Ztowoto Funda de Transporte Compatible con Nintendo Switch Lite  la última Funda Protectora portátil endurecida Nintendo Switch Lite de Estilo de diseño de Hoja para niñas y niños'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DXJ2F3Q/?tag=tolees-21'
 descuento: '36.86'
 average: '11.99'

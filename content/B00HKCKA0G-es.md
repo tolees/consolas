@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Tritton Kama - Auriculares estéreo de diadema cerrados   color negro  PS4  PS Vita '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00HKCKA0G/?tag=tolees-21'
 descuento: '56.69'
 average: '17.49'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Seagate Expansion STEA500400 - Disco duro externo portátil para PC  Xbox One y PlayStation 4  500GB  USB 3.0    Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00UNA1IPI/?tag=tolees-21'
 descuento: '18.34'
 average: '51.656666666666666'

@@ -16,6 +16,7 @@ comparePrice: 41.99 EUR
 prodname: 'Mando Inalámbrico para Nintendo Switch  REDSTORM Bluetooth Controlador para Switch  Switch Gamepad Joystick con Batería Recargable  Vibración  Turbo  Giroscopio Función para Switch/ Lite'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FC85BRP/?tag=tolees-21'
 descuento: '28.58'
 average: '29.99'

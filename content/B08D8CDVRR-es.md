@@ -16,6 +16,7 @@ comparePrice: 36.22 EUR
 prodname: 'Ocobudbxw Cámara con Sensor de Movimiento Ocular micrófono para Sony Playstation 3 PS3 Game'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D8CDVRR/?tag=tolees-21'
 descuento: '50.00'
 average: '18.11'

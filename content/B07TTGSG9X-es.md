@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'NBA 2K20 - Standard Edition - Nintendo Switch [Importación alemana]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TTGSG9X/?tag=tolees-21'
 descuento: '46.41'
 average: '35.995000000000005'

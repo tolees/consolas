@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Bovon Soporte Tablet para Coche  Soporte de Tablet para Reposacabezas de Coche  Giratorio 360° Universal para Asiento Trasero Soporte  para iPad Air/Pro  iPhone 11 Pro Max/XS MAX/X  Nintendo 5.5"-13" '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QWLFQNR/?tag=tolees-21'
 descuento: '60.02'
 average: '12.048823529411765'

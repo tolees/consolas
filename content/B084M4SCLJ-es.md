@@ -16,6 +16,7 @@ comparePrice: 180.0 EUR
 prodname: 'Disco Duro Externo 1 TB  Disco Duro Externo USB3.1 Type C para PC  Mac  PS4  Xbox One  MacBook  Desktop  Laptop  Chromebook. 1TB Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084M4SCLJ/?tag=tolees-21'
 descuento: '74.45'
 average: '45.99'

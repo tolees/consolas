@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Subsonic - Caso Rígido Con Licencia Oficial Real Madrid  New Nintendo 3DS  New Nintendo 3DS XL  PSP  PS Vita '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M9GB2PY/?tag=tolees-21'
 descuento: '25.02'
 average: '9.74'

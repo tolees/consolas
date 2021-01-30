@@ -16,6 +16,7 @@ comparePrice: 124.99 EUR
 prodname: 'Nacon Revolution Pro Controller - Mando alámbrico  color rojo  PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0746SDHT3/?tag=tolees-21'
 descuento: '30.12'
 average: '87.34'

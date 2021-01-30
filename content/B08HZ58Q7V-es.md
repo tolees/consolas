@@ -16,6 +16,7 @@ comparePrice: 110.05 EUR
 prodname: 'Disco Duro Externo 2TB  USB-C Disco Duro Externo para PC  Mac  Xbox One  MacBook  Desktop  Laptop  Chromebook. 2TB Plata '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HZ58Q7V/?tag=tolees-21'
 descuento: '41.85'
 average: '63.99'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'PDP - Mono Auricular Chat Afterglow LVL 1  Playstation 4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZJEMTLA/?tag=tolees-21'
 descuento: '47.83'
 average: '9.308333333333334'

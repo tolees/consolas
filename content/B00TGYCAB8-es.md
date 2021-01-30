@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Charging Station Para Mandos  PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00TGYCAB8/?tag=tolees-21'
 descuento: '28.01'
 average: '15.924545454545454'

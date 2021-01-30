@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Warriors Orochi 4 para PS4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DKWRLW6/?tag=tolees-21'
 descuento: '71.50'
 average: '19.95'

@@ -16,6 +16,7 @@ comparePrice: 51.98 EUR
 prodname: 'Suscripcion Xbox Game Pass  3 Meses Ultimate + 1 Mes Gratis | Xbox One/Windows 10 PC - Código de descarga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088WVQL6L/?tag=tolees-21'
 descuento: '24.99'
 average: '38.99'

@@ -16,6 +16,7 @@ comparePrice: 16.29 EUR
 prodname: 'P Prettyia Botón de Activación LB RB paa Parte de Reparación de Metal de Controlador de Microsoft Xbox One'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K4Q1BB4/?tag=tolees-21'
 descuento: '42.73'
 average: '9.33'

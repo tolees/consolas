@@ -16,6 +16,7 @@ comparePrice: 12.58 EUR
 prodname: 'Reemplazo Kit de Botón de Tapa L2 L1 R1 R2 Thumbstick para Sony PS4 Controlador Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FUBKJMC/?tag=tolees-21'
 descuento: '52.38'
 average: '6.49'

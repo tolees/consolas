@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Maegoo Mandos Controlador Inalámbrico para Nintendo Switch  Bluetooth Wireless Switch Pro Controller Soporte Dual Motor Incorporado Vibración Gyro-Axis y Función Turbo  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q3L4NBS/?tag=tolees-21'
 descuento: '71.68'
 average: '16.99'

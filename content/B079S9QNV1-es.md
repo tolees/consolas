@@ -16,6 +16,7 @@ comparePrice: 22.69 EUR
 prodname: 'LA Noire PS4 - PlayStation 4 [Importación inglesa]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079S9QNV1/?tag=tolees-21'
 descuento: '15.69'
 average: '19.13'

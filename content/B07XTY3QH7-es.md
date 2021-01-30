@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Dragon Ball Z: Kakarot Deluxe Edition - PlayStation 4 [Importación alemana]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XTY3QH7/?tag=tolees-21'
 descuento: '16.98'
 average: '74.71'

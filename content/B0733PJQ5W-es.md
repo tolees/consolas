@@ -16,6 +16,7 @@ comparePrice: 6.8 EUR
 prodname: '4X PS4 analógico controlador de joystick tapa tapa palanca de mando para Sony'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0733PJQ5W/?tag=tolees-21'
 descuento: '77.50'
 average: '1.53'

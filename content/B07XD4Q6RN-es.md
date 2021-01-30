@@ -16,6 +16,7 @@ comparePrice: 49.97 EUR
 prodname: 'KLIM ™ Rush - Auriculares Gaming + Diadema cómoda y Ajustable + Cascos con micrófono + Clavija Jack de 3 5 mm + Cascos Gaming PS4 PC Mac Xbox One Switch iOS Android + 5 años de garantía + NUEVOS 2020'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XD4Q6RN/?tag=tolees-21'
 descuento: '20.01'
 average: '37.306666666666665'

@@ -16,6 +16,7 @@ comparePrice: 12.89 EUR
 prodname: '3x Pegatina Cubierta Adhesiva Impreso Estrella Rosada Atractivo para Sony PlayStation 4 PS4 Consola Controlador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IFDRJ7A/?tag=tolees-21'
 descuento: '44.45'
 average: '7.16'

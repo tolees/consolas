@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Disco Duro Externo 2tb USB3.0 Disco Duro Externo para Mac  PC  Desktop  Laptop  MacBook  Xbox One  2tb  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C2GZ43S/?tag=tolees-21'
 descuento: '46.67'
 average: '63.99'

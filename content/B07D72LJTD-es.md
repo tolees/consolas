@@ -16,6 +16,7 @@ comparePrice: 27.15 EUR
 prodname: 'Cargador para mando de PS4  estación de carga USB para Sony Playstation 4/PS4 Slim/PS4 Pro Controller'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D72LJTD/?tag=tolees-21'
 descuento: '27.07'
 average: '19.8'

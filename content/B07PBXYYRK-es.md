@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Nacon Asymmetric - Mando inalámbrico [Versión Española]  PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PBXYYRK/?tag=tolees-21'
 descuento: '25.15'
 average: '38.26875'

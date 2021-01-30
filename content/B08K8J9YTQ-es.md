@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'eXtremeRate Protector para Dock de Nintendo Switch Dock Cover Carcasa Accesorios Funda Dock Placa Personalizada Shell de Reemplazo Case para Nintendo Switch Dock-No Incluye Dock Transparente Claro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08K8J9YTQ/?tag=tolees-21'
 descuento: '40.02'
 average: '14.99'

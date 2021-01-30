@@ -16,6 +16,7 @@ comparePrice: 71.4 EUR
 prodname: 'Orzly Gaming Keyboard and Mouse and Mouse Pad and Gaming Headset  Wired LED RGB Backlight Bundle for PC Gamers and Xbox and PS4 Users - 4 in 1 Gift Box Edition Hornet RX-250  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V4NWHN4/?tag=tolees-21'
 descuento: '35.94'
 average: '45.74'

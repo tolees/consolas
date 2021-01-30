@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'EMPIRE GAMING - Micrófono USTREAM USB Ideal para el Gaming y Live Streaming - Compatible PC  Mac  PS4  Xbox One y Aplicaciones: Twitch  Youtube  Discord - Negro/Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079VFPQFQ/?tag=tolees-21'
 descuento: '39.83'
 average: '17.99'

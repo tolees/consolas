@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'eXtremeRate Compatible con Nintendo Switch Pegatina antiarañazos para Resolver el Problema de Rayado en la Dock Base'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071CM9PTT/?tag=tolees-21'
 descuento: '52.66'
 average: '8.99'

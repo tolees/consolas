@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Timorn 12 Pines del Interruptor de alimentación del Cable de Cinta para Sony PS4 versión 2 del Controlador de Playstation 4 Dualshock 4  1pcs '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01FUGKI50/?tag=tolees-21'
 descuento: '53.89'
 average: '5.99'

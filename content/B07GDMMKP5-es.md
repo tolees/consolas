@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Gioteck - Auricular Estereo con cable azul y negro TX-30 Multiplataforma  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GDMMKP5/?tag=tolees-21'
 descuento: '29.87'
 average: '14.057500000000001'

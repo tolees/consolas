@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Carrera- Nintendo Mario Kart-Mach 8 Juego con Coches  Multicolor  Stadlbauer 20062492 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PGHYLDF/?tag=tolees-21'
 descuento: '15.00'
 average: '59.49'

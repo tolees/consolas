@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'FR·TEC -  Pack 3 Led Stickers para el mando Dualshock de Playstation 4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071YVJ54C/?tag=tolees-21'
 descuento: '54.85'
 average: '1.35'

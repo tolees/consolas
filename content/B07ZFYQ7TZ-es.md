@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'FR-TEC - Auriculares Gaming Headset SHIELD Rojo  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZFYQ7TZ/?tag=tolees-21'
 descuento: '28.01'
 average: '14.675999999999998'

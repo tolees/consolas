@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Nintendo Pikachu Amiibo - Figuras de acción y de colección  Collectible Figure  Multicolor '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00N8PBYK4/?tag=tolees-21'
 descuento: '23.79'
 average: '10.407499999999999'

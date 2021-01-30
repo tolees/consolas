@@ -16,6 +16,7 @@ comparePrice: 1.99 EUR
 prodname: 'Blade - Grips Woxter  Color Azul  PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018SZFTWW/?tag=tolees-21'
 descuento: '21.11'
 average: '1.57'

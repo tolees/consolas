@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Intruders: Hide and Seek  PS4 Español  [Importación alemana]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZ21ZPK/?tag=tolees-21'
 descuento: '25.01'
 average: '12.863333333333333'

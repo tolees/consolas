@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'eXtremeRate Carcasa Joy-con para Nintendo Switch Funda de Agarre de reemplazo Shell de Bricolaje con Botón Completo Accesorios para Nintendo Switch No Incluye Carcasa de Consola Efectivo 100$ Dorado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B5XR79Y/?tag=tolees-21'
 descuento: '33.34'
 average: '21.99'

@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Timorn Puerto de Enchufe de alimentación USB Puerto de Conector para PS4 Controlador Cargador de sustitución de Puerto  1pc '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N1GKANJ/?tag=tolees-21'
 descuento: '40.04'
 average: '5.99'

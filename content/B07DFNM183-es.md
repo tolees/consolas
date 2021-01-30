@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Pack Pegatinas [150-PCS] Q-Window Stickers Vinilo Graffiti Calcomanías Pegatina para Coche Moto Infantiles Pared Teclado IPhone Ps4 Niños Bicicleta Ordenador Equipaje Snowboard Macbook Xbox One bomb'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFNM183/?tag=tolees-21'
 descuento: '55.03'
 average: '6.816666666666667'

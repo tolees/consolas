@@ -16,6 +16,7 @@ comparePrice: 26.4 EUR
 prodname: 'Beyond Two Souls + Heavy Rain PS4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ARPMSFM/?tag=tolees-21'
 descuento: '19.58'
 average: '24.02'

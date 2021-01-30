@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'PowerA - Mando inalámbrico mejorado Pokémon Graffiti  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VXBKGBQ/?tag=tolees-21'
 descuento: '20.76'
 average: '42.373333333333335'

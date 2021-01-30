@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Hori - Auriculares Switch Azul/Rojo Neón  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ALIW8AK/?tag=tolees-21'
 descuento: '17.61'
 average: '20.7'

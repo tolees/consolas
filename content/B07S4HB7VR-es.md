@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'QWDDECO Sticker Pack  360 PCS  Vinilo Pegatinas para portátiles  botellas de agua  equipaje  monopatín  PS4  Xbox one  Iphone  los mejores regalos para adultos  adolescentes  niños y niñas.Calcomanías'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S4HB7VR/?tag=tolees-21'
 descuento: '46.68'
 average: '15.99'

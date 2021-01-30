@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'PDP - Auricular Stereo Gaming LVL40 Con Cable  Negro Camo  PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VD8FZ92/?tag=tolees-21'
 descuento: '20.67'
 average: '23.79'

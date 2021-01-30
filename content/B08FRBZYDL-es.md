@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'eXtremeRate 2 Protectores de Pantalla para Nintendo Switch Lite Protector de Pantalla de Vidrio Templado Transparente HD con Borde Colores Anti-arañazos Anti-Huella Inastillable Sin Burbujas Sakura '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FRBZYDL/?tag=tolees-21'
 descuento: '41.62'
 average: '14.59'

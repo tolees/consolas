@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Pdp - Auriculares Stereo AG 6 con Licencia Oficial Sony  PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074PM7SMP/?tag=tolees-21'
 descuento: '52.63'
 average: '30.07'

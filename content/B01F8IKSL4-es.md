@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'mini kitty 2 en 1 Mando Plus con Motion Plus y Nunchunk para Nintendo Wii + Funda de Silicona - Azul Claro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01F8IKSL4/?tag=tolees-21'
 descuento: '42.84'
 average: '23.993333333333332'

@@ -16,6 +16,7 @@ comparePrice: 2.79 EUR
 prodname: 'LoveOlvidoE 2 unids Universal 3D Thumbstick Cap Aleación De Aluminio Metálico Analógico Analógico Joystick Stick Módulo para PS4 Xbox One Controlador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MGTD1FY/?tag=tolees-21'
 descuento: '31.90'
 average: '1.9'

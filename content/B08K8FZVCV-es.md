@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'eXtremeRate Carcasa para Xbox One Elite Protectora Tacto Suave Placa Frontal reemplazo Kit Cubierta Shell Funda para Mando Xbox One Elite Series 2 Modelo 1797-Incluye Anillos de Joysticks Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08K8FZVCV/?tag=tolees-21'
 descuento: '40.02'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Hori - Fighting Stick Mini  Edición Street Fighter II Chun-Li  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SYNK2MR/?tag=tolees-21'
 descuento: '20.00'
 average: '47.656666666666666'

@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Timorn Piezas de Reparación Torx T8 Tornillos Conjunto Reemplazo para Xbox 360 Wireless Controller  20 Juegos '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06ZYJQWK7/?tag=tolees-21'
 descuento: '34.63'
 average: '16.99'

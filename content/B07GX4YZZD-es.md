@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'PDP - Funda Slim Travel Case Edición Poke Ball  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GX4YZZD/?tag=tolees-21'
 descuento: '27.07'
 average: '12.790000000000001'

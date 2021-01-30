@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Mando para Nintendo Switch RegeMoudal para Nintendo Switch Pro Controller Controlador Inalámbrico con Función Gyro Axis/Double Shock y Turbo Bluetooth Gamepad para Nintendo Switch/Switch Lite'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T4J59MP/?tag=tolees-21'
 descuento: '21.06'
 average: '29.99'

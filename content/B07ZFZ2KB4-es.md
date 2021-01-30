@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'FR-TEC - Auriculares Gaming Headset Sword Azul  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZFZ2KB4/?tag=tolees-21'
 descuento: '17.36'
 average: '16.52'

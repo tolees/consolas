@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Two Dots - Mando Con Cable Pro Pad 4  PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JIX6KWG/?tag=tolees-21'
 descuento: '50.00'
 average: '21.623333333333335'

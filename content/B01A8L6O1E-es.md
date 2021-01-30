@@ -16,6 +16,7 @@ comparePrice: 189.99 EUR
 prodname: 'Hori - Real Arcade Pro Soulcalibur VI  Xbox One  PC '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01A8L6O1E/?tag=tolees-21'
 descuento: '55.00'
 average: '102.595'

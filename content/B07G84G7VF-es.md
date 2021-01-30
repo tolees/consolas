@@ -16,6 +16,7 @@ comparePrice: 112.99 EUR
 prodname: 'MiraBox Game Capture HDMI - USB 3.0 1080P 60FPS HD Dispositivo de transmisión para Playstation 4  Xbox One  Xbox 360 - Compatible con Windows Linux Mac'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G84G7VF/?tag=tolees-21'
 descuento: '27.79'
 average: '102.62333333333333'

@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'ShinePick Auriculares Gaming  3.5mm Cancelación De Ruido Gaming Headset  Juego Auriculares con Micrófono para Nintendo Switch Xbox One PS4 Portátil Mac Tablet  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GDGV15Y/?tag=tolees-21'
 descuento: '16.67'
 average: '19.99'

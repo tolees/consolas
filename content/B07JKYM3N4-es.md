@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'NUBWO N12 Xbox One PS4 auriculares para juegos  auriculares estéreo con cable con control de volumen y silencio  auriculares con micrófono de reducción de ruido para Nintendo Switch'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JKYM3N4/?tag=tolees-21'
 descuento: '35.01'
 average: '25.99'

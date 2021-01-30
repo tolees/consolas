@@ -16,6 +16,7 @@ comparePrice: 65.97 EUR
 prodname: '⭐️KLIM Lightning AZERTY - Nueva Versión - Teclado Híbrido Semi-Mécanique + Elección de 7 Colores + GARANTÍA 5 Años - Estructura de Metal - Teclado Gamer Gaming Juegos Video PC PS4 Windows  Mac'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071SGN34W/?tag=tolees-21'
 descuento: '39.41'
 average: '39.97'

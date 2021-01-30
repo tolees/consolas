@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'EasyAcc G1 Virtual 7.1 - Juego de Auriculares para Videojuegos  Sonido Envolvente  funci¨®n de vibraci¨®n  USB  para Juegos de Ordenador  PS4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G53FAFK/?tag=tolees-21'
 descuento: '30.19'
 average: '27.22'

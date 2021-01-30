@@ -16,6 +16,7 @@ comparePrice: 30.64 EUR
 prodname: '6amLifestyle Accesorios para Nintendo Switch Lite'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WNL7WFL/?tag=tolees-21'
 descuento: '52.94'
 average: '14.42'

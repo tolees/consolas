@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Disco duro externo  1 TB 2 TB de disco duro ultradelgado USB 3.0 portátil almacenamiento externo para PC  portátil  Xbox One  Mac  2 TB  plata   color plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089KSKJ4Y/?tag=tolees-21'
 descuento: '23.34'
 average: '45.99'

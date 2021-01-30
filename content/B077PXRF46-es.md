@@ -16,6 +16,7 @@ comparePrice: 19.5 EUR
 prodname: 'Trust Gaming GXT 219 - Hub USB para PS4 Slim  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077PXRF46/?tag=tolees-21'
 descuento: '38.51'
 average: '15.79'

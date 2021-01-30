@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'KontrolFreek - FPS Freek Vortex  PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EZV6HHU/?tag=tolees-21'
 descuento: '33.62'
 average: '9.95'

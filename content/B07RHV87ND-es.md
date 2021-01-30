@@ -16,6 +16,7 @@ comparePrice: 33.9 EUR
 prodname: 'Leisure Suit: Larry - Wet Dreams Don t Dry - PS4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RHV87ND/?tag=tolees-21'
 descuento: '20.38'
 average: '28.455'

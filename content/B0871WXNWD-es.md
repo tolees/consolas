@@ -16,6 +16,7 @@ comparePrice: 88.9 EUR
 prodname: 'Laelr Controladores inalámbricos más recientes para Nintendo Switch Mini controlador izquierdo y derecho Mini vibración Gamepad Joystick Controlador Bluetooth para controles remotos N-Switch'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0871WXNWD/?tag=tolees-21'
 descuento: '54.03'
 average: '40.87'

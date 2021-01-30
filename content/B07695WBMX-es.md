@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'AUKEY Quick Charge 3.0 Bateria Externa 26500mAh  Cargador Portatil con 2 Ports para phones  Nintendo Switch y más'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07695WBMX/?tag=tolees-21'
 descuento: '33.75'
 average: '52.99'

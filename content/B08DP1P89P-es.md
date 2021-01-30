@@ -16,6 +16,7 @@ comparePrice: 94.55 EUR
 prodname: 'Controller para Nintendo Switch  EasySMX Mandos Nintendo Switch'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DP1P89P/?tag=tolees-21'
 descuento: '62.34'
 average: '35.61'

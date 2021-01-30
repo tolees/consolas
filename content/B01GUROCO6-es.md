@@ -16,6 +16,7 @@ comparePrice: 6.5 EUR
 prodname: 'Interesting® 4 Pcs Pulgar Palo apretones Tapa Joystick Stick Grips Silicona Tapones de Cubren para PS4 PS3 PS2 Xbox un 360 Juego Cat Paw'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GUROCO6/?tag=tolees-21'
 descuento: '38.62'
 average: '3.99'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'eXtremeRate Carcasa Trasera para Consola de Nintendo Switch Funda Case Shell de Bricolaje Cubierta de reemplazo con Soporte para Nintendo Switch No Incluye la Carcasa de Joy-con Verde Esmeralda '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C9S9Q5P/?tag=tolees-21'
 descuento: '40.02'
 average: '14.99'

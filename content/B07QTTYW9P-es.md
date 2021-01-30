@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Final Fantasy XIV: Shadowbringers - Complete Edition  PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QTTYW9P/?tag=tolees-21'
 descuento: '36.37'
 average: '39.224'

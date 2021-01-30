@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Disco Duro Externo 2 TB USB-C Disco Duro Externo para PC  Mac  Xbox One  MacBook. 2TB Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CMG5RC1/?tag=tolees-21'
 descuento: '41.29'
 average: '63.99'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Elyco Cuerda Saltar para Nintendo Switch Jump Rope Challenge  Ajustable Sin Enredos Jump Rope con Asas para Hombre Mujer Adulto Fitness para Switch Joy-con'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C4Y5GHY/?tag=tolees-21'
 descuento: '30.02'
 average: '13.323333333333334'

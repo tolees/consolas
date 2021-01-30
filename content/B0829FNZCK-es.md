@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Gioteck - Mando inalambrico Bluetooth negro Gioteck WX-4  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0829FNZCK/?tag=tolees-21'
 descuento: '20.01'
 average: '19.99'

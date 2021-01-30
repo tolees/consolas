@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Wireless Nintendo Switch Mandos  Maegoo Nintendo Switch Controller Gamepad Joystick para Switch con Gyro Axis Dual Shock Vibration Gamepad Nintendo inalámbrico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DDB6B4K/?tag=tolees-21'
 descuento: '58.01'
 average: '25.19'

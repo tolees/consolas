@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Razer Kraken 7.1 V2: sonido envolvente 7.1 - Micrófono retráctil con cancelación de ruido - Marco de aluminio liviano - Los auriculares para juegos funcionan con PC  PS4 / PS4 PR0 - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071CMTM2V/?tag=tolees-21'
 descuento: '17.17'
 average: '231.16000000000003'

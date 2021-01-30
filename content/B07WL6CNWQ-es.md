@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'Hori - Protector de pantalla  Nintendo Switch Lite '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WL6CNWQ/?tag=tolees-21'
 descuento: '19.40'
 average: '6.635'

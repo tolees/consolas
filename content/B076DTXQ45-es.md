@@ -16,6 +16,7 @@ comparePrice: 14.38 EUR
 prodname: 'Sharplace 2pcs Analogico Silicona Cap Joystick Thumb Stick Funda de Protectora Controlador para Mando Xbox one / Xbox 360'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076DTXQ45/?tag=tolees-21'
 descuento: '58.34'
 average: '5.7975'

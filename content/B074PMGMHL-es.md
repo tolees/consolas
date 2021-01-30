@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Nuevo SADES SA810 Multi-Platform Auriculares Gaming  3.5mm Gaming auriculares con micrófono inteligente cancelación de ruido para nueva Xbox One/PS4/portátil/Mac/iPad/iPod negro& azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074PMGMHL/?tag=tolees-21'
 descuento: '42.51'
 average: '22.99'

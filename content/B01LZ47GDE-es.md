@@ -16,6 +16,7 @@ comparePrice: 18.9 EUR
 prodname: 'PlayStation VR Worlds'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LZ47GDE/?tag=tolees-21'
 descuento: '29.63'
 average: '14.385'

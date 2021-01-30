@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'eXtremeRate Grip para Mando Xbox One S/X Empuñaduras Accesorios Asa Izquierda Derecha Mango de reemplazo Carcasa de Grip Agarre para Mando de Xbox One S Xbox One X Model 1708  De Azul a Violeta'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FT3VV8F/?tag=tolees-21'
 descuento: '47.64'
 average: '10.99'

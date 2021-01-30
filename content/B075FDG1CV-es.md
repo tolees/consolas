@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Cargador De Coche Mario POW  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075FDG1CV/?tag=tolees-21'
 descuento: '38.08'
 average: '11.14'

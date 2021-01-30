@@ -16,6 +16,7 @@ comparePrice: 15.97 EUR
 prodname: 'De Silicona Cubierta De La Caja Protectora De La Piel Para El Regulador Del Juego De Xbox 360 - Gris Camo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K76JY3G/?tag=tolees-21'
 descuento: '37.51'
 average: '9.98'

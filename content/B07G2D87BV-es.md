@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Auriculares Gaming Stereo Sony Oficial PS4 Bigben Interactive'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G2D87BV/?tag=tolees-21'
 descuento: '73.99'
 average: '15.492857142857142'

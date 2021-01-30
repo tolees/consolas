@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'PowerA - Mando inalámbrico mejorado Spyro  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VQPFXQ8/?tag=tolees-21'
 descuento: '20.04'
 average: '43.263333333333335'

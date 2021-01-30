@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'eXtremeRate Prueba de Polvo Consola PS4 Funda Cubierta Protectora Horizontal Diseño de Doble Capa Forro Corte Preciso Fácil de Acceso los Cables Guardapolvo para Consola Playstation 4 PS4 Pro Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076PBR9SD/?tag=tolees-21'
 descuento: '48.02'
 average: '12.99'

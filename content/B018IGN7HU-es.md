@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Nintendo - Figura amiibo Animal Crossing Estela'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018IGN7HU/?tag=tolees-21'
 descuento: '38.49'
 average: '7.99'

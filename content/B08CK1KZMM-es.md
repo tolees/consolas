@@ -16,6 +16,7 @@ comparePrice: 112.18 EUR
 prodname: 'Disco Duro Externo 2 TB  Disco Duro Externo para PC  Mac Xbox  MacBook  Laptop 2TB Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CK1KZMM/?tag=tolees-21'
 descuento: '42.96'
 average: '63.99'

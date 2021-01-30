@@ -16,6 +16,7 @@ comparePrice: 18.21 EUR
 prodname: 'Lego DC Super-Villans Xbox One  Edición Estándar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FFSFXJ6/?tag=tolees-21'
 descuento: '17.90'
 average: '17.845'

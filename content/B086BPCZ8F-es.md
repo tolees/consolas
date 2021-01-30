@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'RCA a HDMI  DIGITNOW! 3 RCA Compuestas AV a HDMI Convertidor de Video y Audio Soporte 1080P con Cable de USB para PC/Laptop/Xbox / PS4 / PS3 / TV/STB/VCR Cámara DVD -Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086BPCZ8F/?tag=tolees-21'
 descuento: '35.31'
 average: '10.626363636363635'

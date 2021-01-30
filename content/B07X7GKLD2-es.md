@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Forefront Cases Protector Pantalla para Nintendo Switch Lite - 5 Unidad - Protector Pantalla Nintendo Switch Lite PET - Cobertura de Pantalla Borde a Borde  Ultrafina 0 1 mm  Claridad HD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X7GKLD2/?tag=tolees-21'
 descuento: '75.68'
 average: '1.7'

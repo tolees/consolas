@@ -16,6 +16,7 @@ comparePrice: 12.11 EUR
 prodname: 'My time at Portia - PS4 [Importación francesa]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07P7QJJM2/?tag=tolees-21'
 descuento: '19.41'
 average: '9.76'

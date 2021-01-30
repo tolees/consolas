@@ -16,6 +16,7 @@ comparePrice: 5.54 EUR
 prodname: 'Baoblaze Reparación de Motor de Vibración a Izquierda 3D para Sony Playstation 4 Ps4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KDPDLRZ/?tag=tolees-21'
 descuento: '44.40'
 average: '3.08'

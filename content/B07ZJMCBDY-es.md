@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Spongebob SquarePants: Battle for Bikini Bottom Rehydrated - Edición Shiny  Xbox One '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZJMCBDY/?tag=tolees-21'
 descuento: '47.58'
 average: '78.62'

@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Hori - Flight Stick Ace Combat 7  PS4  PS3  PC '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07LFS2JK6/?tag=tolees-21'
 descuento: '51.63'
 average: '121.292'

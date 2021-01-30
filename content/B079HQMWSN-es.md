@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'This is the Police 2 - Xbox One'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079HQMWSN/?tag=tolees-21'
 descuento: '40.01'
 average: '17.99'

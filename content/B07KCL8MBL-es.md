@@ -16,6 +16,7 @@ comparePrice: 12.19 EUR
 prodname: '8x Almohadillas de Pies para Controlador de Playstation 4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KCL8MBL/?tag=tolees-21'
 descuento: '44.46'
 average: '6.77'

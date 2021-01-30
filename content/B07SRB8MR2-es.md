@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Sniper: Ghost Warrior - Contracts PS4  French Version '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SRB8MR2/?tag=tolees-21'
 descuento: '15.00'
 average: '29.6725'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Saints Row The Third Remastered - PlayStation 4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086TFK7Y2/?tag=tolees-21'
 descuento: '21.26'
 average: '31.49'

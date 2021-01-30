@@ -16,6 +16,7 @@ comparePrice: 46.68 EUR
 prodname: 'Controlador para PS4 Achort Wireless Controlador Mando Inalámbrico Gamepad Dualshock Joystick con Bluetooth y conexión por cable 4 4 botones de ala para PS4/PS4 Slim/PS4 Pro/PC negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08218NLGR/?tag=tolees-21'
 descuento: '31.47'
 average: '31.99'

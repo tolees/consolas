@@ -16,6 +16,7 @@ comparePrice: 25.97 EUR
 prodname: 'KLIM™ Voice V2 + Micrófono USB de Escritorio + Nuevo 2020 + Óptima Calidad de Sonido + Ideal para grabación y reconocimiento de Voz  Streaming  Youtube  Podcast + Compatible Windows Mac PS4 + Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QYTWX3G/?tag=tolees-21'
 descuento: '25.18'
 average: '19.43'

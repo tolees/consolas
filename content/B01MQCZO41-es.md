@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Timorn 4 Pares / 8PCS palillo analógico del Pulgar de los Dedos agarran la Cubierta del Casquillo para la estación del Juego 4 regulador PS4  Naranja '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MQCZO41/?tag=tolees-21'
 descuento: '30.03'
 average: '6.99'

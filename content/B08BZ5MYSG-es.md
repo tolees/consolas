@@ -16,6 +16,7 @@ comparePrice: 61.65 EUR
 prodname: 'Joy-Con - Mando de repuesto para Nintendo Switch  Izquierdo y Derecho con correas para función de despertar  amarillo y verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BZ5MYSG/?tag=tolees-21'
 descuento: '20.31'
 average: '49.13'

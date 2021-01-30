@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Indeca - Bolsa Coca-Cola  PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BN1H7GS/?tag=tolees-21'
 descuento: '24.86'
 average: '13.323333333333334'

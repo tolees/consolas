@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'BlueFire Cascos Gaming con Micrófono  Auriculares PS4 Reducción de Sonido y Control de Volumen Gaming Headset con Conector Jack 3.5mm y Luces led para Xbox One  PS4  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GDHPRSN/?tag=tolees-21'
 descuento: '50.01'
 average: '17.99'

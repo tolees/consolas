@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Batería HAC-003 de Repuesto Antank para Consola de Juegos Nintendo Switch [2017]  Batería de 4310 mAh con Kit de Herramientas de Reparación de Bricolaje'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FC2DCZS/?tag=tolees-21'
 descuento: '20.01'
 average: '23.99'

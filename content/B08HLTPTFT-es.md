@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Disco Duro Externo 1 TB USB3.0 para PC  Mac  MacBook  Xbox One  1TB Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HLTPTFT/?tag=tolees-21'
 descuento: '33.35'
 average: '45.99'

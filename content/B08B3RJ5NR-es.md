@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Disco Duro Externo 2 TB Type C USB3.1 Disco Duro Externo para PC  Mac  Xbox One  MacBook  Desktop  Laptop  Chromebook. 2TB Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B3RJ5NR/?tag=tolees-21'
 descuento: '34.35'
 average: '64.99'

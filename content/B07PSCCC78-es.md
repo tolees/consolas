@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Redragon H510 ZEUS - Cascos headset cómodos para Gaming - Audio de Alta Definición + Potentes Bajos - Auriculares de Diadema con Micrófono para Videojuegos PC  Móvil  PS4 - Sonido 7.1 + Software'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PSCCC78/?tag=tolees-21'
 descuento: '23.22'
 average: '45.99'

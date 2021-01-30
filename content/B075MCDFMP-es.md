@@ -16,6 +16,7 @@ comparePrice: 6.38 EUR
 prodname: 'Cewaal 10Pcs Joystick Cap Case Grips Analog Cubierta del palillo del pulgar del reemplazo Para PS4 PS3 360 Xbox One Controller'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075MCDFMP/?tag=tolees-21'
 descuento: '50.00'
 average: '3.19'

@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Belkin Boost Charge 20K - Batería Externa USB-C + Cable USB-C  USB Power Delivery con 20100 mAh para MacBook  iPad Pro  Surface Pro  Nintendo Switch  iPhone y iPad '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G1HM32K/?tag=tolees-21'
 descuento: '61.54'
 average: '48.72461538461539'

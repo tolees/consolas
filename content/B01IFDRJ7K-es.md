@@ -16,6 +16,7 @@ comparePrice: 11.34 EUR
 prodname: '3x Pegatina Cubierta Adhesiva para Sony PlayStation 4 PS4 Consola Controlador Diseño de Esqueleto Impreso'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IFDRJ7K/?tag=tolees-21'
 descuento: '44.44'
 average: '6.3'

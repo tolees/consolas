@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Trust Gaming GXT 344 Creon - Auriculares Gaming para PC  PS4 y Xbox con micrófono Ajustable y Sonido estéreo  Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075D3FSQ3/?tag=tolees-21'
 descuento: '34.01'
 average: '34.585'

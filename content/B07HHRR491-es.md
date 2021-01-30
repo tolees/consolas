@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'Jump Force - Collector s Edition  Playstation 4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HHRR491/?tag=tolees-21'
 descuento: '56.68'
 average: '140.36538461538464'

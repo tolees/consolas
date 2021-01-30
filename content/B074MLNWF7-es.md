@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'JEU Console KOEI TECMO Warriors All Stars PS4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074MLNWF7/?tag=tolees-21'
 descuento: '71.66'
 average: '18.798'

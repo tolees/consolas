@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Fosmon Mini Bluetooth Keyboard con touchpad  Teclado Portátil Mini Inalámbrico Bluetooth QWERTY para iPhone 7  7 Plus  6s  6s Plus  Galaxy S7  S7 Edge  Moto G3  LG G3 teléfono Inteligente  PS4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BX0YKX4/?tag=tolees-21'
 descuento: '27.60'
 average: '20.99'

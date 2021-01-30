@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'BlueFire Cascos para Xbox One PS4  Auriculares Gaming Bajo Envolvente Estéreo de Luz LED con Micrófono 3.5mm Puerto Compatible con Xbox One  PS4 PC y Smartphone  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GDFCX4N/?tag=tolees-21'
 descuento: '50.01'
 average: '17.99'

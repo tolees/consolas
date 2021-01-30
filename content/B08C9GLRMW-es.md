@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'eXtremeRate Carcasa Semitransparente para Joy-con de Nintendo Switch Botones Funda Case de Agarre Joycon Shell con Botón Completo para Nintendo Switch-No Incluye Carcasa de Consola Verde Esmeralda '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C9GLRMW/?tag=tolees-21'
 descuento: '36.22'
 average: '18.49'

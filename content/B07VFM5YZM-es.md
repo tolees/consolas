@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: '[2 Pack] UniqueMe Protector de Pantalla para Nintendo Switch Lite  Vidrio Templado [ 9H Dureza ] [Sin Burbujas] HD Film Cristal Templado para Nintendo Switch Lite con Garantía de Reemplazo de por Vida'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VFM5YZM/?tag=tolees-21'
 descuento: '50.03'
 average: '7.99'

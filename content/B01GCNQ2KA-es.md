@@ -16,6 +16,7 @@ comparePrice: 7.83 EUR
 prodname: 'Reemplazo Accesorios Kit de Botones Enchapados para Sony PS4 Controlador Oro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GCNQ2KA/?tag=tolees-21'
 descuento: '45.72'
 average: '4.25'

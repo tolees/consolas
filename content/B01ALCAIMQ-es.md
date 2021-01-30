@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'KINGTOP PS4 Fan Universal Ventilador de Refrigeración Soporte para Playstation PS4 Dos Ventiladores Soporte Vertical Enfriador para los Controladores PS4/PS4 Pro/PS4 Slim [3 En 1]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ALCAIMQ/?tag=tolees-21'
 descuento: '15.91'
 average: '16.81'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Cocoda Cascos Gaming para PS4 Nintendo Switch Xbox One  Ligero Auriculares Gaming con Luz LED & Control del Volumen & Cancelación Ruido  Diadema Ajustable Cascos con Microfono para PC Laptop Mac'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086QKBQ15/?tag=tolees-21'
 descuento: '15.04'
 average: '28.862499999999997'

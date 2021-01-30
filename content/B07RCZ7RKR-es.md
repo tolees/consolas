@@ -16,6 +16,7 @@ comparePrice: 54.81 EUR
 prodname: 'Universal volante y pedales para PC  PlayStation 3/4  PS3 / PS4 y Xbox One'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RCZ7RKR/?tag=tolees-21'
 descuento: '16.49'
 average: '45.77'

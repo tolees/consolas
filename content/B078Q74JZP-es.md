@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Nuwa - Mando Inalámbrico  Color Negro  PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078Q74JZP/?tag=tolees-21'
 descuento: '23.43'
 average: '26.8'

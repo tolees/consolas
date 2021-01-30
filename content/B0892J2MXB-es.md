@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'WesKimed DAC Convertidor Digital a Analógico Adaptador Audio Óptico Toslink Coaxial a RCA L/r Jack Digital a Analógico Soporte Pcm/lpcm para HDTV Ps3 Ps4 Xbox HDTV DVD BLU-Ray Amplificador AV'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0892J2MXB/?tag=tolees-21'
 descuento: '40.47'
 average: '10.9'

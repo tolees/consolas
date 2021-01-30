@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'eXtremeRate Carcasa para Xbox One Funda Delantera con Agarre Izquierdo Derecho Protectora de la Placa Cubierta Antideslizante Asa Mango para Mando de Xbox One S/X-Model 1708 Violeta Transparente '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HDJKYLF/?tag=tolees-21'
 descuento: '38.48'
 average: '15.99'

@@ -16,6 +16,7 @@ comparePrice: 21.91 EUR
 prodname: 'Lincci - Funda rígida para Nintendo Switch  con cartuchos '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MJGKL6T/?tag=tolees-21'
 descuento: '48.74'
 average: '11.14'

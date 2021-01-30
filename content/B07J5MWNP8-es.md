@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Hori - Controlador D-Pad  L  Pikachu  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J5MWNP8/?tag=tolees-21'
 descuento: '28.58'
 average: '23.303333333333335'

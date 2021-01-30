@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'eXtremeRate Botones para Nintendo Switch Botón ABXY Botón de Dirección Botón de Disparador Resorte reemplazo Teclas SR SL L R ZR ZL con Herramientas para JoyCon  No Incluye Carcasa Coral '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B5YFPRH/?tag=tolees-21'
 descuento: '43.50'
 average: '12.99'

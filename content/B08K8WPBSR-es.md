@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'eXtremeRate Carcasa para Nintendo Switch Lite Protector Completo de NSL Mando Portátil Funda Personalizada Cubierta Suave al Tacto Case Shell con Protector de Pantalla para Switch Lite Clásico NES '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08K8WPBSR/?tag=tolees-21'
 descuento: '23.26'
 average: '32.99'

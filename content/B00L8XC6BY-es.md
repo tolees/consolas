@@ -16,6 +16,7 @@ comparePrice: 9.3 EUR
 prodname: 'Mackuna Flex Plus 0.2M Cable de extensión HDMI Audio - Video con Ethernet  1080P  4k2k  PS4  Xbox One  DVD  BLU-Ray  Sky HD  Virgin Box  UHD  Full HD  Plasma & TV LED  3D TV Plomo  ARC  Dolby TrueHD'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L8XC6BY/?tag=tolees-21'
 descuento: '20.00'
 average: '7.44'

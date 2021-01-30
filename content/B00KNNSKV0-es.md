@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'PROZOR DAC Convertidor Digital a Analógico 192kHz Adaptador Audio Óptico Toslink Coaxial a RCA L/R 3.5mm Jack Digital a Analógico Soporte PCM/LPCM para HDTV PS3 PS4 DVD BLU-Ray Amplificador AV'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KNNSKV0/?tag=tolees-21'
 descuento: '28.44'
 average: '13.23'

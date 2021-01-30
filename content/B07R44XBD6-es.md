@@ -16,6 +16,7 @@ comparePrice: 25.4 EUR
 prodname: 'WANPOOL - Soporte para reposacabezas de Coche para Tablets y teléfonos con Pantallas de 5 a 10 5 Pulgadas - Apple iPhone iPad Air Mini  Samsung Galaxy  Nintendo Switch'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R44XBD6/?tag=tolees-21'
 descuento: '23.23'
 average: '19.5'

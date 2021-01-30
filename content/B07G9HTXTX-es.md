@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Mando inalámbrico Pro4 FPS wireless controller - Accessorio para consola PS4 / Slim / Pro / PC / PS3 - Camo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G9HTXTX/?tag=tolees-21'
 descuento: '17.45'
 average: '29.502'

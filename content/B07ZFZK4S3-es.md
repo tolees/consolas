@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'FR-TEC - Rick and Morty Pickle Rick Combo Pack para mando Dualshock  PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZFZK4S3/?tag=tolees-21'
 descuento: '15.40'
 average: '10.99'

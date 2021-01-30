@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Biomutant - PS4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0759PCYDX/?tag=tolees-21'
 descuento: '43.34'
 average: '33.88666666666667'

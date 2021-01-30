@@ -16,6 +16,7 @@ comparePrice: 811 EUR
 prodname: 'Zecti [Actualizado] Estuche protector para Nintendo Switch  PC+TPU Grip Cover Switch para consola y Joy-Con Controller  antideslizante Accesorios para interruptor Nintendo Cover Grip estuche  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GP18CX7/?tag=tolees-21'
 descuento: '98.27'
 average: '13.99'

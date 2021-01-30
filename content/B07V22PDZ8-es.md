@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'RedThunder Teclado Semimecánico Gaming  Retroiluminación RGB  Teclado Gaming PS4 con Cable USB  Teclado para PC/Laptop / PS4 / Xbox One  Teclados Español '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V22PDZ8/?tag=tolees-21'
 descuento: '50.01'
 average: '39.99'

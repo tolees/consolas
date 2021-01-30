@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Slabo Lámina de Vidrio Premium para Nintendo Switch Lite Protector de Pantalla Templado Tempered Glass Claro 9H'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081JZY1CW/?tag=tolees-21'
 descuento: '33.44'
 average: '1.99'

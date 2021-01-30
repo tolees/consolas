@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Nintendo - Figura Amiibo Smash Fit Trainer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00N8PBVHU/?tag=tolees-21'
 descuento: '23.40'
 average: '8.6'

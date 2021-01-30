@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Ardistel - Silicone Sleeve Gamer Dual Kit Blackfire  PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01K1T9BWM/?tag=tolees-21'
 descuento: '45.61'
 average: '4.89'

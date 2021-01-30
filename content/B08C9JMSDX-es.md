@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'eXtremeRate Carcasa Completa para Nintendo Switch Funda Cubierta Trasera para Consola de Switch Case de Agarre y Botones Coloridos para Joy-con de Nintendo Switch Shell de Bricolaje Amarillo Ámbar '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C9JMSDX/?tag=tolees-21'
 descuento: '26.14'
 average: '32.49'

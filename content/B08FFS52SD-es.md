@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Tina @ Wireless pro para Nintendo Switch  controlador inalámbrico compatible para consola Nintendo Switch con gamepad remoto integrado  joypad  captura de pantalla  sensor de gravedad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FFS52SD/?tag=tolees-21'
 descuento: '25.71'
 average: '20.8'

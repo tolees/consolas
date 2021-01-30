@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'PDP - Starter Kit Edición Mario Remix  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GX7VCM1/?tag=tolees-21'
 descuento: '32.01'
 average: '14.866666666666665'

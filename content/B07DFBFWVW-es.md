@@ -16,6 +16,7 @@ comparePrice: 14.87 EUR
 prodname: 'Funko Pop! - Patrick Star Spongebob Holiday  Xbox '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DFBFWVW/?tag=tolees-21'
 descuento: '32.82'
 average: '9.355405405405403'

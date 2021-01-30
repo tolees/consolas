@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Meridiem Games - Meridiem Games - One Piece Arcade Mini  Nintendo Switch   Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z9HL18B/?tag=tolees-21'
 descuento: '27.01'
 average: '17.29'

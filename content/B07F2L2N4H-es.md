@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Funda Compatible con Nintendo Switch HEYSTOP TPU PC Carcasa de Protección con Protector de Pantalla para Nintendo Switch  Anti-Choques/Arañazo  Verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F2L2N4H/?tag=tolees-21'
 descuento: '65.45'
 average: '8.98'

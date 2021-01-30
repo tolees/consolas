@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'eXtremeRate Botones para Joycons de Nintendo Switch Botón de ABXY Dirección Botones Coloridos Teclas de reemplazo Kit de Reparación con Herramientas para Nintendo Switch Joy-con No lncluye Carcasa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CVCQ1B4/?tag=tolees-21'
 descuento: '46.70'
 average: '7.99'

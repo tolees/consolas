@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'eXtremeRate Torx T8H T6 Destornilladores para Xbox One Herramienta Open Shell para Reparar e Instalar el Mando de Xbox 360/Xbox One/One Elite/One S/One X'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00Z9MDPN8/?tag=tolees-21'
 descuento: '65.03'
 average: '6.99'

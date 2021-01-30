@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'FR·TEC - Auricular Gaming Headset Inari - PS4  Xbox One  Nintendo Switch  PC  Mac'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K6P4LRN/?tag=tolees-21'
 descuento: '20.01'
 average: '11.99'

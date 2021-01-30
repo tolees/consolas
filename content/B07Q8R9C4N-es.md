@@ -16,6 +16,7 @@ comparePrice: 53.99 EUR
 prodname: 'KESU Disco Duro Externo Portátil 500GB  Type C USB3.1 HDD Almacenamiento para PC  Mac  MacBook  Chromebookk  Xbox One  Xbox 360  PS4  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q8R9C4N/?tag=tolees-21'
 descuento: '27.78'
 average: '38.99'

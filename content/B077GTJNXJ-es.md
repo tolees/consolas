@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'FR- TEC - Protector Silicona + Grips Camo Navy  para mando Dualshock de PlayStation 4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B077GTJNXJ/?tag=tolees-21'
 descuento: '38.80'
 average: '4.89'

@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Nacon Revolution Unlimited - Mando inalámbrico [Versión Española]  PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PG9B5LJ/?tag=tolees-21'
 descuento: '18.65'
 average: '140.64'

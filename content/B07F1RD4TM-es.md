@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Samoleus Gaming Auriculares con Microfono  Cascos Gaming PS4 PC Xbox One  Cascos Gamer  Headset Cascos Jack 3.5mm  Luz LED con Switch  Laptop  Playstation 4  Upgraded Red '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F1RD4TM/?tag=tolees-21'
 descuento: '15.01'
 average: '20.39'

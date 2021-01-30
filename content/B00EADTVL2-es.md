@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'PDP - Cargador Energizer 2 Mandos  PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EADTVL2/?tag=tolees-21'
 descuento: '50.23'
 average: '17.52'

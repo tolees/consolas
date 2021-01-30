@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Nintendo 2DS - Consola  Color Rosa + Tomodachi Life  Preinstalado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O57WHPA/?tag=tolees-21'
 descuento: '22.32'
 average: '79.25428571428573'

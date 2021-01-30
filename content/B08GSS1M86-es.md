@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'eXtremeRate Lofty Programable Remap&Gatillo de Parada Kit para Mando Xbox One S X Mod Chip Carcasa Trasera Agarre Botones Traseros Trigger Lock para Control de Xbox One S X-Modelo 1708 -Rojo Escarlata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GSS1M86/?tag=tolees-21'
 descuento: '22.45'
 average: '37.99'

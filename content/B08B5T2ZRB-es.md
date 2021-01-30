@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'eXtremeRate Carcasa para JoyCons de Nintendo Switch Funda de Agarre Shell de Bricolaje Cubierta Tacto Suave con ABXY Drecctión Botones para Nintendo Switch No Incluye Carcasa de Consola Coral '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B5T2ZRB/?tag=tolees-21'
 descuento: '36.68'
 average: '18.99'

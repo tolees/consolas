@@ -16,6 +16,7 @@ comparePrice: 21.31 EUR
 prodname: 'Pegatinas Cubiertas Adhesiva Decal Set para Sony PlayStation 4 PS4 Consola Controlador - Mano de Sangre Impreso'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076BZ1D7G/?tag=tolees-21'
 descuento: '44.44'
 average: '9.09'

@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'eXtremeRate Carcasa para Nintendo Switch Pro Funda Delantera Placa Trasera Cubierta DIY Shell de reemplazo Case para Nintendo Switch Pro-Controlador NO Incluido  Fiesta de Miedo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TZJL28D/?tag=tolees-21'
 descuento: '34.22'
 average: '24.99'

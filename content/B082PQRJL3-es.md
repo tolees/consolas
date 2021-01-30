@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Remnant From the Ashes - PS4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082PQRJL3/?tag=tolees-21'
 descuento: '17.37'
 average: '28.007499999999997'

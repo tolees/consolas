@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'eXtremeRate Luminoso Joysticks Botones de acción dirección Botón de reemplazo 7 Colores 9 Modos Control táctil para el Mando del PlayStaion 4 PS4 Original Slim Pro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CJH1NT7/?tag=tolees-21'
 descuento: '28.58'
 average: '24.99'

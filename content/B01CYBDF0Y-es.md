@@ -16,6 +16,7 @@ comparePrice: 22.04 EUR
 prodname: 'AUKEY Cable USB C a USB A 3.0   1m x 3   Nylón Cable USB Tipo C de Carga y Sincronización para Samsung Galaxy Note 8 Note 9 S10 S10+ S9 S8+ LG V20 G5 Nexus 6P 5X Moto Z Z2 Google Pixel Nintendo Switch'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CYBDF0Y/?tag=tolees-21'
 descuento: '36.52'
 average: '13.99'

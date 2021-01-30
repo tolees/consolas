@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'XtremeRate 4 Pares de Tapas Joystick Comptible con PS4 Analógico Funda de Silicona Tapa de Pulgar para Joysticks Thumbsticks de PS4 Original Slim ProAzul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01B3Z1YU0/?tag=tolees-21'
 descuento: '55.03'
 average: '8.99'

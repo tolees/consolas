@@ -16,6 +16,7 @@ comparePrice: 23.88 EUR
 prodname: 'SADES SA810 Gaming Headset Xbox One PS4 auriculares de juego estéreo auriculares con micrófono de aislamiento de ruido para Xbox One PC PS4 teléfono portátil  blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0746GRYHR/?tag=tolees-21'
 descuento: '15.03'
 average: '20.29'

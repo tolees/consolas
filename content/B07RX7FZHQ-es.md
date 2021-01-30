@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'FIFA 20 - PlayStation 4 [Importación inglesa]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RX7FZHQ/?tag=tolees-21'
 descuento: '20.70'
 average: '39.19'

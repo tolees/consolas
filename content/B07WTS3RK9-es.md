@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Hori - Funda compacta Zelda Breath of the Wild  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WTS3RK9/?tag=tolees-21'
 descuento: '20.77'
 average: '10.205'

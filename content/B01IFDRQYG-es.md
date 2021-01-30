@@ -16,6 +16,7 @@ comparePrice: 11.65 EUR
 prodname: '3pcs Pegatinas Cubierta Adhesiva de Consola Impreso Cielo Estrellado para Sony PlayStation 4 PS4 Controlador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IFDRQYG/?tag=tolees-21'
 descuento: '44.46'
 average: '6.47'

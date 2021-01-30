@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Import Europe - Strike Pack FPS Dominator Mod  PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L8QHXJA/?tag=tolees-21'
 descuento: '21.85'
 average: '48.531666666666666'

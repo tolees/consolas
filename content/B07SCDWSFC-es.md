@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'Monster Hunter World: Iceborne - Master Edition - PS4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SCDWSFC/?tag=tolees-21'
 descuento: '17.36'
 average: '43.39666666666666'

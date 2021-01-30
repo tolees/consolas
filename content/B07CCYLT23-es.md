@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Mando con cable PowerA para Nintendo Switch'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CCYLT23/?tag=tolees-21'
 descuento: '26.51'
 average: '24.755'

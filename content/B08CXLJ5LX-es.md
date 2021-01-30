@@ -16,6 +16,7 @@ comparePrice: 63.99 EUR
 prodname: 'Hattahh Disco Duro Externo Portátil 2TB  Type C USB3.1 Disco Duro para PC  Mac  Desktop  Chromebook  Xbox  Xbox 360 L  2 TB  Plata '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CXLJ5LX/?tag=tolees-21'
 descuento: '21.88'
 average: '49.99'

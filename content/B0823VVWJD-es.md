@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Cargador para Nintendo Switch  Gifort 4 en 1 Joy-Con Cargador Base de Cargador para Nintendo Switch Joy-con Pro Controller Console  Cargador Dock con Indicador LED y cable cargador USB tipo C'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0823VVWJD/?tag=tolees-21'
 descuento: '21.06'
 average: '14.99'

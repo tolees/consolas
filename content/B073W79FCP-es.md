@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'ELEGIANT Auriculares Gaming PC  Cascos Gaming Headset con Micrófono de Vídeojuego con Cancelación de Sonido Estéreo Bajo para Ordenador PS4 Xbox One Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073W79FCP/?tag=tolees-21'
 descuento: '35.50'
 average: '19.99'

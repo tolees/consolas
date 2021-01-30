@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Hori - Fighting Stick Mini  PS4  PS3  PC '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B019MMN94A/?tag=tolees-21'
 descuento: '21.26'
 average: '31.49'

@@ -16,6 +16,7 @@ comparePrice: 23.36 EUR
 prodname: 'Red Dead Redemption Classics - Xbox one'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IH80VVO/?tag=tolees-21'
 descuento: '25.94'
 average: '17.3'

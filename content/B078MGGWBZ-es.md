@@ -16,6 +16,7 @@ comparePrice: 27.39 EUR
 prodname: 'Nintendo NINTENDO NES Console Bi-Fold Wallet  Multi-Colour  MW270709NTN  Monedero  16 cm  Gris  Grey '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078MGGWBZ/?tag=tolees-21'
 descuento: '38.30'
 average: '18.099285714285713'

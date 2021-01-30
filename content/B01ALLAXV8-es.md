@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'HORI - Vault Case Pikachu  Nintendo Switch / Switch Lite '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ALLAXV8/?tag=tolees-21'
 descuento: '20.01'
 average: '22.49'

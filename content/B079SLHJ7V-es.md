@@ -16,6 +16,7 @@ comparePrice: 46.88 EUR
 prodname: 'WWE 2K18 - Nintendo Switch [Importación inglesa]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079SLHJ7V/?tag=tolees-21'
 descuento: '61.82'
 average: '17.9'

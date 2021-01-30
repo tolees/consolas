@@ -16,6 +16,7 @@ comparePrice: 89.97 EUR
 prodname: 'KLIM Puma – Cascos Auriculares Gaming con micrófono – Sonido Envolvente 7.1 Audio – Vibración integrada – Blanco – Ideales para Jugar en PC y PS4 [ Nueva 2020 Versión ]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XCDFH3R/?tag=tolees-21'
 descuento: '22.23'
 average: '66.61333333333333'

@@ -16,6 +16,7 @@ comparePrice: 16.69 EUR
 prodname: 'Fyoung - Kit de accesorios 3 en 1 para Nintendo Switch Lite 2019 con funda rígida de viaje + funda protectora de TPU transparente + película protectora de cristal templado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VVBTPMJ/?tag=tolees-21'
 descuento: '24.03'
 average: '12.68'

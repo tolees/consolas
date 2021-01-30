@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Charmast Powerbank 10000mAh Mini Batería Externa LED Linterna Power Bank Cargador portátil móvil Micro USB Tipo C para iPhone X/XS / 8/7/6  Samsung Galaxy  Huawei  iPad  Nintendo Switch'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Y4RYH2T/?tag=tolees-21'
 descuento: '37.52'
 average: '14.323333333333332'

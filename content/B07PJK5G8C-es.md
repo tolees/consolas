@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'KONKY Ventilador PS4  Cooler PS4 Turbo Ventilador Externo USB con Sensor de Temperatura Automático para Consola de juegos Sony PlayStation 4 [No para PS4 Slim / PS4 Pro]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PJK5G8C/?tag=tolees-21'
 descuento: '23.54'
 average: '12.99'

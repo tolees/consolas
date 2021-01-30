@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Doom Slayers Collection - PS4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0829LYZ5T/?tag=tolees-21'
 descuento: '23.51'
 average: '22.248095238095242'

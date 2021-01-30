@@ -16,6 +16,7 @@ comparePrice: 134.57 EUR
 prodname: 'Disco Duro Externo 2tb Portátil 2.5" USB3.0 Disco Duro Externo para PC  Mac  MacBook  Chromebook  Xbox  2tb  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GL9MND1/?tag=tolees-21'
 descuento: '52.45'
 average: '63.99'

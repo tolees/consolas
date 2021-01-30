@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'A.O.T. 2: Final Battle - Xbox One'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PML8NKT/?tag=tolees-21'
 descuento: '71.57'
 average: '29.363999999999997'

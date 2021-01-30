@@ -16,6 +16,7 @@ comparePrice: 17.9 EUR
 prodname: 'Nintendo - Figura Amiibo Smash Zelda'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00O9QC5PY/?tag=tolees-21'
 descuento: '27.43'
 average: '12.945'

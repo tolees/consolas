@@ -16,6 +16,7 @@ comparePrice: 4.99 EUR
 prodname: 'FR·TEC -  Grips All Games - PS3  PS4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071NNHJ94/?tag=tolees-21'
 descuento: '21.84'
 average: '3.9'

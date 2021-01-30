@@ -16,6 +16,7 @@ comparePrice: 65.98 EUR
 prodname: '[SADES SA810 Xbox One Mic PS4 Gaming Headset] 3.5 mm con Cable Over Ear Xbox One Auricular con micrófono Deep Bass Auriculares para PS4 Xbox One PC Laptop Mac iPad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L8UV07M/?tag=tolees-21'
 descuento: '63.64'
 average: '23.99'

@@ -16,6 +16,7 @@ comparePrice: 195.08 EUR
 prodname: 'Proyector  WiMiUS 6200 Lúmenes Proyector Full HD 1920x1080P Nativo Proyector Cine en Casa Soporta 4K Pantalla 300" Sonido Dolby Proyector LED 78 000 Horas Bajo Ruido Video Fluido PS4 HDMI/USB/VGA/AV'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XF62L8X/?tag=tolees-21'
 descuento: '22.04'
 average: '203.57277777777776'

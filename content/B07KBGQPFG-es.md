@@ -16,6 +16,7 @@ comparePrice: 13.09 EUR
 prodname: 'P Prettyia Almohadilla Antipolvo con Joystick para Nintendo Switch Joy-con'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KBGQPFG/?tag=tolees-21'
 descuento: '44.46'
 average: '7.27'

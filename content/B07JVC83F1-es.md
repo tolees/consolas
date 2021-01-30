@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: '4 Gamers - PRO4-70 Negro Auricular Gaming  Licenciado  PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JVC83F1/?tag=tolees-21'
 descuento: '36.01'
 average: '22.39'

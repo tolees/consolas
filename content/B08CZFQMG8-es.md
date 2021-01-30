@@ -16,6 +16,7 @@ comparePrice: 134.56 EUR
 prodname: 'Disco Duro Externo 1tb Portátil 2.5"  USB3.0 SATA HDD Almacenamiento para PC  Mac  MacBook  Chromebook  Xbox  PS4  2tb  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CZFQMG8/?tag=tolees-21'
 descuento: '52.45'
 average: '63.99'

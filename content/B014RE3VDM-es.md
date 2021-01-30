@@ -16,6 +16,7 @@ comparePrice: 50.99 EUR
 prodname: 'Nintendo - Remote Plus - Edición TOAD  Nintendo Wii U '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014RE3VDM/?tag=tolees-21'
 descuento: '16.77'
 average: '40.965'

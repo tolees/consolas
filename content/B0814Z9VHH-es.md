@@ -16,6 +16,7 @@ comparePrice: 43.41 EUR
 prodname: 'HEYSTOP Compatible Mando Nintendo Switch Inalámbrico Gamepad Controller para Nintendo Switch/Switch Lite/PC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0814Z9VHH/?tag=tolees-21'
 descuento: '51.65'
 average: '20.99'

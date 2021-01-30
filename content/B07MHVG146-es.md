@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Controlador PowerA Wired con licencia oficial para  Xbox One  Xbox One S  Xbox One X und Windows 10 - Camuflaje azul sigilo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MHVG146/?tag=tolees-21'
 descuento: '20.01'
 average: '19.99'

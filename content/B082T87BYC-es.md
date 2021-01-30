@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Resident Evil 3 Remake - Xbox One'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082T87BYC/?tag=tolees-21'
 descuento: '31.14'
 average: '48.643'

@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Auriculares SADES SA810 Xbox One PS4 Stereo Gaming con micrófono y cancelación de Ruido y Control de Volumen para la Nueva Xbox One/PC/Mac / PS4 / Table/Phone'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CTGYCC1/?tag=tolees-21'
 descuento: '28.58'
 average: '24.99'

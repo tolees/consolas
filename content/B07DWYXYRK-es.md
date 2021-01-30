@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'TUTUO para Cargador Mando PS4  Estación de Carga DualShock 4 con Pantalla de Visualización del Estado de Carga  para Controlador Inalámbrico de Playstation 4  4 Slim and 4 Pro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DWYXYRK/?tag=tolees-21'
 descuento: '37.52'
 average: '14.99'

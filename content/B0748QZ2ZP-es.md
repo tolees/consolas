@@ -16,6 +16,7 @@ comparePrice: 22.82 EUR
 prodname: 'Oreillette gaming MCFC Manchester city pour PS4 - Xbox One - PS3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0748QZ2ZP/?tag=tolees-21'
 descuento: '31.38'
 average: '15.66'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Luigi s Mansion 3. Nintendo Switch [Edición: Alemana]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NPL79TQ/?tag=tolees-21'
 descuento: '20.36'
 average: '55.74'

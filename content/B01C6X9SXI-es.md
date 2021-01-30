@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Hori - Kit de protección  Nintendo Switch Lite '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C6X9SXI/?tag=tolees-21'
 descuento: '17.34'
 average: '13.690000000000001'

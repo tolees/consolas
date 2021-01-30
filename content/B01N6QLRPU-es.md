@@ -16,6 +16,7 @@ comparePrice: 17.9 EUR
 prodname: 'Nintendo - Figura Amiibo Bokoblin Serie Zelda'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N6QLRPU/?tag=tolees-21'
 descuento: '41.40'
 average: '11.31375'

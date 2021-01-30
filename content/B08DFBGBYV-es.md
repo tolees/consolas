@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Disco Duro Externo 1tb USB 3.1 Disco Duro Externo para Mac  PC MacBook  Chromebook  Xbox  1tb  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DFBGBYV/?tag=tolees-21'
 descuento: '52.01'
 average: '47.99'

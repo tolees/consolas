@@ -16,6 +16,7 @@ comparePrice: 28.9 EUR
 prodname: 'Krom KHENSU - NXKROMKHNS - Gamepad  Alámbrico/Inalámbrico  Windows 7 Enterprise  Windows 8  Windows Vista Home Premium  Windows 7 Enterprise x64  Windows 8 Ent  PC  Playstation 3  USB 2.0  Turbo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0162V3LKQ/?tag=tolees-21'
 descuento: '24.22'
 average: '24.081666666666667'

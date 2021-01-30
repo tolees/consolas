@@ -16,6 +16,7 @@ comparePrice: 599.99 EUR
 prodname: 'Proyector YABER 6200 Lúmenes Proyector Full HD 1920x1080P Nativo Soporta Vídeo 4K Proyector Cine en Casa Pantalla 300" Zoom X/Y Contraste 7000: 1 78000 Horas Sonido Hi-Fi Bajo Ruido PS4 HDMI/USB/VGA'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z3F25ZS/?tag=tolees-21'
 descuento: '70.07'
 average: '206.22333333333336'

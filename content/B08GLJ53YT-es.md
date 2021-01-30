@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Mandos para Nintendo Switch  REDSTORM Bluetooth Mando Inalámbrico Switch Pro Gamepad Joypad Joystick Admite Sensor 6 Gyro Axis Turbo y Dual Motor Vibration'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GLJ53YT/?tag=tolees-21'
 descuento: '27.51'
 average: '28.99'

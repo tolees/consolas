@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Funda + protector LCD para consola Nintendo Switch edición Animal Crossing: New Horizons  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084DJ78SW/?tag=tolees-21'
 descuento: '33.44'
 average: '19.9'

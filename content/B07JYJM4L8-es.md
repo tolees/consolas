@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'HyperX HX-HSCLS-BL Cloud para PS4 - Cascos de Gaming con Control de Audio Integrado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JYJM4L8/?tag=tolees-21'
 descuento: '37.62'
 average: '61.150000000000006'

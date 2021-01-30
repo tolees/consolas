@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'PDP - Mando Smash Pad Pro Con Cable  Pikachu  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GXB9GW9/?tag=tolees-21'
 descuento: '29.42'
 average: '14.08'

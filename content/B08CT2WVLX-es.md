@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Mando Inalámbrico para PS4  Mando Inalámbrico Gamepad Doble Vibración Seis Ejes Mando Game Compatible con Playstation 4/PS4 Slim/PS4 Pro  Rojo Transparente '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CT2WVLX/?tag=tolees-21'
 descuento: '19.98'
 average: '32.0'

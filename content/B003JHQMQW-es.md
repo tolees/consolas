@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Lioncast 2x Micrófonos USB universal para ordenador y Karaoke; Compatible con juegos de Wii  PS3  PS4  Xbox One y PC como Guitar Hero  Rock Star  etc .; Cable de 2 5 m - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003JHQMQW/?tag=tolees-21'
 descuento: '16.69'
 average: '23.70285714285714'

@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'YINSAN Auriculares Gaming para PS4  Cascos Gaming Premium Stereo con Micrófono  Gaming Headset con 3.5mm Jack RGB LED con Control de Volumen para PS4/PC/Xbox One/Nintendo Switch/Mac'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X54JDS4/?tag=tolees-21'
 descuento: '31.44'
 average: '15.923333333333332'

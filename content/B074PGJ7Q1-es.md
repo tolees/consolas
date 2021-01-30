@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Pdp - Auricular Stereo Afterglow AG6 Con Cable  Xbox One '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074PGJ7Q1/?tag=tolees-21'
 descuento: '44.57'
 average: '21.365000000000002'

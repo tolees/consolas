@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Hori - Real Arcade Pro.V Hayabusa  Edición Street Fighter II Ryu  Nintendo Switch/PC '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SXSXPHH/?tag=tolees-21'
 descuento: '22.93'
 average: '141.645'

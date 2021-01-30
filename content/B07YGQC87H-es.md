@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Meridiem Games - Naruto Arcade Mini  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YGQC87H/?tag=tolees-21'
 descuento: '40.92'
 average: '15.096666666666666'

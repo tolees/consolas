@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Mando Inalámbrico para PS4  Wireless Bluetooth Controlador para Playstation 4 con Vibración Doble Remoto Joystick'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082W8JDQL/?tag=tolees-21'
 descuento: '28.27'
 average: '32.99'

@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Timorn Plástico Duros Controlador de la Vivienda Shell Caso de Reemplazo de la Cubierta para Playstation 4 PS4  1 x Estuche + 1 x Destornillador '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071HBWKYB/?tag=tolees-21'
 descuento: '38.91'
 average: '10.99'

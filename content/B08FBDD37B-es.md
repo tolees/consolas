@@ -16,6 +16,7 @@ comparePrice: 56.99 EUR
 prodname: 'Rybozen 4K HDMI KVM Switch Caja de 2 Puertos Teclado Mouse Switcher Incluye 2 USB Type-B Cable Support 4k @ 30HZ 3D para Laptop PS4 Xbox One HDTV Monitor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FBDD37B/?tag=tolees-21'
 descuento: '47.38'
 average: '29.99'

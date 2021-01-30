@@ -16,6 +16,7 @@ comparePrice: 20.77 EUR
 prodname: 'eFootball PES 2020 - Xbox One [Importación inglesa]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TY1DKTT/?tag=tolees-21'
 descuento: '25.23'
 average: '15.53'

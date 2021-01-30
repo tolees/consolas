@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'AUTOUTLET 3 en 1 Grip y raqueta de tenis Juego de accesorios del volante for el juego de Mario Tennis Aces  Nintendo equipo de juego empuñadura del controlador del interruptor Switch Joy-Con'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07JZPDKQ3/?tag=tolees-21'
 descuento: '29.04'
 average: '21.656666666666666'

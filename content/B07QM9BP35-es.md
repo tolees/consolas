@@ -16,6 +16,7 @@ comparePrice: 15.7 EUR
 prodname: 'Paladone Playstation Controller LED | Luz Nocturna Coleccionable para dormitorios  Oficina y hogar | Pop Culture Icon Lighting  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QM9BP35/?tag=tolees-21'
 descuento: '19.49'
 average: '12.64'

@@ -16,6 +16,7 @@ comparePrice: 10.43 EUR
 prodname: 'C-FUNN Carcasa del Cartucho Reemplazo De La Tarjeta De Juego Nintendo NES 72 60Pin A 72Pin Adapter - Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RBK94C4/?tag=tolees-21'
 descuento: '22.05'
 average: '8.13'

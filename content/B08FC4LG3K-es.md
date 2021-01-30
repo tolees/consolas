@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'eXtremeRate Botones Completos para Xbox One S/X Botón de LB RB LT RT Bumpers Triggers Gatillos D-Pad ABXY Start Back Sync Botones con Herramientas para Xbox One S One X Modelo 1708 -De Violeta a Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FC4LG3K/?tag=tolees-21'
 descuento: '43.50'
 average: '12.99'

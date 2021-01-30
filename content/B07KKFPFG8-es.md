@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Lioncast LX60 USB Auriculares para Juegos para PC  PS4  Xbox One  Nintendo Switch  Mac  teléfono Inteligente  Estéreo & Sonido Envolvente Virtual 7.1  iluminación RGB LED  LED de Silencio '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KKFPFG8/?tag=tolees-21'
 descuento: '30.02'
 average: '69.95'

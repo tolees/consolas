@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Railway Empire - Nintendo Switch Edition'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B086ZBGV11/?tag=tolees-21'
 descuento: '45.01'
 average: '27.2175'

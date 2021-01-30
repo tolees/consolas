@@ -16,6 +16,7 @@ comparePrice: 26.59 EUR
 prodname: 'eXtremeRate ABXY D-Pad ZR ZL L R Botones para Mando Nintendo Switch Pro DIY Teclas de Reemplazo Tacto Suave Botón Completo con Herramientas para Nintendo Switch Pro-Controlador NO Incluido Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VPDCQJ7/?tag=tolees-21'
 descuento: '51.15'
 average: '12.99'

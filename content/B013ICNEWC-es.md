@@ -16,6 +16,7 @@ comparePrice: 18.19 EUR
 prodname: 'KabelDirekt 5m Cable de Extensión HDMI  compatible con  HDMI 2.0a/b  2.0  1.4a  4K Ultra HD  3D  Full HD 1080p  HDR  ARC High Speed con Ethernet  PS4  XBOX  HDTV   TOP Series'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013ICNEWC/?tag=tolees-21'
 descuento: '44.15'
 average: '10.16'

@@ -16,6 +16,7 @@ comparePrice: 10.55 EUR
 prodname: 'ZWOOS Adaptador HDMI a VGA  1080p Convertidor de HDMI Masculino a VGA Hembra Compatible con Computadora  HDTV  Xbox'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TS1WJ24/?tag=tolees-21'
 descuento: '17.54'
 average: '8.7'

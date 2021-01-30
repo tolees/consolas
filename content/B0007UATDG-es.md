@@ -16,6 +16,7 @@ comparePrice: 312.9 EUR
 prodname: 'Nintendo Wii Sports Pack [importación]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0007UATDG/?tag=tolees-21'
 descuento: '60.08'
 average: '116.95'

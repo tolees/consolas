@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Powcan Mando Inalámbrico PS3  Bluetooth PS3 Gamepad Controller Doble vibración Mando a Distancia Joystick para Playstation 3 y PC Windows 7/8/9/10 con Cable de Carga USB  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VDKJ5P2/?tag=tolees-21'
 descuento: '25.01'
 average: '15.989999999999998'

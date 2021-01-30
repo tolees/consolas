@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Controlador PowerA Wired con licencia oficial para Xbox One  Xbox One S  Xbox One X und Windows 10  - Escarcha ártica Camo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NPZJ7SS/?tag=tolees-21'
 descuento: '15.01'
 average: '21.24'

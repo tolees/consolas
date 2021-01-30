@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Mortal Kombat 11 - Edición Estándar  Incluye DLC Joker   PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084TKK57D/?tag=tolees-21'
 descuento: '25.11'
 average: '29.92'

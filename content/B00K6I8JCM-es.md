@@ -16,6 +16,7 @@ comparePrice: 52.49 EUR
 prodname: 'Nintendo Selects New Super Mario Bros.Wii  Juego'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00K6I8JCM/?tag=tolees-21'
 descuento: '21.15'
 average: '41.39'

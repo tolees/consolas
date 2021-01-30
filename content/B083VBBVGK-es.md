@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'SnowRunner - PS4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083VBBVGK/?tag=tolees-21'
 descuento: '19.00'
 average: '42.74'

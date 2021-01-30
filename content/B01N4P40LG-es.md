@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Hori - Mando Real Arcade Pro V Hayabusa Hori  Nintendo Switch  PC '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N4P40LG/?tag=tolees-21'
 descuento: '28.00'
 average: '114.51'

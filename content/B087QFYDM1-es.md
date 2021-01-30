@@ -16,6 +16,7 @@ comparePrice: 43.95 EUR
 prodname: 'Kloius Soporte de Carga USB Soporte de Carga Doble PS4 para Mango PS4 Accesorios'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087QFYDM1/?tag=tolees-21'
 descuento: '45.14'
 average: '34.03'

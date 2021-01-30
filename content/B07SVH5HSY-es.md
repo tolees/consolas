@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Sniper: Ghost Warrior - Contracts  Xbox One '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SVH5HSY/?tag=tolees-21'
 descuento: '40.09'
 average: '27.33'

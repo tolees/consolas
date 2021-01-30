@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Auriculares Gaming PS4 Cascos Gaming de Mac Estéreo con Micrófono Cascos Gaming 3.5mm Jack con Luz LED Bass Surround y Cancelación de Ruido Auriculares Compatible con PC/Xbox One/Nintendo Switch'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YB75P8T/?tag=tolees-21'
 descuento: '47.51'
 average: '20.29'

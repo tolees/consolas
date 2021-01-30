@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'PDP - Funda Slim Travel Case Edición Mario Camo  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GX4B6SN/?tag=tolees-21'
 descuento: '53.84'
 average: '7.960000000000001'

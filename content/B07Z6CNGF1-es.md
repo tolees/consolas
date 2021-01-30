@@ -16,6 +16,7 @@ comparePrice: 82.43 EUR
 prodname: 'Mando para conmutador / Switch Lite  mando inalámbrico para Nintendo Switch  6 ejes  mando Pro Switch de juegos con Bluetooth/Turbo/Doble Motor para Switch  Switch Lite y PC'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z6CNGF1/?tag=tolees-21'
 descuento: '61.05'
 average: '32.11'

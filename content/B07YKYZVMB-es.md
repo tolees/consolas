@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Molyhood Controlador inalámbrico para PS3  Bluetooth Mando para Playstation 3  Juego Gamepad Joystick con Doble-Vibración Controller de 6 ejes'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YKYZVMB/?tag=tolees-21'
 descuento: '15.01'
 average: '14.44'

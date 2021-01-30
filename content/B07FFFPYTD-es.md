@@ -16,6 +16,7 @@ comparePrice: 15.9 EUR
 prodname: 'Lego DC Super-Villanos PlayStation 4  Edición Estándar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FFFPYTD/?tag=tolees-21'
 descuento: '19.87'
 average: '15.434285714285716'

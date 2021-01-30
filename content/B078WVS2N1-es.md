@@ -16,6 +16,7 @@ comparePrice: 14.38 EUR
 prodname: '2 Sets Llaves de Repuesto Controlador L2 R2 L1 R1 Botón Tapas Analógicas Kit Accesorios de Videojuegos para Sony PS4 Controlador Azul+Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078WVS2N1/?tag=tolees-21'
 descuento: '44.44'
 average: '7.99'

@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'BlueFire Cascos Gaming  Auriculares Gaming PS4 con Micrófono Mac Estéreo Juego Gaming Jack 3 5mm LED Bajo Ruido Compatible con PC/Xbox One/Móvil  Verde '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GD6GMKJ/?tag=tolees-21'
 descuento: '36.12'
 average: '23.189999999999998'

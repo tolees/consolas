@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Harvest Moon: La luz de la esperanza Edición Coleccionista Nintendo Switch'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CBDFFC9/?tag=tolees-21'
 descuento: '28.63'
 average: '49.71000000000001'

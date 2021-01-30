@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Ertisa Mando Inalámbrico para PS4  Gamepad Wireless Bluetooth Controlador Controller Joystick con Vibración Doble Remoto Compatible con Playstation 4/PS4 Slim/Pro and PS3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D6CBBXS/?tag=tolees-21'
 descuento: '17.95'
 average: '32.256'

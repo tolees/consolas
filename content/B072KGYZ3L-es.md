@@ -16,6 +16,7 @@ comparePrice: 57.57 EUR
 prodname: 'Lego Marvel Super Heroes 2 - Nintendo Switch [Importación francesa]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072KGYZ3L/?tag=tolees-21'
 descuento: '25.10'
 average: '43.12'

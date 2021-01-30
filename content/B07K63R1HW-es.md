@@ -16,6 +16,7 @@ comparePrice: 7.22 EUR
 prodname: 'Baoblaze Botón de Activación LB RB con Kit de Placa Central para Microsoft Xbox One'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K63R1HW/?tag=tolees-21'
 descuento: '44.46'
 average: '4.01'

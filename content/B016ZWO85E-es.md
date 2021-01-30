@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Sony - Carcasa Intercambiable Para Consola Playstation 4  Color Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B016ZWO85E/?tag=tolees-21'
 descuento: '47.60'
 average: '9.95'

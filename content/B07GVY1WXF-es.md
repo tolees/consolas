@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Mando Inalámbrico Mejorado  Negro  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GVY1WXF/?tag=tolees-21'
 descuento: '20.54'
 average: '40.510000000000005'

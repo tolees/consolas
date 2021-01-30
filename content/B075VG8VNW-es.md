@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Exquisite Games - Big Box Call Of Duty WWII  PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075VG8VNW/?tag=tolees-21'
 descuento: '40.31'
 average: '17.23333333333333'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Hori - Funda Rígida Negra  Nintendo Switch Lite '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W5B4QCL/?tag=tolees-21'
 descuento: '20.61'
 average: '14.1725'

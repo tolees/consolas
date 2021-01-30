@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Cable Guy Sonic The Hedgehog de Sega  Soporte de sujeción o Carga para Mando de Consola y/o Smartphone de tu Personaje Favorito con Licencia Sega. Producto con Licencia Oficial. Exquisite Gaming'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075QLBP9K/?tag=tolees-21'
 descuento: '16.01'
 average: '21.116666666666667'

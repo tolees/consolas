@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'ShuOne USB3.0 HDMI 1080P 60 FPS Juego Tarjeta de Captura  Apoyo transmisión en Vivo a Twitch  Youtube  OBS  Potplayer y VLC  para Windows  Linux  macOS  PS3 PS4 Xbox Wii U'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MBSXMH7/?tag=tolees-21'
 descuento: '28.18'
 average: '78.99'

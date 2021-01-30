@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Elyco Funda Protectora para Nintendo Switch  Silicone Grip Case Protector Case Funda Protectora Grip Funda de Agarre Compatible con Switch JoyCon Controller'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B4NL2J7/?tag=tolees-21'
 descuento: '42.32'
 average: '14.99'

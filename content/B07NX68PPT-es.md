@@ -16,6 +16,7 @@ comparePrice: 49.9 EUR
 prodname: 'Krom KAISER - NXKROMKSR - Gamepad  PC  PS3  PS4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NX68PPT/?tag=tolees-21'
 descuento: '39.88'
 average: '30.0'

@@ -16,6 +16,7 @@ comparePrice: 11.65 EUR
 prodname: '3x Pegatina Cubierta Adhesiva Creativo Protección Jeugo Impreso Grano de Madera para Sony PlayStation 4 PS4 Consola'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074ZPBYWN/?tag=tolees-21'
 descuento: '44.46'
 average: '6.47'

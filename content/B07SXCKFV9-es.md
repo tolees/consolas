@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Controlador inalámbrico DualShock 4 para Playstation 4 Sunset Orange'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SXCKFV9/?tag=tolees-21'
 descuento: '15.97'
 average: '22.74'

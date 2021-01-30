@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Mando con cable Pro4 controller para consola PS4 / Slim/ Pr - PC -PS3 - Accesorios de videojuegos Real Madrid'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GVRV8D9/?tag=tolees-21'
 descuento: '28.71'
 average: '23.52'

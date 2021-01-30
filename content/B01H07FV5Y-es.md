@@ -16,6 +16,7 @@ comparePrice: 229 EUR
 prodname: 'BenQ ZOWIE RL2755 - Monitor de 27" para consola e-Sports  FHD  Lag-free   monitor oficial para PlayStation 4  PS4 / PS4 Pro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H07FV5Y/?tag=tolees-21'
 descuento: '25.77'
 average: '169.99'

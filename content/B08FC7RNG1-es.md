@@ -16,6 +16,7 @@ comparePrice: 41.99 EUR
 prodname: 'REDSTORM Mando para Nintendo Switch mando pro switch inalámbrico  somatosensorial de 6 ejes  turbo función ajustable  motor de doble vibración  joystick multifunción para juegos de Nintendo Switch'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FC7RNG1/?tag=tolees-21'
 descuento: '33.34'
 average: '29.99'

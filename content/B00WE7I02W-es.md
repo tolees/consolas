@@ -16,6 +16,7 @@ comparePrice: 12.58 EUR
 prodname: 'De Metal Stick Palanca De Mando Para Sony Playstation 4 Xbox Un Controlador De Color Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00WE7I02W/?tag=tolees-21'
 descuento: '44.44'
 average: '6.99'

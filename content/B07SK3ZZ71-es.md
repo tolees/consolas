@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'Corsair HS35 - Auriculares Stereo para Juegos  Membrana Neodimio de 50 mm  Micrófono Unidireccional Extraíble  Estructura Ligera  Compatible con Xbox One  PS4  Nintendo Switch y Móviles   Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SK3ZZ71/?tag=tolees-21'
 descuento: '15.56'
 average: '37.99'

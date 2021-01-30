@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'LEGO Die Unglaublichen - Standard Edition - Nintendo Switch [Importación alemana]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CD5S3PV/?tag=tolees-21'
 descuento: '36.24'
 average: '38.25'

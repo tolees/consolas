@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Timorn La más Nueva versión Teclado del reemplazo Cable Conductor de la Cinta de la película conductora para Playstation 4 PS4 Controller  1 Juego '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WLR66NM/?tag=tolees-21'
 descuento: '46.19'
 average: '6.99'

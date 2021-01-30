@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Valkyria Chronicles 4 - PS4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CHQH57J/?tag=tolees-21'
 descuento: '41.82'
 average: '34.9'

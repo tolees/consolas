@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Hori - Base de Carga Poké Ball Plus  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HC4ZD3B/?tag=tolees-21'
 descuento: '25.21'
 average: '16.41153846153846'

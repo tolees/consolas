@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Timorn Negro Full Sets Face Botones para PS4 Dual Shock 4 Controller Botones de Repuesto Accesorios de Repuesto Accesorios  1 Juego '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06VYC44V6/?tag=tolees-21'
 descuento: '36.40'
 average: '6.99'

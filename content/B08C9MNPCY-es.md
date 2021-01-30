@@ -16,6 +16,7 @@ comparePrice: 31.77 EUR
 prodname: 'ZIYOULANG - Ratón de juegos con cable  69G Honeycomb Shell ligero con 6400 DPI  6 botones programables USB para juegos  para jugadores de PC y usuarios de Xbox y PS4  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08C9MNPCY/?tag=tolees-21'
 descuento: '19.99'
 average: '26.476666666666667'

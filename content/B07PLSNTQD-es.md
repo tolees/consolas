@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'Switch Nintendo Labo: Kit de VR - Set de expansión 1'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PLSNTQD/?tag=tolees-21'
 descuento: '49.80'
 average: '12.945'

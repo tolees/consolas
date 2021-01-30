@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Mando Inalámbrico para Nintendo Switch  Mando Pro Controller Mando pc Inalambrico con Función Gyro Axis/Dual Shock y Turbo Compatible con Nintendo Switch/Lite  Mando Bluetooth Switch Pro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CVHL121/?tag=tolees-21'
 descuento: '32.51'
 average: '26.99'

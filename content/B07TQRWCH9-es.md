@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Maegoo Mando Controlador Inalámbrico para Nintendo Switch  Bluetooth Remote Wireless Pro Mandos Controller Gamepad Joypad con Función Gyro Axis/Dual Shock y Turbo - Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07TQRWCH9/?tag=tolees-21'
 descuento: '62.87'
 average: '25.99'

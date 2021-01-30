@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'LucidSound - LS31 Wireless Gaming Headset  PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GCN2RWW/?tag=tolees-21'
 descuento: '38.18'
 average: '106.85'

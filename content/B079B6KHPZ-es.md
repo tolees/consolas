@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Darksiders III - Xbox One'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079B6KHPZ/?tag=tolees-21'
 descuento: '50.08'
 average: '20.84875'

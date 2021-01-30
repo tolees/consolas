@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Hori - Funda De Felpa Yo-Kai Watch Komasan  Nintendo 3Ds  2Ds '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N3VS54J/?tag=tolees-21'
 descuento: '49.57'
 average: '7.56'

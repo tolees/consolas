@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'eXtremeRate Carcasa Mando PS4 Funda Delantera Protectora de la Placa Frontal Cubierta reemplazable para Mando del Playstation 4 PS4 Slim Pro con JDM-040 JDM-050 JDM-055 Oro Cromado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DX2W35B/?tag=tolees-21'
 descuento: '55.58'
 average: '11.99'

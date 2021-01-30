@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Cocoda Cascos Gaming  Auriculares Gaming PS4 para PS3/PC/Xbox One/Nintendo Switch/Laptop  Auriculares Microfono Estéreo con Bass Surround Cancelacion Ruido  3.5mm Jack  Control de Volumen'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085ZL8QDV/?tag=tolees-21'
 descuento: '38.82'
 average: '15.29'

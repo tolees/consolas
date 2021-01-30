@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Osaloe Switch HDMI 1x4  1 Entrada y 4 Salidas   Conmutador HDMI Digital Portátil con Full HD 1080P 4K * 2K 3D  HDMI Splitter para HDTV DVD Xbox PS4 PS3 PC Receptor Satélite  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GLG3ZDW/?tag=tolees-21'
 descuento: '34.63'
 average: '18.99'

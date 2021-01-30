@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Controlador inalámbrico PS4  para Playstation 4 / Pro/Slim/PC portátil  Panel táctil Joypad con Doble vibración  Forma oportuna al Instante para Compartir Joystick'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PXC1JRV/?tag=tolees-21'
 descuento: '41.66'
 average: '55.825'

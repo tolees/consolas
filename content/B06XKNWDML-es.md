@@ -16,6 +16,7 @@ comparePrice: 11.68 EUR
 prodname: 'Childhood 1.8m Audio Video Cable de cable AV 9Pin a RCA Cable de conexión para Sega Genesis Mega Drive 2 3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XKNWDML/?tag=tolees-21'
 descuento: '23.12'
 average: '8.98'

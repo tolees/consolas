@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'PDP - Mando Mini Con Cable Rock Candy Azul Glow  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VB3YMF9/?tag=tolees-21'
 descuento: '17.36'
 average: '17.676666666666666'

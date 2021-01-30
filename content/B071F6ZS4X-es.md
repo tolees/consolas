@@ -16,6 +16,7 @@ comparePrice: 12.0 EUR
 prodname: 'Lápiz óptico para Nintendo 2DS - COCOTOP Compatible con ranura para consola de videojuegos Lápiz táctil de plástico para 2DS -  paquete de 10 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071F6ZS4X/?tag=tolees-21'
 descuento: '25.00'
 average: '9.0'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Timorn Soporte Interno de Soporte Medio de la Placa Madre para Playstation 4 PS4 Pro Controlador JDM-040  2pcs '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072FB6FGS/?tag=tolees-21'
 descuento: '37.52'
 average: '9.99'

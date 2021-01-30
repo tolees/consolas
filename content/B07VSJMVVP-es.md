@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Citadel : Forged with Fire pour PS4 [Importación francesa]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VSJMVVP/?tag=tolees-21'
 descuento: '16.45'
 average: '33.41'

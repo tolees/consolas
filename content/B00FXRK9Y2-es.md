@@ -16,6 +16,7 @@ comparePrice: 16.94 EUR
 prodname: 'Sony Playstation 3 - Lámina protectora adhesiva para mando de PS3  My Heart'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00FXRK9Y2/?tag=tolees-21'
 descuento: '29.04'
 average: '12.02'

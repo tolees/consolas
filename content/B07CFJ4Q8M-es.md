@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Nintendo Switch Joy-con Grips  3 Piezas  HEYSTOP Estuche Protector Handle Kits para Mandos JoyCon Set de Nintendo Switch Controller'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CFJ4Q8M/?tag=tolees-21'
 descuento: '25.01'
 average: '14.99'

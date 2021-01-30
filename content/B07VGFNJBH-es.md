@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Super Monkey Ball: Banana Blitz HD - Xbox One'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VGFNJBH/?tag=tolees-21'
 descuento: '48.46'
 average: '27.8'

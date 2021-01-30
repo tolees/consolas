@@ -16,6 +16,7 @@ comparePrice: 319.0 EUR
 prodname: 'Astro Gaming A50 - Auriculares  con Micrófono Inalámbricos y Estación Base con Sonido Envolvente Dolby 7.1  Compatibles con Xbox One  Pc  Mac  Gris/Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G4DD5DB/?tag=tolees-21'
 descuento: '47.02'
 average: '264.6033333333333'

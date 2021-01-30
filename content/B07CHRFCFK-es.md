@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Shenmue I & II - PS4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CHRFCFK/?tag=tolees-21'
 descuento: '37.55'
 average: '17.6275'

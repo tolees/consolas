@@ -16,6 +16,7 @@ comparePrice: 14.9 EUR
 prodname: 'Nintendo - Figura amiibo Kirby Kirby'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CSV0BNY/?tag=tolees-21'
 descuento: '25.44'
 average: '13.082857142857144'

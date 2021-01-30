@@ -16,6 +16,7 @@ comparePrice: 44.84 EUR
 prodname: 'SEGA Mario & Sonic at the Olympic Games  Wii - Juego  Wii '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000OZ52YU/?tag=tolees-21'
 descuento: '51.85'
 average: '21.59'

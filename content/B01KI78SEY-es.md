@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Nintendo Selects: Super Mario 3D World'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01KI78SEY/?tag=tolees-21'
 descuento: '36.49'
 average: '33.22333333333333'

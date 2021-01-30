@@ -16,6 +16,7 @@ comparePrice: 35.51 EUR
 prodname: 'God of War - PlayStation 4 [Importación inglesa]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GVRZZGY/?tag=tolees-21'
 descuento: '15.43'
 average: '30.03'

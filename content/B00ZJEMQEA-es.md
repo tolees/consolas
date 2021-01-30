@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Pdp - Mono Auricular Chat Afterglow LVL 1  Xbox One '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00ZJEMQEA/?tag=tolees-21'
 descuento: '66.93'
 average: '5.95'

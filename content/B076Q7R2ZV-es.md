@@ -16,6 +16,7 @@ comparePrice: 40.99 EUR
 prodname: 'TUTUO Nintendo Switch Dock USB Tipo C a HDMI Adaptador USB Hub Convertidor Cable USB 3.0 y USB C PD  Power Delivery  Hub para Nintendo Switch  Macbook Pro 2017 2016  Samsung Galaxy Note9 S9  Oneplus 6'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076Q7R2ZV/?tag=tolees-21'
 descuento: '51.23'
 average: '21.32333333333333'

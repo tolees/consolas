@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'GEEMEE Mando Inalámbrico para PS4  Wireless Bluetooth Controlador Gamepad Remoto Joystick  Sensor giroscópico de 6 Ejes  función de AudioDual Shock Gaming Controller para Playstation 4 / Pro/Slim'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08GHM45W8/?tag=tolees-21'
 descuento: '26.09'
 average: '38.49'

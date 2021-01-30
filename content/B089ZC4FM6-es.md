@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Railway Empire Complete Collection  PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B089ZC4FM6/?tag=tolees-21'
 descuento: '21.28'
 average: '31.48'

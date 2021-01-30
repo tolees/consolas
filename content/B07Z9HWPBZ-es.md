@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Meridiem Games - Meridiem Games - Dragon Ball Arcade Mini  Nintendo Switch   Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Z9HWPBZ/?tag=tolees-21'
 descuento: '50.23'
 average: '14.969999999999999'

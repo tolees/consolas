@@ -16,6 +16,7 @@ comparePrice: 7.75 EUR
 prodname: 'Fácil de Instalar Tarjeta de Memoria de Alta Velocidad de 128MB Guardar Tarjeta de Datos del Juego Adecuada para Nintendo Gamecube y Wii 2043 Bloques'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HNWFGD4/?tag=tolees-21'
 descuento: '32.00'
 average: '5.27'

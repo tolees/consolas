@@ -16,6 +16,7 @@ comparePrice: 29.97 EUR
 prodname: 'KLIM Nova + Base de refrigeración para portátiles RGB - 11" a 19" + Estable y silenciosa + Panel de Metal + Refrigeración para portátil Gaming Compatible con Mac y PS4 + Nueva 2020'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081RJFTRT/?tag=tolees-21'
 descuento: '19.99'
 average: '23.98'

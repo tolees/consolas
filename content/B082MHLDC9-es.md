@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Maegoo Inalámbrico Mando para Nintendo Switch  Bluetooth Wireless Nintendo Switch Pro Mando Controlador Gamepad Joypad Joystick Admite Sensor 6 Gyro Axis  Turbo y Dual Motor Vibration  Amarillo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082MHLDC9/?tag=tolees-21'
 descuento: '20.01'
 average: '23.19'

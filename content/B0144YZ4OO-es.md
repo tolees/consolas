@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Ardistel - Batería De Emergencia Para Mandos  PlayStation 4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0144YZ4OO/?tag=tolees-21'
 descuento: '66.98'
 average: '4.95'

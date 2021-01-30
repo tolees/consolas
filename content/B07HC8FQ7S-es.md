@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'YOSH Cable USB Tipo C con tecnología Quick Charge 3.0  2 Unidades  1 Metro +1 Metro   Carga Rápida y Sincronización para Samsung S9 S8 Huawei P20 P10 BQ Aquaris X2 Google Pixel 2 Nintendo Switch etc.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HC8FQ7S/?tag=tolees-21'
 descuento: '20.03'
 average: '6.39'

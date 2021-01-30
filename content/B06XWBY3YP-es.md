@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'SEGA Genesis - Consola Retro Sega Mega Drive  81 Juegos '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XWBY3YP/?tag=tolees-21'
 descuento: '33.41'
 average: '44.651538461538465'

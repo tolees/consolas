@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'FR-TEC - Cargador para Mando Playstation 4  Estación de Carga Inalámbrica  PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZFYQ7V6/?tag=tolees-21'
 descuento: '36.33'
 average: '24.5875'

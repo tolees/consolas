@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'ORICO 5Gbps SuperSpeed 4 Puertos USB 3.0 Hub con BC1.2 función de Carga  Portátil  PS4  Xbox  Memoria USB  Ratón  Teclado Compatible con Windows y Linux-Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PN21NF6/?tag=tolees-21'
 descuento: '29.04'
 average: '21.99'

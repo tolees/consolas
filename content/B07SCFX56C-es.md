@@ -16,6 +16,7 @@ comparePrice: 39.98 EUR
 prodname: 'YU-GI-OH! LEGACY OF THE DUELIST: LINK EVOLUTION - - Nintendo Switch [Importación italiana]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SCFX56C/?tag=tolees-21'
 descuento: '20.84'
 average: '31.725'

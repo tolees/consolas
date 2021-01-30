@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Samurai Shodown - PS4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q82PCWX/?tag=tolees-21'
 descuento: '49.14'
 average: '30.793636363636367'

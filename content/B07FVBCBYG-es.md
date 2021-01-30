@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Hori - Go Pack  Super Mario   Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FVBCBYG/?tag=tolees-21'
 descuento: '20.17'
 average: '19.95'

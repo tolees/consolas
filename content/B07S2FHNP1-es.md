@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'GRID  Day One Edition   PlayStation PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S2FHNP1/?tag=tolees-21'
 descuento: '29.30'
 average: '49.48'

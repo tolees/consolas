@@ -16,6 +16,7 @@ comparePrice: 12.89 EUR
 prodname: '3pcs Pegatinas de Consola Cubierta Adhesiva Hexágono Impreso para Sony PlayStation 4 PS4 Consola Controlador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IFDRN44/?tag=tolees-21'
 descuento: '44.45'
 average: '7.16'

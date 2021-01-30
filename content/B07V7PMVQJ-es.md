@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Call of Cthulhu - Nintendo Switch'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7PMVQJ/?tag=tolees-21'
 descuento: '50.24'
 average: '29.33416666666667'

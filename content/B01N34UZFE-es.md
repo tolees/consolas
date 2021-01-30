@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Subsonic - Kit 7 En 1  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N34UZFE/?tag=tolees-21'
 descuento: '70.87'
 average: '4.95'

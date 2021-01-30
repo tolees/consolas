@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Megaman 11 para PlayStation 4 - Edición Estándar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07DQW812Z/?tag=tolees-21'
 descuento: '49.98'
 average: '17.977999999999998'

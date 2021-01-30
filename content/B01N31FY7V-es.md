@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Timorn Botón Aleatorio de reemplazo de Presione el Soporte de la Cinta de la Esponja para el regulador PS4 de Playstation 4  1pc '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N31FY7V/?tag=tolees-21'
 descuento: '40.04'
 average: '5.99'

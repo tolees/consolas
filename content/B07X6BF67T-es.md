@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'THE G-LAB Korp COBALT Auriculares Gaming - Auriculares estéreo  Ultra Ligero  Auriculares con Micrófono  Jack de 3.5 mm para PC  PS4  Xbox One  Mac  Tablet PC  Switch  Smartphone  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X6BF67T/?tag=tolees-21'
 descuento: '35.02'
 average: '12.99'

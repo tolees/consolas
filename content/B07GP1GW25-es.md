@@ -16,6 +16,7 @@ comparePrice: 259.99 EUR
 prodname: 'Thrustmaster - TSS Freno de Mano Sparco Mod + Add-On  PS4  Xbox One  PC para Windows 10 8 7 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GP1GW25/?tag=tolees-21'
 descuento: '24.98'
 average: '199.255'

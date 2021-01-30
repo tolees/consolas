@@ -16,6 +16,7 @@ comparePrice: 358.99 EUR
 prodname: 'Playseat Evolution Playstation [Importación Inglesa]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N0DNCTO/?tag=tolees-21'
 descuento: '25.07'
 average: '298.99666666666667'

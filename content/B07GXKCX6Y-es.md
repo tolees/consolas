@@ -16,6 +16,7 @@ comparePrice: 40.59 EUR
 prodname: 'Mando Inalámbrico GameCube  Color Negro  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GXKCX6Y/?tag=tolees-21'
 descuento: '26.78'
 average: '29.72'

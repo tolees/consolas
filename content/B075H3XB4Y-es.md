@@ -16,6 +16,7 @@ comparePrice: 19.9 EUR
 prodname: 'PowerA - Comfort Grip Para 2 Joy-Con De Mario Odyssey  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075H3XB4Y/?tag=tolees-21'
 descuento: '24.67'
 average: '14.99'

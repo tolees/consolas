@@ -16,6 +16,7 @@ comparePrice: 72.93 EUR
 prodname: 'IBRA Cable de Alta Velocidad Optical HDMI de 5M Cable HDMI de Alta Velocidad v2.0 18Gbps Soporte 4K @ 60Hz / 4: 4: 4 / 3D / 4K HDR HDCP 2.2 para HDTV  Roku TV  Xbox One X  Home Theater  PS4  PS3'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F5LV5KM/?tag=tolees-21'
 descuento: '52.74'
 average: '53.46'

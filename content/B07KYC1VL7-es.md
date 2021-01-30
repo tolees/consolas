@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'HyperX HX-HSCSCX-BK CloudX Stinger Core - Cascos de Gaming para Xbox One'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KYC1VL7/?tag=tolees-21'
 descuento: '25.01'
 average: '29.955000000000002'

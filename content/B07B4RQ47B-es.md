@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'AUKEY Powerbank USB C 10000mAh con Power Delivery de 18 W  Quick Charge 3.0  PD Bateria Externa para iPhone XS/ XS Max/ XR  Nintendo Switch  Samsung  Xiaomi y más'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B4RQ47B/?tag=tolees-21'
 descuento: '44.45'
 average: '25.759230769230772'

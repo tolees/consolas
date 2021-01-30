@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Darksiders Genesis - PS4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07STVZH3L/?tag=tolees-21'
 descuento: '32.51'
 average: '25.914444444444445'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'New Bee Soporte Auriculares Universal en Mesa para Bose QuietComfort 25  QuietComfort 35  Gaming Headset Stand  Beats Solo 3  Beats Solo 2  Sony Playstation etc.  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07NSRXBQK/?tag=tolees-21'
 descuento: '50.03'
 average: '7.656666666666667'

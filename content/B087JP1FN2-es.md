@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Disco Duro Externo 2 TB  Type C USB3.1 Disco Duro Externo para PC  Mac  Xbox One  MacBook  Desktop  Laptop  Xbox 360. 2TB Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B087JP1FN2/?tag=tolees-21'
 descuento: '38.19'
 average: '67.99'

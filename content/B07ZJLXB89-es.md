@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Spongebob SquarePants: Battle for Bikini Bottom Rehydrated - Edición Shiny  PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZJLXB89/?tag=tolees-21'
 descuento: '40.00'
 average: '117.2425'

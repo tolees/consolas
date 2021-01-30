@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Primewire – 0 5m Cable HDMI 2.1 - Alta Velocidad con Ethernet - 8k @ 120 Hz con DSC - 7680 x 4320 - UHD II - Compatible con HDMI 2.1 2.0a 2.0b - 3D - HDR - ARC - Compatible con Blue Ray PS4 Xbox'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CZW5KP2/?tag=tolees-21'
 descuento: '28.61'
 average: '4.99'

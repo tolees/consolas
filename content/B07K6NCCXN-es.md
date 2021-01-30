@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'FR·TEC -  Auriculares Gaming Headset AIZEN - PS4  Xbox One  Nintendo Switch  PC  Mac'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07K6NCCXN/?tag=tolees-21'
 descuento: '42.61'
 average: '26.45'

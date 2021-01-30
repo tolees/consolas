@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: '【Actualizado 2020】 Proyector WiFi  BOSNAS Nativo 720P Mini Proyector Portátil Cine en Casa  Soporta Full HD 1080P  Pantalla de 200 " para Móvil Android iPhone Laptop TV Stick PS4 HDMI USB AV'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B083FL9C3P/?tag=tolees-21'
 descuento: '15.00'
 average: '133.99'

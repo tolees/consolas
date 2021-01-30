@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'eXtremeRate Carcasa para JoyCons de Nintendo Switch Funda de Agarre Shell de bricolaje Cubierta Tacto Suave con ABXY Drecctión Botones para Nintendo Switch No incluye Carcasa de consola Sakura Pétalo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08HQBC816/?tag=tolees-21'
 descuento: '30.89'
 average: '23.49'

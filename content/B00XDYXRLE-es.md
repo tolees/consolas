@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Bigben Interactive - Headset Auricular PS4Communicator  Playstation 4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XDYXRLE/?tag=tolees-21'
 descuento: '30.02'
 average: '9.09'

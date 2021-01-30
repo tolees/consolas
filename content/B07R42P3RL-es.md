@@ -16,6 +16,7 @@ comparePrice: 17.09 EUR
 prodname: 'THE G-LAB Kult RADIUM - 4800 DPI Ratón Gaming con Sensor óptico de alta precisión - Ratón Gaming USB con cable  7 botones programables  Retroiluminación RGB - PC  Xbox One  PS4 -  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07R42P3RL/?tag=tolees-21'
 descuento: '18.14'
 average: '13.99'

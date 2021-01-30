@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Seagate Game Drive para Xbox  4 TB  Disco duro externo  HDD portátil  diseñado para Xbox One  STEA4000402 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BV13S7S/?tag=tolees-21'
 descuento: '23.33'
 average: '118.2408510638298'

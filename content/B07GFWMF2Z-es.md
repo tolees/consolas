@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Steelseries Arctis 5 Auriculares De Juego  Iluminados por RGB  DTS Headphone: X V2.0 Surround para Pc Y Playstation 4  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GFWMF2Z/?tag=tolees-21'
 descuento: '29.23'
 average: '93.501'

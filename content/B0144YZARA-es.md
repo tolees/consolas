@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Ardistel - Stereo Gaming Headset PRO4-40  Color Azul  PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0144YZARA/?tag=tolees-21'
 descuento: '37.01'
 average: '22.59'

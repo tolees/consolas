@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'TP-Link TL-PA7010 KIT - 2 Adaptadores de Comunicación por Línea Eléctrica  AV 1000 Mbps Gigabit  PLC  Extensor  Repetidores de Red  Amplificador Cobertura Internet  2 puertos  PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01NARHG7X/?tag=tolees-21'
 descuento: '15.98'
 average: '42.38'

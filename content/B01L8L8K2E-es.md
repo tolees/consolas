@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Timorn Reemplazo Piezas L1 R1 L2 R2 gatillo Piezas Botones con resortes compatibles para Playstation PS 4 Controlador PS4 DualShock 4  1 Set '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01L8L8K2E/?tag=tolees-21'
 descuento: '53.89'
 average: '5.99'

@@ -16,6 +16,7 @@ comparePrice: 83.54 EUR
 prodname: 'aming Headset para PS4  XBOX One  PC controlador diza100 V4 Gaming Auriculares con carcasas aluminio Oreja'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07BMSPSMW/?tag=tolees-21'
 descuento: '72.58'
 average: '22.91'

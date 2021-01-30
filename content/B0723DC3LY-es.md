@@ -16,6 +16,7 @@ comparePrice: 15.49 EUR
 prodname: 'AmazonBasics - Kit de empuñaduras para mandos Joy-Con de Nintendo Switch - Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0723DC3LY/?tag=tolees-21'
 descuento: '52.74'
 average: '8.440000000000001'

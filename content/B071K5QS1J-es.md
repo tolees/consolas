@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Timorn Replacement Full Screws Set Reparación de Piezas para Consola Nintendo 3DS  1 Set '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071K5QS1J/?tag=tolees-21'
 descuento: '38.49'
 average: '7.99'

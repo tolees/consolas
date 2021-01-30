@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'JSAUX Cable Alargador USB 3.0 [3M] Tipo A Macho a Hembra Extensor para Conexión Entre PC  TV y Periféricos como Impresora  Ratón  Teclado  Hub  Pendrive  Xbox  Impresoras  ratón y Otros-Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CR3LD3R/?tag=tolees-21'
 descuento: '15.02'
 average: '9.24'

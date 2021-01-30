@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Proyector WiFi  BOSNAS Mini Proyector Portátil 5800 Lúmenes Nativo 720P  Soporta Full HD 1080P  Pantalla de 200 "  78000 Horas Vida Compatible con TV Stick PS4 HDMI VGA AV USB Android iOS  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088GSKT3J/?tag=tolees-21'
 descuento: '18.94'
 average: '129.69'

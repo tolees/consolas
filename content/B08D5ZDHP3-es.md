@@ -16,6 +16,7 @@ comparePrice: 269.99 EUR
 prodname: 'Monitor Portátil  Uperfect 15 6 Pulgadas Monitor Gaming FHD 1920 x 1080 IPS Pantalla con USB Tipo C/Mini HDMI  Altavoces Integrados para Ordenador Portátil Juegos PC PS4 Xbox Raspberry Pi Teléfonos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08D5ZDHP3/?tag=tolees-21'
 descuento: '25.93'
 average: '199.99'

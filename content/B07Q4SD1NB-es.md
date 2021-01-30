@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Etpark Mando Xbox 360  PC Mando USB Controlador de Gamepad Joystick de juegos Joypad para Xbox 360  mando de diseño ergonómico mejorado para Xbox 360 Slim y PC con Windows XP / Vista / 7/8 / 8.1 / 10'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07Q4SD1NB/?tag=tolees-21'
 descuento: '19.24'
 average: '19.32333333333333'

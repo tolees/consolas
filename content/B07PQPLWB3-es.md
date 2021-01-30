@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: '4K Cable HDMI 2 metros  2.0 Cable HDMI Ultra HD  soporta 4K Ultra HD  3D  2160P  1080P  Ethernet  conectores chapados en oro trenzado de nylon para PS4  XBOX  TV  computadora y monitor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PQPLWB3/?tag=tolees-21'
 descuento: '57.93'
 average: '7.99'

@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Thrustmaster - eSwap Pro Controller: gamepad  el versátil mando profesional con cable  PS4 / PC '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WGW88NS/?tag=tolees-21'
 descuento: '23.24'
 average: '142.274'

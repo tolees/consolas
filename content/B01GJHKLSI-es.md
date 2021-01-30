@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Trust Gaming GXT 744 - Funda de Silicona para Mando PS4  Color Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GJHKLSI/?tag=tolees-21'
 descuento: '44.49'
 average: '4.99'

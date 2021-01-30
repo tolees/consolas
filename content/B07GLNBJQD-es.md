@@ -16,6 +16,7 @@ comparePrice: 39.78 EUR
 prodname: 'Xbox One Enhanced Wired Controller - Xbox One [Importación inglesa]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GLNBJQD/?tag=tolees-21'
 descuento: '30.02'
 average: '27.84'

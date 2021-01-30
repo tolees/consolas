@@ -16,6 +16,7 @@ comparePrice: 19.42 EUR
 prodname: 'HEYSTOP Carcasa Nintendo Switch  Funda Nintendo Switch con Protector de Pantalla para Nintendo Switch Console y Joy Cons con 6 Agarres para el Pulgar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S3TD6SG/?tag=tolees-21'
 descuento: '48.61'
 average: '9.98'

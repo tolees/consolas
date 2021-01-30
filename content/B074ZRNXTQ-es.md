@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'FR·TEC -  Grips XL Amarillo Neón - Nintendo Switch'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074ZRNXTQ/?tag=tolees-21'
 descuento: '20.07'
 average: '2.39'

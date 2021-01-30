@@ -16,6 +16,7 @@ comparePrice: 21.58 EUR
 prodname: 'Carcasa para Control de Consola Playstation Controlador de PS4 en Dorado-0072'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PZZFZWJ/?tag=tolees-21'
 descuento: '44.44'
 average: '11.99'

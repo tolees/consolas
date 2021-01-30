@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'FIFA 20 - Xbox One [Importación inglesa]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RZ864SB/?tag=tolees-21'
 descuento: '23.66'
 average: '29.0'

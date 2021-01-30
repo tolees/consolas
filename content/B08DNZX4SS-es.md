@@ -16,6 +16,7 @@ comparePrice: 21.7 EUR
 prodname: 'Power Theory Protector Pantalla Cristal Templado para Nintendo Switch  2 unidades  Vidrio Ultrafino  0.33mm   Ultraresistente  9H Dureza  con Kit de Instalación sin Burbujas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DNZX4SS/?tag=tolees-21'
 descuento: '40.32'
 average: '12.95'

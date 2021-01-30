@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'LucidSound - LS25 eSports Gaming Headset  PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071G6ZPRK/?tag=tolees-21'
 descuento: '35.93'
 average: '68.95500000000001'

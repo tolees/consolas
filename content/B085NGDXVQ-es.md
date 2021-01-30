@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'RedThunder Teclado mecánico para juegos con una sola mano RGB Retroiluminado Mini teclado portátil para juegos Controlador de juegos para PC PS4 Xbox Gamer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B085NGDXVQ/?tag=tolees-21'
 descuento: '16.67'
 average: '49.99'

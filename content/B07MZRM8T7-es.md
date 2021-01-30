@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Kaisi Torx destornillador T3 T4 T5 T6 T8 T9 T10 T15 seguridad torx drivers destornilladores magnéticos kit de reparación de precisión para Xbox PS4 anillo timbre MacBook ordenador'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MZRM8T7/?tag=tolees-21'
 descuento: '37.52'
 average: '9.99'

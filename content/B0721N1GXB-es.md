@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Shadow Of The Colossus  PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0721N1GXB/?tag=tolees-21'
 descuento: '22.17'
 average: '19.456666666666667'

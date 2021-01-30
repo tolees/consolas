@@ -16,6 +16,7 @@ comparePrice: 19.55 EUR
 prodname: 'Igrome Auriculares Gaming PS4 Cascos Gaming de Mac Estéreo con Micrófono Juego Gaming Headset con 3.5mm Jack Luz LED Bajo Ruido Compatible con PC/Xbox One/Nintendo Switch/Móvil  Rojo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KFLX8TH/?tag=tolees-21'
 descuento: '17.24'
 average: '16.95'

@@ -16,6 +16,7 @@ comparePrice: 68.0 EUR
 prodname: 'Disco Duro Externo 1 TB  Disco Duro Externo para PC  Mac Xbox  MacBook  Chromebook 1TB Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B1FYKFW/?tag=tolees-21'
 descuento: '29.43'
 average: '47.99'

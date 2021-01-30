@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Pengo 4K HDMI Pass-Through Grabber  Capturadora de Video USB 3.0 1080p60  Sin latencia  Funciona con PC  Mac  PS4  Xbox One  Switch  con USB-C Adaptador para Macbook Pro 2016+   Metalico '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HF6VRZV/?tag=tolees-21'
 descuento: '45.60'
 average: '135.99'

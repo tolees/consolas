@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Meridiem Games - Resident Evil Arcade Mini  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YGMC8T7/?tag=tolees-21'
 descuento: '50.23'
 average: '14.2'

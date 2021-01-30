@@ -16,6 +16,7 @@ comparePrice: 57.15 EUR
 prodname: '[2017 SADES SA807 Nueva Xbox one PS4 Gaming Headset] Gaming auriculares con micrófono sonido envolvente estéreo Pro sonido Deep Bass Over-the-Ear Control de volume'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FSZQ1W1/?tag=tolees-21'
 descuento: '59.77'
 average: '22.99'

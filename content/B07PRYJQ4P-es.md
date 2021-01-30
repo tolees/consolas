@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'A.O.T. 2: Final Battle - Nintendo Switch'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PRYJQ4P/?tag=tolees-21'
 descuento: '67.15'
 average: '33.545'

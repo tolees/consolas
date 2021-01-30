@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'HORI - Vault Case Animal Crossing  Nintendo Switch / Switch Lite '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01C6WUP6S/?tag=tolees-21'
 descuento: '15.46'
 average: '21.066666666666666'

@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Funda para Nintendo Switch Case de protección para Nintendo Switch  Bolsa Transporte Ligera Case con más Espacio de Almacenamiento para 19 Juegos para Accesorios Nintendo Switch'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RDNGPLJ/?tag=tolees-21'
 descuento: '16.68'
 average: '9.99'

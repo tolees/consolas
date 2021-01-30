@@ -16,6 +16,7 @@ comparePrice: 10.21 EUR
 prodname: 'Cable Micro USB  Tujun [3 Unidades/3 pies+3 pies+6 pies] Android USB de Carga rápida Cable de Nailon para Samsung Galaxy S7 S6 S5 J7 Note 5  Kindle  Nexus  Sony  Xbox  HTC  PS4 y más Rojo + Azul.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZGMW73H/?tag=tolees-21'
 descuento: '77.86'
 average: '2.26'

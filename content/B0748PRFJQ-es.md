@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Microsoft - Mando Inalámbrico: Edición Limitada Minecraft Pig  Xbox One   rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0748PRFJQ/?tag=tolees-21'
 descuento: '28.63'
 average: '47.44375'

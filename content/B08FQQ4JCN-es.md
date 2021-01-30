@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'eXtremeRate Multicolores LED Botones para Mando Nintendo Switch Pro Botón de D-Pad Joysticks ABXY ZR ZL L R Teclas DTFS LED Kit para Control Pro Nintendo Switch-DIY 9 Colores Modos 6 Areas Símbolo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FQQ4JCN/?tag=tolees-21'
 descuento: '22.45'
 average: '37.99'

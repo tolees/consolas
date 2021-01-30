@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Microsoft - Soporte Vertical  Xbox One S '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01H3F19CM/?tag=tolees-21'
 descuento: '74.99'
 average: '7.475'

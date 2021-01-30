@@ -16,6 +16,7 @@ comparePrice: 63.99 EUR
 prodname: 'Prode Disco Duro Externo Portátil 2.5" 2TB  USB3.0 SATA HDD Almacenamiento para PC y Mac Xbox  2tb  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CMRWNC6/?tag=tolees-21'
 descuento: '18.75'
 average: '51.99'

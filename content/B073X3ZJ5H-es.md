@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Pdp - Mando Licenciado Nueva  Color Camuflaje Negro  Xbox One '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073X3ZJ5H/?tag=tolees-21'
 descuento: '34.68'
 average: '22.29'

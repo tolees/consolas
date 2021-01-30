@@ -16,6 +16,7 @@ comparePrice: 297.99 EUR
 prodname: 'BOSNAS Proyector 6000 Lúmenes Proyector Full HD Soporta 1920 x 1080P Proyector Cine en Casa Sonido Hi-Fi Proyector LED 70000 Horas Bajo Ruido Video Fluido PS4 HDMI USB VGA AV'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YZ58MJW/?tag=tolees-21'
 descuento: '39.60'
 average: '179.99'

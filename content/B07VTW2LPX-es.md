@@ -16,6 +16,7 @@ comparePrice: 133.3 EUR
 prodname: 'WD 4 TB My Passport disco duro portátil con protección con contraseña y software de copia de seguridad automática  Compatible con PC  Xbox y PS4  color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VTW2LPX/?tag=tolees-21'
 descuento: '15.98'
 average: '104.452'

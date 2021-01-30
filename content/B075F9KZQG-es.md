@@ -16,6 +16,7 @@ comparePrice: 17.73 EUR
 prodname: 'PowerA - Cargador de coche Question Block  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B075F9KZQG/?tag=tolees-21'
 descuento: '36.21'
 average: '11.31'

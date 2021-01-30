@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Nacon - Micrófono de Streaming  Oficial Sony  PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07X2XV4VW/?tag=tolees-21'
 descuento: '40.94'
 average: '56.50571428571429'

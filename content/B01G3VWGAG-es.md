@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Lego Dimensions Starter Pack - Xbox 360 [Importación Italiana]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G3VWGAG/?tag=tolees-21'
 descuento: '28.86'
 average: '45.08181818181818'

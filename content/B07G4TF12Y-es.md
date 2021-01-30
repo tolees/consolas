@@ -16,6 +16,7 @@ comparePrice: 55.91 EUR
 prodname: 'Middle Earth: Shadow of War Definitive Edition - PlayStation 4 [Importación inglesa]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G4TF12Y/?tag=tolees-21'
 descuento: '32.86'
 average: '37.54'

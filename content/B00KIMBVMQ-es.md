@@ -16,6 +16,7 @@ comparePrice: 18.18 EUR
 prodname: 'Fallout 4 - Xbox One [Importación inglesa]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KIMBVMQ/?tag=tolees-21'
 descuento: '17.49'
 average: '16.615000000000002'

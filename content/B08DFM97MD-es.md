@@ -16,6 +16,7 @@ comparePrice: 132.34 EUR
 prodname: 'Disco Duro Externo 2tb USB 3.1 Disco Duro Externo para Mac  PC MacBook  Chromebook  Xbox  2tb  Gris '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DFM97MD/?tag=tolees-21'
 descuento: '51.65'
 average: '63.99'

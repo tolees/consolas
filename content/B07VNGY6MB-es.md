@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'PowerA - Mando inalámbrico mejorado Pokémon Great Ball  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VNGY6MB/?tag=tolees-21'
 descuento: '20.00'
 average: '40.830000000000005'

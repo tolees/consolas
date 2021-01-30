@@ -16,6 +16,7 @@ comparePrice: 31.42 EUR
 prodname: 'Trust GXT 4374 Ruptor - Auriculares Gaming  Unidades Acústicas de 50 mm  Control del Volumen e Interruptor para Silenciar el Micrófono  para PC  PS4  Xbox One y Nintento Switch  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07HFL254S/?tag=tolees-21'
 descuento: '20.46'
 average: '24.99'

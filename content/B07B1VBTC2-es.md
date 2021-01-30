@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Sades SA810 Auriculares Gaming - 3.5mm Cancelación De Ruido Gaming Headset  juego auriculares con micrófono para nueva Xbox One PS4 portátil Mac Tablet  Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B1VBTC2/?tag=tolees-21'
 descuento: '69.15'
 average: '23.689999999999998'

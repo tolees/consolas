@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'ECHTPower Cargador Mando PS4  Estación de Carga USB  Protección Inteligente con LED Indicador para Sony Playstation 4 / PS4 / PS4 Pro / PS4 DualShock Gamepad（Nuevo Modelo 2020）'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07F8GDXW1/?tag=tolees-21'
 descuento: '30.45'
 average: '15.99'

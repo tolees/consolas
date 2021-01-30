@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Subsonic - Asiento de juego Sillón Gamer ergonómico  Silla gaming giratoria de oficina  con Licencia oficial DBZ Dragon Ball Super San Goku  Naranja y Azul  PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W52RRSY/?tag=tolees-21'
 descuento: '29.25'
 average: '195.1575'

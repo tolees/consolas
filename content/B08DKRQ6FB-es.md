@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Elyco Boxing Grip para Nintendo Switch  Empuñadura de Boxeo Fitness Compatible con Nintendo Switch Fitness Boxing Game  Switch Joy-con Accesorios  Assit Tool Mango de Agarre con cordón de Mano'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08DKRQ6FB/?tag=tolees-21'
 descuento: '20.01'
 average: '15.99'

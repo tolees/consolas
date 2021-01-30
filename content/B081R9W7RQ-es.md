@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Beexcellent Cascos PS4  Auriculares con Micrófono Flexible  50mm Driver Estéreo Envolventes  Orejeras Cómodas Iluminación RGB para PS4 Xbox One PC Tablet'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081R9W7RQ/?tag=tolees-21'
 descuento: '18.55'
 average: '19.54'

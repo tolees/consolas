@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'Assassin s Creed: The Ezio Collection - Xbox One'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01M0I0K0E/?tag=tolees-21'
 descuento: '51.79'
 average: '16.85111111111111'

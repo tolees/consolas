@@ -16,6 +16,7 @@ comparePrice: 4.41 EUR
 prodname: 'MagiDeal 3 par de Tapas Luminosas de Pulgar para Sony PS4 Controlador Joystick Accesorios para Videojuegos'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01E6PJ9CY/?tag=tolees-21'
 descuento: '44.44'
 average: '2.45'

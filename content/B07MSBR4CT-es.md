@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'eXtremeRate Carcasa para Nintendo Switch Funda Completa para Mando Controlador Consola Joy-con de Nintendo Switch Shell de Bricolaje reemplazable con Botón Completo  Fiesta de Miedo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MSBR4CT/?tag=tolees-21'
 descuento: '30.01'
 average: '34.99'

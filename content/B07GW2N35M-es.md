@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Rollercoster Tycoon Adventures - Classics - Nintendo Switch [Importación italiana]'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GW2N35M/?tag=tolees-21'
 descuento: '47.59'
 average: '26.2'

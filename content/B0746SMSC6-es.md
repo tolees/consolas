@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Nacon - Mando Compacto para PS4  color Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0746SMSC6/?tag=tolees-21'
 descuento: '27.68'
 average: '30.276666666666667'

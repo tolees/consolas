@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'ALWUP Cascos PS4 Gaming  Auriculares Gaming PS4 Xbox One con Micrófono Auriculares PC Game Graves Profundos Sonido Estéreo Anti-Ruido y Luces LED USB para Playstation Nintendo Switch Laptop Computer'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D4D8HLT/?tag=tolees-21'
 descuento: '23.51'
 average: '27.194444444444446'

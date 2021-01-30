@@ -16,6 +16,7 @@ comparePrice: 71.99 EUR
 prodname: 'eXtremeRate LED Botones para Mando PS4 Botón de D-pad L1 R1 R2 L2 Joysticks Home Face Multicolores Teclas DTFS DTF 2.0 Kit para PS4 Controlador CUH-ZCT2 DIY 7 Áreas en 10 Colores Modos-Símbolo Clásico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YW76YXL/?tag=tolees-21'
 descuento: '55.56'
 average: '31.99'

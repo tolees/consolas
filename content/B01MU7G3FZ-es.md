@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'eXtremeRate Pegatina Antideslizante con Textura de Goma para Playstation 4 Agarre del Mando PS4 Slim PS4 Pro-Mejore el Agarre y la Comodidad'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01MU7G3FZ/?tag=tolees-21'
 descuento: '50.03'
 average: '9.99'

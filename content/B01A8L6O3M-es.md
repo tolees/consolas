@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Hori - Horipad Inalámbrico Super Mario  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01A8L6O3M/?tag=tolees-21'
 descuento: '20.08'
 average: '40.722500000000004'

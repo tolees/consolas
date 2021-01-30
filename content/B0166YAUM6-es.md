@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Imp - Dragon Ball Z Grips   PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0166YAUM6/?tag=tolees-21'
 descuento: '31.77'
 average: '2.4925'

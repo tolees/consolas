@@ -16,6 +16,7 @@ comparePrice: 62.95 EUR
 prodname: 'para HDMI Scanline Generator Scanner para Juegos Retro Gamers MAME Emulators Arcades para Nessa Switch Xbox 360 PS4 - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B081DVXB8T/?tag=tolees-21'
 descuento: '33.50'
 average: '41.86'

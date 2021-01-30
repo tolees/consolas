@@ -16,6 +16,7 @@ comparePrice: 32.88 EUR
 prodname: '2 baterías para mando de Xbox One/Xbox One S/Xbox One X 1200 mAh recargables con cable de carga'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V7DXSPY/?tag=tolees-21'
 descuento: '25.94'
 average: '24.69'

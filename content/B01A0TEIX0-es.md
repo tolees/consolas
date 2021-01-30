@@ -16,6 +16,7 @@ comparePrice: 18.11 EUR
 prodname: 'Hori - Funda De Felpa Splatoon 2  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01A0TEIX0/?tag=tolees-21'
 descuento: '35.56'
 average: '11.67'

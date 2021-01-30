@@ -16,6 +16,7 @@ comparePrice: 61.99 EUR
 prodname: 'God Eater 3 for Nintendo Switch'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QZ22JZP/?tag=tolees-21'
 descuento: '35.63'
 average: '39.90555555555556'

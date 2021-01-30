@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Mando Inalámbrico Mejorado Link Silueta  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GXJHRVK/?tag=tolees-21'
 descuento: '18.80'
 average: '40.59'

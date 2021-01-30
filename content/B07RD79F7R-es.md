@@ -16,6 +16,7 @@ comparePrice: 49.98 EUR
 prodname: 'Searchyou True Blue Mini Crackhead Pack con 64G 101 Juegos para Playstation Classic'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07RD79F7R/?tag=tolees-21'
 descuento: '54.00'
 average: '23.99'

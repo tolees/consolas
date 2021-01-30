@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Ardistel - Headset Blackfire BFX10  PlayStation 4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0144YZ4MG/?tag=tolees-21'
 descuento: '20.01'
 average: '10.985'

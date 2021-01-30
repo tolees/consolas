@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'HORI - PlayStand Multipuerto USB  Nintendo Switch / Switch Lite '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01A827XHM/?tag=tolees-21'
 descuento: '25.11'
 average: '29.95'

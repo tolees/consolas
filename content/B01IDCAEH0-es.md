@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Gioteck - Estacion de carga DC4 Para 2 mandos PS4  PS4 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01IDCAEH0/?tag=tolees-21'
 descuento: '27.18'
 average: '5.09'

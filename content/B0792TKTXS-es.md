@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Switch Nintendo Labo - Set de personalización'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0792TKTXS/?tag=tolees-21'
 descuento: '55.06'
 average: '2.692727272727273'

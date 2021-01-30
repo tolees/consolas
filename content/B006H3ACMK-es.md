@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Slabo 2 x Protector de Pantalla Compatible con Nintendo DS Lite lámina Protectora Ultra Transparente'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006H3ACMK/?tag=tolees-21'
 descuento: '33.44'
 average: '1.99'

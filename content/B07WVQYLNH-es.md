@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Orzly Paquete de Accesorios para Nintendo Switch Lite – Incluye: Protectores de Pantalla & Funda para Switch Lite Consola  Funda Comfort Grip  Cable USB  Auriculares y más.  Amarillo '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WVQYLNH/?tag=tolees-21'
 descuento: '44.01'
 average: '27.99'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Steelseries Arctis 3 Auriculares De Juego Multiplataforma para Pc  Playstation 4  Xbox One  Nintendo Switch  RV  Android Y iOS  Blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07GG3T7FL/?tag=tolees-21'
 descuento: '20.50'
 average: '78.4325'

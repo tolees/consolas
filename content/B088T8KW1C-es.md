@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'PROZOR 192kHz DAC Convertidor Digital a Analógico con Ajuste de Volumen Optico SPDIF Toslink Coaxial a Estéreo RCA L/R Jack de 3 5 mm Soporta LPCM 2.0 para HDTV PS4 DVD Altavoces Auriculares'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B088T8KW1C/?tag=tolees-21'
 descuento: '34.80'
 average: '14.99'

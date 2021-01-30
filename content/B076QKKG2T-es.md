@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Razer Electra V2 - Auriculares analógicos para juegos y música  compatible con PC  PS4  Xbox One  Switch y dispositivos móviles'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B076QKKG2T/?tag=tolees-21'
 descuento: '41.66'
 average: '32.331'

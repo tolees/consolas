@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'eXtremeRate Carcasa para JoyCons de Nintendo Switch Funda de Agarre Shell Cubierta Tacto Suave con ABXY Drecctión Botones para Nintendo Switch No Incluye Carcasa de Consola Rapsodia Violeta '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08B5T9D9P/?tag=tolees-21'
 descuento: '36.68'
 average: '18.99'

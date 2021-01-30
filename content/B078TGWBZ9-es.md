@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'TUTUO Nintendo Switch Controlador Mando Inalámbrico Gamepad Bluetooth Controller Joypad Video Guego Joystick para Nintendo Switch Pro -Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B078TGWBZ9/?tag=tolees-21'
 descuento: '44.46'
 average: '22.103333333333335'

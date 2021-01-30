@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Vampire The Masquerade Bloodlines 2 - PlayStation 4'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07S3VT81G/?tag=tolees-21'
 descuento: '16.82'
 average: '49.9'

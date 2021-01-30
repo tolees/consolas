@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Ardistel - Game Traveler Deluxe Travel Case NNS57  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W1Z3T5G/?tag=tolees-21'
 descuento: '24.86'
 average: '14.656666666666666'

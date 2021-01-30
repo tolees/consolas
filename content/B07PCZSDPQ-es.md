@@ -16,6 +16,7 @@ comparePrice: 8.89 EUR
 prodname: 'Dragon Ball Z - Funda Para Almacenamiento De 24 Juegos  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PCZSDPQ/?tag=tolees-21'
 descuento: '22.05'
 average: '8.469999999999999'

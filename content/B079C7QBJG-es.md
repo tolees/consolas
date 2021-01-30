@@ -16,6 +16,7 @@ comparePrice: 17.15 EUR
 prodname: 'Playstation lámpara Play Station'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079C7QBJG/?tag=tolees-21'
 descuento: '15.04'
 average: '15.908'

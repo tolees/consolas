@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'eXtremeRate Carcasa Mando Xbox One S X Protectora de la Placa Frontal Funda Delantera Cubierta Shell Kit de reemplazo para Mando de Xbox One S Xbox One X  Model 1708  Cristal Transparente Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FC4HYPF/?tag=tolees-21'
 descuento: '41.68'
 average: '13.99'
