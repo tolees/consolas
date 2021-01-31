@@ -28,10 +28,10 @@ Tienes [Power A - Mando inalámbrico para Nintendo Switch GameCube. Estilo GameC
 
 🔎:
 
-- Cruceta con diseño clásico GameCube más grande y disparador frontal izquierdo añadido
-- Mandos de movimiento y botones de sistema añadidos para lograr compatibilidad con todos los juegos Nintendo Switch
-- Luces LED de alimentación, número del jugador y advertencia de batería baja
-- El mando favorito para Super Smash Bros Ultimate
 - Libertad inalámbrica Bluetooth
+- Cruceta con diseño clásico GameCube más grande y disparador frontal izquierdo añadido
+- Luces LED de alimentación, número del jugador y advertencia de batería baja
+- Mandos de movimiento y botones de sistema añadidos para lograr compatibilidad con todos los juegos Nintendo Switch
+- El mando favorito para Super Smash Bros Ultimate
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07GXMZ4TY/?tag=tolees-21)
