@@ -28,10 +28,10 @@ Ahora mismo tienes [Power A - Mando Morado con Cable  Botones programables y Sal
 
 🔎:
 
-- Producto con licencia oficial Xbox
-- Dos sticks analógicos: precisión optimizada para eliminar la zonas muertas. Control de dirección con forma de + y 8 direcciones (cruceta). Ubicación asimetrica de botones ABXY
 - Cable USB extraíble de 3 metros
-- Conexión de auriculares estéreo de 3,5 mm
 - Motores de doble vibración
+- Conexión de auriculares estéreo de 3,5 mm
+- Dos sticks analógicos: precisión optimizada para eliminar la zonas muertas. Control de dirección con forma de + y 8 direcciones (cruceta). Ubicación asimetrica de botones ABXY
+- Producto con licencia oficial Xbox
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08F42CZQL/?tag=tolees-21)
