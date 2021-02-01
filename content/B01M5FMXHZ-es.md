@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 16.00 % en Microsoft - Xbox One - Consola 1 TB'
-date: 2021-01-31 07:23:47
+date: 2021-02-01 07:32:32
 image: 'https://m.media-amazon.com/images/I/41jJc0h28VL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.es/dp/B01M5FMXHZ/?tag=tolees-21'
 descuento: '16.00'
-average: '290.437819548873'
+average: '290.490444444446'
 ---
 
 Tienes [Microsoft - Xbox One - Consola 1 TB](https://www.amazon.es/dp/B01M5FMXHZ/?tag=tolees-21) con un 16.00 % de descuento con precio de oferta de 293.99 EUR (original: 349.99 EUR) en el siguiente enlace!
