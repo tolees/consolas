@@ -28,12 +28,12 @@ Ahora mismo tienes [Nintendo - Game & Watch: Super Mario Bros.](https://www.amaz
 
 🔎:
 
-- Si quieres algo más relajado, lo tuyo es la revisión del clásico de Game&Watch Ball con un toque de Mario.
-- 4 en 1, Mario para Rato. A parte de su función de reloj, incluye los juegos Super Mario Bros, el retador Super Mario Bros Lost Levels y Ball.
-- Revive la aventura original de Mario para Nintendo NES y salva por enésima (o primera) vez a Peach de las garras del malvado Bowser.
-- ¿Te apetece competir? Pásale la consola a un amigo para competir entre vosotros. Con el modo 2 jugadores el reto está servido.
 - ¿Buscas algo más desafiante?: atrévete con Super Mario Bros 2: The Lost Levels, un Mario clásico con un nivel de dificultad extra para los más expertos.
+- Si quieres algo más relajado, lo tuyo es la revisión del clásico de Game&Watch Ball con un toque de Mario.
 - 35 detalles que no te puedes perder. La función reloj incluye 35 animaciones para celebrar el 35º aniversario de Super Mario que harán las delicias de los fans del universo del Reino Champiñón. ¿Serás capaz de verlas todas?
+- Revive la aventura original de Mario para Nintendo NES y salva por enésima (o primera) vez a Peach de las garras del malvado Bowser.
 - Es “hora” de jugar, y de recordar. ¿Quién no recuerda las horas pasadas jugando a nuestras Game&Watch? ¿O de la sensación de jugar por primera vez a Super Mario Bros.? Revive esos dos momentos único con Game&Watch Super Mario Bros.
+- 4 en 1, Mario para Rato. A parte de su función de reloj, incluye los juegos Super Mario Bros, el retador Super Mario Bros Lost Levels y Ball.
+- ¿Te apetece competir? Pásale la consola a un amigo para competir entre vosotros. Con el modo 2 jugadores el reto está servido.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08HFGR7L2/?tag=tolees-21)
