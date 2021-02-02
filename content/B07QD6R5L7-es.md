@@ -28,9 +28,9 @@ Ahora mismo tienes [Tarjeta SanDisk microSDXC UHS-I para Nintendo Switch 256GB  
 
 🔎:
 
-- Añade hasta 256 gb de espacio adicional al instante
-- Guarda los juegos digitales y contenidos adicionales en un único sitio para jugar en cualquier lugar
 - Velocidades de transferencia de hasta 100 mb/s para cargar los juegos rápidamente
+- Añade hasta 256 gb de espacio adicional al instante
 - Tarjeta de memoria con licencia nintendo para el sistema nintendo switch
+- Guarda los juegos digitales y contenidos adicionales en un único sitio para jugar en cualquier lugar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QD6R5L7/?tag=tolees-21)
