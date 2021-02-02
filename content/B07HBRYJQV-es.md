@@ -28,10 +28,10 @@ Ahora mismo tienes [HORI - Battle Pad Peach  Nintendo Switch ](https://www.amazo
 
 🔎:
 
-- GameCube-style wired USB Controller with 10 ft. cable
-- Turbo settings
-- Anti-snapback analog sticks and fast-action L/R & ZL/ZR Buttons
-- Toggle shoulder button functions
 - Officially Licensed by Nintendo
+- GameCube-style wired USB Controller with 10 ft. cable
+- Toggle shoulder button functions
+- Anti-snapback analog sticks and fast-action L/R & ZL/ZR Buttons
+- Turbo settings
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07HBRYJQV/?tag=tolees-21)
