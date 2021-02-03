@@ -28,10 +28,10 @@ Tienes [eXtremeRate PlayVital Agarres para el Pulgar para Nintendo Switch Joy-co
 
 🔎:
 
-- Hecho de silicona de alta calidad, suave y confortable. Se puede proteger muy bien su joystick de arañazos, golpes, suciedad u otros daños.
 - Fácil de instalar, sin pasos complicados, encaja perfectamente.
-- Múltiples combinaciones de color para elegir, cada tapa de joysticks tiene un diseño de estrella blanca, fresca y encantadora.
-- Nota: este artículo no es adecuado para mando PS4, Switch Pro, Xbox One. Por favor, verifique el modelo antes de la compra.
+- Hecho de silicona de alta calidad, suave y confortable. Se puede proteger muy bien su joystick de arañazos, golpes, suciedad u otros daños.
 - Este artículo está diseñado para Nintendo Switch joycons y para Nintendo Switch Lite, no está compatible con otros modelos de control.
+- Nota: este artículo no es adecuado para mando PS4, Switch Pro, Xbox One. Por favor, verifique el modelo antes de la compra.
+- Múltiples combinaciones de color para elegir, cada tapa de joysticks tiene un diseño de estrella blanca, fresca y encantadora.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08KS54GDC/?tag=tolees-21)
