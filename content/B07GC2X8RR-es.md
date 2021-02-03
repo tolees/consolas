@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BerryKing - Homebase para Nintendo Switc con un 30.03 % de descuento'
-date: 2021-01-27 07:07:16
+date: 2021-02-03 03:01:55
 image: 'https://m.media-amazon.com/images/I/41Tl51TTtbL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 19.98 EUR
 prodname: 'BerryKing - Homebase para Nintendo Switch Bases incl. Cajón  Espacio para el Mando y Juegos'
 country: 'es'
 flag: '🇪🇸'
+brand: 'BerryKing'
 buyurl: 'https://www.amazon.es/dp/B07GC2X8RR/?tag=tolees-21'
 descuento: '30.03'
-average: '21.1086956521741'
+average: '21.3677777777779'
 ---
 
 En este momento está [BerryKing - Homebase para Nintendo Switch Bases incl. Cajón  Espacio para el Mando y Juegos](https://www.amazon.es/dp/B07GC2X8RR/?tag=tolees-21) a 13.98 EUR (original: 19.98 EUR) (30.03 %  de descuento) en el siguiente enlace!
