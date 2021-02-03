@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'UBI Soft - Just Dance 2021 PS4 al 27.57 % de rebaja'
-date: 2021-01-25 09:06:33
+title: 'UBI Soft - Just Dance 2021 PS4 al 24.29 % de rebaja'
+date: 2021-02-03 17:32:19
 image: 'https://m.media-amazon.com/images/I/51N-79lmfjL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -12,16 +12,17 @@ tags: [ 'ps4', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9
-comparePrice: 34.38 EUR
+comparePrice: 32.89 EUR
 prodname: 'UBI Soft - Just Dance 2021 PS4'
 country: 'es'
 flag: '🇪🇸'
+brand: 'UBI Soft'
 buyurl: 'https://www.amazon.es/dp/B08H9HHBWR/?tag=tolees-21'
-descuento: '27.57'
-average: '32.9536363636364'
+descuento: '24.29'
+average: '32.2825'
 ---
 
-Tienes [UBI Soft - Just Dance 2021 PS4](https://www.amazon.es/dp/B08H9HHBWR/?tag=tolees-21) con precio final de  24.9 EUR (original: 34.38 EUR) (27.57 %  de rebaja) aqui!
+Tienes [UBI Soft - Just Dance 2021 PS4](https://www.amazon.es/dp/B08H9HHBWR/?tag=tolees-21) con precio final de  24.9 EUR (original: 32.89 EUR) (24.29 %  de rebaja) aqui!
 
 [![UBI Soft - Just Dance 2021 PS4](https://m.media-amazon.com/images/I/51N-79lmfjL._SL200_.jpg)](https://www.amazon.es/dp/B08H9HHBWR/?tag=tolees-21)
 
