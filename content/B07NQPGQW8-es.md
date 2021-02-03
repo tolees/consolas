@@ -30,8 +30,8 @@ En este momento está [Nintendo - Super Mario Maker 2](https://www.amazon.es/dp/
 
 - Incluye más de 100 niveles originales creados por Nintendo
 - Ahora hay más herramientas, objetos y funciones disponibles
+- Modo multijugador inalámbrico local:hasta cuatro jugadores pueden intentar completar niveles al mismo tiempo en su propia consola
 - Ahora dos jugadores pueden construir niveles codo con codo en una única pantalla.
 - ¡Haz que tus creaciones cobren vida!
-- Modo multijugador inalámbrico local:hasta cuatro jugadores pueden intentar completar niveles al mismo tiempo en su propia consola
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NQPGQW8/?tag=tolees-21)

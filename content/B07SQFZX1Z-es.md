@@ -28,9 +28,9 @@ Está [THQ NORDIC - Darksiders Genesis - Nintendo Switch](https://www.amazon.es/
 
 ℹ️:
 
-- Guerra y Lucha han recibido una nueva misión
-- Lucha para evitar la enrevesada conspiración demoníaca que amenaza con destruir el equilibrio para siempre y eliminar a toda la existencia
 - Lucifer está planeando dar un gran poder a los grandes demonios de todo el infierno
 - Guerra y Lucha deberán de cazar a estos demonios
+- Lucha para evitar la enrevesada conspiración demoníaca que amenaza con destruir el equilibrio para siempre y eliminar a toda la existencia
+- Guerra y Lucha han recibido una nueva misión
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SQFZX1Z/?tag=tolees-21)
