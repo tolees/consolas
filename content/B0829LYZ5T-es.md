@@ -28,9 +28,9 @@ Tienes [Bethesda - Doom Slayers Collection - PS4](https://www.amazon.es/dp/B0829
 
 ℹ️:
 
-- DOOM regresa con una experiencia brutalmente divertida y desafiante
 - DOOM II: la aclamada secuela de DOOM (1993), te envía a la tierra, dando al jugador la brutal Super escopeta para luchar contra los demonios más mortíferos, además de enfrentarte a un jefe icónico, Icon of Sin
-- DOOM: eres uno de los marines más duros de la Tierra estacionado en Marte cuando un experimento militar abre las puertas al infierno
+- DOOM regresa con una experiencia brutalmente divertida y desafiante
 - DOOM III: los jugadores se abren camino a través de una instalación UAC poco iluminada y aterradora, infestada de demonios en Marte antes de entrar en el abismo para luchar contra el guerrero más poderoso del Infierno
+- DOOM: eres uno de los marines más duros de la Tierra estacionado en Marte cuando un experimento militar abre las puertas al infierno
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0829LYZ5T/?tag=tolees-21)
