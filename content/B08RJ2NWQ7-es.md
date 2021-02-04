@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GameSir 2021 Versión X2 Tipo de Controla al 15.00 % de descuento'
-date: 2021-02-03 15:46:53
+date: 2021-02-04 21:44:02
 image: 'https://m.media-amazon.com/images/I/41OXmfJARNL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'GameSir'
 buyurl: 'https://www.amazon.es/dp/B08RJ2NWQ7/?tag=tolees-21'
 descuento: '15.00'
-average: '72.79'
+average: '71.99'
 ---
 
 Ahora mismo tienes [GameSir 2021 Versión X2 Tipo de Controlador C-Juego para móvil para el teléfono Android  MAX 173mm  Xbox Nube Gastronomía Google Estadios  51 ° Movable Type C-Plug and Play E-Sports Gamepad](https://www.amazon.es/dp/B08RJ2NWQ7/?tag=tolees-21) a 67.99 EUR (original: 79.99 EUR) (15.00 %  de descuento) en el siguiente enlace!
