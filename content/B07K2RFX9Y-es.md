@@ -29,9 +29,9 @@ Tienes [Capcom - Resident Evil 2 - Xbox One [Importación inglesa]](https://www.
 🔎:
 
 - Terrifyingly realistic visuals - Built on Capcoms proprietary RE Engine, Resident Evil 2 delivers breathtakingly photorealistic visuals in 4K whilst stunning lighting creates an up-close, intense and atmospheric experience as players roam the corridors of the Raccoon City Police Department (RPD)
-- A whole new perspective - New over-the-shoulder camera mode and modernized control scheme creates a more modern take on the survival horror experience and offers players a trip down memory lane with the original gameplay modes from the 1998 release
-- Iconic series defining gameplay - Engage in frenzied combat with enemies, explore dark menacing corridors, solve puzzles to access areas and collect and use items discovered around the environment in a terrifying constant fight for survival
-- Face the grotesque hordes - Zombies are brought to life with a horrifyingly realistic wet gore effect as they react in real time taking instant visible damage, making every bullet count
 - A spine-chilling reimagining of a horror classic - Based on the original PlayStation console release in 1998, the new game has been completely rebuilt from the ground up for a deeper narrative experience
+- Face the grotesque hordes - Zombies are brought to life with a horrifyingly realistic wet gore effect as they react in real time taking instant visible damage, making every bullet count
+- Iconic series defining gameplay - Engage in frenzied combat with enemies, explore dark menacing corridors, solve puzzles to access areas and collect and use items discovered around the environment in a terrifying constant fight for survival
+- A whole new perspective - New over-the-shoulder camera mode and modernized control scheme creates a more modern take on the survival horror experience and offers players a trip down memory lane with the original gameplay modes from the 1998 release
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07K2RFX9Y/?tag=tolees-21)
