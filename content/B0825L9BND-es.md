@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo Iberica SL - Amiibo Richter Bel al 32.05 % de rebaja'
-date: 2021-01-26 16:38:21
+date: 2021-02-05 12:19:03
 image: 'https://m.media-amazon.com/images/I/51UjPuV78JL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,9 +16,10 @@ comparePrice: 18.75 EUR
 prodname: 'Nintendo Iberica SL - Amiibo Richter Belmont  Colección Super Smash Bros '
 country: 'es'
 flag: '🇪🇸'
+brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B0825L9BND/?tag=tolees-21'
 descuento: '32.05'
-average: '12.5461904761905'
+average: '12.5630434782609'
 ---
 
 Tienes [Nintendo Iberica SL - Amiibo Richter Belmont  Colección Super Smash Bros ](https://www.amazon.es/dp/B0825L9BND/?tag=tolees-21) con precio final de  12.74 EUR (original: 18.75 EUR) (32.05 %  de rebaja) aqui!
