@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 20.00 % en Microsoft - Xbox One - Consola 1 TB'
-date: 2021-02-04 08:59:52
+title: 'Descuento del 23.14 % en Microsoft - Xbox One - Consola 1 TB'
+date: 2021-02-05 09:05:27
 image: 'https://m.media-amazon.com/images/I/41jJc0h28VL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B01M5FMXHZ-es Microsoft - Xbox One - Consola 1 TB'
 sku: 'B01M5FMXHZ-es'
 tags: [ 'xbox', ]
-actualPrice: 280.0 EUR
+actualPrice: 269.0 EUR
 currency: EUR
-price: 280.0
+price: 269.0
 comparePrice: 349.99 EUR
 prodname: 'Microsoft - Xbox One - Consola 1 TB'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.es/dp/B01M5FMXHZ/?tag=tolees-21'
-descuento: '20.00'
-average: '290.440921985817'
+descuento: '23.14'
+average: '290.14104895105'
 ---
 
-Tienes [Microsoft - Xbox One - Consola 1 TB](https://www.amazon.es/dp/B01M5FMXHZ/?tag=tolees-21) con un 20.00 % de descuento con precio de oferta de 280.0 EUR (original: 349.99 EUR) en el siguiente enlace!
+Tienes [Microsoft - Xbox One - Consola 1 TB](https://www.amazon.es/dp/B01M5FMXHZ/?tag=tolees-21) con un 23.14 % de descuento con precio de oferta de 269.0 EUR (original: 349.99 EUR) en el siguiente enlace!
 
 [![Microsoft - Xbox One - Consola 1 TB](https://m.media-amazon.com/images/I/41jJc0h28VL._SL200_.jpg)](https://www.amazon.es/dp/B01M5FMXHZ/?tag=tolees-21)
 
