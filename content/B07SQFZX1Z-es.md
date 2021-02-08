@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'THQ NORDIC - Darksiders Genesis - Ninten al 42.51 % de descuento'
-date: 2021-02-07 15:34:32
+date: 2021-02-08 19:27:32
 image: 'https://m.media-amazon.com/images/I/51azdaREqlL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'THQ NORDIC'
 buyurl: 'https://www.amazon.es/dp/B07SQFZX1Z/?tag=tolees-21'
 descuento: '42.51'
-average: '24.1172727272726'
+average: '24.052857142857'
 ---
 
 Está [THQ NORDIC - Darksiders Genesis - Nintendo Switch](https://www.amazon.es/dp/B07SQFZX1Z/?tag=tolees-21) con 42.51 de descuento por 22.99 EUR (original: 39.99 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [THQ NORDIC - Darksiders Genesis - Nintendo Switch](https://www.amazon.es/
 
 ℹ️:
 
-- Lucifer está planeando dar un gran poder a los grandes demonios de todo el infierno
-- Guerra y Lucha deberán de cazar a estos demonios
-- Guerra y Lucha han recibido una nueva misión
 - Lucha para evitar la enrevesada conspiración demoníaca que amenaza con destruir el equilibrio para siempre y eliminar a toda la existencia
+- Lucifer está planeando dar un gran poder a los grandes demonios de todo el infierno
+- Guerra y Lucha han recibido una nueva misión
+- Guerra y Lucha deberán de cazar a estos demonios
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SQFZX1Z/?tag=tolees-21)
