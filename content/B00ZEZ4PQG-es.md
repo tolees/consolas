@@ -28,10 +28,10 @@ Tienes [Rii Mini X1 teclado inalámbrico con ratón táctil - compatible con Sma
 
 🔎:
 
+- Con un touchpad real, como el de un Notebook. Diseño del teclado QWERTY. Control multimedia de Windows. Además de un control perfecto de
 - Es el primer mando en incluir el diseño Touchpad 90º Flip-Design, para usar el touchpad tanto en vertical como en horizontal.
-- Manejable, portable, elegante y moderno. Un gran accesorio para tu ordenador portátil y de sobremesa, videoconsolas PS3 o Wii.
 - Requerimientos del Sistema: Windows 2000, Windows XP, Windows Vista, Windows CE, Windows 7, Linux.
 - Dispositivo inalámbrico 2.4 Ghz con receptor integrado.
-- Con un touchpad real, como el de un Notebook. Diseño del teclado QWERTY. Control multimedia de Windows. Además de un control perfecto de
+- Manejable, portable, elegante y moderno. Un gran accesorio para tu ordenador portátil y de sobremesa, videoconsolas PS3 o Wii.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00ZEZ4PQG/?tag=tolees-21)
