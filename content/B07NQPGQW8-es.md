@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Super Mario Maker 2 con un 26.92 % de descuento'
-date: 2021-02-08 10:20:58
+date: 2021-02-09 22:12:16
 image: 'https://m.media-amazon.com/images/I/51GOmuZMXcL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B07NQPGQW8/?tag=tolees-21'
 descuento: '26.92'
-average: '45.6146721311476'
+average: '45.6002439024391'
 ---
 
 En este momento está [Nintendo - Super Mario Maker 2](https://www.amazon.es/dp/B07NQPGQW8/?tag=tolees-21) a 43.84 EUR (original: 59.99 EUR) (26.92 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Nintendo - Super Mario Maker 2](https://www.amazon.es/dp/
 
 🔎:
 
-- Ahora dos jugadores pueden construir niveles codo con codo en una única pantalla.
-- Incluye más de 100 niveles originales creados por Nintendo
-- Modo multijugador inalámbrico local:hasta cuatro jugadores pueden intentar completar niveles al mismo tiempo en su propia consola
 - Ahora hay más herramientas, objetos y funciones disponibles
+- Modo multijugador inalámbrico local:hasta cuatro jugadores pueden intentar completar niveles al mismo tiempo en su propia consola
+- Incluye más de 100 niveles originales creados por Nintendo
+- Ahora dos jugadores pueden construir niveles codo con codo en una única pantalla.
 - ¡Haz que tus creaciones cobren vida!
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NQPGQW8/?tag=tolees-21)
