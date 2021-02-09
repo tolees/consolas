@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch Media - Playstation Sudadera S al 20.28 % de rebaja'
-date: 2021-02-07 22:18:50
+date: 2021-02-09 04:33:18
 image: 'https://m.media-amazon.com/images/I/41AnZkS0tZL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Koch Media'
 buyurl: 'https://www.amazon.es/dp/B0814ZHLYJ/?tag=tolees-21'
 descuento: '20.28'
-average: '48.4648148148147'
+average: '48.1571428571427'
 ---
 
 Tienes [Koch Media - Playstation Sudadera S](https://www.amazon.es/dp/B0814ZHLYJ/?tag=tolees-21) con precio final de  39.85 EUR (original: 49.99 EUR) (20.28 %  de rebaja) aqui!
