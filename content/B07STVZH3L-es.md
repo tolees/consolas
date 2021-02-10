@@ -28,9 +28,9 @@ En este momento está [THQ NORDIC - Darksiders Genesis - PS4](https://www.amazon
 
 🔎:
 
-- Lucha para evitar la enrevesada conspiración demoníaca que amenaza con destruir el equilibrio para siempre y eliminar a toda la existencia
-- Lucifer está planeando dar un gran poder a los grandes demonios de todo el infierno
 - Guerra y Lucha han recibido una nueva misión
+- Lucifer está planeando dar un gran poder a los grandes demonios de todo el infierno
+- Lucha para evitar la enrevesada conspiración demoníaca que amenaza con destruir el equilibrio para siempre y eliminar a toda la existencia
 - Guerra y Lucha deberán de cazar a estos demonios
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07STVZH3L/?tag=tolees-21)
