@@ -28,10 +28,10 @@ Está [HAGIBISTECH - Tarjeta De Sonido Externa USB  Adaptador Jack A USB  USB A 
 
 ℹ️:
 
-- PLUG & PLAY: NO INSTALLATION REQUIRED. Compatible USB Audio Class Standard Windows Linux Mac IOS
-- PUERTO JACK SOLUTION: Perfect for faulty sound card, broken 3.5mm input replacement.
-- COMPATIBILITY: The HEADPHONES used MUST meet the CTIA standard. NOT COMPATIBLE WITH ANDROID TV
 - IMPORTANT NOTE: Only compatible with TRS mono microphone, NOT compatible with TS, TRRS.
 - External Sound Card: Connect USB with your 3.5mm headphones, headphones, speakers or microphone.
+- COMPATIBILITY: The HEADPHONES used MUST meet the CTIA standard. NOT COMPATIBLE WITH ANDROID TV
+- PUERTO JACK SOLUTION: Perfect for faulty sound card, broken 3.5mm input replacement.
+- PLUG & PLAY: NO INSTALLATION REQUIRED. Compatible USB Audio Class Standard Windows Linux Mac IOS
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YCKC1CF/?tag=tolees-21)
