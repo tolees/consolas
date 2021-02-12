@@ -28,9 +28,9 @@ Tienes [Square Enix - Final Fantasy XIV: Shadowbringers - Complete Edition  PS4 
 
 🔎:
 
-- Conviértete en la oscuridad en la última expansión! Comienza un nuevo capítulo jugando con dos nuevos oficios (Gunbreaker y Dancer) y dos nuevas razas (Viera y Hrothgar)
 - Monta tu chocobo y toma los cielos para poner fin a la milenaria Dragonsong War y devolver la luz al reino en esta aplaudida expansión
 - ¡Crea tu héroe único de FINAL FANTASY y comienza tu aventura en el reino de Eorzea!
+- Conviértete en la oscuridad en la última expansión! Comienza un nuevo capítulo jugando con dos nuevos oficios (Gunbreaker y Dancer) y dos nuevas razas (Viera y Hrothgar)
 - ! Pon rumbo a Oriente para explorar nuevos y amplios lugares y descubre dos oficios adicionales: Red Mage y Samurai
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QTTYW9P/?tag=tolees-21)
