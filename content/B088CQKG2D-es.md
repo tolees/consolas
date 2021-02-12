@@ -28,10 +28,10 @@ Ahora mismo tienes [JAMSWALL Mando para PS4  Inalámbrico Controlador para Plays
 
 🔎:
 
-- [Ergonomic Design] The controller is made of high-quality materials. Ergonomic handle, light structure, perfect key layout. Suitable for all adults or children. Even if you play for a long time, your hand will not get tired.
-- [High Performance] The controller Integrated dual motors, which support dual vibration function. 360 ° precise 3D joystick. With 3D acceleration sensor and gyro sensor function, can capture a full range of dynamic information. Immerse yourself in the game world and experience realistic game effects.
-- [Compatibility] The controller is compatible with PS4 / PS4Pro / PS4 Slim / PC (Windows 7/8/10). The controller uses “Bluetooth 2.1 + EDR” Bluetooth connection technology, it can eliminate delays, and provides a more stable connection.
 - [New Gameplay] The touchpad provides players with a new way of playing and interacting with the game. Built-in speakers and 3.5mm stereo headphone jack can produce high-fidelity sound effects in games.
 - [Rechargeable Battery] The controller built-in 400 mAh rechargeable battery. After fully charged, you can play for 5-7 hours. Charging time: 3 hours. The LED flashes during charging, and the LED stops flashing and hold on when fully charged. Included charging cable.
+- [Compatibility] The controller is compatible with PS4 / PS4Pro / PS4 Slim / PC (Windows 7/8/10). The controller uses “Bluetooth 2.1 + EDR” Bluetooth connection technology, it can eliminate delays, and provides a more stable connection.
+- [Ergonomic Design] The controller is made of high-quality materials. Ergonomic handle, light structure, perfect key layout. Suitable for all adults or children. Even if you play for a long time, your hand will not get tired.
+- [High Performance] The controller Integrated dual motors, which support dual vibration function. 360 ° precise 3D joystick. With 3D acceleration sensor and gyro sensor function, can capture a full range of dynamic information. Immerse yourself in the game world and experience realistic game effects.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B088CQKG2D/?tag=tolees-21)
