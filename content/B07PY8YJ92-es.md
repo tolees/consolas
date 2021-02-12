@@ -28,9 +28,9 @@ Ahora mismo tienes [Koch Media - Kingdom Come: Deliverance - Royal Edition - PS4
 
 🔎:
 
-- Desarrollo del personaje: elige tu equipo, mejora tus habilidades y gana nuevos beneficios
 - Mundo dinámico: tus acciones influyen en las reacciones de la gente que te rodea; lucha, roba, seduce, amenaza, persuade o soborna; todo depende de ti
 - Historia no lineal: resuelve distintas situaciones de diferentes maneras, después acepta las consecuencias de tus decisiones
+- Desarrollo del personaje: elige tu equipo, mejora tus habilidades y gana nuevos beneficios
 - Mundo abierto muy realista: castillos majestuosos, amplios campos, todo construido en unos gráficos de alta calidad
 - Combates desafiantes: distancia, sigilo o cuerpo a cuerpo; elige tus armas y ejecuta docenas de únicos combos en bata
 
