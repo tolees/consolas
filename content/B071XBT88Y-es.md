@@ -28,10 +28,10 @@ En este momento está [Younik Funda para Nintendo Switch Estuche Dura de Transpo
 
 🔎:
 
-- Para ver todos nuestros accesorios de Nintendo Switch, busca YOUNIK SWITCH en la barra de búsqueda de Amazon (arriba)
-- Las piezas de espuma removibles encajan perfecto con la consola Switch, base de la consola Switch, adaptador de corriente alterna y control Pro.
-- Especialmente diseñado para Nintendo Switch; mantiene a tu consola Switch y sus accesorios seguros y organizados; recomendada para viajar o para la casa.
 - Los bolsillos de malla agrandan el espacio de almacenaje para el cable HDMI u otros accesorios pequeños y les mantiene en buen estado.
+- Especialmente diseñado para Nintendo Switch; mantiene a tu consola Switch y sus accesorios seguros y organizados; recomendada para viajar o para la casa.
+- Las piezas de espuma removibles encajan perfecto con la consola Switch, base de la consola Switch, adaptador de corriente alterna y control Pro.
+- Para ver todos nuestros accesorios de Nintendo Switch, busca YOUNIK SWITCH en la barra de búsqueda de Amazon (arriba)
 - Viene con 10 slots para llevar tus juegos favoritos.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B071XBT88Y/?tag=tolees-21)
