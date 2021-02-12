@@ -28,7 +28,7 @@ Está [Warner Bros. Interactive Entertainment - LEGO Harry Potter Collection - N
 
 ℹ️:
 
-- Included on disc featuring 5 spells - Cantis, Densaugeo, Ducklifors, Melofors and Tentaclifors.
 - Included on disc featuring 10 characters - Godric Gryffindor, Harry (Yule Ball), Helga Hufflepuff, Lockhart (Straightjacket), Luna (Lion Head), Peeves, Hermione (Pink Dress), Ron Weasley (Ghoul), Rowena Ravenclaw and Salazar Slytherin.
+- Included on disc featuring 5 spells - Cantis, Densaugeo, Ducklifors, Melofors and Tentaclifors.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07HBR66TR/?tag=tolees-21)
