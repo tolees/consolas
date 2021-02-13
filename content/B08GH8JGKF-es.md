@@ -28,10 +28,10 @@ En este momento está [Power A - Mando con Cable Mejorado Powera Para Nintendo S
 
 🔎:
 
-- Mando inalámbrico con tecnología Bluetooth 5.0
 - Mando de Nintendo Switch con una batería interna recargable: hasta 20 horas por carga* Cable de carga USB-C de 1,8 m incluido
-- Carcasa ergonómica compacta con botones y controles de tamaño estándar
+- Mando inalámbrico con tecnología Bluetooth 5.0
 - Incluye mandos de movimiento* y botones de juego avanzado asignables Luces led para indicar la asignación de botones, el número del jugador y el nivel bajo de batería
 - Bolsa con cordel: protege y guarda tu mando para videojuegos fuera de casa. Mando inalámbrico con licencia oficial para Nintendo Switch y Nintendo Switch Lite
+- Carcasa ergonómica compacta con botones y controles de tamaño estándar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GH8JGKF/?tag=tolees-21)
