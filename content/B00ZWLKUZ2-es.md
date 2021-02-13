@@ -29,8 +29,8 @@ Ahora mismo tienes [Nintendo - Disney Infinity 3.0 - Figura Star Wars : Han Solo
 🔎:
 
 - Coloca los Power Discs en tu base de Disney Infinity para activar nuevas habilidades de personajes
+- Colecciona otras figuras interactivas y power discs de Disney Infinity para descubrir nuevas formas de jugar
 - Contiene todo lo necesario para vivir nuevas experiencias de juego repleto de acción, combates, vehículos y lugares icónicos de Marvel
 - Coloque una figura interactiva de Disney Infinity en el puesto circular de la base de Disney Infinity
-- Colecciona otras figuras interactivas y power discs de Disney Infinity para descubrir nuevas formas de jugar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00ZWLKUZ2/?tag=tolees-21)
