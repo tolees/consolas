@@ -28,12 +28,12 @@ En este momento está [Seagate Technology - Seagate Game Drive para PS4 2 TB  Di
 
 🔎:
 
-- Plug-and-Play: el disco duro externo se puede conecta rdirectamente a cualquier sistema PS4 a través del puerto USB 3.0 (versión de software 4.50 o superior)
+- Portátil: fácil configuración y diseño ideal para viajar, para una rápida instalación y jugar fácilmente en cualquier lugar
+- Capacidad del disco duro (GB): 2.0 TB
 - Dispositivos compatibles: Consola de juegos
+- Plug-and-Play: el disco duro externo se puede conecta rdirectamente a cualquier sistema PS4 a través del puerto USB 3.0 (versión de software 4.50 o superior)
 - Disfruta de juegos sin preocupaciones: complementa tu consola PS4 con este disco duro externo que proporciona un rendimiento y una experiencia de juego sin problemas
 - Capacidad de almacenamiento de memoria: 2
-- Capacidad del disco duro (GB): 2.0 TB
 - Alta capacidad: almacena más de 50 juegos en 2 TB con la unidad Seagate Game Drive para sistemas PS4
-- Portátil: fácil configuración y diseño ideal para viajar, para una rápida instalación y jugar fácilmente en cualquier lugar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CY8MWHZ/?tag=tolees-21)
