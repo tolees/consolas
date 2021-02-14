@@ -28,10 +28,10 @@ Tienes [THQ Nordic - Darksiders III - PS4](https://www.amazon.es/dp/B079FNPTZB/?
 
 🔎:
 
-- Juega como Furia: una maga que deberá usar su látigo y magia para restablecer el equilibrio entre el bien y el mal en la Tierra
 - Vence a los siete pecados capitales: además, tendrás que vencer sus sirvientes, como criaturas místicas y entes degenerados
-- Deléitate con el característico estilo artístico de Darksiders: inmensos entornos postapocalípticos que llevan al jugador desde los cielos hasta las profundidades del infierno, lugares dilapidados por la guerra y la decadencia e invadidos por la naturaleza
+- Juega como Furia: una maga que deberá usar su látigo y magia para restablecer el equilibrio entre el bien y el mal en la Tierra
 - Domina la magia de Furia y desata sus formas: cada una de sus múltiples formas dará acceso a nuevas armas, movimientos y habilidades trasversales
 - Explora un mundo abierto: gran mundo abierto y vivo, con múltiples posibilidades en el que podrás visitar distintos entornos y descubrir secretos conforme avanza la historia
+- Deléitate con el característico estilo artístico de Darksiders: inmensos entornos postapocalípticos que llevan al jugador desde los cielos hasta las profundidades del infierno, lugares dilapidados por la guerra y la decadencia e invadidos por la naturaleza
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B079FNPTZB/?tag=tolees-21)
