@@ -28,10 +28,10 @@ Ahora mismo tienes [Koch Media - Wreckfest - PS4](https://www.amazon.es/dp/B07DH
 
 🔎:
 
-- Experiencia de conducción única: Lo primero y principal, estamos creando un divertido juego de carreras con personalidad
 - Coches increíbles: los coches son viejos, baratos, destartalados, parcheados, oxidados simplemente increíble; resumiendo, nuestros coches rebosan estilo
+- Experiencia de conducción única: Lo primero y principal, estamos creando un divertido juego de carreras con personalidad
+- Se trata de las cosas que realmente importan: circuitos variados, coches guays y la definición de momentos de “una vez en la vida” que solo se pueden conseguir con simulaciones de física fieles a la realidad
 - También hemos incluido una total deformación de los coches con soft-body; es decir, los coches reaccionaran al daño de un modo concreto y convincente
 - Motor flexible: nuestro motor ROMU es una bestia infernal que es totalmente preciso, en cuanto a ingeniería, para carreras vertiginosas de alta velocidad
-- Se trata de las cosas que realmente importan: circuitos variados, coches guays y la definición de momentos de “una vez en la vida” que solo se pueden conseguir con simulaciones de física fieles a la realidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DHJSP12/?tag=tolees-21)
