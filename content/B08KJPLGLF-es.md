@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PlayStation 5 - Mando inalámbrico DualSe con un 23.92 % de descuento'
-date: 2021-02-14 23:45:51
+date: 2021-02-16 00:37:38
 image: 'https://m.media-amazon.com/images/I/41qSHvRp-ML._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B08KJPLGLF/?tag=tolees-21'
 descuento: '23.92'
-average: '68.7255760368664'
+average: '68.6086301369864'
 ---
 
 En este momento está [PlayStation 5 - Mando inalámbrico DualSense](https://www.amazon.es/dp/B08KJPLGLF/?tag=tolees-21) a 55.92 EUR (original: 73.5 EUR) (23.92 %  de descuento) en el siguiente enlace!
