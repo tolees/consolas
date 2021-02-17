@@ -29,10 +29,10 @@ Ahora mismo tienes [Nintendo - Dragon Quest Builders 2](https://www.amazon.es/dp
 🔎:
 
 - Disfruta de nuevo de una fórmula única que combina a la perfección el género construcción, el RPG de aventuras y la exploración de un mundo abierto.
-- Hasta 4 constructores pueden compartir partida para crear las construcciones más increíbles tanto en modo local como online.
-- Crea tu propio personaje y embárcate en un emocionante periplo en compañía del intrépido Malroth.
-- Construye a lo grande. Decenas de materiales, cientos de recetas, muebles, accesorios, decoración, habitaciones, armas, ¡el límite es tu imaginación!
 - Ahora podrás planear, correr y bucear para que la exploración y la aventura sea más intensa y completa.
+- Construye a lo grande. Decenas de materiales, cientos de recetas, muebles, accesorios, decoración, habitaciones, armas, ¡el límite es tu imaginación!
+- Crea tu propio personaje y embárcate en un emocionante periplo en compañía del intrépido Malroth.
 - Podrás plantarte enseguida en cualquier lugar donde se necesiten tus habilidades constructoras gracias al nuevo sistema de viaje rápido
+- Hasta 4 constructores pueden compartir partida para crear las construcciones más increíbles tanto en modo local como online.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NQTX3D2/?tag=tolees-21)
