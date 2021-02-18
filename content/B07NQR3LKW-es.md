@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Zelda Link s Awakening Remake con un 23.49 % de descuento'
-date: 2021-02-16 15:46:10
+date: 2021-02-18 06:49:52
 image: 'https://m.media-amazon.com/images/I/51Hf4WxTnZL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B07NQR3LKW/?tag=tolees-21'
 descuento: '23.49'
-average: '45.444044117647'
+average: '45.450652173913'
 ---
 
 En este momento está [Nintendo - Zelda Link s Awakening Remake](https://www.amazon.es/dp/B07NQR3LKW/?tag=tolees-21) a 45.9 EUR (original: 59.99 EUR) (23.49 %  de descuento) en el siguiente enlace!
@@ -28,12 +28,12 @@ En este momento está [Nintendo - Zelda Link s Awakening Remake](https://www.ama
 
 🔎:
 
-- Por culpa de una terrible tormenta, Link naufraga y es arrastrado por la corriente hasta la costa de una extraña isla tropical habitada por lugareños muy curiosos
 - Embárcate en una aventura clásica: En su aventura para despertar al Pez del Viento, Link deberá viajar hasta distintas mazmorras dispersas por toda la isla. Recorre cada sala de estos laberintos mientras resuelves puzles complejos, sorteas trampas y te enfrentas a los terribles monstruos que allí te aguardan.
-- Al conseguir equipamiento y otros objetos durante el viaje, Link podrá explorar más zonas de la isla y desvelar muchos más secretos. Algunos objetos se pueden intercambiar con los lugareños.
-- Compatible con Amiibo. Si tienes un amiibo de la serie The Legend of Zelda, podrás desbloquear salas adicionales y guardar tus distribuciones de mazmorras favorita
-- Entretenimiento asegurado: Desde tiendas hasta minijuegos, pasando por mil cosas más. ¡La vida del náufrago en la isla Koholint es de todo menos aburrida!
 - ¡Crea mazmorras y añádeles puzzles! Durante su periplo, Link conseguirá objetos místicos llamados piedras salizas, a partir de las cuales se pueden obtener salas que organizar a tu gusto para crear mazmorras.
+- Compatible con Amiibo. Si tienes un amiibo de la serie The Legend of Zelda, podrás desbloquear salas adicionales y guardar tus distribuciones de mazmorras favorita
 - Te aguardan muchos Enigmas en la isla Koholint: Ayuda a Link a escapar de una tierra extraña. Entabla amistad con un elenco de personajes de lo más variopinto, combate montones de monstruos y explora peligrosas mazmorras en esta aventura clásica con un nuevo estilo artístico.
+- Al conseguir equipamiento y otros objetos durante el viaje, Link podrá explorar más zonas de la isla y desvelar muchos más secretos. Algunos objetos se pueden intercambiar con los lugareños.
+- Por culpa de una terrible tormenta, Link naufraga y es arrastrado por la corriente hasta la costa de una extraña isla tropical habitada por lugareños muy curiosos
+- Entretenimiento asegurado: Desde tiendas hasta minijuegos, pasando por mil cosas más. ¡La vida del náufrago en la isla Koholint es de todo menos aburrida!
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07NQR3LKW/?tag=tolees-21)
