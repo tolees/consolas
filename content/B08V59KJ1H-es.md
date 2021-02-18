@@ -28,10 +28,10 @@ Está [eXtremeRate Carcasa para Mando Xbox Series X S Protector Placa Frontal Fu
 
 ℹ️:
 
-- Modelo compatible: Perfecto para Xbox Series X & Xbox Series S. No es compatible con otros mandos de Xbox One. Verifique la segunda imagen antes de la compra.
+- El paquete incluye: 1*funda frontal, 1*destornillador T8H, 5*Tornillos. (Importante: El mando y otras partes no están incluidos)
+- Corte preciso: Se adapta perfectamente, es lo más adecuado, fabricado con exactitud, con un acabado perfecto.
 - Fácil de instalar, simplemente desmontar carcasa original del control y poner shell de eXtremeRate. Vídeo de instalación en Youtube "eXtremeRate Shell for Xbox Series X/S" o "46g8h8toba4".
 - Característica personalizada: Color vibrante. Cuando mira la placa de agarre desde diferentes ángulos, se verá como un camaleón que cambia el color de verde a dorado a rosa.
-- Corte preciso: Se adapta perfectamente, es lo más adecuado, fabricado con exactitud, con un acabado perfecto.
-- El paquete incluye: 1*funda frontal, 1*destornillador T8H, 5*Tornillos. (Importante: El mando y otras partes no están incluidos)
+- Modelo compatible: Perfecto para Xbox Series X & Xbox Series S. No es compatible con otros mandos de Xbox One. Verifique la segunda imagen antes de la compra.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08V59KJ1H/?tag=tolees-21)
