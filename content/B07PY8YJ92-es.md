@@ -28,10 +28,10 @@ Ahora mismo tienes [Koch Media - Kingdom Come: Deliverance - Royal Edition - PS4
 
 🔎:
 
-- Mundo abierto muy realista: castillos majestuosos, amplios campos, todo construido en unos gráficos de alta calidad
-- Historia no lineal: resuelve distintas situaciones de diferentes maneras, después acepta las consecuencias de tus decisiones
-- Mundo dinámico: tus acciones influyen en las reacciones de la gente que te rodea; lucha, roba, seduce, amenaza, persuade o soborna; todo depende de ti
-- Combates desafiantes: distancia, sigilo o cuerpo a cuerpo; elige tus armas y ejecuta docenas de únicos combos en bata
 - Desarrollo del personaje: elige tu equipo, mejora tus habilidades y gana nuevos beneficios
+- Historia no lineal: resuelve distintas situaciones de diferentes maneras, después acepta las consecuencias de tus decisiones
+- Combates desafiantes: distancia, sigilo o cuerpo a cuerpo; elige tus armas y ejecuta docenas de únicos combos en bata
+- Mundo dinámico: tus acciones influyen en las reacciones de la gente que te rodea; lucha, roba, seduce, amenaza, persuade o soborna; todo depende de ti
+- Mundo abierto muy realista: castillos majestuosos, amplios campos, todo construido en unos gráficos de alta calidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PY8YJ92/?tag=tolees-21)
