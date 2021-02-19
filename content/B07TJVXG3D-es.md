@@ -28,7 +28,7 @@ En este momento está [Sony CEE Games  New Gen  - Death Stranding - Edición Esp
 
 🔎:
 
-- Contiene el juego Death Stranding con Steelbook Exclusiva
 - Contenido descargable: Gafas de sol doradas “Máscara Ludens”; Death Stranding Timefall: Música original del mundo de Death Stranding; Imágenes detrás de las cámaras.
+- Contiene el juego Death Stranding con Steelbook Exclusiva
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07TJVXG3D/?tag=tolees-21)
