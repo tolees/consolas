@@ -29,7 +29,7 @@ Tienes [Nintendo - Mando Joycon Set  Color Azul Y Rojo  Nintendo Switch ](https:
 ℹ️:
 
 - Cada Joy-Con contiene sus propios botones, sensor de acelerómetro y sensor de movimiento que posibilita que puedan funcionar como un mando independiente
-- El diseño incluye la sofisticada función de vibración HD
 - Set compuesto por un mando Joy-Con izquierda (rojo neón) y un mando Joy-Con derecha (azul neón)
+- El diseño incluye la sofisticada función de vibración HD
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N5OORGV/?tag=tolees-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - amiibo Terry Bogard  colecció al 39.80 % de rebaja'
-date: 2021-02-17 17:38:25
+date: 2021-02-19 19:11:41
 image: 'https://m.media-amazon.com/images/I/41PcTjzjC6L._SL200_.jpg'
 comments: true
 category: ofertas
