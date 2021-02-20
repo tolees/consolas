@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'KONKY PS4 Cargador  Cargador Mandos PS4  al 18.08 % de descuento'
-date: 2021-02-02 20:25:56
+title: 'KONKY PS4 Cargador  Cargador Mandos PS4  al 20.08 % de descuento'
+date: 2021-02-20 10:45:36
 image: 'https://m.media-amazon.com/images/I/41yCmdQ2T8L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B07NW5GXK1-es KONKY PS4 Cargador Cargador Mandos PS4 Dualshock PS4...'
 sku: 'B07NW5GXK1-es'
 tags: [ 'playstation','ps4', ]
-actualPrice: 12.28 EUR
+actualPrice: 11.98 EUR
 currency: EUR
-price: 12.28
+price: 11.98
 comparePrice: 14.99 EUR
 prodname: 'KONKY PS4 Cargador  Cargador Mandos PS4 Dualshock PS4 Estación de carga USB Base de carga para Sony Playstation 4/PS4/PS4 Pro/PS4 Slim Mando Inalámbrico Gamepad con Indicador del LED'
 country: 'es'
 flag: '🇪🇸'
 brand: 'KONKY'
 buyurl: 'https://www.amazon.es/dp/B07NW5GXK1/?tag=tolees-21'
-descuento: '18.08'
-average: '11.98'
+descuento: '20.08'
+average: '12.0743749999999'
 ---
 
-Está [KONKY PS4 Cargador  Cargador Mandos PS4 Dualshock PS4 Estación de carga USB Base de carga para Sony Playstation 4/PS4/PS4 Pro/PS4 Slim Mando Inalámbrico Gamepad con Indicador del LED](https://www.amazon.es/dp/B07NW5GXK1/?tag=tolees-21) con 18.08 de descuento por 12.28 EUR (original: 14.99 EUR) en el siguiente enlace!
+Está [KONKY PS4 Cargador  Cargador Mandos PS4 Dualshock PS4 Estación de carga USB Base de carga para Sony Playstation 4/PS4/PS4 Pro/PS4 Slim Mando Inalámbrico Gamepad con Indicador del LED](https://www.amazon.es/dp/B07NW5GXK1/?tag=tolees-21) con 20.08 de descuento por 11.98 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![KONKY PS4 Cargador  Cargador Mandos PS4 ](https://m.media-amazon.com/images/I/41yCmdQ2T8L._SL200_.jpg)](https://www.amazon.es/dp/B07NW5GXK1/?tag=tolees-21)
 
