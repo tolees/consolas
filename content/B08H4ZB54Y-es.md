@@ -28,10 +28,10 @@ Tienes [Zexrow Mando para PS4  Controlador De Juegos Con Cable para PlayStation4
 
 🔎:
 
-- 【Conexión estable】viene con un cable de conexión USB de 2,1 m y garantiza que los juegos se puedan jugar libremente con una conexión de cable estable y una fuerte transmisión de señal. Además, los ojos no se dañarán durante horas.
 - 【Dual Vibration & Share】La función de doble vibración te da una sensación de vibración que te ofrece una experiencia de juego realista. Añadir el botón de liberación, puedes compartir tus momentos de juego favoritos simplemente pulsando un botón. Descargue vídeos de videojuegos y capturas de pantalla directamente desde su sistema o streaming su videojuego en vivo sin molestar el juego.
-- 【Tipo Remind】El controlador de PS4 está cableado a través de USB, no inalámbrico. Por favor, ten en cuenta ：(1）no hay conector de audio ni conector para auriculares. (2)No hay Touchpad.
 - 【Manejo más preciso】Dos joysticks analógicos con diseño ergonómico que facilitan el ajuste de los dedos a la forma y permiten un manejo más preciso. Así que puedes jugar cómodamente en tu PC o videojuegos PS4 durante horas.
+- 【Conexión estable】viene con un cable de conexión USB de 2,1 m y garantiza que los juegos se puedan jugar libremente con una conexión de cable estable y una fuerte transmisión de señal. Además, los ojos no se dañarán durante horas.
 - 【Plug & Play】El controlador de juegos USB funciona con PC ，Windows 7/8/10, PS4/PS4 Slim、PS4 Pro. Por lo general, es Plug and Play, no requiere ningún software, controladores ni complicados procesos de instalación.
+- 【Tipo Remind】El controlador de PS4 está cableado a través de USB, no inalámbrico. Por favor, ten en cuenta ：(1）no hay conector de audio ni conector para auriculares. (2)No hay Touchpad.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08H4ZB54Y/?tag=tolees-21)
