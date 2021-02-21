@@ -2,7 +2,7 @@
 layout: post
 title: 'Saints Row The Third Remastered - PlaySt al 21.26 % de descuento'
 date: 2020-05-25 07:44:53
-image: 'https://m.media-amazon.com/images/I/51QieNiiRyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51QieNiiRyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.49'
 
 Ahora mismo tienes [Saints Row The Third Remastered - PlayStation 4](https://www.amazon.es/dp/B086TFK7Y2/?tag=tolees-21) a 31.49 EUR (original: 39.99 EUR) (21.26 %  de descuento) en el siguiente enlace!
 
-[![Saints Row The Third Remastered - PlaySt](https://m.media-amazon.com/images/I/51QieNiiRyL._SL200_.jpg)](https://www.amazon.es/dp/B086TFK7Y2/?tag=tolees-21)
+[![Saints Row The Third Remastered - PlaySt](https://m.media-amazon.com/images/I/51QieNiiRyL._SL400_.jpg)](https://www.amazon.es/dp/B086TFK7Y2/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'FIFA 20 - PlayStation 4 [Importación ing al 20.70 % de descuento'
 date: 2020-08-28 12:14:58
-image: 'https://m.media-amazon.com/images/I/512MH-eVQIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/512MH-eVQIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.19'
 
 Ahora mismo tienes [FIFA 20 - PlayStation 4 [Importación inglesa]](https://www.amazon.es/dp/B07RX7FZHQ/?tag=tolees-21) a 22.99 EUR (original: 28.99 EUR) (20.70 %  de descuento) en el siguiente enlace!
 
-[![FIFA 20 - PlayStation 4 [Importación ing](https://m.media-amazon.com/images/I/512MH-eVQIL._SL200_.jpg)](https://www.amazon.es/dp/B07RX7FZHQ/?tag=tolees-21)
+[![FIFA 20 - PlayStation 4 [Importación ing](https://m.media-amazon.com/images/I/512MH-eVQIL._SL400_.jpg)](https://www.amazon.es/dp/B07RX7FZHQ/?tag=tolees-21)
 
 🔎:
 

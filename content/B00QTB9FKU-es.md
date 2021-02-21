@@ -2,7 +2,7 @@
 layout: post
 title: 'Bigben Interactive - Auricular Plug&Play al 77.49 % de rebaja'
 date: 2020-02-19 07:23:09
-image: 'https://m.media-amazon.com/images/I/51MzSifqWnL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51MzSifqWnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.995'
 
 Tienes [Bigben Interactive - Auricular Plug&Play  Playstation 4 ](https://www.amazon.es/dp/B00QTB9FKU/?tag=tolees-21) con precio final de  4.5 EUR (original: 19.99 EUR) (77.49 %  de rebaja) aqui!
 
-[![Bigben Interactive - Auricular Plug&Play](https://m.media-amazon.com/images/I/51MzSifqWnL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B00QTB9FKU/?tag=tolees-21)
+[![Bigben Interactive - Auricular Plug&Play](https://m.media-amazon.com/images/I/51MzSifqWnL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B00QTB9FKU/?tag=tolees-21)
 
 🔎:
 

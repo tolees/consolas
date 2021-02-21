@@ -2,7 +2,7 @@
 layout: post
 title: 'Mackuna Flex Plus 0.2M Cable de extensió al 20.00 % de descuento'
 date: 2020-04-17 00:39:29
-image: 'https://m.media-amazon.com/images/I/418X3qi6r7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418X3qi6r7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.44'
 
 Está [Mackuna Flex Plus 0.2M Cable de extensión HDMI Audio - Video con Ethernet  1080P  4k2k  PS4  Xbox One  DVD  BLU-Ray  Sky HD  Virgin Box  UHD  Full HD  Plasma & TV LED  3D TV Plomo  ARC  Dolby TrueHD](https://www.amazon.es/dp/B00L8XC6BY/?tag=tolees-21) con 20.00 de descuento por 7.44 EUR (original: 9.3 EUR) en el siguiente enlace!
 
-[![Mackuna Flex Plus 0.2M Cable de extensió](https://m.media-amazon.com/images/I/418X3qi6r7L._SL200_.jpg)](https://www.amazon.es/dp/B00L8XC6BY/?tag=tolees-21)
+[![Mackuna Flex Plus 0.2M Cable de extensió](https://m.media-amazon.com/images/I/418X3qi6r7L._SL400_.jpg)](https://www.amazon.es/dp/B00L8XC6BY/?tag=tolees-21)
 
 ℹ️:
 

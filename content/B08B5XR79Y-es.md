@@ -2,7 +2,7 @@
 layout: post
 title: 'eXtremeRate Carcasa Joy-con para Nintend al 33.34 % de rebaja'
 date: 2020-08-15 17:37:24
-image: 'https://m.media-amazon.com/images/I/5109WU3LNqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5109WU3LNqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.99'
 
 Tienes [eXtremeRate Carcasa Joy-con para Nintendo Switch Funda de Agarre de reemplazo Shell de Bricolaje con Botón Completo Accesorios para Nintendo Switch No Incluye Carcasa de Consola Efectivo 100$ Dorado ](https://www.amazon.es/dp/B08B5XR79Y/?tag=tolees-21) con precio final de  21.99 EUR (original: 32.99 EUR) (33.34 %  de rebaja) aqui!
 
-[![eXtremeRate Carcasa Joy-con para Nintend](https://m.media-amazon.com/images/I/5109WU3LNqL._SL200_.jpg)](https://www.amazon.es/dp/B08B5XR79Y/?tag=tolees-21)
+[![eXtremeRate Carcasa Joy-con para Nintend](https://m.media-amazon.com/images/I/5109WU3LNqL._SL400_.jpg)](https://www.amazon.es/dp/B08B5XR79Y/?tag=tolees-21)
 
 🔎:
 

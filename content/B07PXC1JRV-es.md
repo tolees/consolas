@@ -2,7 +2,7 @@
 layout: post
 title: 'Controlador inalámbrico PS4  para Playst al 41.66 % de descuento'
 date: 2020-07-23 17:21:35
-image: 'https://m.media-amazon.com/images/I/41R7a7YroVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41R7a7YroVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.825'
 
 Está [Controlador inalámbrico PS4  para Playstation 4 / Pro/Slim/PC portátil  Panel táctil Joypad con Doble vibración  Forma oportuna al Instante para Compartir Joystick](https://www.amazon.es/dp/B07PXC1JRV/?tag=tolees-21) con 41.66 de descuento por 35.0 EUR (original: 59.99 EUR) en el siguiente enlace!
 
-[![Controlador inalámbrico PS4  para Playst](https://m.media-amazon.com/images/I/41R7a7YroVL._SL200_.jpg)](https://www.amazon.es/dp/B07PXC1JRV/?tag=tolees-21)
+[![Controlador inalámbrico PS4  para Playst](https://m.media-amazon.com/images/I/41R7a7YroVL._SL400_.jpg)](https://www.amazon.es/dp/B07PXC1JRV/?tag=tolees-21)
 
 ℹ️:
 

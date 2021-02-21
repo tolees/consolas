@@ -2,7 +2,7 @@
 layout: post
 title: 'HORI - Vault Case Pikachu  Nintendo Swit con un 20.01 % de descuento'
 date: 2020-01-20 11:40:04
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51tKSBhswyL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51tKSBhswyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.49'
 
 En este momento está [HORI - Vault Case Pikachu  Nintendo Switch / Switch Lite ](https://www.amazon.es/dp/B01ALLAXV8/?tag=tolees-21) a 19.99 EUR (original: 24.99 EUR) (20.01 %  de descuento) en el siguiente enlace!
 
-[![HORI - Vault Case Pikachu  Nintendo Swit](https://images-eu.ssl-images-amazon.com/images/I/51tKSBhswyL._SL200_.jpg)](https://www.amazon.es/dp/B01ALLAXV8/?tag=tolees-21)
+[![HORI - Vault Case Pikachu  Nintendo Swit](https://images-eu.ssl-images-amazon.com/images/I/51tKSBhswyL._SL400_.jpg)](https://www.amazon.es/dp/B01ALLAXV8/?tag=tolees-21)
 
 🔎:
 

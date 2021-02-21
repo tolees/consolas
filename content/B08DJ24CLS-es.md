@@ -2,7 +2,7 @@
 layout: post
 title: 'Disco Duro Externo 1tb USB 3.1 para Mac  al 52.01 % de rebaja'
 date: 2020-08-18 16:01:09
-image: 'https://m.media-amazon.com/images/I/41APlDSwhyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41APlDSwhyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '47.99'
 
 Tienes [Disco Duro Externo 1tb USB 3.1 para Mac  PC MacBook  Chromebook  Xbox  1tb  Azul ](https://www.amazon.es/dp/B08DJ24CLS/?tag=tolees-21) con precio final de  47.99 EUR (original: 99.99 EUR) (52.01 %  de rebaja) aqui!
 
-[![Disco Duro Externo 1tb USB 3.1 para Mac ](https://m.media-amazon.com/images/I/41APlDSwhyL._SL200_.jpg)](https://www.amazon.es/dp/B08DJ24CLS/?tag=tolees-21)
+[![Disco Duro Externo 1tb USB 3.1 para Mac ](https://m.media-amazon.com/images/I/41APlDSwhyL._SL400_.jpg)](https://www.amazon.es/dp/B08DJ24CLS/?tag=tolees-21)
 
 🔎:
 

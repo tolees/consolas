@@ -2,7 +2,7 @@
 layout: post
 title: 'LoveOlvidoE 2 unids Universal 3D Thumbst al 31.90 % de descuento'
 date: 2020-05-14 09:14:59
-image: 'https://m.media-amazon.com/images/I/31e0fNGl8tL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31e0fNGl8tL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.9'
 
 Está [LoveOlvidoE 2 unids Universal 3D Thumbstick Cap Aleación De Aluminio Metálico Analógico Analógico Joystick Stick Módulo para PS4 Xbox One Controlador](https://www.amazon.es/dp/B07MGTD1FY/?tag=tolees-21) con 31.90 de descuento por 1.9 EUR (original: 2.79 EUR) en el siguiente enlace!
 
-[![LoveOlvidoE 2 unids Universal 3D Thumbst](https://m.media-amazon.com/images/I/31e0fNGl8tL._SL200_.jpg)](https://www.amazon.es/dp/B07MGTD1FY/?tag=tolees-21)
+[![LoveOlvidoE 2 unids Universal 3D Thumbst](https://m.media-amazon.com/images/I/31e0fNGl8tL._SL400_.jpg)](https://www.amazon.es/dp/B07MGTD1FY/?tag=tolees-21)
 
 ℹ️:
 

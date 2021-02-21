@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 16.67 % en RedThunder Teclado mecánico para juegos '
 date: 2020-07-11 08:29:03
-image: 'https://m.media-amazon.com/images/I/41+bhPcO3ZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+bhPcO3ZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.99'
 
 Tienes [RedThunder Teclado mecánico para juegos con una sola mano RGB Retroiluminado Mini teclado portátil para juegos Controlador de juegos para PC PS4 Xbox Gamer](https://www.amazon.es/dp/B085NGDXVQ/?tag=tolees-21) con un 16.67 % de descuento con precio de oferta de 49.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
-[![RedThunder Teclado mecánico para juegos ](https://m.media-amazon.com/images/I/41+bhPcO3ZL._SL200_.jpg)](https://www.amazon.es/dp/B085NGDXVQ/?tag=tolees-21)
+[![RedThunder Teclado mecánico para juegos ](https://m.media-amazon.com/images/I/41+bhPcO3ZL._SL400_.jpg)](https://www.amazon.es/dp/B085NGDXVQ/?tag=tolees-21)
 
 ℹ️:
 

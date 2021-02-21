@@ -2,7 +2,7 @@
 layout: post
 title: 'Maegoo Inalámbrico Mando para Nintendo S al 20.01 % de rebaja'
 date: 2020-06-29 23:06:14
-image: 'https://m.media-amazon.com/images/I/51QTmU-pd3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51QTmU-pd3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.19'
 
 Tienes [Maegoo Inalámbrico Mando para Nintendo Switch  Bluetooth Wireless Nintendo Switch Pro Mando Controlador Gamepad Joypad Joystick Admite Sensor 6 Gyro Axis  Turbo y Dual Motor Vibration  Amarillo ](https://www.amazon.es/dp/B082MHLDC9/?tag=tolees-21) con precio final de  23.19 EUR (original: 28.99 EUR) (20.01 %  de rebaja) aqui!
 
-[![Maegoo Inalámbrico Mando para Nintendo S](https://m.media-amazon.com/images/I/51QTmU-pd3L._SL200_.jpg)](https://www.amazon.es/dp/B082MHLDC9/?tag=tolees-21)
+[![Maegoo Inalámbrico Mando para Nintendo S](https://m.media-amazon.com/images/I/51QTmU-pd3L._SL400_.jpg)](https://www.amazon.es/dp/B082MHLDC9/?tag=tolees-21)
 
 🔎:
 

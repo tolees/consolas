@@ -2,7 +2,7 @@
 layout: post
 title: 'Funda PS4 Pro Mando Silicona Caso Piel F con un 73.71 % de descuento'
 date: 2020-04-24 20:18:38
-image: 'https://m.media-amazon.com/images/I/51gEsphLoKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51gEsphLoKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.99'
 
 En este momento está [Funda PS4 Pro Mando Silicona Caso Piel Fundas Protectores Cubierta para Sony PS4 Slim/Pro Mando con Pulgar Agarre Thumb Grips x 2  Blanco  - VISPOW](https://www.amazon.es/dp/B078YRCQZ3/?tag=tolees-21) a 4.99 EUR (original: 18.98 EUR) (73.71 %  de descuento) en el siguiente enlace!
 
-[![Funda PS4 Pro Mando Silicona Caso Piel F](https://m.media-amazon.com/images/I/51gEsphLoKL._SL200_.jpg)](https://www.amazon.es/dp/B078YRCQZ3/?tag=tolees-21)
+[![Funda PS4 Pro Mando Silicona Caso Piel F](https://m.media-amazon.com/images/I/51gEsphLoKL._SL400_.jpg)](https://www.amazon.es/dp/B078YRCQZ3/?tag=tolees-21)
 
 🔎:
 

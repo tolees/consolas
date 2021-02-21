@@ -2,7 +2,7 @@
 layout: post
 title: 'Nacon Asymmetric - Mando inalámbrico [Ve al 25.15 % de descuento'
 date: 2020-09-08 10:01:21
-image: 'https://m.media-amazon.com/images/I/41IvvMZY77L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IvvMZY77L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.26875'
 
 Ahora mismo tienes [Nacon Asymmetric - Mando inalámbrico [Versión Española]  PS4 ](https://www.amazon.es/dp/B07PBXYYRK/?tag=tolees-21) a 44.9 EUR (original: 59.99 EUR) (25.15 %  de descuento) en el siguiente enlace!
 
-[![Nacon Asymmetric - Mando inalámbrico [Ve](https://m.media-amazon.com/images/I/41IvvMZY77L._SL200_.jpg)](https://www.amazon.es/dp/B07PBXYYRK/?tag=tolees-21)
+[![Nacon Asymmetric - Mando inalámbrico [Ve](https://m.media-amazon.com/images/I/41IvvMZY77L._SL400_.jpg)](https://www.amazon.es/dp/B07PBXYYRK/?tag=tolees-21)
 
 🔎:
 

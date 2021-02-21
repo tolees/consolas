@@ -2,7 +2,7 @@
 layout: post
 title: 'eXtremeRate Carcasa para Nintendo Switch al 36.01 % de descuento'
 date: 2020-07-10 20:10:54
-image: 'https://m.media-amazon.com/images/I/41MQ-cyGdfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MQ-cyGdfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.99'
 
 Está [eXtremeRate Carcasa para Nintendo Switch Funda Completa para Mando Controlador Consola Joy-con de Nintendo Switch Shell de Bricolaje reemplazable con Botón Completo  Blanco ](https://www.amazon.es/dp/B07MP38JG1/?tag=tolees-21) con 36.01 de descuento por 31.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
-[![eXtremeRate Carcasa para Nintendo Switch](https://m.media-amazon.com/images/I/41MQ-cyGdfL._SL200_.jpg)](https://www.amazon.es/dp/B07MP38JG1/?tag=tolees-21)
+[![eXtremeRate Carcasa para Nintendo Switch](https://m.media-amazon.com/images/I/41MQ-cyGdfL._SL400_.jpg)](https://www.amazon.es/dp/B07MP38JG1/?tag=tolees-21)
 
 ℹ️:
 

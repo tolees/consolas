@@ -2,7 +2,7 @@
 layout: post
 title: 'Hiditec Ratón Gaming Alámbrico Blitz - S al 22.74 % de rebaja'
 date: 2020-01-03 16:25:31
-image: 'https://images-eu.ssl-images-amazon.com/images/I/31pz-c8dc8L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31pz-c8dc8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Tienes [Hiditec Ratón Gaming Alámbrico Blitz - Sensor Profesional IR - 3.500 dpi | Tecnología Gamer OMRON | para Ordenador PC - PS4 - Xbox | Fabricante Español | Incluye Garantía de 2 años](https://www.amazon.es/dp/B01J7JA4EG/?tag=tolees-21) con precio final de  16.99 EUR (original: 21.99 EUR) (22.74 %  de rebaja) aqui!
 
-[![Hiditec Ratón Gaming Alámbrico Blitz - S](https://images-eu.ssl-images-amazon.com/images/I/31pz-c8dc8L._SL200_.jpg)](https://www.amazon.es/dp/B01J7JA4EG/?tag=tolees-21)
+[![Hiditec Ratón Gaming Alámbrico Blitz - S](https://images-eu.ssl-images-amazon.com/images/I/31pz-c8dc8L._SL400_.jpg)](https://www.amazon.es/dp/B01J7JA4EG/?tag=tolees-21)
 
 🔎:
 

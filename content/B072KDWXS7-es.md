@@ -2,7 +2,7 @@
 layout: post
 title: 'FR·TEC -  Funda Silicona + Grip Para Joy al 26.25 % de descuento'
 date: 2020-08-22 17:10:43
-image: 'https://m.media-amazon.com/images/I/41wy+6XE+AL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wy+6XE+AL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.68'
 
 Ahora mismo tienes [FR·TEC -  Funda Silicona + Grip Para Joy- Con Amarillo Izquierdo - Nintendo Switch](https://www.amazon.es/dp/B072KDWXS7/?tag=tolees-21) a 3.68 EUR (original: 4.99 EUR) (26.25 %  de descuento) en el siguiente enlace!
 
-[![FR·TEC -  Funda Silicona + Grip Para Joy](https://m.media-amazon.com/images/I/41wy+6XE+AL._SL200_.jpg)](https://www.amazon.es/dp/B072KDWXS7/?tag=tolees-21)
+[![FR·TEC -  Funda Silicona + Grip Para Joy](https://m.media-amazon.com/images/I/41wy+6XE+AL._SL400_.jpg)](https://www.amazon.es/dp/B072KDWXS7/?tag=tolees-21)
 
 🔎:
 

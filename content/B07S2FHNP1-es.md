@@ -2,7 +2,7 @@
 layout: post
 title: 'GRID  Day One Edition   PlayStation PS4  al 29.30 % de descuento'
 date: 2020-01-10 12:43:29
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51o7O6wLVfL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51o7O6wLVfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.48'
 
 Está [GRID  Day One Edition   PlayStation PS4 ](https://www.amazon.es/dp/B07S2FHNP1/?tag=tolees-21) con 29.30 de descuento por 49.48 EUR (original: 69.99 EUR) en el siguiente enlace!
 
-[![GRID  Day One Edition   PlayStation PS4 ](https://images-eu.ssl-images-amazon.com/images/I/51o7O6wLVfL._SL200_.jpg)](https://www.amazon.es/dp/B07S2FHNP1/?tag=tolees-21)
+[![GRID  Day One Edition   PlayStation PS4 ](https://images-eu.ssl-images-amazon.com/images/I/51o7O6wLVfL._SL400_.jpg)](https://www.amazon.es/dp/B07S2FHNP1/?tag=tolees-21)
 
 ℹ️:
 

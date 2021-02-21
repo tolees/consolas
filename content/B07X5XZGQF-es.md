@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 25.01 % en Gioteck - Mando inalambrico negro Giotec'
 date: 2020-09-29 18:39:00
-image: 'https://m.media-amazon.com/images/I/41fV0s+P89L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fV0s+P89L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.340000000000003'
 
 Tienes [Gioteck - Mando inalambrico negro Gioteck VX-4 para Playstation 4 y PC  PS 4 ](https://www.amazon.es/dp/B07X5XZGQF/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 32.99 EUR (original: 43.99 EUR) en el siguiente enlace!
 
-[![Gioteck - Mando inalambrico negro Giotec](https://m.media-amazon.com/images/I/41fV0s+P89L._SL200_.jpg)](https://www.amazon.es/dp/B07X5XZGQF/?tag=tolees-21)
+[![Gioteck - Mando inalambrico negro Giotec](https://m.media-amazon.com/images/I/41fV0s+P89L._SL400_.jpg)](https://www.amazon.es/dp/B07X5XZGQF/?tag=tolees-21)
 
 ℹ️:
 

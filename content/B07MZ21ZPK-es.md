@@ -2,7 +2,7 @@
 layout: post
 title: 'Intruders: Hide and Seek  PS4 Español  [ al 25.01 % de descuento'
 date: 2020-08-27 19:14:41
-image: 'https://m.media-amazon.com/images/I/51k-Iy6AYyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51k-Iy6AYyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.863333333333333'
 
 Está [Intruders: Hide and Seek  PS4 Español  [Importación alemana]](https://www.amazon.es/dp/B07MZ21ZPK/?tag=tolees-21) con 25.01 de descuento por 14.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![Intruders: Hide and Seek  PS4 Español  [](https://m.media-amazon.com/images/I/51k-Iy6AYyL._SL200_.jpg)](https://www.amazon.es/dp/B07MZ21ZPK/?tag=tolees-21)
+[![Intruders: Hide and Seek  PS4 Español  [](https://m.media-amazon.com/images/I/51k-Iy6AYyL._SL400_.jpg)](https://www.amazon.es/dp/B07MZ21ZPK/?tag=tolees-21)
 
 ℹ️:
 

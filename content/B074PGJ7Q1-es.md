@@ -2,7 +2,7 @@
 layout: post
 title: 'Pdp - Auricular Stereo Afterglow AG6 Con al 44.57 % de descuento'
 date: 2020-02-29 14:49:21
-image: 'https://m.media-amazon.com/images/I/51fINICgxDL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51fINICgxDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.365000000000002'
 
 Está [Pdp - Auricular Stereo Afterglow AG6 Con Cable  Xbox One ](https://www.amazon.es/dp/B074PGJ7Q1/?tag=tolees-21) con 44.57 de descuento por 27.71 EUR (original: 49.99 EUR) en el siguiente enlace!
 
-[![Pdp - Auricular Stereo Afterglow AG6 Con](https://m.media-amazon.com/images/I/51fINICgxDL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B074PGJ7Q1/?tag=tolees-21)
+[![Pdp - Auricular Stereo Afterglow AG6 Con](https://m.media-amazon.com/images/I/51fINICgxDL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B074PGJ7Q1/?tag=tolees-21)
 
 ℹ️:
 

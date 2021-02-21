@@ -2,7 +2,7 @@
 layout: post
 title: 'PowerA - Comfort Grip Para 2 Joy-Con De  al 24.67 % de rebaja'
 date: 2020-04-29 13:45:21
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41FqxD-z6IL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41FqxD-z6IL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 Tienes [PowerA - Comfort Grip Para 2 Joy-Con De Mario Odyssey  Nintendo Switch ](https://www.amazon.es/dp/B075H3XB4Y/?tag=tolees-21) con precio final de  14.99 EUR (original: 19.9 EUR) (24.67 %  de rebaja) aqui!
 
-[![PowerA - Comfort Grip Para 2 Joy-Con De ](https://images-eu.ssl-images-amazon.com/images/I/41FqxD-z6IL._SL200_.jpg)](https://www.amazon.es/dp/B075H3XB4Y/?tag=tolees-21)
+[![PowerA - Comfort Grip Para 2 Joy-Con De ](https://images-eu.ssl-images-amazon.com/images/I/41FqxD-z6IL._SL400_.jpg)](https://www.amazon.es/dp/B075H3XB4Y/?tag=tolees-21)
 
 🔎:
 

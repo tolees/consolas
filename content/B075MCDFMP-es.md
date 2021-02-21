@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 50.00 % en Cewaal 10Pcs Joystick Cap Case Grips Ana'
 date: 2020-05-12 16:06:15
-image: 'https://m.media-amazon.com/images/I/31IncDIqVDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31IncDIqVDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '3.19'
 
 Tienes [Cewaal 10Pcs Joystick Cap Case Grips Analog Cubierta del palillo del pulgar del reemplazo Para PS4 PS3 360 Xbox One Controller](https://www.amazon.es/dp/B075MCDFMP/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 3.19 EUR (original: 6.38 EUR) en el siguiente enlace!
 
-[![Cewaal 10Pcs Joystick Cap Case Grips Ana](https://m.media-amazon.com/images/I/31IncDIqVDL._SL200_.jpg)](https://www.amazon.es/dp/B075MCDFMP/?tag=tolees-21)
+[![Cewaal 10Pcs Joystick Cap Case Grips Ana](https://m.media-amazon.com/images/I/31IncDIqVDL._SL400_.jpg)](https://www.amazon.es/dp/B075MCDFMP/?tag=tolees-21)
 
 ℹ️:
 

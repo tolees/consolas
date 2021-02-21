@@ -2,7 +2,7 @@
 layout: post
 title: 'Hori - Go Pack  Super Mario   Nintendo S al 20.17 % de descuento'
 date: 2020-02-27 15:15:06
-image: 'https://m.media-amazon.com/images/I/516LAf5I8lL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516LAf5I8lL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.95'
 
 Ahora mismo tienes [Hori - Go Pack  Super Mario   Nintendo Switch ](https://www.amazon.es/dp/B07FVBCBYG/?tag=tolees-21) a 19.95 EUR (original: 24.99 EUR) (20.17 %  de descuento) en el siguiente enlace!
 
-[![Hori - Go Pack  Super Mario   Nintendo S](https://m.media-amazon.com/images/I/516LAf5I8lL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07FVBCBYG/?tag=tolees-21)
+[![Hori - Go Pack  Super Mario   Nintendo S](https://m.media-amazon.com/images/I/516LAf5I8lL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07FVBCBYG/?tag=tolees-21)
 
 🔎:
 

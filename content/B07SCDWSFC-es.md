@@ -2,7 +2,7 @@
 layout: post
 title: 'Monster Hunter World: Iceborne - Master  al 17.36 % de descuento'
 date: 2020-06-15 07:04:31
-image: 'https://m.media-amazon.com/images/I/51NvNjaVaZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51NvNjaVaZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '43.39666666666666'
 
 Ahora mismo tienes [Monster Hunter World: Iceborne - Master Edition - PS4](https://www.amazon.es/dp/B07SCDWSFC/?tag=tolees-21) a 39.66 EUR (original: 47.99 EUR) (17.36 %  de descuento) en el siguiente enlace!
 
-[![Monster Hunter World: Iceborne - Master ](https://m.media-amazon.com/images/I/51NvNjaVaZL._SL200_.jpg)](https://www.amazon.es/dp/B07SCDWSFC/?tag=tolees-21)
+[![Monster Hunter World: Iceborne - Master ](https://m.media-amazon.com/images/I/51NvNjaVaZL._SL400_.jpg)](https://www.amazon.es/dp/B07SCDWSFC/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 18.65 % en Nacon Revolution Unlimited - Mando inalá'
 date: 2020-07-27 14:41:55
-image: 'https://m.media-amazon.com/images/I/31aWq2H55LL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31aWq2H55LL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '140.64'
 
 Tienes [Nacon Revolution Unlimited - Mando inalámbrico [Versión Española]  PS4 ](https://www.amazon.es/dp/B07PG9B5LJ/?tag=tolees-21) con un 18.65 % de descuento con precio de oferta de 138.29 EUR (original: 169.99 EUR) en el siguiente enlace!
 
-[![Nacon Revolution Unlimited - Mando inalá](https://m.media-amazon.com/images/I/31aWq2H55LL._SL200_.jpg)](https://www.amazon.es/dp/B07PG9B5LJ/?tag=tolees-21)
+[![Nacon Revolution Unlimited - Mando inalá](https://m.media-amazon.com/images/I/31aWq2H55LL._SL400_.jpg)](https://www.amazon.es/dp/B07PG9B5LJ/?tag=tolees-21)
 
 ℹ️:
 

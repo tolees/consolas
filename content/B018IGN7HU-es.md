@@ -2,7 +2,7 @@
 layout: post
 title: 'Nintendo - Figura amiibo Animal Crossing al 38.49 % de descuento'
 date: 2020-01-23 16:04:46
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51vpNefq9xL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51vpNefq9xL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.99'
 
 Ahora mismo tienes [Nintendo - Figura amiibo Animal Crossing Estela](https://www.amazon.es/dp/B018IGN7HU/?tag=tolees-21) a 7.99 EUR (original: 12.99 EUR) (38.49 %  de descuento) en el siguiente enlace!
 
-[![Nintendo - Figura amiibo Animal Crossing](https://images-eu.ssl-images-amazon.com/images/I/51vpNefq9xL._SL200_.jpg)](https://www.amazon.es/dp/B018IGN7HU/?tag=tolees-21)
+[![Nintendo - Figura amiibo Animal Crossing](https://images-eu.ssl-images-amazon.com/images/I/51vpNefq9xL._SL400_.jpg)](https://www.amazon.es/dp/B018IGN7HU/?tag=tolees-21)
 
 🔎:
 

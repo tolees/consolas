@@ -2,7 +2,7 @@
 layout: post
 title: 'HORI - PlayStand Multipuerto USB  Ninten al 25.11 % de descuento'
 date: 2020-10-12 18:43:01
-image: 'https://m.media-amazon.com/images/I/41ComucLGzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ComucLGzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.95'
 
 Ahora mismo tienes [HORI - PlayStand Multipuerto USB  Nintendo Switch / Switch Lite ](https://www.amazon.es/dp/B01A827XHM/?tag=tolees-21) a 29.95 EUR (original: 39.99 EUR) (25.11 %  de descuento) en el siguiente enlace!
 
-[![HORI - PlayStand Multipuerto USB  Ninten](https://m.media-amazon.com/images/I/41ComucLGzL._SL200_.jpg)](https://www.amazon.es/dp/B01A827XHM/?tag=tolees-21)
+[![HORI - PlayStand Multipuerto USB  Ninten](https://m.media-amazon.com/images/I/41ComucLGzL._SL400_.jpg)](https://www.amazon.es/dp/B01A827XHM/?tag=tolees-21)
 
 🔎:
 

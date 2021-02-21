@@ -2,7 +2,7 @@
 layout: post
 title: 'FR-TEC - Auriculares Gaming Headset Swor al 17.36 % de rebaja'
 date: 2020-07-23 10:06:24
-image: 'https://m.media-amazon.com/images/I/41sZ-CtIwML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sZ-CtIwML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.52'
 
 Tienes [FR-TEC - Auriculares Gaming Headset Sword Azul  Nintendo Switch ](https://www.amazon.es/dp/B07ZFZ2KB4/?tag=tolees-21) con precio final de  16.52 EUR (original: 19.99 EUR) (17.36 %  de rebaja) aqui!
 
-[![FR-TEC - Auriculares Gaming Headset Swor](https://m.media-amazon.com/images/I/41sZ-CtIwML._SL200_.jpg)](https://www.amazon.es/dp/B07ZFZ2KB4/?tag=tolees-21)
+[![FR-TEC - Auriculares Gaming Headset Swor](https://m.media-amazon.com/images/I/41sZ-CtIwML._SL400_.jpg)](https://www.amazon.es/dp/B07ZFZ2KB4/?tag=tolees-21)
 
 🔎:
 

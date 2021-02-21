@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Descuento del 15.00 % en Nintendo - Mando Joycon Set  Color Azul '
-date: 2021-02-20 22:06:19
-image: 'https://m.media-amazon.com/images/I/41wK7MSkquL._SL200_.jpg'
+date: 2021-02-21 22:09:49
+image: 'https://m.media-amazon.com/images/I/41wK7MSkquL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,17 +19,17 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B01N5OORGV/?tag=tolees-21'
 descuento: '15.00'
-average: '75.7851141552509'
+average: '75.7145701357464'
 ---
 
 Tienes [Nintendo - Mando Joycon Set  Color Azul Y Rojo  Nintendo Switch ](https://www.amazon.es/dp/B01N5OORGV/?tag=tolees-21) con un 15.00 % de descuento con precio de oferta de 67.99 EUR (original: 79.99 EUR) en el siguiente enlace!
 
-[![Nintendo - Mando Joycon Set  Color Azul ](https://m.media-amazon.com/images/I/41wK7MSkquL._SL200_.jpg)](https://www.amazon.es/dp/B01N5OORGV/?tag=tolees-21)
+[![Nintendo - Mando Joycon Set  Color Azul ](https://m.media-amazon.com/images/I/41wK7MSkquL._SL400_.jpg)](https://www.amazon.es/dp/B01N5OORGV/?tag=tolees-21)
 
 ℹ️:
 
+- Set compuesto por un mando Joy-Con izquierda (rojo neón) y un mando Joy-Con derecha (azul neón)
 - Cada Joy-Con contiene sus propios botones, sensor de acelerómetro y sensor de movimiento que posibilita que puedan funcionar como un mando independiente
 - El diseño incluye la sofisticada función de vibración HD
-- Set compuesto por un mando Joy-Con izquierda (rojo neón) y un mando Joy-Con derecha (azul neón)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N5OORGV/?tag=tolees-21)

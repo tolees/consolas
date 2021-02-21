@@ -2,7 +2,7 @@
 layout: post
 title: 'Blade - Grips Woxter  Color Azul  PS4  con un 21.11 % de descuento'
 date: 2020-01-17 08:56:30
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41n40qJFw6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41n40qJFw6L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.57'
 
 En este momento está [Blade - Grips Woxter  Color Azul  PS4 ](https://www.amazon.es/dp/B018SZFTWW/?tag=tolees-21) a 1.57 EUR (original: 1.99 EUR) (21.11 %  de descuento) en el siguiente enlace!
 
-[![Blade - Grips Woxter  Color Azul  PS4 ](https://images-eu.ssl-images-amazon.com/images/I/41n40qJFw6L._SL200_.jpg)](https://www.amazon.es/dp/B018SZFTWW/?tag=tolees-21)
+[![Blade - Grips Woxter  Color Azul  PS4 ](https://images-eu.ssl-images-amazon.com/images/I/41n40qJFw6L._SL400_.jpg)](https://www.amazon.es/dp/B018SZFTWW/?tag=tolees-21)
 
 🔎:
 

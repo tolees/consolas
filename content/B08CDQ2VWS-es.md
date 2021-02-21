@@ -2,7 +2,7 @@
 layout: post
 title: 'Disco Duro Externo 2 TB  Disco Duro Exte al 42.86 % de descuento'
 date: 2020-08-06 17:07:31
-image: 'https://m.media-amazon.com/images/I/51corhlEikL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51corhlEikL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '63.99'
 
 Ahora mismo tienes [Disco Duro Externo 2 TB  Disco Duro Externo USB3.0 para PC  Mac Xbox  MacBook  Chromebook  2TB Azul ](https://www.amazon.es/dp/B08CDQ2VWS/?tag=tolees-21) a 63.99 EUR (original: 111.99 EUR) (42.86 %  de descuento) en el siguiente enlace!
 
-[![Disco Duro Externo 2 TB  Disco Duro Exte](https://m.media-amazon.com/images/I/51corhlEikL._SL200_.jpg)](https://www.amazon.es/dp/B08CDQ2VWS/?tag=tolees-21)
+[![Disco Duro Externo 2 TB  Disco Duro Exte](https://m.media-amazon.com/images/I/51corhlEikL._SL400_.jpg)](https://www.amazon.es/dp/B08CDQ2VWS/?tag=tolees-21)
 
 🔎:
 

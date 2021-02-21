@@ -2,7 +2,7 @@
 layout: post
 title: 'KONKY Ventilador PS4  Cooler PS4 Turbo V con un 23.54 % de descuento'
 date: 2020-03-04 21:21:39
-image: 'https://m.media-amazon.com/images/I/51NXE3LTuQL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51NXE3LTuQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 En este momento está [KONKY Ventilador PS4  Cooler PS4 Turbo Ventilador Externo USB con Sensor de Temperatura Automático para Consola de juegos Sony PlayStation 4 [No para PS4 Slim / PS4 Pro]](https://www.amazon.es/dp/B07PJK5G8C/?tag=tolees-21) a 12.99 EUR (original: 16.99 EUR) (23.54 %  de descuento) en el siguiente enlace!
 
-[![KONKY Ventilador PS4  Cooler PS4 Turbo V](https://m.media-amazon.com/images/I/51NXE3LTuQL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07PJK5G8C/?tag=tolees-21)
+[![KONKY Ventilador PS4  Cooler PS4 Turbo V](https://m.media-amazon.com/images/I/51NXE3LTuQL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07PJK5G8C/?tag=tolees-21)
 
 🔎:
 

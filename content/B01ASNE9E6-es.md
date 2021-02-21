@@ -2,7 +2,7 @@
 layout: post
 title: 'Hori - Funda rígida Pokémon Espada y Esc al 25.21 % de descuento'
 date: 2020-02-27 08:12:40
-image: 'https://m.media-amazon.com/images/I/41eQmCBAWGL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eQmCBAWGL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.63'
 
 Está [Hori - Funda rígida Pokémon Espada y Escudo  Nintendo Switch ](https://www.amazon.es/dp/B01ASNE9E6/?tag=tolees-21) con 25.21 de descuento por 14.95 EUR (original: 19.99 EUR) en el siguiente enlace!
 
-[![Hori - Funda rígida Pokémon Espada y Esc](https://m.media-amazon.com/images/I/41eQmCBAWGL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01ASNE9E6/?tag=tolees-21)
+[![Hori - Funda rígida Pokémon Espada y Esc](https://m.media-amazon.com/images/I/41eQmCBAWGL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01ASNE9E6/?tag=tolees-21)
 
 ℹ️:
 

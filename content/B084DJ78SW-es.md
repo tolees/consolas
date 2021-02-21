@@ -2,7 +2,7 @@
 layout: post
 title: 'Funda + protector LCD para consola Ninte con un 33.44 % de descuento'
 date: 2020-05-30 16:54:51
-image: 'https://m.media-amazon.com/images/I/41YQI1QUoZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YQI1QUoZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.9'
 
 En este momento está [Funda + protector LCD para consola Nintendo Switch edición Animal Crossing: New Horizons  Nintendo Switch ](https://www.amazon.es/dp/B084DJ78SW/?tag=tolees-21) a 19.9 EUR (original: 29.9 EUR) (33.44 %  de descuento) en el siguiente enlace!
 
-[![Funda + protector LCD para consola Ninte](https://m.media-amazon.com/images/I/41YQI1QUoZL._SL200_.jpg)](https://www.amazon.es/dp/B084DJ78SW/?tag=tolees-21)
+[![Funda + protector LCD para consola Ninte](https://m.media-amazon.com/images/I/41YQI1QUoZL._SL400_.jpg)](https://www.amazon.es/dp/B084DJ78SW/?tag=tolees-21)
 
 🔎:
 

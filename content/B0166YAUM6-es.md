@@ -2,7 +2,7 @@
 layout: post
 title: 'Imp - Dragon Ball Z Grips   PS4  al 31.77 % de descuento'
 date: 2020-01-18 18:03:45
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51hQQmW-5HL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51hQQmW-5HL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.4925'
 
 Está [Imp - Dragon Ball Z Grips   PS4 ](https://www.amazon.es/dp/B0166YAUM6/?tag=tolees-21) con 31.77 de descuento por 2.04 EUR (original: 2.99 EUR) en el siguiente enlace!
 
-[![Imp - Dragon Ball Z Grips   PS4 ](https://images-eu.ssl-images-amazon.com/images/I/51hQQmW-5HL._SL200_.jpg)](https://www.amazon.es/dp/B0166YAUM6/?tag=tolees-21)
+[![Imp - Dragon Ball Z Grips   PS4 ](https://images-eu.ssl-images-amazon.com/images/I/51hQQmW-5HL._SL400_.jpg)](https://www.amazon.es/dp/B0166YAUM6/?tag=tolees-21)
 
 ℹ️:
 

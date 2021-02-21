@@ -2,7 +2,7 @@
 layout: post
 title: 'Proyector WiFi  BOSNAS Mini Proyector Po con un 18.94 % de descuento'
 date: 2020-07-27 01:15:43
-image: 'https://m.media-amazon.com/images/I/51mrWoI-A4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51mrWoI-A4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '129.69'
 
 En este momento está [Proyector WiFi  BOSNAS Mini Proyector Portátil 5800 Lúmenes Nativo 720P  Soporta Full HD 1080P  Pantalla de 200 "  78000 Horas Vida Compatible con TV Stick PS4 HDMI VGA AV USB Android iOS  Negro](https://www.amazon.es/dp/B088GSKT3J/?tag=tolees-21) a 129.69 EUR (original: 159.99 EUR) (18.94 %  de descuento) en el siguiente enlace!
 
-[![Proyector WiFi  BOSNAS Mini Proyector Po](https://m.media-amazon.com/images/I/51mrWoI-A4L._SL200_.jpg)](https://www.amazon.es/dp/B088GSKT3J/?tag=tolees-21)
+[![Proyector WiFi  BOSNAS Mini Proyector Po](https://m.media-amazon.com/images/I/51mrWoI-A4L._SL400_.jpg)](https://www.amazon.es/dp/B088GSKT3J/?tag=tolees-21)
 
 🔎:
 

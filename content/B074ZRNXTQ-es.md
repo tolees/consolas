@@ -2,7 +2,7 @@
 layout: post
 title: 'FR·TEC -  Grips XL Amarillo Neón - Ninte al 20.07 % de rebaja'
 date: 2020-08-12 17:03:54
-image: 'https://m.media-amazon.com/images/I/51lMJUwWBoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51lMJUwWBoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.39'
 
 Tienes [FR·TEC -  Grips XL Amarillo Neón - Nintendo Switch](https://www.amazon.es/dp/B074ZRNXTQ/?tag=tolees-21) con precio final de  2.39 EUR (original: 2.99 EUR) (20.07 %  de rebaja) aqui!
 
-[![FR·TEC -  Grips XL Amarillo Neón - Ninte](https://m.media-amazon.com/images/I/51lMJUwWBoL._SL200_.jpg)](https://www.amazon.es/dp/B074ZRNXTQ/?tag=tolees-21)
+[![FR·TEC -  Grips XL Amarillo Neón - Ninte](https://m.media-amazon.com/images/I/51lMJUwWBoL._SL400_.jpg)](https://www.amazon.es/dp/B074ZRNXTQ/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Nintendo - Figura Amiibo Bokoblin Serie  al 41.40 % de descuento'
 date: 2020-10-03 16:50:32
-image: 'https://m.media-amazon.com/images/I/51uIUw2kiuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51uIUw2kiuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.31375'
 
 Está [Nintendo - Figura Amiibo Bokoblin Serie Zelda](https://www.amazon.es/dp/B01N6QLRPU/?tag=tolees-21) con 41.40 de descuento por 10.49 EUR (original: 17.9 EUR) en el siguiente enlace!
 
-[![Nintendo - Figura Amiibo Bokoblin Serie ](https://m.media-amazon.com/images/I/51uIUw2kiuL._SL200_.jpg)](https://www.amazon.es/dp/B01N6QLRPU/?tag=tolees-21)
+[![Nintendo - Figura Amiibo Bokoblin Serie ](https://m.media-amazon.com/images/I/51uIUw2kiuL._SL400_.jpg)](https://www.amazon.es/dp/B01N6QLRPU/?tag=tolees-21)
 
 ℹ️:
 

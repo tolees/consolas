@@ -2,7 +2,7 @@
 layout: post
 title: 'Nintendo - Figura Amiibo Smash Yoshi al 31.41 % de descuento'
 date: 2020-01-11 15:13:25
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51591M367nL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51591M367nL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.665'
 
 Está [Nintendo - Figura Amiibo Smash Yoshi](https://www.amazon.es/dp/B00N8PBMK6/?tag=tolees-21) con 31.41 de descuento por 12.34 EUR (original: 17.99 EUR) en el siguiente enlace!
 
-[![Nintendo - Figura Amiibo Smash Yoshi](https://images-eu.ssl-images-amazon.com/images/I/51591M367nL._SL200_.jpg)](https://www.amazon.es/dp/B00N8PBMK6/?tag=tolees-21)
+[![Nintendo - Figura Amiibo Smash Yoshi](https://images-eu.ssl-images-amazon.com/images/I/51591M367nL._SL400_.jpg)](https://www.amazon.es/dp/B00N8PBMK6/?tag=tolees-21)
 
 ℹ️:
 

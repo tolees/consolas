@@ -2,7 +2,7 @@
 layout: post
 title: 'Controlador PowerA Wired con licencia of al 15.01 % de descuento'
 date: 2020-03-23 09:34:11
-image: 'https://m.media-amazon.com/images/I/41aOcj8+OeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aOcj8+OeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.24'
 
 Ahora mismo tienes [Controlador PowerA Wired con licencia oficial para Xbox One  Xbox One S  Xbox One X und Windows 10  - Escarcha ártica Camo](https://www.amazon.es/dp/B07NPZJ7SS/?tag=tolees-21) a 21.24 EUR (original: 24.99 EUR) (15.01 %  de descuento) en el siguiente enlace!
 
-[![Controlador PowerA Wired con licencia of](https://m.media-amazon.com/images/I/41aOcj8+OeL._SL200_.jpg)](https://www.amazon.es/dp/B07NPZJ7SS/?tag=tolees-21)
+[![Controlador PowerA Wired con licencia of](https://m.media-amazon.com/images/I/41aOcj8+OeL._SL400_.jpg)](https://www.amazon.es/dp/B07NPZJ7SS/?tag=tolees-21)
 
 🔎:
 

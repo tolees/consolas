@@ -2,7 +2,7 @@
 layout: post
 title: 'Funko Pop! - Patrick Star Spongebob Holi al 32.82 % de descuento'
 date: 2020-07-10 21:28:07
-image: 'https://m.media-amazon.com/images/I/41LM5dMxjuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41LM5dMxjuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.355405405405403'
 
 Ahora mismo tienes [Funko Pop! - Patrick Star Spongebob Holiday  Xbox ](https://www.amazon.es/dp/B07DFBFWVW/?tag=tolees-21) a 9.99 EUR (original: 14.87 EUR) (32.82 %  de descuento) en el siguiente enlace!
 
-[![Funko Pop! - Patrick Star Spongebob Holi](https://m.media-amazon.com/images/I/41LM5dMxjuL._SL200_.jpg)](https://www.amazon.es/dp/B07DFBFWVW/?tag=tolees-21)
+[![Funko Pop! - Patrick Star Spongebob Holi](https://m.media-amazon.com/images/I/41LM5dMxjuL._SL400_.jpg)](https://www.amazon.es/dp/B07DFBFWVW/?tag=tolees-21)
 
 🔎:
 

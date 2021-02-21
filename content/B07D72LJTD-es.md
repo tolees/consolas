@@ -2,7 +2,7 @@
 layout: post
 title: 'Cargador para mando de PS4  estación de  al 27.07 % de descuento'
 date: 2020-07-09 22:32:38
-image: 'https://m.media-amazon.com/images/I/51myQlpHbRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51myQlpHbRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.8'
 
 Ahora mismo tienes [Cargador para mando de PS4  estación de carga USB para Sony Playstation 4/PS4 Slim/PS4 Pro Controller](https://www.amazon.es/dp/B07D72LJTD/?tag=tolees-21) a 19.8 EUR (original: 27.15 EUR) (27.07 %  de descuento) en el siguiente enlace!
 
-[![Cargador para mando de PS4  estación de ](https://m.media-amazon.com/images/I/51myQlpHbRL._SL200_.jpg)](https://www.amazon.es/dp/B07D72LJTD/?tag=tolees-21)
+[![Cargador para mando de PS4  estación de ](https://m.media-amazon.com/images/I/51myQlpHbRL._SL400_.jpg)](https://www.amazon.es/dp/B07D72LJTD/?tag=tolees-21)
 
 🔎:
 

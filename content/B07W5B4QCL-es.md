@@ -2,7 +2,7 @@
 layout: post
 title: 'Hori - Funda Rígida Negra  Nintendo Swit al 20.61 % de rebaja'
 date: 2020-07-05 13:25:25
-image: 'https://m.media-amazon.com/images/I/31d0b+jiwgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31d0b+jiwgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.1725'
 
 Tienes [Hori - Funda Rígida Negra  Nintendo Switch Lite ](https://www.amazon.es/dp/B07W5B4QCL/?tag=tolees-21) con precio final de  11.9 EUR (original: 14.99 EUR) (20.61 %  de rebaja) aqui!
 
-[![Hori - Funda Rígida Negra  Nintendo Swit](https://m.media-amazon.com/images/I/31d0b+jiwgL._SL200_.jpg)](https://www.amazon.es/dp/B07W5B4QCL/?tag=tolees-21)
+[![Hori - Funda Rígida Negra  Nintendo Swit](https://m.media-amazon.com/images/I/31d0b+jiwgL._SL400_.jpg)](https://www.amazon.es/dp/B07W5B4QCL/?tag=tolees-21)
 
 🔎:
 

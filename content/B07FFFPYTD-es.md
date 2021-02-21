@@ -2,7 +2,7 @@
 layout: post
 title: 'Lego DC Super-Villanos PlayStation 4  Ed al 19.87 % de descuento'
 date: 2020-08-23 08:27:23
-image: 'https://m.media-amazon.com/images/I/51opabohBPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51opabohBPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.434285714285716'
 
 Ahora mismo tienes [Lego DC Super-Villanos PlayStation 4  Edición Estándar](https://www.amazon.es/dp/B07FFFPYTD/?tag=tolees-21) a 12.74 EUR (original: 15.9 EUR) (19.87 %  de descuento) en el siguiente enlace!
 
-[![Lego DC Super-Villanos PlayStation 4  Ed](https://m.media-amazon.com/images/I/51opabohBPL._SL200_.jpg)](https://www.amazon.es/dp/B07FFFPYTD/?tag=tolees-21)
+[![Lego DC Super-Villanos PlayStation 4  Ed](https://m.media-amazon.com/images/I/51opabohBPL._SL400_.jpg)](https://www.amazon.es/dp/B07FFFPYTD/?tag=tolees-21)
 
 🔎:
 

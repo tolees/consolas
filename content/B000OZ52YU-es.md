@@ -2,7 +2,7 @@
 layout: post
 title: 'SEGA Mario & Sonic at the Olympic Games  al 51.85 % de descuento'
 date: 2020-04-18 01:17:08
-image: 'https://m.media-amazon.com/images/I/5111U5h7XuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5111U5h7XuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.59'
 
 Ahora mismo tienes [SEGA Mario & Sonic at the Olympic Games  Wii - Juego  Wii ](https://www.amazon.es/dp/B000OZ52YU/?tag=tolees-21) a 21.59 EUR (original: 44.84 EUR) (51.85 %  de descuento) en el siguiente enlace!
 
-[![SEGA Mario & Sonic at the Olympic Games ](https://m.media-amazon.com/images/I/5111U5h7XuL._SL200_.jpg)](https://www.amazon.es/dp/B000OZ52YU/?tag=tolees-21)
+[![SEGA Mario & Sonic at the Olympic Games ](https://m.media-amazon.com/images/I/5111U5h7XuL._SL400_.jpg)](https://www.amazon.es/dp/B000OZ52YU/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 27.18 % en Gioteck - Estacion de carga DC4 Para 2 m'
 date: 2020-02-01 21:20:21
-image: 'https://m.media-amazon.com/images/I/41eIIaF+gRL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eIIaF+gRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.09'
 
 Tienes [Gioteck - Estacion de carga DC4 Para 2 mandos PS4  PS4 ](https://www.amazon.es/dp/B01IDCAEH0/?tag=tolees-21) con un 27.18 % de descuento con precio de oferta de 5.09 EUR (original: 6.99 EUR) en el siguiente enlace!
 
-[![Gioteck - Estacion de carga DC4 Para 2 m](https://m.media-amazon.com/images/I/41eIIaF+gRL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01IDCAEH0/?tag=tolees-21)
+[![Gioteck - Estacion de carga DC4 Para 2 m](https://m.media-amazon.com/images/I/41eIIaF+gRL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01IDCAEH0/?tag=tolees-21)
 
 ℹ️:
 

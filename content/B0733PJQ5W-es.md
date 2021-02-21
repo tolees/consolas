@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 77.50 % en 4X PS4 analógico controlador de joystick'
 date: 2020-04-02 10:03:41
-image: 'https://m.media-amazon.com/images/I/31uQJo7291L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31uQJo7291L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.53'
 
 Tienes [4X PS4 analógico controlador de joystick tapa tapa palanca de mando para Sony](https://www.amazon.es/dp/B0733PJQ5W/?tag=tolees-21) con un 77.50 % de descuento con precio de oferta de 1.53 EUR (original: 6.8 EUR) en el siguiente enlace!
 
-[![4X PS4 analógico controlador de joystick](https://m.media-amazon.com/images/I/31uQJo7291L._SL200_.jpg)](https://www.amazon.es/dp/B0733PJQ5W/?tag=tolees-21)
+[![4X PS4 analógico controlador de joystick](https://m.media-amazon.com/images/I/31uQJo7291L._SL400_.jpg)](https://www.amazon.es/dp/B0733PJQ5W/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Tina @ Wireless pro para Nintendo Switch al 25.71 % de descuento'
 date: 2020-10-04 08:16:09
-image: 'https://m.media-amazon.com/images/I/41CQ2UKhYSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CQ2UKhYSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.8'
 
 Ahora mismo tienes [Tina @ Wireless pro para Nintendo Switch  controlador inalámbrico compatible para consola Nintendo Switch con gamepad remoto integrado  joypad  captura de pantalla  sensor de gravedad](https://www.amazon.es/dp/B08FFS52SD/?tag=tolees-21) a 20.8 EUR (original: 28.0 EUR) (25.71 %  de descuento) en el siguiente enlace!
 
-[![Tina @ Wireless pro para Nintendo Switch](https://m.media-amazon.com/images/I/41CQ2UKhYSL._SL200_.jpg)](https://www.amazon.es/dp/B08FFS52SD/?tag=tolees-21)
+[![Tina @ Wireless pro para Nintendo Switch](https://m.media-amazon.com/images/I/41CQ2UKhYSL._SL400_.jpg)](https://www.amazon.es/dp/B08FFS52SD/?tag=tolees-21)
 
 🔎:
 

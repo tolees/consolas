@@ -2,7 +2,7 @@
 layout: post
 title: '3x Pegatina Cubierta Adhesiva para Sony  al 44.44 % de descuento'
 date: 2020-03-14 17:35:38
-image: 'https://m.media-amazon.com/images/I/51ZYC7hMG7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ZYC7hMG7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.3'
 
 Ahora mismo tienes [3x Pegatina Cubierta Adhesiva para Sony PlayStation 4 PS4 Consola Controlador Diseño de Esqueleto Impreso](https://www.amazon.es/dp/B01IFDRJ7K/?tag=tolees-21) a 6.3 EUR (original: 11.34 EUR) (44.44 %  de descuento) en el siguiente enlace!
 
-[![3x Pegatina Cubierta Adhesiva para Sony ](https://m.media-amazon.com/images/I/51ZYC7hMG7L._SL200_.jpg)](https://www.amazon.es/dp/B01IFDRJ7K/?tag=tolees-21)
+[![3x Pegatina Cubierta Adhesiva para Sony ](https://m.media-amazon.com/images/I/51ZYC7hMG7L._SL400_.jpg)](https://www.amazon.es/dp/B01IFDRJ7K/?tag=tolees-21)
 
 🔎:
 

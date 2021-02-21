@@ -2,7 +2,7 @@
 layout: post
 title: 'Nintendo 2DS - Consola  Color Rosa + Tom al 22.32 % de descuento'
 date: 2020-04-08 13:47:15
-image: 'https://m.media-amazon.com/images/I/51vFuvZO81L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51vFuvZO81L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '79.25428571428573'
 
 Ahora mismo tienes [Nintendo 2DS - Consola  Color Rosa + Tomodachi Life  Preinstalado ](https://www.amazon.es/dp/B00O57WHPA/?tag=tolees-21) a 69.9 EUR (original: 89.99 EUR) (22.32 %  de descuento) en el siguiente enlace!
 
-[![Nintendo 2DS - Consola  Color Rosa + Tom](https://m.media-amazon.com/images/I/51vFuvZO81L._SL200_.jpg)](https://www.amazon.es/dp/B00O57WHPA/?tag=tolees-21)
+[![Nintendo 2DS - Consola  Color Rosa + Tom](https://m.media-amazon.com/images/I/51vFuvZO81L._SL400_.jpg)](https://www.amazon.es/dp/B00O57WHPA/?tag=tolees-21)
 
 🔎:
 

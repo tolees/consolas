@@ -2,7 +2,7 @@
 layout: post
 title: 'Citadel : Forged with Fire pour PS4 [Imp al 16.45 % de descuento'
 date: 2020-01-21 10:20:47
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51HSO2vczvL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51HSO2vczvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.41'
 
 Ahora mismo tienes [Citadel : Forged with Fire pour PS4 [Importación francesa]](https://www.amazon.es/dp/B07VSJMVVP/?tag=tolees-21) a 33.41 EUR (original: 39.99 EUR) (16.45 %  de descuento) en el siguiente enlace!
 
-[![Citadel : Forged with Fire pour PS4 [Imp](https://images-eu.ssl-images-amazon.com/images/I/51HSO2vczvL._SL200_.jpg)](https://www.amazon.es/dp/B07VSJMVVP/?tag=tolees-21)
+[![Citadel : Forged with Fire pour PS4 [Imp](https://images-eu.ssl-images-amazon.com/images/I/51HSO2vczvL._SL400_.jpg)](https://www.amazon.es/dp/B07VSJMVVP/?tag=tolees-21)
 
 🔎:
 

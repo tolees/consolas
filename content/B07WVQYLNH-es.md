@@ -2,7 +2,7 @@
 layout: post
 title: 'Orzly Paquete de Accesorios para Nintend al 44.01 % de descuento'
 date: 2020-07-24 11:23:25
-image: 'https://m.media-amazon.com/images/I/51mjkE5P-WL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51mjkE5P-WL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.99'
 
 Ahora mismo tienes [Orzly Paquete de Accesorios para Nintendo Switch Lite – Incluye: Protectores de Pantalla & Funda para Switch Lite Consola  Funda Comfort Grip  Cable USB  Auriculares y más.  Amarillo ](https://www.amazon.es/dp/B07WVQYLNH/?tag=tolees-21) a 27.99 EUR (original: 49.99 EUR) (44.01 %  de descuento) en el siguiente enlace!
 
-[![Orzly Paquete de Accesorios para Nintend](https://m.media-amazon.com/images/I/51mjkE5P-WL._SL200_.jpg)](https://www.amazon.es/dp/B07WVQYLNH/?tag=tolees-21)
+[![Orzly Paquete de Accesorios para Nintend](https://m.media-amazon.com/images/I/51mjkE5P-WL._SL400_.jpg)](https://www.amazon.es/dp/B07WVQYLNH/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Syncwire Cable HDMI 2.0 de alta velocida al 59.12 % de descuento'
 date: 2020-07-08 02:38:34
-image: 'https://m.media-amazon.com/images/I/41XKkYwbNVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XKkYwbNVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.99'
 
 Está [Syncwire Cable HDMI 2.0 de alta velocidad 2M - Ultra HD 4k HDMI 18 Gbps Compatible con Fire TV  Apple TV  Ethernet  Retorno de Audio  vídeo UHD 2160p  HD 1080p  3D  Playstation PS3 PS4 PC](https://www.amazon.es/dp/B071WBWGBT/?tag=tolees-21) con 59.12 de descuento por 8.99 EUR (original: 21.99 EUR) en el siguiente enlace!
 
-[![Syncwire Cable HDMI 2.0 de alta velocida](https://m.media-amazon.com/images/I/41XKkYwbNVL._SL200_.jpg)](https://www.amazon.es/dp/B071WBWGBT/?tag=tolees-21)
+[![Syncwire Cable HDMI 2.0 de alta velocida](https://m.media-amazon.com/images/I/41XKkYwbNVL._SL400_.jpg)](https://www.amazon.es/dp/B071WBWGBT/?tag=tolees-21)
 
 ℹ️:
 

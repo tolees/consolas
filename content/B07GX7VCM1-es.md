@@ -2,7 +2,7 @@
 layout: post
 title: 'PDP - Starter Kit Edición Mario Remix  N al 32.01 % de descuento'
 date: 2020-08-12 18:30:39
-image: 'https://m.media-amazon.com/images/I/41WvaqNdJAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WvaqNdJAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.866666666666665'
 
 Está [PDP - Starter Kit Edición Mario Remix  Nintendo Switch ](https://www.amazon.es/dp/B07GX7VCM1/?tag=tolees-21) con 32.01 de descuento por 16.99 EUR (original: 24.99 EUR) en el siguiente enlace!
 
-[![PDP - Starter Kit Edición Mario Remix  N](https://m.media-amazon.com/images/I/41WvaqNdJAL._SL200_.jpg)](https://www.amazon.es/dp/B07GX7VCM1/?tag=tolees-21)
+[![PDP - Starter Kit Edición Mario Remix  N](https://m.media-amazon.com/images/I/41WvaqNdJAL._SL400_.jpg)](https://www.amazon.es/dp/B07GX7VCM1/?tag=tolees-21)
 
 ℹ️:
 

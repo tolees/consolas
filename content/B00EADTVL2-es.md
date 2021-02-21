@@ -2,7 +2,7 @@
 layout: post
 title: 'PDP - Cargador Energizer 2 Mandos  PS4  al 50.23 % de descuento'
 date: 2020-01-23 17:57:11
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41BDr35lZGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BDr35lZGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.52'
 
 Ahora mismo tienes [PDP - Cargador Energizer 2 Mandos  PS4 ](https://www.amazon.es/dp/B00EADTVL2/?tag=tolees-21) a 9.95 EUR (original: 19.99 EUR) (50.23 %  de descuento) en el siguiente enlace!
 
-[![PDP - Cargador Energizer 2 Mandos  PS4 ](https://images-eu.ssl-images-amazon.com/images/I/41BDr35lZGL._SL200_.jpg)](https://www.amazon.es/dp/B00EADTVL2/?tag=tolees-21)
+[![PDP - Cargador Energizer 2 Mandos  PS4 ](https://images-eu.ssl-images-amazon.com/images/I/41BDr35lZGL._SL400_.jpg)](https://www.amazon.es/dp/B00EADTVL2/?tag=tolees-21)
 
 🔎:
 

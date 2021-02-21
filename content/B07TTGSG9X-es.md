@@ -2,7 +2,7 @@
 layout: post
 title: 'NBA 2K20 - Standard Edition - Nintendo S al 46.41 % de rebaja'
 date: 2020-04-23 08:06:12
-image: 'https://m.media-amazon.com/images/I/51AMPuKs+3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51AMPuKs+3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.995000000000005'
 
 Tienes [NBA 2K20 - Standard Edition - Nintendo Switch [Importación alemana]](https://www.amazon.es/dp/B07TTGSG9X/?tag=tolees-21) con precio final de  32.13 EUR (original: 59.95 EUR) (46.41 %  de rebaja) aqui!
 
-[![NBA 2K20 - Standard Edition - Nintendo S](https://m.media-amazon.com/images/I/51AMPuKs+3L._SL200_.jpg)](https://www.amazon.es/dp/B07TTGSG9X/?tag=tolees-21)
+[![NBA 2K20 - Standard Edition - Nintendo S](https://m.media-amazon.com/images/I/51AMPuKs+3L._SL400_.jpg)](https://www.amazon.es/dp/B07TTGSG9X/?tag=tolees-21)
 
 🔎:
 

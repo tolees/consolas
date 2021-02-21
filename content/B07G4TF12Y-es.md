@@ -2,7 +2,7 @@
 layout: post
 title: 'Middle Earth: Shadow of War Definitive E al 32.86 % de descuento'
 date: 2020-05-05 12:03:26
-image: 'https://images-eu.ssl-images-amazon.com/images/I/5157TjqMbTL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/5157TjqMbTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.54'
 
 Ahora mismo tienes [Middle Earth: Shadow of War Definitive Edition - PlayStation 4 [Importación inglesa]](https://www.amazon.es/dp/B07G4TF12Y/?tag=tolees-21) a 37.54 EUR (original: 55.91 EUR) (32.86 %  de descuento) en el siguiente enlace!
 
-[![Middle Earth: Shadow of War Definitive E](https://images-eu.ssl-images-amazon.com/images/I/5157TjqMbTL._SL200_.jpg)](https://www.amazon.es/dp/B07G4TF12Y/?tag=tolees-21)
+[![Middle Earth: Shadow of War Definitive E](https://images-eu.ssl-images-amazon.com/images/I/5157TjqMbTL._SL400_.jpg)](https://www.amazon.es/dp/B07G4TF12Y/?tag=tolees-21)
 
 🔎:
 

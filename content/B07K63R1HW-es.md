@@ -2,7 +2,7 @@
 layout: post
 title: 'Baoblaze Botón de Activación LB RB con K al 44.46 % de descuento'
 date: 2020-07-10 22:25:41
-image: 'https://m.media-amazon.com/images/I/319gvpY11kL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/319gvpY11kL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.01'
 
 Está [Baoblaze Botón de Activación LB RB con Kit de Placa Central para Microsoft Xbox One](https://www.amazon.es/dp/B07K63R1HW/?tag=tolees-21) con 44.46 de descuento por 4.01 EUR (original: 7.22 EUR) en el siguiente enlace!
 
-[![Baoblaze Botón de Activación LB RB con K](https://m.media-amazon.com/images/I/319gvpY11kL._SL200_.jpg)](https://www.amazon.es/dp/B07K63R1HW/?tag=tolees-21)
+[![Baoblaze Botón de Activación LB RB con K](https://m.media-amazon.com/images/I/319gvpY11kL._SL400_.jpg)](https://www.amazon.es/dp/B07K63R1HW/?tag=tolees-21)
 
 ℹ️:
 

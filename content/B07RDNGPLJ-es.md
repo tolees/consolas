@@ -2,7 +2,7 @@
 layout: post
 title: 'Funda para Nintendo Switch Case de prote al 16.68 % de descuento'
 date: 2020-06-24 10:23:21
-image: 'https://m.media-amazon.com/images/I/51cy4YVBo8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51cy4YVBo8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Ahora mismo tienes [Funda para Nintendo Switch Case de protección para Nintendo Switch  Bolsa Transporte Ligera Case con más Espacio de Almacenamiento para 19 Juegos para Accesorios Nintendo Switch](https://www.amazon.es/dp/B07RDNGPLJ/?tag=tolees-21) a 9.99 EUR (original: 11.99 EUR) (16.68 %  de descuento) en el siguiente enlace!
 
-[![Funda para Nintendo Switch Case de prote](https://m.media-amazon.com/images/I/51cy4YVBo8L._SL200_.jpg)](https://www.amazon.es/dp/B07RDNGPLJ/?tag=tolees-21)
+[![Funda para Nintendo Switch Case de prote](https://m.media-amazon.com/images/I/51cy4YVBo8L._SL400_.jpg)](https://www.amazon.es/dp/B07RDNGPLJ/?tag=tolees-21)
 
 🔎:
 

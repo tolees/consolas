@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 35.95 % en Hori - Real Arcade Pro.V Hayabusa  Edici'
 date: 2020-09-03 23:07:08
-image: 'https://m.media-amazon.com/images/I/51JlnOeUE8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51JlnOeUE8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '121.65'
 
 Tienes [Hori - Real Arcade Pro.V Hayabusa  Edición Street Fighter II Retro  Nintendo Switch/PC ](https://www.amazon.es/dp/B07STLTNR5/?tag=tolees-21) con un 35.95 % de descuento con precio de oferta de 102.48 EUR (original: 159.99 EUR) en el siguiente enlace!
 
-[![Hori - Real Arcade Pro.V Hayabusa  Edici](https://m.media-amazon.com/images/I/51JlnOeUE8L._SL200_.jpg)](https://www.amazon.es/dp/B07STLTNR5/?tag=tolees-21)
+[![Hori - Real Arcade Pro.V Hayabusa  Edici](https://m.media-amazon.com/images/I/51JlnOeUE8L._SL400_.jpg)](https://www.amazon.es/dp/B07STLTNR5/?tag=tolees-21)
 
 ℹ️:
 

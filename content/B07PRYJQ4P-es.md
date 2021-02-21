@@ -2,7 +2,7 @@
 layout: post
 title: 'A.O.T. 2: Final Battle - Nintendo Switch al 67.15 % de rebaja'
 date: 2020-09-30 09:08:11
-image: 'https://m.media-amazon.com/images/I/51JbDWdP7wL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51JbDWdP7wL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '33.545'
 
 Tienes [A.O.T. 2: Final Battle - Nintendo Switch](https://www.amazon.es/dp/B07PRYJQ4P/?tag=tolees-21) con precio final de  22.99 EUR (original: 69.99 EUR) (67.15 %  de rebaja) aqui!
 
-[![A.O.T. 2: Final Battle - Nintendo Switch](https://m.media-amazon.com/images/I/51JbDWdP7wL._SL200_.jpg)](https://www.amazon.es/dp/B07PRYJQ4P/?tag=tolees-21)
+[![A.O.T. 2: Final Battle - Nintendo Switch](https://m.media-amazon.com/images/I/51JbDWdP7wL._SL400_.jpg)](https://www.amazon.es/dp/B07PRYJQ4P/?tag=tolees-21)
 
 🔎:
 

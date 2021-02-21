@@ -2,7 +2,7 @@
 layout: post
 title: 'LucidSound - LS31 Wireless Gaming Headse al 38.18 % de descuento'
 date: 2020-02-15 21:20:10
-image: 'https://m.media-amazon.com/images/I/41A0I-eG8HL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41A0I-eG8HL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '106.85'
 
 Ahora mismo tienes [LucidSound - LS31 Wireless Gaming Headset  PS4 ](https://www.amazon.es/dp/B07GCN2RWW/?tag=tolees-21) a 92.7 EUR (original: 149.95 EUR) (38.18 %  de descuento) en el siguiente enlace!
 
-[![LucidSound - LS31 Wireless Gaming Headse](https://m.media-amazon.com/images/I/41A0I-eG8HL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07GCN2RWW/?tag=tolees-21)
+[![LucidSound - LS31 Wireless Gaming Headse](https://m.media-amazon.com/images/I/41A0I-eG8HL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07GCN2RWW/?tag=tolees-21)
 
 🔎:
 

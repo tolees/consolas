@@ -2,7 +2,7 @@
 layout: post
 title: 'Hori - Real Arcade Pro Soulcalibur VI  X al 55.00 % de descuento'
 date: 2020-04-30 11:07:54
-image: 'https://m.media-amazon.com/images/I/51IXQLRsv7L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51IXQLRsv7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '102.595'
 
 Está [Hori - Real Arcade Pro Soulcalibur VI  Xbox One  PC ](https://www.amazon.es/dp/B01A8L6O1E/?tag=tolees-21) con 55.00 de descuento por 85.5 EUR (original: 189.99 EUR) en el siguiente enlace!
 
-[![Hori - Real Arcade Pro Soulcalibur VI  X](https://m.media-amazon.com/images/I/51IXQLRsv7L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B01A8L6O1E/?tag=tolees-21)
+[![Hori - Real Arcade Pro Soulcalibur VI  X](https://m.media-amazon.com/images/I/51IXQLRsv7L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B01A8L6O1E/?tag=tolees-21)
 
 ℹ️:
 

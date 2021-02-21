@@ -2,7 +2,7 @@
 layout: post
 title: 'PROZOR 192kHz DAC Convertidor Digital a  al 34.80 % de descuento'
 date: 2020-08-26 16:36:29
-image: 'https://m.media-amazon.com/images/I/41xEXlfMANL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xEXlfMANL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 Está [PROZOR 192kHz DAC Convertidor Digital a Analógico con Ajuste de Volumen Optico SPDIF Toslink Coaxial a Estéreo RCA L/R Jack de 3 5 mm Soporta LPCM 2.0 para HDTV PS4 DVD Altavoces Auriculares](https://www.amazon.es/dp/B088T8KW1C/?tag=tolees-21) con 34.80 de descuento por 14.99 EUR (original: 22.99 EUR) en el siguiente enlace!
 
-[![PROZOR 192kHz DAC Convertidor Digital a ](https://m.media-amazon.com/images/I/41xEXlfMANL._SL200_.jpg)](https://www.amazon.es/dp/B088T8KW1C/?tag=tolees-21)
+[![PROZOR 192kHz DAC Convertidor Digital a ](https://m.media-amazon.com/images/I/41xEXlfMANL._SL400_.jpg)](https://www.amazon.es/dp/B088T8KW1C/?tag=tolees-21)
 
 ℹ️:
 

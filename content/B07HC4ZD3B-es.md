@@ -2,7 +2,7 @@
 layout: post
 title: 'Hori - Base de Carga Poké Ball Plus  Nin con un 25.21 % de descuento'
 date: 2020-09-21 16:05:55
-image: 'https://m.media-amazon.com/images/I/417WmMqTAAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417WmMqTAAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.41153846153846'
 
 En este momento está [Hori - Base de Carga Poké Ball Plus  Nintendo Switch ](https://www.amazon.es/dp/B07HC4ZD3B/?tag=tolees-21) a 14.95 EUR (original: 19.99 EUR) (25.21 %  de descuento) en el siguiente enlace!
 
-[![Hori - Base de Carga Poké Ball Plus  Nin](https://m.media-amazon.com/images/I/417WmMqTAAL._SL200_.jpg)](https://www.amazon.es/dp/B07HC4ZD3B/?tag=tolees-21)
+[![Hori - Base de Carga Poké Ball Plus  Nin](https://m.media-amazon.com/images/I/417WmMqTAAL._SL400_.jpg)](https://www.amazon.es/dp/B07HC4ZD3B/?tag=tolees-21)
 
 🔎:
 

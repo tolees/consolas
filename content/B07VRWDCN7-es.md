@@ -2,7 +2,7 @@
 layout: post
 title: 'Darksiders Genesis Collectors - Xbox One al 34.44 % de descuento'
 date: 2020-09-16 07:34:25
-image: 'https://m.media-amazon.com/images/I/51cHfOhr70L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51cHfOhr70L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '94.87333333333333'
 
 Ahora mismo tienes [Darksiders Genesis Collectors - Xbox One](https://www.amazon.es/dp/B07VRWDCN7/?tag=tolees-21) a 78.66 EUR (original: 119.99 EUR) (34.44 %  de descuento) en el siguiente enlace!
 
-[![Darksiders Genesis Collectors - Xbox One](https://m.media-amazon.com/images/I/51cHfOhr70L._SL200_.jpg)](https://www.amazon.es/dp/B07VRWDCN7/?tag=tolees-21)
+[![Darksiders Genesis Collectors - Xbox One](https://m.media-amazon.com/images/I/51cHfOhr70L._SL400_.jpg)](https://www.amazon.es/dp/B07VRWDCN7/?tag=tolees-21)
 
 🔎:
 

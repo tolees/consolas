@@ -2,7 +2,7 @@
 layout: post
 title: 'Nacon - Mando Compacto para PS4  color R con un 37.48 % de descuento'
 date: 2020-02-27 21:08:20
-image: 'https://m.media-amazon.com/images/I/41qcsWzmhkL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qcsWzmhkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.235999999999997'
 
 En este momento está [Nacon - Mando Compacto para PS4  color Rojo Cristal](https://www.amazon.es/dp/B0746S3QJT/?tag=tolees-21) a 25.0 EUR (original: 39.99 EUR) (37.48 %  de descuento) en el siguiente enlace!
 
-[![Nacon - Mando Compacto para PS4  color R](https://m.media-amazon.com/images/I/41qcsWzmhkL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0746S3QJT/?tag=tolees-21)
+[![Nacon - Mando Compacto para PS4  color R](https://m.media-amazon.com/images/I/41qcsWzmhkL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0746S3QJT/?tag=tolees-21)
 
 🔎:
 

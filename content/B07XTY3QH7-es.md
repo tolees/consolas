@@ -2,7 +2,7 @@
 layout: post
 title: 'Dragon Ball Z: Kakarot Deluxe Edition -  al 16.98 % de descuento'
 date: 2020-02-16 07:31:53
-image: 'https://m.media-amazon.com/images/I/517efIkYHSL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/517efIkYHSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '74.71'
 
 Ahora mismo tienes [Dragon Ball Z: Kakarot Deluxe Edition - PlayStation 4 [Importación alemana]](https://www.amazon.es/dp/B07XTY3QH7/?tag=tolees-21) a 74.71 EUR (original: 89.99 EUR) (16.98 %  de descuento) en el siguiente enlace!
 
-[![Dragon Ball Z: Kakarot Deluxe Edition - ](https://m.media-amazon.com/images/I/517efIkYHSL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07XTY3QH7/?tag=tolees-21)
+[![Dragon Ball Z: Kakarot Deluxe Edition - ](https://m.media-amazon.com/images/I/517efIkYHSL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07XTY3QH7/?tag=tolees-21)
 
 🔎:
 

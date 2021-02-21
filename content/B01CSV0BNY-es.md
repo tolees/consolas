@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 25.44 % en Nintendo - Figura amiibo Kirby Kirby'
 date: 2020-03-20 14:12:09
-image: 'https://m.media-amazon.com/images/I/51F9n3hc1GL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51F9n3hc1GL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.082857142857144'
 
 Tienes [Nintendo - Figura amiibo Kirby Kirby](https://www.amazon.es/dp/B01CSV0BNY/?tag=tolees-21) con un 25.44 % de descuento con precio de oferta de 11.11 EUR (original: 14.9 EUR) en el siguiente enlace!
 
-[![Nintendo - Figura amiibo Kirby Kirby](https://m.media-amazon.com/images/I/51F9n3hc1GL._SL200_.jpg)](https://www.amazon.es/dp/B01CSV0BNY/?tag=tolees-21)
+[![Nintendo - Figura amiibo Kirby Kirby](https://m.media-amazon.com/images/I/51F9n3hc1GL._SL400_.jpg)](https://www.amazon.es/dp/B01CSV0BNY/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'eXtremeRate Torx T8H T6 Destornillador O al 63.19 % de descuento'
 date: 2020-07-08 15:14:17
-image: 'https://m.media-amazon.com/images/I/41tKrS022lL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tKrS022lL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 Está [eXtremeRate Torx T8H T6 Destornillador Original para Xbox One Herramienta Open Shell para Instalar Reparar Limpiar Mod del Mando Xbox 360/Xbox One/One Elite/One S/One X](https://www.amazon.es/dp/B01GPM141U/?tag=tolees-21) con 63.19 de descuento por 6.99 EUR (original: 18.99 EUR) en el siguiente enlace!
 
-[![eXtremeRate Torx T8H T6 Destornillador O](https://m.media-amazon.com/images/I/41tKrS022lL._SL200_.jpg)](https://www.amazon.es/dp/B01GPM141U/?tag=tolees-21)
+[![eXtremeRate Torx T8H T6 Destornillador O](https://m.media-amazon.com/images/I/41tKrS022lL._SL400_.jpg)](https://www.amazon.es/dp/B01GPM141U/?tag=tolees-21)
 
 ℹ️:
 

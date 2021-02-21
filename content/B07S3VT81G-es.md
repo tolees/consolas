@@ -2,7 +2,7 @@
 layout: post
 title: 'Vampire The Masquerade Bloodlines 2 - Pl al 16.82 % de descuento'
 date: 2020-01-14 06:57:37
-image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BJBpiDhAL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BJBpiDhAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.9'
 
 Está [Vampire The Masquerade Bloodlines 2 - PlayStation 4](https://www.amazon.es/dp/B07S3VT81G/?tag=tolees-21) con 16.82 de descuento por 49.9 EUR (original: 59.99 EUR) en el siguiente enlace!
 
-[![Vampire The Masquerade Bloodlines 2 - Pl](https://images-eu.ssl-images-amazon.com/images/I/51%2BJBpiDhAL._SL200_.jpg)](https://www.amazon.es/dp/B07S3VT81G/?tag=tolees-21)
+[![Vampire The Masquerade Bloodlines 2 - Pl](https://images-eu.ssl-images-amazon.com/images/I/51%2BJBpiDhAL._SL400_.jpg)](https://www.amazon.es/dp/B07S3VT81G/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 17.49 % en Fallout 4 - Xbox One [Importación ingles'
 date: 2020-07-21 04:56:01
-image: 'https://m.media-amazon.com/images/I/51K4Anvw2+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51K4Anvw2+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.615000000000002'
 
 Tienes [Fallout 4 - Xbox One [Importación inglesa]](https://www.amazon.es/dp/B00KIMBVMQ/?tag=tolees-21) con un 17.49 % de descuento con precio de oferta de 15.0 EUR (original: 18.18 EUR) en el siguiente enlace!
 
-[![Fallout 4 - Xbox One [Importación ingles](https://m.media-amazon.com/images/I/51K4Anvw2+L._SL200_.jpg)](https://www.amazon.es/dp/B00KIMBVMQ/?tag=tolees-21)
+[![Fallout 4 - Xbox One [Importación ingles](https://m.media-amazon.com/images/I/51K4Anvw2+L._SL400_.jpg)](https://www.amazon.es/dp/B00KIMBVMQ/?tag=tolees-21)
 
 ℹ️:
 

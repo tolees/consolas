@@ -2,7 +2,7 @@
 layout: post
 title: 'mini kitty 2 en 1 Mando Plus con Motion  al 42.84 % de rebaja'
 date: 2020-07-15 15:11:32
-image: 'https://m.media-amazon.com/images/I/416a7igabZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416a7igabZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.993333333333332'
 
 Tienes [mini kitty 2 en 1 Mando Plus con Motion Plus y Nunchunk para Nintendo Wii + Funda de Silicona - Azul Claro](https://www.amazon.es/dp/B01F8IKSL4/?tag=tolees-21) con precio final de  16.0 EUR (original: 27.99 EUR) (42.84 %  de rebaja) aqui!
 
-[![mini kitty 2 en 1 Mando Plus con Motion ](https://m.media-amazon.com/images/I/416a7igabZL._SL200_.jpg)](https://www.amazon.es/dp/B01F8IKSL4/?tag=tolees-21)
+[![mini kitty 2 en 1 Mando Plus con Motion ](https://m.media-amazon.com/images/I/416a7igabZL._SL400_.jpg)](https://www.amazon.es/dp/B01F8IKSL4/?tag=tolees-21)
 
 🔎:
 

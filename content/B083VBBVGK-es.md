@@ -2,7 +2,7 @@
 layout: post
 title: 'SnowRunner - PS4 con un 19.00 % de descuento'
 date: 2020-05-25 07:48:31
-image: 'https://m.media-amazon.com/images/I/51rfj4eJvTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51rfj4eJvTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.74'
 
 En este momento está [SnowRunner - PS4](https://www.amazon.es/dp/B083VBBVGK/?tag=tolees-21) a 40.49 EUR (original: 49.99 EUR) (19.00 %  de descuento) en el siguiente enlace!
 
-[![SnowRunner - PS4](https://m.media-amazon.com/images/I/51rfj4eJvTL._SL200_.jpg)](https://www.amazon.es/dp/B083VBBVGK/?tag=tolees-21)
+[![SnowRunner - PS4](https://m.media-amazon.com/images/I/51rfj4eJvTL._SL400_.jpg)](https://www.amazon.es/dp/B083VBBVGK/?tag=tolees-21)
 
 🔎:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'FR·TEC - Auriculares Gaming Headset Genb al 44.01 % de descuento'
 date: 2020-08-27 21:12:01
-image: 'https://m.media-amazon.com/images/I/41bReKSKK5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bReKSKK5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.856666666666666'
 
 Está [FR·TEC - Auriculares Gaming Headset Genbu - PS4  Xbox One  Nintendo Switch  PC  Mac](https://www.amazon.es/dp/B07K6NJSCM/?tag=tolees-21) con 44.01 de descuento por 16.79 EUR (original: 29.99 EUR) en el siguiente enlace!
 
-[![FR·TEC - Auriculares Gaming Headset Genb](https://m.media-amazon.com/images/I/41bReKSKK5L._SL200_.jpg)](https://www.amazon.es/dp/B07K6NJSCM/?tag=tolees-21)
+[![FR·TEC - Auriculares Gaming Headset Genb](https://m.media-amazon.com/images/I/41bReKSKK5L._SL400_.jpg)](https://www.amazon.es/dp/B07K6NJSCM/?tag=tolees-21)
 
 ℹ️:
 

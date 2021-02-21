@@ -2,7 +2,7 @@
 layout: post
 title: 'Carcasa para Control de Consola Playstat al 44.44 % de descuento'
 date: 2020-05-13 16:36:07
-image: 'https://m.media-amazon.com/images/I/41-Nw1zP8oL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-Nw1zP8oL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 Ahora mismo tienes [Carcasa para Control de Consola Playstation Controlador de PS4 en Dorado-0072](https://www.amazon.es/dp/B07PZZFZWJ/?tag=tolees-21) a 11.99 EUR (original: 21.58 EUR) (44.44 %  de descuento) en el siguiente enlace!
 
-[![Carcasa para Control de Consola Playstat](https://m.media-amazon.com/images/I/41-Nw1zP8oL._SL200_.jpg)](https://www.amazon.es/dp/B07PZZFZWJ/?tag=tolees-21)
+[![Carcasa para Control de Consola Playstat](https://m.media-amazon.com/images/I/41-Nw1zP8oL._SL400_.jpg)](https://www.amazon.es/dp/B07PZZFZWJ/?tag=tolees-21)
 
 🔎:
 

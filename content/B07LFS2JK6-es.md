@@ -2,7 +2,7 @@
 layout: post
 title: 'Hori - Flight Stick Ace Combat 7  PS4  P al 51.63 % de descuento'
 date: 2020-06-04 01:18:22
-image: 'https://m.media-amazon.com/images/I/41zpSX18OQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zpSX18OQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '121.292'
 
 Está [Hori - Flight Stick Ace Combat 7  PS4  PS3  PC ](https://www.amazon.es/dp/B07LFS2JK6/?tag=tolees-21) con 51.63 de descuento por 96.74 EUR (original: 199.99 EUR) en el siguiente enlace!
 
-[![Hori - Flight Stick Ace Combat 7  PS4  P](https://m.media-amazon.com/images/I/41zpSX18OQL._SL200_.jpg)](https://www.amazon.es/dp/B07LFS2JK6/?tag=tolees-21)
+[![Hori - Flight Stick Ace Combat 7  PS4  P](https://m.media-amazon.com/images/I/41zpSX18OQL._SL400_.jpg)](https://www.amazon.es/dp/B07LFS2JK6/?tag=tolees-21)
 
 ℹ️:
 

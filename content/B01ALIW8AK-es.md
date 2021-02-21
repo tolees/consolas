@@ -2,7 +2,7 @@
 layout: post
 title: 'Hori - Auriculares Switch Azul/Rojo Neón con un 17.61 % de descuento'
 date: 2020-07-08 11:06:19
-image: 'https://m.media-amazon.com/images/I/310n4UKty5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/310n4UKty5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.7'
 
 En este momento está [Hori - Auriculares Switch Azul/Rojo Neón  Nintendo Switch ](https://www.amazon.es/dp/B01ALIW8AK/?tag=tolees-21) a 20.59 EUR (original: 24.99 EUR) (17.61 %  de descuento) en el siguiente enlace!
 
-[![Hori - Auriculares Switch Azul/Rojo Neón](https://m.media-amazon.com/images/I/310n4UKty5L._SL200_.jpg)](https://www.amazon.es/dp/B01ALIW8AK/?tag=tolees-21)
+[![Hori - Auriculares Switch Azul/Rojo Neón](https://m.media-amazon.com/images/I/310n4UKty5L._SL400_.jpg)](https://www.amazon.es/dp/B01ALIW8AK/?tag=tolees-21)
 
 🔎:
 

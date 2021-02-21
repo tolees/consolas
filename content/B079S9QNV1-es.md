@@ -2,7 +2,7 @@
 layout: post
 title: 'LA Noire PS4 - PlayStation 4 [Importació al 15.69 % de descuento'
 date: 2020-06-20 09:30:13
-image: 'https://m.media-amazon.com/images/I/5151mUnjfUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5151mUnjfUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.13'
 
 Está [LA Noire PS4 - PlayStation 4 [Importación inglesa]](https://www.amazon.es/dp/B079S9QNV1/?tag=tolees-21) con 15.69 de descuento por 19.13 EUR (original: 22.69 EUR) en el siguiente enlace!
 
-[![LA Noire PS4 - PlayStation 4 [Importació](https://m.media-amazon.com/images/I/5151mUnjfUL._SL200_.jpg)](https://www.amazon.es/dp/B079S9QNV1/?tag=tolees-21)
+[![LA Noire PS4 - PlayStation 4 [Importació](https://m.media-amazon.com/images/I/5151mUnjfUL._SL400_.jpg)](https://www.amazon.es/dp/B079S9QNV1/?tag=tolees-21)
 
 ℹ️:
 
