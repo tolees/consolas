@@ -28,8 +28,8 @@ En este momento está [SEGA - Puyo Puyo Tetris 2](https://www.amazon.es/dp/B08HZ
 
 🔎:
 
+- El modo en línea mejorado ofrece competición en ligas específicas del juego y modo libre para hasta 4 jugadores
 - Personajes vibrantes y una historia de aventuras añaden dimensión al adictivo juego de rompecabezas árcade
 - La Batalla de Dotes presenta habilidades basadas en personajes que pueden cambiar rápidamente las tornas en una partida, más cartas de artículos para potenciar a tu equipo
-- El modo en línea mejorado ofrece competición en ligas específicas del juego y modo libre para hasta 4 jugadores
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HZVRYHX/?tag=tolees-21)
