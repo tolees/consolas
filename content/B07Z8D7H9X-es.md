@@ -28,10 +28,10 @@ Tienes [Power A - PowerA - Kit de estuche discreto para Nintendo Switch Lite](ht
 
 🔎:
 
-- Carcasa exterior blanda con cremallera y escena de persecución de Super Mario Bros; que se adapta con precisión a la Nintendo Switch Lite
 - El kit incluye un protector de pantalla con aplicador y gamuza de microfibra
-- Licenza ufficiale di Nintendo
+- Carcasa exterior blanda con cremallera y escena de persecución de Super Mario Bros; que se adapta con precisión a la Nintendo Switch Lite
 - Licenza ufficiale di Nintendo
 - Forro interior de felpa con soporte de juego integrado
+- Licenza ufficiale di Nintendo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Z8D7H9X/?tag=tolees-21)
