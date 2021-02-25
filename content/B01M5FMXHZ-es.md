@@ -29,9 +29,9 @@ Tienes [Microsoft - Xbox One - Consola S de 1 TB](https://www.amazon.es/dp/B01M5
 ℹ️:
 
 - Plataforma: Xbox One S
-- Unidad de almacenamiento: HDD
-- Capacidad de almacenamiento interno: 1000GB
 - Wifi: Y
 - Ethernet: Y
+- Unidad de almacenamiento: HDD
+- Capacidad de almacenamiento interno: 1000GB
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01M5FMXHZ/?tag=tolees-21)
