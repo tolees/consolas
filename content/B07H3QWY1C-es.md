@@ -28,9 +28,9 @@ Está [Koch Media - Retro-Bit Sega - Control Pad Saturn USB Pad  Gris [Sega Satu
 
 ℹ️:
 
-- Mando con licencia oficial Sega
 - Diseño como el original
 - Compatible con Sega Mega Drive Mini, PC, Mac y Steam
 - Cable de 3 metros
+- Mando con licencia oficial Sega
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07H3QWY1C/?tag=tolees-21)
