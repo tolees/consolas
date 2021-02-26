@@ -28,10 +28,10 @@ Está [eXtremeRate Juego Completo de calcomanías para Placa Frontal para Ninten
 
 ℹ️:
 
-- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
-- Covers all round of the dock (the top, sides , front and back area), covers the back of the console, includes one set of joy-con skins, one set of screen protectors
 - Quality commitment: This skin decals may NOT cause surface damage or peeling
-- Trademark enrolled in the USA and high quality by our promise to you. Visit our store, there are some other custom skins you might like
 - Custom design for Nintendo Switch Console and Controller
+- Covers all round of the dock (the top, sides , front and back area), covers the back of the console, includes one set of joy-con skins, one set of screen protectors
+- Trademark enrolled in the USA and high quality by our promise to you. Visit our store, there are some other custom skins you might like
+- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07T9LR6NQ/?tag=tolees-21)
