@@ -28,10 +28,10 @@ Tienes [ECHTPower Cargador Mando PS5  Estación de Carga Rápida  Base de Carga 
 
 🔎:
 
-- ❤Protección Inteligente❤: El chip protector incorporado brinda protección contra sobrecargas y el producto está equipado con un diseño antideslizante. Cuando el mando esté completamente cargado, desconectará automáticamente la fuente de alimentación para proteger su equipo de posibles daños.
 - ❤Carga Rápida❤: Capaz de cargar dos mandos de Playstation 5 simultaneamente en menos de 4 horas. ¡Ahorra tiempo y sigue jugando! Nota: Sólo la fuente de alimentación de entrada es de al menos 5 V / 2 A, los 2 mandos se pueden cargar completamente en menos de 4 horas. También puede utilizar el puerto USB frontal de la consola PS5 para la carga.
-- ❤Dos Estaciones de Carga❤: Este cargador le permite cargar dos mandos PS5 al mismo tiempo o sólo uno sin conectarse al sistema PS5.Puede cargar los dos mandos desde la consola PS5, el PC, fuente de alimentación o banco de energía.(Nota:La fuente de alimentación debe ser de al menos 5 V / 2 A).
-- ❤Guarda al no Usar❤: Este soporte para mando PS5 no sólo es un cargador, sino también es para guardar mandos. Perfecto para ahorrar espacio en el almacenamiento de los mandos cuando no estás jugando. ¡Disfruta de juegos ininterrumpidos y agrega brillo a tu escritorio!
+- ❤Protección Inteligente❤: El chip protector incorporado brinda protección contra sobrecargas y el producto está equipado con un diseño antideslizante. Cuando el mando esté completamente cargado, desconectará automáticamente la fuente de alimentación para proteger su equipo de posibles daños.
 - ❤Pantalla LED❤: Con el indicador LED de dos colores en la pantalla de fuente, obtendrá el estado de carga claramente. La luz azul indica que el PS5 mando se ha cargado completamente, la luz roja indica que el mando de PS5 se está cargando.
+- ❤Guarda al no Usar❤: Este soporte para mando PS5 no sólo es un cargador, sino también es para guardar mandos. Perfecto para ahorrar espacio en el almacenamiento de los mandos cuando no estás jugando. ¡Disfruta de juegos ininterrumpidos y agrega brillo a tu escritorio!
+- ❤Dos Estaciones de Carga❤: Este cargador le permite cargar dos mandos PS5 al mismo tiempo o sólo uno sin conectarse al sistema PS5.Puede cargar los dos mandos desde la consola PS5, el PC, fuente de alimentación o banco de energía.(Nota:La fuente de alimentación debe ser de al menos 5 V / 2 A).
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08PCLXN54/?tag=tolees-21)
