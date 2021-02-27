@@ -28,10 +28,10 @@ En este momento está [DIGITNOW! - Convertidor HDMI a RCA  Adaptador convertidor
 
 🔎:
 
-- Amplia compatibilidad: PS One, PS2, PS3, Nintendo 64, STB, VHS, VCR, Proyector de reproductores de DVD Blue-Ray
-- Plug and Play: no es necesario instalar controladores, es portátil, flexible y fácil de operar. Conecte el cable de alimentación USB (incluido) a una fuente de alimentación de 5 V cuando utilice este adaptador HDMI a RCA.
-- Contenido del paquete: convertidor de HDMI a RCA, cable de alimentación USB, manual de usuario, adaptador de corriente, cable HDMI
 - Convertidor de HDMI a RCA: este convertidor es un convertidor universal para convertir la señal de video HDMI en una señal CVBS normal 1080p / 720p.
+- Plug and Play: no es necesario instalar controladores, es portátil, flexible y fácil de operar. Conecte el cable de alimentación USB (incluido) a una fuente de alimentación de 5 V cuando utilice este adaptador HDMI a RCA.
 - Admite entrada de formatos de TV estándar PAL, NTSC3.58, NTSC4.43, SECAM, PAL / M, PAL / N.
+- Contenido del paquete: convertidor de HDMI a RCA, cable de alimentación USB, manual de usuario, adaptador de corriente, cable HDMI
+- Amplia compatibilidad: PS One, PS2, PS3, Nintendo 64, STB, VHS, VCR, Proyector de reproductores de DVD Blue-Ray
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08THL93YZ/?tag=tolees-21)
