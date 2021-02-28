@@ -28,10 +28,10 @@ Ahora mismo tienes [Leideu - Disco Duro Externo 2tb USB 3.0 Disco Duro Externo p
 
 🔎:
 
-- Compatibilidad del sistema de disco duro externo: Windows / Mac / Linux / Android.
 - Lo que obtienes: 1 x disco duro externo, 1 x cable USB 3.0, 3 años de garantía del fabricante.
+- Compatibilidad del sistema de disco duro externo: Windows / Mac / Linux / Android.
 - Versión de actualización 2021: ultradelgada; Superficie cepillada Disco duro externo portátil USB 3.0 ultradelgado y ligero.
-- Disco duro externo Plug and Play: sin software para instalar, simplemente conéctelo y el disco estará listo para usar.
 - Transferencias de datos ultrarrápidas de disco duro externo: funciona con puertos USB 3.0 y USB 2.0 para proporcionar velocidades de transferencia ultrarrápidas: tasas de transferencia de 5 Gbps.
+- Disco duro externo Plug and Play: sin software para instalar, simplemente conéctelo y el disco estará listo para usar.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08TZX87BC/?tag=tolees-21)
