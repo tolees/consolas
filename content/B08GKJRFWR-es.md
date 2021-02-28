@@ -28,10 +28,10 @@ En este momento está [PSZH Mando inalámbrico para Playstation 4  Cinco Piezas 
 
 🔎:
 
+- Nota: consulte el manual del usuario que se proporciona como manual en PDF en la sección de descripción del producto
 - Nuevos métodos de juego: características revolucionarias como paneles táctiles, barras de luz integradas y parlantes incorporados brindan nuevas experiencias emocionantes y formas de interactuar con el juego
+- Comparte al alcance de tu mano: agrega el botón \Compartir\ para compartir fácilmente tus momentos más emocionantes del juego, solo presiona el botón
 - Control preciso: la sensación, la forma y la sensibilidad de los botones de disparo y balancín simulados de DUALSHOCK 4 se han mejorado, lo que proporciona a los jugadores un control absoluto sobre todos los juegos de PlayStation 4
 - Carga eficiente: el controlador inalámbrico DUALSHOCK 4 se puede cargar fácilmente enchufándolo al sistema PS4, incluso en modo de espera, puede usar cualquier cargador estándar con un puerto micro USB
-- Nota: consulte el manual del usuario que se proporciona como manual en PDF en la sección de descripción del producto
-- Comparte al alcance de tu mano: agrega el botón \Compartir\ para compartir fácilmente tus momentos más emocionantes del juego, solo presiona el botón
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GKJRFWR/?tag=tolees-21)
