@@ -28,8 +28,8 @@ En este momento está [Nintendo - The Legenda of Zelda: Breath of the Wild  Impo
 
 🔎:
 
-- Il clima influenza lavventura e tenuta ed equipaggiamento adatto saranno necessari per sopravvivere.
-- Un mondo completamente open-world che potrai esplorare liberamente
 - Compatibile con amiibo serie "The Legend of Zelda 30th Anniversary", amiibo Link lupo e amiibo serie "The Legend of Zelda: Breath of the Wild"
+- Un mondo completamente open-world che potrai esplorare liberamente
+- Il clima influenza lavventura e tenuta ed equipaggiamento adatto saranno necessari per sopravvivere.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N7QUSQ3/?tag=tolees-21)
