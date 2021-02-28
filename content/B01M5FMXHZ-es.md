@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 16.00 % en Microsoft - Xbox One - Consola S de 1 TB'
-date: 2021-02-27 09:21:53
+date: 2021-02-28 09:45:56
 image: 'https://m.media-amazon.com/images/I/41jJc0h28VL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.es/dp/B01M5FMXHZ/?tag=tolees-21'
 descuento: '16.00'
-average: '288.773314917128'
+average: '288.830327868853'
 ---
 
 Tienes [Microsoft - Xbox One - Consola S de 1 TB](https://www.amazon.es/dp/B01M5FMXHZ/?tag=tolees-21) con un 16.00 % de descuento con precio de oferta de 293.99 EUR (original: 349.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [Microsoft - Xbox One - Consola S de 1 TB](https://www.amazon.es/dp/B01M5
 
 ℹ️:
 
-- Unidad de almacenamiento: HDD
+- Capacidad de almacenamiento interno: 1000GB
 - Ethernet: Y
 - Plataforma: Xbox One S
 - Wifi: Y
-- Capacidad de almacenamiento interno: 1000GB
+- Unidad de almacenamiento: HDD
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01M5FMXHZ/?tag=tolees-21)
