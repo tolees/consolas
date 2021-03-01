@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Mando Inalámbrico para Nintendo Switch   al 32.51 % de descuento'
-date: 2020-08-04 11:06:56
+title: 'REDSTORM Mando para Nintendo Switch  Tur al 22.51 % de descuento'
+date: 2021-03-01 12:19:47
 image: 'https://m.media-amazon.com/images/I/415QIYbEZcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CVHL121-es Mando Inalámbrico para Nintendo Switch Mando Pro...'
+slug: 'B08CVHL121-es REDSTORM Mando para Nintendo Switch Turbo y Giroscopio...'
 sku: 'B08CVHL121-es'
 tags: [ 'nintendo', ]
-actualPrice: 26.99 EUR
+actualPrice: 30.99 EUR
 currency: EUR
-price: 26.99
+price: 30.99
 comparePrice: 39.99 EUR
-prodname: 'Mando Inalámbrico para Nintendo Switch  Mando Pro Controller Mando pc Inalambrico con Función Gyro Axis/Dual Shock y Turbo Compatible con Nintendo Switch/Lite  Mando Bluetooth Switch Pro'
+prodname: 'REDSTORM Mando para Nintendo Switch  Turbo y Giroscopio  Controlador Bluetooth Inalámbrico y Recargable de Batería 600mAh para Nintendo Switch/Nintendo Switch Lite'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'REDSTORM'
 buyurl: 'https://www.amazon.es/dp/B08CVHL121/?tag=tolees-21'
-descuento: '32.51'
-average: '26.99'
+descuento: '22.51'
+average: '28.99'
 ---
 
-Está [Mando Inalámbrico para Nintendo Switch  Mando Pro Controller Mando pc Inalambrico con Función Gyro Axis/Dual Shock y Turbo Compatible con Nintendo Switch/Lite  Mando Bluetooth Switch Pro](https://www.amazon.es/dp/B08CVHL121/?tag=tolees-21) con 32.51 de descuento por 26.99 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [REDSTORM Mando para Nintendo Switch  Turbo y Giroscopio  Controlador Bluetooth Inalámbrico y Recargable de Batería 600mAh para Nintendo Switch/Nintendo Switch Lite](https://www.amazon.es/dp/B08CVHL121/?tag=tolees-21) con 22.51 de descuento por 30.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![Mando Inalámbrico para Nintendo Switch  ](https://m.media-amazon.com/images/I/415QIYbEZcL._SL400_.jpg)](https://www.amazon.es/dp/B08CVHL121/?tag=tolees-21)
+[![REDSTORM Mando para Nintendo Switch  Tur](https://m.media-amazon.com/images/I/415QIYbEZcL._SL400_.jpg)](https://www.amazon.es/dp/B08CVHL121/?tag=tolees-21)
 
 ℹ️:
 
+- 🎮【COMPATILIDAD PERFECTA】：un nuevo mando Nintendo Switch inalámbrico que es compatible con Nintendo Switch Pro/Pc, al mismo tiempo mantiene los juegos de Nintendo. Bríndele una mejor experiencia de juego. NOTA: SOLO APOYE LA CONEXIÓN DE CABLE USB CON PC.
+- 🎮【DISEÑO ERGONÓMICO】：está hecho de goma de alta calidad con diseño de textura y antideslizante. Le proporciona un agarre firme y es lo suficientemente suave para garantizar la máxima comodidad incluso durante largos períodos de juego. Al mismo tiempo, reduzca la posibilidad de que el controlador sea destruido, haciendo su operación más segura.
+- 🎮 【VIVRACIÓN DOBLE】El motor de vibración asimétrico de este gamepad switch te ofrece diferentes niveles de vibración, incluidos disparos a la cabeza, explosiones y colisiones, como si estuvieras en el campo de batalla
+- 🎮【CONEXIÓN INALÁMBRICA BLUETOOTH】：controlador de interruptor inalámbrico Se puede emparejar rápidamente el mando con su controlador de Switch a través de Bluetooth. Gran capacidad antiinterferente, fácil manejo y señal de conexión estable (lea las instrucciones de conexión antes de emparejar).
+- 🎮【CONTRL DE VIBRACIÓN Y MOVIMIENTO DEL MOTOR DUAL Y DUNCIÓN TUBRO】 Es compatible con la función turbo (la antigua no tiene función), la función de giroscopio y la función de motor dual. Con esta función puedes jugar a todos los juegos de detección de movimiento de Nintendo, Zelda Splatoon 2 Mario Kart 8 Deluxe Super Mario Odyssey, etc. NOTA: Sin NFC y FUNCIÓN DE DESPERTAR.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CVHL121/?tag=tolees-21)
