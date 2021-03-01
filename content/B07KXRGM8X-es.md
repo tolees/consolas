@@ -29,8 +29,8 @@ En este momento está [SanDisk microSDXC UHS-I Tarjeta para Nintendo Switch 64GB
 🔎:
 
 - Añade hasta 64 gb de espacio adicional al instante
-- Guarda los juegos digitales y contenidos adicionales en un único sitio para jugar en cualquier lugar
 - Velocidades de transferencia de hasta 100 mb/s para cargar los juegos rápidamente
+- Guarda los juegos digitales y contenidos adicionales en un único sitio para jugar en cualquier lugar
 - Tarjeta de memoria con licencia nintendo para el sistema nintendo switch
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07KXRGM8X/?tag=tolees-21)
