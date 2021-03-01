@@ -29,9 +29,9 @@ Ahora mismo tienes [eXtremeRate Juego completo de pegatinas para Nintendo Switch
 🔎:
 
 - Camaleón brillante color vibrante; cuando miras la carcasa superior desde diferentes perspectivas, se verá como un camaleón que cambia de color de verde a azul a morado.
-- El paquete incluye placa trasera de consola, funda Joy-con de repuesto para Nintendo Switch (no incluye pieza electrónica), botones completos, destornilladores PH00 y Y00, tornillos Tri-Wing y Philips.
 - Carcasa de repuesto diseñada a medida para adaptarse perfectamente a la consola Nintendo Switch y Joycon. Corte de precisión para trabajar exactamente como la carcasa original.
-- El proceso de instalación requiere que el cliente tenga una experiencia moderada de modificación electrónica. Obtén una guía de instalación en Youtube buscando "ExtremeRate Nintendo Switch Shell Guide" o "urErvKGNMWY". Vea el vídeo a media velocidad. Recomendamos ver, pausar, hacer y repetir
+- El paquete incluye placa trasera de consola, funda Joy-con de repuesto para Nintendo Switch (no incluye pieza electrónica), botones completos, destornilladores PH00 y Y00, tornillos Tri-Wing y Philips.
 - Carcasa de repuesto única para añadir mucha más personalidad a tu interruptor, no más aburrido color gris estándar.
+- El proceso de instalación requiere que el cliente tenga una experiencia moderada de modificación electrónica. Obtén una guía de instalación en Youtube buscando "ExtremeRate Nintendo Switch Shell Guide" o "urErvKGNMWY". Vea el vídeo a media velocidad. Recomendamos ver, pausar, hacer y repetir
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B085CBW12K/?tag=tolees-21)
