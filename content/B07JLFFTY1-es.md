@@ -28,10 +28,10 @@ Está [Redragon H120 ARES - Auriculares circumaurales gaming - Audio de Alta Def
 
 ℹ️:
 
-- 🎤 MICRÓFONO: El micrófono se encuentra dispuesto en un brazo tipo boom completamente rebatible y captación de sonido unidireccional. Adicionalmente, está equipado con reducción de ruidos.
-- ✅ COPAS CIRCUMAURALES: Este headset de la familia Redragon con sus almohadillas ovaladas que recubren la zona alrededor de las orejas, otorgan no solo comodidad absoluta sino también aislamiento de sonidos provenientes del exterior.
-- 💪 CONSTRUCCIÓN: El Ares se encuentra montado sobre un chasis de plástico ABS reforzado, y su almohadilla en la parte inferior de la diadema proporciona comodidad sin par para sus usuarios.
-- 🎮 COMPATIBILIDAD: Cable reforzado de dos metros coronado por dos conectores 3.5 bañados en oro aseguran la mejor conductividad. Además incluye adaptador 2 a 1 para brindar compatibilidad con PS4, móviles.
 - 🎧 Su calidad de sonido reside en su interior, equipado con diafragmas de 40mm e imanes de neodimio. Un auricular estéreo robusto, pensados para largas sesiones de uso. El Ares es el periférico de calidad que buscáis.
+- ✅ COPAS CIRCUMAURALES: Este headset de la familia Redragon con sus almohadillas ovaladas que recubren la zona alrededor de las orejas, otorgan no solo comodidad absoluta sino también aislamiento de sonidos provenientes del exterior.
+- 🎮 COMPATIBILIDAD: Cable reforzado de dos metros coronado por dos conectores 3.5 bañados en oro aseguran la mejor conductividad. Además incluye adaptador 2 a 1 para brindar compatibilidad con PS4, móviles.
+- 🎤 MICRÓFONO: El micrófono se encuentra dispuesto en un brazo tipo boom completamente rebatible y captación de sonido unidireccional. Adicionalmente, está equipado con reducción de ruidos.
+- 💪 CONSTRUCCIÓN: El Ares se encuentra montado sobre un chasis de plástico ABS reforzado, y su almohadilla en la parte inferior de la diadema proporciona comodidad sin par para sus usuarios.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07JLFFTY1/?tag=tolees-21)
