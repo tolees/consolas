@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.23 % en Hori - Splatoon 2 Splat Pack  Nintendo S'
-date: 2021-02-24 01:07:31
+date: 2021-03-02 12:40:11
 image: 'https://m.media-amazon.com/images/I/51sSt+6tUkL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hori'
 buyurl: 'https://www.amazon.es/dp/B01A0QEWR0/?tag=tolees-21'
 descuento: '50.23'
-average: '9.51'
+average: '9.59'
 ---
 
 Tienes [Hori - Splatoon 2 Splat Pack  Nintendo Switch ](https://www.amazon.es/dp/B01A0QEWR0/?tag=tolees-21) con un 50.23 % de descuento con precio de oferta de 9.95 EUR (original: 19.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [Hori - Splatoon 2 Splat Pack  Nintendo Switch ](https://www.amazon.es/dp
 
 ℹ️:
 
-- Estuche de juegos con carabina (4 cartuchos)
 - Grips para sticks analógicos
-- Colorido diseño para Splatoon 2
 - Funda compacta
+- Colorido diseño para Splatoon 2
+- Estuche de juegos con carabina (4 cartuchos)
 - Licencia oficial de Nintendo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01A0QEWR0/?tag=tolees-21)
