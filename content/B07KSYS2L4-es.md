@@ -28,10 +28,10 @@ Tienes [HDMI Switch 4K 60Hz  Techole Conmutador HDMI Switcher 3 Puertos con Cont
 
 🔎:
 
-- 👌 Plug & Play - Este Switch HDMI es fácil de instalar y operar. No requiere controlador externo. La alimentación podría suministrarse con un cable Micro USB de 5V adaptador de alimentación USB para el mejor rendimiento. Cuando el Conmutador HDMI está conectado a las fuentes, el nivel de prioridad es: Entrada 1> Entrada 2> Entrada 3.
-- 👌 Amplia Compatibilidad - Adecuado para la mayoría de los dispositivos con interfaz HDMI estándar. Entrada: Computadora, Xbox, PS3, PS4, PS4 Pro, DVD, Blu-Ray, Fire TV Stick, Apple TV, Chromecast, Nintendo Switch etc. Salida: Televisores Full HD, HDTV, Monitores, Proyectores, etc.
+- 👌 4K@60Hz Resolución - 4K HDMI Switch soporta 4K@60Hz, 1080P@60Hz, formatos de video 3D y audio HD. Utilice un cable HDMI 2.0 estándar para conectar su dispositivo 4K HDMI (como XBox, PS4 Pro) con pantalla y conmutador HDMI. 👉 Cable HDMI no incluido.
 - 👌 Transmisión Rápida y Estable - HDMI Switch permite la transmisión de datos de alto ancho de banda 10.2 Gbps, admite el cable estándar HDMI AWG26. Tanto la longitud de entrada como la de salida podrían alcanzar hasta 15 m. Sin retraso, sin pérdida de calidad de imagen o sonido.
 - 👌 HDMI Switch 3 EN 1 - El Switch HDMI puede conectar 3 fuentes HDMI a 1 pantalla HDMI, lo que le permite disfrutar de un buen tiempo de video. Control remoto inalámbrico IR switch la señal libremente.
-- 👌 4K@60Hz Resolución - 4K HDMI Switch soporta 4K@60Hz, 1080P@60Hz, formatos de video 3D y audio HD. Utilice un cable HDMI 2.0 estándar para conectar su dispositivo 4K HDMI (como XBox, PS4 Pro) con pantalla y conmutador HDMI. 👉 Cable HDMI no incluido.
+- 👌 Amplia Compatibilidad - Adecuado para la mayoría de los dispositivos con interfaz HDMI estándar. Entrada: Computadora, Xbox, PS3, PS4, PS4 Pro, DVD, Blu-Ray, Fire TV Stick, Apple TV, Chromecast, Nintendo Switch etc. Salida: Televisores Full HD, HDTV, Monitores, Proyectores, etc.
+- 👌 Plug & Play - Este Switch HDMI es fácil de instalar y operar. No requiere controlador externo. La alimentación podría suministrarse con un cable Micro USB de 5V adaptador de alimentación USB para el mejor rendimiento. Cuando el Conmutador HDMI está conectado a las fuentes, el nivel de prioridad es: Entrada 1> Entrada 2> Entrada 3.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07KSYS2L4/?tag=tolees-21)
