@@ -28,10 +28,10 @@ Tienes [Koch Media - Wreckfest - Xbox One](https://www.amazon.es/dp/B07DHNMFP4/?
 
 🔎:
 
-- También hemos incluido una total deformación de los coches con soft-body; es decir, los coches reaccionaran al daño de un modo concreto y convincente
-- Coches increíbles: los coches son viejos, baratos, destartalados, parcheados, oxidados simplemente increíble; resumiendo, nuestros coches rebosan estilo
 - Experiencia de conducción única: Lo primero y principal, estamos creando un divertido juego de carreras con personalidad
+- Coches increíbles: los coches son viejos, baratos, destartalados, parcheados, oxidados simplemente increíble; resumiendo, nuestros coches rebosan estilo
 - Se trata de las cosas que realmente importan: circuitos variados, coches guays y la definición de momentos de “una vez en la vida” que solo se pueden conseguir con simulaciones de física fieles a la realidad
 - Motor flexible: nuestro motor ROMU es una bestia infernal que es totalmente preciso, en cuanto a ingeniería, para carreras vertiginosas de alta velocidad
+- También hemos incluido una total deformación de los coches con soft-body; es decir, los coches reaccionaran al daño de un modo concreto y convincente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07DHNMFP4/?tag=tolees-21)
