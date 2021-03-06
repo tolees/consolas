@@ -28,10 +28,10 @@ Está [Nintendo - Daemon X Machina](https://www.amazon.es/dp/B07DPV6HSD/?tag=tol
 
 ℹ️:
 
-- Tras la caída de la Luna, la humanidad creó una inteligencia artificial avanzada para reconstruir el mundo. Sin embargo, a raíz del mismo desastre aparecieron los Immortals, una raza de máquinas malvadas que volvió a la inteligencia artificial en contra de sus creadores
 - Utiliza una amplia variedad de armas para pulverizar al enemigo; además, podrás alternar entre las armas en cualquier momento para que tus ataques sean mucho más demoledores
-- Equipar a tu Arsenal es una cuestión de potencia ¡y de estilo! Elige las armas que mejor se adapten a tu estilo de juego
 - Ponte a los mandos de un Arsenal y prepárate para un combate explosivo y frenético en Daemon X Machina, un juego de acción y mechas obra del veterano del género Kenichiro Tsukuda
+- Tras la caída de la Luna, la humanidad creó una inteligencia artificial avanzada para reconstruir el mundo. Sin embargo, a raíz del mismo desastre aparecieron los Immortals, una raza de máquinas malvadas que volvió a la inteligencia artificial en contra de sus creadores
+- Equipar a tu Arsenal es una cuestión de potencia ¡y de estilo! Elige las armas que mejor se adapten a tu estilo de juego
 - Femto es una energía misteriosa que proporciona distintas ventajas. Utilízala para preparar armamento que mejora la potencia de los ataques, la defensa o la movilidad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07DPV6HSD/?tag=tolees-21)
