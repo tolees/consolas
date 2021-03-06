@@ -28,10 +28,10 @@ Ahora mismo tienes [WD BLACK - WD BLACK P50 Game Drive de 2 TB - Velocidades SS
 
 🔎:
 
-- Ssd de alto rendimiento con interfaz usb superspeed (20.gb/s) para tu pc o consola
 - Diseñada específicamente para jugadores basándonos en la calidad y fiabilidad de wd_black
-- Basada en el rendimiento con velocidades ssd de hasta 2000.mb/s para reducir los tiempos de carga de la pantalla y ponerte a jugar más rápido
-- Formato resistente a golpes y portátil que te brinda acceso rápido a tu biblioteca de juegos, dondequiera que vayas
 - Hasta 2.tb de almacenamiento adicional para que puedas conservar tus juegos favoritos y guardar los nuevos
+- Formato resistente a golpes y portátil que te brinda acceso rápido a tu biblioteca de juegos, dondequiera que vayas
+- Ssd de alto rendimiento con interfaz usb superspeed (20.gb/s) para tu pc o consola
+- Basada en el rendimiento con velocidades ssd de hasta 2000.mb/s para reducir los tiempos de carga de la pantalla y ponerte a jugar más rápido
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YFG9PG2/?tag=tolees-21)
