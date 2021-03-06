@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - STAR WARS: Squadrons   al 51.45 % de descuento'
-date: 2021-03-04 10:44:27
+date: 2021-03-06 03:24:36
 image: 'https://m.media-amazon.com/images/I/51kUaNugx9L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.es/dp/B08B9FQ2MK/?tag=tolees-21'
 descuento: '51.45'
-average: '30.7703333333333'
+average: '30.0909375'
 ---
 
 Ahora mismo tienes [Electronic Arts - STAR WARS: Squadrons  Xbox One](https://www.amazon.es/dp/B08B9FQ2MK/?tag=tolees-21) a 19.9 EUR (original: 40.99 EUR) (51.45 %  de descuento) en el siguiente enlace!
