@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Óptico a RCA con Volumen Ajustable Techo con un 22.23 % de descuento'
-date: 2021-02-27 05:06:46
+date: 2021-03-06 23:40:36
 image: 'https://m.media-amazon.com/images/I/51SIvne+L9L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Techole'
 buyurl: 'https://www.amazon.es/dp/B08318WQWR/?tag=tolees-21'
 descuento: '22.23'
-average: '18.67'
+average: '19.3328571428572'
 ---
 
 En este momento está [Óptico a RCA con Volumen Ajustable Techole 192kHz Óptico a Jack  Convertidor Audio Digital Óptico Coaxial Toslink a Analógico Estéreo L/R y Jack 3.5mm con Cable Óptico para PS3  PS4  Xbox  HDTV  DVD](https://www.amazon.es/dp/B08318WQWR/?tag=tolees-21) a 20.99 EUR (original: 26.99 EUR) (22.23 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [Óptico a RCA con Volumen Ajustable Techole 192kHz Óptic
 
 🔎:
 
-- 【Volume Adjustable Control】Techole upgraded digital to analog audio converter comes with a volume adjustment button. Unlike other converter, it is more convenient for you to adjust volume when you are enjoying TV, movie, music or games.
-- 【Upgraded DAC Converter】Ideal DAC converter converts coaxial or slink digital audio signals to analog L/R RCA and 3.5mm Jack audio simultaneously (not capable of being reversed). Can be used with PS3, Xbox, Blu Ray Players, HD DVD, Home Cinema Systems, and more devices which lack RCA L/R or 3.5mm jack outputs.
-- 【Plug and Play】 Easy to install and use, the sound is synchronized when connected, without delay. And this DAC adapter comes with a free Toslink Cable (optical cable) and a Coaxial Cable to transmit digital signal or analog signal, you dont need to buy by yourself anymore.
-- 【Multi-Point Connection】Input audio connector with one Toslink and one Coaxial cable, DC 5V port, Output audio connector with RCA(R/L) and one 3.5mm Jack. Supports uncompressed 2.1-channel PCM or LPCM digital audio signal output, will Not supports 5.1 channel Dolby sound.Kindly remind that please remove the plastic cap over it, when you are using the included Toslink and Coaxial Cables.
-- 【192KHz Sampling Rate Achieved】Techole Digital to Anglog Audio Converter actually supports Sampling Rate at 32, 44.1, 48, 96 and 192 KHz, and 24-bit S/PDIF Incoming Bit Stream on Left and Right Channels. Good Anti-Interference function makes the sound pure and clear.
+- 【192kHz Frecuencia de Muestreo】- Compatible con la frecuencia de muestreo a 32, 44.1, 48, 96, 192 kHz, y 24 bits Incoming Bit Stream en los Canales izquierdo y Derecho. Una buena función antiinterferente hace que el sonido sea puro y claro.
+- 【Óptico a Jack】- Convertidor audio digital a analógico convierte señales digitales (Coaxial / Toslink) a señales analógicas (L/R RCA o jack 3.5mm). La fuente de alimentación es a través de un cable de alimentación de 0.5W (5V 1A), que se puede conectar a cualquier enchufe USB.
+- 【Volumen ajustable】- El convertidor DAC actualizado es con control de volumen. Simplemente gire la perilla y podrá ajustar el volumen de salida según sus necesidades. El sonido se sincroniza cuando se conecta sin demora, muy fácil de instalar y usar.
+- 【Diseño de Aleación de Aluminio】- Caja Metálica de Aluminio, liviana, duradera y resistente al calor. Los conectores enchapados en oro mejoran las señales de sonido HD en transmisiones de larga distancia sin problemas. El dac converter viene con Cable Toslink y Cable Coaxial, no necesita comprarlo más.
+- 【Alta Compatibilidad】- Perfecto para sistemas de cine en casa, PS3, PS4, PS4 Pro, Apple TV, HD DVD, Xbox, HDTV, Blu-ray, Sky HD, Sistemas Homecinema, Amplificadores AV, etc. 💥 NOTA: La Salida de Audio se Debe Configurar en Formato PCM / LPCM de 2.1 Canales; No Es Compatible con 5.1 Canales como Dolby y DTS)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08318WQWR/?tag=tolees-21)
