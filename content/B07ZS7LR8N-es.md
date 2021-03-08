@@ -28,10 +28,10 @@ En este momento está [Sony - Nioh 2 - PlayStation 4 [Importación inglesa]](htt
 
 🔎:
 
-- play with friends in co-op online multiplayer modes for up to three players
-- discover a revamped combat system with new weapons and skills
 - journey through the mysterious dark realm - The demonic home of the Yokai
-- Fight to survive in this brutally savage masocore action role-playing game
 - unleash your inner demon to Wield the devastating powers of the supernatural Yokai
+- discover a revamped combat system with new weapons and skills
+- Fight to survive in this brutally savage masocore action role-playing game
+- play with friends in co-op online multiplayer modes for up to three players
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07ZS7LR8N/?tag=tolees-21)
