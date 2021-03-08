@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Pokémon Snap con un 21.43 % de descuento'
-date: 2021-03-03 21:20:23
+date: 2021-03-08 18:54:37
 image: 'https://m.media-amazon.com/images/I/51gIggLoCBL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B08BMFTJHY/?tag=tolees-21'
 descuento: '21.43'
-average: '59.2371428571429'
+average: '58.70625'
 ---
 
 En este momento está [Nintendo - Pokémon Snap](https://www.amazon.es/dp/B08BMFTJHY/?tag=tolees-21) a 54.99 EUR (original: 69.99 EUR) (21.43 %  de descuento) en el siguiente enlace!
