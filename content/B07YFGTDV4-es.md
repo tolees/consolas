@@ -28,9 +28,9 @@ Tienes [WD BLACK - WD BLACK P50 Game Drive de 1 TB - Velocidades SSD NVMe hasta
 
 🔎:
 
+- Hasta 2.tb de almacenamiento adicional para que puedas conservar tus juegos favoritos y guardar los nuevos
 - Ssd de alto rendimiento con interfaz usb superspeed (20.gb/s) para tu pc o consola
 - Basada en el rendimiento con velocidades ssd de hasta 2000 mb/s para reducir los tiempos de carga de la pantalla y ponerte a jugar más rápido
-- Hasta 2.tb de almacenamiento adicional para que puedas conservar tus juegos favoritos y guardar los nuevos
 - Formato resistente a golpes y portátil que te brinda acceso rápido a tu biblioteca de juegos, dondequiera que vayas
 - Diseñada específicamente para jugadores basándonos en la calidad y fiabilidad de wd_black
 
