@@ -31,7 +31,7 @@ Tienes [WD BLACK - WD BLACK P50 Game Drive de 500 GB - Velocidades SSD NVMe has
 - Ssd de alto rendimiento con interfaz usb superspeed (20.gb/s) para tu pc o consola
 - Basada en el rendimiento con velocidades ssd de hasta 2000 mb/s para reducir los tiempos de carga de la pantalla y ponerte a jugar más rápido
 - Formato resistente a golpes y portátil que te brinda acceso rápido a tu biblioteca de juegos, dondequiera que vayas
-- Diseñada específicamente para jugadores basándonos en la calidad y fiabilidad de wd_black
 - Hasta 2.tb de almacenamiento adicional para que puedas conservar tus juegos favoritos y guardar los nuevos
+- Diseñada específicamente para jugadores basándonos en la calidad y fiabilidad de wd_black
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07YFGT6L5/?tag=tolees-21)
