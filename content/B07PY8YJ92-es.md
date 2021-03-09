@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Koch Media - Kingdom Come: Deliverance - al 50.11 % de descuento'
-date: 2021-02-19 08:59:07
-image: 'https://m.media-amazon.com/images/I/51oBGEr9znL._SL200_.jpg'
+date: 2021-03-09 21:21:20
+image: 'https://m.media-amazon.com/images/I/51oBGEr9znL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,19 +19,19 @@ flag: '🇪🇸'
 brand: 'Koch Media'
 buyurl: 'https://www.amazon.es/dp/B07PY8YJ92/?tag=tolees-21'
 descuento: '50.11'
-average: '23.1225'
+average: '22.488'
 ---
 
 Ahora mismo tienes [Koch Media - Kingdom Come: Deliverance - Royal Edition - PS4](https://www.amazon.es/dp/B07PY8YJ92/?tag=tolees-21) a 19.95 EUR (original: 39.99 EUR) (50.11 %  de descuento) en el siguiente enlace!
 
-[![Koch Media - Kingdom Come: Deliverance -](https://m.media-amazon.com/images/I/51oBGEr9znL._SL200_.jpg)](https://www.amazon.es/dp/B07PY8YJ92/?tag=tolees-21)
+[![Koch Media - Kingdom Come: Deliverance -](https://m.media-amazon.com/images/I/51oBGEr9znL._SL400_.jpg)](https://www.amazon.es/dp/B07PY8YJ92/?tag=tolees-21)
 
 🔎:
 
 - Mundo abierto muy realista: castillos majestuosos, amplios campos, todo construido en unos gráficos de alta calidad
 - Historia no lineal: resuelve distintas situaciones de diferentes maneras, después acepta las consecuencias de tus decisiones
+- Combates desafiantes: distancia, sigilo o cuerpo a cuerpo; elige tus armas y ejecuta docenas de únicos combos en bata
 - Mundo dinámico: tus acciones influyen en las reacciones de la gente que te rodea; lucha, roba, seduce, amenaza, persuade o soborna; todo depende de ti
 - Desarrollo del personaje: elige tu equipo, mejora tus habilidades y gana nuevos beneficios
-- Combates desafiantes: distancia, sigilo o cuerpo a cuerpo; elige tus armas y ejecuta docenas de únicos combos en bata
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PY8YJ92/?tag=tolees-21)
