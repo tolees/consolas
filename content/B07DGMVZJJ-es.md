@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Steelbook Battlefield 5 - No  al 16.13 % de descuento'
-date: 2021-03-08 10:01:43
+date: 2021-03-09 15:24:13
 image: 'https://m.media-amazon.com/images/I/41cxPcfu2BL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B07DGMVZJJ/?tag=tolees-21'
 descuento: '16.13'
-average: '7.0705'
+average: '7.00338709677419'
 ---
 
 Ahora mismo tienes [Nintendo - Steelbook Battlefield 5 - No incluye juego  Edición Exclusiva Amazon ](https://www.amazon.es/dp/B07DGMVZJJ/?tag=tolees-21) a 4.99 EUR (original: 5.95 EUR) (16.13 %  de descuento) en el siguiente enlace!
