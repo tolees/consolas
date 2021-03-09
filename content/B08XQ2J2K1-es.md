@@ -28,10 +28,10 @@ Está [Maegoo Mando para PS4  Bluetooth Inalámbrico Mando Joystick Gamepad con 
 
 ℹ️:
 
-- 🎁【Integrada Dual Shock y 6-Axis Gyro Sensor】El mando inalámbrico PS4 incorporado con dos motores asimétricos que proporciona una función de doble descarga. Y compatible con sensor de aceleración 3D y sensor Gyro que proporciona una función de detección de 6 ejes. Permitiéndote experimentar las emocionantes escenas de colisión, vibración y batalla en el juego.
-- 🎁【Conector de Auriculares de 3,5mm y Altavoz y Panel Táctil】El mando PS4 configurado con un conector de 3,5 mm para entrada de auriculares y altavoz, por lo que la señal de audio se puede emitir en los juegos. Y también es compatible con el panel táctil y el botón del panel.
 - 🎁【Compatible con Playstation 4/PS4 Slim/PS4 Pro】 El mando inalámbrico es compatible con Playstation 4/PS4 Slim/Pro a través de Bluetooth. El "Bluetooth 2.1 + EDR" de alto rendimiento proporciona una señal estable sin demora ni caída de línea dentro de los 8m.
 - 🎁【Batería de Litio Recargable】El mando tiene una batería de litio recargable. Puede cargar el controlador con consola PS4/PC/cargador de teléfono móvil con cable USB. Y es con pantalla de carga y función de pantalla de baja potencia.
+- 🎁【Conector de Auriculares de 3,5mm y Altavoz y Panel Táctil】El mando PS4 configurado con un conector de 3,5 mm para entrada de auriculares y altavoz, por lo que la señal de audio se puede emitir en los juegos. Y también es compatible con el panel táctil y el botón del panel.
 - 🎁【Disfruten Jugando Juntos】Admite hasta 4 gamepads inalámbricos conectados simultáneamente a la consola PS4. Para que pueda disfrutar del juego con familiares y amigos.
+- 🎁【Integrada Dual Shock y 6-Axis Gyro Sensor】El mando inalámbrico PS4 incorporado con dos motores asimétricos que proporciona una función de doble descarga. Y compatible con sensor de aceleración 3D y sensor Gyro que proporciona una función de detección de 6 ejes. Permitiéndote experimentar las emocionantes escenas de colisión, vibración y batalla en el juego.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08XQ2J2K1/?tag=tolees-21)
