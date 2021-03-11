@@ -28,7 +28,7 @@ En este momento está [Nintendo - Pokémon Snap](https://www.amazon.es/dp/B08BMF
 
 🔎:
 
-- Caratula no definitiva
 - Fecha de lanzamiento sujeta a cambios
+- Caratula no definitiva
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BMFTJHY/?tag=tolees-21)
