@@ -28,8 +28,8 @@ Tienes [Atlus - Persona 5 Strikers - Editión Limitada  Nintendo Switch ](https:
 
 🔎:
 
-- Adéntrate en el increíble mundo de Persona con una historia
-- Controla a tu equipo de manera dinámica durante combates alucinantes
 - Lucha por todo Japón mientras viajas
+- Controla a tu equipo de manera dinámica durante combates alucinantes
+- Adéntrate en el increíble mundo de Persona con una historia
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08SXL4KXY/?tag=tolees-21)
