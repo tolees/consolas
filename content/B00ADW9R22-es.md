@@ -28,13 +28,13 @@ Ahora mismo tienes [TP-Link TL-PA4010P Kit Powerline con enchufe adicional  AV 6
 
 🔎:
 
-- Para aplicaciones que requieren ancho de banda, como transmisión de video ultra HD desde múltiples dispositivos simultáneamente, juegos en línea y transferencias de archivos grandes
-- Compatible con el estándar homeplug av de hasta 600 mbps, compatible con todos los dispositivos tp-link powerline
-- Con la tecnología avanzada HomePlug AV, el TL-PA4010P KIT puede proporcionar a los usuarios velocidades estables de transmisión de datos de alta velocidad de hasta 600 Mbps a través de un circuito eléctrico doméstico de hasta 300 metros
 - Modo de ahorro de energía hasta 85% (variable según factores ambientales)
-- No requiere configuración, simplemente plug and play, temperatura de funcionamiento: 0°c ~ 40°c (32°f ~ 104°f); temperatura de almacenamiento: -40°c ~ 70°c (-40°f ~ 158°f)
-- Requisitos del sistema windows 2000, xp, 2003, vista; windows 7, 8, 8.1, 10, mac, linux
-- El producto powerline transmite la señal de internet mediante cables de electricidad y permite cubrir áreas de la casa a las que normalmente no llega la señal del enrutador
 - Enchufe adicional mantenga sus dispositivos encendidos, sin perder el enchufe anterior
+- Compatible con el estándar homeplug av de hasta 600 mbps, compatible con todos los dispositivos tp-link powerline
+- Requisitos del sistema windows 2000, xp, 2003, vista; windows 7, 8, 8.1, 10, mac, linux
+- No requiere configuración, simplemente plug and play, temperatura de funcionamiento: 0°c ~ 40°c (32°f ~ 104°f); temperatura de almacenamiento: -40°c ~ 70°c (-40°f ~ 158°f)
+- El producto powerline transmite la señal de internet mediante cables de electricidad y permite cubrir áreas de la casa a las que normalmente no llega la señal del enrutador
+- Para aplicaciones que requieren ancho de banda, como transmisión de video ultra HD desde múltiples dispositivos simultáneamente, juegos en línea y transferencias de archivos grandes
+- Con la tecnología avanzada HomePlug AV, el TL-PA4010P KIT puede proporcionar a los usuarios velocidades estables de transmisión de datos de alta velocidad de hasta 600 Mbps a través de un circuito eléctrico doméstico de hasta 300 metros
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00ADW9R22/?tag=tolees-21)
