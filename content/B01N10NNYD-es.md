@@ -28,9 +28,9 @@ Tienes [Nintendo - Figura Amiibo Link Jinete Serie Zelda](https://www.amazon.es/
 
 ℹ️:
 
-- Es un regalo adecuado en cualquier momento
-- Es la figura Amiibo Link Jinete perteneciente a la Colección Zelda
 - Tipo de producto: figura interactiva
+- Es un regalo adecuado en cualquier momento
 - Plataforma del juego: Nintendo Wii U, Nintendo 3DS, Nintendo Switch
+- Es la figura Amiibo Link Jinete perteneciente a la Colección Zelda
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N10NNYD/?tag=tolees-21)
