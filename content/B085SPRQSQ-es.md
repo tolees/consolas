@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 16.67 % en Nintendo Switch Lite - Consola Coral'
-date: 2021-03-15 04:49:24
+date: 2021-03-16 11:08:22
 image: 'https://m.media-amazon.com/images/I/41dE1zI4bFL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B085SPRQSQ/?tag=tolees-21'
 descuento: '16.67'
-average: '217.105837104075'
+average: '216.95152466368'
 ---
 
 Tienes [Nintendo Switch Lite - Consola Coral](https://www.amazon.es/dp/B085SPRQSQ/?tag=tolees-21) con un 16.67 % de descuento con precio de oferta de 199.9 EUR (original: 239.9 EUR) en el siguiente enlace!
