@@ -5,7 +5,7 @@ date: 2020-03-18 12:11:02
 image: 'https://m.media-amazon.com/images/I/51xhf1tJw5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084TKK57D-es Mortal Kombat 11 - Edición Estándar Incluye DLC Joker PS4'
 sku: 'B084TKK57D-es'
 tags: [ 'ps4', ]

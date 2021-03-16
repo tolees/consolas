@@ -5,7 +5,7 @@ date: 2020-01-25 15:36:04
 image: 'https://m.media-amazon.com/images/I/51ZExrEmjwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YSF5K9V-es Proyector Excelvan 1080P Proyector 4000 lúmenes Proyector...'
 sku: 'B07YSF5K9V-es'
 tags: [ 'ps4','xbox', ]

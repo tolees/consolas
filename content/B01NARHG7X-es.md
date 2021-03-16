@@ -5,7 +5,7 @@ date: 2020-05-15 16:23:11
 image: 'https://m.media-amazon.com/images/I/41WMKCGNfbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NARHG7X-es TP-Link TL-PA7010 KIT - 2 Adaptadores de Comunicación por...'
 sku: 'B01NARHG7X-es'
 tags: [ 'ps4', ]

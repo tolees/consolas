@@ -5,7 +5,7 @@ date: 2020-05-11 17:03:52
 image: 'https://m.media-amazon.com/images/I/41QIF-xOHmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081DVXB8T-es para HDMI Scanline Generator Scanner para Juegos Retro...'
 sku: 'B081DVXB8T-es'
 tags: [ 'ps4','xbox', ]

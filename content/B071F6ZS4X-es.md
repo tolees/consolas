@@ -5,7 +5,7 @@ date: 2020-10-09 04:37:35
 image: 'https://m.media-amazon.com/images/I/41A0P60iUyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071F6ZS4X-es Lápiz óptico para Nintendo 2DS - COCOTOP Compatible con...'
 sku: 'B071F6ZS4X-es'
 tags: [ 'nintendo', ]

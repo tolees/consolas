@@ -5,7 +5,7 @@ date: 2020-01-14 10:14:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/519twXJo6tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O9QC5PY-es Nintendo - Figura Amiibo Smash Zelda'
 sku: 'B00O9QC5PY-es'
 tags: [ 'nintendo', ]

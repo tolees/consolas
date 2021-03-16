@@ -5,7 +5,7 @@ date: 2020-05-28 16:35:33
 image: 'https://m.media-amazon.com/images/I/41OxA3+UPNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MU7G3FZ-es eXtremeRate Pegatina Antideslizante con Textura de Goma...'
 sku: 'B01MU7G3FZ-es'
 tags: [ 'playstation','ps4', ]

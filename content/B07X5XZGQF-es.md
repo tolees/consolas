@@ -5,7 +5,7 @@ date: 2020-09-29 18:39:00
 image: 'https://m.media-amazon.com/images/I/41fV0s+P89L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X5XZGQF-es Gioteck - Mando inalambrico negro Gioteck VX-4 para...'
 sku: 'B07X5XZGQF-es'
 tags: [ 'playstation', ]

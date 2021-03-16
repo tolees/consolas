@@ -5,7 +5,7 @@ date: 2020-06-02 09:41:27
 image: 'https://m.media-amazon.com/images/I/41w2AmklXGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01A0TEIX0-es Hori - Funda De Felpa Splatoon 2 Nintendo Switch'
 sku: 'B01A0TEIX0-es'
 tags: [ 'nintendo', ]

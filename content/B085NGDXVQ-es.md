@@ -5,7 +5,7 @@ date: 2020-07-11 08:29:03
 image: 'https://m.media-amazon.com/images/I/41+bhPcO3ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085NGDXVQ-es RedThunder Teclado mecánico para juegos con una sola mano...'
 sku: 'B085NGDXVQ-es'
 tags: [ 'ps4','xbox', ]

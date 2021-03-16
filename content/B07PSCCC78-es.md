@@ -5,7 +5,7 @@ date: 2020-04-18 20:24:53
 image: 'https://m.media-amazon.com/images/I/41036jCNPvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PSCCC78-es Redragon H510 ZEUS - Cascos headset cómodos para Gaming -...'
 sku: 'B07PSCCC78-es'
 tags: [ 'ps4', ]

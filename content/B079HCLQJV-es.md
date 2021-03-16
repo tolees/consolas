@@ -5,7 +5,7 @@ date: 2020-02-27 08:56:41
 image: 'https://m.media-amazon.com/images/I/41WjIYffDEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079HCLQJV-es Indeca - Auriculares casco PS4 PC Xbox Multiplataforma...'
 sku: 'B079HCLQJV-es'
 tags: [ 'playstation','ps4','xbox', ]

@@ -5,7 +5,7 @@ date: 2020-02-29 08:08:55
 image: 'https://m.media-amazon.com/images/I/41nx0vCbH3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HF6VRZV-es Pengo 4K HDMI Pass-Through Grabber Capturadora de Video...'
 sku: 'B07HF6VRZV-es'
 tags: [ 'ps4','xbox', ]

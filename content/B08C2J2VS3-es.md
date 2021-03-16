@@ -5,7 +5,7 @@ date: 2020-08-05 17:20:22
 image: 'https://m.media-amazon.com/images/I/31RdIbb3ktL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C2J2VS3-es Disco Duro Externo 2tb USB 3.1 para Mac PC MacBook...'
 sku: 'B08C2J2VS3-es'
 tags: [ 'xbox', ]

@@ -5,7 +5,7 @@ date: 2020-08-12 17:03:54
 image: 'https://m.media-amazon.com/images/I/51lMJUwWBoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074ZRNXTQ-es FR·TEC - Grips XL Amarillo Neón - Nintendo Switch'
 sku: 'B074ZRNXTQ-es'
 tags: [ 'nintendo', ]

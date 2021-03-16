@@ -5,7 +5,7 @@ date: 2020-05-26 11:45:17
 image: 'https://m.media-amazon.com/images/I/51h4ZpT0NwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081JZY1CW-es Slabo Lámina de Vidrio Premium para Nintendo Switch Lite...'
 sku: 'B081JZY1CW-es'
 tags: [ 'nintendo', ]

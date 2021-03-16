@@ -5,7 +5,7 @@ date: 2020-08-23 03:44:58
 image: 'https://m.media-amazon.com/images/I/41e++9OBNcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F4RLZCL-es Disco Duro Externo 1tb Portátil 2.5" USB3.0 SATA HDD...'
 sku: 'B08F4RLZCL-es'
 tags: [ 'xbox', ]

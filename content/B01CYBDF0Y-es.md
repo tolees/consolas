@@ -5,7 +5,7 @@ date: 2020-09-03 20:15:50
 image: 'https://m.media-amazon.com/images/I/41P4EQYD0wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CYBDF0Y-es AUKEY Cable USB C a USB A 3.0 1m x 3 Nylón Cable USB Tipo...'
 sku: 'B01CYBDF0Y-es'
 tags: [ 'nintendo', ]

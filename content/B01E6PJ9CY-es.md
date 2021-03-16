@@ -5,7 +5,7 @@ date: 2020-05-05 09:47:51
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41hKXUalLWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01E6PJ9CY-es MagiDeal 3 par de Tapas Luminosas de Pulgar para Sony PS4...'
 sku: 'B01E6PJ9CY-es'
 tags: [ 'ps4', ]

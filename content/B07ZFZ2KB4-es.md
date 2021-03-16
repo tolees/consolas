@@ -5,7 +5,7 @@ date: 2020-07-23 10:06:24
 image: 'https://m.media-amazon.com/images/I/41sZ-CtIwML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZFZ2KB4-es FR-TEC - Auriculares Gaming Headset Sword Azul Nintendo...'
 sku: 'B07ZFZ2KB4-es'
 tags: [ 'nintendo', ]

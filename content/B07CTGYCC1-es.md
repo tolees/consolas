@@ -5,7 +5,7 @@ date: 2020-01-28 17:24:22
 image: 'https://m.media-amazon.com/images/I/51K3H9MNwRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CTGYCC1-es Auriculares SADES SA810 Xbox One PS4 Stereo Gaming con...'
 sku: 'B07CTGYCC1-es'
 tags: [ 'ps4','xbox', ]

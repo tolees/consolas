@@ -5,7 +5,7 @@ date: 2020-04-09 13:02:23
 image: 'https://m.media-amazon.com/images/I/31JhpsTJPdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RBK94C4-es C-FUNN Carcasa del Cartucho Reemplazo De La Tarjeta De...'
 sku: 'B07RBK94C4-es'
 tags: [ 'nintendo', ]

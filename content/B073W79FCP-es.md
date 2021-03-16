@@ -5,7 +5,7 @@ date: 2020-04-01 12:36:38
 image: 'https://m.media-amazon.com/images/I/41rWJmJr3mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073W79FCP-es ELEGIANT Auriculares Gaming PC Cascos Gaming Headset con...'
 sku: 'B073W79FCP-es'
 tags: [ 'ps4','xbox', ]

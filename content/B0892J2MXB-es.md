@@ -5,7 +5,7 @@ date: 2020-09-05 00:23:11
 image: 'https://m.media-amazon.com/images/I/41hTbt6FejL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0892J2MXB-es WesKimed DAC Convertidor Digital a Analógico Adaptador...'
 sku: 'B0892J2MXB-es'
 tags: [ 'ps4','xbox', ]

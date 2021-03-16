@@ -5,7 +5,7 @@ date: 2020-05-28 06:58:53
 image: 'https://m.media-amazon.com/images/I/51A4Jru4AmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W1Z3T5G-es Ardistel - Game Traveler Deluxe Travel Case NNS57 Nintendo...'
 sku: 'B07W1Z3T5G-es'
 tags: [ 'nintendo', ]

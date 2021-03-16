@@ -5,7 +5,7 @@ date: 2020-01-10 10:24:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/313FJvFqcyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H07FV5Y-es BenQ ZOWIE RL2755 - Monitor de 27" para consola e-Sports...'
 sku: 'B01H07FV5Y-es'
 tags: [ 'playstation','ps4', ]

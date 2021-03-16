@@ -5,7 +5,7 @@ date: 2020-09-17 13:48:28
 image: 'https://m.media-amazon.com/images/I/415OhUoBc+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RCZ7RKR-es Universal volante y pedales para PC PlayStation 3/4 PS3 /...'
 sku: 'B07RCZ7RKR-es'
 tags: [ 'playstation','ps4','xbox', ]

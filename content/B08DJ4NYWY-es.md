@@ -5,7 +5,7 @@ date: 2020-09-18 02:17:18
 image: 'https://m.media-amazon.com/images/I/31fsgk0rCaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ4NYWY-es Disco Duro Externo 2 TB Disco Duro Externo USB3.0 para PC...'
 sku: 'B08DJ4NYWY-es'
 tags: [ 'xbox', ]

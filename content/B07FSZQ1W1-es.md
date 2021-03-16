@@ -5,7 +5,7 @@ date: 2020-08-09 17:14:37
 image: 'https://m.media-amazon.com/images/I/51kuUTmuioL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FSZQ1W1-es [2017 SADES SA807 Nueva Xbox one PS4 Gaming Headset]...'
 sku: 'B07FSZQ1W1-es'
 tags: [ 'ps4','xbox', ]

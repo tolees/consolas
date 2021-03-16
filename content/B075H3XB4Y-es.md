@@ -5,7 +5,7 @@ date: 2020-04-29 13:45:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41FqxD-z6IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075H3XB4Y-es PowerA - Comfort Grip Para 2 Joy-Con De Mario Odyssey...'
 sku: 'B075H3XB4Y-es'
 tags: [ 'nintendo', ]

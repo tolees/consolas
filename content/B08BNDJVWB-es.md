@@ -5,7 +5,7 @@ date: 2020-07-13 21:37:16
 image: 'https://m.media-amazon.com/images/I/31NYJO4JnML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BNDJVWB-es eXtremeRate LB RB LT RT Parachoques disparadores D-Pad...'
 sku: 'B08BNDJVWB-es'
 tags: [ 'xbox', ]

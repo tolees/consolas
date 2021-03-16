@@ -5,7 +5,7 @@ date: 2020-05-12 16:06:15
 image: 'https://m.media-amazon.com/images/I/31IncDIqVDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075MCDFMP-es Cewaal 10Pcs Joystick Cap Case Grips Analog Cubierta del...'
 sku: 'B075MCDFMP-es'
 tags: [ 'ps4','xbox', ]

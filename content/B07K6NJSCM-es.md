@@ -5,7 +5,7 @@ date: 2020-08-27 21:12:01
 image: 'https://m.media-amazon.com/images/I/41bReKSKK5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K6NJSCM-es FR·TEC - Auriculares Gaming Headset Genbu - PS4 Xbox One...'
 sku: 'B07K6NJSCM-es'
 tags: [ 'nintendo','ps4','xbox', ]

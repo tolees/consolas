@@ -5,7 +5,7 @@ date: 2020-07-22 17:17:38
 image: 'https://m.media-amazon.com/images/I/41ad9sJnNeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C2PXV8X-es Disco Duro Externo 2tb USB3.0 Disco Duro Externo para Mac...'
 sku: 'B08C2PXV8X-es'
 tags: [ 'xbox', ]

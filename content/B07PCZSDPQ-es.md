@@ -5,7 +5,7 @@ date: 2020-05-07 20:01:52
 image: 'https://m.media-amazon.com/images/I/51K+Kfali+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PCZSDPQ-es Dragon Ball Z - Funda Para Almacenamiento De 24 Juegos...'
 sku: 'B07PCZSDPQ-es'
 tags: [ 'nintendo', ]

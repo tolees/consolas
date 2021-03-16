@@ -5,7 +5,7 @@ date: 2020-05-30 09:44:11
 image: 'https://m.media-amazon.com/images/I/41g34n3RDfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SK3ZZ71-es Corsair HS35 - Auriculares Stereo para Juegos Membrana...'
 sku: 'B07SK3ZZ71-es'
 tags: [ 'nintendo','ps4','xbox', ]

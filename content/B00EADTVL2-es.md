@@ -5,7 +5,7 @@ date: 2020-01-23 17:57:11
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41BDr35lZGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EADTVL2-es PDP - Cargador Energizer 2 Mandos PS4'
 sku: 'B00EADTVL2-es'
 tags: [ 'ps4', ]

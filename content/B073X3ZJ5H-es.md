@@ -5,7 +5,7 @@ date: 2020-08-28 07:44:50
 image: 'https://m.media-amazon.com/images/I/518SKcGi9mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073X3ZJ5H-es Pdp - Mando Licenciado Nueva Color Camuflaje Negro Xbox One'
 sku: 'B073X3ZJ5H-es'
 tags: [ 'xbox', ]

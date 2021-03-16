@@ -5,7 +5,7 @@ date: 2020-08-22 17:10:43
 image: 'https://m.media-amazon.com/images/I/41wy+6XE+AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072KDWXS7-es FR·TEC - Funda Silicona + Grip Para Joy- Con Amarillo...'
 sku: 'B072KDWXS7-es'
 tags: [ 'nintendo', ]

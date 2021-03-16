@@ -5,7 +5,7 @@ date: 2020-01-17 08:56:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41n40qJFw6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018SZFTWW-es Blade - Grips Woxter Color Azul PS4'
 sku: 'B018SZFTWW-es'
 tags: [ 'ps4', ]

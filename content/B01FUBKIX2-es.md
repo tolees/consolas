@@ -5,7 +5,7 @@ date: 2020-05-11 09:09:48
 image: 'https://m.media-amazon.com/images/I/41fMvdDEatL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FUBKIX2-es Reemplazo Kit de Botón de Tapa L2 L1 R1 R2 Thumbstick para...'
 sku: 'B01FUBKIX2-es'
 tags: [ 'ps4', ]

@@ -5,7 +5,7 @@ date: 2020-08-30 04:26:19
 image: 'https://m.media-amazon.com/images/I/31POe8Qnk4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DKRQ6FB-es Elyco Boxing Grip para Nintendo Switch Empuñadura de Boxeo...'
 sku: 'B08DKRQ6FB-es'
 tags: [ 'nintendo', ]

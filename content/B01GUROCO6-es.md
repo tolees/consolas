@@ -5,7 +5,7 @@ date: 2020-05-24 14:02:18
 image: 'https://m.media-amazon.com/images/I/41WCJWx8tlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GUROCO6-es Interesting® 4 Pcs Pulgar Palo apretones Tapa Joystick...'
 sku: 'B01GUROCO6-es'
 tags: [ 'ps4','xbox', ]

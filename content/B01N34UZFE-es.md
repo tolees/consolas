@@ -5,7 +5,7 @@ date: 2020-09-23 18:02:32
 image: 'https://m.media-amazon.com/images/I/41ChzhEv3SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N34UZFE-es Subsonic - Kit 7 En 1 Nintendo Switch'
 sku: 'B01N34UZFE-es'
 tags: [ 'nintendo', ]

@@ -5,7 +5,7 @@ date: 2020-05-13 08:57:18
 image: 'https://m.media-amazon.com/images/I/418-v9kuPrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071CM9PTT-es eXtremeRate Compatible con Nintendo Switch Pegatina...'
 sku: 'B071CM9PTT-es'
 tags: [ 'nintendo', ]

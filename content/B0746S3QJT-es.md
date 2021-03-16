@@ -5,7 +5,7 @@ date: 2020-02-27 21:08:20
 image: 'https://m.media-amazon.com/images/I/41qcsWzmhkL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0746S3QJT-es Nacon - Mando Compacto para PS4 color Rojo Cristal'
 sku: 'B0746S3QJT-es'
 tags: [ 'ps4', ]

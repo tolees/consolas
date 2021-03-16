@@ -5,7 +5,7 @@ date: 2020-03-25 07:56:31
 image: 'https://m.media-amazon.com/images/I/41n2PCiX30L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K6NCCXN-es FR·TEC - Auriculares Gaming Headset AIZEN - PS4 Xbox One...'
 sku: 'B07K6NCCXN-es'
 tags: [ 'nintendo','ps4','xbox', ]

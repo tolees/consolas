@@ -5,7 +5,7 @@ date: 2020-09-05 19:25:27
 image: 'https://m.media-amazon.com/images/I/41Q4LTvI3iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VB3YMF9-es PDP - Mando Mini Con Cable Rock Candy Azul Glow Nintendo...'
 sku: 'B07VB3YMF9-es'
 tags: [ 'nintendo', ]

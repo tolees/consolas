@@ -5,7 +5,7 @@ date: 2020-05-25 07:44:53
 image: 'https://m.media-amazon.com/images/I/51QieNiiRyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086TFK7Y2-es Saints Row The Third Remastered - PlayStation 4'
 sku: 'B086TFK7Y2-es'
 tags: [ 'playstation', ]

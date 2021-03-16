@@ -5,7 +5,7 @@ date: 2020-03-15 13:08:51
 image: 'https://m.media-amazon.com/images/I/51jfNKh3FYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZYJMKST-es Ardistel - N-Switch Game Traveler Deluxe NNS50 MK Nintendo...'
 sku: 'B06ZYJMKST-es'
 tags: [ 'nintendo', ]

@@ -5,7 +5,7 @@ date: 2020-05-06 21:13:36
 image: 'https://m.media-amazon.com/images/I/51aTENSTjNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J5MWNP8-es Hori - Controlador D-Pad L Pikachu Nintendo Switch'
 sku: 'B07J5MWNP8-es'
 tags: [ 'nintendo', ]

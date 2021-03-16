@@ -5,7 +5,7 @@ date: 2020-05-22 16:35:54
 image: 'https://m.media-amazon.com/images/I/41EDCAsXDRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VYC44V6-es Timorn Negro Full Sets Face Botones para PS4 Dual Shock 4...'
 sku: 'B06VYC44V6-es'
 tags: [ 'ps4', ]

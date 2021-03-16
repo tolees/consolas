@@ -5,7 +5,7 @@ date: 2020-08-24 01:16:15
 image: 'https://m.media-amazon.com/images/I/21DhX91UUoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CXLJ5LX-es Hattahh Disco Duro Externo Portátil 2TB Type C USB3.1...'
 sku: 'B08CXLJ5LX-es'
 tags: [ 'xbox', ]

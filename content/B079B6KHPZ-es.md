@@ -5,7 +5,7 @@ date: 2020-09-03 19:35:44
 image: 'https://m.media-amazon.com/images/I/51Alpcp0HRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079B6KHPZ-es Darksiders III - Xbox One'
 sku: 'B079B6KHPZ-es'
 tags: [ 'xbox', ]

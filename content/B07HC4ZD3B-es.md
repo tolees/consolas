@@ -5,7 +5,7 @@ date: 2020-09-21 16:05:55
 image: 'https://m.media-amazon.com/images/I/417WmMqTAAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HC4ZD3B-es Hori - Base de Carga Poké Ball Plus Nintendo Switch'
 sku: 'B07HC4ZD3B-es'
 tags: [ 'nintendo', ]

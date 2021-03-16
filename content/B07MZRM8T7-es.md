@@ -5,7 +5,7 @@ date: 2020-05-15 08:13:40
 image: 'https://m.media-amazon.com/images/I/51wdWSf92cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZRM8T7-es Kaisi Torx destornillador T3 T4 T5 T6 T8 T9 T10 T15...'
 sku: 'B07MZRM8T7-es'
 tags: [ 'ps4','xbox', ]

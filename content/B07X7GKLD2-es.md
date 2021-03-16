@@ -5,7 +5,7 @@ date: 2020-04-24 12:45:17
 image: 'https://m.media-amazon.com/images/I/51BX-P6uj6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X7GKLD2-es Forefront Cases Protector Pantalla para Nintendo Switch...'
 sku: 'B07X7GKLD2-es'
 tags: [ 'nintendo', ]

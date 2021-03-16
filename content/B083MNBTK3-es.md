@@ -5,7 +5,7 @@ date: 2020-07-15 11:47:45
 image: 'https://m.media-amazon.com/images/I/51RIdX8L2LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083MNBTK3-es Moving Out PS4'
 sku: 'B083MNBTK3-es'
 tags: [ 'ps4', ]

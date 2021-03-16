@@ -5,7 +5,7 @@ date: 2020-02-01 00:45:58
 image: 'https://m.media-amazon.com/images/I/51YVa2YpUhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X54JDS4-es YINSAN Auriculares Gaming para PS4 Cascos Gaming Premium...'
 sku: 'B07X54JDS4-es'
 tags: [ 'ps4', ]

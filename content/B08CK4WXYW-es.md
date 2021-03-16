@@ -5,7 +5,7 @@ date: 2020-09-17 08:01:30
 image: 'https://m.media-amazon.com/images/I/21mK5xI3oCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CK4WXYW-es Disco Duro Externo 2 TB USB3.1 Type C Disco Duro Externo...'
 sku: 'B08CK4WXYW-es'
 tags: [ 'xbox', ]

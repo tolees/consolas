@@ -5,7 +5,7 @@ date: 2020-03-06 12:40:47
 image: 'https://m.media-amazon.com/images/I/41hjnSVEi5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DWYXYRK-es TUTUO para Cargador Mando PS4 Estación de Carga DualShock...'
 sku: 'B07DWYXYRK-es'
 tags: [ 'playstation','ps4', ]

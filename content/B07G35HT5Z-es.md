@@ -5,7 +5,7 @@ date: 2020-04-14 00:31:35
 image: 'https://m.media-amazon.com/images/I/511j2sYtwWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G35HT5Z-es RCA a HDMI convertidor Wavlink 1080p 3RCA a HDMI CVBS AV...'
 sku: 'B07G35HT5Z-es'
 tags: [ 'ps4','xbox', ]

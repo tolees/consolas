@@ -5,7 +5,7 @@ date: 2020-01-15 09:07:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/317mfhf6d3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079SLHJ7V-es WWE 2K18 - Nintendo Switch [Importación inglesa]'
 sku: 'B079SLHJ7V-es'
 tags: [ 'nintendo', ]

@@ -5,7 +5,7 @@ date: 2020-06-02 07:55:46
 image: 'https://m.media-amazon.com/images/I/51CDAL8G4eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q4DQ48C-es Final Fantasy XIV: Shadowbringers PS4'
 sku: 'B07Q4DQ48C-es'
 tags: [ 'ps4', ]

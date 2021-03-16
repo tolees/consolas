@@ -5,7 +5,7 @@ date: 2020-08-27 02:51:11
 image: 'https://m.media-amazon.com/images/I/31ElepsjCHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DH26KXB-es Disco Duro Externo 1tb USB3.1 Disco Duro Externo para Mac...'
 sku: 'B08DH26KXB-es'
 tags: [ 'xbox', ]

@@ -5,7 +5,7 @@ date: 2020-01-15 08:24:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31CPgQCA9xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0723DC3LY-es AmazonBasics - Kit de empuñaduras para mandos Joy-Con de...'
 sku: 'B0723DC3LY-es'
 tags: [ 'nintendo', ]

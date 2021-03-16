@@ -5,7 +5,7 @@ date: 2020-05-29 17:16:52
 image: 'https://m.media-amazon.com/images/I/51dIkb7Li+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0144YZ4MG-es Ardistel - Headset Blackfire BFX10 PlayStation 4'
 sku: 'B0144YZ4MG-es'
 tags: [ 'playstation', ]

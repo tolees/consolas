@@ -5,7 +5,7 @@ date: 2020-01-03 16:25:31
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31pz-c8dc8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J7JA4EG-es Hiditec Ratón Gaming Alámbrico Blitz - Sensor Profesional...'
 sku: 'B01J7JA4EG-es'
 tags: [ 'ps4','xbox', ]

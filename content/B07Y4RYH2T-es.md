@@ -5,7 +5,7 @@ date: 2020-04-15 19:04:09
 image: 'https://m.media-amazon.com/images/I/41hvj1t1iGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y4RYH2T-es Charmast Powerbank 10000mAh Mini Batería Externa LED...'
 sku: 'B07Y4RYH2T-es'
 tags: [ 'nintendo', ]

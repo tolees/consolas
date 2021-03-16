@@ -5,7 +5,7 @@ date: 2020-08-17 13:40:00
 image: 'https://m.media-amazon.com/images/I/51nYVkc46pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7VDTYX-es Orzly Gaming Keyboard and Mouse and Mouse Pad and Gaming...'
 sku: 'B07V7VDTYX-es'
 tags: [ 'ps4','xbox', ]

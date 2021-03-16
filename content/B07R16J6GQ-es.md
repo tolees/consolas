@@ -5,7 +5,7 @@ date: 2020-01-24 09:35:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41qDO1uGAhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R16J6GQ-es Proyector4500 Lúmenes Excelvan Proyector de Video Portátil...'
 sku: 'B07R16J6GQ-es'
 tags: [ 'ps4', ]

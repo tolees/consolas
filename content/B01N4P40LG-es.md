@@ -5,7 +5,7 @@ date: 2020-06-30 11:26:43
 image: 'https://m.media-amazon.com/images/I/415C2wcfhtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N4P40LG-es Hori - Mando Real Arcade Pro V Hayabusa Hori Nintendo...'
 sku: 'B01N4P40LG-es'
 tags: [ 'nintendo', ]

@@ -5,7 +5,7 @@ date: 2020-07-08 14:38:21
 image: 'https://m.media-amazon.com/images/I/31lfld+ePkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K4Q1BB4-es P Prettyia Botón de Activación LB RB paa Parte de...'
 sku: 'B07K4Q1BB4-es'
 tags: [ 'xbox', ]

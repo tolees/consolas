@@ -5,7 +5,7 @@ date: 2020-05-18 20:19:02
 image: 'https://m.media-amazon.com/images/I/51L93G9OMXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YW76YXL-es eXtremeRate LED Botones para Mando PS4 Botón de D-pad L1...'
 sku: 'B07YW76YXL-es'
 tags: [ 'ps4', ]

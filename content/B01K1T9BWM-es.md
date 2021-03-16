@@ -5,7 +5,7 @@ date: 2020-09-08 21:00:31
 image: 'https://m.media-amazon.com/images/I/51PEfwjsl9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K1T9BWM-es Ardistel - Silicone Sleeve Gamer Dual Kit Blackfire PS4'
 sku: 'B01K1T9BWM-es'
 tags: [ 'ps4', ]

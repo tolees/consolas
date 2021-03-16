@@ -5,7 +5,7 @@ date: 2020-03-30 10:31:46
 image: 'https://m.media-amazon.com/images/I/61rGZ0xL5hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G3VWGAG-es Lego Dimensions Starter Pack - Xbox 360 [Importación...'
 sku: 'B01G3VWGAG-es'
 tags: [ 'xbox', ]

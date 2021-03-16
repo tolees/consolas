@@ -5,7 +5,7 @@ date: 2020-05-28 06:58:54
 image: 'https://m.media-amazon.com/images/I/51R+qHfLQpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VXP6VP1-es Ardistel - Game Traveler Deluxe Travel Case NNS50B...'
 sku: 'B07VXP6VP1-es'
 tags: [ 'nintendo', ]

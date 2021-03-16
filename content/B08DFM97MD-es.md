@@ -5,7 +5,7 @@ date: 2020-08-15 23:11:32
 image: 'https://m.media-amazon.com/images/I/31LY3gA4k4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DFM97MD-es Disco Duro Externo 2tb USB 3.1 Disco Duro Externo para Mac...'
 sku: 'B08DFM97MD-es'
 tags: [ 'xbox', ]

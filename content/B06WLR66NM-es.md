@@ -5,7 +5,7 @@ date: 2020-05-19 16:34:21
 image: 'https://m.media-amazon.com/images/I/41Qmjjx59zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WLR66NM-es Timorn La más Nueva versión Teclado del reemplazo Cable...'
 sku: 'B06WLR66NM-es'
 tags: [ 'playstation','ps4', ]

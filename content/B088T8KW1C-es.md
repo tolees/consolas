@@ -5,7 +5,7 @@ date: 2020-08-26 16:36:29
 image: 'https://m.media-amazon.com/images/I/41xEXlfMANL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088T8KW1C-es PROZOR 192kHz DAC Convertidor Digital a Analógico con...'
 sku: 'B088T8KW1C-es'
 tags: [ 'ps4', ]

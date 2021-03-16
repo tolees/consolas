@@ -5,7 +5,7 @@ date: 2020-08-09 11:09:02
 image: 'https://m.media-amazon.com/images/I/41dC4OGEDsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08595BXQZ-es Adaptador de alimentación Xbox One con cable de carga'
 sku: 'B08595BXQZ-es'
 tags: [ 'xbox', ]

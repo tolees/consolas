@@ -5,7 +5,7 @@ date: 2020-08-26 16:36:30
 image: 'https://m.media-amazon.com/images/I/41zEs-sxu2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086BPCZ8F-es RCA a HDMI DIGITNOW! 3 RCA Compuestas AV a HDMI...'
 sku: 'B086BPCZ8F-es'
 tags: [ 'ps4', ]

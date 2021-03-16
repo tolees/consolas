@@ -5,7 +5,7 @@ date: 2020-07-23 17:21:35
 image: 'https://m.media-amazon.com/images/I/41R7a7YroVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PXC1JRV-es Controlador inalámbrico PS4 para Playstation 4 /...'
 sku: 'B07PXC1JRV-es'
 tags: [ 'playstation','ps4', ]

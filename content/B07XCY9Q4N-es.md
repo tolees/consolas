@@ -5,7 +5,7 @@ date: 2020-07-28 17:59:25
 image: 'https://m.media-amazon.com/images/I/51NQrXGoWyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XCY9Q4N-es Orzly Kit Accesorios para Nintendo Switch Geek Pack con:...'
 sku: 'B07XCY9Q4N-es'
 tags: [ 'nintendo', ]

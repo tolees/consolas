@@ -5,7 +5,7 @@ date: 2020-02-09 19:46:38
 image: 'https://m.media-amazon.com/images/I/51vn98lbE3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CHRFCFK-es Shenmue I & II - PS4'
 sku: 'B07CHRFCFK-es'
 tags: [ 'ps4', ]

@@ -5,7 +5,7 @@ date: 2020-02-01 21:20:21
 image: 'https://m.media-amazon.com/images/I/41eIIaF+gRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IDCAEH0-es Gioteck - Estacion de carga DC4 Para 2 mandos PS4 PS4'
 sku: 'B01IDCAEH0-es'
 tags: [ 'ps4', ]

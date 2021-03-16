@@ -5,7 +5,7 @@ date: 2020-10-02 19:47:19
 image: 'https://m.media-amazon.com/images/I/41FXux8T3EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z6CNGF1-es Mando para conmutador / Switch Lite mando inalámbrico para...'
 sku: 'B07Z6CNGF1-es'
 tags: [ 'nintendo', ]

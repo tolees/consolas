@@ -5,7 +5,7 @@ date: 2020-05-16 20:20:20
 image: 'https://m.media-amazon.com/images/I/51-2iyH4l4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075JFVLBK-es eXtremeRate 30 Piezas/Set Adhesivo para la Barra de luz...'
 sku: 'B075JFVLBK-es'
 tags: [ 'playstation','ps4', ]

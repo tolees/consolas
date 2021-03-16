@@ -5,7 +5,7 @@ date: 2020-05-30 15:52:01
 image: 'https://m.media-amazon.com/images/I/31nSnWCDSHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079VFPQFQ-es EMPIRE GAMING - Micrófono USTREAM USB Ideal para el Gaming...'
 sku: 'B079VFPQFQ-es'
 tags: [ 'ps4','xbox', ]

@@ -5,7 +5,7 @@ date: 2020-09-28 19:35:32
 image: 'https://m.media-amazon.com/images/I/319DcUp9QUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HZ58Q7V-es Disco Duro Externo 2TB USB-C Disco Duro Externo para PC...'
 sku: 'B08HZ58Q7V-es'
 tags: [ 'xbox', ]

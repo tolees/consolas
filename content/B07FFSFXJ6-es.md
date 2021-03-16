@@ -5,7 +5,7 @@ date: 2020-08-13 18:34:52
 image: 'https://m.media-amazon.com/images/I/51Yi39HTeIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FFSFXJ6-es Lego DC Super-Villans Xbox One Edición Estándar'
 sku: 'B07FFSFXJ6-es'
 tags: [ 'xbox', ]

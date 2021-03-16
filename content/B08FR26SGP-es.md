@@ -5,7 +5,7 @@ date: 2020-08-22 21:41:34
 image: 'https://m.media-amazon.com/images/I/41F1oYd6Y3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FR26SGP-es eXtremeRate 2 Protectores de Pantalla para Nintendo Switch...'
 sku: 'B08FR26SGP-es'
 tags: [ 'nintendo', ]

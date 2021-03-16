@@ -5,7 +5,7 @@ date: 2020-09-28 07:20:06
 image: 'https://m.media-amazon.com/images/I/41ad9sJnNeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ4D4QL-es Disco Duro Externo 2tb Portátil 2.5" USB3.0 SATA HDD...'
 sku: 'B08DJ4D4QL-es'
 tags: [ 'xbox', ]

@@ -5,7 +5,7 @@ date: 2020-08-29 18:38:01
 image: 'https://m.media-amazon.com/images/I/31FINDP0MbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019MMN94A-es Hori - Fighting Stick Mini PS4 PS3 PC'
 sku: 'B019MMN94A-es'
 tags: [ 'ps4', ]

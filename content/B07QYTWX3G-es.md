@@ -5,7 +5,7 @@ date: 2020-03-12 10:36:48
 image: 'https://m.media-amazon.com/images/I/41HeTlPUsYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QYTWX3G-es KLIM™ Voice V2 + Micrófono USB de Escritorio + Nuevo 2020...'
 sku: 'B07QYTWX3G-es'
 tags: [ 'ps4', ]

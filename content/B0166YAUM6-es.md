@@ -5,7 +5,7 @@ date: 2020-01-18 18:03:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51hQQmW-5HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0166YAUM6-es Imp - Dragon Ball Z Grips PS4'
 sku: 'B0166YAUM6-es'
 tags: [ 'ps4', ]

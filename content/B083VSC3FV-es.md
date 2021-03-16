@@ -5,7 +5,7 @@ date: 2020-02-24 19:09:44
 image: 'https://m.media-amazon.com/images/I/31H2C2BUsLL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083VSC3FV-es Disco Duro Externo 2TB Disco Duro Externo USB3.1 Type C...'
 sku: 'B083VSC3FV-es'
 tags: [ 'ps4','xbox', ]

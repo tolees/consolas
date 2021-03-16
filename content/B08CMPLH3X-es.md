@@ -5,7 +5,7 @@ date: 2020-09-29 13:20:53
 image: 'https://m.media-amazon.com/images/I/31dZ-B7mmjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CMPLH3X-es Disco Duro Externo 2 TB USB-C Disco Duro Externo para PC...'
 sku: 'B08CMPLH3X-es'
 tags: [ 'xbox', ]

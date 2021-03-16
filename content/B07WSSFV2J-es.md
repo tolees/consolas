@@ -5,7 +5,7 @@ date: 2020-07-28 14:43:36
 image: 'https://m.media-amazon.com/images/I/41mgKruMEIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WSSFV2J-es Hori - Pokémon Trainer Pack Pokéball Nintendo Switch /...'
 sku: 'B07WSSFV2J-es'
 tags: [ 'nintendo', ]

@@ -5,7 +5,7 @@ date: 2020-07-19 16:20:38
 image: 'https://m.media-amazon.com/images/I/5158tZvAVWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PM486PY-es eXtremeRate Dawn Programable Remap Kit PS4 Scuf...'
 sku: 'B07PM486PY-es'
 tags: [ 'ps4', ]

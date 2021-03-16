@@ -5,7 +5,7 @@ date: 2020-02-07 09:05:09
 image: 'https://m.media-amazon.com/images/I/41+yY9q8nnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CJH1NT7-es eXtremeRate Luminoso Joysticks Botones de acción dirección...'
 sku: 'B07CJH1NT7-es'
 tags: [ 'ps4', ]

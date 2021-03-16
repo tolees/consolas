@@ -5,7 +5,7 @@ date: 2020-04-02 11:02:04
 image: 'https://m.media-amazon.com/images/I/5177bJiAFWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F2L2N4H-es Funda Compatible con Nintendo Switch HEYSTOP TPU PC...'
 sku: 'B07F2L2N4H-es'
 tags: [ 'nintendo', ]

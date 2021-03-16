@@ -5,7 +5,7 @@ date: 2020-09-14 20:21:22
 image: 'https://m.media-amazon.com/images/I/410uY1kc9NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HDJKYLF-es eXtremeRate Carcasa para Xbox One Funda Delantera con...'
 sku: 'B08HDJKYLF-es'
 tags: [ 'xbox', ]

@@ -5,7 +5,7 @@ date: 2020-04-23 08:06:12
 image: 'https://m.media-amazon.com/images/I/51AMPuKs+3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTGSG9X-es NBA 2K20 - Standard Edition - Nintendo Switch [Importación...'
 sku: 'B07TTGSG9X-es'
 tags: [ 'nintendo', ]

@@ -5,7 +5,7 @@ date: 2020-08-21 11:11:48
 image: 'https://m.media-amazon.com/images/I/31jiVShtmoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NX68PPT-es Krom KAISER - NXKROMKSR - Gamepad PC PS3 PS4'
 sku: 'B07NX68PPT-es'
 tags: [ 'ps4', ]

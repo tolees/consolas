@@ -5,7 +5,7 @@ date: 2020-06-26 11:32:27
 image: 'https://m.media-amazon.com/images/I/4170SzAJV4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KKFPFG8-es Lioncast LX60 USB Auriculares para Juegos para PC PS4 Xbox...'
 sku: 'B07KKFPFG8-es'
 tags: [ 'nintendo','ps4','xbox', ]

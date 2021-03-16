@@ -5,7 +5,7 @@ date: 2020-05-06 19:29:53
 image: 'https://m.media-amazon.com/images/I/31wrv+pkufL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0748PRFJQ-es Microsoft - Mando Inalámbrico: Edición Limitada Minecraft...'
 sku: 'B0748PRFJQ-es'
 tags: [ 'xbox', ]

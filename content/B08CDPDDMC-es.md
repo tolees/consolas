@@ -5,7 +5,7 @@ date: 2020-08-05 11:15:16
 image: 'https://m.media-amazon.com/images/I/41y8-4egn6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CDPDDMC-es Disco Duro Externo 2 TB Disco Duro Externo para PC Mac...'
 sku: 'B08CDPDDMC-es'
 tags: [ 'xbox', ]

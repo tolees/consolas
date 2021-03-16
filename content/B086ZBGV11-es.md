@@ -5,7 +5,7 @@ date: 2020-08-23 07:26:31
 image: 'https://m.media-amazon.com/images/I/51sTXae-JIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086ZBGV11-es Railway Empire - Nintendo Switch Edition'
 sku: 'B086ZBGV11-es'
 tags: [ 'nintendo', ]

@@ -5,7 +5,7 @@ date: 2020-03-10 21:21:24
 image: 'https://m.media-amazon.com/images/I/41dbftH6M4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08218NLGR-es Controlador para PS4 Achort Wireless Controlador Mando...'
 sku: 'B08218NLGR-es'
 tags: [ 'ps4', ]

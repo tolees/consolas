@@ -5,7 +5,7 @@ date: 2020-05-30 16:54:50
 image: 'https://m.media-amazon.com/images/I/41bvwbsvKdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084DJ9J8C-es Funda + protector LCD para consola Nintendo Switch Lite...'
 sku: 'B084DJ9J8C-es'
 tags: [ 'nintendo', ]

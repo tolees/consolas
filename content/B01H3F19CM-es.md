@@ -5,7 +5,7 @@ date: 2020-02-12 19:46:28
 image: 'https://m.media-amazon.com/images/I/31SLHYN4ouL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H3F19CM-es Microsoft - Soporte Vertical Xbox One S'
 sku: 'B01H3F19CM-es'
 tags: [ 'xbox', ]

@@ -5,7 +5,7 @@ date: 2020-09-13 02:55:36
 image: 'https://m.media-amazon.com/images/I/41l-xpy2FoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GLG3ZDW-es Osaloe Switch HDMI 1x4 1 Entrada y 4 Salidas Conmutador...'
 sku: 'B08GLG3ZDW-es'
 tags: [ 'ps4','xbox', ]

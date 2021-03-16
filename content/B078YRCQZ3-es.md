@@ -5,7 +5,7 @@ date: 2020-04-24 20:18:38
 image: 'https://m.media-amazon.com/images/I/51gEsphLoKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078YRCQZ3-es Funda PS4 Pro Mando Silicona Caso Piel Fundas Protectores...'
 sku: 'B078YRCQZ3-es'
 tags: [ 'ps4', ]

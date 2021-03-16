@@ -5,7 +5,7 @@ date: 2020-08-21 18:56:22
 image: 'https://m.media-amazon.com/images/I/41UV0E+++QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075QLBP9K-es Cable Guy Sonic The Hedgehog de Sega Soporte de sujeción o...'
 sku: 'B075QLBP9K-es'
 tags: [ 'sega', ]

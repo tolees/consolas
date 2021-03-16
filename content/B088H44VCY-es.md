@@ -5,7 +5,7 @@ date: 2020-09-02 21:39:16
 image: 'https://m.media-amazon.com/images/I/51pU6aOc8gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088H44VCY-es 【Actualizado 2020】 Proyector WiFi BOSNAS Mini Proyector...'
 sku: 'B088H44VCY-es'
 tags: [ 'ps4', ]

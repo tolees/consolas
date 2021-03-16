@@ -5,7 +5,7 @@ date: 2020-05-18 08:46:46
 image: 'https://m.media-amazon.com/images/I/41hWU8odZiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WNL7WFL-es 6amLifestyle Accesorios para Nintendo Switch Lite'
 sku: 'B07WNL7WFL-es'
 tags: [ 'nintendo', ]

@@ -5,7 +5,7 @@ date: 2020-02-27 20:22:14
 image: ''
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XDYXRLE-es Bigben Interactive - Headset Auricular PS4Communicator...'
 sku: 'B00XDYXRLE-es'
 tags: [ 'playstation', ]

@@ -5,7 +5,7 @@ date: 2020-06-28 13:02:30
 image: 'https://m.media-amazon.com/images/I/51O11kPAE9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076Q7R2ZV-es TUTUO Nintendo Switch Dock USB Tipo C a HDMI Adaptador USB...'
 sku: 'B076Q7R2ZV-es'
 tags: [ 'nintendo', ]

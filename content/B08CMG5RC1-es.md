@@ -5,7 +5,7 @@ date: 2020-09-28 19:26:17
 image: 'https://m.media-amazon.com/images/I/31iChg-93yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CMG5RC1-es Disco Duro Externo 2 TB USB-C Disco Duro Externo para PC...'
 sku: 'B08CMG5RC1-es'
 tags: [ 'xbox', ]

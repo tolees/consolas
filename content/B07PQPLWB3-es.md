@@ -5,7 +5,7 @@ date: 2020-02-28 20:05:25
 image: 'https://m.media-amazon.com/images/I/51X4cvmpyWL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PQPLWB3-es 4K Cable HDMI 2 metros 2.0 Cable HDMI Ultra HD soporta 4K...'
 sku: 'B07PQPLWB3-es'
 tags: [ 'ps4','xbox', ]

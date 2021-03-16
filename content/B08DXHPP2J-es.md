@@ -5,7 +5,7 @@ date: 2020-08-13 17:28:52
 image: 'https://m.media-amazon.com/images/I/414vi2D8VdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DXHPP2J-es Disco Duro Externo 2tb USB 3.1 para Mac PC MacBook...'
 sku: 'B08DXHPP2J-es'
 tags: [ 'xbox', ]

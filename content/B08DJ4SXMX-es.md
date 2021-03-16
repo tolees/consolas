@@ -5,7 +5,7 @@ date: 2020-10-09 06:26:20
 image: 'https://m.media-amazon.com/images/I/41F4KDqpX4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ4SXMX-es Tarjeta de captura de juegos ZasLuke USB 3.0 4K Audio...'
 sku: 'B08DJ4SXMX-es'
 tags: [ 'nintendo','ps4','xbox', ]

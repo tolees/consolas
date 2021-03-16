@@ -5,7 +5,7 @@ date: 2020-05-14 09:14:59
 image: 'https://m.media-amazon.com/images/I/31e0fNGl8tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MGTD1FY-es LoveOlvidoE 2 unids Universal 3D Thumbstick Cap Aleación...'
 sku: 'B07MGTD1FY-es'
 tags: [ 'ps4','xbox', ]

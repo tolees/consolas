@@ -5,7 +5,7 @@ date: 2020-06-04 16:09:22
 image: 'https://m.media-amazon.com/images/I/51f-QFRcv3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GVRZZGY-es God of War - PlayStation 4 [Importación inglesa]'
 sku: 'B01GVRZZGY-es'
 tags: [ 'playstation', ]

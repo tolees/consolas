@@ -5,7 +5,7 @@ date: 2020-07-20 07:56:59
 image: 'https://m.media-amazon.com/images/I/51N7RvOHV1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JIX6KWG-es Two Dots - Mando Con Cable Pro Pad 4 PS4'
 sku: 'B01JIX6KWG-es'
 tags: [ 'ps4', ]

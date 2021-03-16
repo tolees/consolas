@@ -5,7 +5,7 @@ date: 2020-03-14 17:35:38
 image: 'https://m.media-amazon.com/images/I/51ZYC7hMG7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IFDRJ7K-es 3x Pegatina Cubierta Adhesiva para Sony PlayStation 4 PS4...'
 sku: 'B01IFDRJ7K-es'
 tags: [ 'playstation','ps4', ]

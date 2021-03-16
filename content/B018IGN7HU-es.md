@@ -5,7 +5,7 @@ date: 2020-01-23 16:04:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51vpNefq9xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018IGN7HU-es Nintendo - Figura amiibo Animal Crossing Estela'
 sku: 'B018IGN7HU-es'
 tags: [ 'nintendo', ]

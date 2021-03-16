@@ -5,7 +5,7 @@ date: 2020-09-14 14:13:37
 image: 'https://m.media-amazon.com/images/I/41APlDSwhyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ38XK5-es Disco Duro Externo 1tb Type C USB 3.1 Disco Duro Externo...'
 sku: 'B08DJ38XK5-es'
 tags: [ 'xbox', ]

@@ -5,7 +5,7 @@ date: 2020-07-11 08:29:27
 image: 'https://m.media-amazon.com/images/I/41n32gwWFGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B5YFPRH-es eXtremeRate Botones para Nintendo Switch Botón ABXY Botón...'
 sku: 'B08B5YFPRH-es'
 tags: [ 'nintendo', ]

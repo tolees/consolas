@@ -5,7 +5,7 @@ date: 2020-08-11 19:49:10
 image: 'https://m.media-amazon.com/images/I/512Cofk9RYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q82PCWX-es Samurai Shodown - PS4'
 sku: 'B07Q82PCWX-es'
 tags: [ 'ps4', ]

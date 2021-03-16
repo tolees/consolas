@@ -5,7 +5,7 @@ date: 2020-01-04 10:41:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/516H5gEdGYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075VG8VNW-es Exquisite Games - Big Box Call Of Duty WWII PS4'
 sku: 'B075VG8VNW-es'
 tags: [ 'ps4', ]

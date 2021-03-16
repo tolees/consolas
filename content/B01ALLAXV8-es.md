@@ -5,7 +5,7 @@ date: 2020-01-20 11:40:04
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51tKSBhswyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ALLAXV8-es HORI - Vault Case Pikachu Nintendo Switch / Switch Lite'
 sku: 'B01ALLAXV8-es'
 tags: [ 'nintendo', ]

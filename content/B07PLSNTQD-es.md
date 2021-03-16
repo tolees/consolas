@@ -5,7 +5,7 @@ date: 2020-04-22 08:04:08
 image: 'https://m.media-amazon.com/images/I/41IvKHN7wRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PLSNTQD-es Switch Nintendo Labo: Kit de VR - Set de expansión 1'
 sku: 'B07PLSNTQD-es'
 tags: [ 'nintendo', ]

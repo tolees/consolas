@@ -5,7 +5,7 @@ date: 2020-06-13 08:33:41
 image: 'https://m.media-amazon.com/images/I/51vHOg-KVEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UNA1IPI-es Seagate Expansion STEA500400 - Disco duro externo portátil...'
 sku: 'B00UNA1IPI-es'
 tags: [ 'playstation','xbox', ]

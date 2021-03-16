@@ -5,7 +5,7 @@ date: 2020-05-18 15:15:03
 image: 'https://m.media-amazon.com/images/I/41NUDcstSAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDKJ5P2-es Powcan Mando Inalámbrico PS3 Bluetooth PS3 Gamepad...'
 sku: 'B07VDKJ5P2-es'
 tags: [ 'playstation', ]

@@ -5,7 +5,7 @@ date: 2020-07-17 17:14:32
 image: 'https://m.media-amazon.com/images/I/41d4o5itwAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C9GLRMW-es eXtremeRate Carcasa Semitransparente para Joy-con de...'
 sku: 'B08C9GLRMW-es'
 tags: [ 'nintendo', ]

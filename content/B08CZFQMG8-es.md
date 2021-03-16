@@ -5,7 +5,7 @@ date: 2020-08-10 14:07:25
 image: 'https://m.media-amazon.com/images/I/41GzNJytvsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CZFQMG8-es Disco Duro Externo 1tb Portátil 2.5" USB3.0 SATA HDD...'
 sku: 'B08CZFQMG8-es'
 tags: [ 'ps4','xbox', ]

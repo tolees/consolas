@@ -5,7 +5,7 @@ date: 2020-02-02 17:36:03
 image: 'https://m.media-amazon.com/images/I/41xKLrMQHAL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074PM7SMP-es Pdp - Auriculares Stereo AG 6 con Licencia Oficial Sony PS4'
 sku: 'B074PM7SMP-es'
 tags: [ 'ps4', ]

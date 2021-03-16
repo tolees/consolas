@@ -5,7 +5,7 @@ date: 2020-03-25 06:55:17
 image: 'https://m.media-amazon.com/images/I/51OGpphUchL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01G53FAFK-es EasyAcc G1 Virtual 7.1 - Juego de Auriculares para...'
 sku: 'B01G53FAFK-es'
 tags: [ 'ps4', ]

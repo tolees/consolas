@@ -5,7 +5,7 @@ date: 2020-01-16 11:22:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41p4OuaIAEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q3L4NBS-es Maegoo Mandos Controlador Inalámbrico para Nintendo Switch...'
 sku: 'B07Q3L4NBS-es'
 tags: [ 'nintendo', ]

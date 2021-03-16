@@ -5,7 +5,7 @@ date: 2020-08-23 08:27:23
 image: 'https://m.media-amazon.com/images/I/51opabohBPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FFFPYTD-es Lego DC Super-Villanos PlayStation 4 Edición Estándar'
 sku: 'B07FFFPYTD-es'
 tags: [ 'playstation', ]

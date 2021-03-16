@@ -5,7 +5,7 @@ date: 2020-07-15 08:47:11
 image: 'https://m.media-amazon.com/images/I/41ekrqdBl4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C9S9Q5P-es eXtremeRate Carcasa Trasera para Consola de Nintendo...'
 sku: 'B08C9S9Q5P-es'
 tags: [ 'nintendo', ]

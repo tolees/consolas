@@ -5,7 +5,7 @@ date: 2020-07-16 02:30:10
 image: 'https://m.media-amazon.com/images/I/31sIf02mG-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BNDNM3L-es Disco Duro Externo 1tb USB 3.1 para Mac PC MacBook...'
 sku: 'B08BNDNM3L-es'
 tags: [ 'xbox', ]

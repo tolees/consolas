@@ -5,7 +5,7 @@ date: 2020-09-26 06:54:41
 image: 'https://m.media-amazon.com/images/I/31Mvmr08PUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HH24ZTN-es Disco Duro Externo 1tb Portátil 2.5" USB3.0 SATA HDD...'
 sku: 'B08HH24ZTN-es'
 tags: [ 'xbox', ]

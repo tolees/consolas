@@ -5,7 +5,7 @@ date: 2020-07-16 17:40:37
 image: 'https://m.media-amazon.com/images/I/51B4skCAgML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L8UV07M-es [SADES SA810 Xbox One Mic PS4 Gaming Headset] 3.5 mm con...'
 sku: 'B01L8UV07M-es'
 tags: [ 'ps4','xbox', ]

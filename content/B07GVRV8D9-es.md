@@ -5,7 +5,7 @@ date: 2020-01-19 21:20:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41colk6hvhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GVRV8D9-es Mando con cable Pro4 controller para consola PS4 / Slim/...'
 sku: 'B07GVRV8D9-es'
 tags: [ 'ps4', ]

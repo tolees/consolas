@@ -5,7 +5,7 @@ date: 2020-08-31 16:00:17
 image: 'https://m.media-amazon.com/images/I/513fm8IV8uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088B5PVC2-es tomtoc Funda Ultra Delgada para Nintendo Switch Patente...'
 sku: 'B088B5PVC2-es'
 tags: [ 'nintendo', ]

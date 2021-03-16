@@ -5,7 +5,7 @@ date: 2020-07-21 23:21:05
 image: 'https://m.media-amazon.com/images/I/31lnySgc-pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CVCQ1B4-es eXtremeRate Botones para Joycons de Nintendo Switch Botón...'
 sku: 'B08CVCQ1B4-es'
 tags: [ 'nintendo', ]

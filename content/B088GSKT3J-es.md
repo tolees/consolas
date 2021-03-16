@@ -5,7 +5,7 @@ date: 2020-07-27 01:15:43
 image: 'https://m.media-amazon.com/images/I/51mrWoI-A4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088GSKT3J-es Proyector WiFi BOSNAS Mini Proyector Portátil 5800 Lúmenes...'
 sku: 'B088GSKT3J-es'
 tags: [ 'ps4', ]

@@ -5,7 +5,7 @@ date: 2020-05-13 19:07:04
 image: 'https://m.media-amazon.com/images/I/51uX162SeUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K6I8JCM-es Nintendo Selects New Super Mario Bros.Wii Juego'
 sku: 'B00K6I8JCM-es'
 tags: [ 'nintendo', ]

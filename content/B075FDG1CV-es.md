@@ -5,7 +5,7 @@ date: 2020-01-10 12:29:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31KB4qij2LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075FDG1CV-es Cargador De Coche Mario POW Nintendo Switch'
 sku: 'B075FDG1CV-es'
 tags: [ 'nintendo', ]

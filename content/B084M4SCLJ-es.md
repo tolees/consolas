@@ -5,7 +5,7 @@ date: 2020-03-10 09:44:10
 image: 'https://m.media-amazon.com/images/I/31mRLdTc6IL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084M4SCLJ-es Disco Duro Externo 1 TB Disco Duro Externo USB3.1 Type C...'
 sku: 'B084M4SCLJ-es'
 tags: [ 'ps4','xbox', ]

@@ -5,7 +5,7 @@ date: 2020-07-10 22:25:41
 image: 'https://m.media-amazon.com/images/I/319gvpY11kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K63R1HW-es Baoblaze Botón de Activación LB RB con Kit de Placa...'
 sku: 'B07K63R1HW-es'
 tags: [ 'xbox', ]

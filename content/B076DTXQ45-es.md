@@ -5,7 +5,7 @@ date: 2020-05-10 20:23:20
 image: 'https://m.media-amazon.com/images/I/31CeQKXvaOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076DTXQ45-es Sharplace 2pcs Analogico Silicona Cap Joystick Thumb Stick...'
 sku: 'B076DTXQ45-es'
 tags: [ 'xbox', ]

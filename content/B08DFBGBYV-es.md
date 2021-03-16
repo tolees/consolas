@@ -5,7 +5,7 @@ date: 2020-08-15 17:17:01
 image: 'https://m.media-amazon.com/images/I/31VHMEsp-8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DFBGBYV-es Disco Duro Externo 1tb USB 3.1 Disco Duro Externo para Mac...'
 sku: 'B08DFBGBYV-es'
 tags: [ 'xbox', ]

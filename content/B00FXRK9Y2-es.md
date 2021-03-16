@@ -5,7 +5,7 @@ date: 2020-03-13 13:23:05
 image: 'https://m.media-amazon.com/images/I/41O0VX9gh+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FXRK9Y2-es Sony Playstation 3 - Lámina protectora adhesiva para mando...'
 sku: 'B00FXRK9Y2-es'
 tags: [ 'playstation', ]

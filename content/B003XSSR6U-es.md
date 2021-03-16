@@ -5,7 +5,7 @@ date: 2020-10-07 21:53:44
 image: 'https://m.media-amazon.com/images/I/41ap25ZgZxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003XSSR6U-es Mando con cable Pro4 controller para consola PS4 / Slim/...'
 sku: 'B003XSSR6U-es'
 tags: [ 'ps4', ]

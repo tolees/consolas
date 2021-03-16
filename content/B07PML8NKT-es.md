@@ -5,7 +5,7 @@ date: 2020-07-15 10:58:16
 image: 'https://m.media-amazon.com/images/I/51F1e4D8cGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PML8NKT-es A.O.T. 2: Final Battle - Xbox One'
 sku: 'B07PML8NKT-es'
 tags: [ 'xbox', ]

@@ -5,7 +5,7 @@ date: 2020-05-13 16:36:07
 image: 'https://m.media-amazon.com/images/I/41-Nw1zP8oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PZZFZWJ-es Carcasa para Control de Consola Playstation Controlador de...'
 sku: 'B07PZZFZWJ-es'
 tags: [ 'playstation','ps4', ]

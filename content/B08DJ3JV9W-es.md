@@ -5,7 +5,7 @@ date: 2020-09-12 07:37:34
 image: 'https://m.media-amazon.com/images/I/31Di5TMYsZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ3JV9W-es Disco Duro Externo 1 TB Type C USB3.1 para PC Mac Xbox One...'
 sku: 'B08DJ3JV9W-es'
 tags: [ 'xbox', ]

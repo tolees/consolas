@@ -5,7 +5,7 @@ date: 2020-08-02 06:41:46
 image: 'https://m.media-amazon.com/images/I/41P6MZFz0CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LBP74SX-es Shuliancable Cable HDMI Compatible con Ethernet Retorno de...'
 sku: 'B07LBP74SX-es'
 tags: [ 'playstation', ]

@@ -5,7 +5,7 @@ date: 2020-04-06 09:44:24
 image: 'https://m.media-amazon.com/images/I/51cZvKu119L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZGMW73H-es Cable Micro USB Tujun [3 Unidades/3 pies+3 pies+6 pies]...'
 sku: 'B07ZGMW73H-es'
 tags: [ 'ps4','xbox', ]

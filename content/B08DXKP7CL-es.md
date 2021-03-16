@@ -5,7 +5,7 @@ date: 2020-08-15 05:14:53
 image: 'https://m.media-amazon.com/images/I/41H7Q85D1FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DXKP7CL-es Disco Duro Externo 1tb Portátil 2.5" USB3.0 SATA HDD...'
 sku: 'B08DXKP7CL-es'
 tags: [ 'xbox', ]

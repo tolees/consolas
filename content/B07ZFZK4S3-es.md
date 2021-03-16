@@ -5,7 +5,7 @@ date: 2020-05-06 13:45:48
 image: 'https://m.media-amazon.com/images/I/41hPPLtKlVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZFZK4S3-es FR-TEC - Rick and Morty Pickle Rick Combo Pack para mando...'
 sku: 'B07ZFZK4S3-es'
 tags: [ 'ps4', ]

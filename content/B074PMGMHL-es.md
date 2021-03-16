@@ -5,7 +5,7 @@ date: 2020-01-30 16:20:58
 image: 'https://m.media-amazon.com/images/I/51PjhU+P6-L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074PMGMHL-es Nuevo SADES SA810 Multi-Platform Auriculares Gaming 3.5mm...'
 sku: 'B074PMGMHL-es'
 tags: [ 'xbox', ]

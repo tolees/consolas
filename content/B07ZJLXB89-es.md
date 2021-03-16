@@ -5,7 +5,7 @@ date: 2020-09-28 11:51:10
 image: 'https://m.media-amazon.com/images/I/51qHKSINi3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZJLXB89-es Spongebob SquarePants: Battle for Bikini Bottom Rehydrated...'
 sku: 'B07ZJLXB89-es'
 tags: [ 'ps4', ]

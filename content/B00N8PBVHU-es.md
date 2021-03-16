@@ -5,7 +5,7 @@ date: 2020-07-04 07:50:51
 image: 'https://m.media-amazon.com/images/I/51VmgOIv7SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00N8PBVHU-es Nintendo - Figura Amiibo Smash Fit Trainer'
 sku: 'B00N8PBVHU-es'
 tags: [ 'nintendo', ]

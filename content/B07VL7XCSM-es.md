@@ -5,7 +5,7 @@ date: 2020-07-14 14:48:35
 image: 'https://m.media-amazon.com/images/I/41+JD7CQDrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VL7XCSM-es eXtremeRate ABXY D-Pad ZR ZL L R Botones para Mando...'
 sku: 'B07VL7XCSM-es'
 tags: [ 'nintendo', ]

@@ -5,7 +5,7 @@ date: 2020-01-21 11:38:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41myzknLL0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FSR93MQ-es Hori - Controlador D-Pad L Super Mario Nintendo Switch'
 sku: 'B07FSR93MQ-es'
 tags: [ 'nintendo', ]

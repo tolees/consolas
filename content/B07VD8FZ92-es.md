@@ -5,7 +5,7 @@ date: 2020-05-30 14:05:02
 image: 'https://m.media-amazon.com/images/I/41uxbyuyvhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VD8FZ92-es PDP - Auricular Stereo Gaming LVL40 Con Cable Negro Camo PS4'
 sku: 'B07VD8FZ92-es'
 tags: [ 'ps4', ]

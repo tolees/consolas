@@ -5,7 +5,7 @@ date: 2020-07-24 11:23:25
 image: 'https://m.media-amazon.com/images/I/51mjkE5P-WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WVQYLNH-es Orzly Paquete de Accesorios para Nintendo Switch Lite –...'
 sku: 'B07WVQYLNH-es'
 tags: [ 'nintendo', ]

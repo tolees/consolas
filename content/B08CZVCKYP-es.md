@@ -5,7 +5,7 @@ date: 2020-08-23 03:48:27
 image: 'https://m.media-amazon.com/images/I/412aIKpa4TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CZVCKYP-es Primewire – 2m Cable HDMI 2.1 - Alta Velocidad con...'
 sku: 'B08CZVCKYP-es'
 tags: [ 'ps4','xbox', ]

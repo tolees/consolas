@@ -5,7 +5,7 @@ date: 2020-06-17 09:11:51
 image: 'https://m.media-amazon.com/images/I/51tidYVcy1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086QKBQ15-es Cocoda Cascos Gaming para PS4 Nintendo Switch Xbox One...'
 sku: 'B086QKBQ15-es'
 tags: [ 'nintendo','ps4','xbox', ]

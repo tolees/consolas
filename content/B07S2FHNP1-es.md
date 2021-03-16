@@ -5,7 +5,7 @@ date: 2020-01-10 12:43:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51o7O6wLVfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2FHNP1-es GRID Day One Edition PlayStation PS4'
 sku: 'B07S2FHNP1-es'
 tags: [ 'playstation','ps4', ]

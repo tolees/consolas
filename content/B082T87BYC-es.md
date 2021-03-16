@@ -5,7 +5,7 @@ date: 2020-06-22 12:36:12
 image: 'https://m.media-amazon.com/images/I/51rF6ROAZPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082T87BYC-es Resident Evil 3 Remake - Xbox One'
 sku: 'B082T87BYC-es'
 tags: [ 'xbox', ]

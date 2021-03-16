@@ -5,7 +5,7 @@ date: 2020-05-28 22:51:03
 image: 'https://m.media-amazon.com/images/I/41+k22pogCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C6WUP6S-es HORI - Vault Case Animal Crossing Nintendo Switch / Switch...'
 sku: 'B01C6WUP6S-es'
 tags: [ 'nintendo', ]

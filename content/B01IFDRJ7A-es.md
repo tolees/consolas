@@ -5,7 +5,7 @@ date: 2020-03-05 21:20:32
 image: 'https://m.media-amazon.com/images/I/515Qvg6+u1L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IFDRJ7A-es 3x Pegatina Cubierta Adhesiva Impreso Estrella Rosada...'
 sku: 'B01IFDRJ7A-es'
 tags: [ 'playstation','ps4', ]

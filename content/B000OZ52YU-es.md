@@ -5,7 +5,7 @@ date: 2020-04-18 01:17:08
 image: 'https://m.media-amazon.com/images/I/5111U5h7XuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000OZ52YU-es SEGA Mario & Sonic at the Olympic Games Wii - Juego Wii'
 sku: 'B000OZ52YU-es'
 tags: [ 'sega', ]

@@ -5,7 +5,7 @@ date: 2020-06-29 23:06:14
 image: 'https://m.media-amazon.com/images/I/51QTmU-pd3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082MHLDC9-es Maegoo Inalámbrico Mando para Nintendo Switch Bluetooth...'
 sku: 'B082MHLDC9-es'
 tags: [ 'nintendo', ]

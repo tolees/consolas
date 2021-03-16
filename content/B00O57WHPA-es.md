@@ -5,7 +5,7 @@ date: 2020-04-08 13:47:15
 image: 'https://m.media-amazon.com/images/I/51vFuvZO81L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00O57WHPA-es Nintendo 2DS - Consola Color Rosa + Tomodachi Life...'
 sku: 'B00O57WHPA-es'
 tags: [ 'nintendo', ]

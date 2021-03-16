@@ -5,7 +5,7 @@ date: 2020-08-19 11:15:33
 image: 'https://m.media-amazon.com/images/I/41d-4m4V+CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CMRWNC6-es Prode Disco Duro Externo Portátil 2.5" 2TB USB3.0 SATA HDD...'
 sku: 'B08CMRWNC6-es'
 tags: [ 'xbox', ]

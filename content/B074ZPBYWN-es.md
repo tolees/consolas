@@ -5,7 +5,7 @@ date: 2020-02-21 17:35:33
 image: 'https://m.media-amazon.com/images/I/41hoB6fUo7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074ZPBYWN-es 3x Pegatina Cubierta Adhesiva Creativo Protección Jeugo...'
 sku: 'B074ZPBYWN-es'
 tags: [ 'playstation','ps4', ]

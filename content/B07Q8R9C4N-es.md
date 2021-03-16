@@ -5,7 +5,7 @@ date: 2020-02-27 09:46:00
 image: 'https://m.media-amazon.com/images/I/31oo77UVbQL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q8R9C4N-es KESU Disco Duro Externo Portátil 500GB Type C USB3.1 HDD...'
 sku: 'B07Q8R9C4N-es'
 tags: [ 'ps4','xbox', ]

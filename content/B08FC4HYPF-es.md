@@ -5,7 +5,7 @@ date: 2020-08-19 21:51:38
 image: 'https://m.media-amazon.com/images/I/41CfHrLA4fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FC4HYPF-es eXtremeRate Carcasa Mando Xbox One S X Protectora de la...'
 sku: 'B08FC4HYPF-es'
 tags: [ 'xbox', ]

@@ -5,7 +5,7 @@ date: 2020-02-09 12:09:30
 image: 'https://m.media-amazon.com/images/I/41il2KlZ4xL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZQL6ZKY-es Mando Inalámbrico para PS4 / PC / Android HONGLI Gamepad...'
 sku: 'B07ZQL6ZKY-es'
 tags: [ 'playstation','ps4', ]

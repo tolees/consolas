@@ -5,7 +5,7 @@ date: 2020-03-08 23:01:18
 image: 'https://m.media-amazon.com/images/I/31rdM-Sp2uL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7H4DHW-es Lamicall Soporte Tablet Multiángulo Soporte Tablet :...'
 sku: 'B07S7H4DHW-es'
 tags: [ 'nintendo', ]

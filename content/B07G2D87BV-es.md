@@ -5,7 +5,7 @@ date: 2020-08-27 15:01:43
 image: 'https://m.media-amazon.com/images/I/41G0xniazhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G2D87BV-es Auriculares Gaming Stereo Sony Oficial PS4 Bigben Interactive'
 sku: 'B07G2D87BV-es'
 tags: [ 'ps4', ]

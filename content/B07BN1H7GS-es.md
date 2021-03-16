@@ -5,7 +5,7 @@ date: 2020-04-03 01:02:55
 image: 'https://m.media-amazon.com/images/I/418SHyalOYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BN1H7GS-es Indeca - Bolsa Coca-Cola PS4'
 sku: 'B07BN1H7GS-es'
 tags: [ 'ps4', ]

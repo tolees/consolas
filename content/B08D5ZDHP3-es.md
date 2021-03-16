@@ -5,7 +5,7 @@ date: 2020-10-03 07:54:51
 image: 'https://m.media-amazon.com/images/I/51R7ShPUb9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D5ZDHP3-es Monitor Portátil Uperfect 15 6 Pulgadas Monitor Gaming FHD...'
 sku: 'B08D5ZDHP3-es'
 tags: [ 'ps4','xbox', ]

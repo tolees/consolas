@@ -5,7 +5,7 @@ date: 2020-03-06 11:45:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41milqNpV8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WL6CNWQ-es Hori - Protector de pantalla Nintendo Switch Lite'
 sku: 'B07WL6CNWQ-es'
 tags: [ 'nintendo', ]

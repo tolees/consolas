@@ -5,7 +5,7 @@ date: 2020-09-28 01:12:17
 image: 'https://m.media-amazon.com/images/I/41niMwbUx1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GHM45W8-es GEEMEE Mando Inalámbrico para PS4 Wireless Bluetooth...'
 sku: 'B08GHM45W8-es'
 tags: [ 'playstation','ps4', ]

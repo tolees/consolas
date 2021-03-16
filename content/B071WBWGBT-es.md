@@ -5,7 +5,7 @@ date: 2020-07-08 02:38:34
 image: 'https://m.media-amazon.com/images/I/41XKkYwbNVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071WBWGBT-es Syncwire Cable HDMI 2.0 de alta velocidad 2M - Ultra HD 4k...'
 sku: 'B071WBWGBT-es'
 tags: [ 'playstation','ps4', ]

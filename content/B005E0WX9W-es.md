@@ -5,7 +5,7 @@ date: 2020-04-16 09:17:56
 image: 'https://m.media-amazon.com/images/I/41aiuJjqbJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005E0WX9W-es Ivuna Flex Plus 0 2M Cable de extensi?n HDMI con Giro...'
 sku: 'B005E0WX9W-es'
 tags: [ 'ps4','xbox', ]

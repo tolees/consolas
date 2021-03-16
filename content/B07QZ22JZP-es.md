@@ -5,7 +5,7 @@ date: 2020-07-09 22:46:10
 image: 'https://m.media-amazon.com/images/I/51JpBRgMbRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QZ22JZP-es God Eater 3 for Nintendo Switch'
 sku: 'B07QZ22JZP-es'
 tags: [ 'nintendo', ]

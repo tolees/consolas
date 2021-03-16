@@ -5,7 +5,7 @@ date: 2020-02-15 21:20:10
 image: 'https://m.media-amazon.com/images/I/41A0I-eG8HL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GCN2RWW-es LucidSound - LS31 Wireless Gaming Headset PS4'
 sku: 'B07GCN2RWW-es'
 tags: [ 'ps4', ]

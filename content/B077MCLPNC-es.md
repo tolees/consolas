@@ -5,7 +5,7 @@ date: 2020-05-15 15:38:55
 image: 'https://m.media-amazon.com/images/I/31IZfFYBfcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MCLPNC-es FR·TEC - Dragon Ball Super Grips 1 Star para Nintendo Switch'
 sku: 'B077MCLPNC-es'
 tags: [ 'nintendo', ]

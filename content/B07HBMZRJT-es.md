@@ -5,7 +5,7 @@ date: 2020-01-21 07:23:21
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41lh8%2BqcZgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HBMZRJT-es Hori - Funda Rígida Pokémon Let s Go Nintendo Switch'
 sku: 'B07HBMZRJT-es'
 tags: [ 'nintendo', ]

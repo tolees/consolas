@@ -5,7 +5,7 @@ date: 2020-01-20 16:52:24
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41HC0KNeOML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXB9GW9-es PDP - Mando Smash Pad Pro Con Cable Pikachu Nintendo Switch'
 sku: 'B07GXB9GW9-es'
 tags: [ 'nintendo', ]

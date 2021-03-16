@@ -5,7 +5,7 @@ date: 2020-02-19 07:23:07
 image: 'https://m.media-amazon.com/images/I/51fWe7wlBnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071YVJ54C-es FR·TEC - Pack 3 Led Stickers para el mando Dualshock de...'
 sku: 'B071YVJ54C-es'
 tags: [ 'playstation', ]

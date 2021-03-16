@@ -5,7 +5,7 @@ date: 2020-01-14 21:29:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41rtAURBStL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082W8JDQL-es Mando Inalámbrico para PS4 Wireless Bluetooth Controlador...'
 sku: 'B082W8JDQL-es'
 tags: [ 'playstation','ps4', ]

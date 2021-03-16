@@ -5,7 +5,7 @@ date: 2020-01-12 09:16:05
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31WlsJ9w2vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXKCX6Y-es Mando Inalámbrico GameCube Color Negro Nintendo Switch'
 sku: 'B07GXKCX6Y-es'
 tags: [ 'nintendo', ]

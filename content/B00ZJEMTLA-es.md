@@ -5,7 +5,7 @@ date: 2020-08-06 07:56:20
 image: 'https://m.media-amazon.com/images/I/31OC85oPywL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZJEMTLA-es PDP - Mono Auricular Chat Afterglow LVL 1 Playstation 4'
 sku: 'B00ZJEMTLA-es'
 tags: [ 'playstation', ]

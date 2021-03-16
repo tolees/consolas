@@ -5,7 +5,7 @@ date: 2020-01-16 10:14:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41z9cEHubfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076QKKG2T-es Razer Electra V2 - Auriculares analógicos para juegos y...'
 sku: 'B076QKKG2T-es'
 tags: [ 'ps4','xbox', ]

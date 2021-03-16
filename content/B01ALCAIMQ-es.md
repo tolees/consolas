@@ -5,7 +5,7 @@ date: 2020-09-17 11:24:15
 image: 'https://m.media-amazon.com/images/I/41CCv-+1mzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ALCAIMQ-es KINGTOP PS4 Fan Universal Ventilador de Refrigeración...'
 sku: 'B01ALCAIMQ-es'
 tags: [ 'playstation','ps4', ]

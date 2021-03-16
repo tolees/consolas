@@ -5,7 +5,7 @@ date: 2020-09-11 13:08:35
 image: 'https://m.media-amazon.com/images/I/51corhlEikL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ5BT87-es Disco Duro Externo 2 TB USB3.0 para PC Mac MacBook Xbox...'
 sku: 'B08DJ5BT87-es'
 tags: [ 'xbox', ]

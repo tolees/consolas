@@ -5,7 +5,7 @@ date: 2020-10-01 13:44:42
 image: 'https://m.media-amazon.com/images/I/31fsgk0rCaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HZ2FLTM-es Disco Duro Externo 2 TB Disco Duro Externo para PC Mac...'
 sku: 'B08HZ2FLTM-es'
 tags: [ 'xbox', ]

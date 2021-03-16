@@ -5,7 +5,7 @@ date: 2020-02-17 07:51:11
 image: 'https://m.media-amazon.com/images/I/41QlL5R1KvL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075D3FSQ3-es Trust Gaming GXT 344 Creon - Auriculares Gaming para PC...'
 sku: 'B075D3FSQ3-es'
 tags: [ 'ps4','xbox', ]

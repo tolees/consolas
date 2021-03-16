@@ -5,7 +5,7 @@ date: 2020-03-26 09:32:48
 image: 'https://m.media-amazon.com/images/I/51PPnfIkswL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z9HWPBZ-es Meridiem Games - Meridiem Games - Dragon Ball Arcade Mini...'
 sku: 'B07Z9HWPBZ-es'
 tags: [ 'nintendo', ]

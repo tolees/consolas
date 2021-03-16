@@ -5,7 +5,7 @@ date: 2020-09-30 06:30:37
 image: 'https://m.media-amazon.com/images/I/51-rGVEUeDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085ZL8QDV-es Cocoda Cascos Gaming Auriculares Gaming PS4 para...'
 sku: 'B085ZL8QDV-es'
 tags: [ 'ps4', ]

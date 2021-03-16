@@ -5,7 +5,7 @@ date: 2020-01-20 09:08:42
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51RcJsCVI8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CD5S3PV-es LEGO Die Unglaublichen - Standard Edition - Nintendo...'
 sku: 'B07CD5S3PV-es'
 tags: [ 'nintendo', ]

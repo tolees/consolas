@@ -5,7 +5,7 @@ date: 2020-06-04 11:21:39
 image: 'https://m.media-amazon.com/images/I/41AQmJADSUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NSRXBQK-es New Bee Soporte Auriculares Universal en Mesa para Bose...'
 sku: 'B07NSRXBQK-es'
 tags: [ 'playstation', ]

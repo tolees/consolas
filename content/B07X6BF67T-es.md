@@ -5,7 +5,7 @@ date: 2020-08-22 17:46:37
 image: 'https://m.media-amazon.com/images/I/416SW9hNI7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X6BF67T-es THE G-LAB Korp COBALT Auriculares Gaming - Auriculares...'
 sku: 'B07X6BF67T-es'
 tags: [ 'ps4','xbox', ]

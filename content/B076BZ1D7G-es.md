@@ -5,7 +5,7 @@ date: 2020-02-12 17:36:16
 image: 'https://m.media-amazon.com/images/I/419wy1N0FKL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076BZ1D7G-es Pegatinas Cubiertas Adhesiva Decal Set para Sony...'
 sku: 'B076BZ1D7G-es'
 tags: [ 'playstation','ps4', ]

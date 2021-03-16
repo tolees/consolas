@@ -5,7 +5,7 @@ date: 2020-08-02 06:41:25
 image: 'https://m.media-amazon.com/images/I/511nRRyuU0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TV19MGQ-es Shuliancable Cable HDMI Compatible con Ethernet Retorno de...'
 sku: 'B07TV19MGQ-es'
 tags: [ 'playstation', ]

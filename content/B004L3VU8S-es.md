@@ -5,7 +5,7 @@ date: 2020-05-28 17:38:47
 image: 'https://m.media-amazon.com/images/I/419ZTtb+pgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004L3VU8S-es Lioncast Arcade Fightstick Palanca de Mando Controlador...'
 sku: 'B004L3VU8S-es'
 tags: [ 'playstation', ]

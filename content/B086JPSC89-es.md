@@ -5,7 +5,7 @@ date: 2020-08-17 20:40:20
 image: 'https://m.media-amazon.com/images/I/415jyfHgg5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086JPSC89-es iVANKY Cable Alargador HDMI 2 Metros Cable Extensión HDMI...'
 sku: 'B086JPSC89-es'
 tags: [ 'xbox', ]

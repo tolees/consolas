@@ -5,7 +5,7 @@ date: 2020-04-18 18:43:35
 image: 'https://m.media-amazon.com/images/I/51tAWLvAXIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MBSXMH7-es ShuOne USB3.0 HDMI 1080P 60 FPS Juego Tarjeta de Captura...'
 sku: 'B07MBSXMH7-es'
 tags: [ 'ps4','xbox', ]

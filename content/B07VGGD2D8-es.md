@@ -5,7 +5,7 @@ date: 2020-01-21 13:47:13
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51mOxvwW0JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGGD2D8-es PDP - Funda Travel Case Picachu Escala De Gris Nintendo...'
 sku: 'B07VGGD2D8-es'
 tags: [ 'nintendo', ]

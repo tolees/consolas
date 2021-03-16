@@ -5,7 +5,7 @@ date: 2020-02-18 09:39:13
 image: 'https://m.media-amazon.com/images/I/51m2eBPnlbL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VGFNJBH-es Super Monkey Ball: Banana Blitz HD - Xbox One'
 sku: 'B07VGFNJBH-es'
 tags: [ 'xbox', ]

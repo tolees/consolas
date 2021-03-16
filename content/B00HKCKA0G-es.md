@@ -5,7 +5,7 @@ date: 2020-03-06 09:31:20
 image: 'https://m.media-amazon.com/images/I/41SjaalXD8L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HKCKA0G-es Tritton Kama - Auriculares estéreo de diadema cerrados...'
 sku: 'B00HKCKA0G-es'
 tags: [ 'ps4', ]

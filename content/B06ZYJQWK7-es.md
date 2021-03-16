@@ -5,7 +5,7 @@ date: 2020-10-08 10:03:26
 image: 'https://m.media-amazon.com/images/I/41euQ4WdUzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZYJQWK7-es Timorn Piezas de Reparación Torx T8 Tornillos Conjunto...'
 sku: 'B06ZYJQWK7-es'
 tags: [ 'xbox', ]

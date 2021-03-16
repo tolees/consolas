@@ -5,7 +5,7 @@ date: 2020-05-04 09:33:25
 image: 'https://m.media-amazon.com/images/I/414Cyb8PJvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYJM4L8-es HyperX HX-HSCLS-BL Cloud para PS4 - Cascos de Gaming con...'
 sku: 'B07JYJM4L8-es'
 tags: [ 'ps4', ]

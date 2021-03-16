@@ -5,7 +5,7 @@ date: 2020-10-11 07:38:24
 image: 'https://m.media-amazon.com/images/I/51s5iVAiAVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DKWRLW6-es Warriors Orochi 4 para PS4'
 sku: 'B07DKWRLW6-es'
 tags: [ 'ps4', ]

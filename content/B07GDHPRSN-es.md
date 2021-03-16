@@ -5,7 +5,7 @@ date: 2020-03-10 16:14:29
 image: 'https://m.media-amazon.com/images/I/51kU-j1XQNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GDHPRSN-es BlueFire Cascos Gaming con Micrófono Auriculares PS4...'
 sku: 'B07GDHPRSN-es'
 tags: [ 'ps4','xbox', ]

@@ -5,7 +5,7 @@ date: 2020-02-26 16:34:22
 image: 'https://m.media-amazon.com/images/I/4138FNjGcwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0746S4MHC-es Nacon - Mando Compacto para PS4 color Cristal Verde'
 sku: 'B0746S4MHC-es'
 tags: [ 'ps4', ]

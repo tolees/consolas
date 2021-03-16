@@ -5,7 +5,7 @@ date: 2020-02-14 17:45:28
 image: 'https://m.media-amazon.com/images/I/4164bjHwk3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M9GB2PY-es Subsonic - Caso Rígido Con Licencia Oficial Real Madrid...'
 sku: 'B01M9GB2PY-es'
 tags: [ 'nintendo', ]

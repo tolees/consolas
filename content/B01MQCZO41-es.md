@@ -5,7 +5,7 @@ date: 2020-04-24 16:34:06
 image: 'https://m.media-amazon.com/images/I/41Qyb1YHFEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQCZO41-es Timorn 4 Pares / 8PCS palillo analógico del Pulgar de los...'
 sku: 'B01MQCZO41-es'
 tags: [ 'ps4', ]

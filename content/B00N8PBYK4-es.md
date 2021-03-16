@@ -5,7 +5,7 @@ date: 2020-08-15 17:33:36
 image: 'https://m.media-amazon.com/images/I/51I7jNTLILL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00N8PBYK4-es Nintendo Pikachu Amiibo - Figuras de acción y de colección...'
 sku: 'B00N8PBYK4-es'
 tags: [ 'nintendo', ]

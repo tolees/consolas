@@ -5,7 +5,7 @@ date: 2020-09-17 20:10:16
 image: 'https://m.media-amazon.com/images/I/51FMpydElIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FC7RNG1-es REDSTORM Mando para Nintendo Switch mando pro switch...'
 sku: 'B08FC7RNG1-es'
 tags: [ 'nintendo', ]

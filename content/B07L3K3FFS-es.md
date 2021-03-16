@@ -5,7 +5,7 @@ date: 2020-01-01 08:05:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31x35QcEWwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3K3FFS-es TEYADI 2.5" Ultra Slim Disco Duro Externo Portátil 9mm...'
 sku: 'B07L3K3FFS-es'
 tags: [ 'ps4','xbox', ]

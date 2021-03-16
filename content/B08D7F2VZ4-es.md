@@ -5,7 +5,7 @@ date: 2020-08-18 10:21:02
 image: 'https://m.media-amazon.com/images/I/41fM44JxUrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D7F2VZ4-es NETUM Pantalla táctil Enchufe de la UE 15 6 Pulgadas IPS...'
 sku: 'B08D7F2VZ4-es'
 tags: [ 'ps4','xbox', ]

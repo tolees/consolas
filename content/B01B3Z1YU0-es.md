@@ -5,7 +5,7 @@ date: 2020-04-14 13:45:24
 image: 'https://m.media-amazon.com/images/I/41uPrr8xvUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B3Z1YU0-es XtremeRate 4 Pares de Tapas Joystick Comptible con PS4...'
 sku: 'B01B3Z1YU0-es'
 tags: [ 'ps4', ]

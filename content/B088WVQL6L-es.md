@@ -5,7 +5,7 @@ date: 2020-06-21 17:03:26
 image: 'https://m.media-amazon.com/images/I/41s9Jm4iqUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088WVQL6L-es Suscripcion Xbox Game Pass 3 Meses Ultimate + 1 Mes Gratis...'
 sku: 'B088WVQL6L-es'
 tags: [ 'xbox', ]

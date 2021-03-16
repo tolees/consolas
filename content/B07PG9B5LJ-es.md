@@ -5,7 +5,7 @@ date: 2020-07-27 14:41:55
 image: 'https://m.media-amazon.com/images/I/31aWq2H55LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PG9B5LJ-es Nacon Revolution Unlimited - Mando inalámbrico [Versión...'
 sku: 'B07PG9B5LJ-es'
 tags: [ 'ps4', ]

@@ -5,7 +5,7 @@ date: 2020-06-17 04:15:41
 image: 'https://m.media-amazon.com/images/I/51CY4Zo2bgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BX0YKX4-es Fosmon Mini Bluetooth Keyboard con touchpad Teclado...'
 sku: 'B00BX0YKX4-es'
 tags: [ 'ps4', ]

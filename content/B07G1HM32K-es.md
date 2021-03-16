@@ -5,7 +5,7 @@ date: 2020-09-26 15:27:52
 image: 'https://m.media-amazon.com/images/I/31LvhOVnrML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G1HM32K-es Belkin Boost Charge 20K - Batería Externa USB-C + Cable...'
 sku: 'B07G1HM32K-es'
 tags: [ 'nintendo', ]

@@ -5,7 +5,7 @@ date: 2020-02-18 12:19:29
 image: 'https://m.media-amazon.com/images/I/41y8SSGEbEL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNGY6MB-es PowerA - Mando inalámbrico mejorado Pokémon Great Ball...'
 sku: 'B07VNGY6MB-es'
 tags: [ 'nintendo', ]

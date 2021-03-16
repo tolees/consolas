@@ -5,7 +5,7 @@ date: 2020-03-31 09:33:56
 image: 'https://m.media-amazon.com/images/I/41-7EZh5gdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GLNBJQD-es Xbox One Enhanced Wired Controller - Xbox One [Importación...'
 sku: 'B07GLNBJQD-es'
 tags: [ 'xbox', ]

@@ -5,7 +5,7 @@ date: 2020-04-05 19:07:31
 image: 'https://m.media-amazon.com/images/I/41vWITfD4zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G4DD5DB-es Astro Gaming A50 - Auriculares con Micrófono Inalámbricos...'
 sku: 'B07G4DD5DB-es'
 tags: [ 'xbox', ]

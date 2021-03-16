@@ -5,7 +5,7 @@ date: 2020-07-12 09:48:03
 image: 'https://m.media-amazon.com/images/I/319DcUp9QUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BN8Q43X-es Disco Duro Externo 2tb USB 3.1 para Mac PC MacBook...'
 sku: 'B08BN8Q43X-es'
 tags: [ 'xbox', ]

@@ -5,7 +5,7 @@ date: 2020-10-07 04:27:18
 image: 'https://m.media-amazon.com/images/I/51iLpkEyryL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DNZX4SS-es Power Theory Protector Pantalla Cristal Templado para...'
 sku: 'B08DNZX4SS-es'
 tags: [ 'nintendo', ]

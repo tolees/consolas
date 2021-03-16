@@ -5,7 +5,7 @@ date: 2020-10-12 18:43:01
 image: 'https://m.media-amazon.com/images/I/41ComucLGzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01A827XHM-es HORI - PlayStand Multipuerto USB Nintendo Switch / Switch...'
 sku: 'B01A827XHM-es'
 tags: [ 'nintendo', ]

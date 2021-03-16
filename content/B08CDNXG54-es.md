@@ -5,7 +5,7 @@ date: 2020-08-24 15:44:59
 image: 'https://m.media-amazon.com/images/I/31iChg-93yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CDNXG54-es Disco Duro Externo 1 TB Disco Duro Externo Type C USB3.1...'
 sku: 'B08CDNXG54-es'
 tags: [ 'xbox', ]

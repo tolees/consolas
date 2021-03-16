@@ -5,7 +5,7 @@ date: 2020-08-17 17:27:30
 image: 'https://m.media-amazon.com/images/I/31R527dGE+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S5QKSSB-es RAVPower Cargador USB con 2 Puertos USB 17W Cargador de...'
 sku: 'B07S5QKSSB-es'
 tags: [ 'nintendo', ]

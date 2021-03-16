@@ -5,7 +5,7 @@ date: 2020-07-30 12:01:29
 image: 'https://m.media-amazon.com/images/I/510gxnPgESL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GD6GMKJ-es BlueFire Cascos Gaming Auriculares Gaming PS4 con...'
 sku: 'B07GD6GMKJ-es'
 tags: [ 'ps4', ]

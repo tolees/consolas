@@ -5,7 +5,7 @@ date: 2020-08-09 23:17:58
 image: 'https://m.media-amazon.com/images/I/31uPSUj-shL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B3SK2TL-es CHOETECH Cargador USB C[GaN Tech] PD 65W Cargador de Pared...'
 sku: 'B08B3SK2TL-es'
 tags: [ 'nintendo', ]

@@ -5,7 +5,7 @@ date: 2020-10-04 16:27:35
 image: 'https://m.media-amazon.com/images/I/41zFQs9CdwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08K8J9YTQ-es eXtremeRate Protector para Dock de Nintendo Switch Dock...'
 sku: 'B08K8J9YTQ-es'
 tags: [ 'nintendo', ]

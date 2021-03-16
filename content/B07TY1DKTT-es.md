@@ -5,7 +5,7 @@ date: 2020-07-17 10:32:43
 image: 'https://m.media-amazon.com/images/I/51CxI4mGp5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TY1DKTT-es eFootball PES 2020 - Xbox One [Importación inglesa]'
 sku: 'B07TY1DKTT-es'
 tags: [ 'xbox', ]

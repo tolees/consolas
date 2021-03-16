@@ -5,7 +5,7 @@ date: 2020-06-12 13:32:15
 image: 'https://m.media-amazon.com/images/I/51-RL+zqSyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZJL28D-es eXtremeRate Carcasa para Nintendo Switch Pro Funda...'
 sku: 'B07TZJL28D-es'
 tags: [ 'nintendo', ]

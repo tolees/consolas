@@ -5,7 +5,7 @@ date: 2020-08-09 21:02:53
 image: 'https://m.media-amazon.com/images/I/51AkZ4B-GZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VVBTPMJ-es Fyoung - Kit de accesorios 3 en 1 para Nintendo Switch...'
 sku: 'B07VVBTPMJ-es'
 tags: [ 'nintendo', ]

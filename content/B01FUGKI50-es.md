@@ -5,7 +5,7 @@ date: 2020-05-22 20:55:08
 image: 'https://m.media-amazon.com/images/I/21I+kn7k4IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01FUGKI50-es Timorn 12 Pines del Interruptor de alimentación del Cable...'
 sku: 'B01FUGKI50-es'
 tags: [ 'playstation','ps4', ]

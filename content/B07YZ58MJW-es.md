@@ -5,7 +5,7 @@ date: 2020-01-20 19:03:50
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41dNoVE1DrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YZ58MJW-es BOSNAS Proyector 6000 Lúmenes Proyector Full HD Soporta...'
 sku: 'B07YZ58MJW-es'
 tags: [ 'ps4', ]

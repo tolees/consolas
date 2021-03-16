@@ -5,7 +5,7 @@ date: 2020-06-01 07:19:02
 image: 'https://m.media-amazon.com/images/I/51GbZugc4bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QWLFQNR-es Bovon Soporte Tablet para Coche Soporte de Tablet para...'
 sku: 'B07QWLFQNR-es'
 tags: [ 'nintendo', ]

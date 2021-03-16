@@ -5,7 +5,7 @@ date: 2020-04-30 11:07:54
 image: 'https://m.media-amazon.com/images/I/51IXQLRsv7L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01A8L6O1E-es Hori - Real Arcade Pro Soulcalibur VI Xbox One PC'
 sku: 'B01A8L6O1E-es'
 tags: [ 'xbox', ]

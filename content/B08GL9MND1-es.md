@@ -5,7 +5,7 @@ date: 2020-09-13 01:46:19
 image: 'https://m.media-amazon.com/images/I/41e++9OBNcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GL9MND1-es Disco Duro Externo 2tb Portátil 2.5" USB3.0 Disco Duro...'
 sku: 'B08GL9MND1-es'
 tags: [ 'xbox', ]

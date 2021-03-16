@@ -5,7 +5,7 @@ date: 2020-03-31 15:46:01
 image: 'https://m.media-amazon.com/images/I/415vo8F5DCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VK38GPH-es Hixon Batería de Xbox One y Cargador 2 Pilas 2500mAh...'
 sku: 'B07VK38GPH-es'
 tags: [ 'xbox', ]

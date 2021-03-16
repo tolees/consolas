@@ -5,7 +5,7 @@ date: 2020-09-10 07:45:45
 image: 'https://m.media-amazon.com/images/I/4144ScmlcEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F7ZJG2J-es [ Versión Nuevo ] TeckNet 2.0M Cable HDMI 2.0 4K Ultra HD...'
 sku: 'B07F7ZJG2J-es'
 tags: [ 'playstation','ps4','xbox', ]

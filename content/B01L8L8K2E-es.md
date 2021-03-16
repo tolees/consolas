@@ -5,7 +5,7 @@ date: 2020-05-20 20:19:16
 image: 'https://m.media-amazon.com/images/I/41yHh7jr7mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L8L8K2E-es Timorn Reemplazo Piezas L1 R1 L2 R2 gatillo Piezas Botones...'
 sku: 'B01L8L8K2E-es'
 tags: [ 'playstation','ps4', ]

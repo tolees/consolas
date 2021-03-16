@@ -5,7 +5,7 @@ date: 2020-10-06 10:09:46
 image: 'https://m.media-amazon.com/images/I/31ERiY0hshL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HZ6B8HD-es Disco Duro Externo 1 TB USB-C Disco Duro Externo para PC...'
 sku: 'B08HZ6B8HD-es'
 tags: [ 'xbox', ]

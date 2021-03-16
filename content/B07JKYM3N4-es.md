@@ -5,7 +5,7 @@ date: 2020-01-19 08:10:41
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41v7BLF8VhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JKYM3N4-es NUBWO N12 Xbox One PS4 auriculares para juegos auriculares...'
 sku: 'B07JKYM3N4-es'
 tags: [ 'nintendo','ps4','xbox', ]

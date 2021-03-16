@@ -5,7 +5,7 @@ date: 2020-06-24 10:23:21
 image: 'https://m.media-amazon.com/images/I/51cy4YVBo8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RDNGPLJ-es Funda para Nintendo Switch Case de protección para...'
 sku: 'B07RDNGPLJ-es'
 tags: [ 'nintendo', ]

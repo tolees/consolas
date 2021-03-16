@@ -5,7 +5,7 @@ date: 2020-05-07 10:04:47
 image: 'https://m.media-amazon.com/images/I/516bHnxg9EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V22PDZ8-es RedThunder Teclado Semimecánico Gaming Retroiluminación...'
 sku: 'B07V22PDZ8-es'
 tags: [ 'ps4','xbox', ]

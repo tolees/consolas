@@ -5,7 +5,7 @@ date: 2020-09-01 22:00:40
 image: 'https://m.media-amazon.com/images/I/51My2WbEXKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089ZC4FM6-es Railway Empire Complete Collection PS4'
 sku: 'B089ZC4FM6-es'
 tags: [ 'ps4', ]

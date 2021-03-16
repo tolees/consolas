@@ -5,7 +5,7 @@ date: 2020-07-10 21:28:07
 image: 'https://m.media-amazon.com/images/I/41LM5dMxjuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFBFWVW-es Funko Pop! - Patrick Star Spongebob Holiday Xbox'
 sku: 'B07DFBFWVW-es'
 tags: [ 'xbox', ]

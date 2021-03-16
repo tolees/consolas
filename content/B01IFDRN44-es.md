@@ -5,7 +5,7 @@ date: 2020-03-05 17:36:10
 image: 'https://m.media-amazon.com/images/I/41wFy9ikPgL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IFDRN44-es 3pcs Pegatinas de Consola Cubierta Adhesiva Hexágono...'
 sku: 'B01IFDRN44-es'
 tags: [ 'playstation','ps4', ]

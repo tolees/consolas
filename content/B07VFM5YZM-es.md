@@ -5,7 +5,7 @@ date: 2020-05-11 08:01:57
 image: 'https://m.media-amazon.com/images/I/514yeLVX+QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VFM5YZM-es [2 Pack] UniqueMe Protector de Pantalla para Nintendo...'
 sku: 'B07VFM5YZM-es'
 tags: [ 'nintendo', ]

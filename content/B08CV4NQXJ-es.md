@@ -5,7 +5,7 @@ date: 2020-07-21 05:24:23
 image: 'https://m.media-amazon.com/images/I/316dsr+PrlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CV4NQXJ-es eXtremeRate Botones Completos para Xbox One S/X Botón de...'
 sku: 'B08CV4NQXJ-es'
 tags: [ 'xbox', ]

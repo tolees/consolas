@@ -5,7 +5,7 @@ date: 2020-07-08 15:14:17
 image: 'https://m.media-amazon.com/images/I/41tKrS022lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GPM141U-es eXtremeRate Torx T8H T6 Destornillador Original para Xbox...'
 sku: 'B01GPM141U-es'
 tags: [ 'xbox', ]

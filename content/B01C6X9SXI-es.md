@@ -5,7 +5,7 @@ date: 2020-01-10 09:52:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41q3SC0ybIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C6X9SXI-es Hori - Kit de protección Nintendo Switch Lite'
 sku: 'B01C6X9SXI-es'
 tags: [ 'nintendo', ]

@@ -5,7 +5,7 @@ date: 2020-05-20 08:36:15
 image: 'https://m.media-amazon.com/images/I/51sQcgvvA0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PGHYLDF-es Carrera- Nintendo Mario Kart-Mach 8 Juego con Coches...'
 sku: 'B07PGHYLDF-es'
 tags: [ 'nintendo', ]

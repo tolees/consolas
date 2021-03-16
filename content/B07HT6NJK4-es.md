@@ -5,7 +5,7 @@ date: 2020-04-13 16:53:00
 image: 'https://m.media-amazon.com/images/I/418NxfMaZzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HT6NJK4-es Cargador Mando PS4 KNONEW PS4 Estación de carga USB Base...'
 sku: 'B07HT6NJK4-es'
 tags: [ 'playstation','ps4', ]

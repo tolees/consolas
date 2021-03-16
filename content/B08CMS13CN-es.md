@@ -5,7 +5,7 @@ date: 2020-09-30 07:48:58
 image: 'https://m.media-amazon.com/images/I/31ERiY0hshL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CMS13CN-es Disco Duro Externo 1 TB USB-C Disco Duro Externo para PC...'
 sku: 'B08CMS13CN-es'
 tags: [ 'xbox', ]

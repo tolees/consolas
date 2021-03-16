@@ -5,7 +5,7 @@ date: 2020-09-22 21:06:37
 image: 'https://m.media-amazon.com/images/I/41KIqOXrUdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G9HTXTX-es Mando inalámbrico Pro4 FPS wireless controller -...'
 sku: 'B07G9HTXTX-es'
 tags: [ 'ps4', ]

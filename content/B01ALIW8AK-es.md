@@ -5,7 +5,7 @@ date: 2020-07-08 11:06:19
 image: 'https://m.media-amazon.com/images/I/310n4UKty5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ALIW8AK-es Hori - Auriculares Switch Azul/Rojo Neón Nintendo Switch'
 sku: 'B01ALIW8AK-es'
 tags: [ 'nintendo', ]

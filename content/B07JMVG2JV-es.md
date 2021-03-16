@@ -5,7 +5,7 @@ date: 2020-06-14 07:02:07
 image: 'https://m.media-amazon.com/images/I/51KfgspSVGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMVG2JV-es Thrustmaster - T.Flight Hotas One Ace Combat 7 Joystick...'
 sku: 'B07JMVG2JV-es'
 tags: [ 'xbox', ]

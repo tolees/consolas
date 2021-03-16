@@ -5,7 +5,7 @@ date: 2020-07-11 18:27:52
 image: 'https://m.media-amazon.com/images/I/31RvimvpjlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GG3T7FL-es Steelseries Arctis 3 Auriculares De Juego Multiplataforma...'
 sku: 'B07GG3T7FL-es'
 tags: [ 'nintendo','playstation','xbox', ]

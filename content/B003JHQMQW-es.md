@@ -5,7 +5,7 @@ date: 2020-08-17 06:17:36
 image: 'https://m.media-amazon.com/images/I/31s-2ca1CZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003JHQMQW-es Lioncast 2x Micrófonos USB universal para ordenador y...'
 sku: 'B003JHQMQW-es'
 tags: [ 'ps4','xbox', ]

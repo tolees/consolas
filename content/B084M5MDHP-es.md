@@ -5,7 +5,7 @@ date: 2020-03-07 10:10:51
 image: 'https://m.media-amazon.com/images/I/31dZ-B7mmjL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084M5MDHP-es Disco Duro Externo 1 TB Disco Duro Externo Type C USB3.1...'
 sku: 'B084M5MDHP-es'
 tags: [ 'ps4','xbox', ]

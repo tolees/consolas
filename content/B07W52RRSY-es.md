@@ -5,7 +5,7 @@ date: 2020-09-14 12:25:26
 image: 'https://m.media-amazon.com/images/I/41Hs-tvPimL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W52RRSY-es Subsonic - Asiento de juego Sillón Gamer ergonómico Silla...'
 sku: 'B07W52RRSY-es'
 tags: [ 'ps4', ]

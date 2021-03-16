@@ -5,7 +5,7 @@ date: 2020-08-19 14:24:50
 image: 'https://m.media-amazon.com/images/I/51FZRfv4+4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0746GRYHR-es SADES SA810 Gaming Headset Xbox One PS4 auriculares de...'
 sku: 'B0746GRYHR-es'
 tags: [ 'ps4','xbox', ]

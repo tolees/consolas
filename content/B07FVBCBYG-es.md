@@ -5,7 +5,7 @@ date: 2020-02-27 15:15:06
 image: 'https://m.media-amazon.com/images/I/516LAf5I8lL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FVBCBYG-es Hori - Go Pack Super Mario Nintendo Switch'
 sku: 'B07FVBCBYG-es'
 tags: [ 'nintendo', ]

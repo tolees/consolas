@@ -5,7 +5,7 @@ date: 2020-03-15 23:03:09
 image: 'https://m.media-amazon.com/images/I/51e8ipG6oAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B1VBTC2-es Sades SA810 Auriculares Gaming - 3.5mm Cancelación De...'
 sku: 'B07B1VBTC2-es'
 tags: [ 'ps4','xbox', ]

@@ -5,7 +5,7 @@ date: 2020-08-15 13:08:26
 image: 'https://m.media-amazon.com/images/I/41gN5-uUodL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GFWMF2Z-es Steelseries Arctis 5 Auriculares De Juego Iluminados por...'
 sku: 'B07GFWMF2Z-es'
 tags: [ 'playstation', ]

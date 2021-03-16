@@ -5,7 +5,7 @@ date: 2020-09-29 10:04:20
 image: 'https://m.media-amazon.com/images/I/41LwALgiAlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G84VZ7T-es Razer Thresher - Auriculares inalámbricos para PS4'
 sku: 'B07G84VZ7T-es'
 tags: [ 'ps4', ]

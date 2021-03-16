@@ -5,7 +5,7 @@ date: 2020-07-15 15:11:32
 image: 'https://m.media-amazon.com/images/I/416a7igabZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01F8IKSL4-es mini kitty 2 en 1 Mando Plus con Motion Plus y Nunchunk...'
 sku: 'B01F8IKSL4-es'
 tags: [ 'nintendo', ]

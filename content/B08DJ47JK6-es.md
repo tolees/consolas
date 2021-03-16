@@ -5,7 +5,7 @@ date: 2020-08-27 22:47:41
 image: 'https://m.media-amazon.com/images/I/31Fwn19m1RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ47JK6-es Disco Duro Externo 1tb USB 3.1 para Mac PC MacBook...'
 sku: 'B08DJ47JK6-es'
 tags: [ 'xbox', ]

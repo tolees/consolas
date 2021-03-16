@@ -5,7 +5,7 @@ date: 2020-10-09 07:02:29
 image: 'https://m.media-amazon.com/images/I/413Hg0XGXML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K76JY3G-es De Silicona Cubierta De La Caja Protectora De La Piel Para...'
 sku: 'B00K76JY3G-es'
 tags: [ 'xbox', ]

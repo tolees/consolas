@@ -5,7 +5,7 @@ date: 2020-08-18 09:47:28
 image: 'https://m.media-amazon.com/images/I/51JFHGFIQiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FBDD37B-es Rybozen 4K HDMI KVM Switch Caja de 2 Puertos Teclado Mouse...'
 sku: 'B08FBDD37B-es'
 tags: [ 'ps4','xbox', ]

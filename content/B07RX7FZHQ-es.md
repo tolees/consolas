@@ -5,7 +5,7 @@ date: 2020-08-28 12:14:58
 image: 'https://m.media-amazon.com/images/I/512MH-eVQIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RX7FZHQ-es FIFA 20 - PlayStation 4 [Importación inglesa]'
 sku: 'B07RX7FZHQ-es'
 tags: [ 'playstation', ]

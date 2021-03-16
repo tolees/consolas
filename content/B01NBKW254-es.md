@@ -5,7 +5,7 @@ date: 2020-02-07 17:40:13
 image: 'https://m.media-amazon.com/images/I/51AX74+byVL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBKW254-es Nacon Revolution Pro Controller para PS4 [Importación...'
 sku: 'B01NBKW254-es'
 tags: [ 'ps4', ]

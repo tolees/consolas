@@ -5,7 +5,7 @@ date: 2020-03-23 09:34:11
 image: 'https://m.media-amazon.com/images/I/41aOcj8+OeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NPZJ7SS-es Controlador PowerA Wired con licencia oficial para Xbox...'
 sku: 'B07NPZJ7SS-es'
 tags: [ 'xbox', ]

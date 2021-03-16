@@ -5,7 +5,7 @@ date: 2020-05-05 12:03:26
 image: 'https://images-eu.ssl-images-amazon.com/images/I/5157TjqMbTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G4TF12Y-es Middle Earth: Shadow of War Definitive Edition -...'
 sku: 'B07G4TF12Y-es'
 tags: [ 'playstation', ]

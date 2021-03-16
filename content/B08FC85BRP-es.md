@@ -5,7 +5,7 @@ date: 2020-08-23 03:53:23
 image: 'https://m.media-amazon.com/images/I/51ktB1CXsBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FC85BRP-es Mando Inalámbrico para Nintendo Switch REDSTORM Bluetooth...'
 sku: 'B08FC85BRP-es'
 tags: [ 'nintendo', ]

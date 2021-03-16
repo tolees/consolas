@@ -5,7 +5,7 @@ date: 2020-08-11 15:06:17
 image: 'https://m.media-amazon.com/images/I/31mSBHja2jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZJEMQEA-es Pdp - Mono Auricular Chat Afterglow LVL 1 Xbox One'
 sku: 'B00ZJEMQEA-es'
 tags: [ 'xbox', ]

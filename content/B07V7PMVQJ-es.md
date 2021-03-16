@@ -5,7 +5,7 @@ date: 2020-09-06 07:36:22
 image: 'https://m.media-amazon.com/images/I/41+S3oG8sEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7PMVQJ-es Call of Cthulhu - Nintendo Switch'
 sku: 'B07V7PMVQJ-es'
 tags: [ 'nintendo', ]

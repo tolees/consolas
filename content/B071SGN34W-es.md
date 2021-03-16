@@ -5,7 +5,7 @@ date: 2020-01-04 10:34:23
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51WvuKz-2rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071SGN34W-es ⭐️KLIM Lightning AZERTY - Nueva Versión - Teclado Híbrido...'
 sku: 'B071SGN34W-es'
 tags: [ 'ps4', ]

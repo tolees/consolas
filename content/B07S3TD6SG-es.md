@@ -5,7 +5,7 @@ date: 2020-02-11 14:05:46
 image: 'https://m.media-amazon.com/images/I/511MtW5E0fL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3TD6SG-es HEYSTOP Carcasa Nintendo Switch Funda Nintendo Switch con...'
 sku: 'B07S3TD6SG-es'
 tags: [ 'nintendo', ]

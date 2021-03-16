@@ -5,7 +5,7 @@ date: 2020-07-11 00:30:54
 image: 'https://m.media-amazon.com/images/I/31U3s9dM2vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4RQ47B-es AUKEY Powerbank USB C 10000mAh con Power Delivery de 18 W...'
 sku: 'B07B4RQ47B-es'
 tags: [ 'nintendo', ]

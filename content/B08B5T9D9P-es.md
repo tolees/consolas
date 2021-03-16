@@ -5,7 +5,7 @@ date: 2020-10-08 16:47:58
 image: 'https://m.media-amazon.com/images/I/41en2I4Z5EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B5T9D9P-es eXtremeRate Carcasa para JoyCons de Nintendo Switch Funda...'
 sku: 'B08B5T9D9P-es'
 tags: [ 'nintendo', ]

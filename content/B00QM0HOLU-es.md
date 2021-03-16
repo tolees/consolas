@@ -5,7 +5,7 @@ date: 2020-05-23 16:36:17
 image: 'https://m.media-amazon.com/images/I/415eqKlPU9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QM0HOLU-es Replacement Full Housing Shell Case Button Kit for...'
 sku: 'B00QM0HOLU-es'
 tags: [ 'ps4', ]

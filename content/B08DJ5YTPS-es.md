@@ -5,7 +5,7 @@ date: 2020-09-30 14:08:39
 image: 'https://m.media-amazon.com/images/I/41e++9OBNcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ5YTPS-es Disco Duro Externo 1tb Portátil 2.5" USB3.0 SATA HDD...'
 sku: 'B08DJ5YTPS-es'
 tags: [ 'xbox', ]

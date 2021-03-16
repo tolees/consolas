@@ -5,7 +5,7 @@ date: 2020-02-19 07:23:09
 image: 'https://m.media-amazon.com/images/I/51MzSifqWnL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QTB9FKU-es Bigben Interactive - Auricular Plug&Play Playstation 4'
 sku: 'B00QTB9FKU-es'
 tags: [ 'playstation', ]

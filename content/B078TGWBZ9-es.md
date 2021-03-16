@@ -5,7 +5,7 @@ date: 2020-08-26 19:31:36
 image: 'https://m.media-amazon.com/images/I/41PEOx9fwJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078TGWBZ9-es TUTUO Nintendo Switch Controlador Mando Inalámbrico...'
 sku: 'B078TGWBZ9-es'
 tags: [ 'nintendo', ]

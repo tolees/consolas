@@ -5,7 +5,7 @@ date: 2020-05-17 14:02:48
 image: 'https://m.media-amazon.com/images/I/31dP3rEpIML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P6LXRHQ-es Rotación Profesional Diseño Ajustable Clip de Montaje de...'
 sku: 'B07P6LXRHQ-es'
 tags: [ 'ps4', ]

@@ -5,7 +5,7 @@ date: 2020-08-08 08:56:49
 image: 'https://m.media-amazon.com/images/I/51O9jQHZT4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCDFH3R-es KLIM Puma – Cascos Auriculares Gaming con micrófono –...'
 sku: 'B06XCDFH3R-es'
 tags: [ 'ps4', ]

@@ -5,7 +5,7 @@ date: 2020-07-09 19:13:40
 image: 'https://m.media-amazon.com/images/I/41FMtcvlxVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F5LV5KM-es IBRA Cable de Alta Velocidad Optical HDMI de 5M Cable HDMI...'
 sku: 'B07F5LV5KM-es'
 tags: [ 'ps4','xbox', ]

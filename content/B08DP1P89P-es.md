@@ -5,7 +5,7 @@ date: 2020-08-17 03:50:29
 image: 'https://m.media-amazon.com/images/I/51WFmhZwydL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DP1P89P-es Controller para Nintendo Switch EasySMX Mandos Nintendo...'
 sku: 'B08DP1P89P-es'
 tags: [ 'nintendo', ]

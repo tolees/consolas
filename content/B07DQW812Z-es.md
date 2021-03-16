@@ -5,7 +5,7 @@ date: 2020-06-25 06:25:50
 image: 'https://m.media-amazon.com/images/I/51A7yN67X6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DQW812Z-es Megaman 11 para PlayStation 4 - Edición Estándar'
 sku: 'B07DQW812Z-es'
 tags: [ 'playstation', ]

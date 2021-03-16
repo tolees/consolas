@@ -5,7 +5,7 @@ date: 2020-07-24 08:15:24
 image: 'https://m.media-amazon.com/images/I/41JAI+87hyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078MGGWBZ-es Nintendo NINTENDO NES Console Bi-Fold Wallet Multi-Colour...'
 sku: 'B078MGGWBZ-es'
 tags: [ 'nintendo', ]

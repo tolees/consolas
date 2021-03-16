@@ -5,7 +5,7 @@ date: 2020-05-24 09:03:34
 image: 'https://m.media-amazon.com/images/I/31ZikcfeR3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HNWFGD4-es Fácil de Instalar Tarjeta de Memoria de Alta Velocidad de...'
 sku: 'B07HNWFGD4-es'
 tags: [ 'nintendo', ]

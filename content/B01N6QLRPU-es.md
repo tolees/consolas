@@ -5,7 +5,7 @@ date: 2020-10-03 16:50:32
 image: 'https://m.media-amazon.com/images/I/51uIUw2kiuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6QLRPU-es Nintendo - Figura Amiibo Bokoblin Serie Zelda'
 sku: 'B01N6QLRPU-es'
 tags: [ 'nintendo', ]

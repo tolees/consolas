@@ -5,7 +5,7 @@ date: 2020-09-21 18:26:58
 image: 'https://m.media-amazon.com/images/I/51y09kWHM-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GLJ53YT-es Mandos para Nintendo Switch REDSTORM Bluetooth Mando...'
 sku: 'B08GLJ53YT-es'
 tags: [ 'nintendo', ]

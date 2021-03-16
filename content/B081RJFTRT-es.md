@@ -5,7 +5,7 @@ date: 2020-09-22 07:29:28
 image: 'https://m.media-amazon.com/images/I/51j+I6L7M1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081RJFTRT-es KLIM Nova + Base de refrigeración para portátiles RGB -...'
 sku: 'B081RJFTRT-es'
 tags: [ 'ps4', ]

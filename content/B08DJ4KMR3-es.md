@@ -5,7 +5,7 @@ date: 2020-09-10 14:03:26
 image: 'https://m.media-amazon.com/images/I/31Di5TMYsZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ4KMR3-es Disco Duro Externo 2 TB Type C USB3.1 para PC Mac Xbox One...'
 sku: 'B08DJ4KMR3-es'
 tags: [ 'xbox', ]

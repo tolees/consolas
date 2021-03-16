@@ -5,7 +5,7 @@ date: 2020-03-15 16:02:35
 image: 'https://m.media-amazon.com/images/I/5107yl7OffL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RD79F7R-es Searchyou True Blue Mini Crackhead Pack con 64G 101 Juegos...'
 sku: 'B07RD79F7R-es'
 tags: [ 'playstation', ]

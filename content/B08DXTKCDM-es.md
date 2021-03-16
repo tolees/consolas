@@ -5,7 +5,7 @@ date: 2020-08-17 04:01:11
 image: 'https://m.media-amazon.com/images/I/41H7Q85D1FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DXTKCDM-es Disco Duro Externo 1tb Portátil 2.5" USB3.0 SATA HDD...'
 sku: 'B08DXTKCDM-es'
 tags: [ 'xbox', ]

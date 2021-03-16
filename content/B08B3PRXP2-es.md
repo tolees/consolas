@@ -5,7 +5,7 @@ date: 2020-07-10 23:31:11
 image: 'https://m.media-amazon.com/images/I/312CqRnji6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B3PRXP2-es Disco Duro Externo 2 TB Disco Duro Externo Type C USB3.1...'
 sku: 'B08B3PRXP2-es'
 tags: [ 'xbox', ]

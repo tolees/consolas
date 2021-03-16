@@ -5,7 +5,7 @@ date: 2020-05-30 14:29:00
 image: 'https://m.media-amazon.com/images/I/415pNrXIz3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXJHRVK-es Mando Inalámbrico Mejorado Link Silueta Nintendo Switch'
 sku: 'B07GXJHRVK-es'
 tags: [ 'nintendo', ]

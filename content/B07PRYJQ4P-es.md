@@ -5,7 +5,7 @@ date: 2020-09-30 09:08:11
 image: 'https://m.media-amazon.com/images/I/51JbDWdP7wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PRYJQ4P-es A.O.T. 2: Final Battle - Nintendo Switch'
 sku: 'B07PRYJQ4P-es'
 tags: [ 'nintendo', ]

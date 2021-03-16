@@ -5,7 +5,7 @@ date: 2020-07-22 17:09:27
 image: 'https://m.media-amazon.com/images/I/419m2OqqcDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BHRD64Y-es Disco Duro Externo 2 TB Disco Duro Externo para PC Mac...'
 sku: 'B08BHRD64Y-es'
 tags: [ 'xbox', ]

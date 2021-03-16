@@ -5,7 +5,7 @@ date: 2020-09-16 07:34:25
 image: 'https://m.media-amazon.com/images/I/51cHfOhr70L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VRWDCN7-es Darksiders Genesis Collectors - Xbox One'
 sku: 'B07VRWDCN7-es'
 tags: [ 'xbox', ]

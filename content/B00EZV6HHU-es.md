@@ -5,7 +5,7 @@ date: 2020-08-30 16:19:45
 image: 'https://m.media-amazon.com/images/I/51c6vE8xj0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EZV6HHU-es KontrolFreek - FPS Freek Vortex PS4'
 sku: 'B00EZV6HHU-es'
 tags: [ 'ps4', ]

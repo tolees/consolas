@@ -5,7 +5,7 @@ date: 2020-06-14 13:41:29
 image: 'https://m.media-amazon.com/images/I/51Bl3gtdEWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082PQRJL3-es Remnant From the Ashes - PS4'
 sku: 'B082PQRJL3-es'
 tags: [ 'ps4', ]

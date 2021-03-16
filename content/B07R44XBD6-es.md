@@ -5,7 +5,7 @@ date: 2020-05-30 11:05:14
 image: 'https://m.media-amazon.com/images/I/41OdSD260vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R44XBD6-es WANPOOL - Soporte para reposacabezas de Coche para Tablets...'
 sku: 'B07R44XBD6-es'
 tags: [ 'nintendo', ]

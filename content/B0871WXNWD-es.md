@@ -5,7 +5,7 @@ date: 2020-08-08 23:14:29
 image: 'https://m.media-amazon.com/images/I/41knqliBOqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0871WXNWD-es Laelr Controladores inalámbricos más recientes para...'
 sku: 'B0871WXNWD-es'
 tags: [ 'nintendo', ]

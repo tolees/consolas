@@ -5,7 +5,7 @@ date: 2020-08-22 09:52:12
 image: 'https://m.media-amazon.com/images/I/41dndfM6dTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D6G7HHM-es Disco Duro Externo 1 TB para PC Mac Xbox MacBook...'
 sku: 'B08D6G7HHM-es'
 tags: [ 'xbox', ]

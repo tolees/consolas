@@ -5,7 +5,7 @@ date: 2020-09-25 16:12:37
 image: 'https://m.media-amazon.com/images/I/416LAUZISTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WWZZBSQ-es Hori - Pokémon Trainer Pack Pikachu Nintendo Switch /...'
 sku: 'B07WWZZBSQ-es'
 tags: [ 'nintendo', ]

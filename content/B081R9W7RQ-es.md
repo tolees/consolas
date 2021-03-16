@@ -5,7 +5,7 @@ date: 2020-08-15 10:11:00
 image: 'https://m.media-amazon.com/images/I/41UXthMqD-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081R9W7RQ-es Beexcellent Cascos PS4 Auriculares con Micrófono Flexible...'
 sku: 'B081R9W7RQ-es'
 tags: [ 'ps4','xbox', ]

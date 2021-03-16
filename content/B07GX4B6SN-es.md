@@ -5,7 +5,7 @@ date: 2020-06-01 06:28:20
 image: 'https://m.media-amazon.com/images/I/51zy0ai2eXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GX4B6SN-es PDP - Funda Slim Travel Case Edición Mario Camo Nintendo...'
 sku: 'B07GX4B6SN-es'
 tags: [ 'nintendo', ]

@@ -5,7 +5,7 @@ date: 2020-10-08 17:12:59
 image: 'https://m.media-amazon.com/images/I/51corhlEikL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JYKRK2C-es Disco Duro Externo 2 TB USB3.0 Ultra Slim Disco Duro...'
 sku: 'B08JYKRK2C-es'
 tags: [ 'xbox', ]

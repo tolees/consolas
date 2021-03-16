@@ -5,7 +5,7 @@ date: 2020-10-04 09:50:56
 image: 'https://m.media-amazon.com/images/I/414vi2D8VdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JSHFW52-es Disco Duro Externo 2tb Type C USB 3.1 Disco Duro Externo...'
 sku: 'B08JSHFW52-es'
 tags: [ 'xbox', ]

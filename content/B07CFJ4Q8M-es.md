@@ -5,7 +5,7 @@ date: 2020-07-03 18:32:16
 image: 'https://m.media-amazon.com/images/I/41xdYSluqtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CFJ4Q8M-es Nintendo Switch Joy-con Grips 3 Piezas HEYSTOP Estuche...'
 sku: 'B07CFJ4Q8M-es'
 tags: [ 'nintendo', ]

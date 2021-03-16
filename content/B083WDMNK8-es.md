@@ -5,7 +5,7 @@ date: 2020-02-22 13:08:28
 image: 'https://m.media-amazon.com/images/I/317A9Kb3OiL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083WDMNK8-es Disco Duro Externo 1 TB Disco Duro Externo Type C USB3.1...'
 sku: 'B083WDMNK8-es'
 tags: [ 'ps4','xbox', ]

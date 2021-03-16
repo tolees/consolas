@@ -5,7 +5,7 @@ date: 2020-01-21 10:20:47
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51HSO2vczvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VSJMVVP-es Citadel : Forged with Fire pour PS4 [Importación francesa]'
 sku: 'B07VSJMVVP-es'
 tags: [ 'ps4', ]

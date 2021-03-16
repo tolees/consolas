@@ -5,7 +5,7 @@ date: 2020-08-20 15:54:49
 image: 'https://m.media-amazon.com/images/I/31ElepsjCHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ44Y1X-es Disco Duro Externo 2tb USB3.1 Disco Duro Externo para Mac...'
 sku: 'B08DJ44Y1X-es'
 tags: [ 'xbox', ]

@@ -5,7 +5,7 @@ date: 2020-05-27 16:35:44
 image: 'https://m.media-amazon.com/images/I/41c4Yy-wMqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PVRMF1M-es Carcasa para Control de Consola Playstation Controlador de...'
 sku: 'B07PVRMF1M-es'
 tags: [ 'playstation','ps4', ]

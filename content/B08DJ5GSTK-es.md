@@ -5,7 +5,7 @@ date: 2020-08-25 22:10:22
 image: 'https://m.media-amazon.com/images/I/31WsZ9gz4KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ5GSTK-es Disco Duro Externo 2tb USB 3.1 Type C Disco Duro Externo...'
 sku: 'B08DJ5GSTK-es'
 tags: [ 'xbox', ]

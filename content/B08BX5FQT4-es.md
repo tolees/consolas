@@ -5,7 +5,7 @@ date: 2020-07-15 15:16:28
 image: 'https://m.media-amazon.com/images/I/515XLfWof7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BX5FQT4-es eXtremeRate Botones Mando PS4 Teclas de Repuesto D-Pad R1...'
 sku: 'B08BX5FQT4-es'
 tags: [ 'playstation','ps4', ]

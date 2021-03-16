@@ -5,7 +5,7 @@ date: 2020-04-28 16:37:51
 image: 'https://m.media-amazon.com/images/I/31mj1peyVML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N31FY7V-es Timorn Botón Aleatorio de reemplazo de Presione el Soporte...'
 sku: 'B01N31FY7V-es'
 tags: [ 'playstation','ps4', ]

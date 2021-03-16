@@ -5,7 +5,7 @@ date: 2020-08-12 18:30:39
 image: 'https://m.media-amazon.com/images/I/41WvaqNdJAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GX7VCM1-es PDP - Starter Kit Edición Mario Remix Nintendo Switch'
 sku: 'B07GX7VCM1-es'
 tags: [ 'nintendo', ]

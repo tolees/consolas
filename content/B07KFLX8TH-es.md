@@ -5,7 +5,7 @@ date: 2020-09-16 17:12:44
 image: 'https://m.media-amazon.com/images/I/61G-mvV4thL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFLX8TH-es Igrome Auriculares Gaming PS4 Cascos Gaming de Mac Estéreo...'
 sku: 'B07KFLX8TH-es'
 tags: [ 'ps4', ]

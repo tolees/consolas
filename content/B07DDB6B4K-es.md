@@ -5,7 +5,7 @@ date: 2020-02-18 12:18:45
 image: 'https://m.media-amazon.com/images/I/41IDDjL+QzL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DDB6B4K-es Wireless Nintendo Switch Mandos Maegoo Nintendo Switch...'
 sku: 'B07DDB6B4K-es'
 tags: [ 'nintendo', ]

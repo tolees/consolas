@@ -5,7 +5,7 @@ date: 2020-08-09 11:13:48
 image: 'https://m.media-amazon.com/images/I/51VLX2EdhuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D6CBBXS-es Ertisa Mando Inalámbrico para PS4 Gamepad Wireless...'
 sku: 'B08D6CBBXS-es'
 tags: [ 'playstation','ps4', ]

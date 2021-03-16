@@ -5,7 +5,7 @@ date: 2020-05-21 16:36:14
 image: 'https://m.media-amazon.com/images/I/41TBs-2MN4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072FB6FGS-es Timorn Soporte Interno de Soporte Medio de la Placa Madre...'
 sku: 'B072FB6FGS-es'
 tags: [ 'playstation','ps4', ]

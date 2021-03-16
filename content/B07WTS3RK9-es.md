@@ -5,7 +5,7 @@ date: 2020-07-01 09:20:39
 image: 'https://m.media-amazon.com/images/I/411hQ7EuLYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WTS3RK9-es Hori - Funda compacta Zelda Breath of the Wild Nintendo...'
 sku: 'B07WTS3RK9-es'
 tags: [ 'nintendo', ]

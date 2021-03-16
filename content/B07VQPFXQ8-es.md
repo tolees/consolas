@@ -5,7 +5,7 @@ date: 2020-05-08 09:05:23
 image: 'https://m.media-amazon.com/images/I/41LcxE7UdOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQPFXQ8-es PowerA - Mando inalámbrico mejorado Spyro Nintendo Switch'
 sku: 'B07VQPFXQ8-es'
 tags: [ 'nintendo', ]

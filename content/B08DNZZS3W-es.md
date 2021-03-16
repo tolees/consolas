@@ -5,7 +5,7 @@ date: 2020-08-14 17:36:44
 image: 'https://m.media-amazon.com/images/I/51FMpydElIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DNZZS3W-es Mandos para Nintendo Switch EasySMX Mando Switch'
 sku: 'B08DNZZS3W-es'
 tags: [ 'nintendo', ]

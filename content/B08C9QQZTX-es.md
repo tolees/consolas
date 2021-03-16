@@ -5,7 +5,7 @@ date: 2020-08-18 15:43:42
 image: 'https://m.media-amazon.com/images/I/518Ol9v+ROL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C9QQZTX-es REDSTORM 2.4G Mando Inalámbrico para Nintendo Switch...'
 sku: 'B08C9QQZTX-es'
 tags: [ 'nintendo', ]

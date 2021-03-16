@@ -5,7 +5,7 @@ date: 2020-10-04 09:59:29
 image: 'https://m.media-amazon.com/images/I/31p129kASvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08K8FZVCV-es eXtremeRate Carcasa para Xbox One Elite Protectora Tacto...'
 sku: 'B08K8FZVCV-es'
 tags: [ 'xbox', ]

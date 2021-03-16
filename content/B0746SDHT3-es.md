@@ -5,7 +5,7 @@ date: 2020-01-22 17:56:06
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51soYxhoRLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0746SDHT3-es Nacon Revolution Pro Controller - Mando alámbrico color...'
 sku: 'B0746SDHT3-es'
 tags: [ 'ps4', ]

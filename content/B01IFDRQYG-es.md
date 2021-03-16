@@ -5,7 +5,7 @@ date: 2020-02-21 21:20:19
 image: 'https://m.media-amazon.com/images/I/51j+9t3cohL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IFDRQYG-es 3pcs Pegatinas Cubierta Adhesiva de Consola Impreso Cielo...'
 sku: 'B01IFDRQYG-es'
 tags: [ 'playstation','ps4', ]

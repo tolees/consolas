@@ -5,7 +5,7 @@ date: 2020-01-04 22:01:35
 image: 'https://images-eu.ssl-images-amazon.com/images/I/512O-Nch%2B5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072KGYZ3L-es Lego Marvel Super Heroes 2 - Nintendo Switch [Importación...'
 sku: 'B072KGYZ3L-es'
 tags: [ 'nintendo', ]

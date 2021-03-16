@@ -5,7 +5,7 @@ date: 2020-10-04 08:16:09
 image: 'https://m.media-amazon.com/images/I/41CQ2UKhYSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FFS52SD-es Tina @ Wireless pro para Nintendo Switch controlador...'
 sku: 'B08FFS52SD-es'
 tags: [ 'nintendo', ]

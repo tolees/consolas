@@ -5,7 +5,7 @@ date: 2020-09-13 12:12:20
 image: 'https://m.media-amazon.com/images/I/41CZP9EUcLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZFYQ7TZ-es FR-TEC - Auriculares Gaming Headset SHIELD Rojo Nintendo...'
 sku: 'B07ZFYQ7TZ-es'
 tags: [ 'nintendo', ]

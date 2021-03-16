@@ -5,7 +5,7 @@ date: 2020-07-15 17:57:09
 image: 'https://m.media-amazon.com/images/I/413za+TTkHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01L8QHXJA-es Import Europe - Strike Pack FPS Dominator Mod PS4'
 sku: 'B01L8QHXJA-es'
 tags: [ 'ps4', ]

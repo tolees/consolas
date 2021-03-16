@@ -5,7 +5,7 @@ date: 2020-05-28 16:50:06
 image: 'https://m.media-amazon.com/images/I/51WlFnhb06L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071DKGCXL-es eXtremeRate Prueba de Polvo Consola PS4 Funda Cubierta...'
 sku: 'B071DKGCXL-es'
 tags: [ 'playstation','ps4', ]

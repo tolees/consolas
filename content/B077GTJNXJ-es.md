@@ -5,7 +5,7 @@ date: 2020-10-10 13:58:13
 image: 'https://m.media-amazon.com/images/I/41b643LA-hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077GTJNXJ-es FR- TEC - Protector Silicona + Grips Camo Navy para mando...'
 sku: 'B077GTJNXJ-es'
 tags: [ 'playstation', ]

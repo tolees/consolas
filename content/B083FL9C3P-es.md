@@ -5,7 +5,7 @@ date: 2020-09-06 07:01:25
 image: 'https://m.media-amazon.com/images/I/51pU6aOc8gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083FL9C3P-es 【Actualizado 2020】 Proyector WiFi BOSNAS Nativo 720P Mini...'
 sku: 'B083FL9C3P-es'
 tags: [ 'ps4', ]

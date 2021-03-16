@@ -5,7 +5,7 @@ date: 2020-05-28 20:19:22
 image: 'https://m.media-amazon.com/images/I/61aYjOyxgPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074MLNWF7-es JEU Console KOEI TECMO Warriors All Stars PS4'
 sku: 'B074MLNWF7-es'
 tags: [ 'ps4', ]

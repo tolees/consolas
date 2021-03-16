@@ -5,7 +5,7 @@ date: 2020-09-03 23:07:08
 image: 'https://m.media-amazon.com/images/I/51JlnOeUE8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07STLTNR5-es Hori - Real Arcade Pro.V Hayabusa Edición Street Fighter...'
 sku: 'B07STLTNR5-es'
 tags: [ 'nintendo', ]

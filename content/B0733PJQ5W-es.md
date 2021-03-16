@@ -5,7 +5,7 @@ date: 2020-04-02 10:03:41
 image: 'https://m.media-amazon.com/images/I/31uQJo7291L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0733PJQ5W-es 4X PS4 analógico controlador de joystick tapa tapa palanca...'
 sku: 'B0733PJQ5W-es'
 tags: [ 'ps4', ]

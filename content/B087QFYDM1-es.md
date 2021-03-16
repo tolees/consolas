@@ -5,7 +5,7 @@ date: 2020-05-28 10:03:25
 image: 'https://m.media-amazon.com/images/I/51Xmi8hcvhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087QFYDM1-es Kloius Soporte de Carga USB Soporte de Carga Doble PS4...'
 sku: 'B087QFYDM1-es'
 tags: [ 'ps4', ]

@@ -5,7 +5,7 @@ date: 2020-04-16 18:28:21
 image: 'https://m.media-amazon.com/images/I/51iPcE9ibnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SST3JPG-es Darksiders Genesis - Xbox One'
 sku: 'B07SST3JPG-es'
 tags: [ 'xbox', ]

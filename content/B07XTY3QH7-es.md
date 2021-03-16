@@ -5,7 +5,7 @@ date: 2020-02-16 07:31:53
 image: 'https://m.media-amazon.com/images/I/517efIkYHSL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XTY3QH7-es Dragon Ball Z: Kakarot Deluxe Edition - PlayStation 4...'
 sku: 'B07XTY3QH7-es'
 tags: [ 'playstation', ]

@@ -5,7 +5,7 @@ date: 2020-08-27 19:14:41
 image: 'https://m.media-amazon.com/images/I/51k-Iy6AYyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZ21ZPK-es Intruders: Hide and Seek PS4 Español [Importación alemana]'
 sku: 'B07MZ21ZPK-es'
 tags: [ 'ps4', ]

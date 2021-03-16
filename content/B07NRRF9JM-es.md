@@ -5,7 +5,7 @@ date: 2020-07-13 00:22:53
 image: 'https://m.media-amazon.com/images/I/41yysryYhLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NRRF9JM-es Webcam HD 1080P Stream Cámara Web con Micrófonos Duales...'
 sku: 'B07NRRF9JM-es'
 tags: [ 'xbox', ]

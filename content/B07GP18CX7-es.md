@@ -5,7 +5,7 @@ date: 2020-01-02 17:27:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41seGd67eHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GP18CX7-es Zecti [Actualizado] Estuche protector para Nintendo Switch...'
 sku: 'B07GP18CX7-es'
 tags: [ 'nintendo', ]

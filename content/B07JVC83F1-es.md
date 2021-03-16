@@ -5,7 +5,7 @@ date: 2020-08-27 19:52:36
 image: 'https://m.media-amazon.com/images/I/41imOf-+s2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JVC83F1-es 4 Gamers - PRO4-70 Negro Auricular Gaming Licenciado PS4'
 sku: 'B07JVC83F1-es'
 tags: [ 'ps4', ]

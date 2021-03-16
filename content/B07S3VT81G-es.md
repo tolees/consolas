@@ -5,7 +5,7 @@ date: 2020-01-14 06:57:37
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51%2BJBpiDhAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S3VT81G-es Vampire The Masquerade Bloodlines 2 - PlayStation 4'
 sku: 'B07S3VT81G-es'
 tags: [ 'playstation', ]

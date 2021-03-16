@@ -5,7 +5,7 @@ date: 2020-08-05 17:02:59
 image: 'https://m.media-amazon.com/images/I/510ldWOv7oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F1RD4TM-es Samoleus Gaming Auriculares con Microfono Cascos Gaming...'
 sku: 'B07F1RD4TM-es'
 tags: [ 'playstation','ps4','xbox', ]

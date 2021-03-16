@@ -5,7 +5,7 @@ date: 2020-02-15 05:03:28
 image: 'https://m.media-amazon.com/images/I/41ZbVgDfw3L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077PXRF46-es Trust Gaming GXT 219 - Hub USB para PS4 Slim Negro'
 sku: 'B077PXRF46-es'
 tags: [ 'ps4', ]

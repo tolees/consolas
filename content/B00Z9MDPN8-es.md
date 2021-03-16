@@ -5,7 +5,7 @@ date: 2020-04-18 01:59:15
 image: 'https://m.media-amazon.com/images/I/51eBNLUowBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Z9MDPN8-es eXtremeRate Torx T8H T6 Destornilladores para Xbox One...'
 sku: 'B00Z9MDPN8-es'
 tags: [ 'xbox', ]

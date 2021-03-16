@@ -5,7 +5,7 @@ date: 2020-04-02 16:28:04
 image: 'https://m.media-amazon.com/images/I/518ZqaK7PoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P7QJJM2-es My time at Portia - PS4 [Importación francesa]'
 sku: 'B07P7QJJM2-es'
 tags: [ 'ps4', ]

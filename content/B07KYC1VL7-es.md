@@ -5,7 +5,7 @@ date: 2020-02-23 18:47:21
 image: 'https://m.media-amazon.com/images/I/41ElFvSb9nL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KYC1VL7-es HyperX HX-HSCSCX-BK CloudX Stinger Core - Cascos de Gaming...'
 sku: 'B07KYC1VL7-es'
 tags: [ 'xbox', ]

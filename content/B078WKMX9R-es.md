@@ -5,7 +5,7 @@ date: 2020-01-29 10:21:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/515-OvQF1LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WKMX9R-es Auriculares Gaming Premium para PS4 PC Xbox One Cascos...'
 sku: 'B078WKMX9R-es'
 tags: [ 'ps4','xbox', ]

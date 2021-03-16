@@ -5,7 +5,7 @@ date: 2020-05-28 18:14:04
 image: 'https://m.media-amazon.com/images/I/318kB+8m4ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GVY1WXF-es Mando Inalámbrico Mejorado Negro Nintendo Switch'
 sku: 'B07GVY1WXF-es'
 tags: [ 'nintendo', ]

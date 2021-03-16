@@ -5,7 +5,7 @@ date: 2020-04-25 13:06:06
 image: 'https://m.media-amazon.com/images/I/41vgYgIFVUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071CLCQW3-es eXtremeRate Carcasa con 2 Anillos para Mando Xbox One...'
 sku: 'B071CLCQW3-es'
 tags: [ 'xbox', ]

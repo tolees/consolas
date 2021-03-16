@@ -5,7 +5,7 @@ date: 2020-02-10 18:19:59
 image: 'https://m.media-amazon.com/images/I/313VydPNboL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016ZWO85E-es Sony - Carcasa Intercambiable Para Consola Playstation 4...'
 sku: 'B016ZWO85E-es'
 tags: [ 'playstation', ]

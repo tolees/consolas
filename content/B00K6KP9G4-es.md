@@ -5,7 +5,7 @@ date: 2020-01-04 20:31:45
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51SVJiM5XyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K6KP9G4-es IBRA 10M Luxury Cable de HDMI de Ultra Alta Velocidad...'
 sku: 'B00K6KP9G4-es'
 tags: [ 'playstation','ps4','xbox', ]

@@ -5,7 +5,7 @@ date: 2020-08-08 14:12:02
 image: 'https://m.media-amazon.com/images/I/41hp0BSPCrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YKYZVMB-es Molyhood Controlador inalámbrico para PS3 Bluetooth Mando...'
 sku: 'B07YKYZVMB-es'
 tags: [ 'playstation', ]

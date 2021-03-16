@@ -5,7 +5,7 @@ date: 2020-04-23 16:33:54
 image: 'https://m.media-amazon.com/images/I/311mEaKfTPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KCL8MBL-es 8x Almohadillas de Pies para Controlador de Playstation 4'
 sku: 'B07KCL8MBL-es'
 tags: [ 'playstation', ]

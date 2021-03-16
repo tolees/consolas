@@ -5,7 +5,7 @@ date: 2020-01-28 21:20:06
 image: 'https://m.media-amazon.com/images/I/41raYUK8cRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GJHKLSI-es Trust Gaming GXT 744 - Funda de Silicona para Mando PS4...'
 sku: 'B01GJHKLSI-es'
 tags: [ 'ps4', ]

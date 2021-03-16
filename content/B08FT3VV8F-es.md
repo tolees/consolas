@@ -5,7 +5,7 @@ date: 2020-08-21 22:15:27
 image: 'https://m.media-amazon.com/images/I/41qNPgMAkiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FT3VV8F-es eXtremeRate Grip para Mando Xbox One S/X Empuñaduras...'
 sku: 'B08FT3VV8F-es'
 tags: [ 'xbox', ]

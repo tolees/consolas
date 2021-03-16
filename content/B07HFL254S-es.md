@@ -5,7 +5,7 @@ date: 2020-02-19 08:31:48
 image: 'https://m.media-amazon.com/images/I/41kNcbSc0GL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HFL254S-es Trust GXT 4374 Ruptor - Auriculares Gaming Unidades...'
 sku: 'B07HFL254S-es'
 tags: [ 'ps4','xbox', ]

@@ -5,7 +5,7 @@ date: 2020-06-15 07:04:31
 image: 'https://m.media-amazon.com/images/I/51NvNjaVaZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SCDWSFC-es Monster Hunter World: Iceborne - Master Edition - PS4'
 sku: 'B07SCDWSFC-es'
 tags: [ 'ps4', ]

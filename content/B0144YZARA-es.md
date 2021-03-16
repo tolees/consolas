@@ -5,7 +5,7 @@ date: 2020-09-26 11:14:48
 image: 'https://m.media-amazon.com/images/I/51u7o6GDUaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0144YZARA-es Ardistel - Stereo Gaming Headset PRO4-40 Color Azul PS4'
 sku: 'B0144YZARA-es'
 tags: [ 'ps4', ]

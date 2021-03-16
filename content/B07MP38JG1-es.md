@@ -5,7 +5,7 @@ date: 2020-07-10 20:10:54
 image: 'https://m.media-amazon.com/images/I/41MQ-cyGdfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MP38JG1-es eXtremeRate Carcasa para Nintendo Switch Funda Completa...'
 sku: 'B07MP38JG1-es'
 tags: [ 'nintendo', ]

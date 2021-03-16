@@ -5,7 +5,7 @@ date: 2020-08-23 22:00:44
 image: 'https://m.media-amazon.com/images/I/41y8-4egn6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D69KYVB-es Disco Duro Externo 2 TB USB3.0 para PC Mac Xbox MacBook...'
 sku: 'B08D69KYVB-es'
 tags: [ 'xbox', ]

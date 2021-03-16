@@ -5,7 +5,7 @@ date: 2020-05-07 19:45:49
 image: 'https://m.media-amazon.com/images/I/41+MNU1WoML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071K5QS1J-es Timorn Replacement Full Screws Set Reparación de Piezas...'
 sku: 'B071K5QS1J-es'
 tags: [ 'nintendo', ]

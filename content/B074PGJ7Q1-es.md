@@ -5,7 +5,7 @@ date: 2020-02-29 14:49:21
 image: 'https://m.media-amazon.com/images/I/51fINICgxDL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074PGJ7Q1-es Pdp - Auricular Stereo Afterglow AG6 Con Cable Xbox One'
 sku: 'B074PGJ7Q1-es'
 tags: [ 'xbox', ]

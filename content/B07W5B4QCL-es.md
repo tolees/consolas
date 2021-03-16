@@ -5,7 +5,7 @@ date: 2020-07-05 13:25:25
 image: 'https://m.media-amazon.com/images/I/31d0b+jiwgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5B4QCL-es Hori - Funda Rígida Negra Nintendo Switch Lite'
 sku: 'B07W5B4QCL-es'
 tags: [ 'nintendo', ]

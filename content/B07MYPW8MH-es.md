@@ -5,7 +5,7 @@ date: 2020-07-08 07:00:14
 image: 'https://m.media-amazon.com/images/I/4184aw9LCML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MYPW8MH-es ALWUP Cascos PS4 Gaming Auriculares para Juegos PS4 Xbox...'
 sku: 'B07MYPW8MH-es'
 tags: [ 'nintendo','playstation','ps4','xbox', ]

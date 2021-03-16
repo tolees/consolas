@@ -5,7 +5,7 @@ date: 2020-08-08 08:00:48
 image: 'https://m.media-amazon.com/images/I/41ppLyAC7vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TS1WJ24-es ZWOOS Adaptador HDMI a VGA 1080p Convertidor de HDMI...'
 sku: 'B07TS1WJ24-es'
 tags: [ 'xbox', ]

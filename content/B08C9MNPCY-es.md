@@ -5,7 +5,7 @@ date: 2020-08-24 04:00:28
 image: 'https://m.media-amazon.com/images/I/41C-HgbrMwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C9MNPCY-es ZIYOULANG - Ratón de juegos con cable 69G Honeycomb Shell...'
 sku: 'B08C9MNPCY-es'
 tags: [ 'ps4','xbox', ]

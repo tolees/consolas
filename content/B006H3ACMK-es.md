@@ -5,7 +5,7 @@ date: 2020-05-29 12:45:22
 image: 'https://m.media-amazon.com/images/I/31Uvs2MnD7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006H3ACMK-es Slabo 2 x Protector de Pantalla Compatible con Nintendo DS...'
 sku: 'B006H3ACMK-es'
 tags: [ 'nintendo', ]

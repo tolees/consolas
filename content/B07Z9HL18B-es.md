@@ -5,7 +5,7 @@ date: 2020-02-09 11:44:29
 image: 'https://m.media-amazon.com/images/I/51BnIWkGK5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z9HL18B-es Meridiem Games - Meridiem Games - One Piece Arcade Mini...'
 sku: 'B07Z9HL18B-es'
 tags: [ 'nintendo', ]

@@ -5,7 +5,7 @@ date: 2020-04-15 08:43:10
 image: 'https://m.media-amazon.com/images/I/41I16b9395L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XF62L8X-es Proyector WiMiUS 6200 Lúmenes Proyector Full HD 1920x1080P...'
 sku: 'B07XF62L8X-es'
 tags: [ 'ps4', ]

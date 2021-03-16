@@ -5,7 +5,7 @@ date: 2020-07-21 04:56:01
 image: 'https://m.media-amazon.com/images/I/51K4Anvw2+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KIMBVMQ-es Fallout 4 - Xbox One [Importación inglesa]'
 sku: 'B00KIMBVMQ-es'
 tags: [ 'xbox', ]

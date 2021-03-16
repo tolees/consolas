@@ -5,7 +5,7 @@ date: 2020-06-20 09:30:13
 image: 'https://m.media-amazon.com/images/I/5151mUnjfUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079S9QNV1-es LA Noire PS4 - PlayStation 4 [Importación inglesa]'
 sku: 'B079S9QNV1-es'
 tags: [ 'playstation','ps4', ]

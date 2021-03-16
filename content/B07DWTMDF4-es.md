@@ -5,7 +5,7 @@ date: 2020-05-15 20:20:00
 image: 'https://m.media-amazon.com/images/I/51MXJAYkhWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DWTMDF4-es eXtremeRate 30 Piezas/Set Adhesivo para la Barra de luz...'
 sku: 'B07DWTMDF4-es'
 tags: [ 'playstation','ps4', ]

@@ -5,7 +5,7 @@ date: 2020-04-16 00:24:48
 image: 'https://m.media-amazon.com/images/I/414Bl1TqYGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z3F25ZS-es Proyector YABER 6200 Lúmenes Proyector Full HD 1920x1080P...'
 sku: 'B07Z3F25ZS-es'
 tags: [ 'ps4', ]

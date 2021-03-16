@@ -5,7 +5,7 @@ date: 2020-10-12 18:43:18
 image: 'https://m.media-amazon.com/images/I/41W66CzE6xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089KQKKXM-es Subsonic - Auricular para juegos para PS4 / Xbox one/ PC /...'
 sku: 'B089KQKKXM-es'
 tags: [ 'ps4','xbox', ]

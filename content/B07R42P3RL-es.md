@@ -5,7 +5,7 @@ date: 2020-08-17 17:15:27
 image: 'https://m.media-amazon.com/images/I/31DvzRkh0oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R42P3RL-es THE G-LAB Kult RADIUM - 4800 DPI Ratón Gaming con Sensor...'
 sku: 'B07R42P3RL-es'
 tags: [ 'ps4','xbox', ]

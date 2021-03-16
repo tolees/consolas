@@ -5,7 +5,7 @@ date: 2020-05-18 19:23:47
 image: 'https://m.media-amazon.com/images/I/31ybxnFNNML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07695WBMX-es AUKEY Quick Charge 3.0 Bateria Externa 26500mAh Cargador...'
 sku: 'B07695WBMX-es'
 tags: [ 'nintendo', ]
