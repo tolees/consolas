@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nacon - Silla gaming PS4 official - 350E con un 15.50 % de descuento'
-date: 2021-03-07 08:49:44
+date: 2021-03-16 10:32:30
 image: 'https://m.media-amazon.com/images/I/41A40Jc0WVL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [Nacon - Silla gaming PS4 official - 350ESS](https://www.a
 
 🔎:
 
-- Peso máximo del usuario: 110 kg
 - 5 ruedas
 - Reposabrazos confortables
-- Diseño ergonómico, altura regulable y reposabrazos
 - Silla de juego desarrollada específicamente para acoger todo tipo de morfología y ofrecer confort adaptada a las sesiones de juego
+- Diseño ergonómico, altura regulable y reposabrazos
+- Peso máximo del usuario: 110 kg
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LJNKFSW/?tag=tolees-21)
