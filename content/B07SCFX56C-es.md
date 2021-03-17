@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SCFX56C-es YU-GI-OH! LEGACY OF THE DUELIST: LINK EVOLUTION - -...'
 sku: 'B07SCFX56C-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','nintendo', ]
 actualPrice: 31.65 EUR
 currency: EUR
 price: 31.65

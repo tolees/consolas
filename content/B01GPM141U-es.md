@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GPM141U-es eXtremeRate Torx T8H T6 Destornillador Original para Xbox...'
 sku: 'B01GPM141U-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','xbox', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','xbox', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

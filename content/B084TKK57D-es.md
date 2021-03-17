@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084TKK57D-es Mortal Kombat 11 - Edición Estándar Incluye DLC Joker PS4'
 sku: 'B084TKK57D-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','ps4', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','ps4', ]
 actualPrice: 29.92 EUR
 currency: EUR
 price: 29.92

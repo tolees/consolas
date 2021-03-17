@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QYTWX3G-es KLIM™ Voice V2 + Micrófono USB de Escritorio + Nuevo 2020...'
 sku: 'B07QYTWX3G-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','ps4', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','ps4', ]
 actualPrice: 19.43 EUR
 currency: EUR
 price: 19.43

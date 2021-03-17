@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01A8L6O1E-es Hori - Real Arcade Pro Soulcalibur VI Xbox One PC'
 sku: 'B01A8L6O1E-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','xbox', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','xbox', ]
 actualPrice: 85.5 EUR
 currency: EUR
 price: 85.5

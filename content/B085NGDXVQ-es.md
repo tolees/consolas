@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085NGDXVQ-es RedThunder Teclado mecánico para juegos con una sola mano...'
 sku: 'B085NGDXVQ-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','ps4','xbox', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','ps4','xbox', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

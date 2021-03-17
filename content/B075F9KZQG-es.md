@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075F9KZQG-es PowerA - Cargador de coche Question Block Nintendo Switch'
 sku: 'B075F9KZQG-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','nintendo', ]
 actualPrice: 11.31 EUR
 currency: EUR
 price: 11.31

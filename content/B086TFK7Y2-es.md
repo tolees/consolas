@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086TFK7Y2-es Saints Row The Third Remastered - PlayStation 4'
 sku: 'B086TFK7Y2-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','playstation', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','playstation', ]
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

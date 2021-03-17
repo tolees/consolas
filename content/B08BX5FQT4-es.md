@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BX5FQT4-es eXtremeRate Botones Mando PS4 Teclas de Repuesto D-Pad R1...'
 sku: 'B08BX5FQT4-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','playstation','ps4', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','playstation','ps4', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

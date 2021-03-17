@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075MCDFMP-es Cewaal 10Pcs Joystick Cap Case Grips Analog Cubierta del...'
 sku: 'B075MCDFMP-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','ps4','xbox', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','ps4','xbox', ]
 actualPrice: 3.19 EUR
 currency: EUR
 price: 3.19

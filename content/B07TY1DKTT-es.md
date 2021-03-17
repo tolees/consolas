@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TY1DKTT-es eFootball PES 2020 - Xbox One [Importación inglesa]'
 sku: 'B07TY1DKTT-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','xbox', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','xbox', ]
 actualPrice: 15.53 EUR
 currency: EUR
 price: 15.53

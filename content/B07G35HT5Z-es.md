@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G35HT5Z-es RCA a HDMI convertidor Wavlink 1080p 3RCA a HDMI CVBS AV...'
 sku: 'B07G35HT5Z-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','ps4','xbox', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','ps4','xbox', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

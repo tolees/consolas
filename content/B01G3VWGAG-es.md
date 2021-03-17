@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G3VWGAG-es Lego Dimensions Starter Pack - Xbox 360 [Importación...'
 sku: 'B01G3VWGAG-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','xbox', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','xbox', ]
 actualPrice: 28.45 EUR
 currency: EUR
 price: 28.45

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HT6NJK4-es Cargador Mando PS4 KNONEW PS4 Estación de carga USB Base...'
 sku: 'B07HT6NJK4-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','playstation','ps4', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','playstation','ps4', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088B5PVC2-es tomtoc Funda Ultra Delgada para Nintendo Switch Patente...'
 sku: 'B088B5PVC2-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','nintendo', ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

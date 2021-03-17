@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006H3ACMK-es Slabo 2 x Protector de Pantalla Compatible con Nintendo DS...'
 sku: 'B006H3ACMK-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','nintendo', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

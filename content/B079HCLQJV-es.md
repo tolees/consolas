@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079HCLQJV-es Indeca - Auriculares casco PS4 PC Xbox Multiplataforma...'
 sku: 'B079HCLQJV-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','playstation','ps4','xbox', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','playstation','ps4','xbox', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

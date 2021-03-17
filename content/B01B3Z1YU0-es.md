@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B3Z1YU0-es XtremeRate 4 Pares de Tapas Joystick Comptible con PS4...'
 sku: 'B01B3Z1YU0-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','ps4', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','ps4', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

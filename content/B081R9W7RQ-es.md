@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081R9W7RQ-es Beexcellent Cascos PS4 Auriculares con Micrófono Flexible...'
 sku: 'B081R9W7RQ-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','ps4','xbox', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','ps4','xbox', ]
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

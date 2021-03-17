@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081RJFTRT-es KLIM Nova + Base de refrigeración para portátiles RGB -...'
 sku: 'B081RJFTRT-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','ps4', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','ps4', ]
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

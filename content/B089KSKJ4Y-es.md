@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089KSKJ4Y-es Disco duro externo 1 TB 2 TB de disco duro ultradelgado...'
 sku: 'B089KSKJ4Y-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','xbox', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','xbox', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

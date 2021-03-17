@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071K5QS1J-es Timorn Replacement Full Screws Set Reparación de Piezas...'
 sku: 'B071K5QS1J-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','nintendo', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99
