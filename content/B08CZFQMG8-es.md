@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CZFQMG8-es Disco Duro Externo 1tb Portátil 2.5" USB3.0 SATA HDD...'
 sku: 'B08CZFQMG8-es'
-tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','ps4','xbox', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Mac','Accesorios para PlayStation 4','Auriculares gaming con micrófono para PlayStation 4','Auriculares gaming para PC','Electrónica','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos y Accesorios para Mac','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','ps4','xbox', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

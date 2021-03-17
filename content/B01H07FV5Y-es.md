@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H07FV5Y-es BenQ ZOWIE RL2755 - Monitor de 27" para consola e-Sports...'
 sku: 'B01H07FV5Y-es'
-tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','playstation','ps4', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Mac','Accesorios para PlayStation 4','Auriculares gaming con micrófono para PlayStation 4','Auriculares gaming para PC','Electrónica','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos y Accesorios para Mac','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','playstation','ps4', ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

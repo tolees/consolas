@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071YVJ54C-es FR·TEC - Pack 3 Led Stickers para el mando Dualshock de...'
 sku: 'B071YVJ54C-es'
-tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','playstation', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Mac','Accesorios para PlayStation 4','Auriculares gaming con micrófono para PlayStation 4','Auriculares gaming para PC','Electrónica','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos y Accesorios para Mac','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','playstation', ]
 actualPrice: 1.35 EUR
 currency: EUR
 price: 1.35

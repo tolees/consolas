@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CXLJ5LX-es Hattahh Disco Duro Externo Portátil 2TB Type C USB3.1...'
 sku: 'B08CXLJ5LX-es'
-tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','xbox', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Mac','Accesorios para PlayStation 4','Auriculares gaming con micrófono para PlayStation 4','Auriculares gaming para PC','Electrónica','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos y Accesorios para Mac','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','xbox', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

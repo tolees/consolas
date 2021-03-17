@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'SteelSeries Arctis 5 Auriculares De Jueg al 36.16 % de rebaja'
-date: 2021-03-11 19:51:06
+date: 2021-03-17 15:23:41
 image: 'https://m.media-amazon.com/images/I/41FEX5t40LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GG2VNW9-es SteelSeries Arctis 5 Auriculares De Juego Iluminados Por...'
 sku: 'B07GG2VNW9-es'
-tags: [ 'playstation', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Mac','Accesorios para PlayStation 4','Auriculares gaming con micrófono para PlayStation 4','Auriculares gaming para PC','Electrónica','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos y Accesorios para Mac','Juegos y Accesorios para PC','Videojuegos','playstation','steelseries', ]
 actualPrice: 82.99 EUR
 currency: EUR
 price: 82.99
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SteelSeries'
 buyurl: 'https://www.amazon.es/dp/B07GG2VNW9/?tag=tolees-21'
 descuento: '36.16'
-average: '96.9252631578946'
+average: '94.5017391304347'
 ---
 
 Tienes [SteelSeries Arctis 5 Auriculares De Juego  Iluminados Por Rgb  Dts Headphone:X V2.0 Surround Para PC  Playstation 5 Y PlayStation 4 - Negro](https://www.amazon.es/dp/B07GG2VNW9/?tag=tolees-21) con precio final de  82.99 EUR (original: 129.99 EUR) (36.16 %  de rebaja) aqui!

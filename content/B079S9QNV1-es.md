@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079S9QNV1-es LA Noire PS4 - PlayStation 4 [Importación inglesa]'
 sku: 'B079S9QNV1-es'
-tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','playstation','ps4', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Mac','Accesorios para PlayStation 4','Auriculares gaming con micrófono para PlayStation 4','Auriculares gaming para PC','Electrónica','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos y Accesorios para Mac','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','playstation','ps4', ]
 actualPrice: 19.13 EUR
 currency: EUR
 price: 19.13
