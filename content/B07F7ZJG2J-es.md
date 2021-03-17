@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F7ZJG2J-es [ Versión Nuevo ] TeckNet 2.0M Cable HDMI 2.0 4K Ultra HD...'
 sku: 'B07F7ZJG2J-es'
-tags: [ 'playstation','ps4','xbox', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','playstation','ps4','xbox', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

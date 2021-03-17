@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N31FY7V-es Timorn Botón Aleatorio de reemplazo de Presione el Soporte...'
 sku: 'B01N31FY7V-es'
-tags: [ 'playstation','ps4', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','playstation','ps4', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

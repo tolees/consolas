@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RD79F7R-es Searchyou True Blue Mini Crackhead Pack con 64G 101 Juegos...'
 sku: 'B07RD79F7R-es'
-tags: [ 'playstation', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','playstation', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

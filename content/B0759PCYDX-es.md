@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0759PCYDX-es Biomutant - PS4'
 sku: 'B0759PCYDX-es'
-tags: [ 'ps4', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','ps4', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

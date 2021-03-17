@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMVG2JV-es Thrustmaster - T.Flight Hotas One Ace Combat 7 Joystick...'
 sku: 'B07JMVG2JV-es'
-tags: [ 'xbox', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','xbox', ]
 actualPrice: 63.63 EUR
 currency: EUR
 price: 63.63

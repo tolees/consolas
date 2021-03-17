@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KDPDLRZ-es Baoblaze Reparación de Motor de Vibración a Izquierda 3D...'
 sku: 'B07KDPDLRZ-es'
-tags: [ 'playstation','ps4', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','playstation','ps4', ]
 actualPrice: 3.08 EUR
 currency: EUR
 price: 3.08

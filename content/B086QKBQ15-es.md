@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086QKBQ15-es Cocoda Cascos Gaming para PS4 Nintendo Switch Xbox One...'
 sku: 'B086QKBQ15-es'
-tags: [ 'nintendo','ps4','xbox', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','nintendo','ps4','xbox', ]
 actualPrice: 25.48 EUR
 currency: EUR
 price: 25.48

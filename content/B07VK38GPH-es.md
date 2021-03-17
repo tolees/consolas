@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VK38GPH-es Hixon Batería de Xbox One y Cargador 2 Pilas 2500mAh...'
 sku: 'B07VK38GPH-es'
-tags: [ 'xbox', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','xbox', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

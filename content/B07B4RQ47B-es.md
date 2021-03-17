@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B4RQ47B-es AUKEY Powerbank USB C 10000mAh con Power Delivery de 18 W...'
 sku: 'B07B4RQ47B-es'
-tags: [ 'nintendo', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','nintendo', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

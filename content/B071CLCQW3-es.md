@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071CLCQW3-es eXtremeRate Carcasa con 2 Anillos para Mando Xbox One...'
 sku: 'B071CLCQW3-es'
-tags: [ 'xbox', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','xbox', ]
 actualPrice: 18.02 EUR
 currency: EUR
 price: 18.02

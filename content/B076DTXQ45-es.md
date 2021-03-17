@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076DTXQ45-es Sharplace 2pcs Analogico Silicona Cap Joystick Thumb Stick...'
 sku: 'B076DTXQ45-es'
-tags: [ 'xbox', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','xbox', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

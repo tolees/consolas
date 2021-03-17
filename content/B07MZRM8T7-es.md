@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZRM8T7-es Kaisi Torx destornillador T3 T4 T5 T6 T8 T9 T10 T15...'
 sku: 'B07MZRM8T7-es'
-tags: [ 'ps4','xbox', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','ps4','xbox', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

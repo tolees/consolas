@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000OZ52YU-es SEGA Mario & Sonic at the Olympic Games Wii - Juego Wii'
 sku: 'B000OZ52YU-es'
-tags: [ 'sega', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','sega', ]
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

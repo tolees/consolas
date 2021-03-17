@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CYBDF0Y-es AUKEY Cable USB C a USB A 3.0 1m x 3 Nylón Cable USB Tipo...'
 sku: 'B01CYBDF0Y-es'
-tags: [ 'nintendo', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','nintendo', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

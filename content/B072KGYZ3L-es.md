@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072KGYZ3L-es Lego Marvel Super Heroes 2 - Nintendo Switch [Importación...'
 sku: 'B072KGYZ3L-es'
-tags: [ 'nintendo', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','nintendo', ]
 actualPrice: 43.12 EUR
 currency: EUR
 price: 43.12

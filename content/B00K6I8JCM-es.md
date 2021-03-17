@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K6I8JCM-es Nintendo Selects New Super Mario Bros.Wii Juego'
 sku: 'B00K6I8JCM-es'
-tags: [ 'nintendo', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','nintendo', ]
 actualPrice: 41.39 EUR
 currency: EUR
 price: 41.39

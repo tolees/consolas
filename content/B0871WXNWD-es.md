@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0871WXNWD-es Laelr Controladores inalámbricos más recientes para...'
 sku: 'B0871WXNWD-es'
-tags: [ 'nintendo', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','nintendo', ]
 actualPrice: 40.87 EUR
 currency: EUR
 price: 40.87

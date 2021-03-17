@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GDH27BD-es BlueFire Auriculares Gaming PS4 3.5mm Cancelación De Ruido...'
 sku: 'B07GDH27BD-es'
-tags: [ 'ps4','xbox', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','ps4','xbox', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081JZY1CW-es Slabo Lámina de Vidrio Premium para Nintendo Switch Lite...'
 sku: 'B081JZY1CW-es'
-tags: [ 'nintendo', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','nintendo', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

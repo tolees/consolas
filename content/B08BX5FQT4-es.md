@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BX5FQT4-es eXtremeRate Botones Mando PS4 Teclas de Repuesto D-Pad R1...'
 sku: 'B08BX5FQT4-es'
-tags: [ 'playstation','ps4', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','playstation','ps4', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

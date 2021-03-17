@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K63R1HW-es Baoblaze Botón de Activación LB RB con Kit de Placa...'
 sku: 'B07K63R1HW-es'
-tags: [ 'xbox', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','xbox', ]
 actualPrice: 4.01 EUR
 currency: EUR
 price: 4.01

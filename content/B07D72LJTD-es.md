@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D72LJTD-es Cargador para mando de PS4 estación de carga USB para Sony...'
 sku: 'B07D72LJTD-es'
-tags: [ 'playstation','ps4', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','playstation','ps4', ]
 actualPrice: 19.8 EUR
 currency: EUR
 price: 19.8

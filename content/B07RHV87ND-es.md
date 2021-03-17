@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHV87ND-es Leisure Suit: Larry - Wet Dreams Don t Dry - PS4'
 sku: 'B07RHV87ND-es'
-tags: [ 'ps4', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','ps4', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

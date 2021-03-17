@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088WVQL6L-es Suscripcion Xbox Game Pass 3 Meses Ultimate + 1 Mes Gratis...'
 sku: 'B088WVQL6L-es'
-tags: [ 'xbox', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','xbox', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

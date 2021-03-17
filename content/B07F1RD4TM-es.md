@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F1RD4TM-es Samoleus Gaming Auriculares con Microfono Cascos Gaming...'
 sku: 'B07F1RD4TM-es'
-tags: [ 'playstation','ps4','xbox', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','playstation','ps4','xbox', ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

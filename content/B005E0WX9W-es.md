@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005E0WX9W-es Ivuna Flex Plus 0 2M Cable de extensi?n HDMI con Giro...'
 sku: 'B005E0WX9W-es'
-tags: [ 'ps4','xbox', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','ps4','xbox', ]
 actualPrice: 8.01 EUR
 currency: EUR
 price: 8.01

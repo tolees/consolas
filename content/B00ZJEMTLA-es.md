@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZJEMTLA-es PDP - Mono Auricular Chat Afterglow LVL 1 Playstation 4'
 sku: 'B00ZJEMTLA-es'
-tags: [ 'playstation', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','playstation', ]
 actualPrice: 7.82 EUR
 currency: EUR
 price: 7.82

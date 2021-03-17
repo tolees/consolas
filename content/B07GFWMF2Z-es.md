@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GFWMF2Z-es Steelseries Arctis 5 Auriculares De Juego Iluminados por...'
 sku: 'B07GFWMF2Z-es'
-tags: [ 'playstation', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','playstation', ]
 actualPrice: 91.99 EUR
 currency: EUR
 price: 91.99

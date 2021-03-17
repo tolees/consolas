@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D8CDVRR-es Ocobudbxw Cámara con Sensor de Movimiento Ocular micrófono...'
 sku: 'B08D8CDVRR-es'
-tags: [ 'playstation', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','playstation', ]
 actualPrice: 18.11 EUR
 currency: EUR
 price: 18.11

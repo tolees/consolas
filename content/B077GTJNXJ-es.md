@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077GTJNXJ-es FR- TEC - Protector Silicona + Grips Camo Navy para mando...'
 sku: 'B077GTJNXJ-es'
-tags: [ 'playstation', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','playstation', ]
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

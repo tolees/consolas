@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MU7G3FZ-es eXtremeRate Pegatina Antideslizante con Textura de Goma...'
 sku: 'B01MU7G3FZ-es'
-tags: [ 'playstation','ps4', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','playstation','ps4', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

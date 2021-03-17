@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016ZWO85E-es Sony - Carcasa Intercambiable Para Consola Playstation 4...'
 sku: 'B016ZWO85E-es'
-tags: [ 'playstation', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','playstation', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

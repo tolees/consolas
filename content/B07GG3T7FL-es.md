@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GG3T7FL-es Steelseries Arctis 3 Auriculares De Juego Multiplataforma...'
 sku: 'B07GG3T7FL-es'
-tags: [ 'nintendo','playstation','xbox', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','nintendo','playstation','xbox', ]
 actualPrice: 79.49 EUR
 currency: EUR
 price: 79.49

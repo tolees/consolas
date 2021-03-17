@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071CMTM2V-es Razer Kraken 7.1 V2: sonido envolvente 7.1 - Micrófono...'
 sku: 'B071CMTM2V-es'
-tags: [ 'ps4', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','ps4', ]
 actualPrice: 91.11 EUR
 currency: EUR
 price: 91.11

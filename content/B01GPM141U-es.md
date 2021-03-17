@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GPM141U-es eXtremeRate Torx T8H T6 Destornillador Original para Xbox...'
 sku: 'B01GPM141U-es'
-tags: [ 'xbox', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','xbox', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

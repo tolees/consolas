@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K4Q1BB4-es P Prettyia Botón de Activación LB RB paa Parte de...'
 sku: 'B07K4Q1BB4-es'
-tags: [ 'xbox', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','xbox', ]
 actualPrice: 9.33 EUR
 currency: EUR
 price: 9.33
