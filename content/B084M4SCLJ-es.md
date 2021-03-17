@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084M4SCLJ-es Disco Duro Externo 1 TB Disco Duro Externo USB3.1 Type C...'
 sku: 'B084M4SCLJ-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','ps4','xbox', ]
+tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','ps4','xbox', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

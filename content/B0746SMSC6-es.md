@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0746SMSC6-es Nacon - Mando Compacto para PS4 color Rojo'
 sku: 'B0746SMSC6-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','ps4', ]
+tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','ps4', ]
 actualPrice: 28.92 EUR
 currency: EUR
 price: 28.92

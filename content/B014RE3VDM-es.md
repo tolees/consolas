@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014RE3VDM-es Nintendo - Remote Plus - Edición TOAD Nintendo Wii U'
 sku: 'B014RE3VDM-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
 actualPrice: 42.44 EUR
 currency: EUR
 price: 42.44

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DP1P89P-es Controller para Nintendo Switch EasySMX Mandos Nintendo...'
 sku: 'B08DP1P89P-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
 actualPrice: 35.61 EUR
 currency: EUR
 price: 35.61

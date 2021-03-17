@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O9QC5PY-es Nintendo - Figura Amiibo Smash Zelda'
 sku: 'B00O9QC5PY-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

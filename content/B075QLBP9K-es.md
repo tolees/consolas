@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075QLBP9K-es Cable Guy Sonic The Hedgehog de Sega Soporte de sujeción o...'
 sku: 'B075QLBP9K-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','sega', ]
+tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','sega', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071G6ZPRK-es LucidSound - LS25 eSports Gaming Headset PS4'
 sku: 'B071G6ZPRK-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','ps4', ]
+tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','ps4', ]
 actualPrice: 64.04 EUR
 currency: EUR
 price: 64.04

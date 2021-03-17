@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019MMN94A-es Hori - Fighting Stick Mini PS4 PS3 PC'
 sku: 'B019MMN94A-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','ps4', ]
+tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','ps4', ]
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

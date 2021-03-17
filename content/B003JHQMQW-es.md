@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003JHQMQW-es Lioncast 2x Micrófonos USB universal para ordenador y...'
 sku: 'B003JHQMQW-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','ps4','xbox', ]
+tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','ps4','xbox', ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

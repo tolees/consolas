@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IFDRJ7K-es 3x Pegatina Cubierta Adhesiva para Sony PlayStation 4 PS4...'
 sku: 'B01IFDRJ7K-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','playstation','ps4', ]
+tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','playstation','ps4', ]
 actualPrice: 6.3 EUR
 currency: EUR
 price: 6.3

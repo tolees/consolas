@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0166YAUM6-es Imp - Dragon Ball Z Grips PS4'
 sku: 'B0166YAUM6-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','ps4', ]
+tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','ps4', ]
 actualPrice: 2.04 EUR
 currency: EUR
 price: 2.04

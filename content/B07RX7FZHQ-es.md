@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RX7FZHQ-es FIFA 20 - PlayStation 4 [Importación inglesa]'
 sku: 'B07RX7FZHQ-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','playstation', ]
+tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','playstation', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99
