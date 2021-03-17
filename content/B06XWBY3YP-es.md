@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XWBY3YP-es SEGA Genesis - Consola Retro Sega Mega Drive 81 Juegos'
 sku: 'B06XWBY3YP-es'
-tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','sega', ]
+tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','sega', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073W79FCP-es ELEGIANT Auriculares Gaming PC Cascos Gaming Headset con...'
 sku: 'B073W79FCP-es'
-tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','ps4','xbox', ]
+tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','ps4','xbox', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

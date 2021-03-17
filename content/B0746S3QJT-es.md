@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0746S3QJT-es Nacon - Mando Compacto para PS4 color Rojo Cristal'
 sku: 'B0746S3QJT-es'
-tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','ps4', ]
+tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','ps4', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

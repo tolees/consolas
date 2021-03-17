@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074PGJ7Q1-es Pdp - Auricular Stereo Afterglow AG6 Con Cable Xbox One'
 sku: 'B074PGJ7Q1-es'
-tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','xbox', ]
+tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','xbox', ]
 actualPrice: 27.71 EUR
 currency: EUR
 price: 27.71

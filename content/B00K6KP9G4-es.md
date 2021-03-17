@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K6KP9G4-es IBRA 10M Luxury Cable de HDMI de Ultra Alta Velocidad...'
 sku: 'B00K6KP9G4-es'
-tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','playstation','ps4','xbox', ]
+tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','playstation','ps4','xbox', ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

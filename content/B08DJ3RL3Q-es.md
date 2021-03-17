@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DJ3RL3Q-es Disco Duro Externo 2tb USB 3.1 para Mac PC MacBook...'
 sku: 'B08DJ3RL3Q-es'
-tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','xbox', ]
+tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','xbox', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

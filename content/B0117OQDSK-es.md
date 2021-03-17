@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0117OQDSK-es Nintendo - Figura Goomba Con Coin 10 cm'
 sku: 'B0117OQDSK-es'
-tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','nintendo', ]
+tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

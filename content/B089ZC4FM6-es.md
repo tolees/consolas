@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089ZC4FM6-es Railway Empire Complete Collection PS4'
 sku: 'B089ZC4FM6-es'
-tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','ps4', ]
+tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','ps4', ]
 actualPrice: 31.48 EUR
 currency: EUR
 price: 31.48

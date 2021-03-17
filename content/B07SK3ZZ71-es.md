@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SK3ZZ71-es Corsair HS35 - Auriculares Stereo para Juegos Membrana...'
 sku: 'B07SK3ZZ71-es'
-tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','nintendo','ps4','xbox', ]
+tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','nintendo','ps4','xbox', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

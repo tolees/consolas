@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T4J59MP-es Mando para Nintendo Switch RegeMoudal para Nintendo Switch...'
 sku: 'B07T4J59MP-es'
-tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','nintendo', ]
+tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

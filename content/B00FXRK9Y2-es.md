@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FXRK9Y2-es Sony Playstation 3 - Lámina protectora adhesiva para mando...'
 sku: 'B00FXRK9Y2-es'
-tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','playstation', ]
+tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','playstation', ]
 actualPrice: 12.02 EUR
 currency: EUR
 price: 12.02

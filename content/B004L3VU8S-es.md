@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004L3VU8S-es Lioncast Arcade Fightstick Palanca de Mando Controlador...'
 sku: 'B004L3VU8S-es'
-tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','playstation', ]
+tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','playstation', ]
 actualPrice: 31.95 EUR
 currency: EUR
 price: 31.95

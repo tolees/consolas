@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IFDRJ7A-es 3x Pegatina Cubierta Adhesiva Impreso Estrella Rosada...'
 sku: 'B01IFDRJ7A-es'
-tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','playstation','ps4', ]
+tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','playstation','ps4', ]
 actualPrice: 7.16 EUR
 currency: EUR
 price: 7.16

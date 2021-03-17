@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GX4YZZD-es PDP - Funda Slim Travel Case Edición Poke Ball Nintendo...'
 sku: 'B07GX4YZZD-es'
-tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','nintendo', ]
+tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
 actualPrice: 12.39 EUR
 currency: EUR
 price: 12.39

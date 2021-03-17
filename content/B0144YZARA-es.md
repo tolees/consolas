@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0144YZARA-es Ardistel - Stereo Gaming Headset PRO4-40 Color Azul PS4'
 sku: 'B0144YZARA-es'
-tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','ps4', ]
+tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','ps4', ]
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

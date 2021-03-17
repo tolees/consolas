@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G84VZ7T-es Razer Thresher - Auriculares inalámbricos para PS4'
 sku: 'B07G84VZ7T-es'
-tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','ps4', ]
+tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','ps4', ]
 actualPrice: 109.8 EUR
 currency: EUR
 price: 109.8

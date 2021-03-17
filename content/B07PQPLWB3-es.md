@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PQPLWB3-es 4K Cable HDMI 2 metros 2.0 Cable HDMI Ultra HD soporta 4K...'
 sku: 'B07PQPLWB3-es'
-tags: [ 'Accesorios para Nintendo Switch','Accesorios para TV, vídeo y home cinema','Almacenamiento de datos','Almacenamiento de datos externo','Conversores de vídeo','Electrónica','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','TV, vídeo y home cinema','Tarjetas de memoria','Tarjetas microSD','Videojuegos','ps4','xbox', ]
+tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','ps4','xbox', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99
