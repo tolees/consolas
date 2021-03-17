@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZ21ZPK-es Intruders: Hide and Seek PS4 Español [Importación alemana]'
 sku: 'B07MZ21ZPK-es'
-tags: [ 'Figuras interactivas para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Sistemas precursores y micro consolas','Videojuegos','ps4', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para PlayStation 3','Accesorios para PlayStation 4','Accesorios para Xbox One','Auriculares gaming con micrófono para PlayStation 4','Auriculares gaming para Nintendo Switch','Auriculares gaming para PlayStation 3','Auriculares gaming para Xbox One','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 3','Hardware y juegos para PlayStation 4','Hardware y juegos para Xbox One','Juegos para Nintendo Switch','Sistemas precursores y micro consolas','Videojuegos', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

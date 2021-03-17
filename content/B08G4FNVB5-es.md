@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G4FNVB5-es Disco Duro Externo 2tb Type C USB 3.1 Disco Duro Externo...'
 sku: 'B08G4FNVB5-es'
-tags: [ 'Figuras interactivas para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Sistemas precursores y micro consolas','Videojuegos','xbox', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para PlayStation 3','Accesorios para PlayStation 4','Accesorios para Xbox One','Auriculares gaming con micrófono para PlayStation 4','Auriculares gaming para Nintendo Switch','Auriculares gaming para PlayStation 3','Auriculares gaming para Xbox One','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 3','Hardware y juegos para PlayStation 4','Hardware y juegos para Xbox One','Juegos para Nintendo Switch','Sistemas precursores y micro consolas','Videojuegos', ]
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

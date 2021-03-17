@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W52RRSY-es Subsonic - Asiento de juego Sillón Gamer ergonómico Silla...'
 sku: 'B07W52RRSY-es'
-tags: [ 'Figuras interactivas para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Sistemas precursores y micro consolas','Videojuegos','ps4', ]
+tags: [ 'Accesorios para Nintendo Switch','Accesorios para PlayStation 3','Accesorios para PlayStation 4','Accesorios para Xbox One','Auriculares gaming con micrófono para PlayStation 4','Auriculares gaming para Nintendo Switch','Auriculares gaming para PlayStation 3','Auriculares gaming para Xbox One','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 3','Hardware y juegos para PlayStation 4','Hardware y juegos para Xbox One','Juegos para Nintendo Switch','Sistemas precursores y micro consolas','Videojuegos', ]
 actualPrice: 176.88 EUR
 currency: EUR
 price: 176.88
