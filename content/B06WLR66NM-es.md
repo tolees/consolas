@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WLR66NM-es Timorn La más Nueva versión Teclado del reemplazo Cable...'
 sku: 'B06WLR66NM-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','playstation','ps4', ]
+tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','playstation','ps4', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

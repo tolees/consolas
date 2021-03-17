@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071CLCQW3-es eXtremeRate Carcasa con 2 Anillos para Mando Xbox One...'
 sku: 'B071CLCQW3-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','xbox', ]
+tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','xbox', ]
 actualPrice: 18.02 EUR
 currency: EUR
 price: 18.02

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G4TF12Y-es Middle Earth: Shadow of War Definitive Edition -...'
 sku: 'B07G4TF12Y-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','playstation', ]
+tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','playstation', ]
 actualPrice: 37.54 EUR
 currency: EUR
 price: 37.54

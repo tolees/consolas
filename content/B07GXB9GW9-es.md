@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GXB9GW9-es PDP - Mando Smash Pad Pro Con Cable Pikachu Nintendo Switch'
 sku: 'B07GXB9GW9-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','nintendo', ]
 actualPrice: 14.08 EUR
 currency: EUR
 price: 14.08

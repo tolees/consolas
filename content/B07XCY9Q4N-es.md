@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XCY9Q4N-es Orzly Kit Accesorios para Nintendo Switch Geek Pack con:...'
 sku: 'B07XCY9Q4N-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','nintendo', ]
 actualPrice: 48.18 EUR
 currency: EUR
 price: 48.18

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L8UV07M-es [SADES SA810 Xbox One Mic PS4 Gaming Headset] 3.5 mm con...'
 sku: 'B01L8UV07M-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','ps4','xbox', ]
+tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','ps4','xbox', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

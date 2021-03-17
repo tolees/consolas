@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GG3T7FL-es Steelseries Arctis 3 Auriculares De Juego Multiplataforma...'
 sku: 'B07GG3T7FL-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','nintendo','playstation','xbox', ]
+tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','nintendo','playstation','xbox', ]
 actualPrice: 79.49 EUR
 currency: EUR
 price: 79.49

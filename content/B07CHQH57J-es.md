@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CHQH57J-es Valkyria Chronicles 4 - PS4'
 sku: 'B07CHQH57J-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','ps4', ]
+tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','ps4', ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

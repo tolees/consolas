@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HHRR491-es Jump Force - Collector s Edition Playstation 4'
 sku: 'B07HHRR491-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','playstation', ]
+tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','playstation', ]
 actualPrice: 129.95 EUR
 currency: EUR
 price: 129.95

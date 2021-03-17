@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XDYXRLE-es Bigben Interactive - Headset Auricular PS4Communicator...'
 sku: 'B00XDYXRLE-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','playstation', ]
+tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','playstation', ]
 actualPrice: 9.09 EUR
 currency: EUR
 price: 9.09

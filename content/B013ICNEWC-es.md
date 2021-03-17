@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013ICNEWC-es KabelDirekt 5m Cable de Extensión HDMI compatible con HDMI...'
 sku: 'B013ICNEWC-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','ps4','xbox', ]
+tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','ps4','xbox', ]
 actualPrice: 10.16 EUR
 currency: EUR
 price: 10.16

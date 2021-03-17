@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089KQKKXM-es Subsonic - Auricular para juegos para PS4 / Xbox one/ PC /...'
 sku: 'B089KQKKXM-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','ps4','xbox', ]
+tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','ps4','xbox', ]
 actualPrice: 13.72 EUR
 currency: EUR
 price: 13.72

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JKYM3N4-es NUBWO N12 Xbox One PS4 auriculares para juegos auriculares...'
 sku: 'B07JKYM3N4-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','nintendo','ps4','xbox', ]
+tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','nintendo','ps4','xbox', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

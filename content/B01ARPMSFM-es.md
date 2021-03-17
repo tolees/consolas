@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ARPMSFM-es Beyond Two Souls + Heavy Rain PS4'
 sku: 'B01ARPMSFM-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','ps4', ]
+tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','ps4', ]
 actualPrice: 21.23 EUR
 currency: EUR
 price: 21.23

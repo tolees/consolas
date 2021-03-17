@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005E0WX9W-es Ivuna Flex Plus 0 2M Cable de extensi?n HDMI con Giro...'
 sku: 'B005E0WX9W-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','ps4','xbox', ]
+tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','ps4','xbox', ]
 actualPrice: 8.01 EUR
 currency: EUR
 price: 8.01

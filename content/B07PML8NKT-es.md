@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PML8NKT-es A.O.T. 2: Final Battle - Xbox One'
 sku: 'B07PML8NKT-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','xbox', ]
+tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','xbox', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

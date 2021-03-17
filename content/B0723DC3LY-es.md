@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0723DC3LY-es AmazonBasics - Kit de empuñaduras para mandos Joy-Con de...'
 sku: 'B0723DC3LY-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','nintendo', ]
 actualPrice: 7.32 EUR
 currency: EUR
 price: 7.32

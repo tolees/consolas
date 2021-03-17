@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D6G7HHM-es Disco Duro Externo 1 TB para PC Mac Xbox MacBook...'
 sku: 'B08D6G7HHM-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','xbox', ]
+tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','xbox', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

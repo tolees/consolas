@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N34UZFE-es Subsonic - Kit 7 En 1 Nintendo Switch'
 sku: 'B01N34UZFE-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','nintendo', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

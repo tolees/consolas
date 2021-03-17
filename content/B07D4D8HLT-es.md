@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D4D8HLT-es ALWUP Cascos PS4 Gaming Auriculares Gaming PS4 Xbox One...'
 sku: 'B07D4D8HLT-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','nintendo','playstation','ps4','xbox', ]
+tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','nintendo','playstation','ps4','xbox', ]
 actualPrice: 21.41 EUR
 currency: EUR
 price: 21.41

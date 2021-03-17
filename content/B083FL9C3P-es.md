@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083FL9C3P-es 【Actualizado 2020】 Proyector WiFi BOSNAS Nativo 720P Mini...'
 sku: 'B083FL9C3P-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','ps4', ]
+tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','ps4', ]
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

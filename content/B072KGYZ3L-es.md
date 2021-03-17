@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072KGYZ3L-es Lego Marvel Super Heroes 2 - Nintendo Switch [Importación...'
 sku: 'B072KGYZ3L-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','nintendo', ]
 actualPrice: 43.12 EUR
 currency: EUR
 price: 43.12

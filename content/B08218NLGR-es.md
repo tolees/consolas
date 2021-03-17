@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08218NLGR-es Controlador para PS4 Achort Wireless Controlador Mando...'
 sku: 'B08218NLGR-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','ps4', ]
+tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','ps4', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RBK94C4-es C-FUNN Carcasa del Cartucho Reemplazo De La Tarjeta De...'
 sku: 'B07RBK94C4-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','nintendo', ]
 actualPrice: 8.13 EUR
 currency: EUR
 price: 8.13

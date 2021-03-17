@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W52RRSY-es Subsonic - Asiento de juego Sillón Gamer ergonómico Silla...'
 sku: 'B07W52RRSY-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','ps4', ]
+tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','ps4', ]
 actualPrice: 176.88 EUR
 currency: EUR
 price: 176.88

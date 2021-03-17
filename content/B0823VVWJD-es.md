@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0823VVWJD-es Cargador para Nintendo Switch Gifort 4 en 1 Joy-Con...'
 sku: 'B0823VVWJD-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','nintendo', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

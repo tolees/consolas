@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VB3WG32-es PDP - Mando Mini Con Cable Rock Candy Amarillo Pop Glow...'
 sku: 'B07VB3WG32-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','nintendo', ]
 actualPrice: 16.52 EUR
 currency: EUR
 price: 16.52
