@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N31FY7V-es Timorn Botón Aleatorio de reemplazo de Presione el Soporte...'
 sku: 'B01N31FY7V-es'
-tags: [ 'Accesorios para Nintendo Switch','Accesorios para PlayStation 3','Accesorios para PlayStation 4','Accesorios para Xbox One','Auriculares gaming con micrófono para PlayStation 4','Auriculares gaming para Nintendo Switch','Auriculares gaming para PlayStation 3','Auriculares gaming para Xbox One','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 3','Hardware y juegos para PlayStation 4','Hardware y juegos para Xbox One','Juegos para Nintendo Switch','Sistemas precursores y micro consolas','Videojuegos', ]
+tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','playstation','ps4', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99
