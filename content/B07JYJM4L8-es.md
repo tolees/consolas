@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JYJM4L8-es HyperX HX-HSCLS-BL Cloud para PS4 - Cascos de Gaming con...'
 sku: 'B07JYJM4L8-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','ps4', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','ps4', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

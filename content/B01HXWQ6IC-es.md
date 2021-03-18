@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HXWQ6IC-es eXtremeRate 30 Piezas/Set Adhesivo para la Barra de luz...'
 sku: 'B01HXWQ6IC-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','playstation','ps4', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','playstation','ps4', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

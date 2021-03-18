@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P7QJJM2-es My time at Portia - PS4 [Importación francesa]'
 sku: 'B07P7QJJM2-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','ps4', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','ps4', ]
 actualPrice: 9.76 EUR
 currency: EUR
 price: 9.76

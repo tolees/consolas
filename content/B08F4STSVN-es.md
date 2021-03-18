@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F4STSVN-es Disco Duro Externo 2tb Portátil 2.5" USB3.0 SATA HDD...'
 sku: 'B08F4STSVN-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','xbox', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','xbox', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

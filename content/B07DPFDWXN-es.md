@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DPFDWXN-es PS4 - Estación de carga dualshock 4 soporte de...'
 sku: 'B07DPFDWXN-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','playstation','ps4', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','playstation','ps4', ]
 actualPrice: 16.13 EUR
 currency: EUR
 price: 16.13

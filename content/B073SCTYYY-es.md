@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073SCTYYY-es Ardistel - N-Switch Game Traveler Deluxe Travel Case NNS51...'
 sku: 'B073SCTYYY-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','nintendo', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','nintendo', ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DQR6B9S-es eXtremeRate Carcasa para JoyCons de Nintendo Switch Funda...'
 sku: 'B08DQR6B9S-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','nintendo', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','nintendo', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

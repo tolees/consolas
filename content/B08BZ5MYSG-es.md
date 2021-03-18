@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BZ5MYSG-es Joy-Con - Mando de repuesto para Nintendo Switch Izquierdo...'
 sku: 'B08BZ5MYSG-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','nintendo', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','nintendo', ]
 actualPrice: 49.13 EUR
 currency: EUR
 price: 49.13

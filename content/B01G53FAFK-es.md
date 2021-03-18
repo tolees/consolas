@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G53FAFK-es EasyAcc G1 Virtual 7.1 - Juego de Auriculares para...'
 sku: 'B01G53FAFK-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','ps4', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','ps4', ]
 actualPrice: 27.22 EUR
 currency: EUR
 price: 27.22

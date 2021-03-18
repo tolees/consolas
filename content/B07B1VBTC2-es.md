@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B1VBTC2-es Sades SA810 Auriculares Gaming - 3.5mm Cancelación De...'
 sku: 'B07B1VBTC2-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','ps4','xbox', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','ps4','xbox', ]
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

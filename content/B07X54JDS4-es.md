@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X54JDS4-es YINSAN Auriculares Gaming para PS4 Cascos Gaming Premium...'
 sku: 'B07X54JDS4-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','ps4', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','ps4', ]
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

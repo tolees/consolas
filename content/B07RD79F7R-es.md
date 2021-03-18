@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RD79F7R-es Searchyou True Blue Mini Crackhead Pack con 64G 101 Juegos...'
 sku: 'B07RD79F7R-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','playstation', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','playstation', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

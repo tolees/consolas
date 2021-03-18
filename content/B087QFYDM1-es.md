@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087QFYDM1-es Kloius Soporte de Carga USB Soporte de Carga Doble PS4...'
 sku: 'B087QFYDM1-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','ps4', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','ps4', ]
 actualPrice: 24.11 EUR
 currency: EUR
 price: 24.11

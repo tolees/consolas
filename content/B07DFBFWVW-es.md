@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFBFWVW-es Funko Pop! - Patrick Star Spongebob Holiday Xbox'
 sku: 'B07DFBFWVW-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','xbox', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','xbox', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

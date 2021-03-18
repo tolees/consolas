@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06ZYJQWK7-es Timorn Piezas de Reparación Torx T8 Tornillos Conjunto...'
 sku: 'B06ZYJQWK7-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','xbox', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','xbox', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

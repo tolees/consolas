@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IFDRN44-es 3pcs Pegatinas de Consola Cubierta Adhesiva Hexágono...'
 sku: 'B01IFDRN44-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','playstation','ps4', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','playstation','ps4', ]
 actualPrice: 7.16 EUR
 currency: EUR
 price: 7.16

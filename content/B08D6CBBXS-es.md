@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D6CBBXS-es Ertisa Mando Inalámbrico para PS4 Gamepad Wireless...'
 sku: 'B08D6CBBXS-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','playstation','ps4', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','playstation','ps4', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

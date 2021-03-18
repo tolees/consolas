@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L3K3FFS-es TEYADI 2.5" Ultra Slim Disco Duro Externo Portátil 9mm...'
 sku: 'B07L3K3FFS-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','ps4','xbox', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','ps4','xbox', ]
 actualPrice: 38.79 EUR
 currency: EUR
 price: 38.79

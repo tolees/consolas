@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071YVJ54C-es FR·TEC - Pack 3 Led Stickers para el mando Dualshock de...'
 sku: 'B071YVJ54C-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','playstation', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','playstation', ]
 actualPrice: 1.35 EUR
 currency: EUR
 price: 1.35

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GLG3ZDW-es Osaloe Switch HDMI 1x4 1 Entrada y 4 Salidas Conmutador...'
 sku: 'B08GLG3ZDW-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','ps4','xbox', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','ps4','xbox', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

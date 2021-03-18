@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GSS1M86-es eXtremeRate Lofty Programable Remap&Gatillo de Parada Kit...'
 sku: 'B08GSS1M86-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','xbox', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','xbox', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

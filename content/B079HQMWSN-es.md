@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079HQMWSN-es This is the Police 2 - Xbox One'
 sku: 'B079HQMWSN-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','xbox', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','xbox', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

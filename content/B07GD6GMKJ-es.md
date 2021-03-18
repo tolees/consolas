@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GD6GMKJ-es BlueFire Cascos Gaming Auriculares Gaming PS4 con...'
 sku: 'B07GD6GMKJ-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','ps4', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','ps4', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

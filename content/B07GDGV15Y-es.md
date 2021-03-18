@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GDGV15Y-es ShinePick Auriculares Gaming 3.5mm Cancelación De Ruido...'
 sku: 'B07GDGV15Y-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','nintendo','ps4','xbox', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','nintendo','ps4','xbox', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

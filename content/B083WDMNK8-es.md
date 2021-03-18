@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083WDMNK8-es Disco Duro Externo 1 TB Disco Duro Externo Type C USB3.1...'
 sku: 'B083WDMNK8-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','ps4','xbox', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','ps4','xbox', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PCZSDPQ-es Dragon Ball Z - Funda Para Almacenamiento De 24 Juegos...'
 sku: 'B07PCZSDPQ-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','nintendo', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','nintendo', ]
 actualPrice: 6.93 EUR
 currency: EUR
 price: 6.93

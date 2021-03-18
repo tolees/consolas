@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075QLBP9K-es Cable Guy Sonic The Hedgehog de Sega Soporte de sujeción o...'
 sku: 'B075QLBP9K-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','sega', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','sega', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

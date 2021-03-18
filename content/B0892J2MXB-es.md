@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0892J2MXB-es WesKimed DAC Convertidor Digital a Analógico Adaptador...'
 sku: 'B0892J2MXB-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','ps4','xbox', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','ps4','xbox', ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

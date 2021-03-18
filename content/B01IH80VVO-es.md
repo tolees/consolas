@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IH80VVO-es Red Dead Redemption Classics - Xbox one'
 sku: 'B01IH80VVO-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','xbox', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','xbox', ]
 actualPrice: 17.3 EUR
 currency: EUR
 price: 17.3

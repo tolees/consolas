@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078YRCQZ3-es Funda PS4 Pro Mando Silicona Caso Piel Fundas Protectores...'
 sku: 'B078YRCQZ3-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','ps4', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','ps4', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

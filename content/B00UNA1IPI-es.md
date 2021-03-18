@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UNA1IPI-es Seagate Expansion STEA500400 - Disco duro externo portátil...'
 sku: 'B00UNA1IPI-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','playstation','xbox', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','playstation','xbox', ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

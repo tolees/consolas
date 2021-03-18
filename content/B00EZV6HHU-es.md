@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EZV6HHU-es KontrolFreek - FPS Freek Vortex PS4'
 sku: 'B00EZV6HHU-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','ps4', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','ps4', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

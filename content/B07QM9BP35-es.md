@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QM9BP35-es Paladone Playstation Controller LED | Luz Nocturna...'
 sku: 'B07QM9BP35-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','playstation', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','playstation', ]
 actualPrice: 12.64 EUR
 currency: EUR
 price: 12.64

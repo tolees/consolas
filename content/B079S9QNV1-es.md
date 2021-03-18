@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079S9QNV1-es LA Noire PS4 - PlayStation 4 [Importación inglesa]'
 sku: 'B079S9QNV1-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','playstation','ps4', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','playstation','ps4', ]
 actualPrice: 19.13 EUR
 currency: EUR
 price: 19.13

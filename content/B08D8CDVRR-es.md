@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D8CDVRR-es Ocobudbxw Cámara con Sensor de Movimiento Ocular micrófono...'
 sku: 'B08D8CDVRR-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','playstation', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','playstation', ]
 actualPrice: 18.11 EUR
 currency: EUR
 price: 18.11

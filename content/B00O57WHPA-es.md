@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00O57WHPA-es Nintendo 2DS - Consola Color Rosa + Tomodachi Life...'
 sku: 'B00O57WHPA-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','nintendo', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','nintendo', ]
 actualPrice: 69.9 EUR
 currency: EUR
 price: 69.9

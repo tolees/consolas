@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08595BXQZ-es Adaptador de alimentación Xbox One con cable de carga'
 sku: 'B08595BXQZ-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','xbox', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','xbox', ]
 actualPrice: 37.53 EUR
 currency: EUR
 price: 37.53

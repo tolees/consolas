@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CMRWNC6-es Prode Disco Duro Externo Portátil 2.5" 2TB USB3.0 SATA HDD...'
 sku: 'B08CMRWNC6-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','xbox', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','xbox', ]
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

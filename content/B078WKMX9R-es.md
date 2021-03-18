@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WKMX9R-es Auriculares Gaming Premium para PS4 PC Xbox One Cascos...'
 sku: 'B078WKMX9R-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Hogar y cocina','Muebles de TV y multimedia','Muebles de hogar','Sillas Gaming','Videojuegos','ps4','xbox', ]
+tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','ps4','xbox', ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49
