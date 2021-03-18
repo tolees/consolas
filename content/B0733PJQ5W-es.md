@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0733PJQ5W-es 4X PS4 analógico controlador de joystick tapa tapa palanca...'
 sku: 'B0733PJQ5W-es'
-tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','ps4', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Electrónica','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Informática','Juegos y Accesorios para PC','Memoria para Nintendo Switch','Tarjetas de memoria','Tarjetas microSD','Videojuegos','Volantes para PC','ps4', ]
 actualPrice: 1.53 EUR
 currency: EUR
 price: 1.53

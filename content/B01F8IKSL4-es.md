@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01F8IKSL4-es mini kitty 2 en 1 Mando Plus con Motion Plus y Nunchunk...'
 sku: 'B01F8IKSL4-es'
-tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','nintendo', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Electrónica','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Informática','Juegos y Accesorios para PC','Memoria para Nintendo Switch','Tarjetas de memoria','Tarjetas microSD','Videojuegos','Volantes para PC','nintendo', ]
 actualPrice: 16.0 EUR
 currency: EUR
 price: 16.0
