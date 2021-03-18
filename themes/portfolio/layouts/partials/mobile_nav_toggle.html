@@ -11,24 +11,3 @@
         </div>
     </aside>
 </div>
-{{ if .Params.prodname }}
-    {{ if isset .Params "tags" -}}
-        <span >
-        <a href="/tags/" title="{{ $.Scratch.Get "index" }}"><i class="fas fa-tags"></i></a>
-        {{ range $index, $name := sort .Params.tags -}}
-            |&nbsp;<a class=ph1 href={{ (printf "/tags/%s/" $name) | urlize }} title="Index: {{$name | markdownify }}">{{$name | markdownify}}</a>&nbsp;
-        {{- end}}
-        </span>
-    {{- end }}
-{{ end }}
-{{ if not .Params.prodname  }}
-    {{ $tags := $.Site.Taxonomies.tags.ByCount }}
-    {{ $v1 := where $tags "Count" ">=" 1 }}
-	<a href="/tags/" title="{{ $.Scratch.Get "index" }}"><i class="fas fa-tags"></i></a>
-    {{ range $v1 }}
-    {{ if .Term }}
-    {{ $tagURL := printf "tags/%s" .Term | relURL }}
-		|&nbsp;<a class=ph1 href={{ (printf "/tags/%s/"  .Term ) | urlize }} title="Index: {{ .Term | markdownify }}">{{ .Term | markdownify}}</a>&nbsp;
-    {{ end }}
-    {{ end }}
-{{ end }}
