@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X39KD2R-es KASIMO Cable Ethernet 3m Cable Cat8 con Conector RJ45 SFTP...'
 sku: 'B07X39KD2R-es'
-tags: [ 'nintendo','ps4', ]
 actualPrice: 12.73 EUR
 currency: EUR
 price: 12.73

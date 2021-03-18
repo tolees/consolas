@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08318WQWR-es Óptico a RCA con Volumen Ajustable Techole 192kHz Óptico a...'
 sku: 'B08318WQWR-es'
-tags: [ 'ps4','xbox', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

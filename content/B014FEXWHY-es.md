@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B014FEXWHY-es Trust Gaming - Trust GXT 210 - Micrófono Gaming USB para...'
 sku: 'B014FEXWHY-es'
-tags: [ 'ps4','ps5', ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

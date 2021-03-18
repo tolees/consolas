@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H9D9JCB-es Warner Bros Interactive Spain - Fortnite Lote: La Última...'
 sku: 'B08H9D9JCB-es'
-tags: [ 'playstation', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

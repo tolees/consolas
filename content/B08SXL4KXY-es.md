@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08SXL4KXY-es Atlus - Persona 5 Strikers - Editión Limitada Nintendo Switch'
 sku: 'B08SXL4KXY-es'
-tags: [ 'atlus','nintendo', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

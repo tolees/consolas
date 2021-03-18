@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NQPGQW8-es Nintendo - Super Mario Maker 2'
 sku: 'B07NQPGQW8-es'
-tags: [ 'nintendo', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

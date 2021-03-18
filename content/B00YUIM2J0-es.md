@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00YUIM2J0-es Logitech G29 Driving Force Volante de Carreras y Pedales...'
 sku: 'B00YUIM2J0-es'
-tags: [ 'ps4','ps5', ]
 actualPrice: 219.0 EUR
 currency: EUR
 price: 219.0

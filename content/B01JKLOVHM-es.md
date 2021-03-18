@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01JKLOVHM-es Exlene® Nintendo 3DS USB cable cargador de la energía...'
 sku: 'B01JKLOVHM-es'
-tags: [ 'nintendo', ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

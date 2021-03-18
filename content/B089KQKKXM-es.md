@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089KQKKXM-es Subsonic - Auricular para juegos para PS4 / Xbox one/ PC /...'
 sku: 'B089KQKKXM-es'
-tags: [ 'ps4','xbox', ]
 actualPrice: 13.72 EUR
 currency: EUR
 price: 13.72

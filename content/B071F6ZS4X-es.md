@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071F6ZS4X-es Lápiz óptico para Nintendo 2DS - COCOTOP Compatible con...'
 sku: 'B071F6ZS4X-es'
-tags: [ 'nintendo', ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

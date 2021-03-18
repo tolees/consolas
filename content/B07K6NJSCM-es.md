@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K6NJSCM-es FR·TEC - Auriculares Gaming Headset Genbu - PS4 Xbox One...'
 sku: 'B07K6NJSCM-es'
-tags: [ 'nintendo','ps4','xbox', ]
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

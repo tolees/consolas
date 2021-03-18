@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H97WTBL-es Estación de recarga DualSense - PlayStation 5'
 sku: 'B08H97WTBL-es'
-tags: [ 'playstation', ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

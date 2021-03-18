@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HZVRYHX-es SEGA - Puyo Puyo Tetris 2'
 sku: 'B08HZVRYHX-es'
-tags: [ 'sega', ]
 actualPrice: 17.81 EUR
 currency: EUR
 price: 17.81

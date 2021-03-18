@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089K5JWDJ-es Smooce Mando para Nintendo Switch mando pro switch...'
 sku: 'B089K5JWDJ-es'
-tags: [ 'nintendo', ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

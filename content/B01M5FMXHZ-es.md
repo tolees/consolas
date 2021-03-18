@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M5FMXHZ-es Microsoft - Xbox One - Consola S de 1 TB'
 sku: 'B01M5FMXHZ-es'
-tags: [ 'xbox', ]
 actualPrice: 293.99 EUR
 currency: EUR
 price: 293.99

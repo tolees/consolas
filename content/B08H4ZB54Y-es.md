@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H4ZB54Y-es Zexrow Mando para PS4 Controlador De Juegos Con Cable para...'
 sku: 'B08H4ZB54Y-es'
-tags: [ 'ps4', ]
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

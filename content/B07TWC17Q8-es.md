@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TWC17Q8-es Deruitu - Kit de Accesorios 18 en 1para Nintendo Switch...'
 sku: 'B07TWC17Q8-es'
-tags: [ 'nintendo', ]
 actualPrice: 33.14 EUR
 currency: EUR
 price: 33.14

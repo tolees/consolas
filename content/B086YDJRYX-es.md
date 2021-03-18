@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086YDJRYX-es Mpow Air SE Auriculares para Juegos Auriculares para...'
 sku: 'B086YDJRYX-es'
-tags: [ 'ps4','xbox', ]
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

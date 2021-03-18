@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F3F2WHX-es ENVEL Adaptador de Auriculares de 3 5 mm Hembra a USB...'
 sku: 'B08F3F2WHX-es'
-tags: [ 'ps4', ]
 actualPrice: 5.94 EUR
 currency: EUR
 price: 5.94

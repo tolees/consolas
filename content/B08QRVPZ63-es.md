@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QRVPZ63-es qitian - Disco Duro Externo 2 TB Type C USB3.1 Disco Duro...'
 sku: 'B08QRVPZ63-es'
-tags: [ 'xbox', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

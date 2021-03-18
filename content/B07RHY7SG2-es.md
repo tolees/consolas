@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RHY7SG2-es Teclados Gaming TedGem Teclado Gaming Teclado USB Teclado...'
 sku: 'B07RHY7SG2-es'
-tags: [ 'ps4','xbox', ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

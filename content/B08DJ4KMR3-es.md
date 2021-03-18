@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DJ4KMR3-es Disco Duro Externo 2 TB Type C USB3.1 para PC Mac Xbox One...'
 sku: 'B08DJ4KMR3-es'
-tags: [ 'xbox', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SXL26BF-es Atlus - Persona 5 Strikers - Editión Limitada PS4'
 sku: 'B08SXL26BF-es'
-tags: [ 'ps4', ]
 actualPrice: 49.49 EUR
 currency: EUR
 price: 49.49

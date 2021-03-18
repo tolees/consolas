@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XWBY3YP-es SEGA Genesis - Consola Retro Sega Mega Drive 81 Juegos'
 sku: 'B06XWBY3YP-es'
-tags: [ 'sega', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

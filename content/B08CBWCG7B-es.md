@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CBWCG7B-es Take-Two 2K - NBA 2k21- Xbox Series X Estándar Edition'
 sku: 'B08CBWCG7B-es'
-tags: [ 'xbox', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

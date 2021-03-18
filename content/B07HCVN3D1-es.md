@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HCVN3D1-es Animal Crossing: New Horizons Nintendo Switch'
 sku: 'B07HCVN3D1-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','nintendo', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

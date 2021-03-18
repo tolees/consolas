@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MT7X9XR-es NIYPS Webcam PC con Microfono y Anillo de Luz Camara Web...'
 sku: 'B08MT7X9XR-es'
-tags: [ 'xbox', ]
 actualPrice: 28.09 EUR
 currency: EUR
 price: 28.09

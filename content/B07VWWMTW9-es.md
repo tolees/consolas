@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VWWMTW9-es Warner Bros - LEGO Jurassic World - Nintendo Switch...'
 sku: 'B07VWWMTW9-es'
-tags: [ 'nintendo', ]
 actualPrice: 23.16 EUR
 currency: EUR
 price: 23.16

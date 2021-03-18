@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072LD6BYS-es Nintendo - 3DS Miitopía'
 sku: 'B072LD6BYS-es'
-tags: [ 'nintendo', ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FC2DCZS-es Batería HAC-003 de Repuesto Antank para Consola de Juegos...'
 sku: 'B08FC2DCZS-es'
-tags: [ 'nintendo', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

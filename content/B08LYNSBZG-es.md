@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LYNSBZG-es AKNES - 8Bitdo Arcade Joystick Fightstick Fighting Stick...'
 sku: 'B08LYNSBZG-es'
-tags: [ 'nintendo', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

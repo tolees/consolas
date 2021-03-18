@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074SDDRQX-es Playstation 4 DUALSHOCK 4 Controlador inalámbrico Tacto...'
 sku: 'B074SDDRQX-es'
-tags: [ 'playstation','ps4', ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VS8SRPW-es PlayVital Agarres para el Pulgar para PS5 PS4 Xbox Series...'
 sku: 'B08VS8SRPW-es'
-tags: [ 'ps4','ps5','xbox', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

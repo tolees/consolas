@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08THL93YZ-es DIGITNOW! - Convertidor HDMI a RCA Adaptador convertidor...'
 sku: 'B08THL93YZ-es'
-tags: [ 'nintendo', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H3Q2CFS-es Retro-Bit Official SEGA Mega Drive 8-button Arcade USB Pad...'
 sku: 'B07H3Q2CFS-es'
-tags: [ 'sega', ]
 actualPrice: 17.36 EUR
 currency: EUR
 price: 17.36

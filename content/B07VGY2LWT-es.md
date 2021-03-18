@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VGY2LWT-es Nintendo Joy-Con set Izda/Dcha Morado Neón/Naranja Neón'
 sku: 'B07VGY2LWT-es'
-tags: [ 'nintendo', ]
 actualPrice: 67.92 EUR
 currency: EUR
 price: 67.92

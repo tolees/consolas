@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CT41YX6-es PDP Gaming - Mando con cable Afterglow Prismtatic...'
 sku: 'B07CT41YX6-es'
-tags: [ 'xbox', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

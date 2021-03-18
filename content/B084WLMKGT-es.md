@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084WLMKGT-es Trust Gaming Cascos PS4 y PS5 Auriculares de Gaming GXT...'
 sku: 'B084WLMKGT-es'
-tags: [ 'playstation','ps4','ps5','trust gaming', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

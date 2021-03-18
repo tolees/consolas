@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087VLP2RT-es Microsoft - Mando Xbox - Robot White'
 sku: 'B087VLP2RT-es'
-tags: [ 'xbox', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

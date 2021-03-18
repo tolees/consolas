@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHV87ND-es Leisure Suit: Larry - Wet Dreams Don t Dry - PS4'
 sku: 'B07RHV87ND-es'
-tags: [ 'ps4', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

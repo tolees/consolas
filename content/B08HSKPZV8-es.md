@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HSKPZV8-es Koch Media - Chronos Before the Ashes - PS4'
 sku: 'B08HSKPZV8-es'
-tags: [ 'ps4', ]
 actualPrice: 18.92 EUR
 currency: EUR
 price: 18.92

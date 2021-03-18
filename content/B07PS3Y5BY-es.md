@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PS3Y5BY-es SteelSeries Arctis 1 – Auriculares Gaming Compatibilidad...'
 sku: 'B07PS3Y5BY-es'
-tags: [ 'nintendo','ps4','ps5','xbox', ]
 actualPrice: 40.39 EUR
 currency: EUR
 price: 40.39

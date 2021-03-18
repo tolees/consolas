@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083VBBVGK-es Focus Home Interactive - SnowRunner - PS4'
 sku: 'B083VBBVGK-es'
-tags: [ 'ps4', ]
 actualPrice: 40.49 EUR
 currency: EUR
 price: 40.49

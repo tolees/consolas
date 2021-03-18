@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071D11MZT-es Timorn - Timron Reemplazo LT RT Trigger Springs para Xbox...'
 sku: 'B071D11MZT-es'
-tags: [ 'xbox', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

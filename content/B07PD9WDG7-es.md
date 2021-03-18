@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PD9WDG7-es Flysee Protector de Pantalla para Nintendo Switch...'
 sku: 'B07PD9WDG7-es'
-tags: [ 'nintendo', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078TGWBZ9-es TUTUO Nintendo Switch Controlador Mando Inalámbrico...'
 sku: 'B078TGWBZ9-es'
-tags: [ 'nintendo', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

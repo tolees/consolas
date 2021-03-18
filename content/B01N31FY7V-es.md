@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N31FY7V-es Timorn Botón Aleatorio de reemplazo de Presione el Soporte...'
 sku: 'B01N31FY7V-es'
-tags: [ 'playstation','ps4', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

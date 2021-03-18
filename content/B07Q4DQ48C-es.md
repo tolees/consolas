@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q4DQ48C-es Final Fantasy XIV: Shadowbringers PS4'
 sku: 'B07Q4DQ48C-es'
-tags: [ 'ps4', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

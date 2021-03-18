@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BBYTPJC-es Playstation - Taza de cerámica 9 x 15 x 11 cm'
 sku: 'B07BBYTPJC-es'
-tags: [ 'playstation', ]
 actualPrice: 11.25 EUR
 currency: EUR
 price: 11.25

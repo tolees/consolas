@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TBN934V-es eXtremeRate Juego completo de pegatinas para placa frontal...'
 sku: 'B07TBN934V-es'
-tags: [ 'playstation','ps4', ]
 actualPrice: 17.19 EUR
 currency: EUR
 price: 17.19

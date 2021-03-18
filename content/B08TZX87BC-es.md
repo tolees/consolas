@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TZX87BC-es Leideu - Disco Duro Externo 2tb USB 3.0 Disco Duro Externo...'
 sku: 'B08TZX87BC-es'
-tags: [ 'xbox', ]
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

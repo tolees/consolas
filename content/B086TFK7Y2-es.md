@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086TFK7Y2-es Saints Row The Third Remastered - PlayStation 4'
 sku: 'B086TFK7Y2-es'
-tags: [ 'playstation', ]
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R5TQHML-es TUTUO Wireless Mando para Nintendo Switch Bluetooth...'
 sku: 'B08R5TQHML-es'
-tags: [ 'nintendo', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

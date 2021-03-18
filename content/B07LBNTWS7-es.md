@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBNTWS7-es Shuliancable Cable HDMI Compatible con Ethernet Retorno de...'
 sku: 'B07LBNTWS7-es'
-tags: [ 'playstation', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

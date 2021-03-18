@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GX5TRL8-es HEYSTOP 24 in 1 Accesorios para Nintendo Switch Funda para...'
 sku: 'B08GX5TRL8-es'
-tags: [ 'nintendo', ]
 actualPrice: 57.6 EUR
 currency: EUR
 price: 57.6

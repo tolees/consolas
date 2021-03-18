@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00SRKXZIE-es Venom - Twin Docking Station PS4'
 sku: 'B00SRKXZIE-es'
-tags: [ 'ps4', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

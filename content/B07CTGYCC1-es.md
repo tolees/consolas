@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CTGYCC1-es Auriculares SADES SA810 Xbox One PS4 Stereo Gaming con...'
 sku: 'B07CTGYCC1-es'
-tags: [ 'ps4','xbox', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

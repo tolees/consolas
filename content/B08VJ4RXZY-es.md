@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VJ4RXZY-es eXtremeRate TouchPad de Repuesto para Mando de PS5 Panel...'
 sku: 'B08VJ4RXZY-es'
-tags: [ 'playstation','ps5', ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

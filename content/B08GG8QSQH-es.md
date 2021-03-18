@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GG8QSQH-es Razer Wolverine V2 - Mando de juegos con cable para Xbox...'
 sku: 'B08GG8QSQH-es'
-tags: [ 'xbox', ]
 actualPrice: 95.99 EUR
 currency: EUR
 price: 95.99

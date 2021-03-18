@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SNGJR84-es Nintendo - amiibo Terry Bogard colección Super Smash Bros.'
 sku: 'B08SNGJR84-es'
-tags: [ 'nintendo', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

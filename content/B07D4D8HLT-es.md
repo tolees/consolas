@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D4D8HLT-es ALWUP Cascos PS4 Gaming Auriculares Gaming PS4 Xbox One...'
 sku: 'B07D4D8HLT-es'
-tags: [ 'nintendo','playstation','ps4','xbox', ]
 actualPrice: 21.41 EUR
 currency: EUR
 price: 21.41

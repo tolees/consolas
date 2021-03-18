@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PPRSWKT-es iVANKY Cable HDMI 2 Metros HDMI 2.0 Cable 18Gbps...'
 sku: 'B07PPRSWKT-es'
-tags: [ 'xbox', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

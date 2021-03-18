@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GP1GW25-es Thrustmaster - TSS Freno de Mano Sparco Mod + Add-On PS4...'
 sku: 'B07GP1GW25-es'
-tags: [ 'ps4','xbox', ]
 actualPrice: 195.04 EUR
 currency: EUR
 price: 195.04

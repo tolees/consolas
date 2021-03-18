@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FFFPYTD-es Lego DC Super-Villanos PlayStation 4 Edición Estándar'
 sku: 'B07FFFPYTD-es'
-tags: [ 'playstation', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QDC2B9K-es REDSTORM Mini Mando inalámbrico para Nintendo Switch...'
 sku: 'B08QDC2B9K-es'
-tags: [ 'nintendo', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

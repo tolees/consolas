@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KSYS2L4-es HDMI Switch 4K 60Hz Techole Conmutador HDMI Switcher 3...'
 sku: 'B07KSYS2L4-es'
-tags: [ 'ps4','xbox', ]
 actualPrice: 12.27 EUR
 currency: EUR
 price: 12.27

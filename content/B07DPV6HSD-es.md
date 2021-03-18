@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DPV6HSD-es Nintendo - Daemon X Machina'
 sku: 'B07DPV6HSD-es'
-tags: [ 'nintendo', ]
 actualPrice: 39.7 EUR
 currency: EUR
 price: 39.7

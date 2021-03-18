@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AAAGOA4-es Hori - Funda Rígida Nintendo Switch'
 sku: 'B01AAAGOA4-es'
-tags: [ 'nintendo', ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

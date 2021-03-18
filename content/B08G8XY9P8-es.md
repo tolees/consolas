@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G8XY9P8-es Branpresto - 608874 - YU-GI-OH! JCC - Lot de 6 Coffret...'
 sku: 'B08G8XY9P8-es'
-tags: [ 'playstation', ]
 actualPrice: 111.96 EUR
 currency: EUR
 price: 111.96

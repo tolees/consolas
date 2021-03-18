@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X5XZGQF-es Gioteck - Mando inalambrico negro Gioteck VX-4 para...'
 sku: 'B07X5XZGQF-es'
-tags: [ 'playstation', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

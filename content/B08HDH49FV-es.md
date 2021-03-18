@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HDH49FV-es eXtremeRate Carcasa para Xbox One Funda Delantera con...'
 sku: 'B08HDH49FV-es'
-tags: [ 'xbox', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

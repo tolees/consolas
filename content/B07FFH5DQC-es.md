@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FFH5DQC-es Warner Bros - Lego DC Super-Villans Nintendo Switch...'
 sku: 'B07FFH5DQC-es'
-tags: [ 'nintendo', ]
 actualPrice: 16.8 EUR
 currency: EUR
 price: 16.8

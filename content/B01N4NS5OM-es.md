@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N4NS5OM-es Nintendo - Figura Amiibo Zelda Scholar Serie Zelda'
 sku: 'B01N4NS5OM-es'
-tags: [ 'nintendo', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

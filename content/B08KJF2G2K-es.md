@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KJF2G2K-es Playstation - Mando a distancia PS5'
 sku: 'B08KJF2G2K-es'
-tags: [ 'playstation','ps5', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

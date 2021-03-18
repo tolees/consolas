@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F51KZ5F-es Koch Media - Let s Sing Queen + 2 micros Nintendo Switch'
 sku: 'B08F51KZ5F-es'
-tags: [ 'nintendo', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

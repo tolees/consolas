@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G53FAFK-es EasyAcc G1 Virtual 7.1 - Juego de Auriculares para...'
 sku: 'B01G53FAFK-es'
-tags: [ 'ps4', ]
 actualPrice: 27.22 EUR
 currency: EUR
 price: 27.22

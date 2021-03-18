@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VB3YMF9-es PDP - Mando Mini Con Cable Rock Candy Azul Glow Nintendo...'
 sku: 'B07VB3YMF9-es'
-tags: [ 'nintendo', ]
 actualPrice: 16.52 EUR
 currency: EUR
 price: 16.52

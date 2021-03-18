@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H9MZF85-es Crosstour Proyector Mini Proyector Portátil Soporte HD...'
 sku: 'B07H9MZF85-es'
-tags: [ 'Electrónica','Proyectores','TV, vídeo y home cinema','crosstour','ps4', ]
 actualPrice: 68.99 EUR
 currency: EUR
 price: 68.99

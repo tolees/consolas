@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SQFZX1Z-es THQ NORDIC - Darksiders Genesis - Nintendo Switch'
 sku: 'B07SQFZX1Z-es'
-tags: [ 'Figuras interactivas para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Sistemas precursores y micro consolas','Videojuegos','nintendo','thq nordic', ]
 actualPrice: 30.25 EUR
 currency: EUR
 price: 30.25

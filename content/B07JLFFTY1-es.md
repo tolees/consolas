@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JLFFTY1-es Redragon H120 ARES - Auriculares circumaurales gaming -...'
 sku: 'B07JLFFTY1-es'
-tags: [ 'ps4', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

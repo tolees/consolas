@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N5QZ0A1-es Nintendo - Fire Emblem Warriors [nur für New 3DS]...'
 sku: 'B01N5QZ0A1-es'
-tags: [ 'nintendo', ]
 actualPrice: 8.46 EUR
 currency: EUR
 price: 8.46

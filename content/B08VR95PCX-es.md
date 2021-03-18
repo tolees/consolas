@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VR95PCX-es eXtremeRate Pegatina de Agarre para Mnado de PS4 Aadhesivo...'
 sku: 'B08VR95PCX-es'
-tags: [ 'playstation','ps4', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

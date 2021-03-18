@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08V59KJ1H-es eXtremeRate Carcasa para Mando Xbox Series X S Protector...'
 sku: 'B08V59KJ1H-es'
-tags: [ 'xbox', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

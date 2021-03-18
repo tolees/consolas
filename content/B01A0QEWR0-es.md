@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01A0QEWR0-es Hori - Splatoon 2 Splat Pack Nintendo Switch'
 sku: 'B01A0QEWR0-es'
-tags: [ 'nintendo', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

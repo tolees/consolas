@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KJFR7VF-es JANESAL Funda para Cubrir el Mando de PS4 con 8 Grips para...'
 sku: 'B07KJFR7VF-es'
-tags: [ 'ps4', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

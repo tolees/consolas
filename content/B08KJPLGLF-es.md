@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08KJPLGLF-es PlayStation 5 - Mando inalámbrico DualSense'
 sku: 'B08KJPLGLF-es'
-tags: [ 'Accesorios para PlayStation 4','Accesorios para PlayStation 5','Electrónica','Figuras interactivas para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Hardware y juegos para PlayStation 5','Hardware y juegos para Xbox One','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos para Xbox One','Mandos y controles para PlayStation 5','Packs de accesorios para PlayStation 4','Sistemas precursores y micro consolas','Videojuegos','playstation', ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

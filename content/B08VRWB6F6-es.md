@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VRWB6F6-es PlayVital Edición Knight Funda Silicona Carcasa de Goma...'
 sku: 'B08VRWB6F6-es'
-tags: [ 'playstation','ps5', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SXG912N-es Nacon - Werewolf The Apocalypse: Earthblood - PS5 [Versión...'
 sku: 'B08SXG912N-es'
-tags: [ 'ps5', ]
 actualPrice: 37.09 EUR
 currency: EUR
 price: 37.09

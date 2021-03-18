@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C6XAO7M-es HORI - Volante Mario Kart Pro Deluxe Nintendo Switch/PC'
 sku: 'B01C6XAO7M-es'
-tags: [ 'Accesorios para Juegos PC','Mandos para Nintendo Switch','hori','nintendo', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

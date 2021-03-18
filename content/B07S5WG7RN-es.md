@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S5WG7RN-es Meridiem Games - AeternoBlade II - Nintendo Switch...'
 sku: 'B07S5WG7RN-es'
-tags: [ 'nintendo', ]
 actualPrice: 21.66 EUR
 currency: EUR
 price: 21.66

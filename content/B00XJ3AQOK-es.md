@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XJ3AQOK-es Trust Gaming GXT 322 Carus Auriculares Gamer con Micrófono...'
 sku: 'B00XJ3AQOK-es'
-tags: [ 'nintendo','ps4','ps5','xbox', ]
 actualPrice: 32.74 EUR
 currency: EUR
 price: 32.74

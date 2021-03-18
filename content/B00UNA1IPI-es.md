@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UNA1IPI-es Seagate Expansion STEA500400 - Disco duro externo portátil...'
 sku: 'B00UNA1IPI-es'
-tags: [ 'playstation','xbox', ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

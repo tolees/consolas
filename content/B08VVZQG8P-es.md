@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VVZQG8P-es eXtremeRate PlayVital Pegatina para PS5 Aadhesivo de...'
 sku: 'B08VVZQG8P-es'
-tags: [ 'playstation','ps5', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

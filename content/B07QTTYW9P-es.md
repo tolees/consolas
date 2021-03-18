@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QTTYW9P-es Square Enix - Final Fantasy XIV: Shadowbringers - Complete...'
 sku: 'B07QTTYW9P-es'
-tags: [ 'ps4', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NVWN7G5-es lesvtu Webcam PC con Microfono y Anillo de Luz Camara Web...'
 sku: 'B08NVWN7G5-es'
-tags: [ 'xbox', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

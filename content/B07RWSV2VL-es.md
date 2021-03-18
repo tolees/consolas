@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RWSV2VL-es Focus Home Interactive - The Surge 2 PS4'
 sku: 'B07RWSV2VL-es'
-tags: [ 'ps4', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

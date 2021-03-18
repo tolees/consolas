@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MTXLFXV-es Logitech G432 Auriculares Gaming con Cable Sonido Surround...'
 sku: 'B07MTXLFXV-es'
-tags: [ 'nintendo','ps4','xbox', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

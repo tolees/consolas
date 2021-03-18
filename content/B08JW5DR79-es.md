@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JW5DR79-es Microsoft Mando Inalámbrico Xbox + Adaptador inalámbrico...'
 sku: 'B08JW5DR79-es'
-tags: [ 'xbox', ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

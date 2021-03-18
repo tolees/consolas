@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WGW88NS-es Thrustmaster - eSwap Pro Controller: gamepad el versátil...'
 sku: 'B07WGW88NS-es'
-tags: [ 'ps4', ]
 actualPrice: 130.49 EUR
 currency: EUR
 price: 130.49

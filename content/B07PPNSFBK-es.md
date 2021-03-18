@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PPNSFBK-es Seagate Technology - Seagate Game Drive 2 TB Unidad de...'
 sku: 'B07PPNSFBK-es'
-tags: [ 'Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Hardware y juegos para PlayStation 4','Informática','Videojuegos','ps4','seagate technology', ]
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

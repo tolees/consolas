@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CBXXM57-es Take-Two 2K - NBA 2k21- Playstation 5 Estándar Edition'
 sku: 'B08CBXXM57-es'
-tags: [ 'playstation', ]
 actualPrice: 44.79 EUR
 currency: EUR
 price: 44.79

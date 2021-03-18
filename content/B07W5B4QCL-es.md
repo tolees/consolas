@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5B4QCL-es Hori - Funda Rígida Negra Nintendo Switch Lite'
 sku: 'B07W5B4QCL-es'
-tags: [ 'nintendo', ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTGSG9X-es NBA 2K20 - Standard Edition - Nintendo Switch [Importación...'
 sku: 'B07TTGSG9X-es'
-tags: [ 'nintendo', ]
 actualPrice: 32.13 EUR
 currency: EUR
 price: 32.13

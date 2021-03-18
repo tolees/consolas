@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C49NDRP-es Kalypso Media - Tropico 6 - PlayStation 4 [Importación...'
 sku: 'B07C49NDRP-es'
-tags: [ 'playstation', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

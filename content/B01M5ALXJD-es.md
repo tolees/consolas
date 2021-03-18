@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M5ALXJD-es Thrustmaster TMX Pro - Volante - Xbox One/PC - Force...'
 sku: 'B01M5ALXJD-es'
-tags: [ 'xbox', ]
 actualPrice: 195.0 EUR
 currency: EUR
 price: 195.0

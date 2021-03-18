@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XTZX565-es Ring Fit Adventure - Nintendo Switch [Importación italiana]'
 sku: 'B07XTZX565-es'
-tags: [ 'nintendo', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

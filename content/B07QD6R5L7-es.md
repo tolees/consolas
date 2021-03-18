@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QD6R5L7-es SanDisk microSDXC UHS-ITarjeta para Nintendo Switch 256B...'
 sku: 'B07QD6R5L7-es'
-tags: [ 'Accesorios para Nintendo Switch','Almacenamiento de datos','Almacenamiento de datos externo','Hardware y juegos para Nintendo Switch','Informática','Memoria para Nintendo Switch','Tarjetas de memoria','Tarjetas microSD','Videojuegos','nintendo','sandisk', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

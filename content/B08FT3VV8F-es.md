@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FT3VV8F-es eXtremeRate Grip para Mando Xbox One S/X Empuñaduras...'
 sku: 'B08FT3VV8F-es'
-tags: [ 'xbox', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

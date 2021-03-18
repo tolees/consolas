@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BMFTJHY-es Nintendo - Pokémon Snap'
 sku: 'B08BMFTJHY-es'
-tags: [ 'nintendo', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

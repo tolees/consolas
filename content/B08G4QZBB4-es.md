@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4QZBB4-es TUTUO Mando Inalambrico para PS4 Gamepad Wireless...'
 sku: 'B08G4QZBB4-es'
-tags: [ 'playstation','ps4', ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

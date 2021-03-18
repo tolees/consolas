@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085SPRQSQ-es Nintendo Switch Lite - Consola Coral'
 sku: 'B085SPRQSQ-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Videojuegos','nintendo', ]
 actualPrice: 199.9 EUR
 currency: EUR
 price: 199.9

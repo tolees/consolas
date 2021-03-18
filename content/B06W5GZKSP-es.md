@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06W5GZKSP-es KYG Juego de Destornilladores Profesional con 56 Puntas...'
 sku: 'B06W5GZKSP-es'
-tags: [ 'xbox', ]
 actualPrice: 11.56 EUR
 currency: EUR
 price: 11.56

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QCYW2T2-es REDSTORM Mando para Nintendo Switch Mando para Switch con...'
 sku: 'B08QCYW2T2-es'
-tags: [ 'nintendo', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

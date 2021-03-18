@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FTMDSDT-es Nintendo - Minecraft Dungeons'
 sku: 'B08FTMDSDT-es'
-tags: [ 'nintendo', ]
 actualPrice: 23.92 EUR
 currency: EUR
 price: 23.92

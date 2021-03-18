@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GTBWMXJ-es Nacon - WRC 9. World Rally Championship 9: The Official...'
 sku: 'B08GTBWMXJ-es'
-tags: [ 'ps5', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

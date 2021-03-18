@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N223WHL-es Nintendo - Mario Kart 8 Deluxe [Importación francesa]'
 sku: 'B01N223WHL-es'
-tags: [ 'nintendo', ]
 actualPrice: 41.9 EUR
 currency: EUR
 price: 41.9

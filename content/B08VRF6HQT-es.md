@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VRF6HQT-es PlayVital Edición Knight Funda Silicona Bicolor Carcasa de...'
 sku: 'B08VRF6HQT-es'
-tags: [ 'playstation','ps5', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

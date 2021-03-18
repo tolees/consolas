@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0746SDHT3-es Nacon Revolution Pro Controller - Mando alámbrico color...'
 sku: 'B0746SDHT3-es'
-tags: [ 'ps4', ]
 actualPrice: 87.34 EUR
 currency: EUR
 price: 87.34

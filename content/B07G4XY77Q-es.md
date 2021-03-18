@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G4XY77Q-es Power A - PowerA - Kit / estuche de protección Legend of...'
 sku: 'B07G4XY77Q-es'
-tags: [ 'nintendo', ]
 actualPrice: 11.69 EUR
 currency: EUR
 price: 11.69

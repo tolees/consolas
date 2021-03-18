@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VJ2NGRM-es eXtremeRate Botones para Mando PS4 Teclas Botón Completo...'
 sku: 'B08VJ2NGRM-es'
-tags: [ 'playstation','ps4', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

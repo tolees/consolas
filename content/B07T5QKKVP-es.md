@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T5QKKVP-es HORI - Controlador Split Pad Pro Daemon X Machina Nintendo...'
 sku: 'B07T5QKKVP-es'
-tags: [ 'nintendo', ]
 actualPrice: 39.43 EUR
 currency: EUR
 price: 39.43

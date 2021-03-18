@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DHNMFP4-es Koch Media - Wreckfest - Xbox One'
 sku: 'B07DHNMFP4-es'
-tags: [ 'xbox', ]
 actualPrice: 22.81 EUR
 currency: EUR
 price: 22.81

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B4HHNNM-es Sony - Sackboy: Una Aventura a lo Grande - PlayStation 5'
 sku: 'B08B4HHNNM-es'
-tags: [ 'playstation', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

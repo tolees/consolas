@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XSG4MFQ-es Auriculares Gaming PS4 Galopar Cascos Gaming Premium...'
 sku: 'B07XSG4MFQ-es'
-tags: [ 'ps4', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

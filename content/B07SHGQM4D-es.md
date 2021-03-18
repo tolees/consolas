@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SHGQM4D-es Beexcellent - Cascos PS4 con Micrófono Flexible para Xbox...'
 sku: 'B07SHGQM4D-es'
-tags: [ 'beexcellent','nintendo','ps4','xbox', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

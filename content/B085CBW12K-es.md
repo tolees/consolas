@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085CBW12K-es eXtremeRate Juego completo de pegatinas para Nintendo...'
 sku: 'B085CBW12K-es'
-tags: [ 'nintendo', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

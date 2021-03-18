@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08T7CN9V7-es Webcam con Microfono para PC y Anillo de Luz OVIFM Webcam...'
 sku: 'B08T7CN9V7-es'
-tags: [ 'ps4','xbox', ]
 actualPrice: 33.98 EUR
 currency: EUR
 price: 33.98

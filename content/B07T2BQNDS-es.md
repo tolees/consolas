@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T2BQNDS-es Nintendo - Amiibo - Solid Snake [Colección Super Smash Bros]'
 sku: 'B07T2BQNDS-es'
-tags: [ 'nintendo', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

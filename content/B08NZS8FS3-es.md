@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NZS8FS3-es Extremella RCA a HDMI Converter & Cable Set 1080P RCA...'
 sku: 'B08NZS8FS3-es'
-tags: [ 'xbox', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

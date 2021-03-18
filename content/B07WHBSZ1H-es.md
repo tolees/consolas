@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WHBSZ1H-es Aceele Hub USB 3.0 Adaptador 4 Puertos USB 3.0 de Datos de...'
 sku: 'B07WHBSZ1H-es'
-tags: [ 'ps4','xbox', ]
 actualPrice: 13.56 EUR
 currency: EUR
 price: 13.56

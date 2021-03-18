@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08Y3XRX7K-es Super Mario 3D World: Super Mario 3D World + Bowser s Fury...'
 sku: 'B08Y3XRX7K-es'
-tags: [ 'nintendo', ]
 actualPrice: 28.51 EUR
 currency: EUR
 price: 28.51

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0799CNDYZ-es BIGBEN - Warhammer 40 000 Inquisitor Martyr Versión...'
 sku: 'B0799CNDYZ-es'
-tags: [ 'playstation', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CY8MWHZ-es Seagate Technology - Seagate Game Drive para PS4 2 TB...'
 sku: 'B08CY8MWHZ-es'
-tags: [ 'ps4', ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084DJ9J8C-es Funda + protector LCD para consola Nintendo Switch Lite...'
 sku: 'B084DJ9J8C-es'
-tags: [ 'nintendo', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

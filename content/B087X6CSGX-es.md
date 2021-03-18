@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087X6CSGX-es JAMSWALL Mando Inalámbrico PS3 Controlador inalámbrico...'
 sku: 'B087X6CSGX-es'
-tags: [ 'playstation', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

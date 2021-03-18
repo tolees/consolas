@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GG7VJPD-es Koch Media - Atelier Ryza 2 Lost Legends and the Secret...'
 sku: 'B08GG7VJPD-es'
-tags: [ 'nintendo', ]
 actualPrice: 49.92 EUR
 currency: EUR
 price: 49.92

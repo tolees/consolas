@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VSJMVVP-es Citadel : Forged with Fire pour PS4 [Importación francesa]'
 sku: 'B07VSJMVVP-es'
-tags: [ 'ps4', ]
 actualPrice: 33.41 EUR
 currency: EUR
 price: 33.41

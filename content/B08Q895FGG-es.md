@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08Q895FGG-es HDMI Splitter 4K TOPYIYI Duplicador HDMI 1 Entrada y 2...'
 sku: 'B08Q895FGG-es'
-tags: [ 'ps4','xbox', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

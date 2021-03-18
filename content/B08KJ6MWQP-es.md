@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KJ6MWQP-es Sony - PlayStation 4 - PS4 Pro + FIFA 21 + DS4'
 sku: 'B08KJ6MWQP-es'
-tags: [ 'playstation','ps4', ]
 actualPrice: 429.95 EUR
 currency: EUR
 price: 429.95

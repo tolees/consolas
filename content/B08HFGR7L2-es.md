@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HFGR7L2-es Nintendo - Game & Watch: Super Mario Bros.'
 sku: 'B08HFGR7L2-es'
-tags: [ 'nintendo', ]
 actualPrice: 41.67 EUR
 currency: EUR
 price: 41.67

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VB3YMFL-es PDP - Funda De Viajero Edición Poke Ball Elite Nintendo...'
 sku: 'B07VB3YMFL-es'
-tags: [ 'nintendo', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

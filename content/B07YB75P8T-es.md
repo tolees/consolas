@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YB75P8T-es FUNINGEEK Auriculares Gaming PS4 Cascos Gaming de Mac...'
 sku: 'B07YB75P8T-es'
-tags: [ 'ps4', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

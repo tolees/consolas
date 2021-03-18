@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08TBFKRVK-es YIONESHOP - Adaptador de euroconector a HDMI convertidor...'
 sku: 'B08TBFKRVK-es'
-tags: [ 'Accesorios para TV, vídeo y home cinema','Conversores de vídeo','Electrónica','TV, vídeo y home cinema','xbox','yioneshop', ]
 actualPrice: 11.28 EUR
 currency: EUR
 price: 11.28

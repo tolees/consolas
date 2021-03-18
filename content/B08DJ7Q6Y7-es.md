@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DJ7Q6Y7-es Monitor Portátil 13 3 Pulgadas Eviciv Monitor Gaming HDMI...'
 sku: 'B08DJ7Q6Y7-es'
-tags: [ 'ps4','xbox', ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

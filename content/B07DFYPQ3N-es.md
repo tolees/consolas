@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFYPQ3N-es Koch - Team Sonic Racing Nintendo Switch'
 sku: 'B07DFYPQ3N-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','koch','nintendo', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XK2GS5H-es Branpresto - 607698b - Dragon Ball - Figurine Super Heroes...'
 sku: 'B07XK2GS5H-es'
-tags: [ 'playstation', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

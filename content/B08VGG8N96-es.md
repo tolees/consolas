@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VGG8N96-es PlayVital Funda de Silicona para PS4 Protector de Piel...'
 sku: 'B08VGG8N96-es'
-tags: [ 'playstation','ps4', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

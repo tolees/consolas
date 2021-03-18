@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JW624NN-es Microsoft Mando inalámbrico Xbox + cable USB-C'
 sku: 'B08JW624NN-es'
-tags: [ 'xbox', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JYVBW7F-es Mando inalámbrico para Nintendo Switch Sendowtek Gamepad...'
 sku: 'B08JYVBW7F-es'
-tags: [ 'Accesorios para Nintendo Switch','Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','nintendo','sendowtek', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

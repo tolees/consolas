@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08V4SCFDS-es eXtremeRate Carcasa Joy-con Botones Completos D-Pad para...'
 sku: 'B08V4SCFDS-es'
-tags: [ 'nintendo', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

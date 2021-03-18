@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NDY9RNC-es DR.VIVA - Bateria Mando para Xbox One Series X S Cargador...'
 sku: 'B08NDY9RNC-es'
-tags: [ 'xbox', ]
 actualPrice: 19.8 EUR
 currency: EUR
 price: 19.8

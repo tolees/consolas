@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WDD4PTW-es SteelSeries Arctis 1 Wireless – Auriculares inalámbricos...'
 sku: 'B07WDD4PTW-es'
-tags: [ 'nintendo','ps4','ps5', ]
 actualPrice: 74.59 EUR
 currency: EUR
 price: 74.59

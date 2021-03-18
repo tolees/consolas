@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FMNRMX7-es GJYX Mando inalámbrico DualShock 4 para Playstation...'
 sku: 'B08FMNRMX7-es'
-tags: [ 'playstation', ]
 actualPrice: 16.59 EUR
 currency: EUR
 price: 16.59

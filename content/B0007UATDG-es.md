@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0007UATDG-es Nintendo Wii Sports Pack [importación]'
 sku: 'B0007UATDG-es'
-tags: [ 'nintendo', ]
 actualPrice: 124.9 EUR
 currency: EUR
 price: 124.9

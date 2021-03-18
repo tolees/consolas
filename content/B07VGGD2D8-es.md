@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGGD2D8-es PDP - Funda Travel Case Picachu Escala De Gris Nintendo...'
 sku: 'B07VGGD2D8-es'
-tags: [ 'nintendo', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PV4DL9N-es ENVEL - Auriculares para videojuegos con micrófono...'
 sku: 'B08PV4DL9N-es'
-tags: [ 'ps4','ps5','xbox', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

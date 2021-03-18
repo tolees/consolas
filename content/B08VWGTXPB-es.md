@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VWGTXPB-es PlayVital Soporte de Estación para Playstation 5 Control...'
 sku: 'B08VWGTXPB-es'
-tags: [ 'playstation','ps5', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

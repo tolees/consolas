@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SDFLVKD-es Microsoft - Mando Xbox - Carbon Black'
 sku: 'B07SDFLVKD-es'
-tags: [ 'xbox', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

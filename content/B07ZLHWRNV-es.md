@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZLHWRNV-es Koch Media - Blair Witch - PS4'
 sku: 'B07ZLHWRNV-es'
-tags: [ 'ps4', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C6WUP6S-es HORI - Vault Case Animal Crossing Nintendo Switch / Switch...'
 sku: 'B01C6WUP6S-es'
-tags: [ 'nintendo', ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

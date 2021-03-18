@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FJKK2L2-es Nintendo - Cadence of Hyrule - Crypt of the Necrodancer'
 sku: 'B08FJKK2L2-es'
-tags: [ 'nintendo', ]
 actualPrice: 31.92 EUR
 currency: EUR
 price: 31.92

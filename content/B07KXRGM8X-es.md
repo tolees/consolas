@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KXRGM8X-es SanDisk microSDXC UHS-I Tarjeta para Nintendo Switch 64GB...'
 sku: 'B07KXRGM8X-es'
-tags: [ 'nintendo', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

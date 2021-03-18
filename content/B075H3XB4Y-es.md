@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075H3XB4Y-es PowerA - Comfort Grip Para 2 Joy-Con De Mario Odyssey...'
 sku: 'B075H3XB4Y-es'
-tags: [ 'nintendo', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

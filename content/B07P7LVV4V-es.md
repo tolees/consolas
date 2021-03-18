@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P7LVV4V-es Koch Media - Fade to Silence - PlayStation 4'
 sku: 'B07P7LVV4V-es'
-tags: [ 'playstation', ]
 actualPrice: 12.24 EUR
 currency: EUR
 price: 12.24

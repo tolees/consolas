@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V6M7YLT-es Nintendo Switch Lite - Consola Amarillo'
 sku: 'B07V6M7YLT-es'
-tags: [ 'Consolas Nintendo Switch','Hardware y juegos para Nintendo Switch','Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','Juegos para Nintendo Switch','Videojuegos','nintendo', ]
 actualPrice: 194.9 EUR
 currency: EUR
 price: 194.9

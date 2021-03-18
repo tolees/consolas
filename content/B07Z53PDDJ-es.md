@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z53PDDJ-es ElecMoga - Adaptador USB C a VGA HDMI USB 3.0 Hub Tipo C a...'
 sku: 'B07Z53PDDJ-es'
-tags: [ 'nintendo', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088TSGZZG-es JAMSWALL Mando Inalámbrico para PS4 Mando para...'
 sku: 'B088TSGZZG-es'
-tags: [ 'ps4', ]
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

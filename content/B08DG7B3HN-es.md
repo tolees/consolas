@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DG7B3HN-es Konami - eFootball PES 2021 PS4'
 sku: 'B08DG7B3HN-es'
-tags: [ 'ps4', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

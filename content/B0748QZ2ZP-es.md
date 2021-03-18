@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0748QZ2ZP-es Oreillette gaming MCFC Manchester city pour PS4 - Xbox One...'
 sku: 'B0748QZ2ZP-es'
-tags: [ 'ps4','xbox', ]
 actualPrice: 15.66 EUR
 currency: EUR
 price: 15.66

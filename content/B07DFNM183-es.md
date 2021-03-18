@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DFNM183-es Pack Pegatinas [150-PCS] Q-Window Stickers Vinilo Graffiti...'
 sku: 'B07DFNM183-es'
-tags: [ 'ps4','xbox', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

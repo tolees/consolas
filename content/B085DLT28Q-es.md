@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085DLT28Q-es UPERCT - Monitor Portátil Pantalla Táctil 4K Uperfect 15...'
 sku: 'B085DLT28Q-es'
-tags: [ 'ps4','xbox', ]
 actualPrice: 479.99 EUR
 currency: EUR
 price: 479.99

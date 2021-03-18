@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R4LQ6HS-es Funda para Nintendo Switch HEYSTOP 11 en 1 Nintendo Switch...'
 sku: 'B07R4LQ6HS-es'
-tags: [ 'heystop','nintendo', ]
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

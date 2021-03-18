@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZFZ2KB4-es FR-TEC - Auriculares Gaming Headset Sword Azul Nintendo...'
 sku: 'B07ZFZ2KB4-es'
-tags: [ 'nintendo', ]
 actualPrice: 16.52 EUR
 currency: EUR
 price: 16.52

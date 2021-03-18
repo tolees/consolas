@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079HCLQJV-es Indeca - Auriculares casco PS4 PC Xbox Multiplataforma...'
 sku: 'B079HCLQJV-es'
-tags: [ 'playstation','ps4','xbox', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

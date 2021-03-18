@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PRYJQ4P-es A.O.T. 2: Final Battle - Nintendo Switch'
 sku: 'B07PRYJQ4P-es'
-tags: [ 'nintendo', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

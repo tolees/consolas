@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072K26SVS-es Pokkén Tournament DX - Nintendo Switch [Importación italiana]'
 sku: 'B072K26SVS-es'
-tags: [ 'nintendo', ]
 actualPrice: 32.34 EUR
 currency: EUR
 price: 32.34

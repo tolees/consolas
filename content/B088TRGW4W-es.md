@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088TRGW4W-es Zexrow Mando para Nintendo Switch Mando Pro Controller...'
 sku: 'B088TRGW4W-es'
-tags: [ 'nintendo', ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G91JJH4-es UBI Soft - Watch Dogs Legion Gold PS5'
 sku: 'B08G91JJH4-es'
-tags: [ 'ps5', ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

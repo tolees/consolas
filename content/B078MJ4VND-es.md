@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078MJ4VND-es Beexcellent - Auriculares Gaming Premium Stereo con...'
 sku: 'B078MJ4VND-es'
-tags: [ 'ps4','xbox', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

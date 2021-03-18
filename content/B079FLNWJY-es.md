@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079FLNWJY-es Techole HDMI Switch Conmutador HDMI Switcher Bidireccional...'
 sku: 'B079FLNWJY-es'
-tags: [ 'ps4','xbox', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VGDWR6Z-es PlayVital Funda de Silicona para Control Xbox One S X...'
 sku: 'B08VGDWR6Z-es'
-tags: [ 'xbox', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

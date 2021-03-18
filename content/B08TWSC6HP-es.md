@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TWSC6HP-es Hunty - Disco Duro Externo 1 TB USB3.0 Protable Disco Duro...'
 sku: 'B08TWSC6HP-es'
-tags: [ 'xbox', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

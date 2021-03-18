@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HHRR491-es Jump Force - Collector s Edition Playstation 4'
 sku: 'B07HHRR491-es'
-tags: [ 'playstation', ]
 actualPrice: 129.95 EUR
 currency: EUR
 price: 129.95

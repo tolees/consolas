@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GSS1M86-es eXtremeRate Lofty Programable Remap&Gatillo de Parada Kit...'
 sku: 'B08GSS1M86-es'
-tags: [ 'xbox', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

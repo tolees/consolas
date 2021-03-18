@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WJ2JWBB-es B Baosity Base De Base De Muelle De Montaje Vertical...'
 sku: 'B07WJ2JWBB-es'
-tags: [ 'playstation','ps4', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

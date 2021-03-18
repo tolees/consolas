@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZPN563F-es Anker Soundcore Strike 1 Gaming Auriculares auriculares de...'
 sku: 'B07ZPN563F-es'
-tags: [ 'ps4','xbox', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

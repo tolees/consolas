@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086X62VMR-es EasySMX - Auriculares Gaming Luces RGB [Regalos...'
 sku: 'B086X62VMR-es'
-tags: [ 'nintendo','ps4','xbox', ]
 actualPrice: 14.58 EUR
 currency: EUR
 price: 14.58

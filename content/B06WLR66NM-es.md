@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WLR66NM-es Timorn La más Nueva versión Teclado del reemplazo Cable...'
 sku: 'B06WLR66NM-es'
-tags: [ 'playstation','ps4', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

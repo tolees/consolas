@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G91DBJX-es Ubisoft Spain - Assassin s Creed Valhalla Gold PS5'
 sku: 'B08G91DBJX-es'
-tags: [ 'ps5', ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

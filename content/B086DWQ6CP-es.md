@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086DWQ6CP-es Auriculares Gaming para PS4 Moimhear Auriculares para Xbox...'
 sku: 'B086DWQ6CP-es'
-tags: [ 'ps4','xbox', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

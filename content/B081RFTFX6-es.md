@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081RFTFX6-es Spedal - Webcam 1080P Full HD Webcam Streaming PC Cámara...'
 sku: 'B081RFTFX6-es'
-tags: [ 'xbox', ]
 actualPrice: 33.14 EUR
 currency: EUR
 price: 33.14

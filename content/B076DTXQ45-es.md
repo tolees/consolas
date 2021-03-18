@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076DTXQ45-es Sharplace 2pcs Analogico Silicona Cap Joystick Thumb Stick...'
 sku: 'B076DTXQ45-es'
-tags: [ 'xbox', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

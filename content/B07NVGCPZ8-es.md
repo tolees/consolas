@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NVGCPZ8-es Monedero Playstation Plegable Negro 16 cm'
 sku: 'B07NVGCPZ8-es'
-tags: [ 'playstation', ]
 actualPrice: 21.03 EUR
 currency: EUR
 price: 21.03

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XWMLVH7-es Cascos Gaming Unicview Onikuma para PS5 PC Xbox Series X/S...'
 sku: 'B07XWMLVH7-es'
-tags: [ 'ps5','xbox', ]
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

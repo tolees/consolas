@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VJ4SWL6-es eXtremeRate Carcasa Decorativa para Mando de PS5 Cubierta...'
 sku: 'B08VJ4SWL6-es'
-tags: [ 'playstation','ps5', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

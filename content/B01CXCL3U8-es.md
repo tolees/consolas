@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CXCL3U8-es TP-Link TL-PA8010 KIT - 2 Adaptadores de Comunicación por...'
 sku: 'B01CXCL3U8-es'
-tags: [ 'nintendo','ps4', ]
 actualPrice: 57.35 EUR
 currency: EUR
 price: 57.35

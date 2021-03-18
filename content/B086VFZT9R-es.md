@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086VFZT9R-es Slanwin - Proyector de 5500 lúmenes compatible con Full...'
 sku: 'B086VFZT9R-es'
-tags: [ 'ps4', ]
 actualPrice: 96.79 EUR
 currency: EUR
 price: 96.79

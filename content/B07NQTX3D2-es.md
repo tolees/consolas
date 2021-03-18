@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NQTX3D2-es Nintendo - Dragon Quest Builders 2'
 sku: 'B07NQTX3D2-es'
-tags: [ 'nintendo', ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ADW9R22-es TP-Link TL-PA4010P Kit Powerline con enchufe adicional AV...'
 sku: 'B00ADW9R22-es'
-tags: [ 'Adaptadores de comunicación por línea eléctrica','Adaptadores de red','Dispositivos de red','Informática','ps4','tp-link', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

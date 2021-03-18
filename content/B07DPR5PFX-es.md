@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DPR5PFX-es Super Mario Party Nintendo Switch'
 sku: 'B07DPR5PFX-es'
-tags: [ 'nintendo', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

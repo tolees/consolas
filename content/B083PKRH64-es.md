@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083PKRH64-es Nintendo - Pokemon Mundo Misterioso: Equipo de Rescate DX'
 sku: 'B083PKRH64-es'
-tags: [ 'nintendo', ]
 actualPrice: 45.98 EUR
 currency: EUR
 price: 45.98

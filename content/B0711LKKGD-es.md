@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0711LKKGD-es Beexcellent GM-1 - Auriculares Gaming para PS4 PC Xbox one...'
 sku: 'B0711LKKGD-es'
-tags: [ 'playstation','ps4','xbox', ]
 actualPrice: 18.96 EUR
 currency: EUR
 price: 18.96

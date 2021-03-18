@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NDVSKXC-es Dr.VIVA - Batería de Controlador para Xbox One Series X S...'
 sku: 'B08NDVSKXC-es'
-tags: [ 'xbox', ]
 actualPrice: 22.8 EUR
 currency: EUR
 price: 22.8

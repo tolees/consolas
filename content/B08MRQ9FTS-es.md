@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MRQ9FTS-es Nintendo Switch Lite Turquesa + Animal Crossing New...'
 sku: 'B08MRQ9FTS-es'
-tags: [ 'nintendo', ]
 actualPrice: 249.9 EUR
 currency: EUR
 price: 249.9

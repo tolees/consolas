@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078Q74JZP-es Nuwa - Mando Inalámbrico Color Negro PS4'
 sku: 'B078Q74JZP-es'
-tags: [ 'ps4', ]
 actualPrice: 26.8 EUR
 currency: EUR
 price: 26.8

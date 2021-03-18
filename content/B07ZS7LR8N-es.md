@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZS7LR8N-es Sony - Nioh 2 - PlayStation 4 [Importación inglesa]'
 sku: 'B07ZS7LR8N-es'
-tags: [ 'playstation', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

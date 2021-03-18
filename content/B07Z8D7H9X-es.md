@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z8D7H9X-es Power A - PowerA - Kit de estuche discreto para Nintendo...'
 sku: 'B07Z8D7H9X-es'
-tags: [ 'nintendo', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

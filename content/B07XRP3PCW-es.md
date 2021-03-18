@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XRP3PCW-es Paladone Playstation - Icons Light XL Multicolor PP5852PS'
 sku: 'B07XRP3PCW-es'
-tags: [ 'Iluminación','Iluminación de ambiente de interior','Iluminación de interior','Iluminación decorativa y para usos específicos de interior','paladone','playstation', ]
 actualPrice: 31.52 EUR
 currency: EUR
 price: 31.52

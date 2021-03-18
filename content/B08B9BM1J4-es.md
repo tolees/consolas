@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B9BM1J4-es Electronic Arts - STAR WARS: Squadrons PlayStation 4...'
 sku: 'B08B9BM1J4-es'
-tags: [ 'playstation', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

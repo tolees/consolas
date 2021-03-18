@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BGMR2NC-es Electronic Arts - FIFA 21 Standard Edition - PS4'
 sku: 'B08BGMR2NC-es'
-tags: [ 'ps4', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

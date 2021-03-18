@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H3QWY1C-es Koch Media - Retro-Bit Sega - Control Pad Saturn USB Pad...'
 sku: 'B07H3QWY1C-es'
-tags: [ 'sega', ]
 actualPrice: 15.8 EUR
 currency: EUR
 price: 15.8

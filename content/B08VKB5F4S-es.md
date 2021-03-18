@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08VKB5F4S-es SEGA - Two Point Hospital Jumbo Edition'
 sku: 'B08VKB5F4S-es'
-tags: [ 'sega', ]
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

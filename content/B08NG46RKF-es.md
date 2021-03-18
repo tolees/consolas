@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NG46RKF-es Nintendo Switch Lite Coral + Animal Crossing New Horizons...'
 sku: 'B08NG46RKF-es'
-tags: [ 'nintendo', ]
 actualPrice: 244.3 EUR
 currency: EUR
 price: 244.3

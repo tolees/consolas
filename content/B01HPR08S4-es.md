@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HPR08S4-es Smatree Batería de Controlador Xbox One Xbox Series X/ S...'
 sku: 'B01HPR08S4-es'
-tags: [ 'xbox', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

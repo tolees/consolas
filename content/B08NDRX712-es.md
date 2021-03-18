@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NDRX712-es Shareconn Cargador Dual para mandos PS5 DualSense...'
 sku: 'B08NDRX712-es'
-tags: [ 'ps5', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

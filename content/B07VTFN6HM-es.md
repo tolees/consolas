@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VTFN6HM-es Western Digital - WD My Passport Disco duro portátil con...'
 sku: 'B07VTFN6HM-es'
-tags: [ 'ps4','western digital','xbox', ]
 actualPrice: 58.0 EUR
 currency: EUR
 price: 58.0

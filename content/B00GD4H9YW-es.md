@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00GD4H9YW-es 4Gamers - Ardistel - Stereo Gaming Headset PS4 PS Vita'
 sku: 'B00GD4H9YW-es'
-tags: [ 'ps4', ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

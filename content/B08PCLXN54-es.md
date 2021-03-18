@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PCLXN54-es ECHTPower Cargador Mando PS5 Estación de Carga Rápida Base...'
 sku: 'B08PCLXN54-es'
-tags: [ 'playstation','ps5', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

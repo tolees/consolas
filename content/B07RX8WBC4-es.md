@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RX8WBC4-es PDP - Mando Pro Deluxe Faceoff Chat Audio Camo Azul...'
 sku: 'B07RX8WBC4-es'
-tags: [ 'nintendo', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

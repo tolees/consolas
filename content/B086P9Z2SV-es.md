@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086P9Z2SV-es Beikell Hub USB 3.0 con 4 Puertos Concentrador Adaptador...'
 sku: 'B086P9Z2SV-es'
-tags: [ 'ps4','xbox', ]
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

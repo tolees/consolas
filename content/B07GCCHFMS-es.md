@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GCCHFMS-es Tasikar Funda Compatible con Nintendo Switch Agarre...'
 sku: 'B07GCCHFMS-es'
-tags: [ 'nintendo', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

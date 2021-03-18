@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SNKD37L-es Nintendo - amiibo Byleth colección Super Smash Bros.'
 sku: 'B08SNKD37L-es'
-tags: [ 'nintendo', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

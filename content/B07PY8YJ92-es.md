@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PY8YJ92-es Koch Media - Kingdom Come: Deliverance - Royal Edition - PS4'
 sku: 'B07PY8YJ92-es'
-tags: [ 'ps4', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

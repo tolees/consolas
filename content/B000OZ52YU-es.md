@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000OZ52YU-es SEGA Mario & Sonic at the Olympic Games Wii - Juego Wii'
 sku: 'B000OZ52YU-es'
-tags: [ 'sega', ]
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

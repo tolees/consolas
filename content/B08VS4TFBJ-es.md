@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VS4TFBJ-es Hunty - Disco Duro 1 TB Externo Disco Duro Externo Ultra...'
 sku: 'B08VS4TFBJ-es'
-tags: [ 'xbox', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

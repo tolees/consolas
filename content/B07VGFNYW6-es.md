@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VGFNYW6-es SEGA - Super Monkey Ball: Banana Blitz HD - Nintendo Switch'
 sku: 'B07VGFNYW6-es'
-tags: [ 'nintendo','sega', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

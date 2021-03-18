@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D45WDR7-es Turtle Beach Stealth 700 Gen 2 - Auriculares Gaming...'
 sku: 'B08D45WDR7-es'
-tags: [ 'xbox', ]
 actualPrice: 123.94 EUR
 currency: EUR
 price: 123.94

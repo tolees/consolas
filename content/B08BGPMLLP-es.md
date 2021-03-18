@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BGPMLLP-es Electronic Arts - FIFA 21 Legacy Edition - Nintendo Switch'
 sku: 'B08BGPMLLP-es'
-tags: [ 'nintendo', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

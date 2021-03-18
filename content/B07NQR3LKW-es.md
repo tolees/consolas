@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NQR3LKW-es Nintendo - Zelda Link s Awakening Remake'
 sku: 'B07NQR3LKW-es'
-tags: [ 'nintendo', ]
 actualPrice: 45.9 EUR
 currency: EUR
 price: 45.9

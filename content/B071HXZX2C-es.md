@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071HXZX2C-es Seagate Technology - Seagate Game Drive para Xbox 4 TB...'
 sku: 'B071HXZX2C-es'
-tags: [ 'xbox', ]
 actualPrice: 100.25 EUR
 currency: EUR
 price: 100.25

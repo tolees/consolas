@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FQN6ZQ9-es eXtremeRate 2 Protectores de Pantalla para Nintendo Switch...'
 sku: 'B08FQN6ZQ9-es'
-tags: [ 'nintendo', ]
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

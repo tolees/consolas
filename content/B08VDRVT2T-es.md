@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VDRVT2T-es MHDYT Webcam PC con Microfono y Aro de Luz Camara Web...'
 sku: 'B08VDRVT2T-es'
-tags: [ 'mhdyt','xbox', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

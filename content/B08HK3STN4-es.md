@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HK3STN4-es Nintendo - Super Mario 3D World + Bowser s Fury'
 sku: 'B08HK3STN4-es'
-tags: [ 'nintendo', ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

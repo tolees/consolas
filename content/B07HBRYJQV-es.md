@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HBRYJQV-es HORI - Battle Pad Peach Nintendo Switch'
 sku: 'B07HBRYJQV-es'
-tags: [ 'nintendo', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

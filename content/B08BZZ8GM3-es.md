@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BZZ8GM3-es Atlus - 13 Sentinels: Aegis Rim PS4'
 sku: 'B08BZZ8GM3-es'
-tags: [ 'ps4', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LSWGP31-es Proyector WiFi Bluetooth Full HD 1080P 7500 WiMiUS...'
 sku: 'B08LSWGP31-es'
-tags: [ 'ps4', ]
 actualPrice: 239.02 EUR
 currency: EUR
 price: 239.02

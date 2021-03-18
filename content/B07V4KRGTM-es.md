@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V4KRGTM-es TSUPY Hub USB 3.0 con Cable de 1 2m Ladrón USB 3.0 3...'
 sku: 'B07V4KRGTM-es'
-tags: [ 'ps4','xbox', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

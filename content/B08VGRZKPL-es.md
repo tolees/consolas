@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VGRZKPL-es eXtremeRate Botones para Mando de PS5 Teclas de Repuesto...'
 sku: 'B08VGRZKPL-es'
-tags: [ 'playstation','ps5', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

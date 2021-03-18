@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N5OORGV-es Nintendo - Mando Joycon Set Color Azul Y Rojo Nintendo Switch'
 sku: 'B01N5OORGV-es'
-tags: [ 'nintendo', ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

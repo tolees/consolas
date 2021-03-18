@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QYV5Z1G-es Auriculares Gaming PS4 YINSAN Cascos Gaming Premium...'
 sku: 'B07QYV5Z1G-es'
-tags: [ 'ps4', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

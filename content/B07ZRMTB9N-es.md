@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZRMTB9N-es [Versión Nueva] PICTEK Mando PS4 Inalambrico Diseño...'
 sku: 'B07ZRMTB9N-es'
-tags: [ 'ps4', ]
 actualPrice: 32.29 EUR
 currency: EUR
 price: 32.29

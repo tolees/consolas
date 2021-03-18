@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DD7ZTWB-es Trust Gaming - Trust Cascos Gaming GXT 433K Pylo...'
 sku: 'B08DD7ZTWB-es'
-tags: [ 'nintendo','ps4','ps5','xbox', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

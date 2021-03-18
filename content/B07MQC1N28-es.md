@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MQC1N28-es Paladone XBox - Logo Light PP5686XB'
 sku: 'B07MQC1N28-es'
-tags: [ 'xbox', ]
 actualPrice: 19.34 EUR
 currency: EUR
 price: 19.34

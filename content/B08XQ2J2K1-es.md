@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08XQ2J2K1-es Maegoo Mando para PS4 Bluetooth Inalámbrico Mando Joystick...'
 sku: 'B08XQ2J2K1-es'
-tags: [ 'playstation','ps4', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

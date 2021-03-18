@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KV5VKXW-es Unicview Pandora Box X Plus 3303 Juegos Retro Consola...'
 sku: 'B07KV5VKXW-es'
-tags: [ 'sega', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

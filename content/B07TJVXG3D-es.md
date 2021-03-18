@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TJVXG3D-es Sony CEE Games New Gen - Death Stranding - Edición...'
 sku: 'B07TJVXG3D-es'
-tags: [ 'ps4', ]
 actualPrice: 48.5 EUR
 currency: EUR
 price: 48.5

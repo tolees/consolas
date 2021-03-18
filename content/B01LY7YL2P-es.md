@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LY7YL2P-es Ubisoft Spain - Assassin s Creed: The Ezio Collection -...'
 sku: 'B01LY7YL2P-es'
-tags: [ 'playstation', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

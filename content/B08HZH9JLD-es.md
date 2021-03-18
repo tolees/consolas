@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HZH9JLD-es Ubisoft Spain - Immortals Fenyx Rising Gold Edition PS4'
 sku: 'B08HZH9JLD-es'
-tags: [ 'ps4', ]
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

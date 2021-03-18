@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RPS7Z3L-es BENFEI Cable HDMI a VGA 2 Pack Chapado en Oro Macho a...'
 sku: 'B07RPS7Z3L-es'
-tags: [ 'xbox', ]
 actualPrice: 17.84 EUR
 currency: EUR
 price: 17.84

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SK6Q9KD-es Frusde - Funda Mando a Distancia PS5 Silicona Protectora...'
 sku: 'B08SK6Q9KD-es'
-tags: [ 'playstation','ps5', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

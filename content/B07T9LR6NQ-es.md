@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T9LR6NQ-es eXtremeRate Juego Completo de calcomanías para Placa...'
 sku: 'B07T9LR6NQ-es'
-tags: [ 'nintendo', ]
 actualPrice: 22.34 EUR
 currency: EUR
 price: 22.34

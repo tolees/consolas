@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088ZFHDK9-es SEGA - Yakuza Like a Dragon Day Ichi Edition - PS4'
 sku: 'B088ZFHDK9-es'
-tags: [ 'Accesorios para Juegos PC','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Juegos y Accesorios para PC','Teclados para gamers para PC','Videojuegos','ps4','sega', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

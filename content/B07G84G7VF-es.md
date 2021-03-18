@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G84G7VF-es MiraBox Game Capture HDMI - USB 3.0 1080P 60FPS HD...'
 sku: 'B07G84G7VF-es'
-tags: [ 'playstation','xbox', ]
 actualPrice: 95.99 EUR
 currency: EUR
 price: 95.99

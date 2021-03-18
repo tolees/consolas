@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071NNHJ94-es FR·TEC - Grips All Games - PS3 PS4'
 sku: 'B071NNHJ94-es'
-tags: [ 'ps4', ]
 actualPrice: 3.9 EUR
 currency: EUR
 price: 3.9

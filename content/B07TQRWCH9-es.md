@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TQRWCH9-es Maegoo Mando Controlador Inalámbrico para Nintendo Switch...'
 sku: 'B07TQRWCH9-es'
-tags: [ 'nintendo', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

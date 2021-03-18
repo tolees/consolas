@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08V1CLMQ8-es celeste - Disco Duro Externo 2 TB Type C USB3.1 Disco Duro...'
 sku: 'B08V1CLMQ8-es'
-tags: [ 'xbox', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

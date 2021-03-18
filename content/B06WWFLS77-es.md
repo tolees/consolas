@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06WWFLS77-es TP-Link TL-WPA7510 - KIT de Adaptadores Powerline Gigabit...'
 sku: 'B06WWFLS77-es'
-tags: [ 'nintendo','ps4', ]
 actualPrice: 71.86 EUR
 currency: EUR
 price: 71.86

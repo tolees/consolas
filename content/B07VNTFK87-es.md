@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VNTFK87-es WD BLACK - WD BLACK P10 Game Drive de 4 TB para llevar tu...'
 sku: 'B07VNTFK87-es'
-tags: [ 'playstation', ]
 actualPrice: 104.0 EUR
 currency: EUR
 price: 104.0

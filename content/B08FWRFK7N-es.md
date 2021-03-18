@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FWRFK7N-es UrChoiceLtd - Arco iris retroiluminado de 39 teclas con...'
 sku: 'B08FWRFK7N-es'
-tags: [ 'nintendo','ps4', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

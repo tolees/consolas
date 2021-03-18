@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DRHPMSF-es Keten kit de accesorios 13 en 1 para Nintendo Switch...'
 sku: 'B07DRHPMSF-es'
-tags: [ 'nintendo', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

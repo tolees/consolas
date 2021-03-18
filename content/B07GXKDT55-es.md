@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GXKDT55-es Razer Nari Essential Auriculares Inalámbricos para juegos...'
 sku: 'B07GXKDT55-es'
-tags: [ 'ps4','razer','xbox', ]
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VTB19FC-es Koch Media - Judgment PS5 IT/ESP'
 sku: 'B08VTB19FC-es'
-tags: [ 'ps5', ]
 actualPrice: 34.26 EUR
 currency: EUR
 price: 34.26

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HC4ZD3B-es Hori - Base de Carga Poké Ball Plus Nintendo Switch'
 sku: 'B07HC4ZD3B-es'
-tags: [ 'nintendo', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

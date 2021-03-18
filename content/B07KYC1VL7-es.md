@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KYC1VL7-es HyperX HX-HSCSCX-BK CloudX Stinger Core - Cascos de Gaming...'
 sku: 'B07KYC1VL7-es'
-tags: [ 'xbox', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071SGN34W-es ⭐️KLIM Lightning AZERTY - Nueva Versión - Teclado Híbrido...'
 sku: 'B071SGN34W-es'
-tags: [ 'ps4', ]
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

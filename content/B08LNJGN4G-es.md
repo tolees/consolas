@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LNJGN4G-es DIGITNOW! - SCART a HDMI Convertidor convierte la entrada...'
 sku: 'B08LNJGN4G-es'
-tags: [ 'digitnow!','xbox', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

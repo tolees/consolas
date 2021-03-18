@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HKCKA0G-es Tritton Kama - Auriculares estéreo de diadema cerrados...'
 sku: 'B00HKCKA0G-es'
-tags: [ 'ps4', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

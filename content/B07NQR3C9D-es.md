@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NQR3C9D-es Nintendo - Astral Chain'
 sku: 'B07NQR3C9D-es'
-tags: [ 'nintendo', ]
 actualPrice: 41.5 EUR
 currency: EUR
 price: 41.5

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072KGYZ3L-es Lego Marvel Super Heroes 2 - Nintendo Switch [Importación...'
 sku: 'B072KGYZ3L-es'
-tags: [ 'nintendo', ]
 actualPrice: 43.12 EUR
 currency: EUR
 price: 43.12

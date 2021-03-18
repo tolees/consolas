@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DPFDWXN-es PS4 - Estación de carga dualshock 4 soporte de...'
 sku: 'B07DPFDWXN-es'
-tags: [ 'playstation','ps4', ]
 actualPrice: 16.13 EUR
 currency: EUR
 price: 16.13

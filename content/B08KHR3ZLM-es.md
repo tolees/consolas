@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KHR3ZLM-es Nintendo Joy-Con I Neon Azul'
 sku: 'B08KHR3ZLM-es'
-tags: [ 'nintendo', ]
 actualPrice: 37.79 EUR
 currency: EUR
 price: 37.79

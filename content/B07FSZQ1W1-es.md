@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FSZQ1W1-es [2017 SADES SA807 Nueva Xbox one PS4 Gaming Headset]...'
 sku: 'B07FSZQ1W1-es'
-tags: [ 'ps4','xbox', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

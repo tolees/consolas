@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MVZKGTV-es Koch Media - Hitman III - PS5'
 sku: 'B08MVZKGTV-es'
-tags: [ 'ps5', ]
 actualPrice: 49.15 EUR
 currency: EUR
 price: 49.15

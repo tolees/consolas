@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GKJRFWR-es PSZH Mando inalámbrico para Playstation 4 Cinco Piezas -Black'
 sku: 'B08GKJRFWR-es'
-tags: [ 'playstation', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

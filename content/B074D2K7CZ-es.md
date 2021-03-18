@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074D2K7CZ-es Angetube Cámara Web HD a 1080P con micrófono cámara Web...'
 sku: 'B074D2K7CZ-es'
-tags: [ 'xbox', ]
 actualPrice: 47.59 EUR
 currency: EUR
 price: 47.59

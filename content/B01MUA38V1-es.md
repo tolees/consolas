@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MUA38V1-es Nintendo - Splatoon 2 Edición Estándar'
 sku: 'B01MUA38V1-es'
-tags: [ 'nintendo', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

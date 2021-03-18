@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DNZZS3W-es Mandos para Nintendo Switch EasySMX Mando Switch'
 sku: 'B08DNZZS3W-es'
-tags: [ 'nintendo', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

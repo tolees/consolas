@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BKGH6TH-es Sega Mega Drive Classics'
 sku: 'B07BKGH6TH-es'
-tags: [ 'sega', ]
 actualPrice: 20.9 EUR
 currency: EUR
 price: 20.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PCR4CCN-es ECHTPower Cargador nintendo switch Adaptador de Corriente...'
 sku: 'B07PCR4CCN-es'
-tags: [ 'nintendo', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BNDQ8X7-es Disco Duro Externo 2tb USB 3.1 para Mac PC MacBook...'
 sku: 'B08BNDQ8X7-es'
-tags: [ 'xbox', ]
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

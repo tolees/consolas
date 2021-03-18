@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YFGTDV4-es WD BLACK - WD BLACK P50 Game Drive de 1 TB - Velocidades...'
 sku: 'B07YFGTDV4-es'
-tags: [ 'playstation', ]
 actualPrice: 242.65 EUR
 currency: EUR
 price: 242.65

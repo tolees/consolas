@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZFZK4S3-es FR-TEC - Rick and Morty Pickle Rick Combo Pack para mando...'
 sku: 'B07ZFZK4S3-es'
-tags: [ 'ps4', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

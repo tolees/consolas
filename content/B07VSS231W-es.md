@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VSS231W-es Beexcellent Cascos PS4 con Micrófono Flexible para Xbox...'
 sku: 'B07VSS231W-es'
-tags: [ 'nintendo','ps4','xbox', ]
 actualPrice: 32.72 EUR
 currency: EUR
 price: 32.72

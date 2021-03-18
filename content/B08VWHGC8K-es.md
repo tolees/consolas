@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VWHGC8K-es eXtremeRate PlayVital Pegatina para Xbox Series X S...'
 sku: 'B08VWHGC8K-es'
-tags: [ 'xbox', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

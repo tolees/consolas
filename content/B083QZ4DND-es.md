@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083QZ4DND-es Astragon - Snowrunner: Standard Edition USK - Standard-...'
 sku: 'B083QZ4DND-es'
-tags: [ 'playstation', ]
 actualPrice: 33.14 EUR
 currency: EUR
 price: 33.14

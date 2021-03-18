@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PZC4J5W-es Funda Para Mando Playstation 5 - Protector Portátil Dual...'
 sku: 'B08PZC4J5W-es'
-tags: [ 'playstation','ps5', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

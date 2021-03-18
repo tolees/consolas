@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CVDPQ9P-es FUNINGEEK - Cascos Gaming PS4 Cascos Gaming de Estéreo con...'
 sku: 'B08CVDPQ9P-es'
-tags: [ 'ps4', ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

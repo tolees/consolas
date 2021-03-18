@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QZFLVM7-es Nintendo - The Legend of Zelda: Link s Awakening...'
 sku: 'B07QZFLVM7-es'
-tags: [ 'nintendo', ]
 actualPrice: 39.17 EUR
 currency: EUR
 price: 39.17

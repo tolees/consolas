@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZTCDY6R-es Diswoe Mando para Nintendo Switch Wireless Bluetooth Pro...'
 sku: 'B07ZTCDY6R-es'
-tags: [ 'nintendo', ]
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

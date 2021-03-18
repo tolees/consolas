@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DP3F1T6-es Koch Media - Wolfenstein Youngblood - Edición Deluxe PS4'
 sku: 'B07DP3F1T6-es'
-tags: [ 'ps4', ]
 actualPrice: 14.9 EUR
 currency: EUR
 price: 14.9

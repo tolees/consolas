@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TY7LDHC-es Razer Kraken X para ConsolasCascos Gaming Auriculares...'
 sku: 'B07TY7LDHC-es'
-tags: [ 'ps4','xbox', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

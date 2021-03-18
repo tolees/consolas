@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V22PDZ8-es RedThunder Teclado Semimecánico Gaming Retroiluminación...'
 sku: 'B07V22PDZ8-es'
-tags: [ 'ps4','xbox', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

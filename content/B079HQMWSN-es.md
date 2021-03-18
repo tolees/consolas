@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079HQMWSN-es This is the Police 2 - Xbox One'
 sku: 'B079HQMWSN-es'
-tags: [ 'xbox', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

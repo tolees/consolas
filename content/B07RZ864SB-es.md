@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RZ864SB-es FIFA 20 - Xbox One [Importación inglesa]'
 sku: 'B07RZ864SB-es'
-tags: [ 'xbox', ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

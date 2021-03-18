@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BDVZ3D8-es BIGBEN - Tennis World Tour - Versión Español PS4'
 sku: 'B07BDVZ3D8-es'
-tags: [ 'ps4', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

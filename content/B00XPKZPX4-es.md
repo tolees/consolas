@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00XPKZPX4-es Nintendo - Figura Amiibo Bowser Jr. Serie SSB'
 sku: 'B00XPKZPX4-es'
-tags: [ 'nintendo', ]
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

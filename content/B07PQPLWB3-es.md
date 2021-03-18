@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PQPLWB3-es 4K Cable HDMI 2 metros 2.0 Cable HDMI Ultra HD soporta 4K...'
 sku: 'B07PQPLWB3-es'
-tags: [ 'ps4','xbox', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

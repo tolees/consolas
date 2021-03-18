@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HBR66TR-es Warner Bros. Interactive Entertainment - LEGO Harry Potter...'
 sku: 'B07HBR66TR-es'
-tags: [ 'nintendo', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

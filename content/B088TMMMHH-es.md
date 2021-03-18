@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088TMMMHH-es Haobuy Joy-con Caps and 2 Joystick Cover for Nintendo...'
 sku: 'B088TMMMHH-es'
-tags: [ 'nintendo', ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

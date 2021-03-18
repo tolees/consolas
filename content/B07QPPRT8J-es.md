@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QPPRT8J-es Electronic Arts - Star Wars Jedi Fallen Order - PS4'
 sku: 'B07QPPRT8J-es'
-tags: [ 'ps4', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y1WRD1H-es Pacrate - Auriculares Gaming PS4 Cascos Gaming de Estéreo...'
 sku: 'B07Y1WRD1H-es'
-tags: [ 'ps4', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N1QO0TS-es Bionik - Quickshot Xbox One'
 sku: 'B01N1QO0TS-es'
-tags: [ 'xbox', ]
 actualPrice: 13.17 EUR
 currency: EUR
 price: 13.17

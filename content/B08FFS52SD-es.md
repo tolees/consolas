@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FFS52SD-es Tina @ Wireless pro para Nintendo Switch controlador...'
 sku: 'B08FFS52SD-es'
-tags: [ 'nintendo', ]
 actualPrice: 20.8 EUR
 currency: EUR
 price: 20.8

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TKXG8LR-es Spedal Pro Stream Webcam 1080P Dos Micrófonos Estéreo Tapa...'
 sku: 'B07TKXG8LR-es'
-tags: [ 'xbox', ]
 actualPrice: 40.11 EUR
 currency: EUR
 price: 40.11

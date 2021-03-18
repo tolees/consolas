@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08VKB42SV-es SEGA - Two Point Hospital Jumbo Edition'
 sku: 'B08VKB42SV-es'
-tags: [ 'Figuras interactivas para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo 3DS y 2DS','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Juegos para Nintendo Switch','Juegos para PlayStation 4','Sistemas precursores y micro consolas','Videojuegos','sega', ]
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

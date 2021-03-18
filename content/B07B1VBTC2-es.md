@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B1VBTC2-es Sades SA810 Auriculares Gaming - 3.5mm Cancelación De...'
 sku: 'B07B1VBTC2-es'
-tags: [ 'ps4','xbox', ]
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

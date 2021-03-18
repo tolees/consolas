@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HCRY5L9-es Luigi s Mansion 3 Edición: Estándar - Nintendo Switch'
 sku: 'B07HCRY5L9-es'
-tags: [ 'nintendo', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

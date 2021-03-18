@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BCP3PYL-es Maxone - Disco duro externo 500GB - 2.5" USB 3.0 Ultrafino...'
 sku: 'B07BCP3PYL-es'
-tags: [ 'maxone','ps4','xbox', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WRQK4ZX-es THQ NORDIC - Monkey King: Hero is Back - PS4'
 sku: 'B07WRQK4ZX-es'
-tags: [ 'ps4', ]
 actualPrice: 13.52 EUR
 currency: EUR
 price: 13.52

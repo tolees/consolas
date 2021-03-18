@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SKJ2JVB-es ASUS TUF Gaming H7 Wireless Gun Metal - Auriculares...'
 sku: 'B07SKJ2JVB-es'
-tags: [ 'ps4', ]
 actualPrice: 94.9 EUR
 currency: EUR
 price: 94.9

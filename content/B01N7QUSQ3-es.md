@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N7QUSQ3-es Nintendo - The Legenda of Zelda: Breath of the Wild...'
 sku: 'B01N7QUSQ3-es'
-tags: [ 'nintendo', ]
 actualPrice: 45.95 EUR
 currency: EUR
 price: 45.95

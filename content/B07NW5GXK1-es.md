@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NW5GXK1-es KONKY PS4 Cargador Cargador Mandos PS4 Dualshock PS4...'
 sku: 'B07NW5GXK1-es'
-tags: [ 'playstation','ps4', ]
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

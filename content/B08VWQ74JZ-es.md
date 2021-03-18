@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VWQ74JZ-es eXtremeRate PlayVital RGB LED Tira de Luces con Control...'
 sku: 'B08VWQ74JZ-es'
-tags: [ 'xbox', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99
