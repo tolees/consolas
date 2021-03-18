@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074ZPBYWN-es 3x Pegatina Cubierta Adhesiva Creativo Protección Jeugo...'
 sku: 'B074ZPBYWN-es'
+tags: [ 'playstation','ps4', ]
 actualPrice: 6.47 EUR
 currency: EUR
 price: 6.47

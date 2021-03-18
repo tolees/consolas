@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076QKKG2T-es Razer Electra V2 - Auriculares analógicos para juegos y...'
 sku: 'B076QKKG2T-es'
+tags: [ 'ps4','xbox', ]
 actualPrice: 35 EUR
 currency: EUR
 price: 35

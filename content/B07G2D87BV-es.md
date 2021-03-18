@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G2D87BV-es Auriculares Gaming Stereo Sony Oficial PS4 Bigben Interactive'
 sku: 'B07G2D87BV-es'
+tags: [ 'ps4', ]
 actualPrice: 7.8 EUR
 currency: EUR
 price: 7.8

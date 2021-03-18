@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GVRZZGY-es God of War - PlayStation 4 [Importación inglesa]'
 sku: 'B01GVRZZGY-es'
+tags: [ 'playstation', ]
 actualPrice: 30.03 EUR
 currency: EUR
 price: 30.03

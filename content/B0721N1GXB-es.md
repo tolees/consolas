@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0721N1GXB-es Shadow Of The Colossus PS4'
 sku: 'B0721N1GXB-es'
+tags: [ 'ps4', ]
 actualPrice: 14.78 EUR
 currency: EUR
 price: 14.78

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G84VZ7T-es Razer Thresher - Auriculares inalámbricos para PS4'
 sku: 'B07G84VZ7T-es'
+tags: [ 'ps4', ]
 actualPrice: 109.8 EUR
 currency: EUR
 price: 109.8

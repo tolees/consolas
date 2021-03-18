@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C9QQZTX-es REDSTORM 2.4G Mando Inalámbrico para Nintendo Switch...'
 sku: 'B08C9QQZTX-es'
+tags: [ 'nintendo', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

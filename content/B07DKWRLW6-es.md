@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DKWRLW6-es Warriors Orochi 4 para PS4'
 sku: 'B07DKWRLW6-es'
+tags: [ 'ps4', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

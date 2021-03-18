@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072FB6FGS-es Timorn Soporte Interno de Soporte Medio de la Placa Madre...'
 sku: 'B072FB6FGS-es'
+tags: [ 'playstation','ps4', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

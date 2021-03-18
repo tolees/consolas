@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IFDRQYG-es 3pcs Pegatinas Cubierta Adhesiva de Consola Impreso Cielo...'
 sku: 'B01IFDRQYG-es'
+tags: [ 'playstation','ps4', ]
 actualPrice: 6.47 EUR
 currency: EUR
 price: 6.47

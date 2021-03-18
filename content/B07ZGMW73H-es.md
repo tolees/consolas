@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZGMW73H-es Cable Micro USB Tujun [3 Unidades/3 pies+3 pies+6 pies]...'
 sku: 'B07ZGMW73H-es'
+tags: [ 'ps4','xbox', ]
 actualPrice: 2.26 EUR
 currency: EUR
 price: 2.26

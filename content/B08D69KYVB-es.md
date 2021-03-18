@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D69KYVB-es Disco Duro Externo 2 TB USB3.0 para PC Mac Xbox MacBook...'
 sku: 'B08D69KYVB-es'
+tags: [ 'xbox', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082MHLDC9-es Maegoo Inalámbrico Mando para Nintendo Switch Bluetooth...'
 sku: 'B082MHLDC9-es'
+tags: [ 'nintendo', ]
 actualPrice: 23.19 EUR
 currency: EUR
 price: 23.19

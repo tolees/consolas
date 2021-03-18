@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z9HWPBZ-es Meridiem Games - Meridiem Games - Dragon Ball Arcade Mini...'
 sku: 'B07Z9HWPBZ-es'
+tags: [ 'nintendo', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

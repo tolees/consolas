@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D8CDVRR-es Ocobudbxw Cámara con Sensor de Movimiento Ocular micrófono...'
 sku: 'B08D8CDVRR-es'
+tags: [ 'playstation', ]
 actualPrice: 18.11 EUR
 currency: EUR
 price: 18.11

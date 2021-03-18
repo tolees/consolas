@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QM9BP35-es Paladone Playstation Controller LED | Luz Nocturna...'
 sku: 'B07QM9BP35-es'
+tags: [ 'playstation', ]
 actualPrice: 12.64 EUR
 currency: EUR
 price: 12.64

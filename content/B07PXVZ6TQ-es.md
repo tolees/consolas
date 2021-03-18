@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PXVZ6TQ-es Carcasa para Control de Consola Playstation Controlador de...'
 sku: 'B07PXVZ6TQ-es'
+tags: [ 'playstation','ps4', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

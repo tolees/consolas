@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CFJ4Q8M-es Nintendo Switch Joy-con Grips 3 Piezas HEYSTOP Estuche...'
 sku: 'B07CFJ4Q8M-es'
+tags: [ 'nintendo', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

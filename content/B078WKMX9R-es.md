@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WKMX9R-es Auriculares Gaming Premium para PS4 PC Xbox One Cascos...'
 sku: 'B078WKMX9R-es'
+tags: [ 'ps4','xbox', ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

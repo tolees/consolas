@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KNNSKV0-es PROZOR DAC Convertidor Digital a Analógico 192kHz...'
 sku: 'B00KNNSKV0-es'
+tags: [ 'ps4', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

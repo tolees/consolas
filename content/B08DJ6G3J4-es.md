@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DJ6G3J4-es Disco Duro Externo 1tb USB 3.1 Type C Disco Duro Externo...'
 sku: 'B08DJ6G3J4-es'
+tags: [ 'xbox', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

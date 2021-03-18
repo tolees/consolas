@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BNDJVWB-es eXtremeRate LB RB LT RT Parachoques disparadores D-Pad...'
 sku: 'B08BNDJVWB-es'
+tags: [ 'xbox', ]
 actualPrice: 15.27 EUR
 currency: EUR
 price: 15.27

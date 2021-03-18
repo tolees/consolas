@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRB8MR2-es Sniper: Ghost Warrior - Contracts PS4 French Version'
 sku: 'B07SRB8MR2-es'
+tags: [ 'ps4', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

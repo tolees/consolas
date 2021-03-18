@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YGMC8T7-es Meridiem Games - Resident Evil Arcade Mini Nintendo Switch'
 sku: 'B07YGMC8T7-es'
+tags: [ 'nintendo', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

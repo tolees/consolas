@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Z9MDPN8-es eXtremeRate Torx T8H T6 Destornilladores para Xbox One...'
 sku: 'B00Z9MDPN8-es'
+tags: [ 'xbox', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

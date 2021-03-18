@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HZ4S7BD-es Disco Duro Externo 1 TB Disco Duro Externo USB3.0 para PC...'
 sku: 'B08HZ4S7BD-es'
+tags: [ 'xbox', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

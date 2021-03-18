@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W52RRSY-es Subsonic - Asiento de juego Sillón Gamer ergonómico Silla...'
 sku: 'B07W52RRSY-es'
+tags: [ 'ps4', ]
 actualPrice: 176.88 EUR
 currency: EUR
 price: 176.88

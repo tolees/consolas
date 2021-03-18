@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VXBKGBQ-es PowerA - Mando inalámbrico mejorado Pokémon Graffiti...'
 sku: 'B07VXBKGBQ-es'
+tags: [ 'nintendo', ]
 actualPrice: 39.58 EUR
 currency: EUR
 price: 39.58

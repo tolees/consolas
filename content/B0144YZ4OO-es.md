@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0144YZ4OO-es Ardistel - Batería De Emergencia Para Mandos PlayStation 4'
 sku: 'B0144YZ4OO-es'
+tags: [ 'playstation', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

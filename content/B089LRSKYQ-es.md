@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089LRSKYQ-es Disco Duro Externo 2tb USB 3.1 Disco Duro Externo para Mac...'
 sku: 'B089LRSKYQ-es'
+tags: [ 'xbox', ]
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DKRQ6FB-es Elyco Boxing Grip para Nintendo Switch Empuñadura de Boxeo...'
 sku: 'B08DKRQ6FB-es'
+tags: [ 'nintendo', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

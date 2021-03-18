@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0144YZARA-es Ardistel - Stereo Gaming Headset PRO4-40 Color Azul PS4'
 sku: 'B0144YZARA-es'
+tags: [ 'ps4', ]
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

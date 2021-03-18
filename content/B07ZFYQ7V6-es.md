@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZFYQ7V6-es FR-TEC - Cargador para Mando Playstation 4 Estación de...'
 sku: 'B07ZFYQ7V6-es'
+tags: [ 'playstation','ps4', ]
 actualPrice: 25.46 EUR
 currency: EUR
 price: 25.46

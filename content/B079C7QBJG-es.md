@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079C7QBJG-es Playstation lámpara Play Station'
 sku: 'B079C7QBJG-es'
+tags: [ 'playstation', ]
 actualPrice: 14.57 EUR
 currency: EUR
 price: 14.57

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DJ4SXMX-es Tarjeta de captura de juegos ZasLuke USB 3.0 4K Audio...'
 sku: 'B08DJ4SXMX-es'
+tags: [ 'nintendo','ps4','xbox', ]
 actualPrice: 61.55 EUR
 currency: EUR
 price: 61.55

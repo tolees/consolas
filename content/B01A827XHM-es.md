@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01A827XHM-es HORI - PlayStand Multipuerto USB Nintendo Switch / Switch...'
 sku: 'B01A827XHM-es'
+tags: [ 'nintendo', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

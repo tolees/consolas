@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N34UZFE-es Subsonic - Kit 7 En 1 Nintendo Switch'
 sku: 'B01N34UZFE-es'
+tags: [ 'nintendo', ]
 actualPrice: 4.95 EUR
 currency: EUR
 price: 4.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0746SMSC6-es Nacon - Mando Compacto para PS4 color Rojo'
 sku: 'B0746SMSC6-es'
+tags: [ 'ps4', ]
 actualPrice: 28.92 EUR
 currency: EUR
 price: 28.92

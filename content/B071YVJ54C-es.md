@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071YVJ54C-es FR·TEC - Pack 3 Led Stickers para el mando Dualshock de...'
 sku: 'B071YVJ54C-es'
+tags: [ 'playstation', ]
 actualPrice: 1.35 EUR
 currency: EUR
 price: 1.35

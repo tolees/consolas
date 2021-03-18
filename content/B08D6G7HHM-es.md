@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D6G7HHM-es Disco Duro Externo 1 TB para PC Mac Xbox MacBook...'
 sku: 'B08D6G7HHM-es'
+tags: [ 'xbox', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

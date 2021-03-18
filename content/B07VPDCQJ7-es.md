@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VPDCQJ7-es eXtremeRate ABXY D-Pad ZR ZL L R Botones para Mando...'
 sku: 'B07VPDCQJ7-es'
+tags: [ 'nintendo', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

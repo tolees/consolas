@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GLJ53YT-es Mandos para Nintendo Switch REDSTORM Bluetooth Mando...'
 sku: 'B08GLJ53YT-es'
+tags: [ 'nintendo', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

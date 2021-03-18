@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SCFX56C-es YU-GI-OH! LEGACY OF THE DUELIST: LINK EVOLUTION - -...'
 sku: 'B07SCFX56C-es'
+tags: [ 'nintendo', ]
 actualPrice: 31.65 EUR
 currency: EUR
 price: 31.65

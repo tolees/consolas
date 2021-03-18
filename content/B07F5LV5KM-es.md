@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F5LV5KM-es IBRA Cable de Alta Velocidad Optical HDMI de 5M Cable HDMI...'
 sku: 'B07F5LV5KM-es'
+tags: [ 'ps4','xbox', ]
 actualPrice: 34.47 EUR
 currency: EUR
 price: 34.47

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PN21NF6-es ORICO 5Gbps SuperSpeed 4 Puertos USB 3.0 Hub con BC1.2...'
 sku: 'B07PN21NF6-es'
+tags: [ 'ps4','xbox', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

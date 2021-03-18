@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZJEMTLA-es PDP - Mono Auricular Chat Afterglow LVL 1 Playstation 4'
 sku: 'B00ZJEMTLA-es'
+tags: [ 'playstation', ]
 actualPrice: 7.82 EUR
 currency: EUR
 price: 7.82

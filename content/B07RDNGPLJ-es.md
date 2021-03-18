@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RDNGPLJ-es Funda para Nintendo Switch Case de protección para...'
 sku: 'B07RDNGPLJ-es'
+tags: [ 'nintendo', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

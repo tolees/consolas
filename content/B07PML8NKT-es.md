@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PML8NKT-es A.O.T. 2: Final Battle - Xbox One'
 sku: 'B07PML8NKT-es'
+tags: [ 'xbox', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FFSFXJ6-es Lego DC Super-Villans Xbox One Edición Estándar'
 sku: 'B07FFSFXJ6-es'
+tags: [ 'xbox', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

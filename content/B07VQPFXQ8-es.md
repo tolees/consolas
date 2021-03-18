@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VQPFXQ8-es PowerA - Mando inalámbrico mejorado Spyro Nintendo Switch'
 sku: 'B07VQPFXQ8-es'
+tags: [ 'nintendo', ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0144YZ4MG-es Ardistel - Headset Blackfire BFX10 PlayStation 4'
 sku: 'B0144YZ4MG-es'
+tags: [ 'playstation', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

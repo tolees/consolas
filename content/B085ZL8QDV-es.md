@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085ZL8QDV-es Cocoda Cascos Gaming Auriculares Gaming PS4 para...'
 sku: 'B085ZL8QDV-es'
+tags: [ 'ps4', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X7GKLD2-es Forefront Cases Protector Pantalla para Nintendo Switch...'
 sku: 'B07X7GKLD2-es'
+tags: [ 'nintendo', ]
 actualPrice: 1.7 EUR
 currency: EUR
 price: 1.7

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GCN2RWW-es LucidSound - LS31 Wireless Gaming Headset PS4'
 sku: 'B07GCN2RWW-es'
+tags: [ 'ps4', ]
 actualPrice: 92.7 EUR
 currency: EUR
 price: 92.7

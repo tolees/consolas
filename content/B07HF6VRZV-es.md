@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HF6VRZV-es Pengo 4K HDMI Pass-Through Grabber Capturadora de Video...'
 sku: 'B07HF6VRZV-es'
+tags: [ 'ps4','xbox', ]
 actualPrice: 135.99 EUR
 currency: EUR
 price: 135.99

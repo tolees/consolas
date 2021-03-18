@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B1FYKFW-es Disco Duro Externo 1 TB Disco Duro Externo para PC Mac...'
 sku: 'B08B1FYKFW-es'
+tags: [ 'xbox', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

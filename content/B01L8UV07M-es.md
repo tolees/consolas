@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L8UV07M-es [SADES SA810 Xbox One Mic PS4 Gaming Headset] 3.5 mm con...'
 sku: 'B01L8UV07M-es'
+tags: [ 'ps4','xbox', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

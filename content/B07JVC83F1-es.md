@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JVC83F1-es 4 Gamers - PRO4-70 Negro Auricular Gaming Licenciado PS4'
 sku: 'B07JVC83F1-es'
+tags: [ 'ps4', ]
 actualPrice: 22.39 EUR
 currency: EUR
 price: 22.39

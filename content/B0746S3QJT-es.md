@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0746S3QJT-es Nacon - Mando Compacto para PS4 color Rojo Cristal'
 sku: 'B0746S3QJT-es'
+tags: [ 'ps4', ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

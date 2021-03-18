@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IFDRN44-es 3pcs Pegatinas de Consola Cubierta Adhesiva Hexágono...'
 sku: 'B01IFDRN44-es'
+tags: [ 'playstation','ps4', ]
 actualPrice: 7.16 EUR
 currency: EUR
 price: 7.16

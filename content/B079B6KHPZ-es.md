@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079B6KHPZ-es Darksiders III - Xbox One'
 sku: 'B079B6KHPZ-es'
+tags: [ 'xbox', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

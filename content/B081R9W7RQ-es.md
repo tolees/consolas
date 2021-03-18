@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081R9W7RQ-es Beexcellent Cascos PS4 Auriculares con Micrófono Flexible...'
 sku: 'B081R9W7RQ-es'
+tags: [ 'ps4','xbox', ]
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

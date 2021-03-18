@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0823VVWJD-es Cargador para Nintendo Switch Gifort 4 en 1 Joy-Con...'
 sku: 'B0823VVWJD-es'
+tags: [ 'nintendo', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

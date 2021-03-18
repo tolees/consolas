@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006H3ACMK-es Slabo 2 x Protector de Pantalla Compatible con Nintendo DS...'
 sku: 'B006H3ACMK-es'
+tags: [ 'nintendo', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

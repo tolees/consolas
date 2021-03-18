@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IH80VVO-es Red Dead Redemption Classics - Xbox one'
 sku: 'B01IH80VVO-es'
+tags: [ 'xbox', ]
 actualPrice: 17.3 EUR
 currency: EUR
 price: 17.3

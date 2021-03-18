@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MU7G3FZ-es eXtremeRate Pegatina Antideslizante con Textura de Goma...'
 sku: 'B01MU7G3FZ-es'
+tags: [ 'playstation','ps4', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZ47GDE-es PlayStation VR Worlds'
 sku: 'B01LZ47GDE-es'
+tags: [ 'playstation', ]
 actualPrice: 13.3 EUR
 currency: EUR
 price: 13.3

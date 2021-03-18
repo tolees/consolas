@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGFNJBH-es Super Monkey Ball: Banana Blitz HD - Xbox One'
 sku: 'B07VGFNJBH-es'
+tags: [ 'xbox', ]
 actualPrice: 20.61 EUR
 currency: EUR
 price: 20.61

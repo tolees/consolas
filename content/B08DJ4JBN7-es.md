@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DJ4JBN7-es Disco Duro Externo 1tb Portátil 2.5" USB3.0 SATA HDD...'
 sku: 'B08DJ4JBN7-es'
+tags: [ 'xbox', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

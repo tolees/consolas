@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071K5QS1J-es Timorn Replacement Full Screws Set Reparación de Piezas...'
 sku: 'B071K5QS1J-es'
+tags: [ 'nintendo', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

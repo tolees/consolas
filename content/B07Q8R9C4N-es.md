@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q8R9C4N-es KESU Disco Duro Externo Portátil 500GB Type C USB3.1 HDD...'
 sku: 'B07Q8R9C4N-es'
+tags: [ 'ps4','xbox', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

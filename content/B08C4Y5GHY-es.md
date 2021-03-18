@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C4Y5GHY-es Elyco Cuerda Saltar para Nintendo Switch Jump Rope...'
 sku: 'B08C4Y5GHY-es'
+tags: [ 'nintendo', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088H44VCY-es 【Actualizado 2020】 Proyector WiFi BOSNAS Mini Proyector...'
 sku: 'B088H44VCY-es'
+tags: [ 'ps4', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

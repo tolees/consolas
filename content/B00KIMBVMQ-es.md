@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KIMBVMQ-es Fallout 4 - Xbox One [Importación inglesa]'
 sku: 'B00KIMBVMQ-es'
+tags: [ 'xbox', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0
