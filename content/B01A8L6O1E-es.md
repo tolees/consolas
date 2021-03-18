@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01A8L6O1E-es Hori - Real Arcade Pro Soulcalibur VI Xbox One PC'
 sku: 'B01A8L6O1E-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Electrónica','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Informática','Juegos y Accesorios para PC','Memoria para Nintendo Switch','Tarjetas de memoria','Tarjetas microSD','Videojuegos','Volantes para PC','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 85.5 EUR
 currency: EUR
 price: 85.5

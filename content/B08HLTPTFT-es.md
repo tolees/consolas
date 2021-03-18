@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HLTPTFT-es Disco Duro Externo 1 TB USB3.0 para PC Mac MacBook Xbox...'
 sku: 'B08HLTPTFT-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Electrónica','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Informática','Juegos y Accesorios para PC','Memoria para Nintendo Switch','Tarjetas de memoria','Tarjetas microSD','Videojuegos','Volantes para PC','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

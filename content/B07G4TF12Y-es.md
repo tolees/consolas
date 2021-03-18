@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G4TF12Y-es Middle Earth: Shadow of War Definitive Edition -...'
 sku: 'B07G4TF12Y-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Electrónica','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Informática','Juegos y Accesorios para PC','Memoria para Nintendo Switch','Tarjetas de memoria','Tarjetas microSD','Videojuegos','Volantes para PC','playstation', ]
+tags: [ 'playstation', ]
 actualPrice: 37.54 EUR
 currency: EUR
 price: 37.54

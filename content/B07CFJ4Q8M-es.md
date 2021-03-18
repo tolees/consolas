@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CFJ4Q8M-es Nintendo Switch Joy-con Grips 3 Piezas HEYSTOP Estuche...'
 sku: 'B07CFJ4Q8M-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Electrónica','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Informática','Juegos y Accesorios para PC','Memoria para Nintendo Switch','Tarjetas de memoria','Tarjetas microSD','Videojuegos','Volantes para PC','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

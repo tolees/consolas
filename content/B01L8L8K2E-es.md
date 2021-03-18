@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L8L8K2E-es Timorn Reemplazo Piezas L1 R1 L2 R2 gatillo Piezas Botones...'
 sku: 'B01L8L8K2E-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Electrónica','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Informática','Juegos y Accesorios para PC','Memoria para Nintendo Switch','Tarjetas de memoria','Tarjetas microSD','Videojuegos','Volantes para PC','playstation','ps4', ]
+tags: [ 'playstation','ps4', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

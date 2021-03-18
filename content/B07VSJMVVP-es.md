@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VSJMVVP-es Citadel : Forged with Fire pour PS4 [Importación francesa]'
 sku: 'B07VSJMVVP-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Electrónica','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Informática','Juegos y Accesorios para PC','Memoria para Nintendo Switch','Tarjetas de memoria','Tarjetas microSD','Videojuegos','Volantes para PC','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 33.41 EUR
 currency: EUR
 price: 33.41

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VDKJ5P2-es Powcan Mando Inalámbrico PS3 Bluetooth PS3 Gamepad...'
 sku: 'B07VDKJ5P2-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Electrónica','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Informática','Juegos y Accesorios para PC','Memoria para Nintendo Switch','Tarjetas de memoria','Tarjetas microSD','Videojuegos','Volantes para PC','playstation', ]
+tags: [ 'playstation', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

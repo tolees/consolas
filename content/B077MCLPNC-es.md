@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077MCLPNC-es FR·TEC - Dragon Ball Super Grips 1 Star para Nintendo Switch'
 sku: 'B077MCLPNC-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Electrónica','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Informática','Juegos y Accesorios para PC','Memoria para Nintendo Switch','Tarjetas de memoria','Tarjetas microSD','Videojuegos','Volantes para PC','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 2.49 EUR
 currency: EUR
 price: 2.49

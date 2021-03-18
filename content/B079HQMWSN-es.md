@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079HQMWSN-es This is the Police 2 - Xbox One'
 sku: 'B079HQMWSN-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Electrónica','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Informática','Juegos y Accesorios para PC','Memoria para Nintendo Switch','Tarjetas de memoria','Tarjetas microSD','Videojuegos','Volantes para PC','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

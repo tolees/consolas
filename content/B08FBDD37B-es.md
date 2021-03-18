@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FBDD37B-es Rybozen 4K HDMI KVM Switch Caja de 2 Puertos Teclado Mouse...'
 sku: 'B08FBDD37B-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Electrónica','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Informática','Juegos y Accesorios para PC','Memoria para Nintendo Switch','Tarjetas de memoria','Tarjetas microSD','Videojuegos','Volantes para PC','ps4','xbox', ]
+tags: [ 'ps4','xbox', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

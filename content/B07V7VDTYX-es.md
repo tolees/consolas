@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7VDTYX-es Orzly Gaming Keyboard and Mouse and Mouse Pad and Gaming...'
 sku: 'B07V7VDTYX-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Accesorios para PlayStation 4','Almacenamiento de datos','Almacenamiento de datos externo','Discos duros externos','Electrónica','Hardware y juegos para Nintendo Switch','Hardware y juegos para PlayStation 4','Informática','Juegos y Accesorios para PC','Memoria para Nintendo Switch','Tarjetas de memoria','Tarjetas microSD','Videojuegos','Volantes para PC','ps4','xbox', ]
+tags: [ 'ps4','xbox', ]
 actualPrice: 44.27 EUR
 currency: EUR
 price: 44.27
