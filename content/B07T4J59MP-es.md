@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T4J59MP-es Mando para Nintendo Switch RegeMoudal para Nintendo Switch...'
 sku: 'B07T4J59MP-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C9T3CGL-es eXtremeRate Carcasa Completa para Nintendo Switch Funda...'
 sku: 'B08C9T3CGL-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 32.49 EUR
 currency: EUR
 price: 32.49

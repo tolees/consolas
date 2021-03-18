@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R16J6GQ-es Proyector4500 Lúmenes Excelvan Proyector de Video Portátil...'
 sku: 'B07R16J6GQ-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TGYCAB8-es Charging Station Para Mandos PS4'
 sku: 'B00TGYCAB8-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

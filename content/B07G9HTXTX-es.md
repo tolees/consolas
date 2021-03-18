@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G9HTXTX-es Mando inalámbrico Pro4 FPS wireless controller -...'
 sku: 'B07G9HTXTX-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 29.71 EUR
 currency: EUR
 price: 29.71

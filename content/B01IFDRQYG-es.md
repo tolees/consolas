@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IFDRQYG-es 3pcs Pegatinas Cubierta Adhesiva de Consola Impreso Cielo...'
 sku: 'B01IFDRQYG-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','playstation','ps4', ]
+tags: [ 'playstation','ps4', ]
 actualPrice: 6.47 EUR
 currency: EUR
 price: 6.47

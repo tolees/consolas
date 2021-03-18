@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GP18CX7-es Zecti [Actualizado] Estuche protector para Nintendo Switch...'
 sku: 'B07GP18CX7-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

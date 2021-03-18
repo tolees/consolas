@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z9HL18B-es Meridiem Games - Meridiem Games - One Piece Arcade Mini...'
 sku: 'B07Z9HL18B-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YGQC87H-es Meridiem Games - Naruto Arcade Mini Nintendo Switch'
 sku: 'B07YGQC87H-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 11.81 EUR
 currency: EUR
 price: 11.81

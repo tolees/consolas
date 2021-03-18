@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YW76YXL-es eXtremeRate LED Botones para Mando PS4 Botón de D-pad L1...'
 sku: 'B07YW76YXL-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

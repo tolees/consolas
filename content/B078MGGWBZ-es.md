@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078MGGWBZ-es Nintendo NINTENDO NES Console Bi-Fold Wallet Multi-Colour...'
 sku: 'B078MGGWBZ-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

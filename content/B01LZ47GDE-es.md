@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZ47GDE-es PlayStation VR Worlds'
 sku: 'B01LZ47GDE-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','playstation', ]
+tags: [ 'playstation', ]
 actualPrice: 13.3 EUR
 currency: EUR
 price: 13.3

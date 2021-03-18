@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0748PRFJQ-es Microsoft - Mando Inalámbrico: Edición Limitada Minecraft...'
 sku: 'B0748PRFJQ-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

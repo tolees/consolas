@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ALIW8AK-es Hori - Auriculares Switch Azul/Rojo Neón Nintendo Switch'
 sku: 'B01ALIW8AK-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 20.59 EUR
 currency: EUR
 price: 20.59

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CHRFCFK-es Shenmue I & II - PS4'
 sku: 'B07CHRFCFK-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 21.85 EUR
 currency: EUR
 price: 21.85

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VGFNJBH-es Super Monkey Ball: Banana Blitz HD - Xbox One'
 sku: 'B07VGFNJBH-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 20.61 EUR
 currency: EUR
 price: 20.61

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086BPCZ8F-es RCA a HDMI DIGITNOW! 3 RCA Compuestas AV a HDMI...'
 sku: 'B086BPCZ8F-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

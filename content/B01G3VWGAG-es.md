@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G3VWGAG-es Lego Dimensions Starter Pack - Xbox 360 [Importación...'
 sku: 'B01G3VWGAG-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 28.45 EUR
 currency: EUR
 price: 28.45

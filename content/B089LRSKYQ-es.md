@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089LRSKYQ-es Disco Duro Externo 2tb USB 3.1 Disco Duro Externo para Mac...'
 sku: 'B089LRSKYQ-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

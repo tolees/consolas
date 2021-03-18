@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CZW5KP2-es Primewire – 0 5m Cable HDMI 2.1 - Alta Velocidad con...'
 sku: 'B08CZW5KP2-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4','xbox', ]
+tags: [ 'ps4','xbox', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

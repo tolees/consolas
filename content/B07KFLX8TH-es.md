@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFLX8TH-es Igrome Auriculares Gaming PS4 Cascos Gaming de Mac Estéreo...'
 sku: 'B07KFLX8TH-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 16.18 EUR
 currency: EUR
 price: 16.18

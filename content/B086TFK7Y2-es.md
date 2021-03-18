@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086TFK7Y2-es Saints Row The Third Remastered - PlayStation 4'
 sku: 'B086TFK7Y2-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','playstation', ]
+tags: [ 'playstation', ]
 actualPrice: 31.49 EUR
 currency: EUR
 price: 31.49

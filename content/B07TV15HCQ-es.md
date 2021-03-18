@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TV15HCQ-es Shuliancable Cable HDMI Compatible con Ethernet Retorno de...'
 sku: 'B07TV15HCQ-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','playstation', ]
+tags: [ 'playstation', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

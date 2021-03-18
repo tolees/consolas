@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072FB6FGS-es Timorn Soporte Interno de Soporte Medio de la Placa Madre...'
 sku: 'B072FB6FGS-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','playstation','ps4', ]
+tags: [ 'playstation','ps4', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

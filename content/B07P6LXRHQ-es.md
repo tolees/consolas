@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P6LXRHQ-es Rotación Profesional Diseño Ajustable Clip de Montaje de...'
 sku: 'B07P6LXRHQ-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 2.37 EUR
 currency: EUR
 price: 2.37

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q4SD1NB-es Etpark Mando Xbox 360 PC Mando USB Controlador de Gamepad...'
 sku: 'B07Q4SD1NB-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

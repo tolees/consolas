@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GJHKLSI-es Trust Gaming GXT 744 - Funda de Silicona para Mando PS4...'
 sku: 'B01GJHKLSI-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

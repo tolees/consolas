@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CD5S3PV-es LEGO Die Unglaublichen - Standard Edition - Nintendo...'
 sku: 'B07CD5S3PV-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 38.25 EUR
 currency: EUR
 price: 38.25

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NSRXBQK-es New Bee Soporte Auriculares Universal en Mesa para Bose...'
 sku: 'B07NSRXBQK-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','playstation', ]
+tags: [ 'playstation', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

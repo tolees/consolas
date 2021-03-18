@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084DJ78SW-es Funda + protector LCD para consola Nintendo Switch edición...'
 sku: 'B084DJ78SW-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

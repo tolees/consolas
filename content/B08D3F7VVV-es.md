@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D3F7VVV-es Primewire –2m Cable HDMI 2.1 - Alta Velocidad con Ethernet...'
 sku: 'B08D3F7VVV-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4','xbox', ]
+tags: [ 'ps4','xbox', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

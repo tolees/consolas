@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VNGY6MB-es PowerA - Mando inalámbrico mejorado Pokémon Great Ball...'
 sku: 'B07VNGY6MB-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

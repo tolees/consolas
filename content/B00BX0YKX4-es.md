@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BX0YKX4-es Fosmon Mini Bluetooth Keyboard con touchpad Teclado...'
 sku: 'B00BX0YKX4-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

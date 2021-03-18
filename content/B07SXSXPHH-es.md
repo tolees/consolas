@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SXSXPHH-es Hori - Real Arcade Pro.V Hayabusa Edición Street Fighter...'
 sku: 'B07SXSXPHH-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 123.3 EUR
 currency: EUR
 price: 123.3

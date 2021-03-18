@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HNWFGD4-es Fácil de Instalar Tarjeta de Memoria de Alta Velocidad de...'
 sku: 'B07HNWFGD4-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 5.27 EUR
 currency: EUR
 price: 5.27

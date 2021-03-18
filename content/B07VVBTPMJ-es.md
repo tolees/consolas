@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VVBTPMJ-es Fyoung - Kit de accesorios 3 en 1 para Nintendo Switch...'
 sku: 'B07VVBTPMJ-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 12.68 EUR
 currency: EUR
 price: 12.68

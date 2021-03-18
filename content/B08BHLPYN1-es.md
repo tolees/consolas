@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BHLPYN1-es Disco Duro Externo 2 TB Disco Duro Externo para PC Mac...'
 sku: 'B08BHLPYN1-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DH26KXB-es Disco Duro Externo 1tb USB3.1 Disco Duro Externo para Mac...'
 sku: 'B08DH26KXB-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079C7QBJG-es Playstation lámpara Play Station'
 sku: 'B079C7QBJG-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','playstation', ]
+tags: [ 'playstation', ]
 actualPrice: 14.57 EUR
 currency: EUR
 price: 14.57

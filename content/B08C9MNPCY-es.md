@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C9MNPCY-es ZIYOULANG - Ratón de juegos con cable 69G Honeycomb Shell...'
 sku: 'B08C9MNPCY-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4','xbox', ]
+tags: [ 'ps4','xbox', ]
 actualPrice: 25.42 EUR
 currency: EUR
 price: 25.42

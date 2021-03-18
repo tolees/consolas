@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JZPDKQ3-es AUTOUTLET 3 en 1 Grip y raqueta de tenis Juego de...'
 sku: 'B07JZPDKQ3-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

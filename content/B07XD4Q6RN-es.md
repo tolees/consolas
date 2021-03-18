@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XD4Q6RN-es KLIM ™ Rush - Auriculares Gaming + Diadema cómoda y...'
 sku: 'B07XD4Q6RN-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4','xbox', ]
+tags: [ 'ps4','xbox', ]
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

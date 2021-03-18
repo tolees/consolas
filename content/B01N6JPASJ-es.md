@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6JPASJ-es eXtremeRate 2 Pares de Gatillo Extensor L2 R2 Disparador...'
 sku: 'B01N6JPASJ-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','playstation','ps4', ]
+tags: [ 'playstation','ps4', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

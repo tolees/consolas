@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079SLHJ7V-es WWE 2K18 - Nintendo Switch [Importación inglesa]'
 sku: 'B079SLHJ7V-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

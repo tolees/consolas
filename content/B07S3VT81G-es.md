@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S3VT81G-es Vampire The Masquerade Bloodlines 2 - PlayStation 4'
 sku: 'B07S3VT81G-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','playstation', ]
+tags: [ 'playstation', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

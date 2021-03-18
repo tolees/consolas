@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G4DD5DB-es Astro Gaming A50 - Auriculares con Micrófono Inalámbricos...'
 sku: 'B07G4DD5DB-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

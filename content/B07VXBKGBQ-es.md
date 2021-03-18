@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VXBKGBQ-es PowerA - Mando inalámbrico mejorado Pokémon Graffiti...'
 sku: 'B07VXBKGBQ-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 39.58 EUR
 currency: EUR
 price: 39.58

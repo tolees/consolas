@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077GTJNXJ-es FR- TEC - Protector Silicona + Grips Camo Navy para mando...'
 sku: 'B077GTJNXJ-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','playstation', ]
+tags: [ 'playstation', ]
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

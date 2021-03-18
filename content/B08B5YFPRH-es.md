@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B5YFPRH-es eXtremeRate Botones para Nintendo Switch Botón ABXY Botón...'
 sku: 'B08B5YFPRH-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

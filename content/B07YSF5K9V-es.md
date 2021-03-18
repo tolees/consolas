@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YSF5K9V-es Proyector Excelvan 1080P Proyector 4000 lúmenes Proyector...'
 sku: 'B07YSF5K9V-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4','xbox', ]
+tags: [ 'ps4','xbox', ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

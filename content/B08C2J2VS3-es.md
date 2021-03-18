@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C2J2VS3-es Disco Duro Externo 2tb USB 3.1 para Mac PC MacBook...'
 sku: 'B08C2J2VS3-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

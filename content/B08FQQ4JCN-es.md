@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FQQ4JCN-es eXtremeRate Multicolores LED Botones para Mando Nintendo...'
 sku: 'B08FQQ4JCN-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

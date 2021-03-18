@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00N8PBVHU-es Nintendo - Figura Amiibo Smash Fit Trainer'
 sku: 'B00N8PBVHU-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0007UATDG-es Nintendo Wii Sports Pack [importación]'
 sku: 'B0007UATDG-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'nintendo', ]
 actualPrice: 124.9 EUR
 currency: EUR
 price: 124.9

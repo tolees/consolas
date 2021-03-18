@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JIX6KWG-es Two Dots - Mando Con Cable Pro Pad 4 PS4'
 sku: 'B01JIX6KWG-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4', ]
+tags: [ 'ps4', ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

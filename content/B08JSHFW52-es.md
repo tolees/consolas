@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JSHFW52-es Disco Duro Externo 2tb Type C USB 3.1 Disco Duro Externo...'
 sku: 'B08JSHFW52-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

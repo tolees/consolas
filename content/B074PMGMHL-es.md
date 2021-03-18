@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074PMGMHL-es Nuevo SADES SA810 Multi-Platform Auriculares Gaming 3.5mm...'
 sku: 'B074PMGMHL-es'
-tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','xbox', ]
+tags: [ 'xbox', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99
