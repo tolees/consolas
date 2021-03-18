@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Nintendo Joy-Con  D  Neon Rojo al 24.40 % de rebaja'
-date: 2021-03-17 16:49:48
+date: 2021-03-18 16:59:41
 image: 'https://m.media-amazon.com/images/I/31F0TO4xQZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08KHFK5X4-es Nintendo Joy-Con D Neon Rojo'
 sku: 'B08KHFK5X4-es'
+tags: [ 'Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
 actualPrice: 37.79 EUR
 currency: EUR
 price: 37.79
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B08KHFK5X4/?tag=tolees-21'
 descuento: '24.40'
-average: '33.8766666666667'
+average: '34.855'
 ---
 
 Tienes [Nintendo Joy-Con  D  Neon Rojo](https://www.amazon.es/dp/B08KHFK5X4/?tag=tolees-21) con precio final de  37.79 EUR (original: 49.99 EUR) (24.40 %  de rebaja) aqui!
