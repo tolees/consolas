@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D7F2VZ4-es NETUM Pantalla táctil Enchufe de la UE 15 6 Pulgadas IPS...'
 sku: 'B08D7F2VZ4-es'
-tags: [ 'ps4','xbox', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4','xbox', ]
 actualPrice: 197.99 EUR
 currency: EUR
 price: 197.99

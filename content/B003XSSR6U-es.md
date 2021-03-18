@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003XSSR6U-es Mando con cable Pro4 controller para consola PS4 / Slim/...'
 sku: 'B003XSSR6U-es'
-tags: [ 'ps4', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4', ]
 actualPrice: 22.3 EUR
 currency: EUR
 price: 22.3

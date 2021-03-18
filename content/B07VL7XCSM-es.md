@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VL7XCSM-es eXtremeRate ABXY D-Pad ZR ZL L R Botones para Mando...'
 sku: 'B07VL7XCSM-es'
-tags: [ 'nintendo', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

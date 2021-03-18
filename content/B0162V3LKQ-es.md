@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0162V3LKQ-es Krom KHENSU - NXKROMKHNS - Gamepad Alámbrico/Inalámbrico...'
 sku: 'B0162V3LKQ-es'
-tags: [ 'playstation', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','playstation', ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

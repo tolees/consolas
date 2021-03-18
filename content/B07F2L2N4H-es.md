@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F2L2N4H-es Funda Compatible con Nintendo Switch HEYSTOP TPU PC...'
 sku: 'B07F2L2N4H-es'
-tags: [ 'nintendo', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

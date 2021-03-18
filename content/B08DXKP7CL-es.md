@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DXKP7CL-es Disco Duro Externo 1tb Portátil 2.5" USB3.0 SATA HDD...'
 sku: 'B08DXKP7CL-es'
-tags: [ 'xbox', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','xbox', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

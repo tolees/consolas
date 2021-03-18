@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HDJKYLF-es eXtremeRate Carcasa para Xbox One Funda Delantera con...'
 sku: 'B08HDJKYLF-es'
-tags: [ 'xbox', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','xbox', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

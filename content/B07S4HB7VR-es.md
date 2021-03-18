@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S4HB7VR-es QWDDECO Sticker Pack 360 PCS Vinilo Pegatinas para...'
 sku: 'B07S4HB7VR-es'
-tags: [ 'ps4','xbox', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4','xbox', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

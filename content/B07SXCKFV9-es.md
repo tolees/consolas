@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SXCKFV9-es Controlador inalámbrico DualShock 4 para Playstation 4...'
 sku: 'B07SXCKFV9-es'
-tags: [ 'playstation', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','playstation', ]
 actualPrice: 21.0 EUR
 currency: EUR
 price: 21.0

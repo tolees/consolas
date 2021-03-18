@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WGW88NS-es Thrustmaster - eSwap Pro Controller: gamepad el versátil...'
 sku: 'B07WGW88NS-es'
-tags: [ 'ps4', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4', ]
 actualPrice: 130.49 EUR
 currency: EUR
 price: 130.49

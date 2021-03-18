@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K6NCCXN-es FR·TEC - Auriculares Gaming Headset AIZEN - PS4 Xbox One...'
 sku: 'B07K6NCCXN-es'
-tags: [ 'nintendo','ps4','xbox', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo','ps4','xbox', ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

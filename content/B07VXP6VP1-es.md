@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VXP6VP1-es Ardistel - Game Traveler Deluxe Travel Case NNS50B...'
 sku: 'B07VXP6VP1-es'
-tags: [ 'nintendo', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
 actualPrice: 15.79 EUR
 currency: EUR
 price: 15.79

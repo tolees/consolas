@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089KSKJ4Y-es Disco duro externo 1 TB 2 TB de disco duro ultradelgado...'
 sku: 'B089KSKJ4Y-es'
-tags: [ 'xbox', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','xbox', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

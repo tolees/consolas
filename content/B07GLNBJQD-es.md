@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GLNBJQD-es Xbox One Enhanced Wired Controller - Xbox One [Importación...'
 sku: 'B07GLNBJQD-es'
-tags: [ 'xbox', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','xbox', ]
 actualPrice: 27.84 EUR
 currency: EUR
 price: 27.84

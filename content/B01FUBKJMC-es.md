@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FUBKJMC-es Reemplazo Kit de Botón de Tapa L2 L1 R1 R2 Thumbstick para...'
 sku: 'B01FUBKJMC-es'
-tags: [ 'ps4', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

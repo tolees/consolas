@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076BZ1D7G-es Pegatinas Cubiertas Adhesiva Decal Set para Sony...'
 sku: 'B076BZ1D7G-es'
-tags: [ 'playstation','ps4', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','playstation','ps4', ]
 actualPrice: 11.84 EUR
 currency: EUR
 price: 11.84

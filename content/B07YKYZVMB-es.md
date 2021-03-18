@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YKYZVMB-es Molyhood Controlador inalámbrico para PS3 Bluetooth Mando...'
 sku: 'B07YKYZVMB-es'
-tags: [ 'playstation', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','playstation', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BJ3Q7HJ-es Disco Duro Externo 2 TB Disco Duro Externo USB3.0 para PC...'
 sku: 'B08BJ3Q7HJ-es'
-tags: [ 'xbox', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','xbox', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

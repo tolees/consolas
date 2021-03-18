@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FR16DLK-es eXtremeRate 2 Protectores de Pantalla para Nintendo Switch...'
 sku: 'B08FR16DLK-es'
-tags: [ 'nintendo', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

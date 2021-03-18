@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JYKRK2C-es Disco Duro Externo 2 TB USB3.0 Ultra Slim Disco Duro...'
 sku: 'B08JYKRK2C-es'
-tags: [ 'xbox', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','xbox', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

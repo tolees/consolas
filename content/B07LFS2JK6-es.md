@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFS2JK6-es Hori - Flight Stick Ace Combat 7 PS4 PS3 PC'
 sku: 'B07LFS2JK6-es'
-tags: [ 'ps4', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4', ]
 actualPrice: 96.74 EUR
 currency: EUR
 price: 96.74

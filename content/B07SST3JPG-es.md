@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SST3JPG-es Darksiders Genesis - Xbox One'
 sku: 'B07SST3JPG-es'
-tags: [ 'xbox', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','xbox', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079B6KHPZ-es Darksiders III - Xbox One'
 sku: 'B079B6KHPZ-es'
-tags: [ 'xbox', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','xbox', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

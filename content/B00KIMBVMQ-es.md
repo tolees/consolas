@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KIMBVMQ-es Fallout 4 - Xbox One [Importación inglesa]'
 sku: 'B00KIMBVMQ-es'
-tags: [ 'xbox', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','xbox', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

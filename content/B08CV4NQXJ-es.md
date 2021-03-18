@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CV4NQXJ-es eXtremeRate Botones Completos para Xbox One S/X Botón de...'
 sku: 'B08CV4NQXJ-es'
-tags: [ 'xbox', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','xbox', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XF62L8X-es Proyector WiMiUS 6200 Lúmenes Proyector Full HD 1920x1080P...'
 sku: 'B07XF62L8X-es'
-tags: [ 'ps4', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4', ]
 actualPrice: 152.09 EUR
 currency: EUR
 price: 152.09

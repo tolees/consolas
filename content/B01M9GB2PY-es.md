@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M9GB2PY-es Subsonic - Caso Rígido Con Licencia Oficial Real Madrid...'
 sku: 'B01M9GB2PY-es'
-tags: [ 'nintendo', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

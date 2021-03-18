@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00L8XC6BY-es Mackuna Flex Plus 0.2M Cable de extensión HDMI Audio -...'
 sku: 'B00L8XC6BY-es'
-tags: [ 'ps4','xbox', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4','xbox', ]
 actualPrice: 7.44 EUR
 currency: EUR
 price: 7.44

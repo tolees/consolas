@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N4P40LG-es Hori - Mando Real Arcade Pro V Hayabusa Hori Nintendo...'
 sku: 'B01N4P40LG-es'
-tags: [ 'nintendo', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
 actualPrice: 107.99 EUR
 currency: EUR
 price: 107.99

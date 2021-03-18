@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TV1J4CX-es Shuliancable Cable HDMI Compatible con Ethernet Retorno de...'
 sku: 'B07TV1J4CX-es'
-tags: [ 'playstation', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','playstation', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

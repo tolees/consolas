@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K76JY3G-es De Silicona Cubierta De La Caja Protectora De La Piel Para...'
 sku: 'B00K76JY3G-es'
-tags: [ 'xbox', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','xbox', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

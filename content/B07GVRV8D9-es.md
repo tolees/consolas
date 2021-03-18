@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GVRV8D9-es Mando con cable Pro4 controller para consola PS4 / Slim/...'
 sku: 'B07GVRV8D9-es'
-tags: [ 'ps4', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4', ]
 actualPrice: 23.52 EUR
 currency: EUR
 price: 23.52

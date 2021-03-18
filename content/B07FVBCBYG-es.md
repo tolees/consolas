@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FVBCBYG-es Hori - Go Pack Super Mario Nintendo Switch'
 sku: 'B07FVBCBYG-es'
-tags: [ 'nintendo', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

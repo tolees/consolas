@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HXWQ6IC-es eXtremeRate 30 Piezas/Set Adhesivo para la Barra de luz...'
 sku: 'B01HXWQ6IC-es'
-tags: [ 'playstation','ps4', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','playstation','ps4', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

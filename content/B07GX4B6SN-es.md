@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GX4B6SN-es PDP - Funda Slim Travel Case Edición Mario Camo Nintendo...'
 sku: 'B07GX4B6SN-es'
-tags: [ 'nintendo', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
 actualPrice: 6.92 EUR
 currency: EUR
 price: 6.92

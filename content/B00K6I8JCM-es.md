@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K6I8JCM-es Nintendo Selects New Super Mario Bros.Wii Juego'
 sku: 'B00K6I8JCM-es'
-tags: [ 'nintendo', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
 actualPrice: 41.39 EUR
 currency: EUR
 price: 41.39

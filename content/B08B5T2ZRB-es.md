@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B5T2ZRB-es eXtremeRate Carcasa para JoyCons de Nintendo Switch Funda...'
 sku: 'B08B5T2ZRB-es'
-tags: [ 'nintendo', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

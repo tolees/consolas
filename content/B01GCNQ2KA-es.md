@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GCNQ2KA-es Reemplazo Accesorios Kit de Botones Enchapados para Sony...'
 sku: 'B01GCNQ2KA-es'
-tags: [ 'ps4', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4', ]
 actualPrice: 4.25 EUR
 currency: EUR
 price: 4.25

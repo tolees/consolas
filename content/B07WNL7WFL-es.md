@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WNL7WFL-es 6amLifestyle Accesorios para Nintendo Switch Lite'
 sku: 'B07WNL7WFL-es'
-tags: [ 'nintendo', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
 actualPrice: 14.42 EUR
 currency: EUR
 price: 14.42

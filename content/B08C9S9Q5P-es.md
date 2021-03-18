@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C9S9Q5P-es eXtremeRate Carcasa Trasera para Consola de Nintendo...'
 sku: 'B08C9S9Q5P-es'
-tags: [ 'nintendo', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

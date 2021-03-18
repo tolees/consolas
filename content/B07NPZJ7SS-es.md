@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NPZJ7SS-es Controlador PowerA Wired con licencia oficial para Xbox...'
 sku: 'B07NPZJ7SS-es'
-tags: [ 'xbox', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','xbox', ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

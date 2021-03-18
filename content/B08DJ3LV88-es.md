@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DJ3LV88-es Disco Duro Externo 2 TB Type C USB3.1 para PC Mac Xbox One...'
 sku: 'B08DJ3LV88-es'
-tags: [ 'xbox', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','xbox', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

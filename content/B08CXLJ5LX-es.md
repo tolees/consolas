@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CXLJ5LX-es Hattahh Disco Duro Externo Portátil 2TB Type C USB3.1...'
 sku: 'B08CXLJ5LX-es'
-tags: [ 'xbox', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','xbox', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

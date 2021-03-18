@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082T87BYC-es Resident Evil 3 Remake - Xbox One'
 sku: 'B082T87BYC-es'
-tags: [ 'xbox', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','xbox', ]
 actualPrice: 41.31 EUR
 currency: EUR
 price: 41.31

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085NGDXVQ-es RedThunder Teclado mecánico para juegos con una sola mano...'
 sku: 'B085NGDXVQ-es'
-tags: [ 'ps4','xbox', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4','xbox', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

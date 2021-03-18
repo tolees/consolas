@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CJH1NT7-es eXtremeRate Luminoso Joysticks Botones de acción dirección...'
 sku: 'B07CJH1NT7-es'
-tags: [ 'ps4', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

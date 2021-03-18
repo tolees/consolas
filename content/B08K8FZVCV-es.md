@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08K8FZVCV-es eXtremeRate Carcasa para Xbox One Elite Protectora Tacto...'
 sku: 'B08K8FZVCV-es'
-tags: [ 'xbox', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','xbox', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

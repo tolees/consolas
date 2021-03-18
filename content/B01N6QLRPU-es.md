@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N6QLRPU-es Nintendo - Figura Amiibo Bokoblin Serie Zelda'
 sku: 'B01N6QLRPU-es'
-tags: [ 'nintendo', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

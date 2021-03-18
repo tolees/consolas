@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WVS2N1-es 2 Sets Llaves de Repuesto Controlador L2 R2 L1 R1 Botón...'
 sku: 'B078WVS2N1-es'
-tags: [ 'ps4', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TS1WJ24-es ZWOOS Adaptador HDMI a VGA 1080p Convertidor de HDMI...'
 sku: 'B07TS1WJ24-es'
-tags: [ 'xbox', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','xbox', ]
 actualPrice: 8.7 EUR
 currency: EUR
 price: 8.7

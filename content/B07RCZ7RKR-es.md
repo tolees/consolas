@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RCZ7RKR-es Universal volante y pedales para PC PlayStation 3/4 PS3 /...'
 sku: 'B07RCZ7RKR-es'
-tags: [ 'playstation','ps4','xbox', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','playstation','ps4','xbox', ]
 actualPrice: 45.77 EUR
 currency: EUR
 price: 45.77

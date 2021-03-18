@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018SZFTWW-es Blade - Grips Woxter Color Azul PS4'
 sku: 'B018SZFTWW-es'
-tags: [ 'ps4', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4', ]
 actualPrice: 1.57 EUR
 currency: EUR
 price: 1.57

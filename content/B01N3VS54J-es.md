@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N3VS54J-es Hori - Funda De Felpa Yo-Kai Watch Komasan Nintendo 3Ds 2Ds'
 sku: 'B01N3VS54J-es'
-tags: [ 'nintendo', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
 actualPrice: 7.56 EUR
 currency: EUR
 price: 7.56

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GL9MND1-es Disco Duro Externo 2tb Portátil 2.5" USB3.0 Disco Duro...'
 sku: 'B08GL9MND1-es'
-tags: [ 'xbox', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','xbox', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

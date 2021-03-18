@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DX2W35B-es eXtremeRate Carcasa Mando PS4 Funda Delantera Protectora...'
 sku: 'B07DX2W35B-es'
-tags: [ 'playstation','ps4', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','playstation','ps4', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

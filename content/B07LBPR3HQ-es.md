@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LBPR3HQ-es Shuliancable Cable HDMI Compatible con Ethernet Retorno de...'
 sku: 'B07LBPR3HQ-es'
-tags: [ 'playstation', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','playstation', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

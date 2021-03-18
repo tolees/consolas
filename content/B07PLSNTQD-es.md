@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PLSNTQD-es Switch Nintendo Labo: Kit de VR - Set de expansión 1'
 sku: 'B07PLSNTQD-es'
-tags: [ 'nintendo', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

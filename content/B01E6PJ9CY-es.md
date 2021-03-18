@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01E6PJ9CY-es MagiDeal 3 par de Tapas Luminosas de Pulgar para Sony PS4...'
 sku: 'B01E6PJ9CY-es'
-tags: [ 'ps4', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4', ]
 actualPrice: 2.45 EUR
 currency: EUR
 price: 2.45

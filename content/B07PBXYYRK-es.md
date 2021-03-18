@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PBXYYRK-es Nacon Asymmetric - Mando inalámbrico [Versión Española] PS4'
 sku: 'B07PBXYYRK-es'
-tags: [ 'ps4', ]
+tags: [ 'Accesorios para Juegos PC','Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Juegos y Accesorios para PC','Mandos para Nintendo Switch','Videojuegos','ps4', ]
 actualPrice: 44.9 EUR
 currency: EUR
 price: 44.9
