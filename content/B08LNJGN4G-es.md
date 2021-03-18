@@ -28,9 +28,9 @@ Tienes [DIGITNOW! - SCART a HDMI Convertidor  convierte la entrada de euroconect
 
 🔎:
 
+- Plug and Play: no es necesario instalar controladores, es muy fácil de configurar y operar. Tamaño pequeño y liviano, cómodo de llevar y usar.Puede compartir fácilmente las fotos, música y películas de su teléfono inteligente en el HDTV, monitor o proyector mediante el cable USB incluido y conectar el adaptador
 - ENTRADA SCART: Admite entrada de formatos de TV estándar PAL, NTSC3.58, NTSC4.43, SECAM, PAL / M, PAL / N.
 - SALIDA HDMI: Interfaz de salida HDMI: conecte a HDTV o monitor; Formato de salida HDMI: Compatible con HDMI1.3, admite salida 720p / 1080p.
-- Plug and Play: no es necesario instalar controladores, es muy fácil de configurar y operar. Tamaño pequeño y liviano, cómodo de llevar y usar.Puede compartir fácilmente las fotos, música y películas de su teléfono inteligente en el HDTV, monitor o proyector mediante el cable USB incluido y conectar el adaptador
 - Amplia compatibilidad: este adaptador convertidor de euroconector a HDMI utiliza un chip avanzado con amplia compatibilidad. No hay demoras, ni choques, ni congelamiento. Adecuado para DVD, decodificador y reproductor de blu, etc.
 - Convertidor de video SCART a HDMI: este convertidor SCART a HDMI es un convertidor universal para entrada SCART analógica a salida HDMI 1080p (60HZ). Proporcione un procesamiento de señal avanzado para garantizar una gran precisión, colores, resoluciones y detalles.
 
