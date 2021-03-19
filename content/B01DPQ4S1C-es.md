@@ -28,10 +28,10 @@ Está [Thrustmaster TMX Force Feedback - Volante realista de carreras con pedale
 
 ℹ️:
 
-- Simulador de carreras oficial para Xbox One y Windows.
-- Incluye pedales grandes: se puede ajustar el ángulo de inclinación de cada pedal y se dispone de tres ángulos de ajuste.
 - Funciona en Xbox Series X
-- Sistema force feedback 900° + sistema mixto de engranajes y correa-polea + eje metálico con rodamientos.
+- Incluye pedales grandes: se puede ajustar el ángulo de inclinación de cada pedal y se dispone de tres ángulos de ajuste.
+- Simulador de carreras oficial para Xbox One y Windows.
 - Ecosistema : Compatible con los pedales T3PA* y T3PA-PRO* (Thrustmaster 3 Pedals Add-on). Compatible con el cambio de marchas Thrustmaster TH8A*. Se vende por separado
+- Sistema force feedback 900° + sistema mixto de engranajes y correa-polea + eje metálico con rodamientos.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01DPQ4S1C/?tag=tolees-21)

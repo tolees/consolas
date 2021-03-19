@@ -28,7 +28,7 @@ Ahora mismo tienes [Nintendo - Steelbook Battlefield 5 - No incluye juego  Edici
 
 🔎:
 
-- Steelbook Battlefield 5
 - No incluye juego
+- Steelbook Battlefield 5
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07DGMVZJJ/?tag=tolees-21)
