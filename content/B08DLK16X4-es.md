@@ -28,10 +28,10 @@ Tienes [Adaptador Euroconector a HDMI  Techole Aluminio Conversor Euroconector a
 
 🔎:
 
-- 【Salida HDMI 1080P】- Detecta automáticamente y convierte la señal compuesta a 1080P (60hz) de salida. (NOTA: Si la resolución de su pantalla no es capaz de soportar 1920 x 1080P o la versión de su dispositivo es 4K, debe reducir la resolución a 720P o 1080P.)
-- 【Más Estabilidad】- La salida de adaptador Euroconector a HDMI nuestro está enchapada en oro que mantiene la estabilidad de la señal en transmisiones, y es resistente al calor y excelente durabilidad más que muchos otros productos en el mercado.
 - 【Euroconector a HDMI】- Este conversor convierte el vídeo compuesto analógico Scart y la señal de audio estéreo FL/ FR a señal digital HDMI. Con la resolución 1080p te ofrecemos imagenes más vivas. (NOTA: Este es un conversor Euroconector a HDMI, NO PUEDE usarlo en reversa.)
-- 【Entrada Scart】- La entrada euroconector pueden conectar con los dispositivos antiguos como reproductor de DVD, PS3, PS4, Xbox,VHS, STB, Wii/Sky, VCR, BLU-Ray, etc. Venga! Cómpralo para que vuelvan a ser vivos los aparatos viejos!
 - 【Fácil de Usar】- Solo conecta el cable USB de 80cm que regalamos con power bank u otros dispositivos alimentados por USB, y dos aparato diferente(uno con euroconector y otro con HDMI). Adecuado para cualquier sitio como hogar, dormitorio, aula, oficina.
+- 【Entrada Scart】- La entrada euroconector pueden conectar con los dispositivos antiguos como reproductor de DVD, PS3, PS4, Xbox,VHS, STB, Wii/Sky, VCR, BLU-Ray, etc. Venga! Cómpralo para que vuelvan a ser vivos los aparatos viejos!
+- 【Más Estabilidad】- La salida de adaptador Euroconector a HDMI nuestro está enchapada en oro que mantiene la estabilidad de la señal en transmisiones, y es resistente al calor y excelente durabilidad más que muchos otros productos en el mercado.
+- 【Salida HDMI 1080P】- Detecta automáticamente y convierte la señal compuesta a 1080P (60hz) de salida. (NOTA: Si la resolución de su pantalla no es capaz de soportar 1920 x 1080P o la versión de su dispositivo es 4K, debe reducir la resolución a 720P o 1080P.)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08DLK16X4/?tag=tolees-21)
