@@ -28,10 +28,10 @@ En este momento está [Nintendo - Minecraft Dungeons](https://www.amazon.es/dp/B
 
 🔎:
 
-- ¡Multijugador! Es posible formar equipos de hasta cuatro jugadores para luchar juntos en el modo cooperativo.
-- ¡Muchas opciones! Personaliza tu personaje para luchar cuerpo a cuerpo con giros, atacar a distancia desde la retaguardia o lanzarte directamente a través de hordas de criaturas protegido con tu armadura pesada.
 - ¡Poténciate! Desbloquea montones de objetos y encantamientos de armas únicos para conseguir ataques especiales devastadores.
-- ¡Juego de mazmorras! Combate con criaturas nuevas y asquerosas en esta aventura de acción totalmente nueva inspirada en los juegos de mazmorras clásicos.
 - ¡Épico! Explora niveles repletos de tesoros con el objetivo de acabar con el malvado Archimaldeano.
+- ¡Multijugador! Es posible formar equipos de hasta cuatro jugadores para luchar juntos en el modo cooperativo.
+- ¡Juego de mazmorras! Combate con criaturas nuevas y asquerosas en esta aventura de acción totalmente nueva inspirada en los juegos de mazmorras clásicos.
+- ¡Muchas opciones! Personaliza tu personaje para luchar cuerpo a cuerpo con giros, atacar a distancia desde la retaguardia o lanzarte directamente a través de hordas de criaturas protegido con tu armadura pesada.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08FTMDSDT/?tag=tolees-21)
