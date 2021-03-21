@@ -28,7 +28,7 @@ En este momento está [Nintendo Joy-Con  I  Neon Azul](https://www.amazon.es/dp/
 
 🔎:
 
-- Los Joy-Con integran nuevas prestaciones que hacen de Nintendo Switch más interactiva. El Joy-Con izquierdo tiene un botón de captura para hacer capturas de pantalla durante tus partidas y compartirlas a través de las redes sociales.
 - Con los nuevos mandos Joy-Con para Nintendo Switch tendrás flexibilidad total a la hora de jugar y descubrirás nuevas formas de interactuar que transformarán por completo tus experiencias de juego.
+- Los Joy-Con integran nuevas prestaciones que hacen de Nintendo Switch más interactiva. El Joy-Con izquierdo tiene un botón de captura para hacer capturas de pantalla durante tus partidas y compartirlas a través de las redes sociales.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KHR3ZLM/?tag=tolees-21)
