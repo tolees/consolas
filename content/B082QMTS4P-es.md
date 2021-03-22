@@ -28,10 +28,10 @@ Tienes [Alupper - Mando Inalámbrico para Nintendo Switch  Wireless Pro Controll
 
 🔎:
 
-- 【Tiempo de reproducción prolongado】: el control remoto inalámbrico integrado en una batería recargable de 500 mAh. Tiempo de reproducción: aprox. 6-8 horas / Tiempo en espera: aprox. 25 días / Tiempo de carga: aprox. 2 horas Distancia de transmisión inalámbrica: ≤ 10 m Disfrute de su juego continuamente.
-- 【TECNOLOGÍA DE GAMEPAD INALÁMBRICA BLUETOOTH V2.1】 Admite una conexión estable dentro de los 8 metros, baja interferencia y facilidad de uso. El diseño ergonómico y la construcción liviana lo hacen cómodo incluso durante largas horas de juego continuo.
-- 【CONTROLADOR DE JUEGO PARA NINTENDO SWITCH】 con 4 funciones de indicación LED azul y 16 botones de entrada de función, Incluye acelerómetro y sensor de giro, que permite el control independiente de los movimientos de izquierda y derecha. El mejor controlador profesional de terceros para Nintendo Switch.
-- 【VIBRACIÓN DE MOTOR DOBLE Y FUNCIÓN TURBO】 que proporciona una experiencia de juego más realista. Motores eléctricos duales y funciones de control de movimiento Gyro de 6 ejes para una experiencia de juego mejorada. Motor dual incorporado, joystick 3D de alta precisión.
 - 【Controla los controles de movimiento y los motores duales y el Turbo The: El controlador de gamepad profesional para Nintendo Switch es compatible con Gyro Axis, Dual Vibration y Turbo. (Admite la última versión).
+- 【Tiempo de reproducción prolongado】: el control remoto inalámbrico integrado en una batería recargable de 500 mAh. Tiempo de reproducción: aprox. 6-8 horas / Tiempo en espera: aprox. 25 días / Tiempo de carga: aprox. 2 horas Distancia de transmisión inalámbrica: ≤ 10 m Disfrute de su juego continuamente.
+- 【CONTROLADOR DE JUEGO PARA NINTENDO SWITCH】 con 4 funciones de indicación LED azul y 16 botones de entrada de función, Incluye acelerómetro y sensor de giro, que permite el control independiente de los movimientos de izquierda y derecha. El mejor controlador profesional de terceros para Nintendo Switch.
+- 【TECNOLOGÍA DE GAMEPAD INALÁMBRICA BLUETOOTH V2.1】 Admite una conexión estable dentro de los 8 metros, baja interferencia y facilidad de uso. El diseño ergonómico y la construcción liviana lo hacen cómodo incluso durante largas horas de juego continuo.
+- 【VIBRACIÓN DE MOTOR DOBLE Y FUNCIÓN TURBO】 que proporciona una experiencia de juego más realista. Motores eléctricos duales y funciones de control de movimiento Gyro de 6 ejes para una experiencia de juego mejorada. Motor dual incorporado, joystick 3D de alta precisión.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B082QMTS4P/?tag=tolees-21)
