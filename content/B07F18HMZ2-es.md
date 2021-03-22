@@ -28,10 +28,10 @@ Ahora mismo tienes [Lioeo - Mando PS3 inalámbrico Bluetooth Gamepad Doble Vibra
 
 🔎:
 
-- BOTONES DE ALTA SENSIBILIDAD Y PRECISIÓN: palancas analógicas refinadas mejoradas y diseño de agarre ergonómico, rotación de 360 ​​grados y rebote automático rápido, bonificación con dos fundas de silicona antideslizantes, hacen que su mano sea más cómoda durante mucho tiempo jugando.
 - LARGO TIEMPO DE REPRODUCCIÓN: Batería recargable de gran capacidad de 450 mAh incorporada en nuestro controlador PlayStation 3. Puede ejecutar hasta 8 horas de reproducción continua. El diseño ergonómico de la empuñadura hace que su mano sea muy cómoda durante largos períodos de juego.
+- RESPUESTA DOBLE CHOQUE: 2 nuevos motores de control inalámbrico PS3 contribuyen a una intensa reacción de vibración. El sistema de control de movimiento altamente sensible hace que cada golpe, choque y explosión sea más realista, sentirás el retumbar en la palma de tu mano.
 - SIX-AXIS: el controlador inalámbrico PS3 de Lioeo tiene un sensor de movimiento intuitivo de 6 ejes; asegúrese de que cada movimiento sea más preciso para ayudarlo a hacerlo mejor en juegos como NBA, NHL, MLB, LEGO, etc.
 - CONTROL BLUETOOTH INALÁMBRICO: con la tecnología de transmisión inalámbrica Bluetooth, no sufrirás pérdida de datos o interferencias de señal. Una conexión Bluetooth directa elimina cualquier retraso y demora.
-- RESPUESTA DOBLE CHOQUE: 2 nuevos motores de control inalámbrico PS3 contribuyen a una intensa reacción de vibración. El sistema de control de movimiento altamente sensible hace que cada golpe, choque y explosión sea más realista, sentirás el retumbar en la palma de tu mano.
+- BOTONES DE ALTA SENSIBILIDAD Y PRECISIÓN: palancas analógicas refinadas mejoradas y diseño de agarre ergonómico, rotación de 360 ​​grados y rebote automático rápido, bonificación con dos fundas de silicona antideslizantes, hacen que su mano sea más cómoda durante mucho tiempo jugando.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07F18HMZ2/?tag=tolees-21)
