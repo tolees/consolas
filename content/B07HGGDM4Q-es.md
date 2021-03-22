@@ -28,8 +28,8 @@ Tienes [Warner Bros. Interactive Spain - Lego Harry Potter Collection - Nintendo
 
 🔎:
 
-- Explora Hogwarts y lanza hechizos con un amigo en las partidas cooperativas.
 - Dos juegos remasterizados, ahora en un solo disco.
+- Explora Hogwarts y lanza hechizos con un amigo en las partidas cooperativas.
 - Desbloquea y juega con más de 200 de tus personajes favoritos.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07HGGDM4Q/?tag=tolees-21)
