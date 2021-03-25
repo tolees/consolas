@@ -28,7 +28,7 @@ Ahora mismo tienes [Nintendo - Pokemon Diamante Brillante](https://www.amazon.es
 
 🔎:
 
-- Fecha de lanzamiento sujeta a cambios
 - caratula no definitiva
+- Fecha de lanzamiento sujeta a cambios
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08Y6ZM72D/?tag=tolees-21)
