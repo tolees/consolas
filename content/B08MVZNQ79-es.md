@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch Media - Hitman III - Xbox al 36.18 % de rebaja'
-date: 2021-03-23 02:23:34
+date: 2021-03-26 18:23:58
 image: 'https://m.media-amazon.com/images/I/41uzHQE7hWL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Koch Media'
 buyurl: 'https://www.amazon.es/dp/B08MVZNQ79/?tag=tolees-21'
 descuento: '36.18'
-average: '55.9375'
+average: '53.684'
 ---
 
 Tienes [Koch Media - Hitman III - Xbox](https://www.amazon.es/dp/B08MVZNQ79/?tag=tolees-21) con precio final de  44.67 EUR (original: 69.99 EUR) (36.18 %  de rebaja) aqui!
