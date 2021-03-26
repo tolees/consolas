@@ -28,8 +28,8 @@ Tienes [Electronic Arts - FIFA 21 - Nintendo Switch [Importación alemana]](http
 
 🔎:
 
-- Mit geteiltem Joy-Con Support
 - Mit einigen der berühmtesten Stadien der Welt
+- Mit geteiltem Joy-Con Support
 - Mit den neuesten Trikots, Vereinen und Kadern aus einigen der weltbesten Ligen
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089ZDZ6C9/?tag=tolees-21)
