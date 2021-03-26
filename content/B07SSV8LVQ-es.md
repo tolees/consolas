@@ -28,10 +28,10 @@ En este momento está [Microsoft - Ori and the Will of the Wisps - Xbox One](htt
 
 🔎:
 
+- Consulta más información en la parte inferior de la página
 - Domina nuevas habilidades,guía a Ori a través de un viaje de incalculable peligro usando armas espirituales, hechizos y ataques recién adquiridos,utiliza un nuevo sistema de fragmentos para potenciar las nuevas habilidades de Ori y personalizar tu estilo de juego
 - Enfréntate a enemigos épicos y a rompecabezas desafiantes,jefes exuberantes: enfréntate a enemigos imponentes y secuencias de escape emocionantes,nuevos personajes: busca el apoyo de un amplio elenco de nuevos personajes que te ayudarán a descubrir el misterioso destino de Ori
 - Sumérgete en una experiencia narrativa artesanal,descifra el verdadero destino de Ori en esta emocionante y cautivadora aventura guiada por la historia con una impresionante banda sonora,explora un entorno amplio, exótico y de gran belleza
 - Disfruta de nuevos y emocionantes modos,pruebas espirituales: compite hasta la cima de las tablas de clasificación en desafíos de velocidad únicos a lo largo del juego,santuarios espirituales: enfréntate a oleadas de enemigos cada vez más desafiantes en pruebas cronometradas para conseguir recompensas
-- Consulta más información en la parte inferior de la página
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07SSV8LVQ/?tag=tolees-21)
