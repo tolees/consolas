@@ -28,10 +28,10 @@ En este momento está [Zexrow Mando para Nintendo Switch  Mando Pro Controller M
 
 🔎:
 
-- [Amplia compatibilidad] Compatible con conmutadores Nintendo y PC Windows, y soporte perfecto para juegos de Nintendo. No es necesario instalar ningún controlador. Nota: los productos de terceros no están fabricados por Nintendo.
 - [Características avanzadas] Soporta función de eje giroscopio y función de vibración de motores duales. Los comentarios de vibración te ofrecen una experiencia de juego convincente. Sensor de botón súper sensible que proporciona una experiencia de juego precisa. Los palos analógicos duales y los disparadores de expansión proporcionan un control de movimiento preciso.
-- [Ergonómico] El diseño de agarre optimizado se adapta a la mano del jugador para una máxima comodidad mientras que también proporciona un agarre óptimo, y la construcción de peso ligero hace que sea cómodo incluso durante largas horas de juego continuo.
 - Batería de litio de 550 mAh integrada, puede durar hasta 8 horas después de cargarse completamente, el tiempo de carga es de 2 horas con el cable de carga incluido en el paquete.
+- [Amplia compatibilidad] Compatible con conmutadores Nintendo y PC Windows, y soporte perfecto para juegos de Nintendo. No es necesario instalar ningún controlador. Nota: los productos de terceros no están fabricados por Nintendo.
+- [Ergonómico] El diseño de agarre optimizado se adapta a la mano del jugador para una máxima comodidad mientras que también proporciona un agarre óptimo, y la construcción de peso ligero hace que sea cómodo incluso durante largas horas de juego continuo.
 - [Conexión Bluetooth] Bluetooth V2. 1 conexión rápida y estable con consola de interruptor dentro de 10 m (entorno sin barreras)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08HCFCQLS/?tag=tolees-21)
