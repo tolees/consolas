@@ -28,7 +28,7 @@ Tienes [Nintendo Switch Lite - Consola Coral](https://www.amazon.es/dp/B085SPRQS
 
 ℹ️:
 
-- Enfocada al juego portátil. La consola no puede conectarse al televisor ni es compatible con la base de Nintendo Switch.
 - Compacta y ligera para que sea fácil de transportar
+- Enfocada al juego portátil. La consola no puede conectarse al televisor ni es compatible con la base de Nintendo Switch.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B085SPRQSQ/?tag=tolees-21)
