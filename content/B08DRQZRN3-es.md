@@ -28,10 +28,10 @@ En este momento está [Power A - Mando Inalámbrico Mejorado Powera Para Nintend
 
 🔎:
 
-- Luces led para indicar la asignación de botones, el número del jugador y el nivel bajo de batería
+- Mando para videojuegos inalámbrico con una batería interna recargable: hasta 30 horas por carga* Incluye cable de carga USB-C de 3 m
+- Incluye mandos de movimiento y botones de juego avanzado asignables*
 - Mando inalámbrico con tecnología Bluetooth 5.0
 - Con licencia oficial para Nintendo Switch y Nintendo Switch Lite Garantía limitada de dos años. Visita PowerA.com/Support
-- Incluye mandos de movimiento y botones de juego avanzado asignables*
-- Mando para videojuegos inalámbrico con una batería interna recargable: hasta 30 horas por carga* Incluye cable de carga USB-C de 3 m
+- Luces led para indicar la asignación de botones, el número del jugador y el nivel bajo de batería
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DRQZRN3/?tag=tolees-21)
