@@ -28,9 +28,9 @@ Ahora mismo tienes [Nintendo - Mario Kart 8 Deluxe](https://www.amazon.es/dp/B01
 
 🔎:
 
-- Los pilotos cuentan con el volante inteligente, que ayuda a no salirse de la pista
-- Inclusión de circuitos inéditos en el modo batalla
-- Nuevos personajes: Inkling, Rey Boo, Huesitos y Bowsy
 - Hasta 8 pilotos en partidas de multijugador local
+- Inclusión de circuitos inéditos en el modo batalla
+- Los pilotos cuentan con el volante inteligente, que ayuda a no salirse de la pista
+- Nuevos personajes: Inkling, Rey Boo, Huesitos y Bowsy
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01N7RLGIJ/?tag=tolees-21)
