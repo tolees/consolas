@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.71 % en Power A - PowerA - Mando inalámbrico mej'
-date: 2021-03-23 13:59:32
+date: 2021-03-28 15:05:17
 image: 'https://m.media-amazon.com/images/I/41kSGxDjRNL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Power A'
 buyurl: 'https://www.amazon.es/dp/B07Y5VKGKM/?tag=tolees-21'
 descuento: '26.71'
-average: '36.8188888888889'
+average: '36.7863636363636'
 ---
 
 Tienes [Power A - PowerA - Mando inalámbrico mejorado para Nintendo Switch Doom 25  Nintendo Switch ](https://www.amazon.es/dp/B07Y5VKGKM/?tag=tolees-21) con un 26.71 % de descuento con precio de oferta de 36.64 EUR (original: 49.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [Power A - PowerA - Mando inalámbrico mejorado para Nintendo Switch Doom
 
 ℹ️:
 
+- Mando ergonómico con disposición de botones estándar y diseño Doom 25
+- Libertad inalámbrica Bluetooth
 - Incluye mandos de movimiento y botones de control avanzado de juego
 - Con licencia oficial para Nintendo
-- Mando ergonómico con disposición de botones estándar y diseño Doom 25
 - Luces LED de alimentación, asignación de botones, número del jugador y advertencia de batería baja
-- Libertad inalámbrica Bluetooth
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07Y5VKGKM/?tag=tolees-21)
