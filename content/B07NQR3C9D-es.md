@@ -28,10 +28,10 @@ Tienes [Nintendo - Astral Chain](https://www.amazon.es/dp/B07NQR3C9D/?tag=tolees
 
 🔎:
 
-- En Ark, una ciudad multicultural del futuro cercano, se desencadena el desastre cuando aparecen de repente portales a otra dimensión
-- Bestias peligrosas emergen de ellos y comienzan a atacar a la gente y a contaminarlo todo; la policía se ve incapaz de hacerles frente
-- Como parte de una unidad especial de la policía, deberás plantarles cara a misteriosas bestias de aspecto alienígena que han invadido el mundo
 - Astral Chain, un nuevo juego de acción de PlatinumGames, llega en exclusiva para Nintendo Switch
+- Como parte de una unidad especial de la policía, deberás plantarles cara a misteriosas bestias de aspecto alienígena que han invadido el mundo
+- Bestias peligrosas emergen de ellos y comienzan a atacar a la gente y a contaminarlo todo; la policía se ve incapaz de hacerles frente
+- En Ark, una ciudad multicultural del futuro cercano, se desencadena el desastre cuando aparecen de repente portales a otra dimensión
 - La única esperanza es la unidad especial de policía Neuron, creada para detener la amenaza
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NQR3C9D/?tag=tolees-21)
