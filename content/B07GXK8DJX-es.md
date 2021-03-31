@@ -28,10 +28,10 @@ En este momento está [Power A - PowerA - Mando inalámbrico mejorado Silueta de
 
 🔎:
 
+- Luces led para indicar la asignación de botones, el número del jugador y el nivel bajo de batería
 - Incluye dos pilas AA para hasta 30 horas de juego
 - Diseño ergonómico con diseño de botones estándar
 - Incluye mandos de movimiento y botones de control avanzado de juego
 - Libertad inalámbrica Bluetooth
-- Luces led para indicar la asignación de botones, el número del jugador y el nivel bajo de batería
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07GXK8DJX/?tag=tolees-21)
