@@ -28,10 +28,10 @@ Tienes [UGREEN Tarjeta de Sonido USB Externa  Adaptador de USB Externo Estéreo 
 
 ℹ️:
 
-- Adaptador de USB Externo Estéreo está orientado a ser el sustituto ideal de la tarjeta de sonido en la placa base que falla, o los originales puertos de sonido que se estropean, o el USB adaptador defectuoso.
 - Plug and play, sin necesidad de instalar nada. Este Tarjeta de Sonido USB a jack 3.5 sólo con enchufar al ordenador mediante el USB puerto, conectar los auriculares o el micrófono y a funcionar.
 - Este Tarjeta de Sonido USB cuenta con un cable 15CM, sin cubrir el equipo circundante, el puerto USB estándar permite que proporcianar mas espacio cuando se uso con mas puertos usb.
-- Tarjeta de Sonido USB solamente soporta los micrófonos con clavija de TRS, las de TS o TRRS no funcionarán con este adaptador. Es compatible con Windows XP, 7, 8, 8.1, 10, Mac OS X, Linux, Raspberry, Chromebook etc.
+- Adaptador de USB Externo Estéreo está orientado a ser el sustituto ideal de la tarjeta de sonido en la placa base que falla, o los originales puertos de sonido que se estropean, o el USB adaptador defectuoso.
 - UGREEN Tarjeta de Sonido USB Externa viene a dotar de entradas de audio y micrófono a equipos que no lo incorporan, haciendo grabar y escuchar el sonido al mismo tiempo.
+- Tarjeta de Sonido USB solamente soporta los micrófonos con clavija de TRS, las de TS o TRRS no funcionarán con este adaptador. Es compatible con Windows XP, 7, 8, 8.1, 10, Mac OS X, Linux, Raspberry, Chromebook etc.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N905VOY/?tag=tolees-21)
