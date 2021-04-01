@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HORI - Horipad inalámbrico Zelda  Ninten al 20.00 % de rebaja'
-date: 2021-03-31 00:55:47
+date: 2021-04-01 06:04:29
 image: 'https://m.media-amazon.com/images/I/41a4SCZ33qL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hori'
 buyurl: 'https://www.amazon.es/dp/B01C6WW4LW/?tag=tolees-21'
 descuento: '20.00'
-average: '44.6411764705882'
+average: '44.3827777777778'
 ---
 
 Tienes [HORI - Horipad inalámbrico Zelda  Nintendo Switch ](https://www.amazon.es/dp/B01C6WW4LW/?tag=tolees-21) con precio final de  39.99 EUR (original: 49.99 EUR) (20.00 %  de rebaja) aqui!
@@ -30,8 +30,8 @@ Tienes [HORI - Horipad inalámbrico Zelda  Nintendo Switch ](https://www.amazon.
 
 - Batería recargable
 - Conexión inalámbrica vía Bluetooth
-- Acelerómetro y giroscopio
 - Licencia oficial de Nintendo
+- Acelerómetro y giroscopio
 - Autonomía: hasta 20 h
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01C6WW4LW/?tag=tolees-21)

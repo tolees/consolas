@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Zexrow Mando para Nintendo Switch  Mando con un 30.65 % de descuento'
-date: 2021-03-27 15:08:34
+title: 'Zexrow Mando para Nintendo Switch  Mando con un 16.01 % de descuento'
+date: 2021-04-01 06:51:57
 image: 'https://m.media-amazon.com/images/I/51DXJXk3o1L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08HCFCQLS-es Zexrow Mando para Nintendo Switch Mando Pro Controller...'
 sku: 'B08HCFCQLS-es'
 tags: [ 'Hardware y juegos para Sony PSP','Juegos para Sony PSP','Sistemas precursores y micro consolas','Videojuegos','nintendo','zexrow', ]
-actualPrice: 17.33 EUR
+actualPrice: 20.99 EUR
 currency: EUR
-price: 17.33
+price: 20.99
 comparePrice: 24.99 EUR
 prodname: 'Zexrow Mando para Nintendo Switch  Mando Pro Controller Mando pc Inalambrico con Función Gyro Axis/Dual Shock y Turbo Compatible con Nintendo Switch/Lite'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Zexrow'
 buyurl: 'https://www.amazon.es/dp/B08HCFCQLS/?tag=tolees-21'
-descuento: '30.65'
-average: '22.4329999999999'
+descuento: '16.01'
+average: '22.4076923076923'
 ---
 
-En este momento está [Zexrow Mando para Nintendo Switch  Mando Pro Controller Mando pc Inalambrico con Función Gyro Axis/Dual Shock y Turbo Compatible con Nintendo Switch/Lite](https://www.amazon.es/dp/B08HCFCQLS/?tag=tolees-21) a 17.33 EUR (original: 24.99 EUR) (30.65 %  de descuento) en el siguiente enlace!
+En este momento está [Zexrow Mando para Nintendo Switch  Mando Pro Controller Mando pc Inalambrico con Función Gyro Axis/Dual Shock y Turbo Compatible con Nintendo Switch/Lite](https://www.amazon.es/dp/B08HCFCQLS/?tag=tolees-21) a 20.99 EUR (original: 24.99 EUR) (16.01 %  de descuento) en el siguiente enlace!
 
 [![Zexrow Mando para Nintendo Switch  Mando](https://m.media-amazon.com/images/I/51DXJXk3o1L._SL400_.jpg)](https://www.amazon.es/dp/B08HCFCQLS/?tag=tolees-21)
 

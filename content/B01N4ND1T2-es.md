@@ -28,8 +28,8 @@ Ahora mismo tienes [Nintendo Switch - Mando Pro Controller  Con Cable USB](https
 
 🔎:
 
-- Este mando te permite jugar cómodamente durante más tiempo con la consola tanto en modo televisor como en modo sobremesa
 - Cuando uses la consola en modo televisor, puedes conectar el mando Pro a la base con el cable USB de carga (HAC-010) para sincronizarlo o cargarlo
 - Cuando se haya cargado el mando Pro, puedes desconectarlo del cable USB de carga y utilizarlo de forma inalámbrica
+- Este mando te permite jugar cómodamente durante más tiempo con la consola tanto en modo televisor como en modo sobremesa
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01N4ND1T2/?tag=tolees-21)
