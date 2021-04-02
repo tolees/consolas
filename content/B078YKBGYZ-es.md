@@ -28,11 +28,11 @@ En este momento está [Nintendo - Mario Tennis Aces](https://www.amazon.es/dp/B0
 
 🔎:
 
-- Descubre el modo historia, con misiones y combates con jefes. Podrás organizar torneos configurables para jugar partidos con completa libertad
-- Con el modo multijugador local, hasta 4 jugadores podrán compartir pista al mismo tiempo
-- Disfruta de los movimientos de fantasía de Mario, que aportan una mayor variedad a la estrategia de tus partidos: golpes especiales, control del tiempo, posibilidad de apuntar, raquetas que se deterioran y rompen, etc.
 - Podrás adaptar la tipología de juego a movimientos más limitados, para vivir partidos de tenis más reales
-- Elige entre más de 15 personajes distintos, cada uno con unas características especiales. Hay tanto personajes clásicos como nuevas incorporaciones
 - Juega moviendo tu Joy-Con como si fuese una raqueta de tenis real para realizar golpes de derecha, revés, globos, etc. o juega utilizando los botones y palancas de tu mando
+- Disfruta de los movimientos de fantasía de Mario, que aportan una mayor variedad a la estrategia de tus partidos: golpes especiales, control del tiempo, posibilidad de apuntar, raquetas que se deterioran y rompen, etc.
+- Descubre el modo historia, con misiones y combates con jefes. Podrás organizar torneos configurables para jugar partidos con completa libertad
+- Elige entre más de 15 personajes distintos, cada uno con unas características especiales. Hay tanto personajes clásicos como nuevas incorporaciones
+- Con el modo multijugador local, hasta 4 jugadores podrán compartir pista al mismo tiempo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078YKBGYZ/?tag=tolees-21)
