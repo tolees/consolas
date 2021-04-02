@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Time Warner - LEGO Star Wars: La Saga Sk al 16.61 % de rebaja'
-date: 2021-03-27 14:36:29
+date: 2021-04-02 05:38:38
 image: 'https://m.media-amazon.com/images/I/31EfPwglVvL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Time Warner'
 buyurl: 'https://www.amazon.es/dp/B07SY4JGLM/?tag=tolees-21'
 descuento: '16.61'
-average: '49.9214925373134'
+average: '49.9225'
 ---
 
 Tienes [Time Warner - LEGO Star Wars: La Saga Skywalker - Nintendo Switch](https://www.amazon.es/dp/B07SY4JGLM/?tag=tolees-21) con precio final de  49.99 EUR (original: 59.95 EUR) (16.61 %  de rebaja) aqui!

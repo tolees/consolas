@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Nintendo Switch - Mando Pro Controller   al 19.90 % de descuento'
-date: 2021-04-01 05:33:17
+title: 'Nintendo Switch - Mando Pro Controller   al 21.32 % de descuento'
+date: 2021-04-02 06:02:22
 image: 'https://m.media-amazon.com/images/I/41CeBj4pDcL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B01N4ND1T2-es Nintendo Switch - Mando Pro Controller Con Cable USB'
 sku: 'B01N4ND1T2-es'
 tags: [ 'Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switch','Mandos para Nintendo Switch','Videojuegos','nintendo', ]
-actualPrice: 55.99 EUR
+actualPrice: 55.0 EUR
 currency: EUR
-price: 55.99
+price: 55.0
 comparePrice: 69.9 EUR
 prodname: 'Nintendo Switch - Mando Pro Controller  Con Cable USB'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B01N4ND1T2/?tag=tolees-21'
-descuento: '19.90'
-average: '63.2966239316238'
+descuento: '21.32'
+average: '63.2263135593219'
 ---
 
-Ahora mismo tienes [Nintendo Switch - Mando Pro Controller  Con Cable USB](https://www.amazon.es/dp/B01N4ND1T2/?tag=tolees-21) a 55.99 EUR (original: 69.9 EUR) (19.90 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Nintendo Switch - Mando Pro Controller  Con Cable USB](https://www.amazon.es/dp/B01N4ND1T2/?tag=tolees-21) a 55.0 EUR (original: 69.9 EUR) (21.32 %  de descuento) en el siguiente enlace!
 
 [![Nintendo Switch - Mando Pro Controller  ](https://m.media-amazon.com/images/I/41CeBj4pDcL._SL400_.jpg)](https://www.amazon.es/dp/B01N4ND1T2/?tag=tolees-21)
 
