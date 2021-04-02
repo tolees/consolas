@@ -30,8 +30,8 @@ Tienes [Unicview Pandora Box X Plus 3303 Juegos Retro Consola Maquina recreativa
 
 - 📍 MEJORADO SISTEMA DE JUEGO: A diferencia de otras consolas de juego Arcade Pandora este modelo incluye el listado completo de juegos 3.303 juegos de arcade originales. Si lo desea puede descargar el listado accediendo al código QR del anuncio
 - 📍 PULSADORES ADICIONALES: La Pandora incluye todos los cableados necesarios para disfrutar de su experiencia de juego, ya sea en su televisor, monitor o incluso proyector. Además este modelo incluye los pulsadores de recambio
-- 📍 3303 JUEGOS ARCADE ORIGINALES: Podrá revivir aquellos momentos de su infancia con los juegos de Neogeo, Capcom CPS1, CPS2, CPS3, Sega, Taito, Konami, verdaderos juegos de su infancia para jugar 1 ó 2 jugadores
-- 📍 DISEÑADO PARA NOSTALGICOS: La Pandora box de Unicview se ha desarrollado para aquellos jugones que siempre disfrutó de los famosos arcade de juego pero no tuvo tiempo para disfrutar de todos los juegos disponibles, revivirá la experiencia con la ventaja de poder visualizarlo en la pantalla de su salón
 - 📍COMPATIBLE CON TELEVISORES 4K: Su nueva controladora gráfica es compatible tanto con televisores SVGA, HD, FULLHD como los nuevos televisores 4K
+- 📍 DISEÑADO PARA NOSTALGICOS: La Pandora box de Unicview se ha desarrollado para aquellos jugones que siempre disfrutó de los famosos arcade de juego pero no tuvo tiempo para disfrutar de todos los juegos disponibles, revivirá la experiencia con la ventaja de poder visualizarlo en la pantalla de su salón
+- 📍 3303 JUEGOS ARCADE ORIGINALES: Podrá revivir aquellos momentos de su infancia con los juegos de Neogeo, Capcom CPS1, CPS2, CPS3, Sega, Taito, Konami, verdaderos juegos de su infancia para jugar 1 ó 2 jugadores
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07KV5VKXW/?tag=tolees-21)
