@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo Switch Lite Coral + Animal Cros al 21.66 % de descuento'
-date: 2021-04-01 11:29:13
+date: 2021-04-03 15:35:03
 image: 'https://m.media-amazon.com/images/I/41IucYQtsPL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B08NG46RKF/?tag=tolees-21'
 descuento: '21.66'
-average: '242.290526315791'
+average: '242.041694915255'
 ---
 
 Está [Nintendo Switch Lite Coral + Animal Crossing New Horizons + 3 meses Nintendo Shop Online](https://www.amazon.es/dp/B08NG46RKF/?tag=tolees-21) con 21.66 de descuento por 234.95 EUR (original: 299.9 EUR) en el siguiente enlace!
@@ -29,9 +29,9 @@ Está [Nintendo Switch Lite Coral + Animal Crossing New Horizons + 3 meses Ninte
 ℹ️:
 
 - Enfocada al juego portátil. La consola no puede conectarse al televisor ni es compatible con la base de Nintendo Switch.
-- Compacta y ligera para que sea fácil de transportar.
-- Incluye 3 meses de suscripción a Nintendo Switch Online, para que puedas visitar otras islas, recibir invitados en la tuya y todas las ventajas multijugador y de catálogo de juegos disponibles con la suscripción.
-- Tiene los controles integrados, por lo que carece de vibración HD y de cámara infrarroja de movimiento.
 - Incluye un código de descarga de Animal Crossing New Horizons.
+- Incluye 3 meses de suscripción a Nintendo Switch Online, para que puedas visitar otras islas, recibir invitados en la tuya y todas las ventajas multijugador y de catálogo de juegos disponibles con la suscripción.
+- Compacta y ligera para que sea fácil de transportar.
+- Tiene los controles integrados, por lo que carece de vibración HD y de cámara infrarroja de movimiento.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08NG46RKF/?tag=tolees-21)
