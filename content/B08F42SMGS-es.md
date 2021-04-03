@@ -28,10 +28,10 @@ Ahora mismo tienes [Power A - PowerA - Mando con cable mejorado PowerA para Xbox
 
 🔎:
 
-- Dial de auriculares para silenciar el chat y controlar el audio del videojuego a través de una conexión de audio de 3,5.mm para auriculares estéreo
 - Agarre con textura de diamante en la parte trasera y cruceta metálica en la parte delantera
-- El mando con cable incluye motores de doble vibración y botones de juego avanzado asignables
-- Cable USB extraíble de 3 metros con cierre de velcro
 - con licencia oficial para Xbox Series X|S conlimitada de dos años.
+- Cable USB extraíble de 3 metros con cierre de velcro
+- El mando con cable incluye motores de doble vibración y botones de juego avanzado asignables
+- Dial de auriculares para silenciar el chat y controlar el audio del videojuego a través de una conexión de audio de 3,5.mm para auriculares estéreo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08F42SMGS/?tag=tolees-21)
