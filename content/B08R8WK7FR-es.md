@@ -28,10 +28,10 @@ Ahora mismo tienes [HORI - Mando Horipad inalámbrico Super Mario  Nintendo Swit
 
 🔎:
 
-- Autonomía: hasta 15 h / Alcance: hasta 10 m
-- Acelerómetro y giroscopio
 - Conexión inalámbrica mediante Bluetooth
-- Licencia oficial de Nintendo
 - Batería recargable integrada con LED indicador de nivel de carga
+- Acelerómetro y giroscopio
+- Autonomía: hasta 15 h / Alcance: hasta 10 m
+- Licencia oficial de Nintendo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08R8WK7FR/?tag=tolees-21)
