@@ -28,9 +28,9 @@ En este momento está [XIAOKOA Micrófono para PC Micrófono USB con Interruptor
 
 🔎:
 
+- Micrófono USB --- El micrófono utiliza un puerto USB. Compatible con computadora / Mac / PS4. Es compatible con una variedad de sistemas informáticos. Micrófono USB para podcast / youtube / conferencias / juegos ps4 / grabación de video / juegos de pc / chat en vivo.
 - Interruptor de ajuste de volumen --- El micrófono tiene un interruptor de ajuste de volumen independiente. Gire el interruptor de control de volumen para ajustar el volumen en tiempo real.
 - Interruptor de control independiente --- El micrófono tiene un interruptor de control independiente. Al controlar este interruptor, el micrófono puede funcionar normalmente o dejar de funcionar.
-- Micrófono USB --- El micrófono utiliza un puerto USB. Compatible con computadora / Mac / PS4. Es compatible con una variedad de sistemas informáticos. Micrófono USB para podcast / youtube / conferencias / juegos ps4 / grabación de video / juegos de pc / chat en vivo.
 - Micrófono omnidireccional y micrófono flexible --- Recoge sonido en todas las direcciones. Con alta sensibilidad, la distancia de recogida es larga. La calidad del sonido es clara y estable. El sonido es real y sin distorsiones. Diseño de cuello de cisne, ángulo ajustable de 360 ​​°. El cuello de cisne flexible se puede ajustar a un ángulo y altura adecuados.
 - Conector para auriculares de 3,5 mm --- El micrófono tiene un conector para auriculares de 3,5 mm. Conecte los auriculares a esta interfaz, puede escuchar cualquier sonido en tiempo real.
 
