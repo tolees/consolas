@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Ubisoft Spain - Immortals Fenyx Rising G al 45.00 % de rebaja'
-date: 2021-03-24 06:47:45
+title: 'Ubisoft Spain - Immortals Fenyx Rising G al 40.09 % de rebaja'
+date: 2021-04-05 08:15:02
 image: 'https://m.media-amazon.com/images/I/51ooSZXc1kL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08HZH9JLD-es Ubisoft Spain - Immortals Fenyx Rising Gold Edition PS4'
 sku: 'B08HZH9JLD-es'
 tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Videojuegos','ps4','ubisoft spain', ]
-actualPrice: 54.99 EUR
+actualPrice: 59.9 EUR
 currency: EUR
-price: 54.99
+price: 59.9
 comparePrice: 99.99 EUR
 prodname: 'Ubisoft Spain - Immortals Fenyx Rising Gold Edition PS4'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Ubisoft Spain'
 buyurl: 'https://www.amazon.es/dp/B08HZH9JLD/?tag=tolees-21'
-descuento: '45.00'
-average: '56.96'
+descuento: '40.09'
+average: '57.254'
 ---
 
-Tienes [Ubisoft Spain - Immortals Fenyx Rising Gold Edition PS4](https://www.amazon.es/dp/B08HZH9JLD/?tag=tolees-21) con precio final de  54.99 EUR (original: 99.99 EUR) (45.00 %  de rebaja) aqui!
+Tienes [Ubisoft Spain - Immortals Fenyx Rising Gold Edition PS4](https://www.amazon.es/dp/B08HZH9JLD/?tag=tolees-21) con precio final de  59.9 EUR (original: 99.99 EUR) (40.09 %  de rebaja) aqui!
 
 [![Ubisoft Spain - Immortals Fenyx Rising G](https://m.media-amazon.com/images/I/51ooSZXc1kL._SL400_.jpg)](https://www.amazon.es/dp/B08HZH9JLD/?tag=tolees-21)
 
