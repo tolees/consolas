@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubisoft Spain - Immortals Fenyx Rising X al 49.17 % de descuento'
-date: 2021-04-03 10:32:19
+date: 2021-04-05 13:08:42
 image: 'https://m.media-amazon.com/images/I/51KU+M3igtL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ubisoft Spain'
 buyurl: 'https://www.amazon.es/dp/B07T16FBDL/?tag=tolees-21'
 descuento: '49.17'
-average: '37.7178260869564'
+average: '37.5208333333332'
 ---
 
 Está [Ubisoft Spain - Immortals Fenyx Rising Xbox](https://www.amazon.es/dp/B07T16FBDL/?tag=tolees-21) con 49.17 de descuento por 32.99 EUR (original: 64.9 EUR) en el siguiente enlace!
