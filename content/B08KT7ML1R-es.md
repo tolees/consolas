@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HORI - Controlador Split Pad Pro Pikachu al 20.00 % de descuento'
-date: 2021-04-02 18:23:33
+date: 2021-04-06 15:37:57
 image: 'https://m.media-amazon.com/images/I/41mSQfhdDvL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hori'
 buyurl: 'https://www.amazon.es/dp/B08KT7ML1R/?tag=tolees-21'
 descuento: '20.00'
-average: '50.3788888888889'
+average: '50.2062162162162'
 ---
 
 Está [HORI - Controlador Split Pad Pro Pikachu Black & Gold  Nintendo Switch ](https://www.amazon.es/dp/B08KT7ML1R/?tag=tolees-21) con 20.00 de descuento por 43.99 EUR (original: 54.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [HORI - Controlador Split Pad Pro Pikachu Black & Gold  Nintendo Switch ](
 
 ℹ️:
 
-- Botones traseros programables
-- Licencias oficiales de Nintendo y Pokémon
 - la precisión y comodidad del Pro Controller, en modo portátil
-- Superficie de agarre, gatillos, sticks y cruceta de mayor tamaño que los de los Joy-Con
+- Licencias oficiales de Nintendo y Pokémon
 - Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
+- Botones traseros programables
+- Superficie de agarre, gatillos, sticks y cruceta de mayor tamaño que los de los Joy-Con
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08KT7ML1R/?tag=tolees-21)

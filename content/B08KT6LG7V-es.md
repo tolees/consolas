@@ -28,10 +28,10 @@ Ahora mismo tienes [HORI - Funda Vault Case Pokémon Stars  Nintendo Switch/Swit
 
 🔎:
 
-- Bolsillo de malla para cables, auriculares, etc.
-- Forro interior decorado
 - Separador interno acolchado para proteger la pantalla y almacenar los cartuchos de juego
+- Forro interior decorado
 - Compatible con Nintendo Switch y Switch Lite
+- Bolsillo de malla para cables, auriculares, etc.
 - Licencias oficiales de Nintendo y Pokémon
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08KT6LG7V/?tag=tolees-21)
