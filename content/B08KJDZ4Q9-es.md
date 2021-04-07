@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cámara HD - PlayStation 5 al 21.20 % de rebaja'
-date: 2021-04-06 01:19:35
+date: 2021-04-07 01:33:05
 image: 'https://m.media-amazon.com/images/I/31-DIzRHwML._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B08KJDZ4Q9/?tag=tolees-21'
 descuento: '21.20'
-average: '55.911654135338'
+average: '55.8819850187262'
 ---
 
 Tienes [Cámara HD - PlayStation 5](https://www.amazon.es/dp/B08KJDZ4Q9/?tag=tolees-21) con precio final de  47.99 EUR (original: 60.9 EUR) (21.20 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [Cámara HD - PlayStation 5](https://www.amazon.es/dp/B08KJDZ4Q9/?tag=tol
 
 🔎:
 
-- Herramientas de eliminación del fondo: Conviértete en el centro de atención en tus producciones con las herramientas de eliminación del fondo integradas en la consola PlayStation5.
 - También puedes añadir tu imagen a los vídeos de tus partidas con la cámara HD mientras los transmites en modo imagen en imagen, gracias a su capacidad de recortar el fondo o eliminarlo por completo con una pantalla verde.
-- Personaliza la transmisión de tu partida: Con lentes duales de 1080p y un soporte integrado, la cámara HD funciona a la perfección con las herramientas de eliminación del fondo de la PS5 para convertirte en el centro de atención.
 - Captura los momentos que no te debes perder: Captura tu propia imagen nítida y definida en Full HD con las lentes duales gran angular de la cámara mientras vives los momentos de juego más épicos. Crea una grabación o transmisión de tu partida rápidamente con el botón de creación1 de tu mando inalámbrico DualSense.
 - Soporte integrado: Consigue la toma perfecta con el soporte ajustable integrado de la cámara HD. Su diseño compacto te permite colocarlo de forma segura tanto encima como debajo del televisor, donde podrás ajustar con precisión el ángulo para adaptarlo a tu equipo de juego.
+- Herramientas de eliminación del fondo: Conviértete en el centro de atención en tus producciones con las herramientas de eliminación del fondo integradas en la consola PlayStation5.
+- Personaliza la transmisión de tu partida: Con lentes duales de 1080p y un soporte integrado, la cámara HD funciona a la perfección con las herramientas de eliminación del fondo de la PS5 para convertirte en el centro de atención.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08KJDZ4Q9/?tag=tolees-21)
