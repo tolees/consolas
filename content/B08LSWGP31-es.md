@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Proyector WiFi Bluetooth Full HD 1080P   al 16.15 % de descuento'
-date: 2021-04-06 15:31:22
+date: 2021-04-08 17:05:27
 image: 'https://m.media-amazon.com/images/I/510tFB25JVL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'WiMiUS'
 buyurl: 'https://www.amazon.es/dp/B08LSWGP31/?tag=tolees-21'
 descuento: '16.15'
-average: '279.476693548386'
+average: '279.153039999999'
 ---
 
 Está [Proyector WiFi Bluetooth Full HD 1080P  7500 Lúmenes WiMiUS Proyector WiFi Bluetooth 1080P Nativo Soporte 4K Ajuste Digital 4D Función de Zoom Proyector WiFi Cine en Casa para PPT PS4 TV Stick etc.](https://www.amazon.es/dp/B08LSWGP31/?tag=tolees-21) con 16.15 de descuento por 239.02 EUR (original: 285.05 EUR) en el siguiente enlace!
