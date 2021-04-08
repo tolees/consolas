@@ -28,10 +28,10 @@ Está [Mando PS4 Nacon Compact Azul Transparente](https://www.amazon.es/dp/B0746
 
 ℹ️:
 
-- La carcasa transparente y la retroiluminación mediante LED permiten que el mando brille en la oscuridad
-- Indicador LED de jugador
 - Conector para auriculares de 3.5 mm
-- Panel táctil totalmente funcional
+- Indicador LED de jugador
 - 2 motores de vibración
+- Panel táctil totalmente funcional
+- La carcasa transparente y la retroiluminación mediante LED permiten que el mando brille en la oscuridad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0746RPQLB/?tag=tolees-21)

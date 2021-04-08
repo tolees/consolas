@@ -29,9 +29,9 @@ Ahora mismo tienes [Nacon - Mando Compacto para PS4  Color Negro](https://www.am
 🔎:
 
 - Luz indicador de jugador LED
-- 2 motores de vibración
 - Entrada de auriculares de 3.5 mm
-- Superficie ‘’soft touch’’ para un agarre perfecto, incluso durante largas sesiones de juego
+- 2 motores de vibración
 - Touchpad
+- Superficie ‘’soft touch’’ para un agarre perfecto, incluso durante largas sesiones de juego
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0746QG2FD/?tag=tolees-21)

@@ -29,9 +29,9 @@ En este momento está [Nacon - Mando Compacto para PS4  Color Rojo Cristal](http
 🔎:
 
 - 2 motores de vibración. Indicador LED de jugador
-- Panel táctil totalmente funcional. Conector para auriculares de 3,5 mm
-- Longitud del cable: aprox. 3 m
 - La carcasa transparente y la retroiluminación mediante LED permiten que el mando brille en la oscuridad.
+- Panel táctil totalmente funcional. Conector para auriculares de 3,5 mm
 - Tamaño (Profundida x Anchura x Altura): 153 x 50 x 96mm
+- Longitud del cable: aprox. 3 m
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0746S3QJT/?tag=tolees-21)
