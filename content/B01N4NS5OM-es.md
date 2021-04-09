@@ -29,8 +29,8 @@ Tienes [Nintendo - Figura Amiibo Zelda Scholar Serie Zelda](https://www.amazon.e
 ℹ️:
 
 - Plataforma del juego: Nintendo Wii U, Nintendo 3DS, Nintendo Switch
-- Es la figura Amiibo Zelda Scholar perteneciente a la Colección Zelda
-- Tipo de producto: figura interactiva
 - Es un regalo adecuado en cualquier momento
+- Tipo de producto: figura interactiva
+- Es la figura Amiibo Zelda Scholar perteneciente a la Colección Zelda
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N4NS5OM/?tag=tolees-21)
