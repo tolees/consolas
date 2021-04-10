@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Nintendo - Disney Infinity 3.0 - Star Wa al 39.31 % de descuento'
-date: 2021-04-07 13:46:44
+title: 'Nintendo - Disney Infinity 3.0 - Star Wa al 26.73 % de descuento'
+date: 2021-04-10 14:58:35
 image: 'https://m.media-amazon.com/images/I/518xXaXS2tL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Figuras de criaturas fantásticas de juguete para niños','Grandes elec
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95
-comparePrice: 13.1 EUR
+comparePrice: 10.85 EUR
 prodname: 'Nintendo - Disney Infinity 3.0 - Star Wars Figura Kylo REN'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B011C7GE2W/?tag=tolees-21'
-descuento: '39.31'
-average: '10.635'
+descuento: '26.73'
+average: '10.3909090909091'
 ---
 
-Ahora mismo tienes [Nintendo - Disney Infinity 3.0 - Star Wars Figura Kylo REN](https://www.amazon.es/dp/B011C7GE2W/?tag=tolees-21) a 7.95 EUR (original: 13.1 EUR) (39.31 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Nintendo - Disney Infinity 3.0 - Star Wars Figura Kylo REN](https://www.amazon.es/dp/B011C7GE2W/?tag=tolees-21) a 7.95 EUR (original: 10.85 EUR) (26.73 %  de descuento) en el siguiente enlace!
 
 [![Nintendo - Disney Infinity 3.0 - Star Wa](https://m.media-amazon.com/images/I/518xXaXS2tL._SL400_.jpg)](https://www.amazon.es/dp/B011C7GE2W/?tag=tolees-21)
 
