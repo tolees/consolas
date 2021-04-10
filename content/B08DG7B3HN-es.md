@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Konami - eFootball PES 2021 PS4 con un 53.35 % de descuento'
-date: 2021-04-08 17:33:15
+title: 'Konami - eFootball PES 2021 PS4 con un 50.32 % de descuento'
+date: 2021-04-10 18:59:19
 image: 'https://m.media-amazon.com/images/I/51YiU9Ra25L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08DG7B3HN-es Konami - eFootball PES 2021 PS4'
 sku: 'B08DG7B3HN-es'
 tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Videojuegos','konami','ps4', ]
-actualPrice: 13.99 EUR
+actualPrice: 14.9 EUR
 currency: EUR
-price: 13.99
+price: 14.9
 comparePrice: 29.99 EUR
 prodname: 'Konami - eFootball PES 2021 PS4'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Konami'
 buyurl: 'https://www.amazon.es/dp/B08DG7B3HN/?tag=tolees-21'
-descuento: '53.35'
-average: '21.2166666666668'
+descuento: '50.32'
+average: '21.0697674418606'
 ---
 
-En este momento está [Konami - eFootball PES 2021 PS4](https://www.amazon.es/dp/B08DG7B3HN/?tag=tolees-21) a 13.99 EUR (original: 29.99 EUR) (53.35 %  de descuento) en el siguiente enlace!
+En este momento está [Konami - eFootball PES 2021 PS4](https://www.amazon.es/dp/B08DG7B3HN/?tag=tolees-21) a 14.9 EUR (original: 29.99 EUR) (50.32 %  de descuento) en el siguiente enlace!
 
 [![Konami - eFootball PES 2021 PS4](https://m.media-amazon.com/images/I/51YiU9Ra25L._SL400_.jpg)](https://www.amazon.es/dp/B08DG7B3HN/?tag=tolees-21)
 
