@@ -28,9 +28,9 @@ Tienes [HORI - PlayStand  Nintendo Switch / Switch Lite ](https://www.amazon.es/
 
 🔎:
 
-- Carga sin dejar de jugar: el puerto USB-C queda completamente accesible
-- Se pliega al completo para una portabilidad total
 - Licencia oficial de Nintendo
+- Se pliega al completo para una portabilidad total
+- Carga sin dejar de jugar: el puerto USB-C queda completamente accesible
 - Base y respaldo con botones de goma antideslizantes para una experiencia de juego sin sobresaltos
 - 3 ángulos distintos para ajustarse a cada situación de juego
 
