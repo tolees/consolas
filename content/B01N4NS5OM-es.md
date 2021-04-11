@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.43 % en Nintendo - Figura Amiibo Zelda Scholar S'
-date: 2021-04-09 15:21:25
+date: 2021-04-11 15:29:30
 image: 'https://m.media-amazon.com/images/I/512cAmP2o7L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B01N4NS5OM/?tag=tolees-21'
 descuento: '27.43'
-average: '15.9744444444444'
+average: '15.676'
 ---
 
 Tienes [Nintendo - Figura Amiibo Zelda Scholar Serie Zelda](https://www.amazon.es/dp/B01N4NS5OM/?tag=tolees-21) con un 27.43 % de descuento con precio de oferta de 12.99 EUR (original: 17.9 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [Nintendo - Figura Amiibo Zelda Scholar Serie Zelda](https://www.amazon.e
 
 ℹ️:
 
-- Plataforma del juego: Nintendo Wii U, Nintendo 3DS, Nintendo Switch
-- Es un regalo adecuado en cualquier momento
-- Tipo de producto: figura interactiva
 - Es la figura Amiibo Zelda Scholar perteneciente a la Colección Zelda
+- Plataforma del juego: Nintendo Wii U, Nintendo 3DS, Nintendo Switch
+- Tipo de producto: figura interactiva
+- Es un regalo adecuado en cualquier momento
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N4NS5OM/?tag=tolees-21)
