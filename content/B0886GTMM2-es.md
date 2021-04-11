@@ -28,10 +28,10 @@ Ahora mismo tienes [JAMSWALL Xbox 360 Mando de Gamepad  Controlador Mando USB de
 
 🔎:
 
-- 🎮 El mismo tamaño que el original para el controlador de Xbox 360. Longitud del cable: sobre 160-170CM.
-- 🎮 Concepto de diseño ergonómico, Con un diseño ergonómico único, y su tamaño moderado permite que el jugador no se sienta cansado después de un largo tiempo de uso; de nuevos botones de hombro izquierdo y derecho están diseñados para facilitar el uso experiencia de juego más cómoda.
-- 🎮 El gamepad tiene el mismo tamaño que el controlador original de Xbox 360. Controlador Cable System-Precision para Microsoft Xbox 360 / Xbox 360 / PC (Windows XP / 7/8/10). Este es el controlador de la marca Diswoe, y fabricado por una fábrica de terceros.
 - 🎮 Diseño Estable y preciso de rockero, Incluye dos disparadores analógicas de presión, dos motores de vibración y un panel de dirección de ocho direcciones.
+- 🎮 El mismo tamaño que el original para el controlador de Xbox 360. Longitud del cable: sobre 160-170CM.
+- 🎮 El gamepad tiene el mismo tamaño que el controlador original de Xbox 360. Controlador Cable System-Precision para Microsoft Xbox 360 / Xbox 360 / PC (Windows XP / 7/8/10). Este es el controlador de la marca Diswoe, y fabricado por una fábrica de terceros.
+- 🎮 Concepto de diseño ergonómico, Con un diseño ergonómico único, y su tamaño moderado permite que el jugador no se sienta cansado después de un largo tiempo de uso; de nuevos botones de hombro izquierdo y derecho están diseñados para facilitar el uso experiencia de juego más cómoda.
 - 🎮 Sentidos de vibraciones reales, el mando está equipado con un motor de doble vibración que proporciona N tipos de efectos de vibración según la escena del juego, y proporciona retroalimentación de fuerza real en el juego.Le da una buena sensación de presencia, reproduce la sensación realista del juego.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0886GTMM2/?tag=tolees-21)
