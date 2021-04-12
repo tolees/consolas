@@ -28,10 +28,10 @@ Ahora mismo tienes [Capcom - Monster Hunter World: Iceborne - Master Edition - P
 
 🔎:
 
-- Siguiendo el argumento de MHW, los cazadores viajarán a un terreno cubierto por la nieve que se expande progresivamente con la historia, convirtiéndose en la zona más grande de MHW hasta ahora
 - La nueva zona es el hogar de nuevos y gélidos enemigos así como de los favoritos de los fans y viejos conocidos que se unen a la saga Monster Hunter: World
-- Un nuevo modo por enicma del High Rank que hace a los nuevos y ya existentes monstrous más feroces que nunca
-- Iceborne mejora cualquier aspecto de MHW con un montón de nuevos retos y sorpresas
+- Siguiendo el argumento de MHW, los cazadores viajarán a un terreno cubierto por la nieve que se expande progresivamente con la historia, convirtiéndose en la zona más grande de MHW hasta ahora
 - Nuevas Mecánicas en la Jugabilidad que dan lugar a un Combate Más Prof
+- Iceborne mejora cualquier aspecto de MHW con un montón de nuevos retos y sorpresas
+- Un nuevo modo por enicma del High Rank que hace a los nuevos y ya existentes monstrous más feroces que nunca
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SCDWSFC/?tag=tolees-21)
