@@ -28,11 +28,11 @@ Está [Nintendo - Harvest Moon One World](https://www.amazon.es/dp/B08TDGDYS6/?t
 
 ℹ️:
 
-- ¡Puedes recoger la granja y llevártela dónde quieras! La gente de cada región ha adaptado sus técnicas agrícolas para sobrevivir en el clima de su zona. Para prosperar en tu nuevo hogar, deberás aprender de los lugareños, ya sea para mantener los pastos en buenas condiciones, cultivar arroz, cuidar de renos ¡y mucho más!
-- Las patatas son el único cultivo que queda en este mundo antaño tan fértil. Para conseguir nuevas semillas, necesitarás la ayuda de los espíritus de la cosecha, aunque no es fácil encontrarlos… Además, las semillas pueden crecer de maneras diferentes según dónde las plantes, lo que puede desembocar en nuevos cultivos.
 - ¡Expresa tu individualidad personalizando el aspecto de tu personaje y creando artículos para tu casa!
 - Coge la azada y sumérgete en la vida agrícola mientras recoges la cosecha y cuidas de los animales en tu humilde granja. ¡Consigue dinero al vender tus productos y convierte tu hogar en una auténtica hacienda!
-- ¡Te aguarda una gran aventura! Viajarás por cinco regiones conectadas, cada una con su propio clima, flora y fauna.
+- ¡Puedes recoger la granja y llevártela dónde quieras! La gente de cada región ha adaptado sus técnicas agrícolas para sobrevivir en el clima de su zona. Para prosperar en tu nuevo hogar, deberás aprender de los lugareños, ya sea para mantener los pastos en buenas condiciones, cultivar arroz, cuidar de renos ¡y mucho más!
+- Las patatas son el único cultivo que queda en este mundo antaño tan fértil. Para conseguir nuevas semillas, necesitarás la ayuda de los espíritus de la cosecha, aunque no es fácil encontrarlos… Además, las semillas pueden crecer de maneras diferentes según dónde las plantes, lo que puede desembocar en nuevos cultivos.
 - En tu aventura conocerás y ayudarás a un amplio elenco de personajes interesantes. Forja nuevas amistades y participa en los festivales locales a medida que te integras en la comunidad. Y no solo eso: ¡hay cinco solteras y cinco solteros en busca del amor! Conquista a uno de ellos para casarte y formar una familia.
+- ¡Te aguarda una gran aventura! Viajarás por cinco regiones conectadas, cada una con su propio clima, flora y fauna.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08TDGDYS6/?tag=tolees-21)
