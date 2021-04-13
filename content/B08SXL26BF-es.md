@@ -29,7 +29,7 @@ Está [Atlus - Persona 5 Strikers - Editión Limitada  PS4 ](https://www.amazon.
 ℹ️:
 
 - Controla a tu equipo de manera dinámica durante combates alucinantes
-- Lucha por todo Japón mientras viajas
 - Adéntrate en el increíble mundo de Persona con una historia
+- Lucha por todo Japón mientras viajas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08SXL26BF/?tag=tolees-21)
