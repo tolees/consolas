@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Nacon - Mando Compacto  Color Azul  PS4  con un 52.51 % de descuento'
-date: 2021-04-08 08:05:33
-image: 'https://m.media-amazon.com/images/I/41CA8rb11eL._SL400_.jpg'
+date: 2021-04-14 07:05:37
+image: 'https://m.media-amazon.com/images/I/41CA8rb11eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,19 +19,19 @@ flag: '🇪🇸'
 brand: 'Nacon'
 buyurl: 'https://www.amazon.es/dp/B0746R8TKN/?tag=tolees-21'
 descuento: '52.51'
-average: '28.4604'
+average: '28.8644444444445'
 ---
 
 En este momento está [Nacon - Mando Compacto  Color Azul  PS4 ](https://www.amazon.es/dp/B0746R8TKN/?tag=tolees-21) a 18.99 EUR (original: 39.99 EUR) (52.51 %  de descuento) en el siguiente enlace!
 
-[![Nacon - Mando Compacto  Color Azul  PS4 ](https://m.media-amazon.com/images/I/41CA8rb11eL._SL400_.jpg)](https://www.amazon.es/dp/B0746R8TKN/?tag=tolees-21)
+[![Nacon - Mando Compacto  Color Azul  PS4 ](https://m.media-amazon.com/images/I/41CA8rb11eL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0746R8TKN/?tag=tolees-21)
 
 🔎:
 
-- Panel táctil totalmente funcional
-- 2 motores de vibración
 - Conector para auriculares de 3.5 mm
 - Superficie "Soft touch" para un agarre perfecto incluso en sesiones de juego largas
+- Panel táctil totalmente funcional
 - Indicador LED de jugador
+- 2 motores de vibración
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0746R8TKN/?tag=tolees-21)
