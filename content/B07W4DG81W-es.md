@@ -28,12 +28,12 @@ Está [Logitech G923 TRUEFORCE Volante de Carreras y Pedales hasta 1000Hz Force 
 
 ℹ️:
 
+- DISEÑO DE CARRERAS CLÁSICO: Los detalles de calidad, como los pedales pulidos y la cubierta de cuero negra para el volante, mejoran el realismo y la comodidad del volante, con estilo clásico
+- INDICADOR DE REVOLUCIONES INTEGRADO: Ponte en cabeza con las luces LED de colores que iluminan el RPM; aprovecha los controles integrados y los frenos progresivos que estabilizan a alta velocidad
+- CONTROL DE EMBRAGUE DOBLE PROGRAMABLE: Simula el momento de salida en las carreras desde el mando, en los juegos compatibles; sal más rápido disfrutando de la máxima tracción y el mínimo humo
+- COMPATIBILIDAD TOTAL: Volante y pedales funcionan con la mayoría de juegos de carreras en PC y Xbox y con títulos exclusivos de TRUEFORCE; compatibles con dispositivos y software Logitech G HUB
 - DIAL DE SELECCIÓN DE 24 PUNTOS: Controla la configuración de las carreras con un dial de selección incorporado; ajuste de tracción, rotación, manejo de estabilidad, potencia de frenos y mucho más
 - CONTROLES EN EL VOLANTE: La sensibilidad del volante, los niveles de retroalimentación de fuerza y la dirección; todo el poder en tus manos, con funciones integradas para Xbox y PC
-- CONTROL DE EMBRAGUE DOBLE PROGRAMABLE: Simula el momento de salida en las carreras desde el mando, en los juegos compatibles; sal más rápido disfrutando de la máxima tracción y el mínimo humo
-- INDICADOR DE REVOLUCIONES INTEGRADO: Ponte en cabeza con las luces LED de colores que iluminan el RPM; aprovecha los controles integrados y los frenos progresivos que estabilizan a alta velocidad
 - TRUEFORCE HD FORCE FEEDBACK: Vive tu pasión por las carreras. Con TRUEFORCE, conecta con los motores del juego, procesando 4000 veces por segundo para obtener el máximo nivel de detalle y realismo
-- COMPATIBILIDAD TOTAL: Volante y pedales funcionan con la mayoría de juegos de carreras en PC y Xbox y con títulos exclusivos de TRUEFORCE; compatibles con dispositivos y software Logitech G HUB
-- DISEÑO DE CARRERAS CLÁSICO: Los detalles de calidad, como los pedales pulidos y la cubierta de cuero negra para el volante, mejoran el realismo y la comodidad del volante, con estilo clásico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07W4DG81W/?tag=tolees-21)
