@@ -28,11 +28,11 @@ Está [Capcom - Street Fighter V Champion Edit PS4 ESP](https://www.amazon.es/dp
 
 ℹ️:
 
-- La compra inicial de Street Fighter V sigue siendo la que los jugadores deben hacer para asegurarse de que siempre tengan la versión más actualizada del título
-- Crossplay disponible entre Playstation 4 y PC
-- Street Fighter V: Champion Edition incluye todo el contenido de lanzamiento del original y la versión Arcade además de cada personaje, escenario y otros contenidos lanzados tras la Arcade
-- 11 contrincantes (incluyendo a Gill) han sido incluidos en la Champion Edition además de uno adicional que sumará un total de 12; todos los personajes DLC se pueden comprar con dinero real o dinero del juego
-- Cada personaje recibe una nueva V-skill 2, añadiendo incluso profundidad al sistema de combate
 - El contenido DLC adicional es descargable (código digital)
+- Crossplay disponible entre Playstation 4 y PC
+- 11 contrincantes (incluyendo a Gill) han sido incluidos en la Champion Edition además de uno adicional que sumará un total de 12; todos los personajes DLC se pueden comprar con dinero real o dinero del juego
+- Street Fighter V: Champion Edition incluye todo el contenido de lanzamiento del original y la versión Arcade además de cada personaje, escenario y otros contenidos lanzados tras la Arcade
+- La compra inicial de Street Fighter V sigue siendo la que los jugadores deben hacer para asegurarse de que siempre tengan la versión más actualizada del título
+- Cada personaje recibe una nueva V-skill 2, añadiendo incluso profundidad al sistema de combate
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B081ZKPHBX/?tag=tolees-21)
