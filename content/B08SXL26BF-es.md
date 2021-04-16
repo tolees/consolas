@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Atlus - Persona 5 Strikers - Editión Lim al 41.82 % de descuento'
-date: 2021-04-13 09:54:22
+title: 'Atlus - Persona 5 Strikers - Editión Lim al 49.99 % de descuento'
+date: 2021-04-15 22:33:20
 image: 'https://m.media-amazon.com/images/I/51tXAoFFJsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08SXL26BF-es Atlus - Persona 5 Strikers - Editión Limitada PS4'
 sku: 'B08SXL26BF-es'
 tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Videojuegos','atlus','ps4', ]
-actualPrice: 34.9 EUR
+actualPrice: 30.0 EUR
 currency: EUR
-price: 34.9
+price: 30.0
 comparePrice: 59.99 EUR
 prodname: 'Atlus - Persona 5 Strikers - Editión Limitada  PS4 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Atlus'
 buyurl: 'https://www.amazon.es/dp/B08SXL26BF/?tag=tolees-21'
-descuento: '41.82'
-average: '48.1466666666668'
+descuento: '49.99'
+average: '46.7507692307694'
 ---
 
-Está [Atlus - Persona 5 Strikers - Editión Limitada  PS4 ](https://www.amazon.es/dp/B08SXL26BF/?tag=tolees-21) con 41.82 de descuento por 34.9 EUR (original: 59.99 EUR) en el siguiente enlace!
+Está [Atlus - Persona 5 Strikers - Editión Limitada  PS4 ](https://www.amazon.es/dp/B08SXL26BF/?tag=tolees-21) con 49.99 de descuento por 30.0 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![Atlus - Persona 5 Strikers - Editión Lim](https://m.media-amazon.com/images/I/51tXAoFFJsL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08SXL26BF/?tag=tolees-21)
 
