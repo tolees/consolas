@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk microSDXC UHS-I Tarjeta para Nin al 32.62 % de rebaja'
-date: 2021-04-16 14:46:31
+date: 2021-04-17 20:01:06
 image: 'https://m.media-amazon.com/images/I/41Oy2wNFvaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [SanDisk microSDXC UHS-I Tarjeta para Nintendo Switch 128GB - Edición Ap
 
 🔎:
 
-- Garantía limitada de por vida
+- Velocidades de lectura de hasta 100 MB/s y velocidades de escritura de hasta 90 MB/s
 - Diseñada, probada y autorizada para el sistema de juego de Nintendo Switch
 - Una sola tarjeta para almacenar varios juegos y jugar en cualquier lugar y en cualquier momento
 - Hasta 128 GB de memoria adicional
-- Velocidades de lectura de hasta 100 MB/s y velocidades de escritura de hasta 90 MB/s
+- Garantía limitada de por vida
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08V4Z4VRY/?tag=tolees-21)
