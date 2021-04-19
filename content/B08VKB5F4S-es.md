@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SEGA - Two Point Hospital Jumbo Edition al 32.51 % de rebaja'
-date: 2021-04-15 17:51:31
+date: 2021-04-19 22:35:24
 image: 'https://m.media-amazon.com/images/I/51l6vJcHalL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SEGA'
 buyurl: 'https://www.amazon.es/dp/B08VKB5F4S/?tag=tolees-21'
 descuento: '32.51'
-average: '31.0257142857142'
+average: '30.7566666666666'
 ---
 
 Tienes [SEGA - Two Point Hospital Jumbo Edition](https://www.amazon.es/dp/B08VKB5F4S/?tag=tolees-21) con precio final de  26.99 EUR (original: 39.99 EUR) (32.51 %  de rebaja) aqui!
@@ -28,9 +28,9 @@ Tienes [SEGA - Two Point Hospital Jumbo Edition](https://www.amazon.es/dp/B08VKB
 
 🔎:
 
-- Incluye 4 expansiones
 - Una vez hayas curado una enfermedad, busca varias curas y convierte tu hospital en un lugar imparable de cuidado de la salud
 - Optimiza el diseño de tu hospital para incrementar en flujo de pacientes y tesorería, preparando pasillos, salas de espera, habitaciones a tu manera. Amplía el hospital a múltiples edificios mientras tratas de conseguir atraer pacientes
+- Incluye 4 expansiones
 - Diagnostica enfermedades, construye habitaciones para manejarlas, elige al equipo adecuado y tenles preparados, porque curar una de estas enfermedades es solo el principio
 - No esperes que Two Point County esté poblado por los típicos pacientes. En este mundo te encontrarás con todo tipo de enfermedades atípicas
 
