@@ -28,10 +28,10 @@ Tienes [HORI - Base de carga individual con batería recargable  Xbox Series X|S
 
 🔎:
 
+- Compatible con el controlador inalámbrico Xbox Series X/S, Xbox Elite Series 1 y Xbox One
 - Incluye una batería y dos tapas
 - Método de carga sencillo: simplemente coloca el controlador en la base
 - Duración de la batería: hasta 20 horas
 - Licencia oficial de Microsoft
-- Compatible con el controlador inalámbrico Xbox Series X/S, Xbox Elite Series 1 y Xbox One
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08K4NHVPG/?tag=tolees-21)

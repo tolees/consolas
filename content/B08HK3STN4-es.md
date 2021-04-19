@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Super Mario 3D World + Bowser al 18.42 % de rebaja'
-date: 2021-04-17 21:22:16
+date: 2021-04-19 19:34:13
 image: 'https://m.media-amazon.com/images/I/51o9sTaknRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B08HK3STN4/?tag=tolees-21'
 descuento: '18.42'
-average: '51.1371582733814'
+average: '51.129283154122'
 ---
 
 Tienes [Nintendo - Super Mario 3D World + Bowser s Fury](https://www.amazon.es/dp/B08HK3STN4/?tag=tolees-21) con precio final de  48.94 EUR (original: 59.99 EUR) (18.42 %  de rebaja) aqui!
