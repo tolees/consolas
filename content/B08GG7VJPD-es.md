@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch Media - Atelier Ryza 2 Lost Legends al 25.13 % de descuento'
-date: 2021-04-15 22:27:42
+date: 2021-04-19 18:05:24
 image: 'https://m.media-amazon.com/images/I/51usMkl-Q5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Koch Media'
 buyurl: 'https://www.amazon.es/dp/B08GG7VJPD/?tag=tolees-21'
 descuento: '25.13'
-average: '57.4454545454545'
+average: '57.1664705882352'
 ---
 
 Ahora mismo tienes [Koch Media - Atelier Ryza 2 Lost Legends and the Secret Fairy  Nintendo Switch](https://www.amazon.es/dp/B08GG7VJPD/?tag=tolees-21) a 47.96 EUR (original: 64.06 EUR) (25.13 %  de descuento) en el siguiente enlace!

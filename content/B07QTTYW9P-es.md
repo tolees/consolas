@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Square Enix - Final Fantasy XIV: Shadowb al 63.72 % de rebaja'
-date: 2021-04-18 09:25:16
+date: 2021-04-19 18:16:33
 image: 'https://m.media-amazon.com/images/I/51Oz8Y7nKkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Square Enix'
 buyurl: 'https://www.amazon.es/dp/B07QTTYW9P/?tag=tolees-21'
 descuento: '63.72'
-average: '24.5390476190475'
+average: '24.3304545454544'
 ---
 
 Tienes [Square Enix - Final Fantasy XIV: Shadowbringers - Complete Edition  PS4 ](https://www.amazon.es/dp/B07QTTYW9P/?tag=tolees-21) con precio final de  19.95 EUR (original: 54.99 EUR) (63.72 %  de rebaja) aqui!
@@ -28,9 +28,9 @@ Tienes [Square Enix - Final Fantasy XIV: Shadowbringers - Complete Edition  PS4 
 
 🔎:
 
+- Monta tu chocobo y toma los cielos para poner fin a la milenaria Dragonsong War y devolver la luz al reino en esta aplaudida expansión
 - ¡Crea tu héroe único de FINAL FANTASY y comienza tu aventura en el reino de Eorzea!
 - Conviértete en la oscuridad en la última expansión! Comienza un nuevo capítulo jugando con dos nuevos oficios (Gunbreaker y Dancer) y dos nuevas razas (Viera y Hrothgar)
 - ! Pon rumbo a Oriente para explorar nuevos y amplios lugares y descubre dos oficios adicionales: Red Mage y Samurai
-- Monta tu chocobo y toma los cielos para poner fin a la milenaria Dragonsong War y devolver la luz al reino en esta aplaudida expansión
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QTTYW9P/?tag=tolees-21)
