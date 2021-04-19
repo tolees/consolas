@@ -28,7 +28,7 @@ Ahora mismo tienes [Estación de recarga DualSense - PlayStation 5](https://www.
 
 🔎:
 
-- Una inmersión que te dejará sin aliento
 - Carga hasta dos mandos inalámbricos DualSense simultáneamente sin necesidad de conectarlos a tu consola PlayStation 5
+- Una inmersión que te dejará sin aliento
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08H97WTBL/?tag=tolees-21)
