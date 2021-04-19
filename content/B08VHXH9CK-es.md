@@ -28,10 +28,10 @@ Tienes [UnionSine Ultra Slim Disco Duro Externo Portátil 2.5" 750GB  USB3.0 SAT
 
 🔎:
 
-- Compatibilidad del sistema: TV/Ps4/Xbox/Windows / Mac / Linux / Android.
-- Lo que obtienes: 1 disco duro portátil, 1 cable USB 3.0, 1 manual del usuario (idioma español no garantizado). Nota: El formato del disco duro cambiará cuando se use por primera vez en xbox. Necesita cambiar el formato en el administrador de dispositivos al cambiar de computadora.
 - Versión de actualización: ultra delgada, solo 0,43 pulgadas; superficie pulida.
 - Plug and Play - No requiere software de instalación, basta con enchufarlo y listo.
+- Lo que obtienes: 1 disco duro portátil, 1 cable USB 3.0, 1 manual del usuario (idioma español no garantizado). Nota: El formato del disco duro cambiará cuando se use por primera vez en xbox. Necesita cambiar el formato en el administrador de dispositivos al cambiar de computadora.
+- Compatibilidad del sistema: TV/Ps4/Xbox/Windows / Mac / Linux / Android.
 - Transferencia de datos ultrarrápida - Funciona con puertos USB 3.0 y USB 2.0 para proporcionar velocidades de transferencia ultrarrápidas.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08VHXH9CK/?tag=tolees-21)
