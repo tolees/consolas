@@ -28,10 +28,10 @@ Ahora mismo tienes [Minecraft - Nintendo Switch](https://www.amazon.es/dp/B07D1L
 
 🔎:
 
-- La jugabilidad es online y offline, beneficiándose de la útil función de pantalla partida
 - El juego Minecraft se encuentra en constante actualización y progresión
+- La jugabilidad es online y offline, beneficiándose de la útil función de pantalla partida
 - Minecraft es un juego de simulación y creación con gráficos pixelados
-- Construir todo tipo de elementos, edificaciones u objetos, permite dar forma a los escenarios más particulares que hayamos podido imaginar
 - El mundo de Minecraft está muy vivo y hay espacio para la exploración y la supervivencia
+- Construir todo tipo de elementos, edificaciones u objetos, permite dar forma a los escenarios más particulares que hayamos podido imaginar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07D1L22SD/?tag=tolees-21)
