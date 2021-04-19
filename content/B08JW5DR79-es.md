@@ -28,9 +28,9 @@ Tienes [Microsoft Mando Inalámbrico Xbox + Adaptador inalámbrico para Windows 
 
 🔎:
 
-- Dirección híbrido y agarre texturizado en los gatillos, botones y funda trasera
 - Con el Adaptador inalámbrico Xbox incluido, puedes conectar hasta 8 Mandos inalámbricos Xbox a la vez y jugar juntos de forma inalámbrica en un PC Windows 10
-- Diseño modernizado, con superficies esculpidas y una geometría refinada para una buena comodidad durante el juego
+- Dirección híbrido y agarre texturizado en los gatillos, botones y funda trasera
 - Juega en todos tus dispositivos
+- Diseño modernizado, con superficies esculpidas y una geometría refinada para una buena comodidad durante el juego
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08JW5DR79/?tag=tolees-21)
