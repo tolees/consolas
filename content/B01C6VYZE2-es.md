@@ -28,10 +28,10 @@ Ahora mismo tienes [HORI - Mando HORIPAD Mini Pikachu & Eevee  Nintendo Switch ]
 
 🔎:
 
-- Sin lag: conexión con cable de 3 m
+- 100% funcional
 - Tamaño Para los jugadores más jóvenes
 - Licencias oficiales de Nintendo y Pokémon
-- 100% funcional
+- Sin lag: conexión con cable de 3 m
 - Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01C6VYZE2/?tag=tolees-21)
