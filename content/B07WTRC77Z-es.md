@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Marvel’s Spider-Man  PS4  Game of al 42.09 % de descuento'
-date: 2021-04-15 17:58:27
+date: 2021-04-21 15:38:19
 image: 'https://m.media-amazon.com/images/I/51L4rKx8MuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B07WTRC77Z/?tag=tolees-21'
 descuento: '42.09'
-average: '32.1667213114754'
+average: '32.1148387096774'
 ---
 
 Ahora mismo tienes [Sony - Marvel’s Spider-Man  PS4  Game of the Year Edition  GOTY ](https://www.amazon.es/dp/B07WTRC77Z/?tag=tolees-21) a 28.95 EUR (original: 49.99 EUR) (42.09 %  de descuento) en el siguiente enlace!
