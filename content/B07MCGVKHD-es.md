@@ -28,10 +28,10 @@ Ahora mismo tienes [Diswoe Mando Inalámbrico para PS3 Controller Bluetooth con 
 
 🔎:
 
-- 🎮Soporte de 6 ejes: el sistema de control de movimiento altamente sensible detecta cada movimiento y los personajes y los objetos del juego se moverán y reaccionarán mientras inclinas, empujas y agitas el mando. Juego realmente intuitivo a través de la tecnología de detección de movimiento 6-Axis .
-- 🎮Diseño ergonómico: tiene una forma casi ergonómica para adaptarse a las manos de cualquier jugador, todos los botones y controles hacen que tu mano sea muy cómoda durante largos períodos de juego. Debe ser una gran sorpresa cuando sus hijos o sus amigos reciben estos hermosos controladores.
-- 🎮Double Doble vibración incorporada: los dos motores eléctricos hacen que el juego sea más realista, que en los controladores vibra cuando se desliza o se dispara para hacer el juego emocionante y emocionante. Siente cada golpe, choque y explosión con la vibración doble de la mano.
 - 🎮Compatible con la consola Sony Playstation 3. Controlador de terceros, no fabricado por Sony.
+- 🎮Soporte de 6 ejes: el sistema de control de movimiento altamente sensible detecta cada movimiento y los personajes y los objetos del juego se moverán y reaccionarán mientras inclinas, empujas y agitas el mando. Juego realmente intuitivo a través de la tecnología de detección de movimiento 6-Axis .
 - 🎮Alto rendimiento: conexión inalámbrica de 10 metros, batería recargable incorporada, doble vibración de choque, posicionamiento de 360 ​​grados con ultra precisión. El sistema de control de
+- 🎮Double Doble vibración incorporada: los dos motores eléctricos hacen que el juego sea más realista, que en los controladores vibra cuando se desliza o se dispara para hacer el juego emocionante y emocionante. Siente cada golpe, choque y explosión con la vibración doble de la mano.
+- 🎮Diseño ergonómico: tiene una forma casi ergonómica para adaptarse a las manos de cualquier jugador, todos los botones y controles hacen que tu mano sea muy cómoda durante largos períodos de juego. Debe ser una gran sorpresa cuando sus hijos o sus amigos reciben estos hermosos controladores.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MCGVKHD/?tag=tolees-21)
