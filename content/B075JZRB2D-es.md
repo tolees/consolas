@@ -28,9 +28,9 @@ Ahora mismo tienes [Power A - PowerA - Kit de lonchera Zelda  Nintendo Switch ](
 
 🔎:
 
+- Licencia oficial de Nintendo
 - Zelda Joy-Con Comfort Grip
 - Caja de almuerzo de colección
 - Incluye auriculares para juegos privados, paño de limpieza, protector de pantalla y aplicador
-- Licencia oficial de Nintendo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B075JZRB2D/?tag=tolees-21)
