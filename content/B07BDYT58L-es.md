@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Super Smash Bros. Ultimate  Nintendo Swi con un 22.99 % de descuento'
-date: 2021-04-16 06:40:49
+date: 2021-04-23 06:44:01
 image: 'https://m.media-amazon.com/images/I/61S9ecasK2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B07BDYT58L/?tag=tolees-21'
 descuento: '22.99'
-average: '58.0340963855423'
+average: '58.0175600000001'
 ---
 
 En este momento está [Super Smash Bros. Ultimate  Nintendo Switch ](https://www.amazon.es/dp/B07BDYT58L/?tag=tolees-21) a 53.9 EUR (original: 69.99 EUR) (22.99 %  de descuento) en el siguiente enlace!
