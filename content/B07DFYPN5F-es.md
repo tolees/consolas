@@ -30,8 +30,8 @@ Tienes [Koch - Team Sonic Racing  PS4](https://www.amazon.es/dp/B07DFYPN5F/?tag=
 
 - Carreras en equipo. Corre en equipo y vence equipo. Usa distintas jugadas de equipo para ayudar a tus compañeros, chocar contra oponentes y activar tu megaturbo
 - Varios tipos de personajes. 15 personajes del universo de Sonic con los que podrás jugar. Estos serán de 3 tipos distintos: velocidad, técnica y potencia
-- Personalización de apariencias y rendimiento. Altera la imagen y conducción de tu vehículo
 - Wisps. 14 objetos espectaculares tanto de ataque como defensa con los que podrás vencer a tus rivales y hacerte con la victoria
+- Personalización de apariencias y rendimiento. Altera la imagen y conducción de tu vehículo
 - Modos multijugador y cooperativo local. 12 jugadores por carrera, pantalla partida para 4 y varios modos de juego en línea sin conexión como Gran Premio, Exhibición, Contrarreloj y Aventuras en equipo
 - Modo aventura. Una historia única en la que los jugadores aprenderán las bases del juego y conocerán a sus personajes
 
