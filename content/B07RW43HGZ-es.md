@@ -28,10 +28,10 @@ En este momento está [PICTEK Cargador Mando PS4  Soporte Mando ps4 USB con LED 
 
 🔎:
 
-- ❤Perfecto Soporte para PS4❤ Este soporte mando ps4 está hecho de material ABS de alta calidad para mayor resistencia y tacto. Diseño único de tira de luz en la base. Las cuatro alfombrillas antideslizantes inferior y horizontal mantienen el cargador estable y protegen los mandos contra movimientos y caídas.
-- ❤Carga más Rápidamente❤ soporte mando ps4 Si hay dos, los mandos estarán completamente cargados en 3 horas. Si solo uno, en 2,5 horas. Su juego excelente con su amigos o familia nunca cesará fácilmente.
 - ❤LED Indicador❤ El LED rojo indica carga y el verde indica carga completa. Si solo pones uno en la estación, habrá una luz indicadora roja y una verde. El marcado adicionales le permiten identificar mejor el estado de cada mando.
-- ❤Guarda al no Usar❤ No solo es un cargador mandos ps4, sino también es para guardar mandos. Perfecto para ahorrar espacio en el almacenamiento de controlador cuando no estás jugando. ¡Disfruta de juegos ininterrumpidos y agrega brillo a tu escritorio!
 - ❤Dos Estaciones de Carga❤ El soporte mando ps4 le permite cargar dos mandos PS4 al mismo tiempo o solo uno sin conectarse al sistema PS4. Puede cargar fácilmente el controlador PS4 / PS4 slim / PS4 Pro desde el PC, fuente de alimentación y banco de energía.
+- ❤Guarda al no Usar❤ No solo es un cargador mandos ps4, sino también es para guardar mandos. Perfecto para ahorrar espacio en el almacenamiento de controlador cuando no estás jugando. ¡Disfruta de juegos ininterrumpidos y agrega brillo a tu escritorio!
+- ❤Carga más Rápidamente❤ soporte mando ps4 Si hay dos, los mandos estarán completamente cargados en 3 horas. Si solo uno, en 2,5 horas. Su juego excelente con su amigos o familia nunca cesará fácilmente.
+- ❤Perfecto Soporte para PS4❤ Este soporte mando ps4 está hecho de material ABS de alta calidad para mayor resistencia y tacto. Diseño único de tira de luz en la base. Las cuatro alfombrillas antideslizantes inferior y horizontal mantienen el cargador estable y protegen los mandos contra movimientos y caídas.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07RW43HGZ/?tag=tolees-21)
