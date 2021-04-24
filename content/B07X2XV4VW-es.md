@@ -28,11 +28,11 @@ Tienes [Nacon - Micrófono de Streaming  Oficial Sony  PS4  - Compatible con PS5
 
 🔎:
 
-- ADC integrado con resolución de 16 bits/48 KHz
-- Compatible con PS5
-- Botón de silencio
-- Tecnología cardioide
-- Retroiluminación azul
 - Estructura metálica robusta
+- Botón de silencio
+- ADC integrado con resolución de 16 bits/48 KHz
+- Retroiluminación azul
+- Tecnología cardioide
+- Compatible con PS5
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07X2XV4VW/?tag=tolees-21)
