@@ -29,9 +29,9 @@ Tienes [HORI - PlayStand USB  Nintendo Switch / Switch Lite ](https://www.amazon
 🔎:
 
 - Ideal para partidas multijugador donde más apetezca: conecta hasta 2 periféricos a la vez
-- Carga mientras juegas: puerto adicional para el adaptador de corriente Switch
-- Funcionamiento autónomo: juega incluso sin cargador
 - Licencia oficial de Nintendo
 - Se pliega al completo para una portabilidad total
+- Carga mientras juegas: puerto adicional para el adaptador de corriente Switch
+- Funcionamiento autónomo: juega incluso sin cargador
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07W7FNN9Z/?tag=tolees-21)
