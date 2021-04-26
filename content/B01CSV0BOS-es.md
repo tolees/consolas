@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 19.39 % en Nintendo - Pack 3 Tarjetas amiibo Animal'
-date: 2021-04-17 10:12:42
+date: 2021-04-26 19:07:04
 image: 'https://m.media-amazon.com/images/I/51IPigDDwFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [Nintendo - Pack 3 Tarjetas amiibo Animal Crossing HHD - SERIE 4](https:/
 
 ℹ️:
 
+- Hay un álbum de coleccionista para cada serie de tarjetas amiibo de Animal Crossing
 - Hay 100 tarjetas diferentes en cada serie
 - Contiene tres tarjetas amiibo: 1 tarjeta amiibo especial y 2 tarjetas amiibo normales
-- Hay un álbum de coleccionista para cada serie de tarjetas amiibo de Animal Crossing
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01CSV0BOS/?tag=tolees-21)
