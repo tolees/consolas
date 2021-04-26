@@ -28,8 +28,8 @@ Tienes [Nintendo - Pack 3 Tarjetas amiibo Animal Crossing HHD - SERIE 4](https:/
 
 ℹ️:
 
-- Hay un álbum de coleccionista para cada serie de tarjetas amiibo de Animal Crossing
-- Hay 100 tarjetas diferentes en cada serie
 - Contiene tres tarjetas amiibo: 1 tarjeta amiibo especial y 2 tarjetas amiibo normales
+- Hay 100 tarjetas diferentes en cada serie
+- Hay un álbum de coleccionista para cada serie de tarjetas amiibo de Animal Crossing
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01CSV0BOS/?tag=tolees-21)
