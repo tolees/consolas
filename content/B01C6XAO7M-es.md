@@ -28,10 +28,10 @@ Ahora mismo tienes [HORI - Volante Mario Kart Pro Deluxe  Nintendo Switch/PC ](h
 
 🔎:
 
-- Compatible también con otros juegos de carreras para Nintendo Switch
-- Incluye pedales analógicos para una experiencia de conducción más realista
-- Levas de cambio secuencial en el volante
 - Licencia oficial de Nintendo
+- Levas de cambio secuencial en el volante
+- Incluye pedales analógicos para una experiencia de conducción más realista
 - Botones programables
+- Compatible también con otros juegos de carreras para Nintendo Switch
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01C6XAO7M/?tag=tolees-21)
