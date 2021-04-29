@@ -28,10 +28,10 @@ Ahora mismo tienes [SEGA - Valkyria Chronicles 4 - Switch](https://www.amazon.es
 
 🔎:
 
-- Estética del lienzo: los artes visuales, dibujados a mano, están inspirados en composiciones de color acrílico
-- El retorno de un compositor legendario: el ilustrador Hitoshi Sakimoto, el compositor original de la serie de Valkyria Chronicles y otras incontables obras, regresa para traer una gran obra con Valkyria Chronicles 4
 - Los Canvas Graphics Engine traen elementos visuales muy reales e imaginativos para crear un mundo muy expresivo lleno de coloridas emociones
-- La nueva generación del sistema de batalla “Blitz”: tiene una parte de estrategia, una parte de RPG y una parte de shooter en tercera persona a tiempo real con el sistema de combate BLitz que regresa al campo de batalla
+- El retorno de un compositor legendario: el ilustrador Hitoshi Sakimoto, el compositor original de la serie de Valkyria Chronicles y otras incontables obras, regresa para traer una gran obra con Valkyria Chronicles 4
 - Una historia en tiempos de guerra: centrados en los nuevos personajes, los jugadores tomarán el control del joven comandante Claude Wallace, del ingeniero y experto en armas pesadas Riley Miller, de Darcsen Raz y más
+- Estética del lienzo: los artes visuales, dibujados a mano, están inspirados en composiciones de color acrílico
+- La nueva generación del sistema de batalla “Blitz”: tiene una parte de estrategia, una parte de RPG y una parte de shooter en tercera persona a tiempo real con el sistema de combate BLitz que regresa al campo de batalla
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07C8XW8X2/?tag=tolees-21)
