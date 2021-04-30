@@ -28,9 +28,9 @@ Está [Aksys Games - Zero Escape: Zero Time Dilemma for PlayStation 4 [Importaci
 
 ℹ️:
 
-- Vast Branching Paths: Multiple endings and nonlinear story mechanics will keep you coming back again and again to find the truth.
-- Beautiful HD PS4 Graphical Experience: Zero Time Dilemma has been beautifully remastered with impressive new HD graphics to accompany the English and Japanese voice over options to flesh out the narrative.
 - Excellence in Narrative and Puzzles: Kotaro Uchikoshi is back with diabolic new puzzles and fully animated story sections that push boundaries of interactive storytelling.
+- Beautiful HD PS4 Graphical Experience: Zero Time Dilemma has been beautifully remastered with impressive new HD graphics to accompany the English and Japanese voice over options to flesh out the narrative.
 - Meet Our New Contestants: Newcomers and familiar faces round out a robust cast of characters. Find out who will live and who will die in this epic clash of wills.
+- Vast Branching Paths: Multiple endings and nonlinear story mechanics will keep you coming back again and again to find the truth.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0716KTMR6/?tag=tolees-21)
