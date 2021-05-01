@@ -28,9 +28,9 @@ Tienes [Sony CEE Games  New Gen  - Nioh 2 - PlayStation 4](https://www.amazon.es
 
 ℹ️:
 
-- Invoca a los espectros que han dejado otros jugadores de Nioh 2 para ayudarte en el combate; sus espíritus te asistirán hasta el final del nivel actual o hasta que sean vencidos
-- Sigue la senda del samurái con armas tradicionales, como espadas y hachuelas, o llena tu indicador de amrita para emplear poderosas habilidades yokai y derrotar a los monstruos con una gran variedad de potentes ataques
 - Llenar tu indicador de amrita no solo te da acceso a una poderosa forma de yokai, sino que también te permite aumentar las estadísticas de distintas armas y añadir mejoras extra, como empujar y hacer presas a los enemigos abatidos
+- Sigue la senda del samurái con armas tradicionales, como espadas y hachuelas, o llena tu indicador de amrita para emplear poderosas habilidades yokai y derrotar a los monstruos con una gran variedad de potentes ataques
+- Invoca a los espectros que han dejado otros jugadores de Nioh 2 para ayudarte en el combate; sus espíritus te asistirán hasta el final del nivel actual o hasta que sean vencidos
 - Prepárate para el combate de tu vida con una nueva mecánica que mezcla los elementos favoritos de los fans de Nioh y requerirá toda tu concentración y habilidad
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B081VY95NP/?tag=tolees-21)
