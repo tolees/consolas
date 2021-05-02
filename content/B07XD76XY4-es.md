@@ -28,10 +28,10 @@ Tienes [Th-some Funda para Nintendo Switch Lite 6 en 1 Kit de Accesorios para Ni
 
 🔎:
 
-- 【Protección total y protector de pantalla de alta calidad】La cobertura completa HD, diseño super delgado y robusto, 9H dureza del protector de pantalla ofrece máxima sensibilidad a la pantalla táctil. Protector transparente Anti-rasguño en la parte posterior, protección completa para su Switch Lite durante el juego
-- 【Funda Protectora con Diseño especial y de alta calidad】El material EVA de alta calidad, Funda fuerte y resistente por fuera y material interior suave para mantener su dispositivo libre de golpes accidentales, rasguños y caídas. Diseño compacto y portable, facilitando el llevar contigo su Nintendo Switch Lite
+- 【Diseño nuevo 10 bolsillos para tarjetas y antifugas con cremallera】10 pequeños bolsillos para tarjetas de juego y Bolsillos de malla con cremallera aumentado el espacio de almacenaje para guardar la consola Switch Lite, el cable HDMI, estuche para tarjetas de juego y otros accesorios más pequeños, manteniéndoles en perfecto estado
 - 【Conjunto de Accesorios Todo en Uno para Switch Lite】1 x Funda para Nintendo Switch Lite, 1 x Funda Transparente para Nintendo Switch Lite, 2 x Protector de pantalla de vidrio templado, 2 x Algodón de alcohol
 - 【Garantía】 VOOA brinda servicio al cliente las 24 horas y reembolso incondicional de 60 días y soporte técnico gratuito de por vida
-- 【Diseño nuevo 10 bolsillos para tarjetas y antifugas con cremallera】10 pequeños bolsillos para tarjetas de juego y Bolsillos de malla con cremallera aumentado el espacio de almacenaje para guardar la consola Switch Lite, el cable HDMI, estuche para tarjetas de juego y otros accesorios más pequeños, manteniéndoles en perfecto estado
+- 【Protección total y protector de pantalla de alta calidad】La cobertura completa HD, diseño super delgado y robusto, 9H dureza del protector de pantalla ofrece máxima sensibilidad a la pantalla táctil. Protector transparente Anti-rasguño en la parte posterior, protección completa para su Switch Lite durante el juego
+- 【Funda Protectora con Diseño especial y de alta calidad】El material EVA de alta calidad, Funda fuerte y resistente por fuera y material interior suave para mantener su dispositivo libre de golpes accidentales, rasguños y caídas. Diseño compacto y portable, facilitando el llevar contigo su Nintendo Switch Lite
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XD76XY4/?tag=tolees-21)
