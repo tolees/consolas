@@ -28,10 +28,10 @@ Está [HORI - Controlador Split Pad Pro Pikachu Black & Gold  Nintendo Switch ](
 
 ℹ️:
 
+- Licencias oficiales de Nintendo y Pokémon
+- la precisión y comodidad del Pro Controller, en modo portátil
+- Superficie de agarre, gatillos, sticks y cruceta de mayor tamaño que los de los Joy-Con
 - Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
 - Botones traseros programables
-- Superficie de agarre, gatillos, sticks y cruceta de mayor tamaño que los de los Joy-Con
-- la precisión y comodidad del Pro Controller, en modo portátil
-- Licencias oficiales de Nintendo y Pokémon
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08KT7ML1R/?tag=tolees-21)
