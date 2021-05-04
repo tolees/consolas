@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Estación de recarga DualSense - PlayStat al 57.03 % de descuento'
-date: 2021-05-01 06:38:33
+date: 2021-05-04 19:21:00
 image: 'https://m.media-amazon.com/images/I/31nKYamjvYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Accesorios para PlayStation 5','Auriculares para PlayStation 5','Cámar
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99
-comparePrice: 69.8 EUR
+comparePrice: 69.79 EUR
 prodname: 'Estación de recarga DualSense - PlayStation 5'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B08H97WTBL/?tag=tolees-21'
 descuento: '57.03'
-average: '62.7286538461541'
+average: '62.4168571428574'
 ---
 
-Ahora mismo tienes [Estación de recarga DualSense - PlayStation 5](https://www.amazon.es/dp/B08H97WTBL/?tag=tolees-21) a 29.99 EUR (original: 69.8 EUR) (57.03 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Estación de recarga DualSense - PlayStation 5](https://www.amazon.es/dp/B08H97WTBL/?tag=tolees-21) a 29.99 EUR (original: 69.79 EUR) (57.03 %  de descuento) en el siguiente enlace!
 
 [![Estación de recarga DualSense - PlayStat](https://m.media-amazon.com/images/I/31nKYamjvYL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08H97WTBL/?tag=tolees-21)
 
