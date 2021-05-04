@@ -29,9 +29,9 @@ Tienes [Cable guy Sonic the hedgehog de Sega  soporte de sujeción o carga para 
 🔎:
 
 - Personaje Sonic classic the hedgehog
+- Incluye cable de carga de 2 metros (conector lightning, mini usb y usb)
 - Compatible con mando o controller PS4, Xbox one
 - Compatible con todos los teléfonos móviles o smartphones actuales
 - Producto con licencia oficial Sonic the hedgehog de Sega
-- Incluye cable de carga de 2 metros (conector lightning, mini usb y usb)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B075QLBP9K/?tag=tolees-21)
