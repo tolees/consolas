@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cable guy Sonic the hedgehog de Sega  so al 20.01 % de rebaja'
-date: 2021-05-02 12:16:20
+date: 2021-05-04 08:26:05
 image: 'https://m.media-amazon.com/images/I/41UV0E+++QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Exquisite Gaming'
 buyurl: 'https://www.amazon.es/dp/B075QLBP9K/?tag=tolees-21'
 descuento: '20.01'
-average: '20.266'
+average: '20.22'
 ---
 
 Tienes [Cable guy Sonic the hedgehog de Sega  soporte de sujeción o carga para mando de consola y/o smartphone de tu personaje favorito con licencia Sega. Producto con licencia oficial. Exquisite Gaming](https://www.amazon.es/dp/B075QLBP9K/?tag=tolees-21) con precio final de  19.99 EUR (original: 24.99 EUR) (20.01 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [Cable guy Sonic the hedgehog de Sega  soporte de sujeción o carga para 
 
 🔎:
 
-- Compatible con mando o controller PS4, Xbox one
-- Producto con licencia oficial Sonic the hedgehog de Sega
 - Personaje Sonic classic the hedgehog
+- Compatible con mando o controller PS4, Xbox one
 - Compatible con todos los teléfonos móviles o smartphones actuales
+- Producto con licencia oficial Sonic the hedgehog de Sega
 - Incluye cable de carga de 2 metros (conector lightning, mini usb y usb)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B075QLBP9K/?tag=tolees-21)
