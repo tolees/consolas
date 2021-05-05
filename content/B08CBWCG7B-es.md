@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Take-Two 2K - NBA 2k21- Xbox Series X  E al 20.02 % de descuento'
-date: 2021-04-19 18:09:27
+title: 'Take-Two 2K - NBA 2k21- Xbox Series X  E al 57.12 % de descuento'
+date: 2021-05-05 08:05:09
 image: 'https://m.media-amazon.com/images/I/5107PChD6rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08CBWCG7B-es Take-Two 2K - NBA 2k21- Xbox Series X Estándar Edition'
 sku: 'B08CBWCG7B-es'
 tags: [ 'Hardware y juegos para Xbox Series X y S','Juegos para Xbox Series X y S','Videojuegos','take-two 2k','xbox', ]
-actualPrice: 39.95 EUR
+actualPrice: 26.99 EUR
 currency: EUR
-price: 39.95
-comparePrice: 49.95 EUR
+price: 26.99
+comparePrice: 62.94 EUR
 prodname: 'Take-Two 2K - NBA 2k21- Xbox Series X  Estándar Edition'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Take-Two 2K'
 buyurl: 'https://www.amazon.es/dp/B08CBWCG7B/?tag=tolees-21'
-descuento: '20.02'
-average: '43.95'
+descuento: '57.12'
+average: '40.9557142857143'
 ---
 
-Ahora mismo tienes [Take-Two 2K - NBA 2k21- Xbox Series X  Estándar Edition](https://www.amazon.es/dp/B08CBWCG7B/?tag=tolees-21) a 39.95 EUR (original: 49.95 EUR) (20.02 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Take-Two 2K - NBA 2k21- Xbox Series X  Estándar Edition](https://www.amazon.es/dp/B08CBWCG7B/?tag=tolees-21) a 26.99 EUR (original: 62.94 EUR) (57.12 %  de descuento) en el siguiente enlace!
 
 [![Take-Two 2K - NBA 2k21- Xbox Series X  E](https://m.media-amazon.com/images/I/5107PChD6rL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08CBWCG7B/?tag=tolees-21)
 
