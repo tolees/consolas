@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - STAR WARS: Squadrons   al 51.45 % de rebaja'
-date: 2021-05-04 15:06:30
+date: 2021-05-05 19:04:19
 image: 'https://m.media-amazon.com/images/I/51aimLMek-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.es/dp/B08B9BM1J4/?tag=tolees-21'
 descuento: '51.45'
-average: '28.0340350877193'
+average: '27.8937931034483'
 ---
 
 Tienes [Electronic Arts - STAR WARS: Squadrons  PlayStation 4   PlayStation VR Compatible](https://www.amazon.es/dp/B08B9BM1J4/?tag=tolees-21) con precio final de  19.9 EUR (original: 40.99 EUR) (51.45 %  de rebaja) aqui!
