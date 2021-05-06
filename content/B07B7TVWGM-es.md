@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Super Chariot  Nintendo al 16.97 % de descuento'
-date: 2021-05-01 21:09:15
+date: 2021-05-06 10:22:21
 image: 'https://m.media-amazon.com/images/I/51irPu5EexL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B07B7TVWGM/?tag=tolees-21'
 descuento: '16.97'
-average: '21.8632500000001'
+average: '21.9373170731708'
 ---
 
 Ahora mismo tienes [Meridiem Games - Super Chariot  Nintendo Switch ](https://www.amazon.es/dp/B07B7TVWGM/?tag=tolees-21) a 24.9 EUR (original: 29.99 EUR) (16.97 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [Meridiem Games - Super Chariot  Nintendo Switch ](https://ww
 
 🔎:
 
+- Maravillosos mundos en 2D, repletos de personajes y objetos únicos
 - Os esperan desafíos épicos a los dos: ¡la cooperación es la clave para superarlos
 - Juega con un amigo en el modo multijugador local: haz que tu Nintendo Switch(R) vibre en modo TV o Sobremesa
 - Más de 60 horas de juego te esperan mientras avanzas por 25 niveles salpicados de senderos secretos y tesoros abundantes
-- Maravillosos mundos en 2D, repletos de personajes y objetos únicos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07B7TVWGM/?tag=tolees-21)
