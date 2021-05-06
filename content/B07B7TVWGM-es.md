@@ -29,8 +29,8 @@ Ahora mismo tienes [Meridiem Games - Super Chariot  Nintendo Switch ](https://ww
 🔎:
 
 - Maravillosos mundos en 2D, repletos de personajes y objetos únicos
-- Os esperan desafíos épicos a los dos: ¡la cooperación es la clave para superarlos
 - Juega con un amigo en el modo multijugador local: haz que tu Nintendo Switch(R) vibre en modo TV o Sobremesa
+- Os esperan desafíos épicos a los dos: ¡la cooperación es la clave para superarlos
 - Más de 60 horas de juego te esperan mientras avanzas por 25 niveles salpicados de senderos secretos y tesoros abundantes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07B7TVWGM/?tag=tolees-21)
