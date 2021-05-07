@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'U&I Entertainment - Shovel Knight Gold A al 49.75 % de rebaja'
-date: 2021-05-02 08:36:38
+date: 2021-05-07 09:45:31
 image: 'https://m.media-amazon.com/images/I/51Tu1qAZawL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'U&I Entertainment'
 buyurl: 'https://www.amazon.es/dp/B07NBZB79Y/?tag=tolees-21'
 descuento: '49.75'
-average: '12.4723913043478'
+average: '12.3770212765957'
 ---
 
 Tienes [U&I Entertainment - Shovel Knight Gold Amiibo  Dorado  Nintendo 3Ds ](https://www.amazon.es/dp/B07NBZB79Y/?tag=tolees-21) con precio final de  7.99 EUR (original: 15.9 EUR) (49.75 %  de rebaja) aqui!
