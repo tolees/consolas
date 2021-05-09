@@ -29,9 +29,9 @@ Tienes [CI Games - Sniper: Ghost Warrior - Contracts  Xbox One ](https://www.ama
 ℹ️:
 
 - Interfaces rediseñadas siguiendo un sistema táctico para marcar los enemigos que debes eliminar
-- Contratos con final abierto, botines y operaciones secundarias con un alto valor de re-jugabilidad para completar objetivos y conseguir dinero que invertir en mejoras y recompensas
-- Juega como un contratista y sicario a sueldo, y abate a tus objet
-- Un modo de tiro mejorado con la experiencia más realista e intensa de francotirador; elige tu objetivo, tienes cientos de formas de matarlo
 - Un arsenal de utensilios nuevos para desplegar, como drones, torretas remotas, bombas adhesivas y gas tóxico
+- Juega como un contratista y sicario a sueldo, y abate a tus objet
+- Contratos con final abierto, botines y operaciones secundarias con un alto valor de re-jugabilidad para completar objetivos y conseguir dinero que invertir en mejoras y recompensas
+- Un modo de tiro mejorado con la experiencia más realista e intensa de francotirador; elige tu objetivo, tienes cientos de formas de matarlo
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07SVH5HSY/?tag=tolees-21)
