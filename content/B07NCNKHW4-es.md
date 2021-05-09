@@ -28,10 +28,10 @@ Tienes [Krom K-WHEEL - NXKROMKWHL - Juego de volante y pedales Multiplataforma  
 
 🔎:
 
-- Grip de tejido sintético para mayor agarre
 - Efectos de vibración en el volante
-- Juego de volante y pedales
+- Grip de tejido sintético para mayor agarre
 - Compatible con PC, PS3, PS4 y XBOX ONE
+- Juego de volante y pedales
 - Palanca de cambios y levas en el volante
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07NCNKHW4/?tag=tolees-21)
