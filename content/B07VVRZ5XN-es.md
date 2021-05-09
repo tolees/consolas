@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.73 % en Koch Media - Two Point Hospital - Ninten'
-date: 2021-05-06 17:11:20
+date: 2021-05-09 08:22:11
 image: 'https://m.media-amazon.com/images/I/51ya3zcQIuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Koch Media'
 buyurl: 'https://www.amazon.es/dp/B07VVRZ5XN/?tag=tolees-21'
 descuento: '37.73'
-average: '30.0310256410257'
+average: '29.9027500000001'
 ---
 
 Tienes [Koch Media - Two Point Hospital - Nintendo Switch](https://www.amazon.es/dp/B07VVRZ5XN/?tag=tolees-21) con un 37.73 % de descuento con precio de oferta de 24.9 EUR (original: 39.99 EUR) en el siguiente enlace!
@@ -29,8 +29,8 @@ Tienes [Koch Media - Two Point Hospital - Nintendo Switch](https://www.amazon.es
 ℹ️:
 
 - Gestiona los trabajos de tu hospital, ¡y el dinero que estás haciendo también! Sigue curando gente e incrementando la reputación de tu hospital para expandir tu imperio; trata de no matar a nadie
+- Meterse en el juego es más fácil que nunca, con un sistema de control totalmente rediseñado que traen precisión total
 - Two Point Hospital en PS4, Xbox One y Nintendo Switch incluye dos expansiones Premium: Bigfoot y Pebberley Island
 - Construye tu hospital a tu gusto, modifica la disposición de las habitaciones y coloca objetos para construir los hospitales más bonitos y eficientes y tratar algunas de las más atípicas (y divertidas) enfermedades
-- Meterse en el juego es más fácil que nunca, con un sistema de control totalmente rediseñado que traen precisión total
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07VVRZ5XN/?tag=tolees-21)
