@@ -28,13 +28,13 @@ Está [Elgato HD60 S  Tarjeta de captura  captura a 1080p60  traspaso sin retard
 
 ℹ️:
 
-- Haz streaming de tus mejores partidas y grábalas
-- Resoluciones soportadas: 080p60, 1080p30, 1080i, 720p60, 720p30, 576p, 576i, 480p
-- Función incluida de comentarios en directo, captura directamente a tu ordenador
-- Requisitos: Mac (macOS Sierra, AMD or NVIDIA, Intel i5-4xxx qual core o mejor); Windows (Windows 10- 64 bits, Intel HD, NVIDIA GeForce GTX 600 o mejor, Intel i5-4xxx qual core o mejor)
-- Entrada: PlayStation 4, Xbox One, Xbox360, Wii U
-- Función de streaming en directo a Twitch, YouTube y más
 - Haz streaming con una tecnología superior de baja latencia
+- Entrada: PlayStation 4, Xbox One, Xbox360, Wii U
+- Requisitos: Mac (macOS Sierra, AMD or NVIDIA, Intel i5-4xxx qual core o mejor); Windows (Windows 10- 64 bits, Intel HD, NVIDIA GeForce GTX 600 o mejor, Intel i5-4xxx qual core o mejor)
 - Control de streaming: añade una webcam, gráficos superpuestos y mucho más
+- Haz streaming de tus mejores partidas y grábalas
+- Función incluida de comentarios en directo, captura directamente a tu ordenador
+- Resoluciones soportadas: 080p60, 1080p30, 1080i, 720p60, 720p30, 576p, 576i, 480p
+- Función de streaming en directo a Twitch, YouTube y más
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01DRWCOGA/?tag=tolees-21)
