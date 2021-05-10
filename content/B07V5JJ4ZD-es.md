@@ -28,13 +28,13 @@ Tienes [Nintendo Switch Lite - Consola Azul Turquesa](https://www.amazon.es/dp/B
 
 🔎:
 
-- En el caso de juegos que no sean compatibles con el modo portátil, los jugadores pueden conectar mandos Joy-Con (a la venta por separado) de manera inalámbrica a Nintendo Switch Lite. Los usuarios deberán tener un dispositivo para cargar los mandos Joy-Con, como, por ejemplo, el soporte de carga para mandos Joy-Con.
-- Se pueden conectar hasta ocho consolas Nintendo Switch o Nintendo Switch Lite para jugar a juegos competitivos o cooperativos, tanto en multijugador local como online.
-- Se lanzará en tres colores: amarillo, gris y turquesa.
-- Enfocada al juego portátil. La consola no puede conectarse al televisor ni es compatible con la base de Nintendo Switch.
-- Compacta y ligera para que sea fácil de transportar.
 - Permite jugar con todos los títulos de Nintendo Switch que sean compatibles con el modo portátil.
+- Compacta y ligera para que sea fácil de transportar.
 - Cómo comprobar si un programa es compatible con el modo portátil: En el caso de programas con tarjeta de juego, busca el símbolo del modo portátil en el reverso de la caja.
+- Se lanzará en tres colores: amarillo, gris y turquesa.
+- En el caso de juegos que no sean compatibles con el modo portátil, los jugadores pueden conectar mandos Joy-Con (a la venta por separado) de manera inalámbrica a Nintendo Switch Lite. Los usuarios deberán tener un dispositivo para cargar los mandos Joy-Con, como, por ejemplo, el soporte de carga para mandos Joy-Con.
 - Tiene los controles integrados, por lo que carece de vibración HD y de cámara infrarroja de movimiento.
+- Enfocada al juego portátil. La consola no puede conectarse al televisor ni es compatible con la base de Nintendo Switch.
+- Se pueden conectar hasta ocho consolas Nintendo Switch o Nintendo Switch Lite para jugar a juegos competitivos o cooperativos, tanto en multijugador local como online.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07V5JJ4ZD/?tag=tolees-21)
