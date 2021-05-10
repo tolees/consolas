@@ -28,10 +28,10 @@ Está [Thrustmaster T-LCM Pedals — Pedales profesionales magnéticos y con “
 
 ℹ️:
 
-- Tecnología de sensor magnético, sin contactos ni potenciómetros, para una duración ilimitada y una precisión óptima
-- Fuerza de frenado mecánico ajustable gracias al conjunto de 6 muelles incluidos con los pedales, para realizar múltiples ajustes rápidos
+- Tecnología de sensor de fuerza “Load Cell”: hasta 100 kg de presión, para ejercer la cantidad perfecta de potencía de frenado
 - El software de calibración permite el ajuste de la fuerza de frenado, más las zonas muertas de los 3 pedales
 - Pedales ajustables de manera independiente (altura, espaciado e inclinación) para optimizar la comodidad de juego según las preferencias del usuario
-- Tecnología de sensor de fuerza “Load Cell”: hasta 100 kg de presión, para ejercer la cantidad perfecta de potencía de frenado
+- Fuerza de frenado mecánico ajustable gracias al conjunto de 6 muelles incluidos con los pedales, para realizar múltiples ajustes rápidos
+- Tecnología de sensor magnético, sin contactos ni potenciómetros, para una duración ilimitada y una precisión óptima
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YFDL1JW/?tag=tolees-21)
