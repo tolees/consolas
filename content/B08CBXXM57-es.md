@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Take-Two 2K - NBA 2k21- Playstation 5  E al 45.97 % de descuento'
-date: 2021-05-08 14:31:57
+title: 'Take-Two 2K - NBA 2k21- Playstation 5  E al 39.74 % de descuento'
+date: 2021-05-10 07:02:10
 image: 'https://m.media-amazon.com/images/I/517SvAbMa1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Hardware y juegos para PlayStation 5','Juegos para PlayStation 5','Vide
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99
-comparePrice: 49.95 EUR
+comparePrice: 44.79 EUR
 prodname: 'Take-Two 2K - NBA 2k21- Playstation 5  Estándar Edition'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Take-Two 2K'
 buyurl: 'https://www.amazon.es/dp/B08CBXXM57/?tag=tolees-21'
-descuento: '45.97'
-average: '67.6234567901235'
+descuento: '39.74'
+average: '67.1279268292683'
 ---
 
-Ahora mismo tienes [Take-Two 2K - NBA 2k21- Playstation 5  Estándar Edition](https://www.amazon.es/dp/B08CBXXM57/?tag=tolees-21) a 26.99 EUR (original: 49.95 EUR) (45.97 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Take-Two 2K - NBA 2k21- Playstation 5  Estándar Edition](https://www.amazon.es/dp/B08CBXXM57/?tag=tolees-21) a 26.99 EUR (original: 44.79 EUR) (39.74 %  de descuento) en el siguiente enlace!
 
 [![Take-Two 2K - NBA 2k21- Playstation 5  E](https://m.media-amazon.com/images/I/517SvAbMa1L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08CBXXM57/?tag=tolees-21)
 
