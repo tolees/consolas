@@ -28,11 +28,11 @@ En este momento está [Elgato 4K60 S+  Tarjeta de captura  captura a 4K60 HDR10 
 
 🔎:
 
-- Disfruta del traspaso de señal sin retardo para jugar sin alteraciones
-- Aprovecha la codificación HEVC integrada, que minimiza el uso del procesador y el tamaño de archivo
-- Graba en una tarjeta SD sin ordenador
 - Windows 10 (64 bits, CPU Intel Core i5 de sexta generación (i5-6xxx) / AMD Ryzen 7 (o mejor), NVIDIA GeForce GTX 10xx (o mejor, 8 GB de RAM, puerto USB 3.0 integrado, conexión a Internet, salida
-- Captura partidas con una calidad espectacular a 4K60 HDR10
 - Graba todo el vídeo que quieras directamente en el disco duro de tu PC
+- Aprovecha la codificación HEVC integrada, que minimiza el uso del procesador y el tamaño de archivo
+- Disfruta del traspaso de señal sin retardo para jugar sin alteraciones
+- Captura partidas con una calidad espectacular a 4K60 HDR10
+- Graba en una tarjeta SD sin ordenador
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B082N68RNS/?tag=tolees-21)

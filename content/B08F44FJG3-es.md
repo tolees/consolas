@@ -28,10 +28,10 @@ En este momento está [Power A - Estuche Protector PowerA para Nintendo Switch o
 
 🔎:
 
-- Funda exterior sólida con asa de caucho y cremalleras dobles resistentes
+- Funda de juego con licencia oficial para Nintendo Switch y Nintendo Switch Lite
 - Funda de transporte de Nintendo Switch con ía limitada de 2.años: visita
 - la solapa protectora de pantalla acolchada integrada incluye almacenamiento de juegos para seis tarjetas de juego
-- Funda de juego con licencia oficial para Nintendo Switch y Nintendo Switch Lite
+- Funda exterior sólida con asa de caucho y cremalleras dobles resistentes
 - Moldeado interior con forro de felpa y rejilla de almacenamiento con cremallera Para ambos sistemas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08F44FJG3/?tag=tolees-21)
