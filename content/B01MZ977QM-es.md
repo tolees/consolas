@@ -28,10 +28,10 @@ Ahora mismo tienes [Nintendo - The Legend Of Zelda: Breath Of The Wild - Edició
 
 🔎:
 
-- Compatible con el amiibo Link Lobo, a la venta por separado
-- Juego de aventura y acción para Nintendo Switch
-- Explora el mundo abierto de Hyrule y descubre sus santuarios
-- Incluye el idioma español
 - Equipa a Link con la ropa y armas adecuadas a cada entorno y enemigo
+- Compatible con el amiibo Link Lobo, a la venta por separado
+- Incluye el idioma español
+- Explora el mundo abierto de Hyrule y descubre sus santuarios
+- Juego de aventura y acción para Nintendo Switch
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01MZ977QM/?tag=tolees-21)
