@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Nintendo - Super Mario 3D World + Bowser al 25.00 % de rebaja'
-date: 2021-04-29 09:02:03
+title: 'Nintendo - Super Mario 3D World + Bowser al 18.42 % de rebaja'
+date: 2021-05-11 06:15:24
 image: 'https://m.media-amazon.com/images/I/51o9sTaknRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08HK3STN4-es Nintendo - Super Mario 3D World + Bowser s Fury'
 sku: 'B08HK3STN4-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','nintendo', ]
-actualPrice: 44.99 EUR
+actualPrice: 48.94 EUR
 currency: EUR
-price: 44.99
+price: 48.94
 comparePrice: 59.99 EUR
 prodname: 'Nintendo - Super Mario 3D World + Bowser s Fury'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B08HK3STN4/?tag=tolees-21'
-descuento: '25.00'
-average: '51.0771731448764'
+descuento: '18.42'
+average: '51.069647887324'
 ---
 
-Tienes [Nintendo - Super Mario 3D World + Bowser s Fury](https://www.amazon.es/dp/B08HK3STN4/?tag=tolees-21) con precio final de  44.99 EUR (original: 59.99 EUR) (25.00 %  de rebaja) aqui!
+Tienes [Nintendo - Super Mario 3D World + Bowser s Fury](https://www.amazon.es/dp/B08HK3STN4/?tag=tolees-21) con precio final de  48.94 EUR (original: 59.99 EUR) (18.42 %  de rebaja) aqui!
 
 [![Nintendo - Super Mario 3D World + Bowser](https://m.media-amazon.com/images/I/51o9sTaknRL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08HK3STN4/?tag=tolees-21)
 
