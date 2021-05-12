@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Estación de recarga DualSense - PlayStat al 62.89 % de descuento'
-date: 2021-05-09 22:42:01
+title: 'Estación de recarga DualSense - PlayStat al 63.73 % de descuento'
+date: 2021-05-12 06:35:21
 image: 'https://m.media-amazon.com/images/I/31nKYamjvYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,23 +12,23 @@ tags: [ 'Accesorios para PlayStation 5','Auriculares para PlayStation 5','Cámar
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9
-comparePrice: 69.79 EUR
+comparePrice: 71.4 EUR
 prodname: 'Estación de recarga DualSense - PlayStation 5'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B08H97WTBL/?tag=tolees-21'
-descuento: '62.89'
-average: '61.7725233644863'
+descuento: '63.73'
+average: '61.4403703703707'
 ---
 
-Ahora mismo tienes [Estación de recarga DualSense - PlayStation 5](https://www.amazon.es/dp/B08H97WTBL/?tag=tolees-21) a 25.9 EUR (original: 69.79 EUR) (62.89 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Estación de recarga DualSense - PlayStation 5](https://www.amazon.es/dp/B08H97WTBL/?tag=tolees-21) a 25.9 EUR (original: 71.4 EUR) (63.73 %  de descuento) en el siguiente enlace!
 
 [![Estación de recarga DualSense - PlayStat](https://m.media-amazon.com/images/I/31nKYamjvYL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08H97WTBL/?tag=tolees-21)
 
 🔎:
 
-- Carga hasta dos mandos inalámbricos DualSense simultáneamente sin necesidad de conectarlos a tu consola PlayStation 5
 - Una inmersión que te dejará sin aliento
+- Carga hasta dos mandos inalámbricos DualSense simultáneamente sin necesidad de conectarlos a tu consola PlayStation 5
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08H97WTBL/?tag=tolees-21)
