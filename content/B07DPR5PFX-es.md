@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.00 % en Super Mario Party  Nintendo Switch '
-date: 2021-05-12 14:22:16
+date: 2021-05-13 20:19:12
 image: 'https://m.media-amazon.com/images/I/51MXaDyi2dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B07DPR5PFX/?tag=tolees-21'
 descuento: '25.00'
-average: '47.7691025641027'
+average: '47.7572765957448'
 ---
 
 Tienes [Super Mario Party  Nintendo Switch ](https://www.amazon.es/dp/B07DPR5PFX/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 44.99 EUR (original: 59.99 EUR) en el siguiente enlace!
@@ -30,8 +30,8 @@ Tienes [Super Mario Party  Nintendo Switch ](https://www.amazon.es/dp/B07DPR5PFX
 
 - El juego de mesa se mantiene fiel a la estructura de juego básica con cuatro jugadores que se mueven por turnos sobre el tablero en busca de estrellas
 - Compite en 80 nuevos minijuegos con muchas maneras diferentes de jugar que hacen uso de los mandos Joy-Con de muchas maneras diferentes
+- Nuevas formas de jugar: descubre la Sala de recreo de Toad, en la que dos consolas Nintendo Switch se conectan para jugar en modo sobre mesa
 - Prueba Mariotlón en línea, un minijuego online en el que podrás poner a prueba tus habilidades contra otros fans de Mario Party
 - Gran diversidad de modos de juego, incluidos Mario Party (la original sobre el tablero con nuevos tableros para explorar) y Mario Party a dobles (modo de combate cooperativo con movimiento libre por la cuadrícula) entre otros
-- Nuevas formas de jugar: descubre la Sala de recreo de Toad, en la que dos consolas Nintendo Switch se conectan para jugar en modo sobre mesa
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07DPR5PFX/?tag=tolees-21)
