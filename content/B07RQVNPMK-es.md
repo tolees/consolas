@@ -28,10 +28,10 @@ Ahora mismo tienes [PDP - Mando Pro Faceoff Deluxe + Audio Chat Camo Rojo  Ninte
 
 🔎:
 
-- Cambia entre diferentes carcasas de Faceoff gracias a su exclusivo diseño intercambiable.
-- Personaliza tu juego con los dobles botones largos programables de la parte posterior.
-- Incluye un cable USB fijo de 3 metros.
 - El conector de audio de 3,5 mm permite escuchar el sonido del juego y hablar por USB. Además, puedes ajustar el audio sobre la marcha con la cruceta del mando.
+- Cambia entre diferentes carcasas de Faceoff gracias a su exclusivo diseño intercambiable.
+- Incluye un cable USB fijo de 3 metros.
+- Personaliza tu juego con los dobles botones largos programables de la parte posterior.
 - Con licencia oficial de Nintendo.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RQVNPMK/?tag=tolees-21)
