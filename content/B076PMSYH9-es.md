@@ -28,9 +28,9 @@ Tienes [Thrustmaster T.FLIGHT HOTAS 4 - Joystick - PS4 y PC - Mando de potencia 
 
 🔎:
 
-- El joystick incorpora una función de timón, que en un avión corresponde a los pedales usados por el piloto para maniobrar, que permiten al avión pivotar alrededor de su eje vertical (haciendo que el avión gire hacia la izquierda o hacia la derecha)
 - El joystick incorpora un mando de potencia de tamaño real que se puede usar para controlar fácilmente la aceleración del avión
-- Joystick oficial para PS4 y compatible con PC
 - Joystick realista y ergonómico
+- El joystick incorpora una función de timón, que en un avión corresponde a los pedales usados por el piloto para maniobrar, que permiten al avión pivotar alrededor de su eje vertical (haciendo que el avión gire hacia la izquierda o hacia la derecha)
+- Joystick oficial para PS4 y compatible con PC
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B076PMSYH9/?tag=tolees-21)
