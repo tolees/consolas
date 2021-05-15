@@ -28,8 +28,8 @@ Ahora mismo tienes [Konami - eFootball PES 2020 - PlayStation 4 [Importación in
 
 🔎:
 
-- Or play through Master League using one of several legendary managers as your avatar, including Zico, Cruyff and Maradona
 - Create and customise sponsor logos that will be displayed on the media backdrop during interviews and on the Master League main menu screen
+- Or play through Master League using one of several legendary managers as your avatar, including Zico, Cruyff and Maradona
 - Customise manager models with a greater level of freedom thanks to high-performance 3D scanning technology to capture images of individuals of varying body shapes and sizes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07TY1GV7T/?tag=tolees-21)
