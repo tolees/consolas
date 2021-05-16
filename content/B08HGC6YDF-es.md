@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - amiibo Mario Felino y Peach F al 31.44 % de descuento'
-date: 2021-05-14 21:11:33
+date: 2021-05-16 18:37:53
 image: 'https://m.media-amazon.com/images/I/51uEH87kzbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B08HGC6YDF/?tag=tolees-21'
 descuento: '31.44'
-average: '28.6736000000001'
+average: '28.4934615384616'
 ---
 
 Está [Nintendo - amiibo Mario Felino y Peach Felina  pack 2 en 1 ](https://www.amazon.es/dp/B08HGC6YDF/?tag=tolees-21) con 31.44 de descuento por 23.99 EUR (original: 34.99 EUR) en el siguiente enlace!
