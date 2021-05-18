@@ -28,10 +28,10 @@ Ahora mismo tienes [Retro-Bit Official SEGA Mega Drive 8-button Arcade USB Pad B
 
 🔎:
 
-- Compatible with Sega Mega Drive Mini, Nintendo Switch, PC, Mac, Steam, RetroPie, Raspberry Pi For USB, swap between D-Input and X-Input by holding the START button for 5 seconds
-- For USB, swap between D-Input and X-Input by holding the START button for 5 seconds
 - New L/R Shoulder Buttons for Extra Configuration Options
 - 10ft/3m Cable Length. Classic 6-Button Layout with Re-positioned Mode Button
+- Compatible with Sega Mega Drive Mini, Nintendo Switch, PC, Mac, Steam, RetroPie, Raspberry Pi For USB, swap between D-Input and X-Input by holding the START button for 5 seconds
 - Official SEGA Licensed Controller (Original Grade Quality)
+- For USB, swap between D-Input and X-Input by holding the START button for 5 seconds
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07H3Q2CFS/?tag=tolees-21)
