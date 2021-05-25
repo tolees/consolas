@@ -28,9 +28,9 @@ Tienes [Amazon Basics - Volante para Nintendo Switch - Azul/Rojo  pack de 2 ](ht
 
 🔎:
 
-- 2 volantes (azul y rojo) para Nintendo Switch; cada uno lleva un mando Joy-Con (no incluidos).
 - Un volante para el mando izquierdo; y otro, para el derecho. Podrás así jugar con un amigo y son ideales para los juegos de carreras.
-- Fabricada con acolchado adicional para proteger los mandos Joy-Con mientras los usas. Los mandos Joy-Con y la consola Switch se venden por separado.
+- 2 volantes (azul y rojo) para Nintendo Switch; cada uno lleva un mando Joy-Con (no incluidos).
 - Empuñadura de doble inyección para un agarre cómodo, incluso durante largas sesiones de juego; grandes botones SR/SL laterales para un control absoluto.
+- Fabricada con acolchado adicional para proteger los mandos Joy-Con mientras los usas. Los mandos Joy-Con y la consola Switch se venden por separado.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B071J4RGZB/?tag=tolees-21)
