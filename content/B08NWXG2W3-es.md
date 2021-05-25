@@ -28,12 +28,12 @@ En este momento está [XIAOKOA Micrófono para PC USB  Micrófono Omnidirecciona
 
 🔎:
 
+- Diseño único --- Micrófono trípode único. Puede girar libremente. Tipo-c a cable de audio USB estándar.
+- Micrófono multiusos --- Micrófono USB para podcast / youtube / conferencias / juegos ps4 / grabación de video / juegos de pc / chat en vivo.
 - Micrófono omnidireccional y micrófono cardioide --- El micrófono tiene 2 modos de recepción de sonido, omnidireccional y unidireccional. Puede cambiar el modo de colección de sonido a su gusto.
+- Micrófono USB --- El micrófono utiliza un puerto USB. Compatible con computadora / Mac / PS4. Es compatible con una variedad de sistemas informáticos.
+- Conector para auriculares de 3,5 mm --- El micrófono tiene un conector para auriculares de 3,5 mm. Conecte los auriculares a esta interfaz, puede escuchar cualquier sonido en tiempo real.
 - Interruptor de silencio y volumen --- El micrófono tiene una función de silencio de un botón. El volumen se puede ajustar en tiempo real girando el interruptor de volumen.
 - Iluminación RGB --- Fantástica iluminación RGB. Respirar luz de color degradado puede crear una atmósfera de juego.
-- Conector para auriculares de 3,5 mm --- El micrófono tiene un conector para auriculares de 3,5 mm. Conecte los auriculares a esta interfaz, puede escuchar cualquier sonido en tiempo real.
-- Micrófono USB --- El micrófono utiliza un puerto USB. Compatible con computadora / Mac / PS4. Es compatible con una variedad de sistemas informáticos.
-- Micrófono multiusos --- Micrófono USB para podcast / youtube / conferencias / juegos ps4 / grabación de video / juegos de pc / chat en vivo.
-- Diseño único --- Micrófono trípode único. Puede girar libremente. Tipo-c a cable de audio USB estándar.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08NWXG2W3/?tag=tolees-21)
