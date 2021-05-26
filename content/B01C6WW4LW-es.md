@@ -28,10 +28,10 @@ Tienes [HORI - Horipad inalámbrico Zelda  Nintendo Switch ](https://www.amazon.
 
 🔎:
 
-- Licencia oficial de Nintendo
-- Acelerómetro y giroscopio
 - Conexión inalámbrica vía Bluetooth
-- Batería recargable
+- Acelerómetro y giroscopio
+- Licencia oficial de Nintendo
 - Autonomía: hasta 20 h
+- Batería recargable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01C6WW4LW/?tag=tolees-21)

@@ -28,9 +28,9 @@ Tienes [Ubisoft Spain - Far Cry 6 Limited Amazon PS5](https://www.amazon.es/dp/B
 
 🔎:
 
-- Far Cry 6 - Limited Edition incluye el juego completo y el contenido digital PACK EXPEDICIÓN EN LA JUNGLA. Adéntrate en la espesura de Yara con estilo gracias al pack Expedición en la jungla, que incluye el traje Expedición en la jungla, el arma SBS y el amuleto de arma Brújula.
-- UNA YARA DESGARRADA Lucha contra las tropas de Antón en el Far Cry más grande hasta la fecha a lo largo de junglas, playas y Esperanza, la capital de Yara.
-- POTENCIA DE FUEGO GUERRILLERA Sírvete de armas improvisadas, vehículos y amigos, los nuevos colmillos de alquiler, para reducir el tiránico régimen a cenizas.
 - LUCHA POR LA LIBERTAD Encarna a Dani Rojas, habitante de Yara que se convertirá en guerrillero para liberar su nación.
+- UNA YARA DESGARRADA Lucha contra las tropas de Antón en el Far Cry más grande hasta la fecha a lo largo de junglas, playas y Esperanza, la capital de Yara.
+- Far Cry 6 - Limited Edition incluye el juego completo y el contenido digital PACK EXPEDICIÓN EN LA JUNGLA. Adéntrate en la espesura de Yara con estilo gracias al pack Expedición en la jungla, que incluye el traje Expedición en la jungla, el arma SBS y el amuleto de arma Brújula.
+- POTENCIA DE FUEGO GUERRILLERA Sírvete de armas improvisadas, vehículos y amigos, los nuevos colmillos de alquiler, para reducir el tiránico régimen a cenizas.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08FC4PHL9/?tag=tolees-21)

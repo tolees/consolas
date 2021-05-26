@@ -29,7 +29,7 @@ Ahora mismo tienes [Koch Media - Chronos Before the Ashes - Xbox One](https://ww
 🔎:
 
 - Deep Combat A variety of weapons, abilities and powers are available to the player in the pursuit of their quest.
-- Unique Aging Mechanic Every time the player dies they age one year. Players must adapt to their advancing age as they progress their character; starting the game young, nimble and quick, and ending wise and more attuned to magic.
 - Adventure RPG - Refreshing combination of Adventure Game elements and RPG mechanics.
+- Unique Aging Mechanic Every time the player dies they age one year. Players must adapt to their advancing age as they progress their character; starting the game young, nimble and quick, and ending wise and more attuned to magic.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08HSHRF32/?tag=tolees-21)

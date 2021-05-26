@@ -29,8 +29,8 @@ Ahora mismo tienes [Focus Home Interactive - The Surge 2  Xbox One ](https://www
 🔎:
 
 - Enfréntate a rivales y jefes mortíferos
-- Cercena las partes del enemigo que quieras saquear
 - Excelente evolución y personalización del personaje
+- Cercena las partes del enemigo que quieras saquear
 - Brutales combates cuerpo a cuerpo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RWC1SD7/?tag=tolees-21)
