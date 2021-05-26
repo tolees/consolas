@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Railway Empire Complete Collection  PS4  al 21.28 % de descuento'
-date: 2020-09-01 22:00:40
-image: 'https://m.media-amazon.com/images/I/51My2WbEXKL._SL400_.jpg'
+title: 'Kalypso - Railway Empire Complete Collec al 25.13 % de descuento'
+date: 2021-05-26 06:53:12
+image: 'https://m.media-amazon.com/images/I/51My2WbEXKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B089ZC4FM6-es Railway Empire Complete Collection PS4'
+slug: 'B089ZC4FM6-es Kalypso - Railway Empire Complete Collection PS4'
 sku: 'B089ZC4FM6-es'
-tags: [ 'ps4', ]
-actualPrice: 31.48 EUR
+tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Videojuegos','kalypso','ps4', ]
+actualPrice: 14.9 EUR
 currency: EUR
-price: 31.48
-comparePrice: 39.99 EUR
-prodname: 'Railway Empire Complete Collection  PS4 '
+price: 14.9
+comparePrice: 19.9 EUR
+prodname: 'Kalypso - Railway Empire Complete Collection  PS4 '
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Kalypso'
 buyurl: 'https://www.amazon.es/dp/B089ZC4FM6/?tag=tolees-21'
-descuento: '21.28'
-average: '31.48'
+descuento: '25.13'
+average: '25.9533333333333'
 ---
 
-Está [Railway Empire Complete Collection  PS4 ](https://www.amazon.es/dp/B089ZC4FM6/?tag=tolees-21) con 21.28 de descuento por 31.48 EUR (original: 39.99 EUR) en el siguiente enlace!
+Está [Kalypso - Railway Empire Complete Collection  PS4 ](https://www.amazon.es/dp/B089ZC4FM6/?tag=tolees-21) con 25.13 de descuento por 14.9 EUR (original: 19.9 EUR) en el siguiente enlace!
 
-[![Railway Empire Complete Collection  PS4 ](https://m.media-amazon.com/images/I/51My2WbEXKL._SL400_.jpg)](https://www.amazon.es/dp/B089ZC4FM6/?tag=tolees-21)
+[![Kalypso - Railway Empire Complete Collec](https://m.media-amazon.com/images/I/51My2WbEXKL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B089ZC4FM6/?tag=tolees-21)
 
 ℹ️:
 
+- Aprovéchate de las ventajas y desventajas de más de 80 locomotoras históricamente fieles y asígnalas a diferentes rutas; compite con hasta tres compañías rivales y echa por tierra sus esfuerzos con bandidos y espías
+- Sistema meteorológico mejorado y modo nocturno; incluye las bandas sonoras regionales, edificios de ciudades y personajes únicos
+- Contiene todas las actualizaciones de contenido y contenidos descargables disponibles: Mexico, Great Lakes, Crossing the Andes, Great Britain & Ireland, France, Germany Northern Europe y Down Under
+- Pon a prueba tu habilidad en 15 escenarios singulares y 4 desafiantes mapas; disfruta también del espíritu pionero y las infinitas posibilidades del modo Libre y el modo Experimentar
+- Construye y expande la red ferroviaria para conectar estaciones y transformar lugares lejanos en metrópolis urbanas; conviértete en líder de una compañía ferroviaria y descubre más de 100 años de historia y diferentes países
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089ZC4FM6/?tag=tolees-21)
