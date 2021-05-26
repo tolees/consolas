@@ -28,9 +28,9 @@ Ahora mismo tienes [THQ NORDIC - Darksiders Genesis Collectors - Xbox One](https
 
 🔎:
 
-- Standard Edition Game
-- Libro de arte; banda sonora oficial
-- Caja Premium; figura de 23 cm
 - Steelbook de alta calidad; stickers
+- Libro de arte; banda sonora oficial
+- Standard Edition Game
+- Caja Premium; figura de 23 cm
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07VRWDCN7/?tag=tolees-21)
