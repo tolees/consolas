@@ -28,10 +28,10 @@ Tienes [Trust Gaming - Trust Cascos Gaming GXT 310C Radius Auriculares Gamer con
 
 🔎:
 
-- Cascos Gaming para PS4, PS5, PC, Nintendo Switch, Xbox Series X (S) & Xbox One (X)
 - Cable de 1 m para consolas
-- Cable alargador de 1 m para PC/ordenador portátil
 - Suaves y cómodas almohadillas para las orejas
 - Micrófono ajustable y banda para la cabeza
+- Cascos Gaming para PS4, PS5, PC, Nintendo Switch, Xbox Series X (S) & Xbox One (X)
+- Cable alargador de 1 m para PC/ordenador portátil
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B075DCP9JG/?tag=tolees-21)
