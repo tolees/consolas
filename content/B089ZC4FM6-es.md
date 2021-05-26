@@ -28,10 +28,10 @@ Está [Kalypso - Railway Empire Complete Collection  PS4 ](https://www.amazon.es
 
 ℹ️:
 
+- Sistema meteorológico mejorado y modo nocturno; incluye las bandas sonoras regionales, edificios de ciudades y personajes únicos
 - Contiene todas las actualizaciones de contenido y contenidos descargables disponibles: Mexico, Great Lakes, Crossing the Andes, Great Britain & Ireland, France, Germany Northern Europe y Down Under
+- Construye y expande la red ferroviaria para conectar estaciones y transformar lugares lejanos en metrópolis urbanas; conviértete en líder de una compañía ferroviaria y descubre más de 100 años de historia y diferentes países
 - Pon a prueba tu habilidad en 15 escenarios singulares y 4 desafiantes mapas; disfruta también del espíritu pionero y las infinitas posibilidades del modo Libre y el modo Experimentar
 - Aprovéchate de las ventajas y desventajas de más de 80 locomotoras históricamente fieles y asígnalas a diferentes rutas; compite con hasta tres compañías rivales y echa por tierra sus esfuerzos con bandidos y espías
-- Sistema meteorológico mejorado y modo nocturno; incluye las bandas sonoras regionales, edificios de ciudades y personajes únicos
-- Construye y expande la red ferroviaria para conectar estaciones y transformar lugares lejanos en metrópolis urbanas; conviértete en líder de una compañía ferroviaria y descubre más de 100 años de historia y diferentes países
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B089ZC4FM6/?tag=tolees-21)
