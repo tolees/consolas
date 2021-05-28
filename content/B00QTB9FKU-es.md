@@ -28,9 +28,9 @@ Tienes [Bigben Interactive - Auricular Plug&Play  PlayStation 4  - Compatible co
 
 🔎:
 
+- Compatible con PS5
 - Plug&Play
 - Compatible con mando DualShock 4
-- Compatible con PS5
 - Cable de 1.2 metros
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00QTB9FKU/?tag=tolees-21)
