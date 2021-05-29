@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - A Way Out Standard | X con un 80.03 % de descuento'
-date: 2021-05-28 09:37:27
+date: 2021-05-29 12:16:32
 image: 'https://m.media-amazon.com/images/I/51NzubJ5TOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
