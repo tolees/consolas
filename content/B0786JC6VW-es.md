@@ -28,10 +28,10 @@ Está [8Bitdo Wireless Bluetooth Adapter for Windows/Mac/Raspberry Pi - Nintendo
 
 ℹ️:
 
-- Wireless bluetooth, no lag.Its one controller per 8Bitdo USB adapter.
 - Simply bind the Adapter to your Wireless Controller to enable the same wireless experience you are used to on all the best platforms.
-- Play your 8Bitdo Controllers, wirelessly, on Windows PCs, Macs, Raspberry Pi, laptops, tablets and even NS Switch.
+- Wireless bluetooth, no lag.Its one controller per 8Bitdo USB adapter.
 - Support update Firmware in future.
+- Play your 8Bitdo Controllers, wirelessly, on Windows PCs, Macs, Raspberry Pi, laptops, tablets and even NS Switch.
 - For use with 8Bitdo Controllers, NS Switch Pro, NS Joy-cons, PS4, PS3, Wii Mote, Wii U Pro and more. Works with controller compatible games or software.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0786JC6VW/?tag=tolees-21)
