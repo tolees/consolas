@@ -28,8 +28,8 @@ Tienes [Sony  PlayStation Plus - Suscripción 12 Meses | PS5/PS4/PS3 | Código d
 
 🔎:
 
-- Después de completar la compra, recibirás un enlace en la página de confirmación del pedido con instrucciones detalladas para canjear tu código en la Playstation Store. Este enlace estará también disponible en tu Biblioteca de juegos.
 - El código de descarga PSN se enviará en unos minutos, en casos raros podría tardar hasta 4 horas
+- Después de completar la compra, recibirás un enlace en la página de confirmación del pedido con instrucciones detalladas para canjear tu código en la Playstation Store. Este enlace estará también disponible en tu Biblioteca de juegos.
 - La Subscripción de 12 meses a PlayStation Plus te permite obtener acceso a juego online y descargar 24 juegos seleccionados de PS4 al año sin coste adicional.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07JH6HRH9/?tag=tolees-21)
