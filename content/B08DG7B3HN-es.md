@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Konami - eFootball PES 2021 PS4 con un 17.37 % de descuento'
-date: 2021-05-30 17:34:42
+date: 2021-06-01 09:45:46
 image: 'https://m.media-amazon.com/images/I/51YiU9Ra25L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Konami'
 buyurl: 'https://www.amazon.es/dp/B08DG7B3HN/?tag=tolees-21'
 descuento: '17.37'
-average: '20.5552173913045'
+average: '20.3638297872342'
 ---
 
 En este momento está [Konami - eFootball PES 2021 PS4](https://www.amazon.es/dp/B08DG7B3HN/?tag=tolees-21) a 11.56 EUR (original: 13.99 EUR) (17.37 %  de descuento) en el siguiente enlace!
