@@ -28,10 +28,10 @@ Ahora mismo tienes [Soedesco - Truck Driver pour Xbox One [Importación francesa
 
 🔎:
 
-- Navigate through beautiful landscapes and fully explorable cities
-- Explore a vast open world and watch it progress with you
 - Enjoy a trucking experience focused in your career as a truck driver
+- Explore a vast open world and watch it progress with you
 - Build stronger relationships with the local community with each job
+- Navigate through beautiful landscapes and fully explorable cities
 - Customise your truck with tons of parts and tune it to your liking
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FDNSJGP/?tag=tolees-21)
