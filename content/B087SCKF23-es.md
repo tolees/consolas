@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Deadly Premonition 2: A Bless con un 31.96 % de descuento'
-date: 2021-05-31 17:12:46
+date: 2021-06-02 20:22:26
 image: 'https://m.media-amazon.com/images/I/51UH0ZlayyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B087SCKF23/?tag=tolees-21'
 descuento: '31.96'
-average: '40.4688888888889'
+average: '40.2927027027027'
 ---
 
 En este momento está [Nintendo - Deadly Premonition 2: A Blessing in Disguise](https://www.amazon.es/dp/B087SCKF23/?tag=tolees-21) a 33.95 EUR (original: 49.9 EUR) (31.96 %  de descuento) en el siguiente enlace!
@@ -28,12 +28,12 @@ En este momento está [Nintendo - Deadly Premonition 2: A Blessing in Disguise](
 
 🔎:
 
-- Explora y muévete en un mundo abierto con multitud de localizaciones para investigar y desarrollar el caso.
-- Adéntrate en una apasionante atmosfera cargada de referencias al cine, la cultura pop y con un característico toque de humor.
-- Viejos recuerdos, nuevas tramas. No es necesario haber jugado a la primera aventura de Deadly Premonition para disfrutar al máximo de Deadly Premonition 2: A Blessing in Disguise.
 - El aclamado título que enamoro por su carisma y estilo único a los fans ha vuelto con su segunda parte 10 años después y en exclusiva para Nintendo Switch.
-- Investiga a tu ritmo. Gracias al modo portátil de la familia de consolas Nintendo Switch, juega a tu ritmo, gana horas de juego y llévate esta misteriosa aventura a cualquier parte.
+- Adéntrate en una apasionante atmosfera cargada de referencias al cine, la cultura pop y con un característico toque de humor.
 - Prepárate para una trama digna de película con un cuidado guion y desarrollo de los acontecimientos que hará las delicias de los fans del misterio, el thriller y el género policiaco más oscuro.
+- Explora y muévete en un mundo abierto con multitud de localizaciones para investigar y desarrollar el caso.
+- Investiga a tu ritmo. Gracias al modo portátil de la familia de consolas Nintendo Switch, juega a tu ritmo, gana horas de juego y llévate esta misteriosa aventura a cualquier parte.
 - Una banda sonora de cine. El apartado musical esta al cargo del maestro japonés Satoshi Okubo, creador de bandas sonoras para títulos míticos de género como Hotel Dusk, Last Window o Another Code entre muchos otros.
+- Viejos recuerdos, nuevas tramas. No es necesario haber jugado a la primera aventura de Deadly Premonition para disfrutar al máximo de Deadly Premonition 2: A Blessing in Disguise.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B087SCKF23/?tag=tolees-21)
