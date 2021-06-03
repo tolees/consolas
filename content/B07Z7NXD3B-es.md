@@ -28,10 +28,10 @@ En este momento está [Mini proyector  ELEPHAS portatil Proyector 5500 Lúmenes 
 
 🔎:
 
-- PANTALLA GRANDE Y ALTAVOCES ESTÉREO El proyector admite hasta 200 pulgadas de proyección de pantalla y la distancia de proyección es de 0.8 a 4.5 metros. Además, también puede conectar altavoces a través de una salida de audio de 3.5 mm.
-- Entorno de uso El proyector se puede utilizar en interiores y exteriores. Para lograr un mejor efecto de visualización, se recomienda utilizarlo en un entorno con poca luz.
 - Mas consejos El proyector viene con un cable HDMI y un cable de audio. Cuando se conecta a un teléfono móvil, debe preparar usted mismo el cable correspondiente.
 - Casa Cine Soporta 1080P, Relación de contraste 2000:1, Puedes ver películas en casa en cualquier momento.
 - DISEÑO PORTÁTIL El mini proyector Elephas es pequeño en tamaño y conveniente para que usted lo lleve a cualquier lugar, está equipado con un sistema de enfriamiento que puede reducir el ruido de lventilador.
+- PANTALLA GRANDE Y ALTAVOCES ESTÉREO El proyector admite hasta 200 pulgadas de proyección de pantalla y la distancia de proyección es de 0.8 a 4.5 metros. Además, también puede conectar altavoces a través de una salida de audio de 3.5 mm.
+- Entorno de uso El proyector se puede utilizar en interiores y exteriores. Para lograr un mejor efecto de visualización, se recomienda utilizarlo en un entorno con poca luz.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07Z7NXD3B/?tag=tolees-21)
