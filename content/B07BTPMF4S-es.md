@@ -28,9 +28,9 @@ Tienes [SEGA - Sonic Mania Plus - Xbox One [Importación inglesa]](https://www.a
 
 🔎:
 
-- A true, classic Sonic experience: Gorgeous pixel graphics featuring a variety of new Zones with iconic favorites from Sonic 1, 2, 3, Sonic & Knuckles and Sonic The Hedgehog CD.
 - New and improved features including Competition mode.
-- New playable characters join the fun with Sonic: Seen in past Sonic titles, Mighty the Armadillo and Ray the Flying Squirrel join the Mania each with their own unique abilities!All-new Encore mode: A new mode that adds a fresh look to familiar locations while challenging new and veteran players alike.
 - Definitive version: Pixel-perfect HD visuals, 60 FPS gameplay and all new content in one package! Join Sonic and his friends as they face off against Dr Eggman and his new robo-henchmen the Hard Boiled Heavies!
+- A true, classic Sonic experience: Gorgeous pixel graphics featuring a variety of new Zones with iconic favorites from Sonic 1, 2, 3, Sonic & Knuckles and Sonic The Hedgehog CD.
+- New playable characters join the fun with Sonic: Seen in past Sonic titles, Mighty the Armadillo and Ray the Flying Squirrel join the Mania each with their own unique abilities!All-new Encore mode: A new mode that adds a fresh look to familiar locations while challenging new and veteran players alike.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07BTPMF4S/?tag=tolees-21)
