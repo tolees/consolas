@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair HS50 Pro Stereo Auriculares para al 36.54 % de rebaja'
-date: 2021-06-04 08:52:10
+date: 2021-06-05 12:34:11
 image: 'https://m.media-amazon.com/images/I/4194yMTm9UL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Corsair'
 buyurl: 'https://www.amazon.es/dp/B07Y2MBFX9/?tag=tolees-21'
 descuento: '36.54'
-average: '51.4226666666667'
+average: '50.78625'
 ---
 
 Tienes [Corsair HS50 Pro Stereo Auriculares para Juegos  Ajustables Espuma viscoelástica Almohadillas  Ancelación del Ruido extraíble micrófono  Compatible con PC  PS4  Xbox One  Switch y móviles   Azul](https://www.amazon.es/dp/B07Y2MBFX9/?tag=tolees-21) con precio final de  41.24 EUR (original: 64.99 EUR) (36.54 %  de rebaja) aqui!
@@ -28,12 +28,12 @@ Tienes [Corsair HS50 Pro Stereo Auriculares para Juegos  Ajustables Espuma visco
 
 🔎:
 
-- El micrófono unidireccional extraíble reduce el ruido ambiental para mejorar la calidad de la voz
-- Controles para volumen y silencio en auricular: controles para volumen y silencio en auricular que permiten realizar ajustes sobre la marcha sin distraerse del juego
-- Creados para ofrecer comodidad: las almohadillas ajustables de lujosa espuma viscoelástica proporcionan una comodidad óptima durante horas de juego
-- Para una comunicación nítida y un sonido óptimo
-- La construcción duradera y ligera de los HS50 PRO con diadema de aluminio consigue que resistan muchos años
 - Los transductores de neodimio de 50 mm ajustados a medida y de buen calidad ofrecen el alcance suficiente para oír todo lo necesario en el campo de batalla
+- Para una comunicación nítida y un sonido óptimo
+- Controles para volumen y silencio en auricular: controles para volumen y silencio en auricular que permiten realizar ajustes sobre la marcha sin distraerse del juego
+- La construcción duradera y ligera de los HS50 PRO con diadema de aluminio consigue que resistan muchos años
+- Creados para ofrecer comodidad: las almohadillas ajustables de lujosa espuma viscoelástica proporcionan una comodidad óptima durante horas de juego
 - Compatibles con varias plataformas: juegue en PC, PS4, Xbox One, Switch y móviles a través de un conector de 3,5 mm, puede ser necesario un adaptador de Microsoft que se vende por separado
+- El micrófono unidireccional extraíble reduce el ruido ambiental para mejorar la calidad de la voz
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Y2MBFX9/?tag=tolees-21)
