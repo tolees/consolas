@@ -30,8 +30,8 @@ Está [Microsoft - Xbox Elite Wireless Controller Series 2](https://www.amazon.e
 
 - Dispara más rápido con cerraduras de gatillo de pelo más corto
 - Mejore su puntería con nuevos thumbsticks de tensión ajustable
-- Guarde hasta 3 perfiles personalizados en el controlador y cambie entre ellos sobre la marcha
-- Adapte el controlador con nuevas formas intercambiables de palanca y joystick
 - Manténgase en el objetivo con agarre envolvente de goma
+- Adapte el controlador con nuevas formas intercambiables de palanca y joystick
+- Guarde hasta 3 perfiles personalizados en el controlador y cambie entre ellos sobre la marcha
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07SR4R8K1/?tag=tolees-21)
