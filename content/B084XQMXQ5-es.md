@@ -28,10 +28,10 @@ Tienes [Koch Media - Outriders Day One Edition PS4 ESP](https://www.amazon.es/dp
 
 ℹ️:
 
-- Cooperación dinámica para 1-3 jugadores: juega en solitario o acompañado de hasta dos amigos en un modo cooperativo drop-in drop-out para enfrentarte a los horrores de un planeta superevolucionado
-- Cuatro clases únicas: crea y personaliza tu propio Outrider y elige entre cuatro clases únicas, cada una con un árbol de habilidades propio para definir tu estilo de juego
-- La intensidad de un shooter y la complejidad de un RPG: los combates brutales y sangrientos de Outriders combinan tiroteos intensos, poderes violentos y mecánicas de rol complejas para dar lugar a un verdadero híbrido de géneros
-- Busca y adáptate: personaliza y mejora tu Outrider con infinidad de objetos, armas y equipo modificables mientras dejas atrás a la humanidad
 - Una aventura oscura y salvaje: descubre el hostil planeta de Enoch y embárcate en una aventura en busca de la fuente de una misteriosa señal
+- Cuatro clases únicas: crea y personaliza tu propio Outrider y elige entre cuatro clases únicas, cada una con un árbol de habilidades propio para definir tu estilo de juego
+- Busca y adáptate: personaliza y mejora tu Outrider con infinidad de objetos, armas y equipo modificables mientras dejas atrás a la humanidad
+- La intensidad de un shooter y la complejidad de un RPG: los combates brutales y sangrientos de Outriders combinan tiroteos intensos, poderes violentos y mecánicas de rol complejas para dar lugar a un verdadero híbrido de géneros
+- Cooperación dinámica para 1-3 jugadores: juega en solitario o acompañado de hasta dos amigos en un modo cooperativo drop-in drop-out para enfrentarte a los horrores de un planeta superevolucionado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B084XQMXQ5/?tag=tolees-21)
