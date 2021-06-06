@@ -29,9 +29,9 @@ Está [KONKY PS4 Cargador  Cargador Mandos PS4 Dualshock PS4 Estación de carga 
 ℹ️:
 
 - 【Garantía despreocupada】Un buen accesorio para todos los amantes de los juegos de PS4. Y prometemos un reemplazo gratuito para cada cliente si hay un problema con el producto.
-- 【Seguro y ahorro de espacio】Es un soporte para mantener sus controladores bien organizados, en lugar de dejarlos en todas partes. Se proporciona protección contra sobrecarga, sobrecalentamiento, sobrecorriente, sobretensión, cortocircuito.
 - 【LED indicator】La luz parpadea durante la carga. Una vez que deja de parpadear, la carga está completa. La luz es suave y no molesta por la noche.
-- 【Soporte de carga DualShock】Permite el almacenamiento seguro y la recarga de dos controladores PS4 simultáneamente en 2,5 a 4 horas. El soporte tiene 2 ranuras micro USB. Simplemente conecte sus controladores a los enchufes apropiados y la carga puede comenzar.
 - 【Práctico y portátil】Alimentado por el puerto USB de la consola PS4, una PC o una toma de corriente. No solo se limita al sistema PS4, para que puedas cargarlo en cualquier momento y en cualquier lugar.
+- 【Seguro y ahorro de espacio】Es un soporte para mantener sus controladores bien organizados, en lugar de dejarlos en todas partes. Se proporciona protección contra sobrecarga, sobrecalentamiento, sobrecorriente, sobretensión, cortocircuito.
+- 【Soporte de carga DualShock】Permite el almacenamiento seguro y la recarga de dos controladores PS4 simultáneamente en 2,5 a 4 horas. El soporte tiene 2 ranuras micro USB. Simplemente conecte sus controladores a los enchufes apropiados y la carga puede comenzar.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07NW5GXK1/?tag=tolees-21)
