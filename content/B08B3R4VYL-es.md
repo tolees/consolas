@@ -28,9 +28,9 @@ Tienes [SEGA - 13 Sentinels: Aegis Rim  PS4  - PlayStation 4 [Importación franc
 
 🔎:
 
-- Découvrez un style graphique unique caractéristique du studio vanillaware avec des décors détaillées sublimes dessinés à la main.
-- La fin du monde est proche ! devenez un pilote de sentinelle, personnalisez votre mecha et affrontez de nombreuses vagues ennemies dans des combats stratégiques dynamiques de haute volée !
 - Plongez dans une histoire entraînante et interactive sous 13 perspectives différentes pouvant être à la fois passée ou future.
+- La fin du monde est proche ! devenez un pilote de sentinelle, personnalisez votre mecha et affrontez de nombreuses vagues ennemies dans des combats stratégiques dynamiques de haute volée !
+- Découvrez un style graphique unique caractéristique du studio vanillaware avec des décors détaillées sublimes dessinés à la main.
 - Genre : adventure / strategie
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08B3R4VYL/?tag=tolees-21)
