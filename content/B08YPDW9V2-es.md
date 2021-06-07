@@ -30,8 +30,8 @@ Ahora mismo tienes [CI Games - Sniper Ghost Warrior Contracts 2 PS5 ESP](https:/
 
 - Explora 5 mapas extensos ambientados en la zona más conflictiva de Oriente Medio; completa 20 contratos y diversas operaciones secundarias
 - Experimente un nuevo nivel de fidelidad con óptimas gráficos y motor de juego
-- Toma decisiones tácticas y usa el sigilo para superar los desafíos de la campaña de un jugador
 - Domina una experiencia de francotirador para expertos con un arsenal de armas y equipo moderno; vuelve a cada contrato con enfoques diferentes para completar todos los objetivos y obtener las máximas recompensas
 - Elimina a diversos objetivos combinando combate en distancias cortas y disparos de francotirador a distancias extremas como asesino a sueldo
+- Toma decisiones tácticas y usa el sigilo para superar los desafíos de la campaña de un jugador
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08YPDW9V2/?tag=tolees-21)
