@@ -22,7 +22,7 @@
 {{ end }}
 {{ if not .Params.prodname  }}
     {{ $tags := $.Site.Taxonomies.tags.ByCount }}
-    {{ $v1 := where $tags "Count" ">=" 1 }}
+    {{ $v1 := where $tags "Count" ">" 1 }}
 	<a href="/tags/" title="{{ $.Scratch.Get "index" }}"><i class="fas fa-tags"></i></a>
     {{ range $v1 }}
     {{ if .Term }}
