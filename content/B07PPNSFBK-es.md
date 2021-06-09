@@ -28,10 +28,10 @@ Ahora mismo tienes [Seagate Technology - Seagate Game Drive for PS4  2 TB  Unida
 
 🔎:
 
-- Esta unidad para juegos, con el clásico diseño en blanco y negro de la PS4, es el accesorio óptimo para cualquier configuración de juegos y su diseño compacto y portátil le permitirá disfrutar de la aventura allá donde vaya
-- No elimine juegos de la consola PS4 solo para dejar sitio a los nuevos: almacene más de 50 juegos gracias a los 2 TB de almacenamiento de la unidad de disco duro portátil
 - Pase a la acción con una configuración rápida paso a paso y la conectividad USB 3.0 plug-and-play; no se necesita cable de alimentación
-- Compatible con consolas PS4 de cualquier generación (software del sistema versión 4.50 o posterior)
+- Esta unidad para juegos, con el clásico diseño en blanco y negro de la PS4, es el accesorio óptimo para cualquier configuración de juegos y su diseño compacto y portátil le permitirá disfrutar de la aventura allá donde vaya
 - Juegue sin interrupciones y experimente un rendimiento óptimo con una unidad de disco duro externa
+- Compatible con consolas PS4 de cualquier generación (software del sistema versión 4.50 o posterior)
+- No elimine juegos de la consola PS4 solo para dejar sitio a los nuevos: almacene más de 50 juegos gracias a los 2 TB de almacenamiento de la unidad de disco duro portátil
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PPNSFBK/?tag=tolees-21)

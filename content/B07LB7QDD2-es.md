@@ -28,9 +28,9 @@ Ahora mismo tienes [Square Enix - NieR: Automata Game of the YoRHa Edition - Pla
 
 🔎:
 
+- Retro Grey Pod Skin
 - Play System Pod Skin
 - Cardboard Pod Skin
-- Retro Grey Pod Skin
 - Retro Red Pod Skin
 - 3C3C1D119440927 DLC*
 
