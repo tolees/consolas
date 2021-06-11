@@ -28,8 +28,8 @@ Tienes [Nintendo - El Misterioso Viaje de Layton](https://www.amazon.es/dp/B07TS
 
 🔎:
 
-- Katrielle y la conspiración de los millonarios - Edición Deluxe incluirá más de 40 nuevos puzles, además de nuevos contenidos y mejoras
 - En su aventura, contará con la ayuda de un colorido reparto de personajes nuevos en la serie
 - En esta entrega de la serie de misterios y puzles, el famoso Profesor Hershel Layton ha desaparecido y su hija Katrielle pasa a ocupar el papel protagonista
+- Katrielle y la conspiración de los millonarios - Edición Deluxe incluirá más de 40 nuevos puzles, además de nuevos contenidos y mejoras
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07TSCGD9W/?tag=tolees-21)
