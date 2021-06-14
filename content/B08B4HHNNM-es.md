@@ -1,30 +1,30 @@
 ---
 layout: post
-title: 'Sony - Sackboy: Una Aventura a lo Grande al 28.58 % de rebaja'
-date: 2021-06-07 07:11:10
+title: 'Sackboy: Una Aventura a lo Grande - Play al 35.01 % de rebaja'
+date: 2021-06-14 07:37:18
 image: 'https://m.media-amazon.com/images/I/51nUZl8UlKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08B4HHNNM-es Sony - Sackboy: Una Aventura a lo Grande - PlayStation 5'
+slug: 'B08B4HHNNM-es Sackboy: Una Aventura a lo Grande - PlayStation 5'
 sku: 'B08B4HHNNM-es'
-tags: [ 'Hardware y juegos para PlayStation 5','Juegos para PlayStation 5','Videojuegos','playstation','sony', ]
-actualPrice: 49.99 EUR
+tags: [ 'Hardware y juegos para PlayStation 5','Juegos para PlayStation 5','Videojuegos','playstation', ]
+actualPrice: 45.49 EUR
 currency: EUR
-price: 49.99
+price: 45.49
 comparePrice: 69.99 EUR
-prodname: 'Sony - Sackboy: Una Aventura a lo Grande - PlayStation 5'
+prodname: 'Sackboy: Una Aventura a lo Grande - PlayStation 5'
 country: 'es'
 flag: '🇪🇸'
-brand: 'Sony'
+brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B08B4HHNNM/?tag=tolees-21'
-descuento: '28.58'
-average: '57.0621052631579'
+descuento: '35.01'
+average: '56.596'
 ---
 
-Tienes [Sony - Sackboy: Una Aventura a lo Grande - PlayStation 5](https://www.amazon.es/dp/B08B4HHNNM/?tag=tolees-21) con precio final de  49.99 EUR (original: 69.99 EUR) (28.58 %  de rebaja) aqui!
+Tienes [Sackboy: Una Aventura a lo Grande - PlayStation 5](https://www.amazon.es/dp/B08B4HHNNM/?tag=tolees-21) con precio final de  45.49 EUR (original: 69.99 EUR) (35.01 %  de rebaja) aqui!
 
-[![Sony - Sackboy: Una Aventura a lo Grande](https://m.media-amazon.com/images/I/51nUZl8UlKL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08B4HHNNM/?tag=tolees-21)
+[![Sackboy: Una Aventura a lo Grande - Play](https://m.media-amazon.com/images/I/51nUZl8UlKL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08B4HHNNM/?tag=tolees-21)
 
 🔎:
 
