@@ -29,9 +29,9 @@ Tienes [UGREEN Hub USB 3.0  Ladrón USB 3.0 4 Puertos SuperSpeed 5Gbps para PC  
 ℹ️:
 
 - FÁCIL DE LLEVAR: gracias al tamaño reducido, puede llevar fácilmente este concentrador usb estrecho a cualquier lugar. Al conectarse a los dispositivos que requieren mucha energía, tal como discos duros externos, se recomienda conectar una fuente de alimentación a través del puerto micro USB de este HUB para garantizar para el funcionamiento estable. (Adaptador de corriente no incluido)
-- SÚPER VELOCIDAD 5 Gbps: Con velocidades de transferencia de datos de hasta 5 Gbps, este ladrón USB 3.0 transmite sus datos 10 veces más rápido que un USB 2.0. Le permite transferir una película HD en segundos. Además, es retrocompatible con dispositivos USB 2.0 y 1.x.
-- MÁS ESTABLE Y SEGURO: este multiplicador usb 3.0 cuenta con protección contra sobrecorriente, sobretensión y cortocircuitos, puede mantener sus dispositivos digitales y datos seguros. El indicador LED le muestra el estado de la conexión.
-- PLUG AND PLAY: compatble con Windows 10 / 8 / 8.1 / 7 / XP / Vista, Mac OS X y Linux, no hace falta instalar el driver.
 - 4 PUERTOS USB 3.0: el Hub USB 3.0 agrega 4 puertos USB adicionales a su dispositivo, como portátil, ordenador, PS5, PS4, Xbox Series X / S, Xbox One, Xbox One S, Xbox 360, soporta todos los dispositivos USB, tales como pendrive USB, impresora, lector de tarjetas, ratón, teclado y disco duro.
+- PLUG AND PLAY: compatble con Windows 10 / 8 / 8.1 / 7 / XP / Vista, Mac OS X y Linux, no hace falta instalar el driver.
+- MÁS ESTABLE Y SEGURO: este multiplicador usb 3.0 cuenta con protección contra sobrecorriente, sobretensión y cortocircuitos, puede mantener sus dispositivos digitales y datos seguros. El indicador LED le muestra el estado de la conexión.
+- SÚPER VELOCIDAD 5 Gbps: Con velocidades de transferencia de datos de hasta 5 Gbps, este ladrón USB 3.0 transmite sus datos 10 veces más rápido que un USB 2.0. Le permite transferir una película HD en segundos. Además, es retrocompatible con dispositivos USB 2.0 y 1.x.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07M5LMGXZ/?tag=tolees-21)
