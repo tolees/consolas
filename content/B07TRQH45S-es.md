@@ -30,8 +30,8 @@ Tienes [Diswoe Mando Compatible para Nintendo Switch  Wireless Bluetooth Pro Con
 
 - 🎮【Lo que obtienes】: Mando pro switch está diseñado para hacer que cada sesión de juego sea agradable. Switch Controller Pro, Manual, cable USB. Ofrecemos una garantía limitada de un año sin preocupaciones y un servicio al cliente amigable. ¡REEMBOLSO COMPLETO si no está 100% satisfecho con su compra! Primera conexión: 1, enciende la switch y ingresa a la interfaz"Controles"-"Cambiar modo de sujeción u orden". 2, presione el botón "Y"+"Home" más de 2 segundos.
 - 🎮【Funciones de Turbo y Vibración】: Es compatible con la función turbo (la antigua no tiene función), la función de giroscopio y la función de motor dual. Con esta función puedes jugar a todos los juegos de detección de movimiento de Nintendo, Zelda Splatoon 2 Mario Kart 8 Deluxe Super Mario Odyssey, etc. NOTA: Sin NFC y FUNCIÓN DE DESPERTAR.
-- 🎮【Conexión inalámbrica Bluetooth】: Conexión Bluetooth estable con la consola, hasta 8 metros. Juega en cualquier momento y en cualquier lugar con el Nintendo Switch Pro Controller.
 - 🎮【Controlador recargable】: Batería Batería de litio incorporada de 600 mAh, el tiempo de reproducción puede durar hasta 6-8 horas, el tiempo total de carga es de 2-3 horas.
 - 🎮【COMPATIBILIDAD PERFECTA】: Compatible con los sistemas más nuevos de Nintendo Switch y PC (reconoce como mando XBOX). NOTA: SOLO APOYE LA CONEXIÓN DE CABLE USB CON PC.
+- 🎮【Conexión inalámbrica Bluetooth】: Conexión Bluetooth estable con la consola, hasta 8 metros. Juega en cualquier momento y en cualquier lugar con el Nintendo Switch Pro Controller.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07TRQH45S/?tag=tolees-21)
