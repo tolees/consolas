@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - El Misterioso Viaje de Layton al 20.18 % de rebaja'
-date: 2021-06-11 08:20:29
+date: 2021-06-15 19:22:21
 image: 'https://m.media-amazon.com/images/I/51TI0-NBdNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B07TSCGD9W/?tag=tolees-21'
 descuento: '20.18'
-average: '32.1264705882353'
+average: '32.115'
 ---
 
 Tienes [Nintendo - El Misterioso Viaje de Layton](https://www.amazon.es/dp/B07TSCGD9W/?tag=tolees-21) con precio final de  31.92 EUR (original: 39.99 EUR) (20.18 %  de rebaja) aqui!
