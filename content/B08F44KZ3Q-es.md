@@ -28,8 +28,8 @@ En este momento está [Power A - Mando con Cable Mejorado Powera Para Nintendo S
 
 🔎:
 
-- El mando incluye toma de audio de 3,5 mm y botones de juego avanzado asignables
 - No necesita pilas
+- El mando incluye toma de audio de 3,5 mm y botones de juego avanzado asignables
 - Con licencia oficial de Nintendo y garantía limitada de dos años: visita PowerA.com/Support
 - Cable USB extraíble de 3 metros
 
