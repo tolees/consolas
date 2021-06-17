@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Koch Media - Spacebase Startopia - PS5 con un 21.24 % de descuento'
-date: 2021-05-26 06:54:56
+title: 'Koch Media - Spacebase Startopia - PS5 con un 57.87 % de descuento'
+date: 2021-06-17 20:30:53
 image: 'https://m.media-amazon.com/images/I/51J3X1OkS2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Hardware y juegos para PlayStation 5','Juegos para PlayStation 5','Vide
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99
-comparePrice: 34.27 EUR
+comparePrice: 64.06 EUR
 prodname: 'Koch Media - Spacebase Startopia - PS5'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Koch Media'
 buyurl: 'https://www.amazon.es/dp/B08VPNXXYK/?tag=tolees-21'
-descuento: '21.24'
-average: '40.52625'
+descuento: '57.87'
+average: '39.0222222222222'
 ---
 
-En este momento está [Koch Media - Spacebase Startopia - PS5](https://www.amazon.es/dp/B08VPNXXYK/?tag=tolees-21) a 26.99 EUR (original: 34.27 EUR) (21.24 %  de descuento) en el siguiente enlace!
+En este momento está [Koch Media - Spacebase Startopia - PS5](https://www.amazon.es/dp/B08VPNXXYK/?tag=tolees-21) a 26.99 EUR (original: 64.06 EUR) (57.87 %  de descuento) en el siguiente enlace!
 
 [![Koch Media - Spacebase Startopia - PS5](https://m.media-amazon.com/images/I/51J3X1OkS2L._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08VPNXXYK/?tag=tolees-21)
 
