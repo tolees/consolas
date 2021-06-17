@@ -28,7 +28,7 @@ Tienes [Nintendo - LEGO: Batman 3. Más Allá De Gotham](https://www.amazon.es/d
 
 ℹ️:
 
-- Plataforma: Nintendo 3DS, New Nintendo 3DS
 - PEGI 7
+- Plataforma: Nintendo 3DS, New Nintendo 3DS
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00NUYXCAS/?tag=tolees-21)
