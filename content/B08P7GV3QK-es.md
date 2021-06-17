@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mini Proyector  HOMPOW Proyector de Vide con un 20.00 % de descuento'
-date: 2021-06-03 02:45:32
+date: 2021-06-17 10:50:07
 image: 'https://m.media-amazon.com/images/I/51dxQq012+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HOMPOW'
 buyurl: 'https://www.amazon.es/dp/B08P7GV3QK/?tag=tolees-21'
 descuento: '20.00'
-average: '93.3233333333333'
+average: '89.99'
 ---
 
 En este momento está [Mini Proyector  HOMPOW Proyector de Video Portátil con 6000 Lúmenes  Compatible con Full HD 1080P  Altavoces Duales Incorporados  Compatible con TV Stick/ HDMI/ VGA/ USB/ TV Box/ Laptop/ DVD/ PS4](https://www.amazon.es/dp/B08P7GV3QK/?tag=tolees-21) a 79.99 EUR (original: 99.99 EUR) (20.00 %  de descuento) en el siguiente enlace!
