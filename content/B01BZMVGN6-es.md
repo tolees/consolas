@@ -28,10 +28,10 @@ Está [HORI - Horipad inalámbrico azul  Nintendo Switch ](https://www.amazon.es
 
 ℹ️:
 
-- Conector USB tipo C
-- Conexión inalámbrica vía Bluetooth
 - Licencia oficial de Nintendo
-- Batería recargable
 - Acelerómetro y giroscopio
+- Batería recargable
+- Conexión inalámbrica vía Bluetooth
+- Conector USB tipo C
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01BZMVGN6/?tag=tolees-21)
