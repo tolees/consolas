@@ -28,10 +28,10 @@ Tienes [HORI - Mando inalámbrico HORIPAD Pikachu  Nintendo Switch ](https://www
 
 ℹ️:
 
-- Batería recargable
-- Licencias oficiales de Nintendo y Pokémon
 - Autonomía: hasta 20 h
+- Batería recargable
 - Conexión inalámbrica vía Bluetooth
+- Licencias oficiales de Nintendo y Pokémon
 - Acelerómetro y giroscopio
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08KT6SLN5/?tag=tolees-21)
