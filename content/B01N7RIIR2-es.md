@@ -28,8 +28,8 @@ Ahora mismo tienes [Nintendo - Switch Joy-Con Wheel  Volante ](https://www.amazo
 
 🔎:
 
+- Aporta más emoción a tus carreras de Mario Kart 8 Deluxe para Nintendo Switch introduciendo tu Joy-con en el volante
 - Controles Joy-Con no incluidos
 - El pack incluye 2 volantes
-- Aporta más emoción a tus carreras de Mario Kart 8 Deluxe para Nintendo Switch introduciendo tu Joy-con en el volante
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01N7RIIR2/?tag=tolees-21)
