@@ -28,15 +28,15 @@ Tienes [Nintendo - Brain Training del Dr. Kawashima](https://www.amazon.es/dp/B0
 
 🔎:
 
-- ¿Cuántos años tiene tu cerebro? Calcula tu edad cerebral realizando una serie de ejercicios seguidos que ponen a prueba la velocidad de procesamiento de información, la memoria a corto plazo y la capacidad de autocontrol.
-- ¡Presume de puntuación y compite en línea! Si te conectas a internet y tienes una suscripción a Nintendo Switch Online, ¡podrás compartir tus resultados en las clasificaciones del juego y competir con amigos! También tenemos previsto celebrar campeonatos mundiales de Brain Training regularmente.
 - Un gran abanico de desafíos: Mide tus habilidades con una gran variedad de ejercicios, desde problemas matemáticos, de rapidez mental, combinar letras, hacer uso de la memoria…
+- Ejercicios nuevos y clásicos: Los juegos clásicos que hicieron furor hace tres lustros y nuevas propuestas para desafiar a tu cerebro.
 - Hasta cuatro perfiles en cada juego. El software permite que hasta cuatro personas sigan un régimen de entrenamiento con el juego.
 - Pruebas en distintos estilos de juego: En algunos sostendrás la consola Nintendo Switch en vertical y usarás el lápiz táctil o el dedo; en otros, utilizarás la cámara infrarroja de movimiento del mando Joy-Con derecho, que detecta las formas que creas con los dedos.
-- Nintendo Switch te ayuda con la rutina: Para recordar hacer ejercicios a diario, puedes activar una alarma para que la consola Nintendo Switch te avise, ¡incluso aunque esté en modo de espera!
 - Pon a prueba tus habilidades con una gran variedad de ejercicios y pruebas con distintas formas de jugar, como sujetar la consola Nintendo Switch en vertical y utilizar un lápiz táctil o el dedo, o utilizar el sensor de movimiento del Joy-Con derecho, que detecta las formas que hace el jugador con los dedos
-- Ejercicios nuevos y clásicos: Los juegos clásicos que hicieron furor hace tres lustros y nuevas propuestas para desafiar a tu cerebro.
 - Prepárate para retar a tu cerebro de mil maneras con Brain Training del Dr. Kawashima para Nintendo Switch
+- ¡Presume de puntuación y compite en línea! Si te conectas a internet y tienes una suscripción a Nintendo Switch Online, ¡podrás compartir tus resultados en las clasificaciones del juego y competir con amigos! También tenemos previsto celebrar campeonatos mundiales de Brain Training regularmente.
 - Haz ejercicios en compañía: Pásale un mando Joy-Con a un familiar o a un amigo, y disfrutad juntos de distintos ejercicios, como contar pájaros más rápido que el rival o recordar el número de cajas que se muestran en pantalla. También puedes compartir los resultados con tu familia todos los días con Correo Brain Training para mantenerles informados de tu progreso.
+- Nintendo Switch te ayuda con la rutina: Para recordar hacer ejercicios a diario, puedes activar una alarma para que la consola Nintendo Switch te avise, ¡incluso aunque esté en modo de espera!
+- ¿Cuántos años tiene tu cerebro? Calcula tu edad cerebral realizando una serie de ejercicios seguidos que ponen a prueba la velocidad de procesamiento de información, la memoria a corto plazo y la capacidad de autocontrol.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Z49YKGD/?tag=tolees-21)

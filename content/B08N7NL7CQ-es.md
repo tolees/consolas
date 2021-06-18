@@ -28,9 +28,9 @@ Ahora mismo tienes [Kalypso Leisure Suit Larry - Wet Dreams Dry Twice - PS4](htt
 
 🔎:
 
-- Con el apoyo de Europa Creativa - Programa MEDIA de la Unión Europea
 - Explora el archipiélago de Kalau’a y todas sus misteriosas y sas islas, con más de 50 localizaciones dibujadas a mano
 - Ayuda a Larry a resolver misteriosos y apasionantes misterios (puede que con un toque erótico) y completar misiones para que consiga un final feliz de los buenos
 - Disfruta de la compañía de 40 nuevos y viejos amigos en Wet Dreams Don’t Dry, y charla con tus nuevas amigas féminas
+- Con el apoyo de Europa Creativa - Programa MEDIA de la Unión Europea
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08N7NL7CQ/?tag=tolees-21)

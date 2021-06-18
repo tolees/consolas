@@ -28,10 +28,10 @@ Está [HORI - Horipad inalámbrico Mario  Nintendo Switch ](https://www.amazon.e
 
 ℹ️:
 
-- Acelerómetro y giroscopio
-- Conexión inalámbrica vía Bluetooth
 - Licencia oficial de Nintendo
-- Autonomía: hasta 20 h
+- Acelerómetro y giroscopio
 - Batería recargable
+- Conexión inalámbrica vía Bluetooth
+- Autonomía: hasta 20 h
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01C6WWUMA/?tag=tolees-21)
