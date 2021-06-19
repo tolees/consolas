@@ -28,10 +28,10 @@ Está [HORI - PlayStand Pikachu  Nintendo Switch/Switch Lite ](https://www.amazo
 
 ℹ️:
 
-- Carga sin dejar de jugar: el puerto USB-C queda completamente accesible
 - 3 ángulos distintos para ajustarse a cada situación de juego
+- Carga sin dejar de jugar: el puerto USB-C queda completamente accesible
+- Se pliega al completo para una portabilidad total
 - Base y respaldo con botones de goma antideslizantes para una experiencia de juego sin sobresaltos
 - Licencias oficiales de Nintendo y Pokémon
-- Se pliega al completo para una portabilidad total
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08KT6ZPVF/?tag=tolees-21)
