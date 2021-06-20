@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch Media - Judgment PS5 IT/ESP al 22.08 % de rebaja'
-date: 2021-06-18 06:17:38
+date: 2021-06-20 10:34:59
 image: 'https://m.media-amazon.com/images/I/518OLQig89L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Koch Media'
 buyurl: 'https://www.amazon.es/dp/B08VTB19FC/?tag=tolees-21'
 descuento: '22.08'
-average: '36.4142857142857'
+average: '35.66125'
 ---
 
 Tienes [Koch Media - Judgment PS5 IT/ESP](https://www.amazon.es/dp/B08VTB19FC/?tag=tolees-21) con precio final de  30.39 EUR (original: 39.0 EUR) (22.08 %  de rebaja) aqui!
