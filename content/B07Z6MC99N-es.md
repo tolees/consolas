@@ -28,8 +28,8 @@ Tienes [Electronic Arts - STAR WARS Jedi Fallen Order| Xbox One - Código de des
 
 🔎:
 
-- Comienza una nueva historia Jedi: como padawan que huye del Imperio, deberás completar tu entrenamiento antes de que los inquisidores imperiales descubran tu plan para resucitar la Orden Jedi
 - La galaxia te espera: bosques ancestrales, ventosos desfiladeros y junglas encantadas son algunos de los biomas que explorarás en Jedi: Fallen Order
+- Comienza una nueva historia Jedi: como padawan que huye del Imperio, deberás completar tu entrenamiento antes de que los inquisidores imperiales descubran tu plan para resucitar la Orden Jedi
 - En Jedi: Fallen Order te convertirás en un auténtico Jedi gracias a su sistema de combate con espadas láser: ataca, bloquea y esquiva
 - Una aventura de dimensiones galácticas te espera en STAR WARS Jedi: Fallen Order
 
