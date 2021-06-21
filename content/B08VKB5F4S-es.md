@@ -28,10 +28,10 @@ Tienes [SEGA - Two Point Hospital Jumbo Edition](https://www.amazon.es/dp/B08VKB
 
 🔎:
 
-- No esperes que Two Point County esté poblado por los típicos pacientes. En este mundo te encontrarás con todo tipo de enfermedades atípicas
-- Optimiza el diseño de tu hospital para incrementar en flujo de pacientes y tesorería, preparando pasillos, salas de espera, habitaciones a tu manera. Amplía el hospital a múltiples edificios mientras tratas de conseguir atraer pacientes
 - Incluye 4 expansiones
 - Una vez hayas curado una enfermedad, busca varias curas y convierte tu hospital en un lugar imparable de cuidado de la salud
+- Optimiza el diseño de tu hospital para incrementar en flujo de pacientes y tesorería, preparando pasillos, salas de espera, habitaciones a tu manera. Amplía el hospital a múltiples edificios mientras tratas de conseguir atraer pacientes
+- No esperes que Two Point County esté poblado por los típicos pacientes. En este mundo te encontrarás con todo tipo de enfermedades atípicas
 - Diagnostica enfermedades, construye habitaciones para manejarlas, elige al equipo adecuado y tenles preparados, porque curar una de estas enfermedades es solo el principio
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08VKB5F4S/?tag=tolees-21)

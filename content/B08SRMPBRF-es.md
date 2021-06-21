@@ -28,10 +28,10 @@ En este momento está [Microsoft - Mando Inalámbrico  Color Rojo  Xbox Series X
 
 🔎:
 
-- Botón Share que permite capturar y compartir tus capturas de pantalla y grabaciones sin problemas; fácil de emparejar y cambiar entre consolas compatibles, y telefonos móviles
-- Conecta cualquier auricular compatible con la toma de 3.5 mm para audio
 - Agarre texturizado de los gatillos, los bumpers y la parte trasera; d-pad híbrido
+- Botón Share que permite capturar y compartir tus capturas de pantalla y grabaciones sin problemas; fácil de emparejar y cambiar entre consolas compatibles, y telefonos móviles
 - Utiliza el botón Compartir para inmortalizar momentos especiales
 - Incluye tecnologia inalambrica de Xbox y Bluetooth para jugar en consolas, PC y teléfonos móviles
+- Conecta cualquier auricular compatible con la toma de 3.5 mm para audio
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08SRMPBRF/?tag=tolees-21)
