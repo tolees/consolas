@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'HORI - Horipad negro  Nintendo Switch  al 46.61 % de descuento'
-date: 2021-06-14 11:42:07
+title: 'HORI - Horipad negro  Nintendo Switch  al 46.68 % de descuento'
+date: 2021-06-20 23:20:15
 image: 'https://m.media-amazon.com/images/I/41SFL72KcCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,26 +12,26 @@ tags: [ 'Accesorios para Nintendo Switch','Hardware y juegos para Nintendo Switc
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99
-comparePrice: 29.95 EUR
+comparePrice: 29.99 EUR
 prodname: 'HORI - Horipad negro  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Hori'
 buyurl: 'https://www.amazon.es/dp/B01NAUATSM/?tag=tolees-21'
-descuento: '46.61'
-average: '16.47'
+descuento: '46.68'
+average: '16.31'
 ---
 
-Está [HORI - Horipad negro  Nintendo Switch ](https://www.amazon.es/dp/B01NAUATSM/?tag=tolees-21) con 46.61 de descuento por 15.99 EUR (original: 29.95 EUR) en el siguiente enlace!
+Está [HORI - Horipad negro  Nintendo Switch ](https://www.amazon.es/dp/B01NAUATSM/?tag=tolees-21) con 46.68 de descuento por 15.99 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![HORI - Horipad negro  Nintendo Switch ](https://m.media-amazon.com/images/I/41SFL72KcCL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B01NAUATSM/?tag=tolees-21)
 
 ℹ️:
 
-- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
-- Cruceta extraíble para un control personalizado: escoge entre un pad direccional tradicional o tipo Joy-Con
 - Diseño ergonómico y cuerpo extragrande para un agarre seguro
-- Sin lag: conexión con cable de 3 m
 - Licencia oficial de Nintendo
+- Sin lag: conexión con cable de 3 m
+- Cruceta extraíble para un control personalizado: escoge entre un pad direccional tradicional o tipo Joy-Con
+- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01NAUATSM/?tag=tolees-21)
