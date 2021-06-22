@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - Star Wars Battlefront  con un 20.01 % de descuento'
-date: 2021-06-21 00:20:34
+date: 2021-06-22 04:56:32
 image: 'https://m.media-amazon.com/images/I/413ezdLDjrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

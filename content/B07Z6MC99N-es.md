@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - STAR WARS Jedi Fallen  al 28.58 % de rebaja'
-date: 2021-06-21 00:14:33
+date: 2021-06-22 04:55:27
 image: 'https://m.media-amazon.com/images/I/51tDo7SKYFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [Electronic Arts - STAR WARS Jedi Fallen Order| Xbox One - Código de des
 
 🔎:
 
-- La galaxia te espera: bosques ancestrales, ventosos desfiladeros y junglas encantadas son algunos de los biomas que explorarás en Jedi: Fallen Order
-- Comienza una nueva historia Jedi: como padawan que huye del Imperio, deberás completar tu entrenamiento antes de que los inquisidores imperiales descubran tu plan para resucitar la Orden Jedi
-- En Jedi: Fallen Order te convertirás en un auténtico Jedi gracias a su sistema de combate con espadas láser: ataca, bloquea y esquiva
 - Una aventura de dimensiones galácticas te espera en STAR WARS Jedi: Fallen Order
+- Comienza una nueva historia Jedi: como padawan que huye del Imperio, deberás completar tu entrenamiento antes de que los inquisidores imperiales descubran tu plan para resucitar la Orden Jedi
+- La galaxia te espera: bosques ancestrales, ventosos desfiladeros y junglas encantadas son algunos de los biomas que explorarás en Jedi: Fallen Order
+- En Jedi: Fallen Order te convertirás en un auténtico Jedi gracias a su sistema de combate con espadas láser: ataca, bloquea y esquiva
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Z6MC99N/?tag=tolees-21)
