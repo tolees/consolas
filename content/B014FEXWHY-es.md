@@ -29,8 +29,8 @@ Tienes [Trust Gaming - Trust GXT 210 - Micrófono Gaming USB para PC  PS4  PS5](
 🔎:
 
 - Botón de silenciado de acceso directo con Indicador LED
-- Cable de baja fricción con una longitud de 1,5 m
-- Colocación óptima mediante brazo flexible y ajustable. Compatible con PC, PlayStation 4 & PlayStation 5
 - Bonita Iluminación mediante LED con Interruptor de encendido/apagado
+- Colocación óptima mediante brazo flexible y ajustable. Compatible con PC, PlayStation 4 & PlayStation 5
+- Cable de baja fricción con una longitud de 1,5 m
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B014FEXWHY/?tag=tolees-21)
