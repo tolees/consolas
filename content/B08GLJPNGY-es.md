@@ -28,8 +28,8 @@ En este momento está [2K GAMES - Ps4 Nba 2K21](https://www.amazon.es/dp/B08GLJP
 
 🔎:
 
-- Prueba el modo Mi JUGADOR, con personalizaciones únicas que permiten controlar el futuro de tu jugador de la NBA
 - Ya puedes descargarla gratis y descubrir que en 2K21 el juego lo es todo
+- Prueba el modo Mi JUGADOR, con personalizaciones únicas que permiten controlar el futuro de tu jugador de la NBA
 - Tu carrera en la NBA empieza ahora. La demo te pone en la cancha con los Bucks y los Clippers, así como los All-Time Lakers y los Celtics
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GLJPNGY/?tag=tolees-21)
