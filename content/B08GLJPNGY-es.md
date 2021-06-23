@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '2K GAMES - Ps4 Nba 2K21 con un 64.63 % de descuento'
-date: 2021-06-22 07:02:15
+date: 2021-06-23 07:41:18
 image: 'https://m.media-amazon.com/images/I/51uer6hDWmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
