@@ -28,9 +28,9 @@ En este momento está [HyperX Cloud Stinger Core: Auriculares inalámbricos para
 
 🔎:
 
-- Ligereza y comodidad, Controles deslizantes de acero ajustables y duradero
-- Prácticos controles de audio integrados
 - Micrófono con cancelación de ruido, que se silencia con un simple giro
+- Prácticos controles de audio integrados
+- Ligereza y comodidad, Controles deslizantes de acero ajustables y duradero
 - Compatibles con PS5, PS4, PS4 Pro y PC
 - Conexión inalámbrica para jugadores, Audio de juego envolvente
 
