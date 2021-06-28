@@ -29,10 +29,10 @@ En este momento está [Logitech G920 Driving Force Volante de Carreras y Pedales
 🔎:
 
 - Rotación de 900 grados: La rotación de bloqueo de Driving Force significa que puede girar el volante dos veces y media, mano sobre mano en giros amplios, como un verdadero auto de carreras de F1
-- Control premium: El volante proporciona una simulación detallada de la conducción real, con engranajes helicoidales que brindan una dirección suave y silenciosa y una cubierta de cuero cosida a mano
-- Mejora tu juego: Lleva tu simulación de carreras al siguiente nivel con los accesorios Driving Force, como la palanca de cambios Driving Force o los soportes para escritorio y plataforma
-- Experiencia de juego inmersiva: adecuada para juegos de Xbox Series X|S, Xbox One y PC, Driving Force simula la sensación de conducir un coche real con una dirección de precisión y pedales sensibles a la presión
-- Pedales personalizables: Pedales de freno no lineales sensibles a la presión; Sensación de frenado precisa y sensible sobre una base resistente; Caras de pedal ajustables para un control más preciso
 - Rotación de 900 grados: La rotación de bloqueo de Driving Force significa que puede girar el volante dos veces y media, mano sobre mano en giros amplios, como un verdadero auto de carreras de F1
+- Mejora tu juego: Lleva tu simulación de carreras al siguiente nivel con los accesorios Driving Force, como la palanca de cambios Driving Force o los soportes para escritorio y plataforma
+- Pedales personalizables: Pedales de freno no lineales sensibles a la presión; Sensación de frenado precisa y sensible sobre una base resistente; Caras de pedal ajustables para un control más preciso
+- Control premium: El volante proporciona una simulación detallada de la conducción real, con engranajes helicoidales que brindan una dirección suave y silenciosa y una cubierta de cuero cosida a mano
+- Experiencia de juego inmersiva: adecuada para juegos de Xbox Series X|S, Xbox One y PC, Driving Force simula la sensación de conducir un coche real con una dirección de precisión y pedales sensibles a la presión
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B011N78DMA/?tag=tolees-21)
