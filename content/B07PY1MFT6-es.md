@@ -28,10 +28,10 @@ Está [BIGFOX Mando para Nintendo Switch/Switch Lite con Turbo Dual Shock Gyro 6
 
 ℹ️:
 
-- 【Funciones】Las funciones 6-Gyro Axis,Vibración Dual y Turbo brindan una experiencia de juego asombrosa.Las palancas analógicas duales proporcionan un control de movimiento preciso.
-- 【Garantía de Calidad】BIGFOX garantiza la calidad de sus mandos nintendo switch ofreciendo 30 días la devolución si no está satisfecho con el producto y 1 años de garantía. Principio de servicio de BIGFOX: calidad primero, servicio superior.
 - 【Buen Rendimiento】Bluetooth V2.1 conectado de forma rápida y estable a la consola del interruptor dentro de los 10 metros.Gran capacidad antiinterferente, fácil manejo y señal de conexión estable.Batería de litio de 500 mAh integrada, puede durar hasta 8 horas después de cargarse completamente, el tiempo de carga es de 2 horas.Y la advertencia de batería baja te recordará a tiempo que debes cargar el control.
 - 【Alta Compatibilidad】El control es compatible con Nintendo Switch/Nintendo Switch Lite/Nintendo Switch pro/PC.Ideal para jugar Zelda Splatoon 2,Mario Kart 8,Deluxe Super Mario Odyssey,Pokemon,Minecraft.
+- 【Garantía de Calidad】BIGFOX garantiza la calidad de sus mandos nintendo switch ofreciendo 30 días la devolución si no está satisfecho con el producto y 1 años de garantía. Principio de servicio de BIGFOX: calidad primero, servicio superior.
+- 【Funciones】Las funciones 6-Gyro Axis,Vibración Dual y Turbo brindan una experiencia de juego asombrosa.Las palancas analógicas duales proporcionan un control de movimiento preciso.
 - 【Diseño Ergonomico】está hecho de goma de alta calidad con diseño de textura y antideslizante. l diseño de agarre optimizado se adapta a la mano del jugador para brindar la máxima comodidad al mismo tiempo que proporciona un agarre óptimo. Sensor de botón súper sensible que proporciona una experiencia de juego precisa.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07PY1MFT6/?tag=tolees-21)
