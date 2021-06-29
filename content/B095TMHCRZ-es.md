@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.36 % en Electronic Arts - Star Wars Jedi Fallen '
-date: 2021-06-28 08:23:59
+date: 2021-06-29 10:17:57
 image: 'https://m.media-amazon.com/images/I/51Fb1wvH9nS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
