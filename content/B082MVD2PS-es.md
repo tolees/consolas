@@ -29,9 +29,9 @@ Ahora mismo tienes [Koch Media - Resident Evil 3 Remake - PS4](https://www.amazo
 🔎:
 
 - El juego marca el estreno de Nemesis, una imponente arma biológica humanoide diseñada para crear una inteligencia de alto rendimiento y de gran brutalidad
+- La desgarradora huida de Jill se lleva a cabo en las horas de pánico que se suceden antes y después de los eventos relatados en el superventas Resident Evil 2
 - Resident Evil 3 se desarrolla en medio del brote de pesadilla del virus T, un arma biológica desarrollada por la compañía farmacéutica Umbrella Corporation
 - Armada con un arsenal de armamentos de alta potencia y ataviado con un traje negro que oculta sus rasgos mutilados
 - Resident Evil 3 está protagonizado por Jill Valentine - una de las heroínas del videojuego más emblemáticas
-- La desgarradora huida de Jill se lleva a cabo en las horas de pánico que se suceden antes y después de los eventos relatados en el superventas Resident Evil 2
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082MVD2PS/?tag=tolees-21)
