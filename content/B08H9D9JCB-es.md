@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain - Fortnite al 43.27 % de rebaja'
-date: 2021-06-17 20:24:07
+date: 2021-07-01 07:43:58
 image: 'https://m.media-amazon.com/images/I/51AIS0BkDML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B08H9D9JCB/?tag=tolees-21'
 descuento: '43.27'
-average: '21.7300000000001'
+average: '21.4337500000001'
 ---
 
 Tienes [Warner Bros Interactive Spain - Fortnite Lote: La Última Risa - PlayStation 4](https://www.amazon.es/dp/B08H9D9JCB/?tag=tolees-21) con precio final de  16.99 EUR (original: 29.95 EUR) (43.27 %  de rebaja) aqui!

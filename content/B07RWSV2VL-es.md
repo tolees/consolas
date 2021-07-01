@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Focus Home Interactive - The Surge 2  PS al 66.74 % de descuento'
-date: 2021-06-17 20:30:24
+date: 2021-07-01 07:37:35
 image: 'https://m.media-amazon.com/images/I/51f+UkUsASL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Focus Home Interactive'
 buyurl: 'https://www.amazon.es/dp/B07RWSV2VL/?tag=tolees-21'
 descuento: '66.74'
-average: '24.5551851851853'
+average: '24.3907142857144'
 ---
 
 Ahora mismo tienes [Focus Home Interactive - The Surge 2  PS4 ](https://www.amazon.es/dp/B07RWSV2VL/?tag=tolees-21) a 19.95 EUR (original: 59.99 EUR) (66.74 %  de descuento) en el siguiente enlace!
@@ -29,8 +29,8 @@ Ahora mismo tienes [Focus Home Interactive - The Surge 2  PS4 ](https://www.amaz
 🔎:
 
 - Excelente evolución y personalización del personaje
-- Enfréntate a rivales y jefes mortíferos
-- Brutales combates cuerpo a cuerpo
 - Cercena las partes del enemigo que quieras saquear
+- Brutales combates cuerpo a cuerpo
+- Enfréntate a rivales y jefes mortíferos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RWSV2VL/?tag=tolees-21)

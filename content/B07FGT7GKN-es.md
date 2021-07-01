@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Focus Home Interactive - Insurgency Sand al 22.73 % de descuento'
-date: 2021-06-17 20:14:56
+date: 2021-07-01 07:25:36
 image: 'https://m.media-amazon.com/images/I/51GYCFcjPmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Focus Home Interactive'
 buyurl: 'https://www.amazon.es/dp/B07FGT7GKN/?tag=tolees-21'
 descuento: '22.73'
-average: '33.81875'
+average: '33.4944444444444'
 ---
 
 Ahora mismo tienes [Focus Home Interactive - Insurgency Sandstorm - PS4](https://www.amazon.es/dp/B07FGT7GKN/?tag=tolees-21) a 30.9 EUR (original: 39.99 EUR) (22.73 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [Focus Home Interactive - Insurgency Sandstorm - PS4](https:/
 
 🔎:
 
-- Forma equipo en un intenso juego de estilo cooperativo
-- Sumérgete en un juego con balística realista y con gran atención a los detalles
 - Compite en partidas PVP basadas en objetivos
 - Personaliza completamente tu personaje y tus armas
+- Forma equipo en un intenso juego de estilo cooperativo
+- Sumérgete en un juego con balística realista y con gran atención a los detalles
 - Diseño de audio sin precedentes con chat de voz posicional para crear una atmósfera que hará que te palpite el corazón
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07FGT7GKN/?tag=tolees-21)

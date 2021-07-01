@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Focus Home Interactive - The Surge 2  Xb al 66.74 % de descuento'
-date: 2021-06-17 20:29:12
+date: 2021-07-01 07:35:56
 image: 'https://m.media-amazon.com/images/I/51Fa-nMpI2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Focus Home Interactive'
 buyurl: 'https://www.amazon.es/dp/B07RWC1SD7/?tag=tolees-21'
 descuento: '66.74'
-average: '23.4838461538461'
+average: '23.2314285714285'
 ---
 
 Ahora mismo tienes [Focus Home Interactive - The Surge 2  Xbox One ](https://www.amazon.es/dp/B07RWC1SD7/?tag=tolees-21) a 19.95 EUR (original: 59.99 EUR) (66.74 %  de descuento) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [Focus Home Interactive - The Surge 2  Xbox One ](https://www
 
 🔎:
 
-- Cercena las partes del enemigo que quieras saquear
-- Brutales combates cuerpo a cuerpo
 - Excelente evolución y personalización del personaje
+- Cercena las partes del enemigo que quieras saquear
 - Enfréntate a rivales y jefes mortíferos
+- Brutales combates cuerpo a cuerpo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RWC1SD7/?tag=tolees-21)

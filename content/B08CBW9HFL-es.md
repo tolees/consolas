@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Take-Two 2K - NBA 2k21- Playstation 4  E al 50.15 % de rebaja'
-date: 2021-06-27 08:03:42
+date: 2021-07-01 07:35:14
 image: 'https://m.media-amazon.com/images/I/51rB5B1kOBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Take-Two 2K'
 buyurl: 'https://www.amazon.es/dp/B08CBW9HFL/?tag=tolees-21'
 descuento: '50.15'
-average: '31.9466101694915'
+average: '31.6633333333333'
 ---
 
 Tienes [Take-Two 2K - NBA 2k21- Playstation 4  Edición Exclusiva Amazon ](https://www.amazon.es/dp/B08CBW9HFL/?tag=tolees-21) con precio final de  14.95 EUR (original: 29.99 EUR) (50.15 %  de rebaja) aqui!
@@ -29,7 +29,7 @@ Tienes [Take-Two 2K - NBA 2k21- Playstation 4  Edición Exclusiva Amazon ](https
 🔎:
 
 - En Amazon te llevarás además en exclusiva 6 potenciadores de habilidad de Mi CARRERA para tu jugador
-- 5.000 VC (moneda virtual) + 5.000 MT (puntos de Mi EQUIPO) + 10 packs Promo de Mi EQUIPO (uno a la semana) + 9 potenciadores de Mi CARRERA + Colección de 5 zapatillas + Colección digital de Damian Lillard
 - Además del juego NBA2K21 para la plataforma seleccionada, incluye como bonus de reserva
+- 5.000 VC (moneda virtual) + 5.000 MT (puntos de Mi EQUIPO) + 10 packs Promo de Mi EQUIPO (uno a la semana) + 9 potenciadores de Mi CARRERA + Colección de 5 zapatillas + Colección digital de Damian Lillard
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08CBW9HFL/?tag=tolees-21)
