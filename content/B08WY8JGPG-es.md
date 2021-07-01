@@ -28,11 +28,11 @@ En este momento está [Nintendo - SWITCH Mario Golf: Super Rush](https://www.ama
 
 🔎:
 
-- También puedes sujetar el mando Joy-Con como un palo de golf y usar los controles por movimiento. El personaje imitará tus movimientos dentro del juego ¡y te sentirás como si estuvieras jugando al golf de verdad!
-- Desde recorridos tradicionales hasta otros repletos de obstáculos, cada partida de golf es completamente distinta.
-- Saca ventaja a los rivales en el modo "Golf rápido", en el que todos los jugadores lanzan al mismo tiempo y luego salen corriendo hasta el hoyo
-- Gracias a los controles mediante botones, tanto los recién llegados como los jugadores expertos pueden golpear la bola de manera efectiva y sencilla. Solo hay que apuntar, elegir la potencia del golpe y ¡allá que va la bola!
 - Elige entre distintos personajes del Reino Champiñón, cada uno con sus propios puntos fuertes y movimientos especiales únicos.
+- También puedes sujetar el mando Joy-Con como un palo de golf y usar los controles por movimiento. El personaje imitará tus movimientos dentro del juego ¡y te sentirás como si estuvieras jugando al golf de verdad!
 - Únete a tus personajes favoritos del Reino Champiñón y juega partidas de golf a toda velocidad en Mario Golf: Super Rush
+- Saca ventaja a los rivales en el modo "Golf rápido", en el que todos los jugadores lanzan al mismo tiempo y luego salen corriendo hasta el hoyo
+- Desde recorridos tradicionales hasta otros repletos de obstáculos, cada partida de golf es completamente distinta.
+- Gracias a los controles mediante botones, tanto los recién llegados como los jugadores expertos pueden golpear la bola de manera efectiva y sencilla. Solo hay que apuntar, elegir la potencia del golpe y ¡allá que va la bola!
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WY8JGPG/?tag=tolees-21)
