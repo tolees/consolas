@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Mario Kart 8 Deluxe al 24.24 % de descuento'
-date: 2021-07-02 19:34:29
+date: 2021-07-03 21:03:15
 image: 'https://m.media-amazon.com/images/I/618LTd9CpxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B01N7RLGIJ/?tag=tolees-21'
 descuento: '24.24'
-average: '47.3920175438599'
+average: '47.3751304347829'
 ---
 
 Ahora mismo tienes [Nintendo - Mario Kart 8 Deluxe](https://www.amazon.es/dp/B01N7RLGIJ/?tag=tolees-21) a 45.45 EUR (original: 59.99 EUR) (24.24 %  de descuento) en el siguiente enlace!
@@ -29,8 +29,8 @@ Ahora mismo tienes [Nintendo - Mario Kart 8 Deluxe](https://www.amazon.es/dp/B01
 🔎:
 
 - Hasta 8 pilotos en partidas de multijugador local
+- Nuevos personajes: Inkling, Rey Boo, Huesitos y Bowsy
 - Inclusión de circuitos inéditos en el modo batalla
 - Los pilotos cuentan con el volante inteligente, que ayuda a no salirse de la pista
-- Nuevos personajes: Inkling, Rey Boo, Huesitos y Bowsy
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01N7RLGIJ/?tag=tolees-21)
