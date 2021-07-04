@@ -29,7 +29,7 @@ Está [Bethesda - Doom VFR - PlayStation 4 [Importación inglesa]](https://www.a
 ℹ️:
 
 - Experience DOOM combat and its iconic weapons and demons from an entirely new perspective
-- Physically interact with the DOOM universe as you seamlessly traverse across the UAC facility and Hell using teleportation and jet-strafe movement
 - Explore all-new UAC Martian research facility areas and discover the unique abilities of a cybernetic UAC security operative
+- Physically interact with the DOOM universe as you seamlessly traverse across the UAC facility and Hell using teleportation and jet-strafe movement
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B073V6XKS6/?tag=tolees-21)
