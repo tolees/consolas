@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch Media - Kingdom Come: Deliverance - al 50.11 % de descuento'
-date: 2021-06-25 06:47:20
+date: 2021-07-04 09:31:50
 image: 'https://m.media-amazon.com/images/I/51oBGEr9znL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Koch Media'
 buyurl: 'https://www.amazon.es/dp/B07PY8YJ92/?tag=tolees-21'
 descuento: '50.11'
-average: '21.6420000000001'
+average: '21.5362500000001'
 ---
 
 Ahora mismo tienes [Koch Media - Kingdom Come: Deliverance - Royal Edition - PS4](https://www.amazon.es/dp/B07PY8YJ92/?tag=tolees-21) a 19.95 EUR (original: 39.99 EUR) (50.11 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [Koch Media - Kingdom Come: Deliverance - Royal Edition - PS4
 
 🔎:
 
-- Mundo dinámico: tus acciones influyen en las reacciones de la gente que te rodea; lucha, roba, seduce, amenaza, persuade o soborna; todo depende de ti
 - Desarrollo del personaje: elige tu equipo, mejora tus habilidades y gana nuevos beneficios
-- Mundo abierto muy realista: castillos majestuosos, amplios campos, todo construido en unos gráficos de alta calidad
 - Historia no lineal: resuelve distintas situaciones de diferentes maneras, después acepta las consecuencias de tus decisiones
+- Mundo abierto muy realista: castillos majestuosos, amplios campos, todo construido en unos gráficos de alta calidad
 - Combates desafiantes: distancia, sigilo o cuerpo a cuerpo; elige tus armas y ejecuta docenas de únicos combos en bata
+- Mundo dinámico: tus acciones influyen en las reacciones de la gente que te rodea; lucha, roba, seduce, amenaza, persuade o soborna; todo depende de ti
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PY8YJ92/?tag=tolees-21)
