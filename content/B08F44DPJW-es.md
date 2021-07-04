@@ -28,10 +28,10 @@ Tienes [Power A - - Mando con cable mejorado PowerA para Xbox: en azul  mando  m
 
 🔎:
 
-- Mando para videojuegos ergonómico con disposición de botones estándar que incluye un nuevo botón Compartir
-- Cable USB extraíble de 3 metros con cierre de velcro
 - Producto de alta calidad
 - Con licencia oficial para Xbox Series X|S
+- Mando para videojuegos ergonómico con disposición de botones estándar que incluye un nuevo botón Compartir
+- Cable USB extraíble de 3 metros con cierre de velcro
 - Dial de auriculares para silenciar el chat y controlar el audio del videojuego a través de una conexión de audio de 3,5 mm para auriculares estéreo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08F44DPJW/?tag=tolees-21)
