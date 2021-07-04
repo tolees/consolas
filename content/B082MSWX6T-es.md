@@ -28,8 +28,8 @@ Está [Sony - Gran Turismo Sport Spec II PS4  PSVR Compatible ](https://www.amaz
 
 ℹ️:
 
+- race on over 25 masterfully recreated tracks, including the iconic Nrburgring and Tokyo Expressway.
 - compete against the world in the official, fia-certified online championships and in GT League for offline play
 - Get behind the wheel of over 280 of the worlds most sought-after vehicles, with true-to-life visuals and stunningly realistic handling.
-- race on over 25 masterfully recreated tracks, including the iconic Nrburgring and Tokyo Expressway.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B082MSWX6T/?tag=tolees-21)
