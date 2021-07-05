@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch Media - Let s Sing Queen  Nintendo  al 50.19 % de rebaja'
-date: 2021-06-30 15:36:31
+date: 2021-07-05 15:22:26
 image: 'https://m.media-amazon.com/images/I/41O2kM9QGHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Koch Media'
 buyurl: 'https://www.amazon.es/dp/B08F4ZMFTL/?tag=tolees-21'
 descuento: '50.19'
-average: '27.4448484848486'
+average: '27.2235294117648'
 ---
 
 Tienes [Koch Media - Let s Sing Queen  Nintendo Switch](https://www.amazon.es/dp/B08F4ZMFTL/?tag=tolees-21) con precio final de  19.92 EUR (original: 39.99 EUR) (50.19 %  de rebaja) aqui!
