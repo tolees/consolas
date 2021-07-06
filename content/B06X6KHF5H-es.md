@@ -28,8 +28,8 @@ Tienes [Paladone GIFPAL211 Hucha Game Boy Nintendo  Metal  Multicolor  15x9x5 cm
 
 ℹ️:
 
-- 15 cm de altura
-- Diseño original Game Boy con pantalla efecto 3D
 - Producto oficial Nintendo
+- Diseño original Game Boy con pantalla efecto 3D
+- 15 cm de altura
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B06X6KHF5H/?tag=tolees-21)
