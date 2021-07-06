@@ -30,8 +30,8 @@ En este momento está [ALOUWEEKUKY Funda de Juego - Compatible para Nintendo Swi
 
 - 🎮 【GRAN CAPACIDAD】: Este titular de la tarjeta del juego puede colocar 12 tarjetas con 16 ranuras muy conveniente para el almacenamiento.
 - 🎮 【SIMPLE DE USAR Y LIMPIAR】: Este organizador de tarjetas de juego está diseñado como cuadrado y en el interior es una ranura una tarjeta, estructura clara y simple para almacenar y sacar, limpiar suavemente, será más ligero que nunca.
-- 🎮 【MATERIAL PREMIUM】: Este pequeño estuche para tarjetas de juego está hecho de material ABS de primera calidad, no tóxico, insípido y seguro, no dañará su cuerpo.
-- 🎮 【FÁCIL DE LLEVAR】: El tamaño de este portatarjetas es de 2.36 × 2.36 × 2.36 pulgadas, muy pequeño y fácil de llevar a cualquier parte, es ideal para guardar y viajar.
 - 🎮 【GARANTÍA DE SERVICIO】：Si por alguna razón no está completamente satisfecho con su compra, no dude en enviarnos un correo electrónico. Haremos todo lo posible para hacerlo bien para usted lo antes posible.
+- 🎮 【FÁCIL DE LLEVAR】: El tamaño de este portatarjetas es de 2.36 × 2.36 × 2.36 pulgadas, muy pequeño y fácil de llevar a cualquier parte, es ideal para guardar y viajar.
+- 🎮 【MATERIAL PREMIUM】: Este pequeño estuche para tarjetas de juego está hecho de material ABS de primera calidad, no tóxico, insípido y seguro, no dañará su cuerpo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08QHJ3DXG/?tag=tolees-21)
