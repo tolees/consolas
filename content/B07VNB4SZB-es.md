@@ -28,9 +28,9 @@ Tienes [Power A - PowerA - Estuche protector para Pokémon Pikachu  Nintendo Swi
 
 🔎:
 
-- Con licencia oficial de Nintendo y The Pokémon Company International
-- La solapa protectora de pantalla acolchada integrada incluye almacenamiento para 9 tarjetas de juego
 - El moldeado interior tiene forro de felpa y almacenamiento de malla con cremallera
+- La solapa protectora de pantalla acolchada integrada incluye almacenamiento para 9 tarjetas de juego
+- Con licencia oficial de Nintendo y The Pokémon Company International
 - Carcasa exterior resistente de EVA con asa y tiradores de cremallera dobles resistentes
 - Garantía limitada de 2 años
 
