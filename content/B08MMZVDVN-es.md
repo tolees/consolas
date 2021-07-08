@@ -28,10 +28,10 @@ En este momento está [Power A - Powera - Mando Inalámbrico Mejorado para Ninte
 
 🔎:
 
-- Incluye dos pilas AA para hasta 30 horas de juego
 - Luces led para indicar la asignación de botones, el número del jugador y el nivel bajo de batería
-- Libertad inalámbrica con Bluetooth 5.0
+- Incluye dos pilas AA para hasta 30 horas de juego
 - Incluye mandos de movimiento y botones de control avanzado asignables
 - Con licencia oficial de Nintendo y Bethesda Softworks
+- Libertad inalámbrica con Bluetooth 5.0
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08MMZVDVN/?tag=tolees-21)
