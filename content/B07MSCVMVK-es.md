@@ -28,10 +28,10 @@ Ahora mismo tienes [Borangame - Base ventilación Consolas PlayStation y Xbox - 
 
 🔎:
 
-- ✅ NO MÁS RAYONES EN TU ESCRITORIO: Gracias a los soportes de goma de esta base, la consola se soportará suavemente.
-- ✅ EL DISEÑO MÁS PRÁCTICO Y COMPACTO: El Diseño Inteligente del Soporte Horizontal permite el acceso fácil del DVD y de los puertos de Entrada y Salida.
-- ✅ SOPORTE ROBUSTO Y DURADERO: ¡El Soporte Horizontal de Borangame para PlayStation y Xbox es hecho con Hierro Sólido, por lo que es increíblemente duradero y puede soportar el peso de tu PS4 y Xbox sin ningún problema!
 - ✅ NUNCA TE DETENGAS POR FALTA DE BATERÍA: ¡Con el Cable de Carga que se incluye puedes cargar dos mandos mientras juegas!
 - ✅ SU CONSOLA NUNCA SE VOLVERÁ A RECALENTAR: ¿Has notado lo caliente que se vuelve tu consola PS4 y Xbox unos minutos después que empiezas a jugar? Nuestra Base Refrigeradora tiene dos Poderosos Ventiladores incorporados que puedes conectar a la consola con un cable USB y mantener el dispositivo fresco y seguro. ¡No te preocupes, los ventiladores son silenciosos y no te molestaran!
+- ✅ SOPORTE ROBUSTO Y DURADERO: ¡El Soporte Horizontal de Borangame para PlayStation y Xbox es hecho con Hierro Sólido, por lo que es increíblemente duradero y puede soportar el peso de tu PS4 y Xbox sin ningún problema!
+- ✅ EL DISEÑO MÁS PRÁCTICO Y COMPACTO: El Diseño Inteligente del Soporte Horizontal permite el acceso fácil del DVD y de los puertos de Entrada y Salida.
+- ✅ NO MÁS RAYONES EN TU ESCRITORIO: Gracias a los soportes de goma de esta base, la consola se soportará suavemente.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MSCVMVK/?tag=tolees-21)
