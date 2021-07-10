@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bethesda - Doom VFR - PlayStation 4 [Imp al 30.93 % de descuento'
-date: 2021-07-04 03:19:22
+date: 2021-07-10 08:19:33
 image: 'https://m.media-amazon.com/images/I/51Zd3j3aoCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bethesda'
 buyurl: 'https://www.amazon.es/dp/B073V6XKS6/?tag=tolees-21'
 descuento: '30.93'
-average: '18.629'
+average: '18.3727272727273'
 ---
 
 Está [Bethesda - Doom VFR - PlayStation 4 [Importación inglesa]](https://www.amazon.es/dp/B073V6XKS6/?tag=tolees-21) con 30.93 de descuento por 15.81 EUR (original: 22.89 EUR) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [Bethesda - Doom VFR - PlayStation 4 [Importación inglesa]](https://www.a
 
 ℹ️:
 
-- Experience DOOM combat and its iconic weapons and demons from an entirely new perspective
-- Explore all-new UAC Martian research facility areas and discover the unique abilities of a cybernetic UAC security operative
 - Physically interact with the DOOM universe as you seamlessly traverse across the UAC facility and Hell using teleportation and jet-strafe movement
+- Explore all-new UAC Martian research facility areas and discover the unique abilities of a cybernetic UAC security operative
+- Experience DOOM combat and its iconic weapons and demons from an entirely new perspective
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B073V6XKS6/?tag=tolees-21)
