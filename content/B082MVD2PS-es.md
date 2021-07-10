@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch Media - Resident Evil 3 Remake - PS al 22.16 % de descuento'
-date: 2021-07-04 09:45:38
+date: 2021-07-10 15:23:09
 image: 'https://m.media-amazon.com/images/I/510Ogl0nw4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Koch Media'
 buyurl: 'https://www.amazon.es/dp/B082MVD2PS/?tag=tolees-21'
 descuento: '22.16'
-average: '41.5522950819672'
+average: '41.2837096774193'
 ---
 
 Ahora mismo tienes [Koch Media - Resident Evil 3 Remake - PS4](https://www.amazon.es/dp/B082MVD2PS/?tag=tolees-21) a 24.9 EUR (original: 31.99 EUR) (22.16 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [Koch Media - Resident Evil 3 Remake - PS4](https://www.amazo
 
 🔎:
 
-- La desgarradora huida de Jill se lleva a cabo en las horas de pánico que se suceden antes y después de los eventos relatados en el superventas Resident Evil 2
-- El juego marca el estreno de Nemesis, una imponente arma biológica humanoide diseñada para crear una inteligencia de alto rendimiento y de gran brutalidad
 - Resident Evil 3 se desarrolla en medio del brote de pesadilla del virus T, un arma biológica desarrollada por la compañía farmacéutica Umbrella Corporation
-- Armada con un arsenal de armamentos de alta potencia y ataviado con un traje negro que oculta sus rasgos mutilados
+- El juego marca el estreno de Nemesis, una imponente arma biológica humanoide diseñada para crear una inteligencia de alto rendimiento y de gran brutalidad
 - Resident Evil 3 está protagonizado por Jill Valentine - una de las heroínas del videojuego más emblemáticas
+- La desgarradora huida de Jill se lleva a cabo en las horas de pánico que se suceden antes y después de los eventos relatados en el superventas Resident Evil 2
+- Armada con un arsenal de armamentos de alta potencia y ataviado con un traje negro que oculta sus rasgos mutilados
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B082MVD2PS/?tag=tolees-21)
