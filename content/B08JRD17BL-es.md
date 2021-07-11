@@ -28,10 +28,10 @@ Ahora mismo tienes [Gearbox software  llc - Godfall Ps5](https://www.amazon.es/d
 
 🔎:
 
-- Desbloquea las 12 Valorplates, las armaduras divinas inspiradas en el zodiaco que te darán el poder para despedazar a todos los enemigos que se interpongan entre Macros y tú
-- Enfréntate a la Torre de las Pruebas y planta cara a los enemigos más duros para conseguir botín de primera
 - Domina los cinco tipos de armas, cada uno con estilos de juego únicos y un arsenal de espadas largas, armas de asta, martillos de guerra, espadones y armas dobles
 - Sube de nivel, aprende habilidades nuevas y descubre armas legendarias con efectos devastadores en el campo de batalla
 - Aventúrate en parajes exóticos, desde los arrecifes terrestres del Reino del Agua hasta los bosques carmesí subterráneos del Reino de la Tierra
+- Desbloquea las 12 Valorplates, las armaduras divinas inspiradas en el zodiaco que te darán el poder para despedazar a todos los enemigos que se interpongan entre Macros y tú
+- Enfréntate a la Torre de las Pruebas y planta cara a los enemigos más duros para conseguir botín de primera
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08JRD17BL/?tag=tolees-21)
