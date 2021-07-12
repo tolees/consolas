@@ -28,10 +28,10 @@ Ahora mismo tienes [Power A - PowerA - Soporte de juego para móvil Moga para ma
 
 🔎:
 
-- Se adapta a teléfonos móviles con un ancho máximo de 79 mm (3,12 pulgadas)
 - Soporte de juego para móvil para mandos inalámbricos con Bluetooth de Xbox
 - Ajuste de los puntos de articulación dual con seguros de cierre para una colocación ergonómica del móvil
 - Fabricado con materiales de calidad para ser compatible con juegos de móvil y para retransmitir el juego de Xbox
+- Se adapta a teléfonos móviles con un ancho máximo de 79 mm (3,12 pulgadas)
 - Con licencia oficial para Xbox y garantía limitada de 2 años
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B081C7TLVS/?tag=tolees-21)
