@@ -28,9 +28,9 @@ Tienes [Logitech G29 Driving Force Volante de Carreras y Pedales  Force Feedback
 
 ℹ️:
 
-- Construcción Duradera: Con cojinetes de acero en el eje del volante y pedales y palancas de cambio de acero inoxidable, Driving Force se ha diseñado para ofrecer una experiencia de conducción precisa
-- Controles para Juegos de Fácil Acceso: El mando de dirección, los botones de la consola y las palancas de cambio semiautomáticas están situados en el volante para aportar comodidad
 - Diseñado para los Juegos de PlayStation 5, PS4, PS3 y PC más Recientes: Añade Driving Force a tu selección de controlador, G29 Driving Force también se puede usar en PC con determinados juegos
+- Controles para Juegos de Fácil Acceso: El mando de dirección, los botones de la consola y las palancas de cambio semiautomáticas están situados en el volante para aportar comodidad
+- Construcción Duradera: Con cojinetes de acero en el eje del volante y pedales y palancas de cambio de acero inoxidable, Driving Force se ha diseñado para ofrecer una experiencia de conducción precisa
 - Force Feedback Realista: G29 Driving Force incluye Force Feedback con dos motores, diseñado para simular con realismo la sensación de conducir un coche y de los neumáticos en cada giro
 - Unidad de Pedal con Capacidad de Respuesta: El volante G29 viene con un pedal independiente para el suelo para que puedas frenar, acelerar y cambiar de marcha, como en un coche deportivo
 
