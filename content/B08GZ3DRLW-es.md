@@ -28,10 +28,10 @@ En este momento está [Nintendo - GAME WATCH SM BROS SYSTEM [Importación france
 
 🔎:
 
-- A Digital Clock
-- A Blast from the Past: The original Game & Watch system was released in Japan in 1980 and was the very first handheld gaming console created by Nintendo. Now you can get your hands on a piece of history with a brand-new entry in the series, a special golden Game & Watch that includes the original Super Mario Bros., a digital clock and more.
-- Super Mario Bros.: The Lost Levels
-- Super Mario Bros.
 - Ball (Mario Version)
+- A Blast from the Past: The original Game & Watch system was released in Japan in 1980 and was the very first handheld gaming console created by Nintendo. Now you can get your hands on a piece of history with a brand-new entry in the series, a special golden Game & Watch that includes the original Super Mario Bros., a digital clock and more.
+- Super Mario Bros.
+- Super Mario Bros.: The Lost Levels
+- A Digital Clock
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GZ3DRLW/?tag=tolees-21)
