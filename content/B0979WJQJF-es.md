@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Game&Watch: The Legend of Zel al 16.54 % de rebaja'
-date: 2021-07-14 10:04:40
+date: 2021-07-16 06:37:26
 image: 'https://m.media-amazon.com/images/I/41gsrVcPUZS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B0979WJQJF/?tag=tolees-21'
 descuento: '16.54'
-average: '55.6785714285715'
+average: '54.9675000000001'
 ---
 
 Tienes [Nintendo - Game&Watch: The Legend of Zelda](https://www.amazon.es/dp/B0979WJQJF/?tag=tolees-21) con precio final de  49.99 EUR (original: 59.9 EUR) (16.54 %  de rebaja) aqui!
