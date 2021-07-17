@@ -28,10 +28,10 @@ Está [Hori - Fighting Stick Mini  Nintendo Switch/PC ](https://www.amazon.es/dp
 
 ℹ️:
 
-- Compatible también con PC
-- 8 botones y joystick Micro Switch
-- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
 - Licencia oficial de Nintendo
 - Diseño compacto de fácil manejo con todas las funciones típicas de un arcade stick
+- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
+- 8 botones y joystick Micro Switch
+- Compatible también con PC
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01AJSAAV6/?tag=tolees-21)
