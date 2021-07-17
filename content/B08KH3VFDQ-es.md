@@ -28,8 +28,8 @@ En este momento está [FR-TEC - - Carga y Juega Kit Series X y S  Xbox Series X 
 
 🔎:
 
-- 1 batería de 1000 mAh
-- Cable USB-C de 3 metros de longitud
 - Incluye:
+- Cable USB-C de 3 metros de longitud
+- 1 batería de 1000 mAh
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KH3VFDQ/?tag=tolees-21)
