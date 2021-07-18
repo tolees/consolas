@@ -29,8 +29,8 @@ Tienes [Carrera - Nintendo Mario Kart 8](https://www.amazon.es/dp/B07PP9BPVN/?ta
 🔎:
 
 - Para niños y niñas a partir de 6 años
-- Equipado con controles ergonómicos
 - Circuito de coches con Mario y Luigi
+- Equipado con controles ergonómicos
 - La pista de atletismo de 4.9 metros, con rectas, curvas y bucles de alta velocidad, ofrece hasta 6 horas de juego ininterrumpido
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07PP9BPVN/?tag=tolees-21)
