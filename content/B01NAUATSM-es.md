@@ -28,10 +28,10 @@ Está [HORI - Horipad negro  Nintendo Switch ](https://www.amazon.es/dp/B01NAUAT
 
 ℹ️:
 
-- Cruceta extraíble para un control personalizado: escoge entre un pad direccional tradicional o tipo Joy-Con
+- Sin lag: conexión con cable de 3 m
 - Diseño ergonómico y cuerpo extragrande para un agarre seguro
 - Licencia oficial de Nintendo
+- Cruceta extraíble para un control personalizado: escoge entre un pad direccional tradicional o tipo Joy-Con
 - Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
-- Sin lag: conexión con cable de 3 m
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01NAUATSM/?tag=tolees-21)
