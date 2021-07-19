@@ -29,9 +29,9 @@ Ahora mismo tienes [BIGBEN - The Sinking City: Day One - Edition PS4 [Versión E
 🔎:
 
 - Una atmósfera y una historia opresivas, inspiradas en el universo de H. P. Lovecraft Audio en inglés con subtítulos en castellano
-- Un enorme mundo abierto que puedes explorar a pie, en barca, con escafandra
 - Un arsenal de armas de los años 20 con las que enfrentarte a criaturas de pesadilla
 - Gestiona tu salud mental para desentrañar la verdad que se oculta tras la locura
 - Alta rejugabilidad gracias a un sistema de investigación abierto: cada caso puede resolverse de varias maneras y con distintos finales posibles según tus acciones
+- Un enorme mundo abierto que puedes explorar a pie, en barca, con escafandra
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07THRJ7LY/?tag=tolees-21)
