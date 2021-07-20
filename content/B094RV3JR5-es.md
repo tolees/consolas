@@ -28,7 +28,7 @@ Tienes [Nintendo - Switch Monster Hunter Stories 2](https://www.amazon.es/dp/B09
 
 ℹ️:
 
-- Fecha de lanzamiento sujeta a cambios
 - caratula no definitiva
+- Fecha de lanzamiento sujeta a cambios
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B094RV3JR5/?tag=tolees-21)
