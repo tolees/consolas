@@ -28,10 +28,10 @@ Ahora mismo tienes [Microsoft - Mando Xbox One Elite Wireless Controller Series 
 
 🔎:
 
-- Palancas de mando de tensión ajustable
-- Empuñadura de goma envolvente
-- Carga el mando dentro o fuera de la funda de transporte con el cable USB-C incluido y la base de carga
 - Juega más tiempo con hasta 40 horas de duración de la batería recargable y componentes refinados diseñados para durar
 - Bloqueo de gatillos de alta sensibilidad más cortos
+- Empuñadura de goma envolvente
+- Carga el mando dentro o fuera de la funda de transporte con el cable USB-C incluido y la base de carga
+- Palancas de mando de tensión ajustable
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SVZXBMG/?tag=tolees-21)
