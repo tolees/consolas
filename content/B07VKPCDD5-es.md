@@ -28,10 +28,10 @@ Tienes [Subsonic - Alfombra antideslizante para gamers DBZ  Licencia oficial de 
 
 ℹ️:
 
-- Tamaño 100 cms x 100 cms
-- Protege los suelos de los arañazos
-- Alfombra impresa con la licencia oficial de Dragon Ball Super, ideal para fanáticos y jugadores exigentes
-- Mueve su silla gamer fácilmente gracias a su diseño de espuma (3 mm) y su revestimiento antideslizante
 - Sumérgete en el universo de Dragon Ball Super gracias a los accesorios para juegos Subsonic
+- Tamaño 100 cms x 100 cms
+- Mueve su silla gamer fácilmente gracias a su diseño de espuma (3 mm) y su revestimiento antideslizante
+- Alfombra impresa con la licencia oficial de Dragon Ball Super, ideal para fanáticos y jugadores exigentes
+- Protege los suelos de los arañazos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07VKPCDD5/?tag=tolees-21)

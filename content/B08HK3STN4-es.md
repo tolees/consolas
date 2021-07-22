@@ -28,7 +28,7 @@ Tienes [Nintendo - Super Mario 3D World + Bowser s Fury](https://www.amazon.es/d
 
 🔎:
 
-- Esta versión mejorada de Super Mario 3D World trae consigo varias novedades en la mecánica de juego. Por ejemplo, ahora los personajes podrán correr más rápido y trepar más alto al usar la supercampana. ¡Incluso puedes aprovechar los controles por movimiento!
 - ¡Únete a Mario, Luigi, la princesa Peach y Toad en una aventura para salvar el Reino de las hadas en Super Mario 3D World + Bowsers Fury para Nintendo Switch! Bowser ha secuestrado a la princesa hada… ¡y solo nuestros héroes podrán rescatarla!
+- Esta versión mejorada de Super Mario 3D World trae consigo varias novedades en la mecánica de juego. Por ejemplo, ahora los personajes podrán correr más rápido y trepar más alto al usar la supercampana. ¡Incluso puedes aprovechar los controles por movimiento!
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08HK3STN4/?tag=tolees-21)
