@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hori - Fighting Stick Mini  Nintendo Swi al 23.54 % de descuento'
-date: 2021-07-17 11:22:45
+date: 2021-07-24 12:03:52
 image: 'https://m.media-amazon.com/images/I/41U6rQt4F5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hori'
 buyurl: 'https://www.amazon.es/dp/B01AJSAAV6/?tag=tolees-21'
 descuento: '23.54'
-average: '39.7955555555556'
+average: '39.256'
 ---
 
 Está [Hori - Fighting Stick Mini  Nintendo Switch/PC ](https://www.amazon.es/dp/B01AJSAAV6/?tag=tolees-21) con 23.54 de descuento por 34.4 EUR (original: 44.99 EUR) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [Hori - Fighting Stick Mini  Nintendo Switch/PC ](https://www.amazon.es/dp
 
 ℹ️:
 
-- Licencia oficial de Nintendo
-- Diseño compacto de fácil manejo con todas las funciones típicas de un arcade stick
 - Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
-- 8 botones y joystick Micro Switch
+- Diseño compacto de fácil manejo con todas las funciones típicas de un arcade stick
 - Compatible también con PC
+- 8 botones y joystick Micro Switch
+- Licencia oficial de Nintendo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01AJSAAV6/?tag=tolees-21)
