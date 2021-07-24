@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HORI - Horipad rojo  Nintendo Switch  al 39.54 % de descuento'
-date: 2021-07-21 21:54:53
+date: 2021-07-24 07:15:36
 image: 'https://m.media-amazon.com/images/I/41dXsFj2wVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Está [HORI - Horipad rojo  Nintendo Switch ](https://www.amazon.es/dp/B01AJUFF6
 ℹ️:
 
 - Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
+- Cruceta extraíble para un control personalizado: escoge entre un pad direccional tradicional o tipo Joy-Con
 - Licencia oficial de Nintendo
 - Sin lag: conexión con cable de 3 m
 - Diseño ergonómico y cuerpo extragrande para un agarre seguro
-- Cruceta extraíble para un control personalizado: escoge entre un pad direccional tradicional o tipo Joy-Con
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01AJUFF6Y/?tag=tolees-21)
