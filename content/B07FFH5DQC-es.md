@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.13 % en Warner Bros Interactive Spain - Lego DC '
-date: 2021-07-23 07:48:59
+date: 2021-07-24 16:16:31
 image: 'https://m.media-amazon.com/images/I/51dUj1VlxCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B07FFH5DQC/?tag=tolees-21'
 descuento: '25.13'
-average: '19.65875'
+average: '19.13'
 ---
 
 Tienes [Warner Bros Interactive Spain - Lego DC Super-Villans Nintendo Switch  Edición Estándar](https://www.amazon.es/dp/B07FFH5DQC/?tag=tolees-21) con un 25.13 % de descuento con precio de oferta de 14.9 EUR (original: 19.9 EUR) en el siguiente enlace!
@@ -30,8 +30,8 @@ Tienes [Warner Bros Interactive Spain - Lego DC Super-Villans Nintendo Switch  E
 
 - Los jugadores deben combatir el mal con el mal - tanto si se trata de hacer pintadas por la ciudad o usar toxinas del miedo para aterrorizar a los personajes que haya cerca y darles un susto, los supervillanos tienen barra libre para usar cualquier truco de su arsenal y detener el malvado plan del Sindicato de la Justicia.
 - Los jugadores lucharán contra oponentes, resolverán puzles y superarán obstáculos usando amenazadoras bromas y tácticas.
-- Tus amigos y familiares pueden unirse a tu partida en cualquier momento gracias a la experiencia local cooperativa para dos jugadores.
 - Hay nuevos lugares por explorar.
 - Los eventos centrales, diferentes para héroes y villanos, permiten a los jugadores realizar misiones junto a otros villanos o acabar con los malos en misiones de héroes.
+- Tus amigos y familiares pueden unirse a tu partida en cualquier momento gracias a la experiencia local cooperativa para dos jugadores.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07FFH5DQC/?tag=tolees-21)
