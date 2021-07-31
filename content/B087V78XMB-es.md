@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEXIBOOK- Nintendo Mario Kart Máquina el con un 30.01 % de descuento'
-date: 2021-07-30 09:02:08
+date: 2021-07-31 18:41:58
 image: 'https://m.media-amazon.com/images/I/51C-eJsAbKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,15 +28,15 @@ En este momento está [LEXIBOOK- Nintendo Mario Kart Máquina electrónica de Pi
 
 🔎:
 
-- Puntuación digital: verifica el resultado más alto en la pantalla LCD
-- ¡Una increíble mesa de pinball electrónica con un gran diseño de Mario Kart! ¡Juega solo o desafía a tus amigos!
-- Garantía : 2 años.
-- Grandes sonidos y efectos de luz como en un juego de pinball real
-- Alimentación : 3 pilas LR14 / C de 1,5V (no incluidas).
-- 1 bola adentro
-- Botón de reinicio
-- Diseñado y desarrollado en Europa - Fabricado en China.
 - 4 flippers y 5 bumpers
+- Alimentación : 3 pilas LR14 / C de 1,5V (no incluidas).
 - 2 soportes para tener el ángulo perfecto para jugar
+- Botón de reinicio
+- Grandes sonidos y efectos de luz como en un juego de pinball real
+- ¡Una increíble mesa de pinball electrónica con un gran diseño de Mario Kart! ¡Juega solo o desafía a tus amigos!
+- Puntuación digital: verifica el resultado más alto en la pantalla LCD
+- Diseñado y desarrollado en Europa - Fabricado en China.
+- 1 bola adentro
+- Garantía : 2 años.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B087V78XMB/?tag=tolees-21)
