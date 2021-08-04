@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - Nioh HITS con un 24.39 % de descuento'
-date: 2021-08-03 13:01:59
+date: 2021-08-04 17:14:13
 image: 'https://m.media-amazon.com/images/I/51Kv75kvCgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B07TJVXG3M/?tag=tolees-21'
 descuento: '24.39'
-average: '12.3961764705882'
+average: '12.2988571428571'
 ---
 
 En este momento está [Playstation - Nioh HITS](https://www.amazon.es/dp/B07TJVXG3M/?tag=tolees-21) a 8.99 EUR (original: 11.89 EUR) (24.39 %  de descuento) en el siguiente enlace!
