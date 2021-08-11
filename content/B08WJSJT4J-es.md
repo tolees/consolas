@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft Xbox Wireless Headset WRLS al 41.18 % de rebaja'
-date: 2021-08-03 20:41:33
+date: 2021-08-11 07:35:39
 image: 'https://m.media-amazon.com/images/I/31I-IGRRlTS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.es/dp/B08WJSJT4J/?tag=tolees-21'
 descuento: '41.18'
-average: '101.259178082192'
+average: '101.242027027027'
 ---
 
 Tienes [Microsoft Xbox Wireless Headset WRLS](https://www.amazon.es/dp/B08WJSJT4J/?tag=tolees-21) con precio final de  99.99 EUR (original: 169.99 EUR) (41.18 %  de rebaja) aqui!
