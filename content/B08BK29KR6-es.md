@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Power A - Mando Inalámbrico Mejorado Nan al 36.01 % de descuento'
-date: 2021-08-18 21:08:53
+date: 2021-08-20 06:55:46
 image: 'https://m.media-amazon.com/images/I/41jDUkWVoML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [Power A - Mando Inalámbrico Mejorado Nano PowerA para Nintendo Switch. N
 
 ℹ️:
 
-- No necesita pilas
 - Con licencia oficial de Nintendo y garantía limitada de dos años: visita PowerA.com/Support
-- Cable USB extraíble de 3 metros
-- Con licencia oficial para Nintendo Switch y Nintendo Switch Lite Garantía limitada de dos años. Visita PowerA.com/Support
 - El mando incluye toma de audio de 3,5 mm y botones de juego avanzado asignables
+- No necesita pilas
+- Con licencia oficial para Nintendo Switch y Nintendo Switch Lite Garantía limitada de dos años. Visita PowerA.com/Support
+- Cable USB extraíble de 3 metros
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08BK29KR6/?tag=tolees-21)
