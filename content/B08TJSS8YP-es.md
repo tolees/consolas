@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - Returnal con un 30.00 % de descuento'
-date: 2021-08-18 22:11:56
+date: 2021-08-20 16:40:31
 image: 'https://m.media-amazon.com/images/I/516907i+waL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B08TJSS8YP/?tag=tolees-21'
 descuento: '30.00'
-average: '69.3972'
+average: '68.8815384615385'
 ---
 
 En este momento está [Playstation - Returnal](https://www.amazon.es/dp/B08TJSS8YP/?tag=tolees-21) a 55.99 EUR (original: 79.99 EUR) (30.00 %  de descuento) en el siguiente enlace!
