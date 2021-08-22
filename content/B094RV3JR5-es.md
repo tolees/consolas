@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 16.54 % en Nintendo - Switch Monster Hunter Stories'
-date: 2021-08-19 19:54:38
+date: 2021-08-22 13:11:47
 image: 'https://m.media-amazon.com/images/I/51bhmvtKniS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B094RV3JR5/?tag=tolees-21'
 descuento: '16.54'
-average: '53.4971428571429'
+average: '53.05875'
 ---
 
 Tienes [Nintendo - Switch Monster Hunter Stories 2](https://www.amazon.es/dp/B094RV3JR5/?tag=tolees-21) con un 16.54 % de descuento con precio de oferta de 49.99 EUR (original: 59.9 EUR) en el siguiente enlace!
@@ -28,7 +28,7 @@ Tienes [Nintendo - Switch Monster Hunter Stories 2](https://www.amazon.es/dp/B09
 
 ℹ️:
 
-- Fecha de lanzamiento sujeta a cambios
 - caratula no definitiva
+- Fecha de lanzamiento sujeta a cambios
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B094RV3JR5/?tag=tolees-21)
