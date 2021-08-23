@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WD BLACK - WD BLACK P50 Game Drive de 1  al 45.16 % de rebaja'
-date: 2021-08-22 06:43:56
+date: 2021-08-23 10:46:40
 image: 'https://m.media-amazon.com/images/I/41cjghSL8tL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'WD BLACK'
 buyurl: 'https://www.amazon.es/dp/B07YFGTDV4/?tag=tolees-21'
 descuento: '45.16'
-average: '228.298461538461'
+average: '225.976296296296'
 ---
 
 Tienes [WD BLACK - WD BLACK P50 Game Drive de 1 TB - Velocidades SSD NVMe hasta 2000MB/s - Funciona con PC/Mac y PlayStation](https://www.amazon.es/dp/B07YFGTDV4/?tag=tolees-21) con precio final de  165.6 EUR (original: 301.99 EUR) (45.16 %  de rebaja) aqui!
@@ -31,7 +31,7 @@ Tienes [WD BLACK - WD BLACK P50 Game Drive de 1 TB - Velocidades SSD NVMe hasta
 - Ssd de alto rendimiento con interfaz usb superspeed (20.gb/s) para tu pc o consola
 - Formato resistente a golpes y portátil que te brinda acceso rápido a tu biblioteca de juegos, dondequiera que vayas
 - Diseñada específicamente para jugadores basándonos en la calidad y fiabilidad de wd_black
-- Hasta 2.tb de almacenamiento adicional para que puedas conservar tus juegos favoritos y guardar los nuevos
 - Basada en el rendimiento con velocidades ssd de hasta 2000 mb/s para reducir los tiempos de carga de la pantalla y ponerte a jugar más rápido
+- Hasta 2.tb de almacenamiento adicional para que puedas conservar tus juegos favoritos y guardar los nuevos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07YFGTDV4/?tag=tolees-21)
