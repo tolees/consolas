@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Desconocido NACON Revolution Unlimited P al 33.20 % de descuento'
-date: 2021-08-22 07:15:44
+date: 2021-08-23 09:20:39
 image: 'https://m.media-amazon.com/images/I/51AvVrJ2yML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [Desconocido NACON Revolution Unlimited Pro Controller Oficial PS4 COD](ht
 
 ℹ️:
 
-- País de origen: China
+- Buena calidad
 - 191614
 - Cantidad del paquete: 1
-- Buena calidad
 - Tipo de batería: polímero de litio de 1300 mAh
+- País de origen: China
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08KSS6FBX/?tag=tolees-21)
