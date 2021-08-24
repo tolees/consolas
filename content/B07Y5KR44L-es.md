@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch Media - Retro - Bit SEGA Saturn USB al 42.51 % de rebaja'
-date: 2021-08-22 19:25:23
+date: 2021-08-24 06:43:54
 image: 'https://m.media-amazon.com/images/I/41-od6N-ZtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Koch Media'
 buyurl: 'https://www.amazon.es/dp/B07Y5KR44L/?tag=tolees-21'
 descuento: '42.51'
-average: '30.22'
+average: '29.1871428571429'
 ---
 
 Tienes [Koch Media - Retro - Bit SEGA Saturn USB Pad Gris](https://www.amazon.es/dp/B07Y5KR44L/?tag=tolees-21) con precio final de  22.99 EUR (original: 39.99 EUR) (42.51 %  de rebaja) aqui!
@@ -28,10 +28,10 @@ Tienes [Koch Media - Retro - Bit SEGA Saturn USB Pad Gris](https://www.amazon.es
 
 🔎:
 
-- Batería recargable de 550 mAh
-- Función de vibración en los juegos compatibles
-- Compatible con Steam, PC/Mac, Android y Switch
 - Alcance de 10 metros
+- Batería recargable de 550 mAh
+- Compatible con Steam, PC/Mac, Android y Switch
 - Mando SEGA con licencia oficial y tecnología inalámbrica Bluetooth
+- Función de vibración en los juegos compatibles
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07Y5KR44L/?tag=tolees-21)
