@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HyperX SoloCast – Micrófono de Condensad con un 25.34 % de descuento'
-date: 2021-08-25 11:07:58
+date: 2021-08-27 08:40:52
 image: 'https://m.media-amazon.com/images/I/31rL4i0uUML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ En este momento está [HyperX SoloCast – Micrófono de Condensador USB para Ju
 
 🔎:
 
-- Soporte flexible y ajustable
 - Cableado de brazo de micrófono y soporte de micrófono
+- Soporte flexible y ajustable
 - Compatibilidad con múltiples dispositivos y programas
 - Sensor de silenciamiento con un toque con indicador de estado led
 - Grabación de audio plug n play
