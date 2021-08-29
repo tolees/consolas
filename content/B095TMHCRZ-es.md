@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 51.07 % en Electronic Arts - Star Wars Jedi Fallen '
-date: 2021-08-26 19:15:19
+date: 2021-08-29 20:20:31
 image: 'https://m.media-amazon.com/images/I/51Fb1wvH9nS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.es/dp/B095TMHCRZ/?tag=tolees-21'
 descuento: '51.07'
-average: '26.938'
+average: '26.6066666666667'
 ---
 
 Tienes [Electronic Arts - Star Wars Jedi Fallen Order PS5](https://www.amazon.es/dp/B095TMHCRZ/?tag=tolees-21) con un 51.07 % de descuento con precio de oferta de 24.95 EUR (original: 50.99 EUR) en el siguiente enlace!
