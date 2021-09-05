@@ -28,9 +28,9 @@ Ahora mismo tienes [Gioteck - Controller Power Skin  Batería Incorporada  Color
 
 🔎:
 
+- Bateria integrada para añadir mas hora de juego al mando
+- Compatible con mandos Dualshock 4
 - Carcasa de proteccion para el mando
 - Color negro
-- Compatible con mandos Dualshock 4
-- Bateria integrada para añadir mas hora de juego al mando
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0127JVXYI/?tag=tolees-21)
