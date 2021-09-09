@@ -1,32 +1,35 @@
 ---
 layout: post
-title: 'FR·TEC -  Funda Silicona + Grip Para Joy al 26.25 % de descuento'
-date: 2020-08-22 17:10:43
-image: 'https://m.media-amazon.com/images/I/41wy+6XE+AL._SL400_.jpg'
+title: 'Blade Representaciones - FR·TEC - Funda  al 38.48 % de descuento'
+date: 2021-09-09 12:11:48
+image: 'https://m.media-amazon.com/images/I/41wy+6XE+AL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B072KDWXS7-es FR·TEC - Funda Silicona + Grip Para Joy- Con Amarillo...'
+slug: 'B072KDWXS7-es Blade Representaciones - FR·TEC - Funda Silicona + Grip...'
 sku: 'B072KDWXS7-es'
-tags: [ 'nintendo', ]
-actualPrice: 3.68 EUR
+tags: [ 'Videojuegos','blade representaciones','nintendo', ]
+actualPrice: 3.07 EUR
 currency: EUR
-price: 3.68
+price: 3.07
 comparePrice: 4.99 EUR
-prodname: 'FR·TEC -  Funda Silicona + Grip Para Joy- Con Amarillo Izquierdo - Nintendo Switch'
+prodname: 'Blade Representaciones - FR·TEC - Funda Silicona + Grip Para Joy- Con Amarillo Izquierdo - Nintendo Switch'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Blade Representaciones'
 buyurl: 'https://www.amazon.es/dp/B072KDWXS7/?tag=tolees-21'
-descuento: '26.25'
-average: '3.68'
+descuento: '38.48'
+average: '3.47666666666667'
 ---
 
-Ahora mismo tienes [FR·TEC -  Funda Silicona + Grip Para Joy- Con Amarillo Izquierdo - Nintendo Switch](https://www.amazon.es/dp/B072KDWXS7/?tag=tolees-21) a 3.68 EUR (original: 4.99 EUR) (26.25 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Blade Representaciones - FR·TEC - Funda Silicona + Grip Para Joy- Con Amarillo Izquierdo - Nintendo Switch](https://www.amazon.es/dp/B072KDWXS7/?tag=tolees-21) a 3.07 EUR (original: 4.99 EUR) (38.48 %  de descuento) en el siguiente enlace!
 
-[![FR·TEC -  Funda Silicona + Grip Para Joy](https://m.media-amazon.com/images/I/41wy+6XE+AL._SL400_.jpg)](https://www.amazon.es/dp/B072KDWXS7/?tag=tolees-21)
+[![Blade Representaciones - FR·TEC - Funda ](https://m.media-amazon.com/images/I/41wy+6XE+AL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B072KDWXS7/?tag=tolees-21)
 
 🔎:
 
+- Silicona de gran calidad para personalizar y proteger tu Joy-Con
+- Para utilizar con el Joy-Con Izquierdo
+- Personaliza tus Joy-Con y combina los diferentes colores
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B072KDWXS7/?tag=tolees-21)
