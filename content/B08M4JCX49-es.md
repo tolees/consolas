@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - Sackboy A Big Adventure al 42.51 % de rebaja'
-date: 2021-09-07 08:48:05
+date: 2021-09-11 07:56:19
 image: 'https://m.media-amazon.com/images/I/61Oj1k+qmvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B08M4JCX49/?tag=tolees-21'
 descuento: '42.51'
-average: '49.5991666666667'
+average: '48.8792307692308'
 ---
 
 Tienes [Playstation - Sackboy A Big Adventure](https://www.amazon.es/dp/B08M4JCX49/?tag=tolees-21) con precio final de  40.24 EUR (original: 69.99 EUR) (42.51 %  de rebaja) aqui!
