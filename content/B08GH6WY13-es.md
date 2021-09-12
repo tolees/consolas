@@ -28,10 +28,10 @@ En este momento está [Power A - Mando Inalámbrico Mejorado Para Nintendo Switc
 
 🔎:
 
-- Con licencia oficial para Nintendo Switch y Nintendo Switch Lite
-- Incluye cable de carga USB-C de 3 m
 - Mando para videojuegos inalámbrico con una batería interna recargable: hasta 30 horas por carga
-- Luces led para indicar la asignación de botones, el número del jugador y el nivel bajo de batería
 - Mando inalámbrico con tecnología Bluetooth 5.0
+- Incluye cable de carga USB-C de 3 m
+- Con licencia oficial para Nintendo Switch y Nintendo Switch Lite
+- Luces led para indicar la asignación de botones, el número del jugador y el nivel bajo de batería
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08GH6WY13/?tag=tolees-21)
