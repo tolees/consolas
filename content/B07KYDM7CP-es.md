@@ -28,10 +28,10 @@ Ahora mismo tienes [Tronsmart Glary Auriculares Gaming para PS4  Cascos Gaming S
 
 🔎:
 
+- 【Driver Audio de 50 mm】 Driver audio de 50 mm con imanes de neodimio, con un rango de frecuencia extendido de 20Hz-20,000Hz.
 - 【Marco de Aluminio Duradero Cómodo y Ligero】:Los auriculares gaming combinan elegantes elementos de metal mate, claro y distorsión mínima. La zona interna de la diadema está acolchada, para evitar la presión en las orejas, garantizan horas de comodidad.
 - 【7.1 Sonido Surround 】: Sonido Surround inmersivo 7.1. Disfruta de sonido expansivo y una experiencia de gaming más inmersiva, puede sentir toda la fuerza de una explosión, una explosión de granadas etc.
-- 【Cancelación de Ruido de Micrófono】: El micrófono en un solo sentido y flexible capta el sonido con gran sensibilidad, lo que le permite entregar claramente mientras está en un juego.
-- 【Driver Audio de 50 mm】 Driver audio de 50 mm con imanes de neodimio, con un rango de frecuencia extendido de 20Hz-20,000Hz.
 - 【Compatibilidad universal】 Auriculares Gaming-Plug & play, no requiere controlador. Auriculares compatibles para PS4/Nintendo Switch/Mac/PC/computadora portátil, tableta y otros periféricos compatibles con el puerto USB.
+- 【Cancelación de Ruido de Micrófono】: El micrófono en un solo sentido y flexible capta el sonido con gran sensibilidad, lo que le permite entregar claramente mientras está en un juego.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KYDM7CP/?tag=tolees-21)
