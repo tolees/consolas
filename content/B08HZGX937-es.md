@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubisoft Spain - Immortals Fenyx Rising P al 16.72 % de descuento'
-date: 2021-09-13 06:49:12
+date: 2021-09-20 14:23:53
 image: 'https://m.media-amazon.com/images/I/511PC2-M58L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ubisoft Spain'
 buyurl: 'https://www.amazon.es/dp/B08HZGX937/?tag=tolees-21'
 descuento: '16.72'
-average: '31.4326666666667'
+average: '31.024375'
 ---
 
 Ahora mismo tienes [Ubisoft Spain - Immortals Fenyx Rising PS5](https://www.amazon.es/dp/B08HZGX937/?tag=tolees-21) a 24.9 EUR (original: 29.9 EUR) (16.72 %  de descuento) en el siguiente enlace!
