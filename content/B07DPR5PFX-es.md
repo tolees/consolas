@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 25.00 % en Super Mario Party  Nintendo Switch '
-date: 2021-09-05 21:13:20
+title: 'Descuento del 19.32 % en Super Mario Party  Nintendo Switch '
+date: 2021-09-22 17:41:00
 image: 'https://m.media-amazon.com/images/I/51MXaDyi2dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07DPR5PFX-es Super Mario Party Nintendo Switch'
 sku: 'B07DPR5PFX-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','nintendo', ]
-actualPrice: 44.99 EUR
+actualPrice: 48.4 EUR
 currency: EUR
-price: 44.99
+price: 48.4
 comparePrice: 59.99 EUR
 prodname: 'Super Mario Party  Nintendo Switch '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B07DPR5PFX/?tag=tolees-21'
-descuento: '25.00'
-average: '47.6229554655871'
+descuento: '19.32'
+average: '47.6260887096775'
 ---
 
-Tienes [Super Mario Party  Nintendo Switch ](https://www.amazon.es/dp/B07DPR5PFX/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 44.99 EUR (original: 59.99 EUR) en el siguiente enlace!
+Tienes [Super Mario Party  Nintendo Switch ](https://www.amazon.es/dp/B07DPR5PFX/?tag=tolees-21) con un 19.32 % de descuento con precio de oferta de 48.4 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![Super Mario Party  Nintendo Switch ](https://m.media-amazon.com/images/I/51MXaDyi2dL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B07DPR5PFX/?tag=tolees-21)
 
