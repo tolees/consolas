@@ -29,8 +29,8 @@ Está [Seagate Technology - Seagate Expansion Card para Xbox Series X|S  1 TB  U
 ℹ️:
 
 - Disfrute de la tranquilidad a largo plazo que ofrece la garantía limitada de 3 años incluida
-- ALTA CAPACIDAD: 1 TB de almacenamiento que permite aumentar la capacidad general de Xbox Series X y Xbox Series S. Gracias a ella, puede recopilar miles de juegos en cuatro generaciones de Xbox sin que el rendimiento se vea perjudicado
 - REANUDACIÓN RÁPIDA: Cambie entre varios títulos en cuestión de segundos desde la unidad SSD interna o la tarjeta de expansión
+- ALTA CAPACIDAD: 1 TB de almacenamiento que permite aumentar la capacidad general de Xbox Series X y Xbox Series S. Gracias a ella, puede recopilar miles de juegos en cuatro generaciones de Xbox sin que el rendimiento se vea perjudicado
 - PARA XBOX: La única tarjeta de expansión de almacenamiento compatible con la arquitectura Xbox Velocity, que proporciona tiempos de carga más rápidos, entornos más enriquecidos y una experiencia de juego más inmersiva
 - JUGABILIDAD SIN PROBLEMAS: Tarjeta diseñada en asociación con Xbox para jugar sin problemas a juegos de Xbox Series X desde la unidad SSD interna o la tarjeta de expansión sin que los gráficos, la latencia, el tiempo de carga o la velocidad de fotogramas se vean afectados
 

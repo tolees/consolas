@@ -28,12 +28,12 @@ Está [Logitech G923 TRUEFORCE Volante de Carreras y Pedales hasta 1000Hz Force 
 
 ℹ️:
 
-- TRUEFORCE HD FORCE FEEDBACK: Vive tu pasión por las carreras; Con TRUEFORCE, conecta con los motores del juego, procesando 4000 veces por segundo para obtener el máximo nivel de detalle y realismo
-- COMPATIBILIDAD TOTAL: Volante y pedales funcionan con la mayoría de juegos de carreras en PC, Xbox y con títulos exclusivos de TRUEFORCE; Compatibles con dispositivos y software Logitech G HUB
-- INDICADOR DE REVOLUCIONES INTEGRADO: Ponte en cabeza con las luces LED de colores que iluminan el RPM; Aprovecha los controles integrados y los frenos progresivos que estabilizan a alta velocidad
-- COMPATIBILIDAD TOTAL: Volante y pedales funcionan con la mayoría de juegos de carreras en PC, Xbox y con títulos exclusivos de TRUEFORCE; Compatibles con dispositivos y software Logitech G HUB
-- DISEÑO DE CARRERAS CLÁSICO: Los detalles de primera calidad, como los pedales pulidos y la cubierta de cuero negra para el volante, mejoran el realismo y la comodidad del volante, con estilo clásico
 - CONTROLES EN EL VOLANTE: La sensibilidad del volante, los niveles de retroalimentación de fuerza y la dirección; Todo el poder en tus manos, con funciones integradas para Xbox y PC
 - CONTROL DE EMBRAGUE DOBLE PROGRAMABLE: Simula el momento de salida en las carreras desde el mando, en los juegos compatibles; Sal más rápido disfrutando de la máxima tracción y el mínimo humo
+- COMPATIBILIDAD TOTAL: Volante y pedales funcionan con la mayoría de juegos de carreras en PC, Xbox y con títulos exclusivos de TRUEFORCE; Compatibles con dispositivos y software Logitech G HUB
+- COMPATIBILIDAD TOTAL: Volante y pedales funcionan con la mayoría de juegos de carreras en PC, Xbox y con títulos exclusivos de TRUEFORCE; Compatibles con dispositivos y software Logitech G HUB
+- TRUEFORCE HD FORCE FEEDBACK: Vive tu pasión por las carreras; Con TRUEFORCE, conecta con los motores del juego, procesando 4000 veces por segundo para obtener el máximo nivel de detalle y realismo
+- INDICADOR DE REVOLUCIONES INTEGRADO: Ponte en cabeza con las luces LED de colores que iluminan el RPM; Aprovecha los controles integrados y los frenos progresivos que estabilizan a alta velocidad
+- DISEÑO DE CARRERAS CLÁSICO: Los detalles de primera calidad, como los pedales pulidos y la cubierta de cuero negra para el volante, mejoran el realismo y la comodidad del volante, con estilo clásico
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07W4DG81W/?tag=tolees-21)
