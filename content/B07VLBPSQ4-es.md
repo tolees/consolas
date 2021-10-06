@@ -28,10 +28,10 @@ Tienes [Power A - PowerA - Mando inalámbrico mejorado Pokémon Ultra Ball  Nint
 
 🔎:
 
-- Con licencia oficial de Nintendo y The Pokémon Company International
 - Mando ergonómico con disposición de botones estándar
-- Incluye mandos de movimiento y botones de juego avanzado asignables
-- Libertad inalámbrica con Bluetooth 5.0
 - Luces led para indicar la asignación de botones, el número del jugador y el nivel bajo de batería
+- Con licencia oficial de Nintendo y The Pokémon Company International
+- Libertad inalámbrica con Bluetooth 5.0
+- Incluye mandos de movimiento y botones de juego avanzado asignables
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07VLBPSQ4/?tag=tolees-21)
