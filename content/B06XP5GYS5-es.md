@@ -28,9 +28,9 @@ Tienes [World of Nintendo Super Mario Splatoon Splatter-Pistola de Tinta  Jakks 
 
 ℹ️:
 
-- Incluye dos botes de tinta, bueno para hasta 100 disparos.
 - Cada disparador de salpicaduras puede disparar la tinta a base de agua hasta 30 pies de distancia.
 - A partir de 8 años.
 - Incluye un par de gafas Inkling Características mecanismo de disparo.
+- Incluye dos botes de tinta, bueno para hasta 100 disparos.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B06XP5GYS5/?tag=tolees-21)
