@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ROCKSTAR GAMES - Red Dead Redemption 2   al 26.01 % de rebaja'
-date: 2021-10-11 18:06:24
+date: 2021-10-12 21:24:38
 image: 'https://m.media-amazon.com/images/I/51I6WYjdQPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ROCKSTAR GAMES'
 buyurl: 'https://www.amazon.es/dp/B01M9COSMD/?tag=tolees-21'
 descuento: '26.01'
-average: '25.8228260869567'
+average: '25.7598924731185'
 ---
 
 Tienes [ROCKSTAR GAMES - Red Dead Redemption 2  PS4 ](https://www.amazon.es/dp/B01M9COSMD/?tag=tolees-21) con precio final de  19.97 EUR (original: 26.99 EUR) (26.01 %  de rebaja) aqui!
@@ -28,8 +28,8 @@ Tienes [ROCKSTAR GAMES - Red Dead Redemption 2  PS4 ](https://www.amazon.es/dp/B
 
 🔎:
 
-- Descubre algunas de las ciudades que conforman el vasto y variado mundo del juego
 - Diversos hábitats y climas con unas doscientas especies de animales terrestres, aves y peces
 - Una banda de forajidos, renegados y parias unidos bajo el liderazgo del carismático e idealista Dutch van der Linde
+- Descubre algunas de las ciudades que conforman el vasto y variado mundo del juego
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01M9COSMD/?tag=tolees-21)
