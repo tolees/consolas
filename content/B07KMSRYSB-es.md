@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hori - Tactical Assault Commander Four T al 50.03 % de descuento'
-date: 2021-10-12 11:52:53
+date: 2021-10-15 15:28:30
 image: 'https://m.media-amazon.com/images/I/41CSnht2VmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hori'
 buyurl: 'https://www.amazon.es/dp/B07KMSRYSB/?tag=tolees-21'
 descuento: '50.03'
-average: '92.8057142857143'
+average: '87.45125'
 ---
 
 Ahora mismo tienes [Hori - Tactical Assault Commander Four Type K2  PS4  PS3  PC ](https://www.amazon.es/dp/B07KMSRYSB/?tag=tolees-21) a 49.97 EUR (original: 99.99 EUR) (50.03 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [Hori - Tactical Assault Commander Four Type K2  PS4  PS3  PC
 
 🔎:
 
-- Ratón óptico de 3.200 dpi con botones mecánicos programables
-- Licencia oficial de Sony
+- Toma de auriculares
 - Teclado totalmente programable con retroiluminación LED
 - Compatible con PS4/PS3/PC
-- Toma de auriculares
+- Ratón óptico de 3.200 dpi con botones mecánicos programables
+- Licencia oficial de Sony
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KMSRYSB/?tag=tolees-21)
