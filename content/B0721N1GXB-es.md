@@ -1,32 +1,36 @@
 ---
 layout: post
-title: 'Shadow Of The Colossus  PS4  al 22.17 % de descuento'
-date: 2020-03-20 16:10:28
-image: 'https://m.media-amazon.com/images/I/51a40-ebHiL._SL400_.jpg'
+title: 'Playstation - Shadow Of The Colossus  PS al 30.89 % de descuento'
+date: 2021-10-17 13:56:44
+image: 'https://m.media-amazon.com/images/I/51a40-ebHiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0721N1GXB-es Shadow Of The Colossus PS4'
+slug: 'B0721N1GXB-es Playstation - Shadow Of The Colossus PS4'
 sku: 'B0721N1GXB-es'
-tags: [ 'ps4', ]
-actualPrice: 14.78 EUR
+tags: [ 'Electrónica','Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Videojuegos','playstation','ps4', ]
+actualPrice: 17.9 EUR
 currency: EUR
-price: 14.78
-comparePrice: 18.99 EUR
-prodname: 'Shadow Of The Colossus  PS4 '
+price: 17.9
+comparePrice: 25.9 EUR
+prodname: 'Playstation - Shadow Of The Colossus  PS4 '
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B0721N1GXB/?tag=tolees-21'
-descuento: '22.17'
-average: '19.456666666666667'
+descuento: '30.89'
+average: '19.0675'
 ---
 
-Está [Shadow Of The Colossus  PS4 ](https://www.amazon.es/dp/B0721N1GXB/?tag=tolees-21) con 22.17 de descuento por 14.78 EUR (original: 18.99 EUR) en el siguiente enlace!
+Está [Playstation - Shadow Of The Colossus  PS4 ](https://www.amazon.es/dp/B0721N1GXB/?tag=tolees-21) con 30.89 de descuento por 17.9 EUR (original: 25.9 EUR) en el siguiente enlace!
 
-[![Shadow Of The Colossus  PS4 ](https://m.media-amazon.com/images/I/51a40-ebHiL._SL400_.jpg)](https://www.amazon.es/dp/B0721N1GXB/?tag=tolees-21)
+[![Playstation - Shadow Of The Colossus  PS](https://m.media-amazon.com/images/I/51a40-ebHiL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B0721N1GXB/?tag=tolees-21)
 
 ℹ️:
 
+- Aunque cada gigante tiene una debilidad específica, encontrarla y explotarla no será nada sencillo. Te espera una mezcla emocionante de exploración, plataformas, acertijos y acción
+- Adéntrate en paisajes expansivos encima de tu fiel corcel y busca cada coloso
+- Tu tarea es derribar 16 bestias gigantescas armado sólo con tu ingenio, una espada mágica y un arco
+- Embárcate en una misión para devolver la vida a una chica
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0721N1GXB/?tag=tolees-21)
