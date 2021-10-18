@@ -28,10 +28,10 @@ Ahora mismo tienes [HORI - Mando Fighting Commander OCTA  Xbox Series X ](https:
 
 🔎:
 
-- Licencia oficial de Microsoft
-- Toma de auriculares y controles de audio integrados
-- Stick analógico de corto recorrido con restrictor octagonal y botones mecánicos Micro Switch
-- Compatible con Xbox Series X|S/Xbox One/PC
 - Diseñado específicamente para juegos de lucha en 2D
+- Licencia oficial de Microsoft
+- Stick analógico de corto recorrido con restrictor octagonal y botones mecánicos Micro Switch
+- Toma de auriculares y controles de audio integrados
+- Compatible con Xbox Series X|S/Xbox One/PC
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08NDT2CGS/?tag=tolees-21)

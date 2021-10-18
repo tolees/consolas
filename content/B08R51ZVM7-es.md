@@ -28,11 +28,11 @@ Ahora mismo tienes [Bethesda - Deathloop – Deluxe Edition  Playstation 5 - Edi
 
 🔎:
 
+- DLC Tribunal Abajo los Ricos
 - DLC Diseño Colt en tu fiesta me colé
 - Dos Ingenios, mejoras para equipar; dLC Trencher de Transtar
-- Incluye una lámina metálica exclusiva
-- DLC Tribunal Abajo los Ricos
-- DLC Diseño Juliana Tiradora Certera; dLC Four Pounder 44 Quilates
 - Juego Deathloop; selecciones de la Banda Sonora Original. Se requiere un dispositivo de almacenamiento USB para acceder y reproducir la banda sonora.
+- Incluye una lámina metálica exclusiva
+- DLC Diseño Juliana Tiradora Certera; dLC Four Pounder 44 Quilates
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08R51ZVM7/?tag=tolees-21)

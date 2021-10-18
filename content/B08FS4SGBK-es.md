@@ -28,8 +28,8 @@ Tienes [Koch Media - YS Origins - PS4](https://www.amazon.es/dp/B08FS4SGBK/?tag=
 
 🔎:
 
+- Captivating story, stirring soundtrack, and epic boss battles
 - explore the Devils Tower and find artifacts and powerful relics
 - 3 playable characters, each with unique skillsets and powers
-- Captivating story, stirring soundtrack, and epic boss battles
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08FS4SGBK/?tag=tolees-21)
