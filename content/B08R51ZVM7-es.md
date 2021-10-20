@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bethesda - Deathloop – Deluxe Edition  P al 33.34 % de descuento'
-date: 2021-10-18 11:21:45
+date: 2021-10-20 11:19:27
 image: 'https://m.media-amazon.com/images/I/51OX0ke+wnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bethesda'
 buyurl: 'https://www.amazon.es/dp/B08R51ZVM7/?tag=tolees-21'
 descuento: '33.34'
-average: '83.9130769230768'
+average: '83.0270370370369'
 ---
 
 Ahora mismo tienes [Bethesda - Deathloop – Deluxe Edition  Playstation 5 - Edición Exclusiva Amazon](https://www.amazon.es/dp/B08R51ZVM7/?tag=tolees-21) a 59.99 EUR (original: 89.99 EUR) (33.34 %  de descuento) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [Bethesda - Deathloop – Deluxe Edition  Playstation 5 - Edi
 
 🔎:
 
-- DLC Tribunal Abajo los Ricos
 - DLC Diseño Colt en tu fiesta me colé
-- Dos Ingenios, mejoras para equipar; dLC Trencher de Transtar
 - Juego Deathloop; selecciones de la Banda Sonora Original. Se requiere un dispositivo de almacenamiento USB para acceder y reproducir la banda sonora.
-- Incluye una lámina metálica exclusiva
 - DLC Diseño Juliana Tiradora Certera; dLC Four Pounder 44 Quilates
+- DLC Tribunal Abajo los Ricos
+- Incluye una lámina metálica exclusiva
+- Dos Ingenios, mejoras para equipar; dLC Trencher de Transtar
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08R51ZVM7/?tag=tolees-21)
