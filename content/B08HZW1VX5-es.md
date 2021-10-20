@@ -29,9 +29,9 @@ Tienes [FR-TEC - Pro Gaming Controller Switch  Nintendo Switch ](https://www.ama
 ℹ️:
 
 - 3 modelos diferentes de stick analógico derecho
-- Anti-arañazos, antideslizante y resistente al sudor
 - Carga rápida PD, puerto USB-C
 - Doble motor de vibración
+- Anti-arañazos, antideslizante y resistente al sudor
 - Giroscopio de 6 ejes
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08HZW1VX5/?tag=tolees-21)
