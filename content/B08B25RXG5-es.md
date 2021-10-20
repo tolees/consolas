@@ -28,10 +28,10 @@ Tienes [Tripwire Interactive - Chivalry 2 PS4 IT/ESP](https://www.amazon.es/dp/B
 
 ℹ️:
 
-- Desata el infierno: controla el campo con una variedad de motores de asedio pesados ​​que incluyen ballestas, catapultas, arietes, trampas de púas, escaleras y más
-- Entornos medievales épicos: entornos medievales en expansión que van desde terrenos de torneos hasta asedios épicos a gran escala
-- Escala masiva: experimenta el caos de los épicos campos de batalla medievales mientras los jugadores chocan con una intensidad destinada a capturar el alcance a gran escala de "La batalla de los bastardos" de Game of Thrones
 - Cross-play en todas las plataformas: las batallas a gran escala requieren campos de batalla épicos; la inclusión de Cross-Play en todas las versiones rompe los límites entre los jugadores de PC y consola, y permite a los jugadores enfrentarse juntos en el campo de batalla, independientemente de la plataforma
+- Escala masiva: experimenta el caos de los épicos campos de batalla medievales mientras los jugadores chocan con una intensidad destinada a capturar el alcance a gran escala de "La batalla de los bastardos" de Game of Thrones
+- Desata el infierno: controla el campo con una variedad de motores de asedio pesados ​​que incluyen ballestas, catapultas, arietes, trampas de púas, escaleras y más
 - Elije tu estilo de lucha: tu arsenal se expande con el nuevo sistema de subclases que ofrece más variedad que nunca; cuatro clases base se expanden a varias subclases, un arsenal de armas únicas, cada una con múltiples variantes visuales
+- Entornos medievales épicos: entornos medievales en expansión que van desde terrenos de torneos hasta asedios épicos a gran escala
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08B25RXG5/?tag=tolees-21)

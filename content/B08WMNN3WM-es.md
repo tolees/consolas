@@ -28,10 +28,10 @@ En este momento está [Tripwire Interactive - Chivalry 2 D1 PS5 IT/ESP](https://
 
 🔎:
 
-- Cuatro clases base se expanden a varias subclases, un arsenal de armas cada una con múltiples variantes visuales
-- Experimenta el caos de los épicos campos de batalla medievales mientras los jugadores chocan con una intensidad destinada a capturar el alcance a gran escala de La batalla de los bastardos de Game of Thrones
 - La inclusión de Cross-Play en todas las versiones rompe los límites entre los jugadores de PC y consola, y permite a los jugadores enfrentarse juntos en el campo de batalla, independientemente de la plataforma
-- Un sistema de personalización detallado agrega una gran variedad: tipo de cabeza, tono de piel, cabello y colores faciales y de la cabeza, imperfecciones faciales y mucho mas
+- Cuatro clases base se expanden a varias subclases, un arsenal de armas cada una con múltiples variantes visuales
 - Incluye un skin para armas llamado Royal Zweihander
+- Experimenta el caos de los épicos campos de batalla medievales mientras los jugadores chocan con una intensidad destinada a capturar el alcance a gran escala de La batalla de los bastardos de Game of Thrones
+- Un sistema de personalización detallado agrega una gran variedad: tipo de cabeza, tono de piel, cabello y colores faciales y de la cabeza, imperfecciones faciales y mucho mas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08WMNN3WM/?tag=tolees-21)
