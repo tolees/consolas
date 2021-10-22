@@ -28,10 +28,10 @@ Tienes [Kalypso - Spacebase Startopia  Nintendo Switch](https://www.amazon.es/dp
 
 ℹ️:
 
-- Cada una de las tres cubiertas necesitará de tus dotes de mando; la cubierta inferior contiene todas las salas esenciales para la supervivencia, mientras que la cubierta de placer se centra en tus visitantes, al tiempo que la flora y fauna de la cubierta biológica proporciona recursos suficientes para la supervivencia y sirve de hogar para las dríadas
+- VAL, La IA narradora dinámica, reacciona a tus decisiones y siempre te ayuda con algún consejo u otra cosa (y con algún que otro comentario totalmente desafortunado)
 - La campaña para un jugador cuenta con 10 misiones completamente dobladas y exigirá toda tu habilidad como comandante de Spacebase Startopia mientras luchas por crear uno de los destinos turísticos y de comercio más atractivos del universo
 - Triunfa frente a tus rivales, ya que no estarás solo en la estación espacial. Sabotea la economía de tus rivales o atácales con tus unidades mecánicas, comercia y ten cuidado con los piratas espaciales deseosos de abordar tu estación
-- VAL, La IA narradora dinámica, reacciona a tus decisiones y siempre te ayuda con algún consejo u otra cosa (y con algún que otro comentario totalmente desafortunado)
+- Cada una de las tres cubiertas necesitará de tus dotes de mando; la cubierta inferior contiene todas las salas esenciales para la supervivencia, mientras que la cubierta de placer se centra en tus visitantes, al tiempo que la flora y fauna de la cubierta biológica proporciona recursos suficientes para la supervivencia y sirve de hogar para las dríadas
 - Además de la extensa campaña para un jugador, Spacebase Startopia trae un modo sandbox personalizable así como un modo competitivo y otro cooperativo multijugador para hasta cuatro jugadores
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08CS45RCF/?tag=tolees-21)
