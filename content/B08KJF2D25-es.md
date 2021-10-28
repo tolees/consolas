@@ -28,7 +28,7 @@ Tienes [Consola PlayStation 5 Digital](https://www.amazon.es/dp/B08KJF2D25/?tag=
 
 ℹ️:
 
-- Los clientes Amazon Prime tendrán acceso prioritario a la PlayStation 5 hasta el 15 de Octubre de 2021
 - Experimenta cargas ultra rápidas gracias a una unidad de estado sólido (SSD) de alta velocidad, una inmersión más profunda con retroalimentación háptica, gatillos adaptivos y el nuevo audio 3D, además de una nueva generación de increíbles juegos de PlayStation
+- Los clientes Amazon Prime tendrán acceso prioritario a la PlayStation 5 hasta el 15 de Octubre de 2021
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08KJF2D25/?tag=tolees-21)
