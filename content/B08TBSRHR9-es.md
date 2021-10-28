@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '505 Games - Control - Ultimate Edition X al 21.60 % de rebaja'
-date: 2021-10-18 11:28:32
+date: 2021-10-28 06:59:38
 image: 'https://m.media-amazon.com/images/I/41Kzhl6aLjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: '505 Games'
 buyurl: 'https://www.amazon.es/dp/B08TBSRHR9/?tag=tolees-21'
 descuento: '21.60'
-average: '36.3775'
+average: '35.3235714285714'
 ---
 
 Tienes [505 Games - Control - Ultimate Edition Xbox Series X](https://www.amazon.es/dp/B08TBSRHR9/?tag=tolees-21) con precio final de  29.0 EUR (original: 36.99 EUR) (21.60 %  de rebaja) aqui!
