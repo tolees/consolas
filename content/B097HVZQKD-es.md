@@ -28,10 +28,10 @@ Ahora mismo tienes [Seelumen - Proyector 4K  Android 9.0  8.200 Lúmenes  Contra
 
 🔎:
 
-- 🎬 【ANDROID 9.0 + BLUETOOTH + WIFI】: El Seelumen FH900 innova al incluir una versión totalmente en español de Android 9.0 compatible con Netflix, Movistar+, Prime video, además podrá descargar aplicaciones desde Playstore o bien reproducir archivos MKV, AVI, MOV con pista de audio AC3 desde el reproductor MXplayer
+- 🎬 【Resolución máxima 4K y FULLHD nativo】: El proyector para cine en casa Seelumen FH900 incluye HDMI 2.0 compatible con las últimas generaciones de juego: PS5, XBOX series S/X y optimiza la antigua generación PS4, XBOX one, PC ofreciendo un nivel de detalle sin imprecedentes
 - 🎬 【Lámpara intercambiable LED】: Seelumen destaca por ofrecer una lámpara de led de 100.000 horas que además el fabricante ofrece la posibilidad del cambio de lámpara llegado a su fin de vída útil, el coste de la lámpara es inferior a los 60€
 - 🎬 【Optimizado para PS5 / XBOX Series X/S】: El proyector Seelumen FH900 ha sido desarrollado cuidando el mas mínimo detalle desarrollando un producto completo y con todas compatible con Chromecast y FireTV para la reproducción de contenido Netflix, Amazon Prime Video, Youtube, Kodi, IPTV, así como compatibilidad para la última generación de consolas PS5 / XBOX Series X / S
-- 🎬 【Resolución máxima 4K y FULLHD nativo】: El proyector para cine en casa Seelumen FH900 incluye HDMI 2.0 compatible con las últimas generaciones de juego: PS5, XBOX series S/X y optimiza la antigua generación PS4, XBOX one, PC ofreciendo un nivel de detalle sin imprecedentes
+- 🎬 【ANDROID 9.0 + BLUETOOTH + WIFI】: El Seelumen FH900 innova al incluir una versión totalmente en español de Android 9.0 compatible con Netflix, Movistar+, Prime video, además podrá descargar aplicaciones desde Playstore o bien reproducir archivos MKV, AVI, MOV con pista de audio AC3 desde el reproductor MXplayer
 - 🎬 【8.200 lúmenes y ZOOM digital】: Su lámpara CREE LED ofrece un elevado rendimiento lumínico de 750 ANSI y una calidad de color RGB mejorada en 16.7 millones de colores, el proyector además incluye zoom digital que le permitirá ajustar el tamaño de pantalla sin necesidad de acercar el proyector
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B097HVZQKD/?tag=tolees-21)

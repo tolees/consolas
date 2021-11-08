@@ -29,8 +29,8 @@ Está [FR-TEC - FR·TEC - Auriculares Gaming Headset Genbu - PS4  Xbox One  Nint
 ℹ️:
 
 - Cable trenzado anti enredos (1,2m), control en línea: Volumen + Mic-mute
-- Compatible con: PlayStation 4, XBOX One, Nintendo Switch, PC y MAC
-- Diámetro del altavoz: 50mm
 - Micrófono flexible, con espuma para cancelación de ruido
+- Diámetro del altavoz: 50mm
+- Compatible con: PlayStation 4, XBOX One, Nintendo Switch, PC y MAC
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07K6NJSCM/?tag=tolees-21)
