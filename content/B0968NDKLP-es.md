@@ -28,10 +28,10 @@ En este momento está [Razer Kraken X for Console - Gaming Headset  Auriculares 
 
 🔎:
 
-- ALMOHADILLAS OVALADAS Para una comodidad total: El diseño ovalado de piel sintética crea una sensación ajustada, cómoda y suave
 - Tipo de conectividad: Alámbrico
-- DIAFRAGMAS OPTIMIZADOS DE 40 MM Para un sonido potente y claro con unos graves inmersivos: la claridad de sonido superior y los graves profundos y potentes simulan un amplio paisaje sonoro al jugar, desde pasos sutiles hasta potentes explosiones, el audio del juego simula la vida real con todo detalle
-- LIGEROS No sentirás que los llevas puestos: Diseñados para ser superligeros, con un peso de solo 250 g, te permitirán disfrutar de un audio de calidad superior mientras juegas durante horas sin sentir el peso de tus auriculares
 - MICRÓFONO CARDIOIDE FLEXIBLE Para una comunicación cristalina con el equipo: El patrón de captación cardioide graba sonido desde un ángulo más preciso, así garantiza que puedan oírte claramente cuando hables y rechaza ruido de los laterales y la parte posterior del micrófono
+- LIGEROS No sentirás que los llevas puestos: Diseñados para ser superligeros, con un peso de solo 250 g, te permitirán disfrutar de un audio de calidad superior mientras juegas durante horas sin sentir el peso de tus auriculares
+- ALMOHADILLAS OVALADAS Para una comodidad total: El diseño ovalado de piel sintética crea una sensación ajustada, cómoda y suave
+- DIAFRAGMAS OPTIMIZADOS DE 40 MM Para un sonido potente y claro con unos graves inmersivos: la claridad de sonido superior y los graves profundos y potentes simulan un amplio paisaje sonoro al jugar, desde pasos sutiles hasta potentes explosiones, el audio del juego simula la vida real con todo detalle
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0968NDKLP/?tag=tolees-21)
