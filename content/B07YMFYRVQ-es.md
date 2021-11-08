@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HORI - Volante Mario Kart Pro Mini  Nint al 16.67 % de descuento'
-date: 2021-11-03 20:36:47
+date: 2021-11-08 20:51:04
 image: 'https://m.media-amazon.com/images/I/41N2ACwTgvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hori'
 buyurl: 'https://www.amazon.es/dp/B07YMFYRVQ/?tag=tolees-21'
 descuento: '16.67'
-average: '54.5338095238096'
+average: '54.3272727272728'
 ---
 
 Ahora mismo tienes [HORI - Volante Mario Kart Pro Mini  Nintendo Switch/PC ](https://www.amazon.es/dp/B07YMFYRVQ/?tag=tolees-21) a 49.99 EUR (original: 59.99 EUR) (16.67 %  de descuento) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [HORI - Volante Mario Kart Pro Mini  Nintendo Switch/PC ](htt
 
 🔎:
 
-- Levas de cambio secuencial en el volante
-- Incluye pedales analógicos para una experiencia de conducción más realista
-- Licencia oficial de Nintendo
-- Botón "M" funcional: utiliza el objeto equipado en el kart
 - Compatible también con otros juegos de carreras para Nintendo Switch
+- Botón "M" funcional: utiliza el objeto equipado en el kart
+- Licencia oficial de Nintendo
+- Incluye pedales analógicos para una experiencia de conducción más realista
+- Levas de cambio secuencial en el volante
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YMFYRVQ/?tag=tolees-21)

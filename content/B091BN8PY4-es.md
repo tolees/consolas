@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Thrustmaster T248 - Volante de Carreras  al 17.59 % de rebaja'
-date: 2021-11-07 14:22:21
+date: 2021-11-08 20:45:36
 image: 'https://m.media-amazon.com/images/I/51dN5koZrXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Tienes [Thrustmaster T248 - Volante de Carreras y Pedales Magnéticos  PS5  PS4 
 
 🔎:
 
-- Force Feedback dinámico: ajuste de nivel de Force Feedback sobre la marcha (3 modos preestablecidos incluidos) a través de la pantalla, compatible con todos los juegos
 - Con licencia oficial para PlayStation; compatible con PS5, PS4 y PC
-- 4 modos de presión distintos en el pedal central para un frenado optimizado según la configuración y la configuración de gaming (escritorio, cabina, soporte, etc.)
 - Panel de carrera interactivo con una selección de más de 20 visualizaciones diferentes en la pantalla del volante
-- Diseño con revestimiento de cuero en la parte exterior del volante
 - Hasta 25 botones de acción, incluidos 2 codificadores de doble posición
 - Forma de volante versátil, adecuada para todos los estilos de juegos de conducción
+- Diseño con revestimiento de cuero en la parte exterior del volante
+- 4 modos de presión distintos en el pedal central para un frenado optimizado según la configuración y la configuración de gaming (escritorio, cabina, soporte, etc.)
+- Force Feedback dinámico: ajuste de nivel de Force Feedback sobre la marcha (3 modos preestablecidos incluidos) a través de la pantalla, compatible con todos los juegos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B091BN8PY4/?tag=tolees-21)
