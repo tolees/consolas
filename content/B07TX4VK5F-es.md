@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.79 % en BANDAI NAMCO Entertainment Iberica - Fas'
-date: 2021-11-13 22:34:13
+date: 2021-11-15 12:19:48
 image: 'https://m.media-amazon.com/images/I/51jvXejeHjS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Tienes [BANDAI NAMCO Entertainment Iberica - Fast & Furious. Spy Racers El Retor
 
 ℹ️:
 
-- Lucha para llegar a la meta
-- Cooperativo local y multijugador
 - ¡Vuelve SH1FT3R!
+- Cooperativo local y multijugador
+- Lucha para llegar a la meta
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07TX4VK5F/?tag=tolees-21)
