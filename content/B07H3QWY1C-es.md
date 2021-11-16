@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch Media - Retro-Bit Sega - Control Pa al 53.98 % de descuento'
-date: 2021-10-29 20:34:58
+date: 2021-11-16 09:47:09
 image: 'https://m.media-amazon.com/images/I/51LjcKafW7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Koch Media'
 buyurl: 'https://www.amazon.es/dp/B07H3QWY1C/?tag=tolees-21'
 descuento: '53.98'
-average: '15.641875'
+average: '15.1816666666666'
 ---
 
 Está [Koch Media - Retro-Bit Sega - Control Pad Saturn USB Pad  Gris [Sega Saturn]](https://www.amazon.es/dp/B07H3QWY1C/?tag=tolees-21) con 53.98 de descuento por 11.5 EUR (original: 24.99 EUR) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [Koch Media - Retro-Bit Sega - Control Pad Saturn USB Pad  Gris [Sega Satu
 
 ℹ️:
 
-- Diseño como el original
-- Cable de 3 metros
 - Compatible con Sega Mega Drive Mini, PC, Mac y Steam
+- Diseño como el original
 - Mando con licencia oficial Sega
+- Cable de 3 metros
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07H3QWY1C/?tag=tolees-21)
