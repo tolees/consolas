@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bethesda - Deathloop Playstation 5 - Edi con un 41.82 % de descuento'
-date: 2021-11-14 23:36:25
+date: 2021-11-16 05:28:05
 image: 'https://m.media-amazon.com/images/I/51GKI5ZxQUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bethesda'
 buyurl: 'https://www.amazon.es/dp/B08SXKPZPX/?tag=tolees-21'
 descuento: '41.82'
-average: '63.2082352941176'
+average: '62.3994285714285'
 ---
 
 En este momento está [Bethesda - Deathloop Playstation 5 - Edición Exclusiva Amazon](https://www.amazon.es/dp/B08SXKPZPX/?tag=tolees-21) a 34.9 EUR (original: 59.99 EUR) (41.82 %  de descuento) en el siguiente enlace!
