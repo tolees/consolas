@@ -28,10 +28,10 @@ En este momento está [HyperX SoloCast – Micrófono de Condensador USB para Ju
 
 🔎:
 
-- Soporte flexible y ajustable
 - Sensor de silenciamiento con un toque con indicador de estado led
 - Cableado de brazo de micrófono y soporte de micrófono
 - Compatibilidad con múltiples dispositivos y programas
+- Soporte flexible y ajustable
 - Grabación de audio plug n play
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08KFL3SFV/?tag=tolees-21)

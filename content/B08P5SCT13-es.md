@@ -29,9 +29,9 @@ En este momento está [- Ardistel - BLACKFIRE BFX 30 GAMING HEADSET PS5  PlaySta
 🔎:
 
 - Banda de sujeción y auriculares acolchados en símil piel.
+- Compatible con las consolas PS5.
 - Micrófono ajustable. Control del volumen en línea (juego y chat de voz), incluye botón ON/OFF para el micrófono. Cable con conector de 3.5mm y 1.10m de longitud.
 - Consola, mandos, juegos y accesorios adicionales no incluidos.
 - Construcción sólida y diseño ergonómico especialmente concebido para largas sesiones de juego.
-- Compatible con las consolas PS5.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08P5SCT13/?tag=tolees-21)
