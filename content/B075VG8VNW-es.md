@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Exquisite Games - Big Box Call Of Duty W con un 40.31 % de descuento'
+title: 'Exquisite Games - Big Box Call Of Duty WWII  PS4 '
 date: 2020-01-04 10:41:03
 image: 'https://images-eu.ssl-images-amazon.com/images/I/516H5gEdGYL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '40.31'
 average: '17.23333333333333'
 ---
 
-En este momento está [Exquisite Games - Big Box Call Of Duty WWII  PS4 ](https://www.amazon.es/dp/B075VG8VNW/?tag=tolees-21) a 17.9 EUR (original: 29.99 EUR) (40.31 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Exquisite Games - Big Box Call Of Duty W](https://images-eu.ssl-images-amazon.com/images/I/516H5gEdGYL._SL400_.jpg)](https://www.amazon.es/dp/B075VG8VNW/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B075VG8VNW/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

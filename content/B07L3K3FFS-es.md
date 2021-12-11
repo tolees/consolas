@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TEYADI 2.5" Ultra Slim Disco Duro Extern con un 28.94 % de descuento'
+title: 'TEYADI 2.5" Ultra Slim Disco Duro Externo Portátil 9mm  USB3.0 SATA HDD Almacenamiento para PC  Mac  MacBook  Chromebook  Xbox  PS4  Negro   500GB '
 date: 2020-01-01 08:05:29
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31x35QcEWwL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '28.94'
 average: '39.29'
 ---
 
-En este momento está [TEYADI 2.5" Ultra Slim Disco Duro Externo Portátil 9mm  USB3.0 SATA HDD Almacenamiento para PC  Mac  MacBook  Chromebook  Xbox  PS4  Negro   500GB ](https://www.amazon.es/dp/B07L3K3FFS/?tag=tolees-21) a 38.79 EUR (original: 54.59 EUR) (28.94 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![TEYADI 2.5" Ultra Slim Disco Duro Extern](https://images-eu.ssl-images-amazon.com/images/I/31x35QcEWwL._SL400_.jpg)](https://www.amazon.es/dp/B07L3K3FFS/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B07L3K3FFS/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

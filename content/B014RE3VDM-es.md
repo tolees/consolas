@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nintendo - Remote Plus - Edición TOAD  N con un 16.77 % de descuento'
+title: 'Nintendo - Remote Plus - Edición TOAD  Nintendo Wii U '
 date: 2020-01-03 17:07:49
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41v2kHRInmL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '16.77'
 average: '40.965'
 ---
 
-En este momento está [Nintendo - Remote Plus - Edición TOAD  Nintendo Wii U ](https://www.amazon.es/dp/B014RE3VDM/?tag=tolees-21) a 42.44 EUR (original: 50.99 EUR) (16.77 %  de descuento) en el siguiente enlace!
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Nintendo - Remote Plus - Edición TOAD  N](https://images-eu.ssl-images-amazon.com/images/I/41v2kHRInmL._SL400_.jpg)](https://www.amazon.es/dp/B014RE3VDM/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Aquí!!!](https://www.amazon.es/dp/B014RE3VDM/?tag=tolees-21)
+[🛒 Aquí!!!]({{< param buyurl >}})

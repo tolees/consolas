@@ -44,8 +44,13 @@
                           <h4><a href="{{ .Permalink }}">{{ .Params.prodname | truncate 50 }}</a></h4>
                           <div class="box-masonry-description">
                             <p>   {{ if .Params.flag }}{{ .Params.flag }}{{ end }}     <small class="text-muted">
+                              <!-- Calculate the age in days and months -->
+                              {{ $ageDays := div (sub now.Unix .Date.Unix) 86400 }}
+                              <!-- Published less than 1 day ago -->
+                              {{  if lt $ageDays 1 }}
                               <span style="text-decoration: line-through">{{ .Params.comparePrice }}</span></small> {{ if eq ($.Scratch.Get "isMinimumVariantPrice") "true" }} From {{ end }} <b> {{ $.Scratch.Get "minimumPrice" }} </b>({{ .Params.descuento }}% ⬇)
                               <br>
+                              {{ end }}
                               {{ if .Title }}
                               {{ .Title }}
 

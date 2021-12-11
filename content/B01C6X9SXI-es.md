@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hori - Kit de protección  Nintendo Switc al 17.34 % de rebaja'
+title: 'Hori - Kit de protección  Nintendo Switch Lite '
 date: 2020-01-10 09:52:34
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41q3SC0ybIL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '17.34'
 average: '13.690000000000001'
 ---
 
-Tienes [Hori - Kit de protección  Nintendo Switch Lite ](https://www.amazon.es/dp/B01C6X9SXI/?tag=tolees-21) con precio final de  12.39 EUR (original: 14.99 EUR) (17.34 %  de rebaja) aqui!
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
-[![Hori - Kit de protección  Nintendo Switc](https://images-eu.ssl-images-amazon.com/images/I/41q3SC0ybIL._SL400_.jpg)](https://www.amazon.es/dp/B01C6X9SXI/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 🔎:
 
 
-[🛒 Comprar!!!](https://www.amazon.es/dp/B01C6X9SXI/?tag=tolees-21)
+[🛒 Comprar!!!]({{< param buyurl >}})

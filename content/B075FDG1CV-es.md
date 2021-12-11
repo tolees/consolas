@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cargador De Coche Mario POW  Nintendo Sw al 38.08 % de descuento'
+title: 'Cargador De Coche Mario POW  Nintendo Switch '
 date: 2020-01-10 12:29:40
 image: 'https://images-eu.ssl-images-amazon.com/images/I/31KB4qij2LL._SL400_.jpg'
 comments: true
@@ -22,11 +22,11 @@ descuento: '38.08'
 average: '11.14'
 ---
 
-Está [Cargador De Coche Mario POW  Nintendo Switch ](https://www.amazon.es/dp/B075FDG1CV/?tag=tolees-21) con 38.08 de descuento por 11.14 EUR (original: 17.99 EUR) en el siguiente enlace!
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
-[![Cargador De Coche Mario POW  Nintendo Sw](https://images-eu.ssl-images-amazon.com/images/I/31KB4qij2LL._SL400_.jpg)](https://www.amazon.es/dp/B075FDG1CV/?tag=tolees-21)
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
 
 ℹ️:
 
 
-[🛒 Ver la oferta!!](https://www.amazon.es/dp/B075FDG1CV/?tag=tolees-21)
+[🛒 Ver la oferta!!]({{< param buyurl >}})
