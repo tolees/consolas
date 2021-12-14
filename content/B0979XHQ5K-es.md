@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Avance - Astria Ascending - Playstation 5'
-date: 2021-12-13 11:11:16
+date: 2021-12-14 17:26:50
 image: 'https://m.media-amazon.com/images/I/61p7aQTi61L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0979XHQ5K-es Avance - Astria Ascending - Playstation 5'
 sku: 'B0979XHQ5K-es'
 tags: [ 'Hardware y juegos para PlayStation 5','Juegos para PlayStation 5','Videojuegos','avance','playstation', ]
-actualPrice: 28.92 EUR
+actualPrice: 28.52 EUR
 currency: EUR
-price: 28.92
+price: 28.52
 comparePrice: 42.99 EUR
 prodname: 'Avance - Astria Ascending - Playstation 5'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Avance'
 buyurl: 'https://www.amazon.es/dp/B0979XHQ5K/?tag=tolees-21'
-descuento: '32.73'
-average: '36.183'
+descuento: '33.66'
+average: '35.4863636363636'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conoce a personajes inolvidables: elige entre ocho personajes personalizables de varias razas fantásticas y con distintas habilidades y reúne un equipo de héroes que lo sacrificarán todo por el bien común. Su fatídico destino está escrito, pero el mundo aún tiene salvación gracias a las 20 clases de héroes disponibles y a toda una serie de habilidades únicas.
-- Explora el enorme y hermoso mundo de orcanon: visita cinco ciudades diferentes habitadas por criaturas únicas y completa más de 20 mazmorras repletas de peligros. Contiene más de 50 horas de juego y una serie de divertidos minijuegos, que incluyen juegos de disparos, un original juego de cartas de fantasía y puzles ambientales desafiantes.
-- Una aventura dibujada a mano y creada con talento y pasión: de la mano de un equipo formado por desarrolladores de final fantasy, nier automata y bravely default, nos llega este juego con voces íntegras en japonés e inglés, un mundo en 2d dibujado a mano y un sistema de clima dinámico.
 - Una gran historia sobre el destino y el sacrificio: sumérgete en un relato fascinante plagado de traiciones, horrores y sacrificio.con su historia centrada en personajes adultos, astria ascending ofrece una experiencia más madura y extensos diálogos.
+- Conoce a personajes inolvidables: elige entre ocho personajes personalizables de varias razas fantásticas y con distintas habilidades y reúne un equipo de héroes que lo sacrificarán todo por el bien común. Su fatídico destino está escrito, pero el mundo aún tiene salvación gracias a las 20 clases de héroes disponibles y a toda una serie de habilidades únicas.
+- Una aventura dibujada a mano y creada con talento y pasión: de la mano de un equipo formado por desarrolladores de final fantasy, nier automata y bravely default, nos llega este juego con voces íntegras en japonés e inglés, un mundo en 2d dibujado a mano y un sistema de clima dinámico.
 - Un sistema de combate por turnos gratificante: enfréntate a más de 200 monstruos distintos en combates por turnos fascinantes. Consigue bestias legendarias e invócalas en la batalla y aumenta tu poder para desbloquear límites cósmicos legendarios.
+- Explora el enorme y hermoso mundo de orcanon: visita cinco ciudades diferentes habitadas por criaturas únicas y completa más de 20 mazmorras repletas de peligros. Contiene más de 50 horas de juego y una serie de divertidos minijuegos, que incluyen juegos de disparos, un original juego de cartas de fantasía y puzles ambientales desafiantes.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
