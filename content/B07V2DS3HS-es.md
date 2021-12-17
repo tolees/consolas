@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trust Gaming - Trust Cascos Gaming GXT 414 Zamak Auriculares Gamer con Micrófono Extraíble y Flexible y Diadema Ajustable  Cable Trenzado de 1 m  para PS4  PS5  PC  Nintendo Switch  Xbox One  Xbox Series X - Negro'
-date: 2021-12-15 22:36:03
+date: 2021-12-17 12:28:03
 image: 'https://m.media-amazon.com/images/I/41b30JKUG4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Trust Gaming'
 buyurl: 'https://www.amazon.es/dp/B07V2DS3HS/?tag=tolees-21'
 descuento: '53.34'
-average: '43.9432812500002'
+average: '43.8055384615387'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
