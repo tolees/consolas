@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Kitaria Fables - Playstation 5'
-date: 2021-12-17 10:22:53
+date: 2021-12-18 10:31:43
 image: 'https://m.media-amazon.com/images/I/613LW-X67lS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B094Z1NSG4/?tag=tolees-21'
 descuento: '48.70'
-average: '28.45'
+average: '27.2833333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Welcome to the world of Kitaria - A peaceful land where nature lives in harmony - until now. As the wildlife around Paw Village becomes increasingly aggressive, The Empire has called upon you to investigate and defend its citizens.
-- A delightfully cute action adventure RPG with farming and crafting - Armed with sword, bow and spellbook, fight against a rising darkness threatening the world. Plunder dungeons in search of relics and resources, tend to your farm to grow your own provisions, and work with your village neighbours to craft new gear.
-- Learn an Ancient Magic - When an age-old spellbook comes into your possession, use it to learn a kind of magic long-ago outlawed by The Empire - and give you the edge in combat!
 - Gather, Craft and Farm! - Kitaria is packed with resources for you to use to your advantage! Slay monsters for ingredients, plant seeds and tend to your crops for provisions, and gather materials and ores to craft more powerful weapons, armour and accessories.
+- A delightfully cute action adventure RPG with farming and crafting - Armed with sword, bow and spellbook, fight against a rising darkness threatening the world. Plunder dungeons in search of relics and resources, tend to your farm to grow your own provisions, and work with your village neighbours to craft new gear.
 - Real-time Combat - Wield melee weapons, bows and forge new spells. Kit your loadout in a way which suits your preferred style of battle and craft magic, weapons and armour which compliment your play style.
+- Welcome to the world of Kitaria - A peaceful land where nature lives in harmony - until now. As the wildlife around Paw Village becomes increasingly aggressive, The Empire has called upon you to investigate and defend its citizens.
+- Learn an Ancient Magic - When an age-old spellbook comes into your possession, use it to learn a kind of magic long-ago outlawed by The Empire - and give you the edge in combat!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
