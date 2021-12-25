@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Take Two Interactive Spain - Nba 2K22 Playstation 4 Estándar'
-date: 2021-12-25 09:20:07
-image: 'https://m.media-amazon.com/images/I/51HvFVJgw1L._SL500_._SL400_.jpg'
+title: 'Take Two Interactive Spain - Nba 2K22 Playstation 5 Estándar'
+date: 2021-12-25 09:19:42
+image: 'https://m.media-amazon.com/images/I/51FNwIuPTuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B099KY77J1-es Take Two Interactive Spain - Nba 2K22 Playstation 4 Estándar'
-sku: 'B099KY77J1-es'
-tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Videojuegos','playstation','take two interactive spain', ]
-actualPrice: 39.9 EUR
+slug: 'B099KYZ1MK-es Take Two Interactive Spain - Nba 2K22 Playstation 5 Estándar'
+sku: 'B099KYZ1MK-es'
+tags: [ 'Hardware y juegos para PlayStation 5','Juegos para PlayStation 5','Videojuegos','playstation','take two interactive spain', ]
+actualPrice: 38.89 EUR
 currency: EUR
-price: 39.9
-comparePrice: 62.99 EUR
-prodname: 'Take Two Interactive Spain - Nba 2K22 Playstation 4 Estándar'
+price: 38.89
+comparePrice: 65.99 EUR
+prodname: 'Take Two Interactive Spain - Nba 2K22 Playstation 5 Estándar'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Take Two Interactive Spain'
-buyurl: 'https://www.amazon.es/dp/B099KY77J1/?tag=tolees-21'
-descuento: '36.66'
-average: '51.02'
+buyurl: 'https://www.amazon.es/dp/B099KYZ1MK/?tag=tolees-21'
+descuento: '41.07'
+average: '48.8258333333334'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
