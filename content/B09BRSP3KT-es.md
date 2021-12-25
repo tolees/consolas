@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Los Pitufos Operación Vilhoja Edición Pitufísima - Playstation 4'
-date: 2021-12-13 11:25:56
+date: 2021-12-25 07:26:42
 image: 'https://m.media-amazon.com/images/I/51oBZRAKRDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09BRSP3KT-es Meridiem Games - Los Pitufos Operación Vilhoja Edición...'
 sku: 'B09BRSP3KT-es'
 tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Videojuegos','meridiem games','playstation', ]
-actualPrice: 37.18 EUR
+actualPrice: 32.74 EUR
 currency: EUR
-price: 37.18
+price: 32.74
 comparePrice: 49.99 EUR
 prodname: 'Meridiem Games - Los Pitufos Operación Vilhoja Edición Pitufísima - Playstation 4'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B09BRSP3KT/?tag=tolees-21'
-descuento: '25.63'
-average: '44.365'
+descuento: '34.51'
+average: '43.3081818181818'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
