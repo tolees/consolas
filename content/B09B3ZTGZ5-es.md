@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Agatha Christie - Hercule Poirot. The First Cases - Nintendo Switch'
-date: 2021-12-27 15:22:26
+date: 2021-12-29 12:30:48
 image: 'https://m.media-amazon.com/images/I/41PEWGInDmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B09B3ZTGZ5/?tag=tolees-21'
 descuento: '25.11'
-average: '36.11'
+average: '35.4255555555556'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
