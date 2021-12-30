@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain  VG  - LEGO Marvel Super Heroes Nintendo Switch'
-date: 2021-12-28 21:00:40
+date: 2021-12-30 16:02:45
 image: 'https://m.media-amazon.com/images/I/41k1TbiaHSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain (VG)'
 buyurl: 'https://www.amazon.es/dp/B09GYQKCCZ/?tag=tolees-21'
 descuento: '50.06'
-average: '24.72'
+average: '23.925'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Spider-Man puede lanzar sus telas de araña, utilizar su sentido arácnido o trepar por las paredes.
-- Iron Man puede volar, deslizarse, lanzar misiles o enviar un poderoso flujo de energía desde su pecho.
-- Más de 100 de tus superhéroes y villanos favoritos del Universo Marvel como Iron Man, Lobezno, Hulk, Spider-Man, Capitán América,  Black Widow, Loki o Deadpool.
 - El Capitán América puede lanzar su escudo contra otros objetos o enemigos, clavarlo en la pared para impulsarse con él, utilizarlo para desviar rayos láser o para protegerse ante cualquier ataque.
 - Descubre una ciudad de Nueva York como nunca antes, hecha de las características piezas de LEGO.
+- Iron Man puede volar, deslizarse, lanzar misiles o enviar un poderoso flujo de energía desde su pecho.
+- Spider-Man puede lanzar sus telas de araña, utilizar su sentido arácnido o trepar por las paredes.
+- Más de 100 de tus superhéroes y villanos favoritos del Universo Marvel como Iron Man, Lobezno, Hulk, Spider-Man, Capitán América,  Black Widow, Loki o Deadpool.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
