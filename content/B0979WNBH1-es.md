@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Wario Ware: Get it together'
-date: 2021-12-28 20:55:52
+date: 2021-12-31 07:05:22
 image: 'https://m.media-amazon.com/images/I/51-W6uRiirS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B0979WNBH1/?tag=tolees-21'
 descuento: '29.88'
-average: '42.2868181818182'
+average: '41.9695652173913'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dos jugadores pueden aunar fuerzas para superar en compañía frenéticos microjuegos, ya sea arrancar los pelos de un sobaco o apañárselas para salir de bolsas de basura, habrá que hacer gala de reflejos ultrarrápidos.
-- Wario y compañía regresan con una estrambótica colección de microjuegos multijugador.
-- En esta entrega controlarás directamente a Wario y sus amigotes. Hay más de una docena de personajes disponibles, y cada uno cuenta con habilidades propias.
 - Disfruta de más de 200 microjuegos rápidos y divertidos que son, en esencia, minijuegos que hay que completar a la velocidad del rayo.
+- Dos jugadores pueden aunar fuerzas para superar en compañía frenéticos microjuegos, ya sea arrancar los pelos de un sobaco o apañárselas para salir de bolsas de basura, habrá que hacer gala de reflejos ultrarrápidos.
+- En esta entrega controlarás directamente a Wario y sus amigotes. Hay más de una docena de personajes disponibles, y cada uno cuenta con habilidades propias.
+- Wario y compañía regresan con una estrambótica colección de microjuegos multijugador.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
