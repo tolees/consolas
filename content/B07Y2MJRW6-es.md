@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair VOID ELITE RGB Wireless Auriculares para Juegos  7.1 Sonido envolvente  Inalámbrico de 2.4 GHz de baja latencia  12 m de alcance  Personalizable Iluminación  Compatible con PC  PS4  Negro'
-date: 2021-12-27 14:57:13
+date: 2021-12-31 11:32:39
 image: 'https://m.media-amazon.com/images/I/41xEC98m3EL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Corsair'
 buyurl: 'https://www.amazon.es/dp/B07Y2MJRW6/?tag=tolees-21'
 descuento: '27.28'
-average: '92.9680000000001'
+average: '92.3500000000001'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Libertad inalámbrica: hasta 12 m de alcance inalámbrico y hasta 16 horas de autonomía, no interrumpa nunca la partida, puede conectarlos y cargarlos mientras juega
-- Control inteligente, posibilidades ilimitadas: el software CORSAIR iCUE permite personalizar los ajustes y otros productos de CORSAIR compatibles, sonido envolvente 7.1 solo en PC
 - Construcción duradera con diadema de aluminio: diseñados para resistir a varios años de juego
 - Sonido óptimo: los transductores de audio de neodimio de buen densidad de 50 mm de ajuste personalizado con un rango de frecuencia ampliado de 20 Hz-30 000 Hz
-- Iluminación dinámica RGB: personalice su aspecto con la iluminación RGB en cada auricular, con un abanico casi ilimitado de colores y efectos
 - Comodidad duradera: un tejido de rejilla de microfibra transpirable y las lujosas almohadillas de espuma con memoria garantizan la comodidad en largas sesiones de juego
-- Sonido envolvente e inmersivo 7.1: cree una experiencia de audio multicanal en PC para que siempre esté en el medio de la acción
-- Controles para volumen y silencio en auricular: realice ajustes sobre la marcha sin distraerse del juego
+- Iluminación dinámica RGB: personalice su aspecto con la iluminación RGB en cada auricular, con un abanico casi ilimitado de colores y efectos
+- Control inteligente, posibilidades ilimitadas: el software CORSAIR iCUE permite personalizar los ajustes y otros productos de CORSAIR compatibles, sonido envolvente 7.1 solo en PC
 - Modo inalámbrico de 2,4 GHz de baja latencia: conéctelos de forma inalámbrica a su PC o PS4 con el adaptador USB que se incluye
+- Sonido envolvente e inmersivo 7.1: cree una experiencia de audio multicanal en PC para que siempre esté en el medio de la acción
 - Micrófono omnidireccional optimizado: recoge la voz con una claridad óptimo, con una función de silenciado y un indicador LED de silenciado integrado
+- Libertad inalámbrica: hasta 12 m de alcance inalámbrico y hasta 16 horas de autonomía, no interrumpa nunca la partida, puede conectarlos y cargarlos mientras juega
+- Controles para volumen y silencio en auricular: realice ajustes sobre la marcha sin distraerse del juego
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
