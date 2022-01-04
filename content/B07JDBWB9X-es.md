@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nacon Daija - Arcade Stick con Licencia Oficial para PS4 y PS3 - Compatible con PS5  175397 '
-date: 2022-01-02 13:08:50
+date: 2022-01-04 12:32:41
 image: 'https://m.media-amazon.com/images/I/41aKER9GztS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nacon'
 buyurl: 'https://www.amazon.es/dp/B07JDBWB9X/?tag=tolees-21'
 descuento: '25.02'
-average: '137.161428571428'
+average: '138.013999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Componentes profesionales del renombrado fabricante SANWA
-- Conector para auriculares minijack 3.5 mm
 - Parte superior personalizable: se incluyen dos diseños y destornillador
 - Amplia superficie de juego: la zona de control queda en el lateral derecho para facilitar el acceso y dejar la zona de juego solo con los botones de acción
+- Conector para auriculares minijack 3.5 mm
 - Arcade stick con licencia oficial para PS4 y PS3
 
 [🛒 Comprar!!!]({{< param buyurl >}})
