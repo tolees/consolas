@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Pokémon: Let s Go  Evoli!'
-date: 2022-01-05 21:49:09
+date: 2022-01-07 11:19:54
 image: 'https://m.media-amazon.com/images/I/51+0i1a3jkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07DDZKB88-es Nintendo - Pokémon: Let s Go Evoli!'
 sku: 'B07DDZKB88-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','nintendo', ]
-actualPrice: 36.1 EUR
+actualPrice: 33.36 EUR
 currency: EUR
-price: 36.1
-comparePrice: 43.92 EUR
+price: 33.36
+comparePrice: 42.41 EUR
 prodname: 'Nintendo - Pokémon: Let s Go  Evoli!'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B07DDZKB88/?tag=tolees-21'
-descuento: '17.81'
-average: '50.5228571428572'
+descuento: '21.34'
+average: '48.3775'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Evoli!
 - Nintendo Switch Pokemon: Let´s Go
+- Evoli!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
