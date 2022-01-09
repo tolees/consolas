@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Atlus - 13 Sentinels: Aegis Rim  PS4 '
-date: 2021-12-28 11:20:37
+date: 2022-01-09 11:51:51
 image: 'https://m.media-amazon.com/images/I/51nTNflxEML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Vide
 actualPrice: 22.31 EUR
 currency: EUR
 price: 22.31
-comparePrice: 27.48 EUR
+comparePrice: 27.4 EUR
 prodname: 'Atlus - 13 Sentinels: Aegis Rim  PS4 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'Atlus'
 buyurl: 'https://www.amazon.es/dp/B08BZZ8GM3/?tag=tolees-21'
-descuento: '18.81'
-average: '39.4993750000001'
+descuento: '18.58'
+average: '38.9784848484849'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Conviértete en un piloto de Sentinel, personaliza tu mecha y lucha contra oleadas de kaiju en combate táctico de arriba hacia abajo
 - El reloj del fin del mundo está en marcha
 - Descubre una historia profunda a través de visiones del pasado y el futuro
 - Una representación bella en el característico estilo visual pintado a mano de Vanillaware
-- Conviértete en un piloto de Sentinel, personaliza tu mecha y lucha contra oleadas de kaiju en combate táctico de arriba hacia abajo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
