@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Carátula no definitiva
 - ¡Saca la Beam Katana y prepárate para plantarles cara a los superhéroes más chungos de toda la galaxia en No More Heroes 3 para Nintendo Switch!
 - Métete en la piel de Travis Touchdown, el legendario asesino otaku, y haz picadillo a tus oponentes para completar con éxito un auténtico desmadre de misión: salvar el mundo de los invasores alienígenas.
+- Carátula no definitiva
 
 [🛒 Aquí!!!]({{< param buyurl >}})
