@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft - Mando Xbox One Elite Wireless Controller Series 2  negro'
-date: 2022-01-08 08:52:58
+date: 2022-01-11 07:32:13
 image: 'https://m.media-amazon.com/images/I/41cZc4RLPUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.es/dp/B07SVZXBMG/?tag=tolees-21'
 descuento: '21.97'
-average: '173.875609756099'
+average: '173.061190476192'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Empuñadura de goma envolvente
 - Palancas de mando de tensión ajustable
 - Carga el mando dentro o fuera de la funda de transporte con el cable USB-C incluido y la base de carga
-- Juega más tiempo con hasta 40 horas de duración de la batería recargable y componentes refinados diseñados para durar
 - Bloqueo de gatillos de alta sensibilidad más cortos
+- Juega más tiempo con hasta 40 horas de duración de la batería recargable y componentes refinados diseñados para durar
+- Empuñadura de goma envolvente
 
 [🛒 Visítala!!!]({{< param buyurl >}})
