@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NINTENDO SWITCH LEYENDAS POKEMON: ARCEUS'
-date: 2022-01-05 22:15:08
+date: 2022-01-12 14:44:23
 image: 'https://m.media-amazon.com/images/I/51eck2FjPDS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B091VTT67M/?tag=tolees-21'
 descuento: '21.70'
-average: '52.0813333333332'
+average: '51.4717647058823'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- caratula no definitiva
 - Fecha de lanzamiento sujeta a cambios
+- caratula no definitiva
 
 [🛒 Visítala!!!]({{< param buyurl >}})
