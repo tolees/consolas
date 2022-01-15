@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch Media - Hitman III - PS5'
-date: 2022-01-04 11:45:17
+date: 2022-01-15 12:21:34
 image: 'https://m.media-amazon.com/images/I/41UAjQCvaUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Koch Media'
 buyurl: 'https://www.amazon.es/dp/B08MVZKGTV/?tag=tolees-21'
 descuento: '50.14'
-average: '43.4396774193548'
+average: '43.1728125'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
