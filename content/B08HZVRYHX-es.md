@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SEGA - Puyo Puyo Tetris 2'
-date: 2022-01-17 20:48:51
+date: 2022-01-25 13:40:57
 image: 'https://m.media-amazon.com/images/I/51I01Cmt8FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SEGA'
 buyurl: 'https://www.amazon.es/dp/B08HZVRYHX/?tag=tolees-21'
 descuento: '57.51'
-average: '20.4979166666667'
+average: '20.3576'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Personajes vibrantes y una historia de aventuras añaden dimensión al adictivo juego de rompecabezas árcade
 - La Batalla de Dotes presenta habilidades basadas en personajes que pueden cambiar rápidamente las tornas en una partida, más cartas de artículos para potenciar a tu equipo
 - El modo en línea mejorado ofrece competición en ligas específicas del juego y modo libre para hasta 4 jugadores
+- Personajes vibrantes y una historia de aventuras añaden dimensión al adictivo juego de rompecabezas árcade
 
 [🛒 Aquí!!!]({{< param buyurl >}})
