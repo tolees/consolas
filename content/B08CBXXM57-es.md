@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Take-Two 2K - NBA 2k21- Playstation 5  Estándar Edition'
-date: 2022-01-28 15:49:55
+date: 2022-01-29 18:50:22
 image: 'https://m.media-amazon.com/images/I/517SvAbMa1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Take-Two 2K'
 buyurl: 'https://www.amazon.es/dp/B08CBXXM57/?tag=tolees-21'
 descuento: '39.53'
-average: '57.7112871287128'
+average: '57.2434313725489'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
