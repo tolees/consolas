@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Switch Monster Hunter Stories 2'
-date: 2022-01-19 07:27:34
+date: 2022-01-31 07:12:54
 image: 'https://m.media-amazon.com/images/I/51bhmvtKniS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B094RV3JR5/?tag=tolees-21'
 descuento: '25.04'
-average: '47.9242105263159'
+average: '47.7730000000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fecha de lanzamiento sujeta a cambios
 - caratula no definitiva
+- Fecha de lanzamiento sujeta a cambios
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
