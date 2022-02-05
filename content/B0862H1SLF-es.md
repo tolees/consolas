@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - The Wonderful 101 - Remastered'
-date: 2022-02-04 18:19:50
+date: 2022-02-05 20:22:30
 image: 'https://m.media-amazon.com/images/I/51Xc4k+rIeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B0862H1SLF/?tag=tolees-21'
 descuento: '40.07'
-average: '21.95'
+average: '20.95'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- change weapons in a Flash with the "unite morph" System
 - unite morphs can be more than just weapons
 - Over 100 unique and dazzling heroes, each with their own backstories and emblems
 - build hang gliders and bridges to Cross chasms, and bounce and blast your way to great heights.use your smarts as well as your strength to solve puzzles and persevere.dont forget-a heros true calling is protection.rescue the citizens you come across and your bravery will inspire them to unite up for a limited time, of course.your missions will take around the world.through cities, across the ocean floor, deep in the jungle, and to a host of exciting locations
-- change weapons in a Flash with the "unite morph" System
 - draw shapes to switch between swords, whips, hammers, and more to battle with strategy and flair
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
