@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - MASS EFFECT LEGENDARY EDITION'
-date: 2022-03-05 06:27:48
+date: 2022-03-06 16:20:41
 image: 'https://m.media-amazon.com/images/I/51TZ4Ww0MnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B08W38MQ2B/?tag=tolees-21'
 descuento: '22.12'
-average: '41.2638461538461'
+average: '40.7585714285714'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
