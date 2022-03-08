@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Micrófono cardioide Razer HyperClear con tarjeta de sonido USB para una captura de voz y un control de micrófono mejorados
 - Diafragmas de titanio de 50 mm Razer TriForce para un rendimiento de audio de alta calidad
 - Cancelación pasiva de ruido avanzada para una concentración ininterrumpida
+- Micrófono cardioide Razer HyperClear con tarjeta de sonido USB para una captura de voz y un control de micrófono mejorados
 
 [🛒 Comprar!!!]({{< param buyurl >}})
