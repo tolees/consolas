@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- greedfalls Gold Edition includes the base game, the DE vespe conspiracy expansion, 3 lithographs, a double Poster and a sticker sheet
+- Engage in a core RPG experience - achieve quests and complete objectives in a multitude of different ways: combat, diplomacy, deception, or stealth.
 - complete freedom in character progression - Play as a male or female, customize your appearance, and freely choose your abilities, spells and skills.
 - Delve into a mysterious world of magic - begin a grand journey and uncover ancient secrets protected by supernatural beings, manifestation of the islands Earthly magic.
-- Engage in a core RPG experience - achieve quests and complete objectives in a multitude of different ways: combat, diplomacy, deception, or stealth.
+- greedfalls Gold Edition includes the base game, the DE vespe conspiracy expansion, 3 lithographs, a double Poster and a sticker sheet
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
