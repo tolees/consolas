@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HORI - Controlador D-Pad  izquierdo  Zelda  Nintendo Switch  Solo para "modo portatil".'
-date: 2022-03-08 09:30:23
+date: 2022-03-09 14:04:21
 image: 'https://m.media-amazon.com/images/I/51EqCJiPyhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hori'
 buyurl: 'https://www.amazon.es/dp/B07FSWM4Z2/?tag=tolees-21'
 descuento: '35.81'
-average: '20.4118750000001'
+average: '20.154705882353'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ideal para juegos 2D con uso intensivo del pad direccional
-- Licencia oficial de Nintendo
 - Joy-Con izquierdo con cruceta
 - Acabado mate en plástico semitraslúcido
+- Licencia oficial de Nintendo
+- Ideal para juegos 2D con uso intensivo del pad direccional
 
 [🛒 Visítala!!!]({{< param buyurl >}})
