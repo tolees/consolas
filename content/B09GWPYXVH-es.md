@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una aventura de plataformas en 3D llena de colorido, sorpresas, naturaleza salvaje y ¡Waddle Dees para dar y tomar!
 - Carátula de juego no oficial.
+- Una aventura de plataformas en 3D llena de colorido, sorpresas, naturaleza salvaje y ¡Waddle Dees para dar y tomar!
 - Para rescatar a sus amigos, Kirby se lanza en un viaje con el curioso Elfilin, a quien conoce en el nuevo mundo.
 - Los jugadores podrán moverse libremente por zonas en 3D usando las conocidas habilidades de copia de Kirby.
 

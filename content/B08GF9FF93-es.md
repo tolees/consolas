@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los Pixel Frames son instantáneas con licencia oficial y múltiples capas de populares clásicos de los juegos retro
-- se puede exponer fácilmente en paredes y superficies planas
 - Licencia oficial de Capcom
+- se puede exponer fácilmente en paredes y superficies planas
+- Los Pixel Frames son instantáneas con licencia oficial y múltiples capas de populares clásicos de los juegos retro
 
 [🛒 Aquí!!!]({{< param buyurl >}})

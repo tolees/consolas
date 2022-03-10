@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Diseño como el original
 - Mando con licencia oficial Sega
-- Compatible con Sega Mega Drive Mini, PC, Mac y Steam
 - Cable de 3 metros
+- Diseño como el original
+- Compatible con Sega Mega Drive Mini, PC, Mac y Steam
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
