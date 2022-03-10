@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubisoft Spain - Nintendo Switch - Compil Monopoly Madness + Monopoly SWITCH'
-date: 2022-03-07 21:15:18
+date: 2022-03-10 20:55:21
 image: 'https://m.media-amazon.com/images/I/41XzKTDdgoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ubisoft Spain'
 buyurl: 'https://www.amazon.es/dp/B09KTJZ23R/?tag=tolees-21'
 descuento: '40.08'
-average: '29.9333333333333'
+average: '29.925'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
