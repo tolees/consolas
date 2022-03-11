@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- ¡Todo un viaje musical que no te puedes perder!
 - Descubre un juego de acción al ritmo de la música con canciones memorables que te transportarán a un universo mágico
 - Disfruta de una gran variedad de temas de la serie KINGDOM HEARTS y de Disney, con una colección que abarca más de 140 canciones
-- ¡Todo un viaje musical que no te puedes perder!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
