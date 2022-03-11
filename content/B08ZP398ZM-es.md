@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Consigue recompensas al superar cada nivel: Puzles, cromos y episodios exclusivos de Pocoyó que podrás disfrutar cuando quieras
-- Con las voces originales de la serie.
 - Los más pequeños de la casa pueden jugar solos o acompañados en modo multijugador para hasta 4 jugadores.
-- Pocoyo Party es un videojuego orientado a niños/as de 3 a 5 años, quienes, con ayuda de sus padres, pueden disfrutar de actividades y juegos sencillos.
+- Con las voces originales de la serie.
 - Divierte junto a Pocoyó y sus amigos con los 6 divertidos mini juegos educativos donde aprender letras, números o valores educativos.
+- Consigue recompensas al superar cada nivel: Puzles, cromos y episodios exclusivos de Pocoyó que podrás disfrutar cuando quieras
+- Pocoyo Party es un videojuego orientado a niños/as de 3 a 5 años, quienes, con ayuda de sus padres, pueden disfrutar de actividades y juegos sencillos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
