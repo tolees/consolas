@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Histoire non linéaire entraînée par la découverte de savoirs sur des objets, des points de repère et des éléments secrets dans le monde
-- La ville déserte de harms way est votre seul endroit pour vous préparer
 - Donjons générés aléatoirement et orientés vers laction, chargés de pièges, de puzzles et de secrets
+- La ville déserte de harms way est votre seul endroit pour vous préparer
+- Histoire non linéaire entraînée par la découverte de savoirs sur des objets, des points de repère et des éléments secrets dans le monde
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
