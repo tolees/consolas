@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mario, Luigi, Peach y Yoshi se aliarán con cuatro héroes rabbids, cada uno con su personalidad única: el poderoso Rabbid Mario, el temeroso Rabbid Luigi, la coqueta Rabbid Peach y el peculiar Rabbid Yoshi
 - Explora cuatro mundos icónicos llenos de misiones, búsquedas, secretos, rompecabezas por resolver… e impredecibles enemigos a los que deberás vencer
+- Mario, Luigi, Peach y Yoshi se aliarán con cuatro héroes rabbids, cada uno con su personalidad única: el poderoso Rabbid Mario, el temeroso Rabbid Luigi, la coqueta Rabbid Peach y el peculiar Rabbid Yoshi
 - Embárcate con tu equipo de héroes en una misión épica para liberar a tus amigos y devolver la paz y el orden al Reino Champiñón
 
 [🛒 Visítala!!!]({{< param buyurl >}})
