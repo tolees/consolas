@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Desbloquea y juega con más de 200 de tus personajes favoritos.
-- Dos juegos remasterizados, ahora en un solo disco.
 - Explora Hogwarts y lanza hechizos con un amigo en las partidas cooperativas.
+- Dos juegos remasterizados, ahora en un solo disco.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

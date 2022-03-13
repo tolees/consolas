@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tipo de conectividad: Alámbrico
-- Controlador de volumen y micrófono en el cable - almohadillas ultra suaves para largas sesiones de juego - diadema ajustable y ligera
-- Altavoces de 50 mm de gran calidad de sonido - software incluido (sólo compatible con windows) - micrófono abatible
-- Conector chapado en oro para mejor conectividad - cable de nylon trenzado para mayor durabilidad
 - Compatible con pc, ps4 y ps5 compatibilidad ps4: el controlador de volumen y sonido 7.1 no funcionarán. el sonido será estéreo
+- Altavoces de 50 mm de gran calidad de sonido - software incluido (sólo compatible con windows) - micrófono abatible
+- Tipo de conectividad: Alámbrico
+- Conector chapado en oro para mejor conectividad - cable de nylon trenzado para mayor durabilidad
+- Controlador de volumen y micrófono en el cable - almohadillas ultra suaves para largas sesiones de juego - diadema ajustable y ligera
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
