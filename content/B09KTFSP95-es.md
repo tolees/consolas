@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Recorre las calles de Monopoly City y compite con los demás jugadores para conseguir dinero, agua y electricidad
+- Consigue potenciadores en las Cajas de Comunidad
+- Descubre cuatro escenarios únicos inspirados en el juego de tablero MONOPOLY
+- Cada entorno trae varios niveles y distribuciones distintas
 - En las partidas se producirán sucesos aleatorios para que la aventura sea más caótica todavía
 - Gasta los recursos que has acumulado en comprar o mejorar propiedades
-- Consigue potenciadores en las Cajas de Comunidad
-- Recorre las calles de Monopoly City y compite con los demás jugadores para conseguir dinero, agua y electricidad
-- Súbete a una excavadora, atraviesa edificios, destruye propiedades con un martillo neumático
-- Cada entorno trae varios niveles y distribuciones distintas
-- Juega al modo Historia o enfréntate a un desafío por internet con hasta seis jugadores
-- Descubre cuatro escenarios únicos inspirados en el juego de tablero MONOPOLY
 - Juega con uno de los 20 nuevos personajes, inspirados en las fichas clásicas del MONOPOLY
+- Súbete a una excavadora, atraviesa edificios, destruye propiedades con un martillo neumático
+- Juega al modo Historia o enfréntate a un desafío por internet con hasta seis jugadores
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
