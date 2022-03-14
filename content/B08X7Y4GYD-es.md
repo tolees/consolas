@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - Plants vs. Zombies Battle for Neighborville Edición Completa'
-date: 2022-03-04 11:28:47
+date: 2022-03-14 09:12:16
 image: 'https://m.media-amazon.com/images/I/51vjbI0vd+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08X7Y4GYD-es Playstation - Plants vs. Zombies Battle for Neighborville...'
 sku: 'B08X7Y4GYD-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','playstation', ]
-actualPrice: 17.99 EUR
+actualPrice: 19.89 EUR
 currency: EUR
-price: 17.99
+price: 19.89
 comparePrice: 40.99 EUR
 prodname: 'Playstation - Plants vs. Zombies Battle for Neighborville Edición Completa'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B08X7Y4GYD/?tag=tolees-21'
-descuento: '56.11'
-average: '26.593269230769'
+descuento: '51.48'
+average: '26.46679245283'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
