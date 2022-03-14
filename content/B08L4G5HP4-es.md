@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Astragon - Asterix & Obelix XXL: Collection - Nintendo Switch [Importación alemana]'
-date: 2022-03-08 14:16:34
+date: 2022-03-14 15:36:43
 image: 'https://m.media-amazon.com/images/I/51yIq+h6mDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
