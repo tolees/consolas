@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Disco Elysium the Final Cut - Nintendo Switch'
-date: 2022-03-11 17:05:59
+date: 2022-03-16 16:21:26
 image: 'https://m.media-amazon.com/images/I/41uWS2vli6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B09NWRYMSG/?tag=tolees-21'
 descuento: '15.23'
-average: '36.336'
+average: '35.93'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Póster
 - Libro de arte digital
 - Incluye:
+- Póster
 
 [🛒 Comprar!!!]({{< param buyurl >}})
