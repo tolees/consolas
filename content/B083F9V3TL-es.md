@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Focus Home Interactive - SnowRunner Premium Edition - Xbox One'
-date: 2022-03-10 06:27:35
+date: 2022-03-18 16:19:05
 image: 'https://m.media-amazon.com/images/I/61ooiPZO3gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Completa decenas de misiones desafiantes en un mundo interconectado
-- 40 vehículos que desbloquear, mejorar y personalizar
 - Conduce solo o en el modo cooperativo de 4 jugadores y amplía tu experiencia de SnowRunner con modos creados por la comunidad
+- 40 vehículos que desbloquear, mejorar y personalizar
+- Completa decenas de misiones desafiantes en un mundo interconectado
 - Enfréntate a entornos extremos en un avanzado motor de física
 
 [🛒 Aquí!!!]({{< param buyurl >}})
