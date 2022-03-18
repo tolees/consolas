@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Audio ASTRO: Cascos creados con desarrolladores, streamers y gamers, para ofrecer un audio con un espectro de frecuencia neutro, suave y ampliado y así lograr un sonido detallado y real
 - Flip-to-mute: El micrófono unidireccional con función flip-to-mute te permite comunicarte con tus compañeros; el ajuste de volumen proporciona control para estar a cargo de tu audio
 - Compatible con Xbox Series X y S usando el puerto de 3.5mm en el controlador Xbox
-- Compatible con PlayStation 5 usando el puerto de 3.5mm en el controlador PlayStation
 - Construcción duradera: Para uso prolongado, de construcción ligera y robusta y materiales de calidad para un ajuste cómodo; con almohadillas de tela y cuero sintético para el rendimiento acústico
 - Confort de larga duración: Diseñados para sesiones de juego maratonianas, los cascos para gaming A10 también se adaptan cómodamente a todos los auriculares de RV
 - Compatibilidad entre plataformas: Experimenta ASTRO Audio para todo tipo de videojuegos, incluyendo consolas, PC, Mac y móvil
+- Compatible con PlayStation 5 usando el puerto de 3.5mm en el controlador PlayStation
+- Audio ASTRO: Cascos creados con desarrolladores, streamers y gamers, para ofrecer un audio con un espectro de frecuencia neutro, suave y ampliado y así lograr un sonido detallado y real
 
 [🛒 Comprar!!!]({{< param buyurl >}})
