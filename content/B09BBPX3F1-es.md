@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation-Juego Sony PS5 Death STRANDING Director S Cut Videojuegos  Multicolor 9722298'
-date: 2022-03-16 08:38:33
+date: 2022-03-21 17:05:32
 image: 'https://m.media-amazon.com/images/I/41YdumsiRZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B09BBPX3F1/?tag=tolees-21'
 descuento: '20.00'
-average: '41.4564705882353'
+average: '41.375'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Resolución 4K y 60 FPS; retroalimentación háptica y gatillos adaptativos; audio 3D Tempest; tiempos de carga optimizados
 - Death Stranding Director’s Cut está cargado de contenido y funciones de juego optimizadas
 - En el futuro, un evento misterioso conocido como el Death Stranding ha abierto una puerta entre los vivos y los muertos y ha permitido que criaturas del otro mundo deambulen por un planeta en ruinas habitado por una sociedad desolada
+- Resolución 4K y 60 FPS; retroalimentación háptica y gatillos adaptativos; audio 3D Tempest; tiempos de carga optimizados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
