@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bumble3ee Interactive - Mary Skelter Finale. Day One Edition - Nintendo Switch'
-date: 2022-03-28 09:37:57
+date: 2022-03-31 23:01:50
 image: 'https://m.media-amazon.com/images/I/51eEv+MVxRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bumble3ee Interactive'
 buyurl: 'https://www.amazon.es/dp/B0914YJKSV/?tag=tolees-21'
 descuento: '36.44'
-average: '39.15'
+average: '38.45'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Caja Coleccionista
 - Set de Pegatinas
 - Poster tamaño A2
-- Caja Coleccionista
 - Carátula Reversible
 - 8 Cartas Coleccionables
 

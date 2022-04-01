@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - amiibo Byleth  colección Super Smash Bros. '
-date: 2022-03-28 09:30:35
+date: 2022-03-31 22:40:49
 image: 'https://m.media-amazon.com/images/I/410EiMmHV4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B08SNKD37L/?tag=tolees-21'
 descuento: '47.83'
-average: '13.9937499999999'
+average: '13.9347058823528'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

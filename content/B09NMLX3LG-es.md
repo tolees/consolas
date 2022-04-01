@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Lake - PlayStation 5'
-date: 2022-03-28 09:25:04
+date: 2022-03-31 23:01:28
 image: 'https://m.media-amazon.com/images/I/41ldcRlAJRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Escápate a un bello y rústico entorno sin teléfonos móviles ni Internet.
 - Determina tu propia historia: no hay respuestas o finales "correctos" o incorrectos. Simplemente lo que quieras que ocurra.
 - Disfruta de dos semanas de historias ramificadas que no rehúyen los temas de la vida cotidiana.
-- Escoge las actividades después del trabajo: sal con tus amigos, ayuda a tus vecinos o quédate en casa leyendo un libro.
-- Escápate a un bello y rústico entorno sin teléfonos móviles ni Internet.
 - Conoce a una serie de atractivos personajes, cada uno con su propia personalidad y peculiaridades, mientras vuelves a vivir los años 80.
+- Escoge las actividades después del trabajo: sal con tus amigos, ayuda a tus vecinos o quédate en casa leyendo un libro.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

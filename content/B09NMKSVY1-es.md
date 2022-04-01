@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Arcade Paradise - PlayStation 4'
-date: 2022-03-28 09:23:07
+date: 2022-03-31 22:56:44
 image: 'https://m.media-amazon.com/images/I/51VWrslyXFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pegatinas
-- Banda sonora digital
 - Incluye:
+- Banda sonora digital
 - Póster
+- Pegatinas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

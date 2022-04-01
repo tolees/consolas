@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Arcade Paradise - Nintendo Switch'
-date: 2022-03-28 09:26:06
+date: 2022-03-31 23:02:33
 image: 'https://m.media-amazon.com/images/I/513RnrmwviL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pegatinas
-- Póster
 - Banda sonora digital
 - Incluye:
+- Pegatinas
+- Póster
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
