@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Super Mario Party  Nintendo Switch '
-date: 2022-04-03 19:00:07
+date: 2022-04-04 20:48:46
 image: 'https://m.media-amazon.com/images/I/51MXaDyi2dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B07DPR5PFX/?tag=tolees-21'
 descuento: '29.34'
-average: '47.594521072797'
+average: '47.5746564885497'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Prueba Mariotlón en línea, un minijuego online en el que podrás poner a prueba tus habilidades contra otros fans de Mario Party
-- Gran diversidad de modos de juego, incluidos Mario Party (la original sobre el tablero con nuevos tableros para explorar) y Mario Party a dobles (modo de combate cooperativo con movimiento libre por la cuadrícula) entre otros
 - El juego de mesa se mantiene fiel a la estructura de juego básica con cuatro jugadores que se mueven por turnos sobre el tablero en busca de estrellas
 - Nuevas formas de jugar: descubre la Sala de recreo de Toad, en la que dos consolas Nintendo Switch se conectan para jugar en modo sobre mesa
+- Gran diversidad de modos de juego, incluidos Mario Party (la original sobre el tablero con nuevos tableros para explorar) y Mario Party a dobles (modo de combate cooperativo con movimiento libre por la cuadrícula) entre otros
 - Compite en 80 nuevos minijuegos con muchas maneras diferentes de jugar que hacen uso de los mandos Joy-Con de muchas maneras diferentes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
