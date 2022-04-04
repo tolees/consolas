@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Super Mario Maker 2'
-date: 2022-04-01 11:57:35
+date: 2022-04-04 08:40:21
 image: 'https://m.media-amazon.com/images/I/51GOmuZMXcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B07NQPGQW8/?tag=tolees-21'
 descuento: '29.34'
-average: '49.0908152173913'
+average: '49.0545945945946'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye más de 100 niveles originales creados por Nintendo
 - Ahora hay más herramientas, objetos y funciones disponibles
+- Incluye más de 100 niveles originales creados por Nintendo
+- Ahora dos jugadores pueden construir niveles codo con codo en una única pantalla.
 - ¡Haz que tus creaciones cobren vida!
 - Modo multijugador inalámbrico local:hasta cuatro jugadores pueden intentar completar niveles al mismo tiempo en su propia consola
-- Ahora dos jugadores pueden construir niveles codo con codo en una única pantalla.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
