@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Metroid Dread'
-date: 2022-04-03 16:27:01
+date: 2022-04-06 16:30:38
 image: 'https://m.media-amazon.com/images/I/51vlXyE3RfS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B0979WXCWS/?tag=tolees-21'
 descuento: '33.39'
-average: '48.0859999999999'
+average: '47.3418181818181'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- A medida que explores el planeta, encontrarás puertas bloqueadas, salientes fuera de tu alcance y zonas demasiado peligrosas en las que Samus no puede adentrarse.
 - Samus siempre cuenta con su fiel cañón, pero, a medida que recorra el planeta ZDR, descubrirá más armas y habilidades que le ayudarán a desentrañar los misterios que rodean a su misión.
 - En un remoto planeta alienígena, una amenaza mecánica pondrá a prueba a la mejor cazarrecompensas de la galaxia hasta límites insospechados. Únete a Samus Aran en su aventura en 2D más desafiante y peligrosa hasta la fecha en Metroid Dread para Nintendo Switch.
+- A medida que explores el planeta, encontrarás puertas bloqueadas, salientes fuera de tu alcance y zonas demasiado peligrosas en las que Samus no puede adentrarse.
 - Al obtener potenciadores y mejoras, no solo superarás dichos obstáculos, sino que también descubrirás nuevas rutas y atajos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
