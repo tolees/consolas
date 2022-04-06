@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Triangle Strategy'
-date: 2022-04-03 06:12:04
+date: 2022-04-06 19:03:24
 image: 'https://m.media-amazon.com/images/I/41UXpFP-ztL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B09GWPYXVR/?tag=tolees-21'
 descuento: '22.39'
-average: '52.4100000000001'
+average: '52.2455555555557'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Domina campos de batalla con distintos niveles para triunfar.
-- Carátula no definitiva.
 - Flanquea al enemigo por ambos lados y ataca por atrás para infligirle un potente golpe con un ataque encadenado.
 - Elige la posición más ventajosa en los combates por turnos para cambiar el curso de la batalla a tu favor.
+- Carátula no definitiva.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
