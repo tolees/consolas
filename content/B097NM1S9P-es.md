@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Marvel’s Guardians of the Galaxy + Star-Lord: Space Rider  cómic digital  - Playstation 4 - Limited Edition'
-date: 2022-03-31 22:44:29
+date: 2022-04-13 19:38:58
 image: 'https://m.media-amazon.com/images/I/51Fq5h05IxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B097NM1S9P-es BANDAI NAMCO Entertainment Iberica - Marvel’s Guardians of...'
 sku: 'B097NM1S9P-es'
-tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Videojuegos','bandai namco entertainment iberica','playstation', ]
+tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Videojuegos','bandai namco entertainment iberica','playstation','🇪🇸', ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B097NM1S9P/?tag=tolees-21'
 descuento: '51.52'
-average: '45.0647368421052'
+average: '44.0966666666666'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
