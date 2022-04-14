@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Nintendo - Fire Emblem Warrios: Three Hopes'
-date: 2022-04-10 13:15:31
+date: 2022-04-14 08:12:10
 image: 'https://m.media-amazon.com/images/I/516K0iBuuYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B09S4VMP5K-es Nintendo - Fire Emblem Warrios: Three Hopes'
 sku: 'B09S4VMP5K-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','nintendo','🇪🇸', ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B09S4VMP5K/?tag=tolees-21'
 descuento: '21.55'
-average: '58.4505263157895'
+average: '57.74'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
