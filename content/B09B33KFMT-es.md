@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Nintendo - Estudio de Videojuegos'
-date: 2022-04-11 14:14:18
+date: 2022-04-15 06:05:22
 image: 'https://m.media-amazon.com/images/I/5138Ut3cWmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B09B33KFMT-es Nintendo - Estudio de Videojuegos'
 sku: 'B09B33KFMT-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','nintendo','🇪🇸', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B09B33KFMT/?tag=tolees-21'
 descuento: '16.67'
-average: '28.2433333333333'
+average: '27.7785714285714'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Empareja a los nodon para que aúnen fuerzas y conviertan tu juego en realidad. Con su ayuda, cualquiera puede pasar de una página en blanco a un prototipo de videojuego en nada de tiempo.
-- Con el modo "programación libre" el jugador podrá sacar provecho de las habilidades aprendidas en las lección. Además, podrás intercambiar y descargar juegos con familiares y amigos de manera local o en línea.
-- Cada lección enseña a hacer un pequeño videojuego independiente, cada uno de un género distinto, que el jugador podrá probar en cualquier momento para comprobar y disfrutar de su progreso.
 - El juego introduce rápidamente a unos seres muy peculiares llamados nodon, cuya colaboración será esencial para crear un juego desde cero. Hay decenas de nodon en Estudio de videojuegos, cada uno tiene su propia personalidad y desempeña un papel específico dentro de tus creaciones.
+- Con el modo "programación libre" el jugador podrá sacar provecho de las habilidades aprendidas en las lección. Además, podrás intercambiar y descargar juegos con familiares y amigos de manera local o en línea.
 - Aprende a crear tus propios videojuegos, guiado por siete lecciones interactivas ideadas por las mentes de Nintendo.
+- Cada lección enseña a hacer un pequeño videojuego independiente, cada uno de un género distinto, que el jugador podrá probar en cualquier momento para comprobar y disfrutar de su progreso.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
