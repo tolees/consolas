@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - Marvel’s Guardians of the Galaxy + Star-Lord: Space Rider  cómic digital  - Playstation 4 - Limited Edition'
-date: 2022-04-13 19:38:58
+date: 2022-04-15 16:34:44
 image: 'https://m.media-amazon.com/images/I/51Fq5h05IxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B097NM1S9P/?tag=tolees-21'
 descuento: '51.52'
-average: '44.0966666666666'
+average: '43.6786363636363'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

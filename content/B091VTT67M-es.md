@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo Switch Leyendas Pokemon: Arceus'
-date: 2022-04-13 19:38:36
+date: 2022-04-15 16:34:55
 image: 'https://m.media-amazon.com/images/I/51eck2FjPDS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B091VTT67M/?tag=tolees-21'
 descuento: '21.55'
-average: '50.1061363636364'
+average: '50.0368888888889'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
