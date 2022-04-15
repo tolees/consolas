@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Nintendo - amiibo Byleth  colección Super Smash Bros. '
-date: 2022-03-31 22:40:49
+date: 2022-04-14 23:22:14
 image: 'https://m.media-amazon.com/images/I/410EiMmHV4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08SNKD37L-es Nintendo - amiibo Byleth colección Super Smash Bros.'
 sku: 'B08SNKD37L-es'
-tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','nintendo', ]
+tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','nintendo','🇪🇸', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B08SNKD37L/?tag=tolees-21'
 descuento: '47.83'
-average: '13.9347058823528'
+average: '13.8352631578946'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
