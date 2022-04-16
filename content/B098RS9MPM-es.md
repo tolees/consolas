@@ -28,7 +28,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye dos protectores de pantalla.
 - Pack de funda para consola Nintendo Switch y Nintendo Switch OLED.
+- Incluye dos protectores de pantalla.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
