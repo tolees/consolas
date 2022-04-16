@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gran diversidad de modos de juego, incluidos Mario Party (la original sobre el tablero con nuevos tableros para explorar) y Mario Party a dobles (modo de combate cooperativo con movimiento libre por la cuadrícula) entre otros
 - El juego de mesa se mantiene fiel a la estructura de juego básica con cuatro jugadores que se mueven por turnos sobre el tablero en busca de estrellas
+- Gran diversidad de modos de juego, incluidos Mario Party (la original sobre el tablero con nuevos tableros para explorar) y Mario Party a dobles (modo de combate cooperativo con movimiento libre por la cuadrícula) entre otros
 - Prueba Mariotlón en línea, un minijuego online en el que podrás poner a prueba tus habilidades contra otros fans de Mario Party
 - Compite en 80 nuevos minijuegos con muchas maneras diferentes de jugar que hacen uso de los mandos Joy-Con de muchas maneras diferentes
 - Nuevas formas de jugar: descubre la Sala de recreo de Toad, en la que dos consolas Nintendo Switch se conectan para jugar en modo sobre mesa

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 11 contrincantes (incluyendo a Gill) han sido incluidos en la Champion Edition además de uno adicional que sumará un total de 12; todos los personajes DLC se pueden comprar con dinero real o dinero del juego
+- Cada personaje recibe una nueva V-skill 2, añadiendo incluso profundidad al sistema de combate
 - La compra inicial de Street Fighter V sigue siendo la que los jugadores deben hacer para asegurarse de que siempre tengan la versión más actualizada del título
-- El contenido DLC adicional es descargable (código digital)
 - Street Fighter V: Champion Edition incluye todo el contenido de lanzamiento del original y la versión Arcade además de cada personaje, escenario y otros contenidos lanzados tras la Arcade
 - Crossplay disponible entre Playstation 4 y PC
-- Cada personaje recibe una nueva V-skill 2, añadiendo incluso profundidad al sistema de combate
+- 11 contrincantes (incluyendo a Gill) han sido incluidos en la Champion Edition además de uno adicional que sumará un total de 12; todos los personajes DLC se pueden comprar con dinero real o dinero del juego
+- El contenido DLC adicional es descargable (código digital)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
