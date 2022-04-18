@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Estudio de Videojuegos'
-date: 2022-04-15 06:05:22
+date: 2022-04-18 11:34:02
 image: 'https://m.media-amazon.com/images/I/5138Ut3cWmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B09B33KFMT/?tag=tolees-21'
 descuento: '16.67'
-average: '27.7785714285714'
+average: '27.43'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Empareja a los nodon para que aúnen fuerzas y conviertan tu juego en realidad. Con su ayuda, cualquiera puede pasar de una página en blanco a un prototipo de videojuego en nada de tiempo.
 - El juego introduce rápidamente a unos seres muy peculiares llamados nodon, cuya colaboración será esencial para crear un juego desde cero. Hay decenas de nodon en Estudio de videojuegos, cada uno tiene su propia personalidad y desempeña un papel específico dentro de tus creaciones.
-- Con el modo "programación libre" el jugador podrá sacar provecho de las habilidades aprendidas en las lección. Además, podrás intercambiar y descargar juegos con familiares y amigos de manera local o en línea.
 - Aprende a crear tus propios videojuegos, guiado por siete lecciones interactivas ideadas por las mentes de Nintendo.
+- Con el modo "programación libre" el jugador podrá sacar provecho de las habilidades aprendidas en las lección. Además, podrás intercambiar y descargar juegos con familiares y amigos de manera local o en línea.
 - Cada lección enseña a hacer un pequeño videojuego independiente, cada uno de un género distinto, que el jugador podrá probar en cualquier momento para comprobar y disfrutar de su progreso.
+- Empareja a los nodon para que aúnen fuerzas y conviertan tu juego en realidad. Con su ayuda, cualquiera puede pasar de una página en blanco a un prototipo de videojuego en nada de tiempo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
