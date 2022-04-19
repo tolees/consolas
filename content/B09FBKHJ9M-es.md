@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - Horizon Forbidden West [PS4]'
-date: 2022-04-17 15:29:22
+date: 2022-04-19 10:11:46
 image: 'https://m.media-amazon.com/images/I/51i7jqGvERL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B09FBKHJ9M/?tag=tolees-21'
 descuento: '22.15'
-average: '59.7686956521739'
+average: '59.54875'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Explora páramos remotos y enfréntate a máquinas más grandes e imponentes
 - Solo Aloy es capaz de restablecer el orden y el equilibrio en el mundo
-- Acompaña a Aloy en su aventura por las peligrosas y fantásticas tierras del Oeste Prohibido y enfréntate a nuevas y misteriosas amenazas
 - Descubre increíbles tribus en tu regreso a un futuro lejano en el mundo apocalíptico de Horizon
+- Explora páramos remotos y enfréntate a máquinas más grandes e imponentes
+- Acompaña a Aloy en su aventura por las peligrosas y fantásticas tierras del Oeste Prohibido y enfréntate a nuevas y misteriosas amenazas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

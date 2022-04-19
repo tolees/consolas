@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation-Juego Sony PS5 Death STRANDING Director S Cut Videojuegos  Multicolor 9722298'
-date: 2022-04-17 15:44:20
+date: 2022-04-19 10:13:38
 image: 'https://m.media-amazon.com/images/I/41YdumsiRZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B09BBPX3F1/?tag=tolees-21'
 descuento: '32.01'
-average: '40.3347826086956'
+average: '40.0704166666666'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
