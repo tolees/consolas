@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros. Interactive Spain - Lego Harry Potter Collection - Nintendo Switch. Edition: Estándar'
-date: 2022-04-13 17:57:14
+date: 2022-04-27 06:16:24
 image: 'https://m.media-amazon.com/images/I/51vy4YZcEVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07HGGDM4Q-es Warner Bros. Interactive Spain - Lego Harry Potter...'
 sku: 'B07HGGDM4Q-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','nintendo','warner bros. interactive spain','🇪🇸', ]
-actualPrice: 18.99 EUR
+actualPrice: 14.99 EUR
 currency: EUR
-price: 18.99
+price: 14.99
 comparePrice: 39.95 EUR
 prodname: 'Warner Bros. Interactive Spain - Lego Harry Potter Collection - Nintendo Switch. Edition: Estándar'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Warner Bros. Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B07HGGDM4Q/?tag=tolees-21'
-descuento: '52.47'
-average: '23.2159863945579'
+descuento: '62.48'
+average: '23.1604054054055'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dos juegos remasterizados, ahora en un solo disco.
-- Desbloquea y juega con más de 200 de tus personajes favoritos.
 - Explora Hogwarts y lanza hechizos con un amigo en las partidas cooperativas.
+- Desbloquea y juega con más de 200 de tus personajes favoritos.
+- Dos juegos remasterizados, ahora en un solo disco.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
