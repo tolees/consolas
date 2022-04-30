@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Carrera - Nintendo Mario Kart - P-Wing  20062532 '
-date: 2022-04-21 07:58:25
+date: 2022-04-30 08:26:12
 image: 'https://m.media-amazon.com/images/I/51mGdOXz8qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Carrera'
 buyurl: 'https://www.amazon.es/dp/B08Q3SCSPW/?tag=tolees-21'
 descuento: '65.01'
-average: '46.2033333333333'
+average: '42.7530769230769'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Con cuentavueltas y looping
+- Medidas montado: 158 x 68 cm
 - Incluye mandos con función Turbo.
 - Coches incluidos: P-Wing - Mario + P-Wing - Yoshi
-- Medidas montado: 158 x 68 cm
+- Con cuentavueltas y looping
 
 [🛒 Aquí!!!]({{< param buyurl >}})
