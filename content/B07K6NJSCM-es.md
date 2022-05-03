@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FR-TEC - FR·TEC - Auriculares Gaming Headset Genbu - PS4  Xbox One  Nintendo Switch  PC  Mac'
-date: 2022-05-02 12:15:51
+date: 2022-05-03 18:15:50
 image: 'https://m.media-amazon.com/images/I/410ROpeUeqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'FR-TEC'
 buyurl: 'https://www.amazon.es/dp/B07K6NJSCM/?tag=tolees-21'
 descuento: '50.02'
-average: '18.4985714285714'
+average: '18.06'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatible con: PlayStation 4, XBOX One, Nintendo Switch, PC y MAC
-- Micrófono flexible, con espuma para cancelación de ruido
-- Cable trenzado anti enredos (1,2m), control en línea: Volumen + Mic-mute
 - Diámetro del altavoz: 50mm
+- Micrófono flexible, con espuma para cancelación de ruido
+- Compatible con: PlayStation 4, XBOX One, Nintendo Switch, PC y MAC
+- Cable trenzado anti enredos (1,2m), control en línea: Volumen + Mic-mute
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
