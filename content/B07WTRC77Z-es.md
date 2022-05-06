@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - Marvel’s Spider-Man  PS4  Game of the Year Edition  GOTY '
-date: 2022-04-29 16:25:04
+date: 2022-05-06 13:29:40
 image: 'https://m.media-amazon.com/images/I/51L4rKx8MuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B07WTRC77Z/?tag=tolees-21'
 descuento: '48.01'
-average: '31.4783333333332'
+average: '31.4031506849314'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
