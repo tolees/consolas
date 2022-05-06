@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nacon Monster Truck Championship  PS5  Versión Española'
-date: 2022-05-05 18:18:59
+date: 2022-05-06 20:25:08
 image: 'https://m.media-amazon.com/images/I/51dP4eVrlHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'NACON'
 buyurl: 'https://www.amazon.es/dp/B08QX3J55Y/?tag=tolees-21'
 descuento: '19.88'
-average: '29.97'
+average: '27.974'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conducción y física realistas, incluyendo control independiente de las ruedas delanteras y traseras, y ajuste de diferentes elementos mecánicos, como suspensiones, caja de cambios y motor
 - 16 vehículos personalizables con más de 50 opcione
-- 5 tipos de eventos: Carrera, Contrarreloj, Carreras de Arrastre, Estilo Libre y Destrucción
 - 25 circuitos en diferentes ciudades de Estados Unidos
+- 5 tipos de eventos: Carrera, Contrarreloj, Carreras de Arrastre, Estilo Libre y Destrucción
 - Un modo online para hasta 8 jugadores en carreras de tamaño monstruoso
+- Conducción y física realistas, incluyendo control independiente de las ruedas delanteras y traseras, y ajuste de diferentes elementos mecánicos, como suspensiones, caja de cambios y motor
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
