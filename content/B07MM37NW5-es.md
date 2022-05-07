@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Paladone Game Boy Light-Réplica de la Consola Original-Producto Oficial de Nintendo'
-date: 2022-05-06 07:06:07
+date: 2022-05-07 07:49:12
 image: 'https://m.media-amazon.com/images/I/41DaZK1P0SL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ 'Juegos electrónicos portátiles','Juegos y accesorios para juegos','Ju
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99
-comparePrice: 19.01 EUR
+comparePrice: 19.02 EUR
 prodname: 'Paladone Game Boy Light-Réplica de la Consola Original-Producto Oficial de Nintendo'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Paladone'
 buyurl: 'https://www.amazon.es/dp/B07MM37NW5/?tag=tolees-21'
-descuento: '21.15'
+descuento: '21.19'
 average: '14.99'
 ---
 
