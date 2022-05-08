@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Pokemon Escarlata'
-date: 2022-05-04 15:40:12
+date: 2022-05-08 18:51:31
 image: 'https://m.media-amazon.com/images/I/51Q+zlRt3kL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B09TL4RSWZ/?tag=tolees-21'
 descuento: '21.33'
-average: '62.8373684210526'
+average: '62.445'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
