@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Grand Theft Auto: The Trilogy – The Definitive Edition'
-date: 2022-05-06 13:12:31
+date: 2022-05-09 15:15:14
 image: 'https://m.media-amazon.com/images/I/51ReAGnM-bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B09K4R4BLQ/?tag=tolees-21'
 descuento: '36.67'
-average: '46.7722222222222'
+average: '46.4585714285714'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Tres ciudades famosas, tres historias épicas. Juega a los clásicos que definieron un género de la trilogía original de Grand Theft Auto: Grand Theft Auto III, Grand Theft Auto: Vice City y Grand Theft Auto: San Andreas.
-- Grand Theft Auto: San Andreas: Hace cinco años, Carl Johnson, alias C. J., huyó de la bruma de Los Santos, San Andreas... una ciudad destrozada por las bandas, las drogas y la corrupción. Estamos a principios de los 90. C. J. tiene que volver a casa.
-- Grand Theft Auto: Vice City: Te damos la bienvenida a los 80. De la década de los cardados y los trajes de tonos pastel, llega la historia de un hombre que ascendió a lo más alto del mundo del crimen.
 - Descarga necesaria a través de internet.
 - Grand Theft Auto III: Todo empieza en Liberty City. Con la libertad revolucionaria de ir a cualquier sitio y atracar a quien quieras, Grand Theft Auto III pone al alcance de tu mano el epicentro del mundo delictivo... si es que tienes lo que hace falta.
+- Grand Theft Auto: Vice City: Te damos la bienvenida a los 80. De la década de los cardados y los trajes de tonos pastel, llega la historia de un hombre que ascendió a lo más alto del mundo del crimen.
+- Grand Theft Auto: San Andreas: Hace cinco años, Carl Johnson, alias C. J., huyó de la bruma de Los Santos, San Andreas... una ciudad destrozada por las bandas, las drogas y la corrupción. Estamos a principios de los 90. C. J. tiene que volver a casa.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
