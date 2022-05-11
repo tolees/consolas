@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cuenta con siete historias, cada una con protagonistas, épocas y estilos de juego distintos. En el Salvaje Oeste, un viajero, sobre cuya cabeza pende una gran recompense, lucha por su vida; en el ocaso del periodo Edo en Japón, un shinobi se encarga de una misión secreta.
 - ¡LIVE A LIVE, un juego de rol que nunca se había vendido fuera de Japón, llegará ahora a Nintendo Switch con gráficos en HD-2D!
+- Cuenta con siete historias, cada una con protagonistas, épocas y estilos de juego distintos. En el Salvaje Oeste, un viajero, sobre cuya cabeza pende una gran recompense, lucha por su vida; en el ocaso del periodo Edo en Japón, un shinobi se encarga de una misión secreta.
 - Todas estas historias pueden vivirse en el orden que prefieran los jugadores, un periplo como ningún otro aguarda en LIVE A LIVE.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
