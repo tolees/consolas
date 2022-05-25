@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '505 Games - Control - Ultimate Edition PS5'
-date: 2022-05-23 20:38:11
+date: 2022-05-25 07:50:29
 image: 'https://m.media-amazon.com/images/I/5119V5pdD2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: '505 Games'
 buyurl: 'https://www.amazon.es/dp/B08TBGP2YT/?tag=tolees-21'
 descuento: '51.23'
-average: '29.7127777777777'
+average: '29.2010526315789'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
