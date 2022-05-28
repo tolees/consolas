@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Medievil PS4'
-date: 2022-05-26 06:54:42
+date: 2022-05-28 15:23:27
 image: 'https://m.media-amazon.com/images/I/51LomRgwCJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B07ZFHYCZ6/?tag=tolees-21'
 descuento: '50.02'
-average: '21.3958333333333'
+average: '20.9030769230769'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
