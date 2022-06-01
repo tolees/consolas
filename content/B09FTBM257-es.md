@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Call of the Sea Norah S Diary Edition - Playstation 5'
-date: 2022-05-31 15:26:05
+date: 2022-06-01 20:27:28
 image: 'https://m.media-amazon.com/images/I/51+xLxL6SjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B09FTBM257/?tag=tolees-21'
 descuento: '25.63'
-average: '36.3828571428571'
+average: '35.5525'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Sumérgete en las profundidades
 - Busca el significado
 - Conoce a Norah
 - Explora la belleza
-- Sumérgete en las profundidades
 
 [🛒 Visítala!!!]({{< param buyurl >}})
