@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HyperX SoloCast – Micrófono de condensador USB para juegos  para PC  PS4 y Mac  sensor de silenciamiento con un toque  patrón polar cardioide  juegos  streaming  podcasts  Twitch  YouTube  Discord'
-date: 2022-06-05 11:06:24
+date: 2022-06-09 00:58:54
 image: 'https://m.media-amazon.com/images/I/31kf8+11tfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HyperX'
 buyurl: 'https://www.amazon.es/dp/B08KFL3SFV/?tag=tolees-21'
 descuento: '42.69'
-average: '54.7552941176472'
+average: '54.1011111111112'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Grabación de audio Plug N Play: obtenga grabaciones de audio de calidad con este micrófono de condensador USB fácil de usar. El patrón polar cardioide prioriza las fuentes de sonido directamente frente al micrófono.
-- Sensor de toque para silenciar con indicador de estado LED: simplemente toque la parte superior del micrófono para silenciar, y el indicador LED característico le permite ver de inmediato si está transmitiendo o no.
-- Rosca del brazo articulado y soporte de micrófono: el micrófono versátil se adapta a configuraciones roscadas de 3/8 y 5/8 pulgadas, lo que lo hace compatible con la mayoría de los soportes de micrófono o brazos articulados.
 - Compatibilidad con varios dispositivos y programas: obtenga un excelente sonido ya sea que se conecte a una PC, PS4, PS5 o Mac. SoloCast está certificado por Discord y TeamSpeak, y funciona en las principales plataformas de transmisión como Streamlabs OBS, OBS Studio y XSplit.
+- Sensor de toque para silenciar con indicador de estado LED: simplemente toque la parte superior del micrófono para silenciar, y el indicador LED característico le permite ver de inmediato si está transmitiendo o no.
+- Grabación de audio Plug N Play: obtenga grabaciones de audio de calidad con este micrófono de condensador USB fácil de usar. El patrón polar cardioide prioriza las fuentes de sonido directamente frente al micrófono.
 - Soporte flexible y ajustable: el soporte de fácil colocación gira para admitir una variedad de configuraciones. Incluso puede caber debajo de un monitor si su configuración tiene poco espacio.
+- Rosca del brazo articulado y soporte de micrófono: el micrófono versátil se adapta a configuraciones roscadas de 3/8 y 5/8 pulgadas, lo que lo hace compatible con la mayoría de los soportes de micrófono o brazos articulados.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
