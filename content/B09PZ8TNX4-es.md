@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Pokemon Diamante Brillante + Pokemon Perla Reluciente'
-date: 2022-06-17 17:35:10
+date: 2022-06-19 16:30:43
 image: 'https://m.media-amazon.com/images/I/51-F-FoNy2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B09PZ8TNX4/?tag=tolees-21'
 descuento: '53.79'
-average: '69.335'
+average: '66.2166666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
