@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Call of the Sea Norah S Diary Edition - Playstation 5'
-date: 2022-06-10 02:15:24
+date: 2022-06-20 23:51:32
 image: 'https://m.media-amazon.com/images/I/51+xLxL6SjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09FTBM257-es Meridiem Games - Call of the Sea Norah S Diary Edition -...'
 sku: 'B09FTBM257-es'
 tags: [ 'Hardware y juegos para PlayStation 5','Juegos para PlayStation 5','Videojuegos','meridiem games','playstation','🇪🇸', ]
-actualPrice: 28.92 EUR
+actualPrice: 26.39 EUR
 currency: EUR
-price: 28.92
+price: 26.39
 comparePrice: 39.99 EUR
 prodname: 'Meridiem Games - Call of the Sea Norah S Diary Edition - Playstation 5'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B09FTBM257/?tag=tolees-21'
-descuento: '27.68'
-average: '34.8155555555556'
+descuento: '34.01'
+average: '33.973'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sumérgete en las profundidades
-- Explora la belleza
 - Busca el significado
+- Sumérgete en las profundidades
 - Conoce a Norah
+- Explora la belleza
 
 [🛒 Visítala!!!]({{< param buyurl >}})
