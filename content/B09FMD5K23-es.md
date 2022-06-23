@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Disco Elysium the Final Cut - PlayStation 4'
-date: 2022-06-22 06:39:50
+date: 2022-06-23 15:22:09
 image: 'https://m.media-amazon.com/images/I/51wsEybYsrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B09FMD5K23/?tag=tolees-21'
 descuento: '50.01'
-average: '30.915'
+average: '29.9218181818182'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
