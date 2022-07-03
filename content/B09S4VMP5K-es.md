@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Fire Emblem Warriors: Three Hopes'
-date: 2022-06-30 09:30:59
+date: 2022-07-03 11:13:44
 image: 'https://m.media-amazon.com/images/I/516K0iBuuYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B09S4VMP5K/?tag=tolees-21'
 descuento: '21.55'
-average: '53.4402702702703'
+average: '53.2705263157895'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Disfruta de combates que aúnan acción y estrategia. Controla directamente a los personajes y arrasa con hordas de enemigos al puro estilo de la serie Warriors, mientras das órdenes a tus aliados.
 - Piensa de manera táctica para decidir a dónde desplazarte, según el estado del campo de batalla. Entre los combates, podrás interactuar con personajes cautivadores de Fire Emblem: Three Houses.
 - La acción tiene lugar en Fódlan, una tierra dominada por tres potencias. Fire Emblem Warriors: Three Hopes utiliza el mundo y los personajes de Fire Emblem: Three Houses para narrar una historia completamente nueva.
-- Disfruta de combates que aúnan acción y estrategia. Controla directamente a los personajes y arrasa con hordas de enemigos al puro estilo de la serie Warriors, mientras das órdenes a tus aliados.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

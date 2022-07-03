@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Splatoon 3'
-date: 2022-06-21 02:00:48
+date: 2022-07-03 11:08:38
 image: 'https://m.media-amazon.com/images/I/51D8cwykI6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B09GWPF482/?tag=tolees-21'
 descuento: '21.70'
-average: '65.5469999999999'
+average: '64.6590476190475'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
