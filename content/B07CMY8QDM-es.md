@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UBI Soft - South Park Fractured  Nintendo Switch '
-date: 2022-07-05 13:05:18
+date: 2022-07-06 13:11:10
 image: 'https://m.media-amazon.com/images/I/51Rp7bGGcRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
