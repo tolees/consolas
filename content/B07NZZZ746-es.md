@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HyperX HX-MICQC-BK QuadCast: micrófono independiente para streamers  creadores de contenido y jugadores PC  PS4  PS5 y Mac  negro  talla única'
-date: 2022-07-05 16:32:53
+date: 2022-07-07 06:15:17
 image: 'https://m.media-amazon.com/images/I/41odDiXbG+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'HyperX'
 buyurl: 'https://www.amazon.es/dp/B07NZZZ746/?tag=tolees-21'
 descuento: '43.75'
-average: '118.993870967742'
+average: '118.0875'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Comprueba rápidamente el estado del micrófono con el indicador LED y toca para silenciar para evitar accidentes de audio.
-- QuadCast incluye un soporte integrado antivibración, filtro pop interno y un adaptador para la mayoría de los soportes.
 - Micrófono de condensador independiente ideal para serpentinas que quieren sonido de calidad.
+- QuadCast incluye un soporte integrado antivibración, filtro pop interno y un adaptador para la mayoría de los soportes.
 - Ajuste los niveles de entrada de micrófono con el control de ganancia convenientemente ubicado y monitoree el sonido a través de la toma de auriculares
+- Comprueba rápidamente el estado del micrófono con el indicador LED y toca para silenciar para evitar accidentes de audio.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
