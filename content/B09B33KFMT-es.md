@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Aprende a crear tus propios videojuegos, guiado por siete lecciones interactivas ideadas por las mentes de Nintendo.
-- Empareja a los nodon para que aúnen fuerzas y conviertan tu juego en realidad. Con su ayuda, cualquiera puede pasar de una página en blanco a un prototipo de videojuego en nada de tiempo.
-- Con el modo "programación libre" el jugador podrá sacar provecho de las habilidades aprendidas en las lección. Además, podrás intercambiar y descargar juegos con familiares y amigos de manera local o en línea.
-- Cada lección enseña a hacer un pequeño videojuego independiente, cada uno de un género distinto, que el jugador podrá probar en cualquier momento para comprobar y disfrutar de su progreso.
 - El juego introduce rápidamente a unos seres muy peculiares llamados nodon, cuya colaboración será esencial para crear un juego desde cero. Hay decenas de nodon en Estudio de videojuegos, cada uno tiene su propia personalidad y desempeña un papel específico dentro de tus creaciones.
+- Cada lección enseña a hacer un pequeño videojuego independiente, cada uno de un género distinto, que el jugador podrá probar en cualquier momento para comprobar y disfrutar de su progreso.
+- Con el modo "programación libre" el jugador podrá sacar provecho de las habilidades aprendidas en las lección. Además, podrás intercambiar y descargar juegos con familiares y amigos de manera local o en línea.
+- Empareja a los nodon para que aúnen fuerzas y conviertan tu juego en realidad. Con su ayuda, cualquiera puede pasar de una página en blanco a un prototipo de videojuego en nada de tiempo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
