@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G29 Driving Force Volante de Carreras y Pedales  Force Feedback  Aluminio Anodizado  Palancas de cambio  Volante de Cuero  Pedales Ajustables  Enchufe EU  PS5  PS4  PC  Mac - Negro'
-date: 2022-07-11 23:14:47
+date: 2022-07-14 05:51:15
 image: 'https://m.media-amazon.com/images/I/41cfdzBMHeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00YUIM2J0-es Logitech G29 Driving Force Volante de Carreras y Pedales...'
 sku: 'B00YUIM2J0-es'
 tags: [ 'Accesorios para Juegos PC','Accesorios para PlayStation 4','Hardware y juegos para PlayStation 4','Juegos y Accesorios para PC','Mandos y controles para PlayStation 4','Videojuegos','Volantes para PlayStation 4','logitech g','ps4','ps5','🇪🇸', ]
-actualPrice: 247.89 EUR
+actualPrice: 278.52 EUR
 currency: EUR
-price: 247.89
+price: 278.52
 comparePrice: 399.99 EUR
 prodname: 'Logitech G29 Driving Force Volante de Carreras y Pedales  Force Feedback  Aluminio Anodizado  Palancas de cambio  Volante de Cuero  Pedales Ajustables  Enchufe EU  PS5  PS4  PC  Mac - Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Logitech G'
 buyurl: 'https://www.amazon.es/dp/B00YUIM2J0/?tag=tolees-21'
-descuento: '38.03'
-average: '245.19797029703'
+descuento: '30.37'
+average: '245.362118226601'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Customisable Pedals : These pressure-sensitive nonlinear brake pedals provide a responsive, accurate braking feel on a sturdy base - with adjustable pedal faces for finer control
-- Immersive Gaming Experience : Perfect for Sony PS4, PS3 and PC gaming titles, the Driving Force simulates the feeling of driving a real car with precision steering and pressure-sensitive pedals
-- Immersive Gaming Experience : Perfect for Xbox One and PC gaming titles, the Driving Force simulates the feeling of driving a real car with precision steering and pressure-sensitive pedals
-- 900-Degree Rotation : Lock-to-lock rotation of the Driving Force means you can turn the wheel around two and a half times, hand over hand on wide turns - just like a real Ferrari F1 race car
-- Up Your Game : Take your racing simulation to the next level with Driving Force accessories like the Driving Force Shifter or desk and rig mounts
+- Construcción Duradera: Con cojinetes de acero en el eje del volante y pedales y palancas de cambio de acero inoxidable, Driving Force se ha diseñado para ofrecer una experiencia de conducción precisa
+- Diseñado para los Juegos de PlayStation 5, PS4, PS3 y PC más Recientes: Añade Driving Force a tu selección de controlador, G29 Driving Force también se puede usar en PC con determinados juegos
+- Controles para Juegos de Fácil Acceso: El mando de dirección, los botones de la consola y las palancas de cambio semiautomáticas están situados en el volante para aportar comodidad
+- Force Feedback Realista: G29 Driving Force incluye Force Feedback con dos motores, diseñado para simular con realismo la sensación de conducir un coche y de los neumáticos en cada giro
+- Unidad de Pedal con Capacidad de Respuesta: El volante G29 viene con un pedal independiente para el suelo para que puedas frenar, acelerar y cambiar de marcha, como en un coche deportivo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
