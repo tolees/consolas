@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Monster Hunter Rise NSW'
-date: 2022-07-12 20:12:14
+date: 2022-07-14 02:25:56
 image: 'https://m.media-amazon.com/images/I/51+nRuQnYkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B08KX8NF29/?tag=tolees-21'
 descuento: '33.34'
-average: '33.4544444444444'
+average: '34.108'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
