@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Monster Hunter Rise: Sunbreak'
-date: 2022-07-12 23:12:09
+date: 2022-07-17 10:23:43
 image: 'https://m.media-amazon.com/images/I/51eo6yARDRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B09VPRRWT1/?tag=tolees-21'
 descuento: '21.33'
-average: '55.5788235294119'
+average: '55.5461111111112'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Aquí, los jugadores interactuarán con un elenco de nuevos personajes, como el líder de la Orden Real de Caballeros, el Almirante Galleus, el peculiar científico Bahari, Minayle la herrera, Oboro el mercader, y Chichae la doncella de misiones.
 - Estos útiles aliados ayudarán a los cazadores creando nuevo equipamiento para los peligros que están por venir, e instruyendo en el arte de nuevas técnicas de Cordóptero.
-- Esta bulliciosa estación de paso marítima acoge el Laboratorio que investiga la actividad anormal de monstruos que asola el Reino, así como el puesto de comandancia encargado de restablecer la paz en la región.
-- Monster Hunter Rise: Sunbreak comienza tras la heroica defensa de la aldea Kamura frente al Frenesí con la que concluye Monster Hunter Rise. Las noticias de la supervivencia de la aldea inspiran a la valiente Fiorayne a viajar desde el Reino distante en busca de ayuda.
 - Los cazadores que tengan la gallardía suficiente para responder a la llamada de auxilio viajarán hasta el puerto de la avanzadilla de Elgado.
+- Monster Hunter Rise: Sunbreak comienza tras la heroica defensa de la aldea Kamura frente al Frenesí con la que concluye Monster Hunter Rise. Las noticias de la supervivencia de la aldea inspiran a la valiente Fiorayne a viajar desde el Reino distante en busca de ayuda.
+- Esta bulliciosa estación de paso marítima acoge el Laboratorio que investiga la actividad anormal de monstruos que asola el Reino, así como el puesto de comandancia encargado de restablecer la paz en la región.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
