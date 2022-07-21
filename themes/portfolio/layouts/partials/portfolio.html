@@ -25,7 +25,7 @@
 {{ end }}
               <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 masonry-item">
                   <div class="box-masonry">
-                      {{ if and (isset .Params "image") .Params.image }}
+                        {{ if and (isset .Params "image") .Params.image }}
                         {{ if eq .Params.showonlyimage true }}
                         <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay">
                         {{ else }}
@@ -48,13 +48,13 @@
                               {{ $ageDays := div (sub now.Unix .Date.Unix) 86400 }}
                               <!-- Published less than 1 day ago -->
                               {{  if lt $ageDays 1 }}
-                              <span style="text-decoration: line-through">{{ .Params.comparePrice }}</span></small> {{ if eq ($.Scratch.Get "isMinimumVariantPrice") "true" }} From {{ end }} <b> {{ $.Scratch.Get "minimumPrice" }} </b>({{ .Params.descuento }}% ⬇)
+                              <span style="text-decoration: line-through">{{ .Params.comparePrice }}</span> {{ if eq ($.Scratch.Get "isMinimumVariantPrice") "true" }} From {{ end }} <b> {{ $.Scratch.Get "minimumPrice" }} </b>({{ .Params.descuento }}% ⬇)
+                            
                               <br>
-                              {{ end }}
+                              {{ end }}</small>
                               {{ if .Title }}
                               {{ .Title }}
-
-                            {{ end }}
+                              {{ end }}
                             </p>
                           </div>
                       </div>
