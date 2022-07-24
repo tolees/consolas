@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Monster Hunter Rise NSW'
-date: 2022-07-14 02:25:56
+date: 2022-07-24 07:13:17
 image: 'https://m.media-amazon.com/images/I/51+nRuQnYkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08KX8NF29-es Nintendo - Monster Hunter Rise NSW'
 sku: 'B08KX8NF29-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','nintendo','🇪🇸', ]
-actualPrice: 39.99 EUR
+actualPrice: 33.59 EUR
 currency: EUR
-price: 39.99
+price: 33.59
 comparePrice: 59.99 EUR
 prodname: 'Nintendo - Monster Hunter Rise NSW'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B08KX8NF29/?tag=tolees-21'
-descuento: '33.34'
-average: '34.108'
+descuento: '44.01'
+average: '34.555'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
