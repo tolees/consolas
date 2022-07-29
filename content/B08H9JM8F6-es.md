@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UBI Soft - Just Dance 2021 XBOX'
-date: 2022-07-28 06:25:24
+date: 2022-07-29 12:19:39
 image: 'https://m.media-amazon.com/images/I/51YK-wPDmeL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'UBI Soft'
 buyurl: 'https://www.amazon.es/dp/B08H9JM8F6/?tag=tolees-21'
 descuento: '79.98'
-average: '25.193448275862'
+average: '24.6866666666666'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
