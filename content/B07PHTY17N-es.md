@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SEGA - Judgment'
-date: 2022-07-28 15:44:30
+date: 2022-08-11 20:04:16
 image: 'https://m.media-amazon.com/images/I/51IMxoG4rbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SEGA'
 buyurl: 'https://www.amazon.es/dp/B07PHTY17N/?tag=tolees-21'
 descuento: '33.49'
-average: '43.946'
+average: '43.5781818181818'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Practica mezclando y cambiando los estilos de combate con una gran variedad de habilidades, armas y poderosas (y divertidas) acciones EX para desbloquear una nueva dimensión en el combate
+- El sórdido distrito rojo de Kamurocho: adéntrate en la mente del detective privado Takayuki Yagami y utiliza los innovadores sistemas de investigación para desentrañar los secretos que se esconden en lo mas profundo de la corrupción de Kamurocho
+- Vive combates realistas con dos estilos de combate únicos: elimina grupos de matones con barridos con el Estilo Grulla, cambia al Estilo Tigre para aplastar un único enemigo con una serie de potentes golpes
 - Contiene una carátula reversible y una pegatina de Ryu Ga Gotoku Studio
 - De los creadores de la aclamada saga Yakuza: Ryu Ga Gotoku presenta Judgment, la dramática historia de un abogado, que ha perdido el honor, en busca de redención en un mundo lleno de corrupción y desesperación
-- Vive combates realistas con dos estilos de combate únicos: elimina grupos de matones con barridos con el Estilo Grulla, cambia al Estilo Tigre para aplastar un único enemigo con una serie de potentes golpes
-- El sórdido distrito rojo de Kamurocho: adéntrate en la mente del detective privado Takayuki Yagami y utiliza los innovadores sistemas de investigación para desentrañar los secretos que se esconden en lo mas profundo de la corrupción de Kamurocho
+- Practica mezclando y cambiando los estilos de combate con una gran variedad de habilidades, armas y poderosas (y divertidas) acciones EX para desbloquear una nueva dimensión en el combate
 
 [🛒 Visítala!!!]({{< param buyurl >}})
