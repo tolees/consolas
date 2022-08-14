@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ACTIVISION - Tony Hawk’s Pro Skater 1+2 PS4  Exclusiva Amazon '
-date: 2022-08-13 07:33:15
+date: 2022-08-14 11:53:06
 image: 'https://m.media-amazon.com/images/I/51bFepAYKEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ACTIVISION'
 buyurl: 'https://www.amazon.es/dp/B08FTNP9RJ/?tag=tolees-21'
 descuento: '44.40'
-average: '33.3616666666667'
+average: '32.7176923076923'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Juega en línea y compite contra jugadores de todo el mundo en los modos y clasificación multijugador
+- Patina como el legendario Tony Hawk y toda la plantilla de profesionales al completo; patina con la banda sonora que marcó toda una era
 - Presume de estilo y creatividad con las mejoras en las funciones Crear skater y Crear parque
 - Juega a los modos de juego originales y enfréntate a otros skaters en los modos locales de 2 jugadores
-- Patina como el legendario Tony Hawk y toda la plantilla de profesionales al completo; patina con la banda sonora que marcó toda una era
 - Contenido exclusivo: 4 postales exclusivas con información de los skaters, 3 pegatinas de vinilo exclusivas
+- Juega en línea y compite contra jugadores de todo el mundo en los modos y clasificación multijugador
 
 [🛒 Comprar!!!]({{< param buyurl >}})
