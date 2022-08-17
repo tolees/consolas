@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch Media - Cooking Mama Cookstar - Nintendo Switch'
-date: 2022-08-15 05:35:37
+date: 2022-08-17 05:39:45
 image: 'https://m.media-amazon.com/images/I/51DfkwlC+PL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Koch Media'
 buyurl: 'https://www.amazon.es/dp/B085QWBM9Y/?tag=tolees-21'
 descuento: '32.51'
-average: '32.2372727272727'
+average: '31.8'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Más de 90 recetas
-- Modo desafío para los más expertos
+- Juegos multijugador y cooperativo hasta 2 jugadores
 - Recetas clásicas y divertidas como Unicorn Food
 - Modo vegetariano
-- Juegos multijugador y cooperativo hasta 2 jugadores
+- Modo desafío para los más expertos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
