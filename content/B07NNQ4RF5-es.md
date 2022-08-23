@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AVerMedia Live Gamer Mini Tarjeta de Captura GC311 1080p 60 Transmisión y Grabación de Dideo  Codificador de Hardware H.264 compatible con Xbox  Switch  HDMI Plug and Play para PC y Mac'
-date: 2022-08-21 22:11:44
+date: 2022-08-23 11:43:57
 image: 'https://m.media-amazon.com/images/I/41yFuouGTQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'AVerMedia'
 buyurl: 'https://www.amazon.es/dp/B07NNQ4RF5/?tag=tolees-21'
 descuento: '52.57'
-average: '77.1682608695653'
+average: '76.5689361702129'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Grabación de video Full HD 1080P: transmita y grabe todo su contenido en Full HD a 60 FPS
 - Vídeo de transferencia sin latencia: disfrute de la reproducción de vídeo sin comprimir directamente en el monitor de la PC sin latencia
-- Funcionalidad plug-and-play: ofrece comodidad; simplemente conéctelo a su PC y estará listo para grabar y transmitir
 - Codificador de hardware H.264: con codificación de hardware, este dispositivo se carga sin poner ninguna carga en su CPU
+- Grabación de video Full HD 1080P: transmita y grabe todo su contenido en Full HD a 60 FPS
 - Admite el software de transmisión RECentral: es un potente paquete de software de transmisión y grabación con óptimas funciones, como multisecuencia, superposiciones enriquecidas, clave de croma y más
+- Funcionalidad plug-and-play: ofrece comodidad; simplemente conéctelo a su PC y estará listo para grabar y transmitir
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
