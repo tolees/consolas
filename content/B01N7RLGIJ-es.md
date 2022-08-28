@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Mario Kart 8 Deluxe'
-date: 2022-08-20 15:11:38
+date: 2022-08-28 08:36:21
 image: 'https://m.media-amazon.com/images/I/51mMYyim1tL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B01N7RLGIJ/?tag=tolees-21'
 descuento: '20.00'
-average: '47.4603759398498'
+average: '47.4643283582091'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Los pilotos cuentan con el volante inteligente, que ayuda a no salirse de la pista
-- Inclusión de circuitos inéditos en el modo batalla
 - Hasta 8 pilotos en partidas de multijugador local
 - Nuevos personajes: Inkling, Rey Boo, Huesitos y Bowsy
+- Inclusión de circuitos inéditos en el modo batalla
 
 [🛒 Visítala!!!]({{< param buyurl >}})
