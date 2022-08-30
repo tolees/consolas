@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - The Last of Us Parte II'
-date: 2022-08-29 08:17:56
+date: 2022-08-30 10:20:01
 image: 'https://m.media-amazon.com/images/I/41ukZdswq3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B01N6IVNU6/?tag=tolees-21'
 descuento: '35.89'
-average: '38.9338383838383'
+average: '38.7143999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Los jugadores asumirán el control de Ellie
-- Plataforma del juego: PlayStation 4
-- Tipo de producto: videojuego
 - Es un juego para un solo jugador
+- Tipo de producto: videojuego
 - Es un videojuego de acción y aventura
+- Plataforma del juego: PlayStation 4
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
