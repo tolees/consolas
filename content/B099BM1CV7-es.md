@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SEGA - Sonic Colours Ultimate Vanilla - Switch'
-date: 2022-08-26 08:34:24
+date: 2022-08-31 06:14:50
 image: 'https://m.media-amazon.com/images/I/51OuEv-mcyS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SEGA'
 buyurl: 'https://www.amazon.es/dp/B099BM1CV7/?tag=tolees-21'
 descuento: '20.01'
-average: '28.5431034482758'
+average: '28.6579999999999'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Pon a prueba tus habilidades y enfréntate a Metal Sonic; Rompe récords para desbloquear recompensas
 - Acelera a una supervelocidad que te hará subir la adrenalina, recorre mundos desafiantes y maniobra a través de peligrosos obstáculos; Calcula perfectamente tus ataques para cargar tu impulso y alcanzar la velocidad de Super Sonic
 - Explora y aventúrate en entornos envolventes, como una Montaña Dulce llena de deliciosos dulces o un Parque de Acuarios repleto de vida marina e innumerables piscinas, todo ello centrado en un misterioso parque de atracciones
-- Transforma a Sonic aprovechando el magnífico poder alienígena de los Wisps para derrotar a los enemigos y descubrir los secretos del Parque de Atracciones Interestelar; Atraviesa objetos sólidos y descubre caminos alternativos utilizando el nuevo Jade Ghost Wisp
 - Compatible con las consolas de nueva generación y ahora con mejoras visuales y gráficos mejorados (4K), rendimiento de 60 fotogramas por segundo, controles refinados y muchas más mejoras en la jugabilidad
-- Pon a prueba tus habilidades y enfréntate a Metal Sonic; Rompe récords para desbloquear recompensas
+- Transforma a Sonic aprovechando el magnífico poder alienígena de los Wisps para derrotar a los enemigos y descubrir los secretos del Parque de Atracciones Interestelar; Atraviesa objetos sólidos y descubre caminos alternativos utilizando el nuevo Jade Ghost Wisp
 
 [🛒 Visítala!!!]({{< param buyurl >}})
