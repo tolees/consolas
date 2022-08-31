@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SEGA - Two Point Campus Enrolment Edition Nintendo Switch'
-date: 2022-08-29 07:24:10
+date: 2022-08-31 15:14:28
 image: 'https://m.media-amazon.com/images/I/51tQoGvszIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SEGA'
 buyurl: 'https://www.amazon.es/dp/B09S17YQKD/?tag=tolees-21'
 descuento: '32.51'
-average: '32.3233333333333'
+average: '30.19'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
