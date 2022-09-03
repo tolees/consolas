@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HORI - Controlador Split Pad Pro Negro  Nintendo Switch '
-date: 2022-09-01 06:55:16
+date: 2022-09-03 09:22:36
 image: 'https://m.media-amazon.com/images/I/41qXNXlmk-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'hori'
 buyurl: 'https://www.amazon.es/dp/B08FJ7XY3B/?tag=tolees-21'
 descuento: '30.59'
-average: '38.6864999999999'
+average: '38.4966666666666'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Licencia oficial de Nintendo
-- La precisión y comodidad del Pro Controller, en modo portátil
-- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
 - Botones traseros programables
+- Licencia oficial de Nintendo
+- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
 - Superficie de agarre, gatillos, sticks y cruceta de mayor tamaño que los de los Joy-Con
+- La precisión y comodidad del Pro Controller, en modo portátil
 
 [🛒 Aquí!!!]({{< param buyurl >}})
