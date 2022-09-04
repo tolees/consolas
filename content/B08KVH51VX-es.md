@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - NEED FOR SPEED HOT PURSUIT REMASTERED'
-date: 2022-09-01 20:04:13
+date: 2022-09-04 08:33:34
 image: 'https://m.media-amazon.com/images/I/51GnkcszKfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B08KVH51VX/?tag=tolees-21'
 descuento: '25.01'
-average: '24.6744444444446'
+average: '24.4357142857144'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
