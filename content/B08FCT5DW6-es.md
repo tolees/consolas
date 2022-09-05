@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PDP Mando con cable para Xbox Series X  Azul  Revenant Blue '
-date: 2022-09-04 09:11:01
+date: 2022-09-05 10:03:55
 image: 'https://m.media-amazon.com/images/I/41ax7b7kflL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatible con Xbox One, Series X/S y Windows.
+- Botones dobles de hombro y gatillos con textura.
 - Conector para auriculares de 3,5 mm con controles de audio integrados.
+- Compatible con Xbox One, Series X/S y Windows.
 - Cable desenchufable de 2,4 m.
 - Motores de vibración dual.
-- Botones dobles de hombro y gatillos con textura.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
