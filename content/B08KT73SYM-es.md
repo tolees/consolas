@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HORI - Controlador D-Pad  izquierdo  Pikachu  Nintendo Switch '
-date: 2022-09-09 15:55:16
+date: 2022-09-10 18:58:09
 image: 'https://m.media-amazon.com/images/I/51Vp3M1u6AL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Hori'
 buyurl: 'https://www.amazon.es/dp/B08KT73SYM/?tag=tolees-21'
 descuento: '20.01'
-average: '24.365'
+average: '23.8788888888889'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Joy-Con izquierdo con cruceta
 - Licencias oficiales de Nintendo y Pokémon
 - Para juegos 2D con uso intensivo del pad direccional
-- Joy-Con izquierdo con cruceta
 
 [🛒 Aquí!!!]({{< param buyurl >}})
