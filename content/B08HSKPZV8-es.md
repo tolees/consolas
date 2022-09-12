@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Koch Media - Chronos Before the Ashes - PS4'
-date: 2022-09-09 12:00:13
+date: 2022-09-12 12:55:57
 image: 'https://m.media-amazon.com/images/I/51QprzFhRQL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08HSKPZV8-es Koch Media - Chronos Before the Ashes - PS4'
 sku: 'B08HSKPZV8-es'
 tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Videojuegos','koch media','ps4','🇪🇸', ]
-actualPrice: 16.25 EUR
+actualPrice: 18.05 EUR
 currency: EUR
-price: 16.25
+price: 18.05
 comparePrice: 34.27 EUR
 prodname: 'Koch Media - Chronos Before the Ashes - PS4'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Koch Media'
 buyurl: 'https://www.amazon.es/dp/B08HSKPZV8/?tag=tolees-21'
-descuento: '52.58'
-average: '21.6184615384615'
+descuento: '47.33'
+average: '21.3635714285714'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

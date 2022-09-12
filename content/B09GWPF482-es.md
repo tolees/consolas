@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Splatoon 3'
-date: 2022-09-09 12:00:24
+date: 2022-09-12 12:55:45
 image: 'https://m.media-amazon.com/images/I/51D8cwykI6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B09GWPF482/?tag=tolees-21'
 descuento: '21.70'
-average: '60.4614545454546'
+average: '60.2192857142858'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Por otro lado, la urbe de Tintelia, también conocida como "la ciudad caótica", es el corazón de este páramo arenoso.
+- ¡Entinta y sobrevive en Splatoon 3! Te damos la bienvenida a la abrasadora región de Tintelia, ¡donde te esperan nuevas armas, habilidades, escenarios e indumentaria de lo más novedoso!
 - Hasta en este lugar desolado, los combates territoriales son la estrella y las batallas se desarrollan en nuevos escenarios en plena naturaleza, como el majestuoso Desfiladero Fumarola.
 - Modo historia/campaña para un único jugador, offline. Batallas territoriales, Pintazonas, Torre, Pez Dorado, Asalto Almeja y Salmon Run, para equipos de cuatro jugadores, online o en red local. Modo Carterritorial para dos jugadores, online. El modo Salmon Run ahora está disponible en cualquier momento.
-- Nuevos movimientos dinámicos ayudan a estos luchadores a esquivar ataques y cubrir más terreno; además, ahora también cuentan con un arma en forma de arco para repartir tinta a diestro y siniestro, y nuevas armas especiales, como el cangrejobot.
-- ¡Entinta y sobrevive en Splatoon 3! Te damos la bienvenida a la abrasadora región de Tintelia, ¡donde te esperan nuevas armas, habilidades, escenarios e indumentaria de lo más novedoso!
+- Por otro lado, la urbe de Tintelia, también conocida como "la ciudad caótica", es el corazón de este páramo arenoso.
 - Enfréntate a rivales en combates en línea a tope de tinta, repele ofensivas de salmónidos y evita una invasión de octarianos.
+- Nuevos movimientos dinámicos ayudan a estos luchadores a esquivar ataques y cubrir más terreno; además, ahora también cuentan con un arma en forma de arco para repartir tinta a diestro y siniestro, y nuevas armas especiales, como el cangrejobot.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
