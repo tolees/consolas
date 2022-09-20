@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UBI Soft - RABBIDS PARTY OF LEGENDS PS4'
-date: 2022-09-19 07:14:45
+date: 2022-09-20 09:51:29
 image: 'https://m.media-amazon.com/images/I/51mg9DdutVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'UBI Soft'
 buyurl: 'https://www.amazon.es/dp/B0B1QKT7TV/?tag=tolees-21'
 descuento: '24.25'
-average: '28.985'
+average: '27.6533333333333'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Es imprescindible el uso de Joy-Con para este juego (vendidos por separado en Nintendo Switch Lite). Juego no compatible con mando Nintendo Switch Pro.
 - Embárcate a un nuevo viaje legendario con los Rabbids
 - Acompáñales en una increíble misión
 - Disfruta con tu familia y amistadaes
+- Es imprescindible el uso de Joy-Con para este juego (vendidos por separado en Nintendo Switch Lite). Juego no compatible con mando Nintendo Switch Pro.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
