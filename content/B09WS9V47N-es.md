@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'BANDAI NAMCO Entertainment Iberica - One Piece Odyssey - PS4'
-date: 2022-09-19 08:52:20
-image: 'https://m.media-amazon.com/images/I/41TxWzQ3HsL._SL500_._SL400_.jpg'
+date: 2022-09-25 19:27:33
+image: 'https://m.media-amazon.com/images/I/41MK7vvqqFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BANDAI NAMCO Entertainment Iberica'
 buyurl: 'https://www.amazon.es/dp/B09WS9V47N/?tag=tolees-21'
 descuento: '16.67'
-average: '65.3233333333333'
+average: '64.5614285714285'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un juego de rol con el toque de One Piece
 - Una isla misteriosa
 - Los sombrero de paja unidos
+- Un juego de rol con el toque de One Piece
 
 [🛒 Visítala!!!]({{< param buyurl >}})
