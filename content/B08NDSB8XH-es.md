@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - VR Mega3 VCH/VR World VCH/PS VR MK5'
-date: 2022-09-18 09:37:37
+date: 2022-09-26 19:45:08
 image: 'https://m.media-amazon.com/images/I/41OXmmp02lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B08NDSB8XH/?tag=tolees-21'
 descuento: '33.63'
-average: '223.266363636364'
+average: '222.610000000001'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
