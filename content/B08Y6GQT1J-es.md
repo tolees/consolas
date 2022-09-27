@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Pokemon Perla Reluciente'
-date: 2022-09-22 15:07:49
+date: 2022-09-27 10:33:46
 image: 'https://m.media-amazon.com/images/I/41j-qWZLgpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08Y6GQT1J-es Nintendo - Pokemon Perla Reluciente'
 sku: 'B08Y6GQT1J-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','nintendo','🇪🇸', ]
-actualPrice: 29.99 EUR
+actualPrice: 34.99 EUR
 currency: EUR
-price: 29.99
+price: 34.99
 comparePrice: 69.9 EUR
 prodname: 'Nintendo - Pokemon Perla Reluciente'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B08Y6GQT1J/?tag=tolees-21'
-descuento: '57.10'
-average: '49.0639622641509'
+descuento: '49.94'
+average: '48.8033333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
