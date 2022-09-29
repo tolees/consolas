@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Techland - Torment: Tides of Numenera - Edizione Day One - PlayStation 4 [Importación italiana]'
-date: 2022-09-21 13:06:44
+date: 2022-09-29 09:01:59
 image: 'https://m.media-amazon.com/images/I/51XaRGpF7ML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Techland'
 buyurl: 'https://www.amazon.es/dp/B01MRNKY6K/?tag=tolees-21'
 descuento: '57.79'
-average: '8.78941176470587'
+average: '8.76777777777777'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Entre en nuestro mundo mil millones de años en el futuro
+- Cada uno de sus acciones tiene consecuencias. ¿Qué vale la vida
 - El nuevo juego de rol del desarrollador Wasteland 2
 - Torment l te permite experimentar un juego de rol profundo y desafiante de la historia
-- Cada uno de sus acciones tiene consecuencias. ¿Qué vale la vida
+- Entre en nuestro mundo mil millones de años en el futuro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
