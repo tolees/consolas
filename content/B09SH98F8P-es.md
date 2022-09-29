@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Live a Live'
-date: 2022-09-19 19:58:24
+date: 2022-09-29 19:33:31
 image: 'https://m.media-amazon.com/images/I/51C+G6CSgjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B09SH98F8P/?tag=tolees-21'
 descuento: '19.86'
-average: '42.1286363636363'
+average: '42.035652173913'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
