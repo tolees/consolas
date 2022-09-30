@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Focus Interactive - The Surge 2 PS4'
-date: 2022-09-16 05:38:18
+date: 2022-09-30 05:35:28
 image: 'https://m.media-amazon.com/images/I/51O+6S7tM4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Focus Interactive'
 buyurl: 'https://www.amazon.es/dp/B07Y5D1P2T/?tag=tolees-21'
 descuento: '50.03'
-average: '13.08'
+average: '13.8625'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
