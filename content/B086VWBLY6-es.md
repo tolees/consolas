@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo Switch Lite - Consola Color Azul Turquesa + Funda Deluxe Travel Case Edición Elite - PDP'
-date: 2022-09-27 17:54:28
+date: 2022-10-01 08:37:56
 image: 'https://m.media-amazon.com/images/I/41hCt+eX0fL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B086VWBLY6/?tag=tolees-21'
 descuento: '21.00'
-average: '200.835'
+average: '200.164'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Enfocada al juego portátil. La consola no puede conectarse al televisor ni es compatible con la base de Nintendo Switch.
 - Compacta y ligera para que sea fácil de transportar.
+- Enfocada al juego portátil. La consola no puede conectarse al televisor ni es compatible con la base de Nintendo Switch.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
