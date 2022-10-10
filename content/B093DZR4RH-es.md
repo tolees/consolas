@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nacon - RiMS Racing  PS4 '
-date: 2022-10-09 12:31:20
+date: 2022-10-10 12:57:22
 image: 'https://m.media-amazon.com/images/I/51oyZss7b4S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nacon'
 buyurl: 'https://www.amazon.es/dp/B093DZR4RH/?tag=tolees-21'
 descuento: '74.01'
-average: '30.1315384615386'
+average: '28.907142857143'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Diferentes circuitos en los que poner a prueba tu dominio de la moto; recrea todos los peligros de la carrera con una física ultra realista
 - Más de 500 repuestos oficiales y más de 200 artículos de equipamiento oficial para el piloto
-- 8 motos disponibles en el juego recreadas con precisión; controla la mecánica de las motos para una experiencia de simulación optima
 - ¡Conviértete en más que un piloto en RiMS Racing; riMS Racing es el primer juego de simulación de motociclismo que combina un desafío de conducción realista con ingeniería y mecánica; conduce las motos más potentes del mundo y optimiza su rendimiento intercambiando piezas y analizando datos en tiempo real
 - Nivel de personalización nunca visto; analiza el comportamiento de la moto en tiempo real como piloto para optimizar su puesta a punto
+- 8 motos disponibles en el juego recreadas con precisión; controla la mecánica de las motos para una experiencia de simulación optima
 
 [🛒 Comprar!!!]({{< param buyurl >}})
