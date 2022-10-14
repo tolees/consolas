@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo Luigi s Mansion 3 - [Nintendo Switch] [Importacion Alemania]'
-date: 2022-10-13 07:35:38
+date: 2022-10-14 15:27:49
 image: 'https://m.media-amazon.com/images/I/51k-t4Urx1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B07NPL79TQ/?tag=tolees-21'
 descuento: '45.26'
-average: '52.2314285714286'
+average: '50.49125'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
