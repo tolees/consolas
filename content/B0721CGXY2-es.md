@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hori - Volante Mario Kart 8 Deluxe  Nintendo Switch '
-date: 2022-10-09 16:33:57
+date: 2022-10-20 10:58:09
 image: 'https://m.media-amazon.com/images/I/51j6W-Zd0ZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'hori'
 buyurl: 'https://www.amazon.es/dp/B0721CGXY2/?tag=tolees-21'
 descuento: '23.09'
-average: '10.0233333333333'
+average: '10.015'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Compatible con ambos Joy-Cons
+- Licencia oficial de Nintendo
+- Revestimiento antideslizante texturizado
 - Gatillos extragrandes para los botones L/R
 - Mayor diámetro que el original de Nintendo
-- Revestimiento antideslizante texturizado
-- Licencia oficial de Nintendo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
