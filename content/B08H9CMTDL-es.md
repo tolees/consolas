@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros Interactive Spain - Fortnite Lote: La Última Risa - PlayStation 5'
-date: 2022-10-14 10:33:02
+date: 2022-10-25 14:51:31
 image: 'https://m.media-amazon.com/images/I/51BaTUM+xAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B08H9CMTDL/?tag=tolees-21'
 descuento: '66.64'
-average: '21.5311627906977'
+average: '21.0182222222223'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
