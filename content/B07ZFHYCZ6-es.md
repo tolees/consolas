@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony - Medievil PS4'
-date: 2022-10-17 19:13:30
+date: 2022-10-27 08:50:19
 image: 'https://m.media-amazon.com/images/I/51LomRgwCJL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B07ZFHYCZ6/?tag=tolees-21'
 descuento: '40.01'
-average: '20.8511764705882'
+average: '20.6922222222222'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Aprovecha al máximo el sistema de cámara mejorado y las distintas armas a tu disposición
 - Esta un remasterización para PS4 repleta de detalles visuales mejorados y personalidad
+- Aprovecha al máximo el sistema de cámara mejorado y las distintas armas a tu disposición
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
