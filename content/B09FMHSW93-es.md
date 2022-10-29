@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Epic Games - Alan Wake Remastered Ps4'
-date: 2022-10-28 07:57:37
+date: 2022-10-29 10:32:24
 image: 'https://m.media-amazon.com/images/I/41-1BRukWmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Epic Games'
 buyurl: 'https://www.amazon.es/dp/B09FMHSW93/?tag=tolees-21'
 descuento: '33.34'
-average: '21.8285294117646'
+average: '21.7759999999999'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Utiliza las luces del entorno cómo protección en un mundo donde la oscuridad es mortal
-- Encuentra páginas de manuscritos de una novela que Wake no recuerda haber escrito
-- Combate intenso, donde se necesitan más que balas para desterrar la oscuridad
-- La historia se convierte en realidad cuando las escenas parecen estar describiendo lo que aún no ha ocurrido, sirviendo cómo advertencias para los próximos desafíos
 - Debilita los Poseídos con la luz antes de acabar con ellos para siempre
+- La historia se convierte en realidad cuando las escenas parecen estar describiendo lo que aún no ha ocurrido, sirviendo cómo advertencias para los próximos desafíos
+- Utiliza las luces del entorno cómo protección en un mundo donde la oscuridad es mortal
+- Combate intenso, donde se necesitan más que balas para desterrar la oscuridad
+- Encuentra páginas de manuscritos de una novela que Wake no recuerda haber escrito
 
 [🛒 Aquí!!!]({{< param buyurl >}})
