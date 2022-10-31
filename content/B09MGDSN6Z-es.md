@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Tandem A Tale Of Shadows - Nintendo Switch'
-date: 2022-10-27 16:33:41
+date: 2022-10-30 21:33:16
 image: 'https://m.media-amazon.com/images/I/41VRB6Q01XL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
