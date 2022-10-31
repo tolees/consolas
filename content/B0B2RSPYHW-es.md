@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nacon - ZORRO The Chronicles- Videojuego para PS4 Las Crónicas del Zorro [Versión Española]'
-date: 2022-10-29 12:40:22
+date: 2022-10-31 06:29:18
 image: 'https://m.media-amazon.com/images/I/41tXWOXsNGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nacon'
 buyurl: 'https://www.amazon.es/dp/B0B2RSPYHW/?tag=tolees-21'
 descuento: '62.52'
-average: '17.49'
+average: '16.6566666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 16 habilidades que desbloquear ¡Puedes trazar tu nombre de verdad con la punta de la espada!
 - Coloridos entornos de dibujos animados
-- El Sargento García, Bernard, Tornado…..Están todos los personajes principales
+- 16 habilidades que desbloquear ¡Puedes trazar tu nombre de verdad con la punta de la espada!
 - Mecánicas de juego variadas inspiradas en los mejores juegos de aventuras que combinan acción, combate, sigilo y puzles. ¡Y no muere nadie!
 - Métete en la piel del Zorro o de su hermana Inés -18 niveles
+- El Sargento García, Bernard, Tornado…..Están todos los personajes principales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
