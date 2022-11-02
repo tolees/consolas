@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trust Gaming GXT 258W Fyru Micrófono  PlayStation 5  Micrófono Gaming USB 4 en 1  Micro con Luces LED  4 Patrones de Grabación  Micrófono PC para Podcasts  Vlogs  Streaming  YouTube  Twitch - Blanco'
-date: 2022-10-27 10:52:04
+date: 2022-11-02 19:30:00
 image: 'https://m.media-amazon.com/images/I/31AOtBqjSjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

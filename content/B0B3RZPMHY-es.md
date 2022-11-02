@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - The Last Of Us Parte I PS5'
-date: 2022-11-01 18:29:58
+date: 2022-11-02 18:31:21
 image: 'https://m.media-amazon.com/images/I/41ZcMVehIuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B0B3RZPMHY/?tag=tolees-21'
 descuento: '33.89'
-average: '67.866923076923'
+average: '66.7964285714285'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gráficos mejorados, carga rápida, respuesta háptica, gatillo adaptativos y audio 3D
-- Disfruta de la emotiva historia y los inolvidables personajes de The Last of Us
-- Resiste y sobrevive
 - Revive el aclamado juego que lo cambió todo para la consola PlayStation5
+- Gráficos mejorados, carga rápida, respuesta háptica, gatillo adaptativos y audio 3D
+- Resiste y sobrevive
+- Disfruta de la emotiva historia y los inolvidables personajes de The Last of Us
 
 [🛒 Aquí!!!]({{< param buyurl >}})
