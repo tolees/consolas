@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Metroid Dread'
-date: 2022-11-01 20:01:30
+date: 2022-11-02 21:37:12
 image: 'https://m.media-amazon.com/images/I/51vlXyE3RfS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B0979WXCWS/?tag=tolees-21'
 descuento: '33.79'
-average: '45.6744827586206'
+average: '45.4739999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- En un remoto planeta alienígena, una amenaza mecánica pondrá a prueba a la mejor cazarrecompensas de la galaxia hasta límites insospechados. Únete a Samus Aran en su aventura en 2D más desafiante y peligrosa hasta la fecha en Metroid Dread para Nintendo Switch.
-- A medida que explores el planeta, encontrarás puertas bloqueadas, salientes fuera de tu alcance y zonas demasiado peligrosas en las que Samus no puede adentrarse.
-- Al obtener potenciadores y mejoras, no solo superarás dichos obstáculos, sino que también descubrirás nuevas rutas y atajos.
 - Samus siempre cuenta con su fiel cañón, pero, a medida que recorra el planeta ZDR, descubrirá más armas y habilidades que le ayudarán a desentrañar los misterios que rodean a su misión.
+- Al obtener potenciadores y mejoras, no solo superarás dichos obstáculos, sino que también descubrirás nuevas rutas y atajos.
+- A medida que explores el planeta, encontrarás puertas bloqueadas, salientes fuera de tu alcance y zonas demasiado peligrosas en las que Samus no puede adentrarse.
+- En un remoto planeta alienígena, una amenaza mecánica pondrá a prueba a la mejor cazarrecompensas de la galaxia hasta límites insospechados. Únete a Samus Aran en su aventura en 2D más desafiante y peligrosa hasta la fecha en Metroid Dread para Nintendo Switch.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
