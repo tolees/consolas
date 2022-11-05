@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros. Interactive Spain - Lego Harry Potter Collection - PlayStation 4. Edition: Estándar'
-date: 2022-11-04 08:42:45
+date: 2022-11-05 12:55:13
 image: 'https://m.media-amazon.com/images/I/51NqEPT6OwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros. Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B01M06BS9E/?tag=tolees-21'
 descuento: '46.80'
-average: '14.7351785714285'
+average: '14.6343859649122'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - LEGO Harry Potter: Años 5-7 transportará a los jugadores a través de los tres últimos libros y las cuatro últimas películas
-- Tipo de producto: videojuego
-- LEGO Harry Potter: Años 1-4 está basado en los cuatro primeros libros y películas
-- El paquete trae dos videojuegos más vendidos remasterizados en un disco
 - Plataforma del juego: PlayStation 4
+- Tipo de producto: videojuego
+- El paquete trae dos videojuegos más vendidos remasterizados en un disco
+- LEGO Harry Potter: Años 1-4 está basado en los cuatro primeros libros y películas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
