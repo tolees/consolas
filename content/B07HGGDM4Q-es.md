@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros. Interactive Spain - Lego Harry Potter Collection - Nintendo Switch. Edition: Estándar'
-date: 2022-11-10 16:16:34
+date: 2022-11-19 21:17:53
 image: 'https://m.media-amazon.com/images/I/51vy4YZcEVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07HGGDM4Q-es Warner Bros. Interactive Spain - Lego Harry Potter...'
 sku: 'B07HGGDM4Q-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','nintendo','warner bros. interactive spain','🇪🇸', ]
-actualPrice: 16.9 EUR
+actualPrice: 14.97 EUR
 currency: EUR
-price: 16.9
+price: 14.97
 comparePrice: 39.95 EUR
 prodname: 'Warner Bros. Interactive Spain - Lego Harry Potter Collection - Nintendo Switch. Edition: Estándar'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Warner Bros. Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B07HGGDM4Q/?tag=tolees-21'
-descuento: '57.70'
-average: '23.4068674698798'
+descuento: '62.53'
+average: '23.2686390532546'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
