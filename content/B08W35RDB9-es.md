@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PixelHeart - Shing!  Nintendo Switch '
-date: 2022-11-18 01:00:39
+date: 2022-11-19 18:38:07
 image: 'https://m.media-amazon.com/images/I/41EL++-BjVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Atrévete con el sistema de combate libre: coordina combos, cambia de personaje en el aire y torna las habilidades de tus enemigos en su contra
-- Disfruta un modo de juego que no pasa de moda: domina el combate a varios niveles, derrota enemigos implacables y enfréntate a jefes épicos
 - Limited to 5000 numbered copies + Certificate of authenticity Official game PixelHeart / Just For Games
-- Experimenta unos controles intuitivos y envolventes: un stick analógico derecho que controla tu arma, garantizándote una amplia variedad de movimientos
 - Únete a una banda de simpáticos guerreros en una aventura sangrienta a través de una tierra llena de monstruos míticos y máquinas misteriosas; Juega solo o con amigos: hasta 4 jugadores en un modo cooperativo tanto local
+- Disfruta un modo de juego que no pasa de moda: domina el combate a varios niveles, derrota enemigos implacables y enfréntate a jefes épicos
+- Atrévete con el sistema de combate libre: coordina combos, cambia de personaje en el aire y torna las habilidades de tus enemigos en su contra
+- Experimenta unos controles intuitivos y envolventes: un stick analógico derecho que controla tu arma, garantizándote una amplia variedad de movimientos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
