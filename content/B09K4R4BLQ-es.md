@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo Grand Theft Auto: The Trilogy – The Definitive Edition'
-date: 2022-11-07 21:14:13
+date: 2022-11-21 18:36:27
 image: 'https://m.media-amazon.com/images/I/51ReAGnM-bL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09K4R4BLQ-es Nintendo Grand Theft Auto: The Trilogy – The Definitive...'
 sku: 'B09K4R4BLQ-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','nintendo','🇪🇸', ]
-actualPrice: 29.99 EUR
+actualPrice: 47.99 EUR
 currency: EUR
-price: 29.99
+price: 47.99
 comparePrice: 59.99 EUR
 prodname: 'Nintendo Grand Theft Auto: The Trilogy – The Definitive Edition'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B09K4R4BLQ/?tag=tolees-21'
-descuento: '50.01'
-average: '43.8927659574468'
+descuento: '20.00'
+average: '43.978125'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
