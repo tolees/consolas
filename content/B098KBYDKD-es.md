@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Ai the Somnium Files Nirvana Initiative - Nintendo Switch'
-date: 2022-11-17 11:43:33
+date: 2022-11-21 16:16:29
 image: 'https://m.media-amazon.com/images/I/51J+vUAhFkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B098KBYDKD/?tag=tolees-21'
 descuento: '33.34'
-average: '48.5455555555556'
+average: '47.69'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,7 +28,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- A la venta en PS4 y Nintendo Switch
 - Pista de voz en inglés y japonés
+- A la venta en PS4 y Nintendo Switch
 
 [🛒 Aquí!!!]({{< param buyurl >}})
