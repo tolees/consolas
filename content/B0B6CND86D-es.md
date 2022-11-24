@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electronic Arts - FIFA 23 Standard Edition PS4 | Castellano'
-date: 2022-11-23 11:02:42
+date: 2022-11-24 19:55:43
 image: 'https://m.media-amazon.com/images/I/51U3fYg9DmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.es/dp/B0B6CND86D/?tag=tolees-21'
 descuento: '32.17'
-average: '56.6263157894736'
+average: '55.7899999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Artículo de jugador del equipo de la semana 1; Artículo intransferible de jugador para tu FIFA Ultimate Team
+- Talento local en el modo carrera; Joven promesa local con potencial de clase mundial
 - Artículo cedido de Kylian Mbappé; Durante 5 partidos de FUT
 - Elección de jugador cedido embajador de FUT; Escoge entre Davies, Son y Vinicius Jr. para 3 partidos de FUT
-- Talento local en el modo carrera; Joven promesa local con potencial de clase mundial
-- Artículo de jugador del equipo de la semana 1; Artículo intransferible de jugador para tu FIFA Ultimate Team
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
