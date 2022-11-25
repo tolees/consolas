@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xbox Series S'
-date: 2022-11-24 07:00:59
+date: 2022-11-25 16:01:36
 image: 'https://m.media-amazon.com/images/I/519hx4IVRzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Xbox'
 buyurl: 'https://www.amazon.es/dp/B087VM5XC6/?tag=tolees-21'
 descuento: '23.67'
-average: '304.702574850298'
+average: '304.251904761903'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Xbox Velocity Architecture, impulsada por un SSD personalizado, funciona junto con la tecnología moderna de sistema en un chip (SOC) para proporcionar un juego de hasta 120 FPS en consola más pequeña
 - Cambia el juego: con reanudación rápida, puedes cambiar sin problemas entre varios títulos diferentes y reanudar instantáneamente desde donde lo dejaste
 - Rendimiento de nueva generación en la Xbox más pequeña de la historia
-- Tiempos de carga más rápidos: los juegos se cargan significativamente más rápido con el SSD personalizado en la Xbox Series S
 - All-Digital, resolución 1440p hasta 120FPS, DirectX Raytraycing, Variable Refresh Rate, reproduce video en 4K, SSD Personalizada de 512 GB
+- Tiempos de carga más rápidos: los juegos se cargan significativamente más rápido con el SSD personalizado en la Xbox Series S
+- Xbox Velocity Architecture, impulsada por un SSD personalizado, funciona junto con la tecnología moderna de sistema en un chip (SOC) para proporcionar un juego de hasta 120 FPS en consola más pequeña
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
