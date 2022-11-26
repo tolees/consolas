@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - GOW Hits'
-date: 2022-11-24 19:55:19
+date: 2022-11-26 10:01:18
 image: 'https://m.media-amazon.com/images/I/516A60Qcr1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07YY2YVK5-es Playstation - GOW Hits'
 sku: 'B07YY2YVK5-es'
 tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Videojuegos','playstation','🇪🇸', ]
-actualPrice: 8.19 EUR
+actualPrice: 9.9 EUR
 currency: EUR
-price: 8.19
+price: 9.9
 comparePrice: 19.99 EUR
 prodname: 'Playstation - GOW Hits'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B07YY2YVK5/?tag=tolees-21'
-descuento: '59.03'
-average: '13.2016923076922'
+descuento: '50.48'
+average: '13.1516666666666'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego de acción
-- Es para PS4
 - Es divertido
+- Es para PS4
+- Juego de acción
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
