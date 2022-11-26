@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ROCKSTAR GAMES - Red Dead Redemption 2  PS4 '
-date: 2022-11-24 14:15:23
+date: 2022-11-26 21:12:41
 image: 'https://m.media-amazon.com/images/I/51I6WYjdQPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ROCKSTAR GAMES'
 buyurl: 'https://www.amazon.es/dp/B01M9COSMD/?tag=tolees-21'
 descuento: '22.83'
-average: '24.5810169491527'
+average: '24.5170588235296'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Diversos hábitats y climas con unas doscientas especies de animales terrestres, aves y peces
 - Una banda de forajidos, renegados y parias unidos bajo el liderazgo del carismático e idealista Dutch van der Linde
 - Descubre algunas de las ciudades que conforman el vasto y variado mundo del juego
-- Diversos hábitats y climas con unas doscientas especies de animales terrestres, aves y peces
 
 [🛒 Comprar!!!]({{< param buyurl >}})
