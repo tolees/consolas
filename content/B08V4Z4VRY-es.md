@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk 128GB Apex Legends microSDXC Tarjeta para Nintendo Switch  Producto con Licencia de Nintendo'
-date: 2022-11-18 15:26:56
+date: 2022-11-26 22:48:09
 image: 'https://m.media-amazon.com/images/I/41Oy2wNFvaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.es/dp/B08V4Z4VRY/?tag=tolees-21'
 descuento: '48.50'
-average: '18.3766666666667'
+average: '18.27'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseñada, probada y autorizada para el sistema de juego de Nintendo Switch
-- Una sola tarjeta para almacenar varios juegos y jugar en cualquier lugar y en cualquier momento
-- Velocidades de lectura de hasta 100 MB/s y velocidades de escritura de hasta 90 MB/s
-- Garantía limitada de por vida
-- Hasta 128 GB de memoria adicional
+- SanDisk SDSQXAO-128G-GN6ZY memoria flash 128 GB MicroSDXC UHS-I
 
 [🛒 Comprar!!!]({{< param buyurl >}})
