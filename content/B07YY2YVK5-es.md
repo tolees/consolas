@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - GOW Hits'
-date: 2022-11-26 10:01:18
+date: 2022-11-28 13:11:08
 image: 'https://m.media-amazon.com/images/I/516A60Qcr1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B07YY2YVK5/?tag=tolees-21'
 descuento: '50.48'
-average: '13.1516666666666'
+average: '13.1031343283581'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Es divertido
 - Es para PS4
 - Juego de acción
+- Es divertido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
