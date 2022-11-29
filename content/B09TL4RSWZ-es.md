@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Pokemon Escarlata'
-date: 2022-11-26 22:04:12
+date: 2022-11-29 15:11:43
 image: 'https://m.media-amazon.com/images/I/51O1bZVdH4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B09TL4RSWZ/?tag=tolees-21'
 descuento: '19.88'
-average: '54.2356521739132'
+average: '54.102765957447'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Conoce a los habitantes de la región y a muchos Pokémon y adéntrate en el mundo de Pokémon como quieras.
-- Carátula provisional.
-- Pokémon Escarlata y Pokémon Púrpura serán los primeros RPG de mundo abierto de la saga Pokémon. Podrás seguir disfrutando de los clásicos de siempre, como descubrir Pokémon, entrenarlos, intercambiarlos, combatir y formar tu equipo con ellos, mientras te sumerges en esta enrome y nueva aventura.
 - Disfrutarás de una aventura con un estilo totalmente nuevo, en la que podrás explorar libremente y sin tener que seguir un orden establecido por la trama. Por supuesto, además de todos los descubrimientos y las historias que están esperándote, tendrás que perfeccionar tus habilidades como Entrenador o Entrenadora.
+- Carátula provisional.
 - En el modo multijugador de Pokémon Escarlata y Pokémon Púrpura pueden jugar hasta cuatro personas.​ Además de los elementos esenciales, como intercambiar Pokémon y combatir, podréis explorar juntos varios lugares de la región de estos juegos.
+- Conoce a los habitantes de la región y a muchos Pokémon y adéntrate en el mundo de Pokémon como quieras.
+- Pokémon Escarlata y Pokémon Púrpura serán los primeros RPG de mundo abierto de la saga Pokémon. Podrás seguir disfrutando de los clásicos de siempre, como descubrir Pokémon, entrenarlos, intercambiarlos, combatir y formar tu equipo con ellos, mientras te sumerges en esta enrome y nueva aventura.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
