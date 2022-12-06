@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SEGA - Two Point Campus Enrolment Edition Nintendo Switch'
-date: 2022-11-26 18:03:16
+date: 2022-12-05 22:33:14
 image: 'https://m.media-amazon.com/images/I/51tQoGvszIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B09S17YQKD-es SEGA - Two Point Campus Enrolment Edition Nintendo Switch'
 sku: 'B09S17YQKD-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','nintendo','sega','🇪🇸', ]
-actualPrice: 23.99 EUR
+actualPrice: 29.99 EUR
 currency: EUR
-price: 23.99
+price: 29.99
 comparePrice: 39.99 EUR
 prodname: 'SEGA - Two Point Campus Enrolment Edition Nintendo Switch'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SEGA'
 buyurl: 'https://www.amazon.es/dp/B09S17YQKD/?tag=tolees-21'
-descuento: '40.01'
-average: '29.378947368421'
+descuento: '25.01'
+average: '29.6461904761904'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
