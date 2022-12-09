@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Square Enix - Harvestella - Switch - Formato : Nintendo'
-date: 2022-12-07 09:51:51
+date: 2022-12-09 16:33:31
 image: 'https://m.media-amazon.com/images/I/512mS+L7EHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Hardware y juegos para Nintendo Switch','Videojuegos','nintendo','squar
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99
-comparePrice: 59.9 EUR
+comparePrice: 62.99 EUR
 prodname: 'Square Enix - Harvestella - Switch - Formato : Nintendo'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Square Enix'
 buyurl: 'https://www.amazon.es/dp/B0B9C8W1FC/?tag=tolees-21'
-descuento: '24.89'
-average: '56.1328571428571'
+descuento: '28.58'
+average: '54.74'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Además, se aventurarán en el mundo exterior, que cambia de forma vibrante en función de la estación, para visitar diferentes pueblos, interactuar con sus habitantes, ir de pesca y mucho más
 - En este juego de rol de simulación de vida, los jugadores cultivarán y cuidarán sus cosechas, utilizarán ingredientes para cocinar y fabricar objetos
 - HARVESTELLA está ambientado en un mundo vibrante y colorido donde los cuatro cristales gigantes llamados "Seaslight" crean un cambio estable entre las cuatro estaciones
 - La aventura comienza cuando empiezan a aparecer anomalías en el Seaslight, creando el "Quietus", una estación de muerte que tiene lugar entre las cuatro estaciones naturales
+- Además, se aventurarán en el mundo exterior, que cambia de forma vibrante en función de la estación, para visitar diferentes pueblos, interactuar con sus habitantes, ir de pesca y mucho más
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
