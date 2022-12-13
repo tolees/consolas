@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - The Legend Of Zelda: Breath Of The Wild - Edición Estándar'
-date: 2022-12-07 14:22:59
+date: 2022-12-13 16:33:18
 image: 'https://m.media-amazon.com/images/I/51SumMkl9gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B01MZ977QM/?tag=tolees-21'
 descuento: '28.58'
-average: '50.8237142857141'
+average: '50.8119718309857'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Compatible con el amiibo Link Lobo, a la venta por separado
-- Incluye el idioma español
-- Equipa a Link con la ropa y armas adecuadas a cada entorno y enemigo
 - Juego de aventura y acción para Nintendo Switch
+- Equipa a Link con la ropa y armas adecuadas a cada entorno y enemigo
+- Incluye el idioma español
 - Explora el mundo abierto de Hyrule y descubre sus santuarios
 
 [🛒 Visítala!!!]({{< param buyurl >}})
