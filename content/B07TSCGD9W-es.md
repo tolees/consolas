@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - El Misterioso Viaje de Layton'
-date: 2022-11-30 09:33:11
+date: 2022-12-15 10:11:33
 image: 'https://m.media-amazon.com/images/I/51TI0-NBdNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B07TSCGD9W/?tag=tolees-21'
 descuento: '20.01'
-average: '32.2903703703704'
+average: '32.2796428571429'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
