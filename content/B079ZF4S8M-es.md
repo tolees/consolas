@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sáltate las reglas y arrasa con todo cuando y donde quieras.
 - Arrasa con tus amigos online y juntaos para superar cientos de desafíos online.
-- Descubre la ciudad de Paradise City, y conduce desde las avenidas de la ciudad hasta las carretras más peligrosas por las montañas.
 - Incluye el juego original completo y todos los contenidos descargables.
+- Descubre la ciudad de Paradise City, y conduce desde las avenidas de la ciudad hasta las carretras más peligrosas por las montañas.
+- Sáltate las reglas y arrasa con todo cuando y donde quieras.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
