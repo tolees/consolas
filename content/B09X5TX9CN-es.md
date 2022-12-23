@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Take Two Interactive Spain - Grand Theft Auto V - PlayStation 5'
-date: 2022-12-20 16:51:57
+date: 2022-12-22 21:35:21
 image: 'https://m.media-amazon.com/images/I/51rst8uk+gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Take Two Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B09X5TX9CN/?tag=tolees-21'
 descuento: '50.24'
-average: '23.463'
+average: '23.1390909090909'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
