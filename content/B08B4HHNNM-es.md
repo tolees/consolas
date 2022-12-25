@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sackboy: Una Aventura a lo Grande - PlayStation 5'
-date: 2022-12-22 17:38:07
+date: 2022-12-25 19:47:11
 image: 'https://m.media-amazon.com/images/I/51nUZl8UlKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B08B4HHNNM/?tag=tolees-21'
 descuento: '64.42'
-average: '52.5887500000001'
+average: '52.0236734693879'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
