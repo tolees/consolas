@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UBI Soft - Rainbow Six Extraction Limited Edition PS4'
-date: 2022-12-18 14:14:23
+date: 2022-12-26 15:41:18
 image: 'https://m.media-amazon.com/images/I/5140jVdoF5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Hardware y juegos para PlayStation 4','Juegos para PlayStation 4','Vide
 actualPrice: 17.4 EUR
 currency: EUR
 price: 17.4
-comparePrice: 29.26 EUR
+comparePrice: 25.33 EUR
 prodname: 'UBI Soft - Rainbow Six Extraction Limited Edition PS4'
 country: 'es'
 flag: '🇪🇸'
 brand: 'UBI Soft'
 buyurl: 'https://www.amazon.es/dp/B096XWCCRG/?tag=tolees-21'
-descuento: '40.53'
-average: '52.57'
+descuento: '31.31'
+average: '48.1737499999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lidera a agentes de élite de Rainbow Six en modo cooperativo o en solitario
 - Lucha contra una amenaza alienígena letal y en constante evolució
+- Lidera a agentes de élite de Rainbow Six en modo cooperativo o en solitario
 - Arriésgalo todo en zonas de contención impredecibles
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
