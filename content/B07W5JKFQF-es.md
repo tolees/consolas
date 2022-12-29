@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASTRO Gaming A20 Auriculares inalámbricos Gen 2  ligeros y resistentes  Micrófono volteable para silenciar  Batería hasta 15h  Alcance inalámbrico de 15m  PlayStation 5  PS4  PC  Mac - Blanco/Azul'
-date: 2022-12-27 08:01:21
+date: 2022-12-29 18:02:50
 image: 'https://m.media-amazon.com/images/I/41nLlTyrBuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'ASTRO Gaming'
 buyurl: 'https://www.amazon.es/dp/B07W5JKFQF/?tag=tolees-21'
 descuento: '42.45'
-average: '117.271344537816'
+average: '116.960666666668'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La batería incorporada proporciona hasta 15 horas de duración y se puede recargar a través del puerto USB-C
 - 3 preajustes de EQ: El jugador puede elegir entre diferentes configuraciones de ecualizador cambiando entre los 3 diferentes preajustes de ecualización
 - Micrófono volteable para silenciar: Función de silencio rápida y fácil con el micrófono unidireccional
+- La batería incorporada proporciona hasta 15 horas de duración y se puede recargar a través del puerto USB-C
 - Compatibilidad: Los A20 para PS5 y PS4 incluyen un transmisor USB específico para la consola y una compatibilidad ampliada (Serie Xbox X y S) con un transmisor adicional vendido por separado
 - Alcance ampliado: Estos auriculares tienen un alcance inalámbrico de hasta 15m a través de la señal inalámbrica de 2.4 GHz
 
