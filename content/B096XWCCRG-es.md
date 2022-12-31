@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UBI Soft - Rainbow Six Extraction Limited Edition PS4'
-date: 2022-12-26 15:41:18
+date: 2022-12-31 13:36:06
 image: 'https://m.media-amazon.com/images/I/5140jVdoF5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'UBI Soft'
 buyurl: 'https://www.amazon.es/dp/B096XWCCRG/?tag=tolees-21'
 descuento: '31.31'
-average: '48.1737499999999'
+average: '46.9427999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
