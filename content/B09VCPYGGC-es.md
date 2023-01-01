@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Focus Home Interactive - A Plague Tale: Requiem  para PS5'
-date: 2022-12-28 18:38:11
+date: 2023-01-01 14:42:47
 image: 'https://m.media-amazon.com/images/I/51Qc960yg-L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Focus Home Interactive'
 buyurl: 'https://www.amazon.es/dp/B09VCPYGGC/?tag=tolees-21'
 descuento: '24.37'
-average: '47.05375'
+average: '45.7733333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Una historia, retorcida por las fuerzas sobrenaturales
 - La secuela de la premiada aventura A Plague Tale: Innocence
 - Usa herramientas, escabúllete, lucha o desata un infierno de ratas
-- Una historia, retorcida por las fuerzas sobrenaturales
 - Gráficos óptimos y una música cautivadora
 
 [🛒 Comprar!!!]({{< param buyurl >}})
