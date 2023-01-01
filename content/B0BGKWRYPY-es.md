@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SEGA - Persona 5 Royal'
-date: 2022-12-21 07:37:24
+date: 2023-01-01 10:01:53
 image: 'https://m.media-amazon.com/images/I/51Cf+HjPPCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0BGKWRYPY-es SEGA - Persona 5 Royal'
 sku: 'B0BGKWRYPY-es'
 tags: [ 'Hardware y juegos para PlayStation 5','Juegos para PlayStation 5','Videojuegos','sega','🇪🇸', ]
-actualPrice: 33.99 EUR
+actualPrice: 33.05 EUR
 currency: EUR
-price: 33.99
+price: 33.05
 comparePrice: 62.99 EUR
 prodname: 'SEGA - Persona 5 Royal'
 country: 'es'
 flag: '🇪🇸'
 brand: 'SEGA'
 buyurl: 'https://www.amazon.es/dp/B0BGKWRYPY/?tag=tolees-21'
-descuento: '46.04'
-average: '45.3666666666667'
+descuento: '47.53'
+average: '43.6071428571429'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
