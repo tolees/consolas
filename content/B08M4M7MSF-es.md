@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - Marvel S Spider-Man Miles Morales'
-date: 2022-12-31 13:06:32
+date: 2023-01-02 14:45:15
 image: 'https://m.media-amazon.com/images/I/41l9vxvXKtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B08M4M7MSF/?tag=tolees-21'
 descuento: '60.06'
-average: '39.9340540540538'
+average: '39.5136842105261'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
