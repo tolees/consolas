@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Curve Digital - The Ascent  Standard Edition  - PS5'
-date: 2023-01-01 12:29:20
+date: 2023-01-04 07:34:36
 image: 'https://m.media-amazon.com/images/I/41DP7g0LnKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Curve Digital'
 buyurl: 'https://www.amazon.es/dp/B09TFRHRBL/?tag=tolees-21'
 descuento: '42.15'
-average: '18.4175'
+average: '18.204'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- UN MUNDO VIBRANTE DE CYBERPUNK: Conoce nuevos aliados y enemigos y encuentra botines mientras exploras el rebosante mundo de The Ascent y su amplia gama de distritos, desde los barrios marginales profundos hasta las esferas más lujosas
-- SHOOTER EXPLOSIVO: Apunta alto o bajo, cambia de arma y equipa dispositivos letales, cúbrete y usa los entornos destructibles a tu favor y sigue ajustando tu táctica mientras te enfrentas a nuevos enemigos
 - SOLO O CO-OP: Juega todo el juego solo o con hasta tres amigos en modo cooperativo local o en línea
+- SHOOTER EXPLOSIVO: Apunta alto o bajo, cambia de arma y equipa dispositivos letales, cúbrete y usa los entornos destructibles a tu favor y sigue ajustando tu táctica mientras te enfrentas a nuevos enemigos
 - ELEMENTOS DE ROL: Personaliza tu personaje con elementos cibernéticos que se adaptan a tu estilo de juego; asigna nuevos puntos de habilidad a medida que subes de nivel y prueba varias aumentaciones para derrotar a tus enemigos de nuevas formas creativas
+- UN MUNDO VIBRANTE DE CYBERPUNK: Conoce nuevos aliados y enemigos y encuentra botines mientras exploras el rebosante mundo de The Ascent y su amplia gama de distritos, desde los barrios marginales profundos hasta las esferas más lujosas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
