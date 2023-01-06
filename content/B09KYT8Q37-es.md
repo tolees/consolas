@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meridiem Games - Maglam Lord - Nintendo Switch'
-date: 2023-01-04 17:33:30
+date: 2023-01-06 11:33:16
 image: 'https://m.media-amazon.com/images/I/51Q9ItuE+fL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Meridiem Games'
 buyurl: 'https://www.amazon.es/dp/B09KYT8Q37/?tag=tolees-21'
 descuento: '37.41'
-average: '30.2728571428571'
+average: '30.4'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
