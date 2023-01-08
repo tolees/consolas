@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - Destruction Allstars'
-date: 2023-01-07 14:25:33
+date: 2023-01-08 14:48:28
 image: 'https://m.media-amazon.com/images/I/51mUWTyfmXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B08B4JJF8Q/?tag=tolees-21'
 descuento: '62.83'
-average: '27.3188888888889'
+average: '26.2721052631579'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -30,7 +30,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Juego compatible con PlayStation 5
 - Desarrollador: Lucid Games
-- Combate en vehículos y velocidad
 - Incluye juego completo
+- Combate en vehículos y velocidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devolver Digital - Death s Door - PS5'
-date: 2023-01-05 11:20:28
+date: 2023-01-08 14:45:45
 image: 'https://m.media-amazon.com/images/I/51tAw7xEs+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0B4YZGWP4-es Devolver Digital - Death s Door - PS5'
 sku: 'B0B4YZGWP4-es'
 tags: [ 'Hardware y juegos para PlayStation 5','Juegos para PlayStation 5','Videojuegos','devolver digital','ps5','🇪🇸', ]
-actualPrice: 21.99 EUR
+actualPrice: 18.17 EUR
 currency: EUR
-price: 21.99
+price: 18.17
 comparePrice: 29.99 EUR
 prodname: 'Devolver Digital - Death s Door - PS5'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Devolver Digital'
 buyurl: 'https://www.amazon.es/dp/B0B4YZGWP4/?tag=tolees-21'
-descuento: '26.68'
-average: '25.2014285714286'
+descuento: '39.41'
+average: '24.3225'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diseño elegante
-- Producto útil y práctico
-- Producto que combina tradición e innovación
 - Hecho de material de calidad que es lo suficientemente resistente para un uso prolongado
+- Producto útil y práctico
+- Diseño elegante
+- Producto que combina tradición e innovación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
