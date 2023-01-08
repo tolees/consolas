@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Consola PlayStation 5'
-date: 2023-01-06 13:00:21
+date: 2023-01-08 18:00:13
 image: 'https://m.media-amazon.com/images/I/31FJe+79tqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Hardware y juegos para PlayStation 5','Videojuegos','playstation','🇪
 actualPrice: 549.99 EUR
 currency: EUR
 price: 549.99
-comparePrice: 854.99 EUR
+comparePrice: 834.95 EUR
 prodname: 'Consola PlayStation 5'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B08KKJ37F7/?tag=tolees-21'
-descuento: '35.67'
-average: '620.698823529412'
+descuento: '34.13'
+average: '616.770555555556'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
