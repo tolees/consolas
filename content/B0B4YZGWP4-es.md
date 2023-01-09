@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Devolver Digital - Death s Door - PS5'
-date: 2023-01-08 14:45:45
+date: 2023-01-09 16:41:27
 image: 'https://m.media-amazon.com/images/I/51tAw7xEs+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Devolver Digital'
 buyurl: 'https://www.amazon.es/dp/B0B4YZGWP4/?tag=tolees-21'
 descuento: '39.41'
-average: '24.3225'
+average: '23.6388888888889'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
