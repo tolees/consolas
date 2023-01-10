@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Konami - Teenage Mutant Ninja Turtles: The Cowabunga Collection - PS5'
-date: 2023-01-09 12:30:12
+date: 2023-01-10 19:06:17
 image: 'https://m.media-amazon.com/images/I/51BUSHi5zAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Konami'
 buyurl: 'https://www.amazon.es/dp/B0B5F2BD99/?tag=tolees-21'
 descuento: '42.51'
-average: '30.157'
+average: '29.5054545454545'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -29,7 +29,7 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Teenage Mutant Ninja Turtles: The Cowabunga Collection incluye los siguientes juegos clásicos: Ninja Turtles (Arcade); Ninja Turtles: Turtles in Time (Arcade); Ninja Turtles (NES); Ninja Turtles II: The Arcade Game (NES); Ninja Turtles III: The Manhattan Project (NES); Ninja Turtles: Tournament Fighters (NES); Ninja Turtles IV: Turtles in Time (Super Nintendo); Ninja Turtles: Tournament Fighters (Super Nintendo);Ninja Turtles: The Hyperstone Heist (Sega Genesis); Ninja Turtles: Tournament Fighters (Sega Genesis); Ninja Turtles: Fall of The Foot Clan (Game Boy); Ninja Turtles II: Back From The Sewers (Game Boy); Ninja Turtles III: Radical Rescue (Game Boy)
-- ¡La Colección más Completa de Juegos de KONAMI de las tortugas ninja llega a Switch, PlayStation, y Xbox!
 - Nuevas funciones de calidad de vida: Juega onlinecon ciertos juegos y cooperativo local con todos los juegos; Guarda o rebobina en cualquier momento; Asignación de botones ;Arte y bocetos de desarrollo únicos; Contenido multimedia histórico de TMNT; Once versiones regionales japonesas;
+- ¡La Colección más Completa de Juegos de KONAMI de las tortugas ninja llega a Switch, PlayStation, y Xbox!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
