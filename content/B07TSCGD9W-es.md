@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - El Misterioso Viaje de Layton'
-date: 2023-01-05 16:01:29
+date: 2023-01-10 14:43:46
 image: 'https://m.media-amazon.com/images/I/51TI0-NBdNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B07TSCGD9W/?tag=tolees-21'
 descuento: '20.01'
-average: '32.2516129032258'
+average: '32.0675757575758'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Katrielle y la conspiración de los millonarios - Edición Deluxe incluirá más de 40 nuevos puzles, además de nuevos contenidos y mejoras
 - En su aventura, contará con la ayuda de un colorido reparto de personajes nuevos en la serie
+- Katrielle y la conspiración de los millonarios - Edición Deluxe incluirá más de 40 nuevos puzles, además de nuevos contenidos y mejoras
 - En esta entrega de la serie de misterios y puzles, el famoso Profesor Hershel Layton ha desaparecido y su hija Katrielle pasa a ocupar el papel protagonista
 
 [🛒 Comprar!!!]({{< param buyurl >}})
