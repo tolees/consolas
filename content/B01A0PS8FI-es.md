@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BG BE THE GAME - BG Typhoon - Auriculares gaming  micrófono abatible  control volumen  PC  PS4  XBOX ONE  Jack 3.5mm  Negro  Verde'
-date: 2023-01-10 11:02:12
+date: 2023-01-11 12:54:49
 image: 'https://m.media-amazon.com/images/I/41hcs2WivYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'BG BE THE GAME'
 buyurl: 'https://www.amazon.es/dp/B01A0PS8FI/?tag=tolees-21'
 descuento: '17.32'
-average: '11.8230769230769'
+average: '12.0357142857143'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
