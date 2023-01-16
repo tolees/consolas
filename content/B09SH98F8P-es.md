@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Live a Live'
-date: 2023-01-13 17:35:59
+date: 2023-01-16 06:29:21
 image: 'https://m.media-amazon.com/images/I/51C+G6CSgjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B09SH98F8P/?tag=tolees-21'
 descuento: '19.86'
-average: '40.5245714285714'
+average: '40.5097222222222'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -29,7 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Todas estas historias pueden vivirse en el orden que prefieran los jugadores, un periplo como ningún otro aguarda en LIVE A LIVE.
-- Cuenta con siete historias, cada una con protagonistas, épocas y estilos de juego distintos. En el Salvaje Oeste, un viajero, sobre cuya cabeza pende una gran recompense, lucha por su vida; en el ocaso del periodo Edo en Japón, un shinobi se encarga de una misión secreta.
 - ¡LIVE A LIVE, un juego de rol que nunca se había vendido fuera de Japón, llegará ahora a Nintendo Switch con gráficos en HD-2D!
+- Cuenta con siete historias, cada una con protagonistas, épocas y estilos de juego distintos. En el Salvaje Oeste, un viajero, sobre cuya cabeza pende una gran recompense, lucha por su vida; en el ocaso del periodo Edo en Japón, un shinobi se encarga de una misión secreta.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B09SH98F8P{{</world>}}
