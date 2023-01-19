@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation - Destruction Allstars'
-date: 2023-01-08 14:48:28
+date: 2023-01-19 17:50:28
 image: 'https://m.media-amazon.com/images/I/51mUWTyfmXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08B4JJF8Q-es Playstation - Destruction Allstars'
 sku: 'B08B4JJF8Q-es'
 tags: [ 'Hardware y juegos para PlayStation 5','Juegos para PlayStation 5','Videojuegos','playstation','🇪🇸', ]
-actualPrice: 7.43 EUR
+actualPrice: 14.19 EUR
 currency: EUR
-price: 7.43
+price: 14.19
 comparePrice: 19.99 EUR
 prodname: 'Playstation - Destruction Allstars'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Playstation'
 buyurl: 'https://www.amazon.es/dp/B08B4JJF8Q/?tag=tolees-21'
-descuento: '62.83'
-average: '26.2721052631579'
+descuento: '29.01'
+average: '25.668'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,9 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Juego compatible con PlayStation 5
-- Desarrollador: Lucid Games
-- Incluye juego completo
 - Combate en vehículos y velocidad
+- Juego compatible con PlayStation 5
+- Incluye juego completo
+- Desarrollador: Lucid Games
 
 [🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B08B4JJF8Q{{</world>}}
