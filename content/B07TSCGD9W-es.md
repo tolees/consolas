@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - El Misterioso Viaje de Layton'
-date: 2023-01-10 14:43:46
+date: 2023-01-20 09:04:22
 image: 'https://m.media-amazon.com/images/I/51TI0-NBdNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07TSCGD9W-es Nintendo - El Misterioso Viaje de Layton'
 sku: 'B07TSCGD9W-es'
 tags: [ 'Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Videojuegos','nintendo','🇪🇸', ]
-actualPrice: 31.99 EUR
+actualPrice: 32.99 EUR
 currency: EUR
-price: 31.99
+price: 32.99
 comparePrice: 39.99 EUR
 prodname: 'Nintendo - El Misterioso Viaje de Layton'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.es/dp/B07TSCGD9W/?tag=tolees-21'
-descuento: '20.01'
-average: '32.0675757575758'
+descuento: '17.50'
+average: '32.1202857142858'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -33,3 +33,4 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - En esta entrega de la serie de misterios y puzles, el famoso Profesor Hershel Layton ha desaparecido y su hija Katrielle pasa a ocupar el papel protagonista
 
 [🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B07TSCGD9W{{</world>}}
