@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros. Interactive Spain - Lego Harry Potter Collection - Nintendo Switch. Edition: Estándar'
-date: 2023-01-10 09:11:23
+date: 2023-01-23 09:33:20
 image: 'https://m.media-amazon.com/images/I/51vy4YZcEVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Warner Bros. Interactive Spain'
 buyurl: 'https://www.amazon.es/dp/B07HGGDM4Q/?tag=tolees-21'
 descuento: '30.16'
-average: '23.0557386363638'
+average: '23.0831073446329'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,8 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Dos juegos remasterizados, ahora en un solo disco.
 - Explora Hogwarts y lanza hechizos con un amigo en las partidas cooperativas.
 - Desbloquea y juega con más de 200 de tus personajes favoritos.
+- Dos juegos remasterizados, ahora en un solo disco.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B07HGGDM4Q{{</world>}}
