@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nighthawk Interactive - Arcadegeddon - PS5'
-date: 2023-01-16 08:50:35
+date: 2023-01-25 11:01:08
 image: 'https://m.media-amazon.com/images/I/514Gqnc0-pL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0B7KQXLWL-es Nighthawk Interactive - Arcadegeddon - PS5'
 sku: 'B0B7KQXLWL-es'
 tags: [ 'Hardware y juegos para PlayStation 5','Juegos para PlayStation 5','Videojuegos','nighthawk interactive','ps5','🇪🇸', ]
-actualPrice: 14.99 EUR
+actualPrice: 9.99 EUR
 currency: EUR
-price: 14.99
+price: 9.99
 comparePrice: 29.99 EUR
 prodname: 'Nighthawk Interactive - Arcadegeddon - PS5'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Nighthawk Interactive'
 buyurl: 'https://www.amazon.es/dp/B0B7KQXLWL/?tag=tolees-21'
-descuento: '50.02'
-average: '24.99'
+descuento: '66.69'
+average: '18.99'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
