@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xbox 360 Classics Rayman Origins'
-date: 2023-01-28 17:02:25
+date: 2023-01-29 19:02:18
 image: 'https://m.media-amazon.com/images/I/51Iwfw9NFVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Rayman'
 buyurl: 'https://www.amazon.es/dp/B00LVKCBFK/?tag=tolees-21'
 descuento: '18.15'
-average: '18.425'
+average: '18.4633333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
