@@ -1,0 +1,5 @@
+/* your styles go here */
+
+.loading {
+    background: #1E1E1E url('/gif/loader.gif') center center no-repeat;
+}

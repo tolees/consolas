@@ -1,0 +1,71 @@
+<script src='{{ "js/jquery.min.js" | absURL }}'></script>
+<script src='{{ "js/bootstrap.min.js" | absURL }}'></script>
+<script src='{{ "js/jquery.cookie.js" | absURL }}'></script>
+<script src='{{ "js/ekko-lightbox.js"  | absURL }}'></script>
+<script src='{{ "js/jquery.scrollTo.min.js" | absURL }}'></script>
+<script src='{{ "js/masonry.pkgd.min.js" | absURL }}'></script>
+<script src='{{ "js/imagesloaded.pkgd.min.js" | absURL }}'></script>
+<script src='{{ "js/owl.carousel.min.js" | absURL }}'></script>
+<script src='{{ "js/front.js" | absURL }}'></script>
+<script defer src='{{ "js/search.js" | urlize | relURL }}'></script>
+<script src='{{ "js/blazy.min.js" | absURL }}'></script>
+<script src='{{ "js/main.js" | absURL }}'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js'></script>
+<script src='https://unpkg.com/axios/dist/axios.min.js'></script>
+<script src='https://unpkg.com/lunr/lunr.js'></script>
+
+<!--
+Disabled as we also point out items from other countries and want to leave it listed
+<script>
+    var BestAzon_Configuration = {
+        "Amzn_AfiliateID_US": "tolees-20",
+        "Amzn_AfiliateID_CA": "",
+        "Amzn_AfiliateID_GB": "tolees0a-21",
+        "Amzn_AfiliateID_DE": "tolees0ca-21",
+        "Amzn_AfiliateID_FR": "tolees0d-21",
+        "Amzn_AfiliateID_ES": "tolees-21",
+        "Amzn_AfiliateID_IT": "tolees00-21",
+        "Amzn_AfiliateID_JP": "",
+        "Amzn_AfiliateID_IN": "",
+        "Amzn_AfiliateID_CN": "",
+        "Amzn_AfiliateID_MX": "",
+        "Amzn_AfiliateID_BR": "",
+        "Conf_Custom_Class": " BestAzon_Amazon_Link ", //enter if you'll like to add any CSS class to the Amazon links (can be used for styling)
+        "Conf_New_Window": "1", //enter "1" if you'll like to open Amazon links in new window (recommended), "2" to force open in the same window, keep blank if you'd use the defaults
+        "Conf_Link_Follow": "1", //enter "1" if you'll like to add no-follow to the Amazon links (recommended), "2" to not add no-follow
+        "Conf_Product_Link": "1", //enter "1" if you'll like to redirect international visitors to equivalent search page on local Amazon stores (recommended and fast), "2" if you want them to go to equiavalent product page (slow)
+        "Conf_Tracking": "1", //enter "1" if you'll like to enable tracking (useful to optimize the service to you), "2" to disable
+        "Conf_Footer": "1", //enter "1" to add credit in footer (recommended), "2" to disable
+        "Conf_Link_Keywords": "", //enter additional keywords - if any of these keywords is found in any URL on your site, that will be sent to Bestazon for localization (useful if you use short links like bitly to hide your affiliate links). E.g. enter "/amazon/" if all your Amazon links containt the string /amazon/
+        "Conf_Hide_Redirect_Link": "1", //enter "1" to not replace your original link with bestazon links (recommended), "2" if you want to replace (not recommended)
+        "Conf_Source": "BestAzonScript" //DO NOT CHANGE THIS
+    };
+</script>
+<script src="https://bestazon.io/script/BestAzonScript.js"></script>
+-->
+
+{{ if .Site.Params.gtag }}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.gtag }}"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', '{{ .Site.Params.gtag }}');
+</script>
+{{ end }}
+
+<script type="text/javascript">
+    (function(c, l, a, r, i, t, y) {
+        c[a] = c[a] || function() {
+            (c[a].q = c[a].q || []).push(arguments)
+        };
+        t = l.createElement(r);
+        t.async = 1;
+        t.src = "https://www.clarity.ms/tag/" + i;
+        y = l.getElementsByTagName(r)[0];
+        y.parentNode.insertBefore(t, y);
+    })(window, document, "clarity", "script", "54yrc3va88");
+</script>
