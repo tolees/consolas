@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Playstation - Sony - Mando Inalámbrico DualShock 4  Color Azul Oscuro  PS4 '
+date: 2024-03-19 10:02:06
+image: 'https://m.media-amazon.com/images/I/41Q5Dti6vvL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B079M94HSL-es Playstation - Sony - Mando Inalámbrico DualShock 4 Color...'
+sku: 'B079M94HSL-es'
+tags: [ '856628d6-bd06-44c9-8556-c5cb75f77e2b_0','856628d6-bd06-44c9-8556-c5cb75f77e2b_3901','856628d6-bd06-44c9-8556-c5cb75f77e2b_4201','856628d6-bd06-44c9-8556-c5cb75f77e2b_8201','Accesorios para PS4, Xbox One y Nintendo Switch','Accesorios para PlayStation 4','Arborist Merchandising Root','Hardware y juegos para PlayStation 4','Mandos para PlayStation 4','Mandos y controles para PlayStation 4','PlayStation Accessories','PlayStation Mandos','Self Service','Special Features Stores','Videojuegos','playstation','ps4','🇪🇸', ]
+actualPrice: 49.99 EUR
+currency: EUR
+price: 49.99
+comparePrice: 66.99 EUR
+prodname: 'Playstation - Sony - Mando Inalámbrico DualShock 4  Color Azul Oscuro  PS4 '
+country: 'es'
+flag: '🇪🇸'
+brand: 'Playstation'
+buyurl: 'https://www.amazon.es/dp/B079M94HSL/?tag=tolees-21'
+descuento: '25.38'
+average: '51.2309375000001'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Controlador inalámbrico Dualshock 4
+- Es de la marca Sony
+- Se puede utilizar con las aplicaciones disponibles en Windows PC y Mac
+
+[🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B079M94HSL{{</world>}}
