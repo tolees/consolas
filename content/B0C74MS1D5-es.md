@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubisoft Spain - Prince of Persia: The Lost Crown  PS5 '
-date: 2024-03-26 22:19:07
+date: 2024-03-28 14:33:45
 image: 'https://m.media-amazon.com/images/I/51VhrgGIuxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Ubisoft Spain'
 buyurl: 'https://www.amazon.es/dp/B0C74MS1D5/?tag=tolees-21'
 descuento: '37.51'
-average: '40.572'
+average: '38.8083333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sumérgete en una fantasía mitológica persa a través de una historia original y misteriosa, mientras usas tu ingenio para resolver puzles, encontrar tesoros ocultos y cumplir misiones que te permitirán saber más sobre este lugar corrupto
 - Descubre un mundo maldito lleno de lugares exuberantes inspirado en Persia; Explora una gran variedad de biomas, cada uno con su propia identidad, maravillas y peligros
+- Sumérgete en una fantasía mitológica persa a través de una historia original y misteriosa, mientras usas tu ingenio para resolver puzles, encontrar tesoros ocultos y cumplir misiones que te permitirán saber más sobre este lugar corrupto
 - Se aplican condiciones y restricciones; Para actualizar las copias en disco físico que
 - Usa tus poderes del tiempo, habilidades de combate y movimientos para ejecutar combos letales y derrotar a criaturas mitológicas y enemigos corrompidos por el tiempo
 

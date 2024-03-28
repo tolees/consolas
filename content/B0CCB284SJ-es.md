@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SEGA - Sonic Superstars'
-date: 2024-03-20 13:08:13
+date: 2024-03-28 14:37:33
 image: 'https://m.media-amazon.com/images/I/61dQVIqB7nL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'SEGA'
 buyurl: 'https://www.amazon.es/dp/B0CCB284SJ/?tag=tolees-21'
 descuento: '47.63'
-average: '41.0633333333333'
+average: '40.55875'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
