@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Maximum Games - Rustler - Nintendo Switch'
+date: 2024-06-12 00:23:21
+image: 'https://m.media-amazon.com/images/I/5177ArSZmHS._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B08ZZDNFFV-es Maximum Games - Rustler - Nintendo Switch'
+sku: 'B08ZZDNFFV-es'
+tags: [ '856628d6-bd06-44c9-8556-c5cb75f77e2b_0','856628d6-bd06-44c9-8556-c5cb75f77e2b_2201','856628d6-bd06-44c9-8556-c5cb75f77e2b_3601','Arborist Merchandising Root','Hardware y juegos para Nintendo Switch','Juegos para Nintendo Switch','Preventa de Videojuegos','Self Service','Special Features Stores','Videojuegos','Videojuegos más esperados','maximum games','nintendo','🇪🇸', ]
+actualPrice: 24.99 EUR
+currency: EUR
+price: 24.99
+comparePrice: 32.99 EUR
+prodname: 'Maximum Games - Rustler - Nintendo Switch'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Maximum Games'
+buyurl: 'https://www.amazon.es/dp/B08ZZDNFFV/?tag=tolees-21'
+descuento: '24.25'
+average: '27.79'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Gran Robo de Caballos: Siembra el caos en un mundo medieval inspirado en la jugabilidad clásica de GTA. Usa espadas, lanzas o plastas. cualquier cosa vale.
+- Ponte la corona: Eres un mísero plebeyo y tendrás que ser creativo para ganar el Gran Torneo. Forma extrañas alianzas, engaña a tus enemigos y desentierra huesos de dinosaurio (porque, ¿por qué no?).
+- Un sandbox medieval: la forma en la que progresas depende de ti. Dedica tu tiempo a completar misiones, sembrar el caos y divertirte a costa de otros.
+- Juglaría del poder: Contrata a un compañero musical para toque las melodías que te gusten y añade una poderosa banda sonora a tus aventuras.
+- Mucho más que caballos: Lanza vacas por los aires, arrastra a tus vecinos por el fango, lanza granadas sagradas o traza dibujos vistosos en el campo con un arado.
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B08ZZDNFFV{{</world>}}
