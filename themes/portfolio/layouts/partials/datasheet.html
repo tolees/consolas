@@ -1,0 +1,28 @@
+{{ if .Params.actualPrice }}
+{{ $.Scratch.Set "minimumPrice" (.Params.actualPrice | string) }}
+{{ else }}
+{{ $.Scratch.Set "minimumPrice" "999999999999999"}}
+{{ end }}
+{{ if .Params.inStock }}
+{{ $.Scratch.Set "inStock" (.Params.inStock | string) }}
+{{ else }}
+{{ $.Scratch.Set "inStock" "false" }}
+{{ end }}
+{{ range .Params.variants }}
+{{ $variantActualPrice := (.actualPrice | replaceRE "[^0-9.]+" "" | float )  }}
+{{ $actualPrice := ($.Scratch.Get "minimumPrice" | replaceRE "[^0-9.]+" "" | float) }}
+{{ if lt $variantActualPrice $actualPrice }}
+    {{ $.Scratch.Set "minimumPrice" (.actualPrice | string)}}
+    {{ $.Scratch.Set "isMinimumVariantPrice" "true"}}
+{{ end }}
+{{ end }}
+
+                      
+  <p>   {{ if .Params.flag }}{{ .Params.flag }}{{ end }}     <small class="text-muted">
+    <span style="text-decoration: line-through">{{ .Params.comparePrice }}</span></small> {{ if eq ($.Scratch.Get "isMinimumVariantPrice") "true" }} From {{ end }} <b> {{ $.Scratch.Get "minimumPrice" }} </b>({{ .Params.descuento }}% ⬇)
+    <br>
+    {{ if .Title }}
+    {{ .Title }}
+
+  {{ end }}
+  </p>
