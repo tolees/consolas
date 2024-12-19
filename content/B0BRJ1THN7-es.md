@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hemos alcanzado nuestro límite de códigos Beta, cualquier pedido adicional no recibirá un código Beta. Nos disculpamos por los inconvenientes
 - Esto no es más que el comienzo para Diablo IV, que ampliará sus contenidos con nuevos eventos, historias, temporadas y recompensas y mucho más
+- Hemos alcanzado nuestro límite de códigos Beta, cualquier pedido adicional no recibirá un código Beta. Nos disculpamos por los inconvenientes
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BRJ1THN7{{</world>}}

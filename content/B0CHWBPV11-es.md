@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Usa una amplia variedad de emblemáticos cosméticos y personaliza a tu Niñe Nueve con infinitas combinaciones posibles, desde gorritos y camisetas de Peditos de queso hasta unas bolas en el mentón
-- Disfruta del juego cooperativo por primera vez en un juego de South Park con hasta tres amigos o bots aliados, con quienes podrás desatar poderosos ataques coordinados contra tus enemigos
 - Una ventisca de proporciones épicas ha cubierto South Park de nieve y depende de Cartman, Stan, Kenny, Kyle y de ti, le Niñe Nueve, salvar la ciudad de un invierno eterno
 - Ábrete paso luchando por el nevado pueblo de South Park en este juego cooperativo en 3D
 - Equípate y mejora devastadoras armas cuerpo a cuerpo y a distancia; emplea habilidades y poderes especiales que pondrán de rodillas a hordas de enemigos y jefes épicos
+- Disfruta del juego cooperativo por primera vez en un juego de South Park con hasta tres amigos o bots aliados, con quienes podrás desatar poderosos ataques coordinados contra tus enemigos
+- Usa una amplia variedad de emblemáticos cosméticos y personaliza a tu Niñe Nueve con infinitas combinaciones posibles, desde gorritos y camisetas de Peditos de queso hasta unas bolas en el mentón
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CHWBPV11{{</world>}}
