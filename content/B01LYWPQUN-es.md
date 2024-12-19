@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- AUDIO EN ESTERÉO: El mando Dualshock 4 cuenta con un conector tipo jack de 3,5 mm para que puedas conectar tus auriculeres y aprecies tus juegos en estéreo. Además si tus cascos incluyen micrófono podrás usarlos para chats de voz en online gaming.
-- TOMA EL CONTROL de tus juegos de PS4 con el icónico mando inalámbrico DUALSHOCK 4, con gatillos receptivos, agarre texturizado y muchas características que te acercarán más a tus juegos."
 - SENSORES DE MOVIMIENTO: Muévete libremente mientras el acelerómetro y el giroscopio integrados de gran sensibilidad detectan el movimiento, la inclinación y la rotación del mando inalámbrico DUALSHOCK 4.
 - MAYOR INMERSIÓN: En la V2 del Dualshock 4 Implícate aún más en tus juegos con la barra luminosa integrada que brilla con distintos colores dependiendo de la acción, visible ahora a través del panel táctil.
+- TOMA EL CONTROL de tus juegos de PS4 con el icónico mando inalámbrico DUALSHOCK 4, con gatillos receptivos, agarre texturizado y muchas características que te acercarán más a tus juegos."
+- AUDIO EN ESTERÉO: El mando Dualshock 4 cuenta con un conector tipo jack de 3,5 mm para que puedas conectar tus auriculeres y aprecies tus juegos en estéreo. Además si tus cascos incluyen micrófono podrás usarlos para chats de voz en online gaming.
 - MÁS PRECISO: Gracias a los joysticks analógicos y gatillos mejorados conseguirás una sensación de control mucho más precisa en tus juegos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

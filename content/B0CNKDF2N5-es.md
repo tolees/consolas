@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La edición física incluye: El juego físico, Un manual/guía exclusiv, Tarjeta de control, Un skin de personaje exclusivo
 - LA FUERZA SIN CONTROL NO SIRVE DE NADA: utiliza la sala de entrenamiento para perfeccionar la precisión y la potencia de tus movimientos y así poder conectar secuencias de ataque devastadoras.
-- COMBOS LETALES: maneja la espada con rapidez, emplea artillería explosiva y realiza combos espectaculares contra un ejército de carne y metal.
-- LUCHA POR TU VIDA: derrota a minijefes y supera escenarios y enfrentamientos culminantes uno contra uno en intensos desafíos contra villanos memorables.
 - MUERTE DESDE LAS ALTURAS: las acrobacias aéreas, las embestidas y los frecuentes cambios de objetivo te permiten derrotar a adversarios de todos los tamaños, mientras que saltar por paredes y plataformas te ayudará a ganarle la partida a tus enemigos.
+- La edición física incluye: El juego físico, Un manual/guía exclusiv, Tarjeta de control, Un skin de personaje exclusivo
+- LUCHA POR TU VIDA: derrota a minijefes y supera escenarios y enfrentamientos culminantes uno contra uno en intensos desafíos contra villanos memorables.
+- COMBOS LETALES: maneja la espada con rapidez, emplea artillería explosiva y realiza combos espectaculares contra un ejército de carne y metal.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNKDF2N5{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - AVENTURAS INFINITAS: Disfruta de la vida en Japón y explora todo lo que ofrece Hawái en una aventura tan grande que abarca todo el Pacífico. Te esperan momentos inolvidables a cada paso con una mezcla única de misiones y actividades que puedes disfrutar a tu ritmo.
-- UN DRAMA ÉPICO Y EMOTIVO: Dos héroes más grandes que la vida misma se unen guiados por el destino, o quizás, por algo más siniestro… Ichiban Kasuga, un perdedor imparable que sabe lo que es tener que recuperarse después de tocar fondo, y Kazuma Kiryu, un hombre roto que debe enfrentar sus últimos días.
 - UN RPG DE ACCIÓN DE PRIMERA CATEGORÍA: Experimenta un sistema de combate único con batallas dinámicas y frenéticas de RPG donde el campo de batalla se convierte en tu arma, y en el que todo vale. Adapta las habilidades de tu grupo a la situación con trabajos y personalizaciones esperpénticos para someter estratégicamente a tus enemigos con movimientos excéntricos
+- UN DRAMA ÉPICO Y EMOTIVO: Dos héroes más grandes que la vida misma se unen guiados por el destino, o quizás, por algo más siniestro… Ichiban Kasuga, un perdedor imparable que sabe lo que es tener que recuperarse después de tocar fondo, y Kazuma Kiryu, un hombre roto que debe enfrentar sus últimos días.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJJF78G5{{</world>}}

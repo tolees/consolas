@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- - Viaja a Alamut, el hogar legendario de los Asesinos que sentaron las bases del Credo, en este sentido homenaje al juego con el que empezó todo.
 - - Explora una ciudad densa y vibrante en la que los habitantes reaccionan a todos tus movimientos, y descubre los secretos de cuatro distritos únicos mientras te sumerges en la Edad de Oro de Bagdad.
 - - Experimenta una versión moderna de las características y la mecánica de juego que han definido a una franquicia durante 15 años mientras haces parkour por la ciudad y eliminas a los objetivos con asesinatos más viscerales que nunca.
-- - Viaja a Alamut, el hogar legendario de los Asesinos que sentaron las bases del Credo, en este sentido homenaje al juego con el que empezó todo.
 - - Descubre una aventura de acción con una narrativa bien hilada que sigue los pasos de un joven desafiante a medida que se convierte en un Maestro Asesino. V13
 
 [🛒 Aquí!!!]({{< param buyurl >}})

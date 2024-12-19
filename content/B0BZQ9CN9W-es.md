@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sistema de combates emocionante y sublime
 - Una nueva historia basada en el arco War of Underworld
+- Sistema de combates emocionante y sublime
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BZQ9CN9W{{</world>}}

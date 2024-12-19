@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Intertiol products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
-- Lokaler Koop für zwei Spieler im Story-Modus
 - Sidescroll-Shootem Up wie in der guten alten Zeit, aber mit moderner Grafik und Präsentation
+- Lokaler Koop für zwei Spieler im Story-Modus
 - Drei neue Versus-Modi - Rennen, Panzer, Dodgeball
 
 [🛒 Visítala!!!]({{< param buyurl >}})
