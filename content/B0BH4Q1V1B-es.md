@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Crea pociones alquímicas con las plantas mágicas que encuentres
 - ¡Abre el pasadizo entre los mundos y encuentra el artefacto legendario!
 - Recoge objetos y úsalos para resolver puzles
 - Explora ruinas antiguas, cuevas misteriosas y casas abandonadas
 - Lucha con criaturas mágicas
+- Crea pociones alquímicas con las plantas mágicas que encuentres
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BH4Q1V1B{{</world>}}

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Escenas con voces en inglés y japonés, así como una banda sonora orquestada y grabada en directo para la ocasión, que junto a la traducción al castellano permiten meterse de lleno en un drama al que dan forma multitud de personajes
-- Contiendas tácticas desplegadas en un campo de batalla que toma en consideración las diferencias de altura y la profundidad; con una IA de batalla completamente renovada, habrá que adaptarse a la situación y a la estrategia enemiga en combates que te mantienen alerta en todo momento y harán que disfrutes sin caer en el aburrimiento
-- Todo tipo de clases, armas, habilidades y conjuros te permiten pensar en infinitas combinaciones que harán que pases un buen rato también fuera del campo de batalla
 - Sistema de múltiples ramas de historia y finales; según las decisiones que tomes, tu aventura puede llevarte todo tipo de caminos; ponte en la piel Denam y trata de cambiar la historia de Valeria y el destino de sus gentes para siempre
+- Todo tipo de clases, armas, habilidades y conjuros te permiten pensar en infinitas combinaciones que harán que pases un buen rato también fuera del campo de batalla
 - El ritmo de combate, sistema de autoguardado y una interfaz accesible son solo algunas de las revisiones que se han acometido para conseguir una experiencia de juego llevadera
+- Contiendas tácticas desplegadas en un campo de batalla que toma en consideración las diferencias de altura y la profundidad; con una IA de batalla completamente renovada, habrá que adaptarse a la situación y a la estrategia enemiga en combates que te mantienen alerta en todo momento y harán que disfrutes sin caer en el aburrimiento
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B8T7XLG5{{</world>}}
