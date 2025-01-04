@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Juego de otra rivalidad
 - Este juego trae un modo de juego específico
+- Juego de otra rivalidad
 - Un luchador para una otra generación
 - Arcade Quest
 
