@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Conducción realista de trenes que debe adaptarse a la meteorología (incluyendo lluvia y nieve), el entorno y las señales
-- Personalización total de los trenes incluyendo el diseño exterior e interior
-- Gestión realista de la compañía: reclutamiento, contratos, compra de trenes, etc. Eventos aleatorios (averías, árboles en las vías, etc.) que afectan al progreso
 - Videojuego con un concepto verdaderamente original: el primer juego que combina gestión de una compañía y conducción de trenes
+- Gestión realista de la compañía: reclutamiento, contratos, compra de trenes, etc. Eventos aleatorios (averías, árboles en las vías, etc.) que afectan al progreso
+- Personalización total de los trenes incluyendo el diseño exterior e interior
 - 10001 km de vías para recorrer, con una gran variedad de paisajes y ciudades realistas. Una docena de estaciones reales representadas con fidelidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

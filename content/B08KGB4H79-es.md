@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La serie Ori es una de las más queridas por los fanáticos de los juegos independientes y la acción de plataformas: admirable en profundidad, técnicamente impresionante y con una jugabilidad ajustada a la perfección.
 - La Edición Definitiva de Ori and the Blind Forest ya está disponible como edición física en Nintendo Switch e incluye un mazo ilustrado de 6 cartas y la banda sonora digital del juego.
-- Ori and the Blind Forest cuenta la historia de un joven huérfano que está destinado a convertirse en héroe, a través de un juego de acción y plataformas visualmente impresionante diseñado por Moon Studios.
 - El fuerte de Nibel está muriendo. Tras un fuerte clima que ha provocado una serie de eventos tan devastadores, Ori reúne su valor para enfrentarse a un oscuro enemigo.
+- La serie Ori es una de las más queridas por los fanáticos de los juegos independientes y la acción de plataformas: admirable en profundidad, técnicamente impresionante y con una jugabilidad ajustada a la perfección.
 - Con un nivel de logro muy alto, Ori and the Blind Forest explora una historia profundamente conmovedora sobre el amor, el sentido del sacrificio y la esperanza que existen en cada uno de nosotros.
+- Ori and the Blind Forest cuenta la historia de un joven huérfano que está destinado a convertirse en héroe, a través de un juego de acción y plataformas visualmente impresionante diseñado por Moon Studios.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08KGB4H79{{</world>}}

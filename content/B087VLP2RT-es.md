@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuenta con tecnología Xbox Wireless y Bluetooth para juegos inalámbricos en consolas compatibles, PC con Windows 10 y teléfonos inteligentes y tabletas con Android
 - Manténgase en el objetivo con la superficie de agarre texturizada y el D-Pad híbrido
 - Puede conectar auriculares y auriculares compatibles al conector para auriculares estéreo de 3,5 mm
+- Cuenta con tecnología Xbox Wireless y Bluetooth para juegos inalámbricos en consolas compatibles, PC con Windows 10 y teléfonos inteligentes y tabletas con Android
 - Puede personalizar el controlador para que se adapte a sus necesidades y reasignar los botones como desee con la aplicación Accesorios de Xbox.
 - Experimente el diseño actualizado del controlador inalámbrico Xbox en Robot White, que brinda más comodidad durante el juego con sus superficies esculpidas y su geometría refinada
 

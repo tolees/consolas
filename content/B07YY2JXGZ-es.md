@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 3+
 - PS4
+- 3+
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07YY2JXGZ{{</world>}}

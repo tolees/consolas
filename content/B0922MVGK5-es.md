@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Regresa a los 80 con solo pulsar un botón. No importa en qué parte del nivel te encuentres, puedes pasar de gráficos de 8 bits a HD.
 - ¡Sumérgete en un mundo de 8 bits con el modo Retro! ¡Puedes cambiar del modo gráfico mejorado al estilo original en cualquier momento del juego!
 - ¡Revive batallas legendarias con piedras y tijeras en el modo Boss Rush! ¡Enfréntate a los legendarios Gooseka, Chokkina, Parplin y Janken el Grande en continuas batallas contra jefes!
 - Juega nuevos niveles que amplían la historia del juego original. Mecánicas de combate contra jefes nuevas y mejoradas con un combate más intuitivo
-- Regresa a los 80 con solo pulsar un botón. No importa en qué parte del nivel te encuentres, puedes pasar de gráficos de 8 bits a HD.
 - ¡El legendario Alex Kidd regresa en Alex Kidd en Miracle World DX! Sumérgete en el mundo de los milagros y vívelo como nunca lo habías visto antes.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

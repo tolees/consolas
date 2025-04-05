@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - Campaña para un jugador con pantalla dividida completa de 2-4 jugadores (cooperativa de pantalla dividida de 2-4 jugadores en PS4/Xbox One y cooperativa de pantalla dividida de 2 jugadores en Switch) y hasta 10 jugadores cooperativos en línea
 - Montones de armas brutales
 - "Un increíblemente exitoso sucesor espiritual de Road Rash” - 90/100 -Ragequit
-- Gigantesco árbol de habilidades ampliables acumula botines para mejorar tu personaje, tu moto y tus armas
 - Un rico sistema de lucha en moto con agarres, patadas, rechazos, golpes críticos y más
+- Gigantesco árbol de habilidades ampliables acumula botines para mejorar tu personaje, tu moto y tus armas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08DJT9HWW{{</world>}}

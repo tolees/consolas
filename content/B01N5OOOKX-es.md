@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Es una correa del mando Joy-Con
 - Tipo de producto: accesorio
-- Plataforma: Nintendo Switch
 - Es un regalo adecuado en cualquier momento
+- Es una correa del mando Joy-Con
+- Plataforma: Nintendo Switch
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01N5OOOKX{{</world>}}

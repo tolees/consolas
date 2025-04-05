@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Precuela Desgarradora: Explora el origen del caos en esta precuela de Daymare: 1998. Descubre eventos aterradores que dieron forma al mundo de pesadilla.
 - H.A.D.E.S. al Límite: La unidad se enfrenta al verdadero horror. Encuentra pistas, resuelve misterios y sobrevive mientras luchas contra enemigos implacables y desconocidos.
-- Reyes en la Oscuridad: Únete a la agente Dalila Reyes, antigua espía ahora enfrentando horrores en la unidad H.A.D.E.S. en una lucha desesperada por la supervivencia.
-- Laberinto de Terror: Sumérgete en entornos oscuros y peligrosos. Cada paso revela una verdad inquietante. ¿Lograrás salir del laberinto vivo?
 - Adrenalina y Desesperación: Experimenta la intensidad del terror y la supervivencia. Cada elección cuenta en este juego emocionalmente cargado donde la desesperación acecha en cada rincón.
+- Reyes en la Oscuridad: Únete a la agente Dalila Reyes, antigua espía ahora enfrentando horrores en la unidad H.A.D.E.S. en una lucha desesperada por la supervivencia.
+- Precuela Desgarradora: Explora el origen del caos en esta precuela de Daymare: 1998. Descubre eventos aterradores que dieron forma al mundo de pesadilla.
+- Laberinto de Terror: Sumérgete en entornos oscuros y peligrosos. Cada paso revela una verdad inquietante. ¿Lograrás salir del laberinto vivo?
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C5MCK8MP{{</world>}}

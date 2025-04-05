@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- VIVE UNA EXPERIENCIA ÚNICA EN MULTIJUGADOR: Desafía a tus amigos en un juego cooperativo sin fisuras. Únete a la comunidad de Enchanted Portals y participa en eventos emocionantes. ¡La magia está en todas partes y la aventura te espera en cada salto y desafío!"**
-- MÚSICA PEGAJOSA Y RETRO ARTÍSTICA: Deleita tus sentidos con una banda sonora envolvente y disfruta del encanto del arte antiguo. Enchanted Portals no solo es un juego, ¡es una experiencia auditiva y visual que te transportará a otro tiempo!
 - COOPERATIVO Y CAUTIVADOR: Sumérgete en la magia del juego cooperativo con amigos o en solitario. Los encantadores gráficos retro y la música cautivadora te envolverán en una experiencia que va más allá de lo común.
-- DESCUBRE LA COMEDIA INCESANTE: Acompaña a los magos novatos en su hilarante búsqueda por regresar a su dimensión. La comedia incesante y la narrativa emocionante te mantendrán inmerso en un mundo donde la risa y la magia van de la mano.
+- VIVE UNA EXPERIENCIA ÚNICA EN MULTIJUGADOR: Desafía a tus amigos en un juego cooperativo sin fisuras. Únete a la comunidad de Enchanted Portals y participa en eventos emocionantes. ¡La magia está en todas partes y la aventura te espera en cada salto y desafío!"**
 - EMBÁRCATE EN UNA AVENTURA MÁGICA:: Descubre mundos encantadores con Bobby y Penny en Enchanted Portals - Tails Edition, una experiencia única de plataformas 2D que te transportará a la nostalgia de los juegos clásicos.º
+- MÚSICA PEGAJOSA Y RETRO ARTÍSTICA: Deleita tus sentidos con una banda sonora envolvente y disfruta del encanto del arte antiguo. Enchanted Portals no solo es un juego, ¡es una experiencia auditiva y visual que te transportará a otro tiempo!
+- DESCUBRE LA COMEDIA INCESANTE: Acompaña a los magos novatos en su hilarante búsqueda por regresar a su dimensión. La comedia incesante y la narrativa emocionante te mantendrán inmerso en un mundo donde la risa y la magia van de la mano.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CB8ZWKCP{{</world>}}

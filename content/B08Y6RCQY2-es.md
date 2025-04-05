@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Un monde vivant, coloré et riche en détail, qui incluent de nombreux personnages nouveaux comme familiers au sein du monde Horse Club !
+- Les merveilleux personnages du Horse Club créé par Schleich prennent vie ! Visite le célèbre centre équestre de Lakeside et profite de vacances riches en action et aventures
 - Par exemple, de nouvelles coiffures, de nouvelles bottes, de nouveaux hauts, pantalons et bombes dans une variété de couleurs
 - De nombreux mini-jeux facultatifs, comme le pansage et lentretien des sabots des chevaux ! Et toutes sortes de nouvelles tenues et améliorations à débloquer pour ton personnage en jeu
 - Plus de 40 quêtes principales différentes qui constituent une histoire captivante autour de Lakeside ! 30 quêtes facultatives, dont une énigme intrigante impliquant la mystérieuse Edith Jacobs
-- Les merveilleux personnages du Horse Club créé par Schleich prennent vie ! Visite le célèbre centre équestre de Lakeside et profite de vacances riches en action et aventures
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08Y6RCQY2{{</world>}}

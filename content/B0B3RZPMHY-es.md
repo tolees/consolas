@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Revive el aclamado juego que lo cambió todo para la consola PlayStation5
 - Gráficos mejorados, carga rápida, respuesta háptica, gatillo adaptativos y audio 3D
-- Disfruta de la emotiva historia y los inolvidables personajes de The Last of Us
 - Resiste y sobrevive
+- Disfruta de la emotiva historia y los inolvidables personajes de The Last of Us
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3RZPMHY{{</world>}}

@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Género: acción/aventura
 - Rango ESRB: T (adolescente)
-- Clasificación PEGI: 16
-- Plataforma: PlayStation 4
 - Edición de los juegos: básica
+- Plataforma: PlayStation 4
+- Clasificación PEGI: 16
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07JH99TG6{{</world>}}

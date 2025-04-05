@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Color negro
 - Auriculares de sonido con micrófono
+- Color negro
 - Sensación envolvente
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Utilisez des alter explosifs avec vos personnages préférés
-- Basé sur l’anime à succès my hero academia, le jeu inclut les personnages favoris des fans tel que deku, all might et shigaraki
 - Revivez les scènes les plus iconiques de l’anime
+- Basé sur l’anime à succès my hero academia, le jeu inclut les personnages favoris des fans tel que deku, all might et shigaraki
+- Utilisez des alter explosifs avec vos personnages préférés
 - Construisez votre équipe ultime avec les tout nouveaux personnages jouables
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

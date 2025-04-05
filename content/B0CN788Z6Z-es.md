@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DLC Overpower: Sumérgete en una intensa acción de disparos con el DLC Overpower, que ofrece nuevos controles, una banda sonora fresca y emocionantes desafíos que mejoran la experiencia de juego en general.
-- Jugabilidad Clásica y Dinámica: Disfruta de una experiencia clásica de bullet hell en Rolling Gunner y cambia al modo dinámico con doble joystick de Overpower para una variedad de juego.
 - Edición Limitada: La colección está disponible en una Edición Limitada, con un total de 2,000 copias para Nintendo Switch y 1,300 copias para PlayStation 4 en todo el mundo, que presenta una portada exclusiva.
-- Edición de Coleccionista: Incluye una Caja de Coleccionista, una Bola de Nieve con Fondos Intercambiables, un Libro de Arte, la Banda Sonora Original, un Llavero, una Tarjeta de Instrucciones, un Parche y un Póster de Doble Cara.
+- Jugabilidad Clásica y Dinámica: Disfruta de una experiencia clásica de bullet hell en Rolling Gunner y cambia al modo dinámico con doble joystick de Overpower para una variedad de juego.
+- DLC Overpower: Sumérgete en una intensa acción de disparos con el DLC Overpower, que ofrece nuevos controles, una banda sonora fresca y emocionantes desafíos que mejoran la experiencia de juego en general.
 - Clasificaciones en Línea Competitivas: Compite por puntajes altos y derechos de alardear en las clasificaciones en línea globales, agregando un toque competitivo a tu juego.
+- Edición de Coleccionista: Incluye una Caja de Coleccionista, una Bola de Nieve con Fondos Intercambiables, un Libro de Arte, la Banda Sonora Original, un Llavero, una Tarjeta de Instrucciones, un Parche y un Póster de Doble Cara.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CN788Z6Z{{</world>}}

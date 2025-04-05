@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los misterios sumergidos en el Planeta 4546B
 - Exploración - Construye tu hábitat
+- Los misterios sumergidos en el Planeta 4546B
 - La supervivencia es la clave
 
 [🛒 Aquí!!!]({{< param buyurl >}})

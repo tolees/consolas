@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Adrenalina y Terror: Sumérgete en la intensidad del horror y la supervivencia. Cada decisión cuenta en este juego narrativo que desafía tus miedos más oscuros.
-- Atrapado en la Luna de Júpiter: Jacob Lee, en prisión de Hierro Negro, lucha por sobrevivir cuando presos mutan en horrores. ¿Escapará de la Luna Muerta?
 - Combate Único: Enfréntate a monstruos con combate cuerpo a cuerpo y a distancia. Modifica tu estrategia constantemente mientras buscas nuevas armas y habilidades.
-- Secretos Oscuros Emergen: Descubre los misterios que acechan bajo la superficie de Calisto mientras enfrentas criaturas evolucionadas y te adaptas para sobrevivir.
+- Atrapado en la Luna de Júpiter: Jacob Lee, en prisión de Hierro Negro, lucha por sobrevivir cuando presos mutan en horrores. ¿Escapará de la Luna Muerta?
 - Edición Exclusiva: La edición Day One ofrece ventajas únicas. Únete a Jacob Lee desde el principio y descubre el precio de la libertad en la Luna de Júpiter.
+- Secretos Oscuros Emergen: Descubre los misterios que acechan bajo la superficie de Calisto mientras enfrentas criaturas evolucionadas y te adaptas para sobrevivir.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3BFLLZD{{</world>}}

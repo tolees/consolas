@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Embárcate en un viaje legendario con los Rabbids en este divertidísimo juego party!
 - Acompáñalos en una increíble misión, llena de momentos graciosos y personajes extravagantes.
+- ¡Embárcate en un viaje legendario con los Rabbids en este divertidísimo juego party!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B5845CFX{{</world>}}

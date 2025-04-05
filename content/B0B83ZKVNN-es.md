@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Hoja de pegatinas
 - Esta edición incluye:
 - Trading card
-- Hoja de pegatinas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B83ZKVNN{{</world>}}

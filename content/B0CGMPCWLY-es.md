@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- En Assassin’s Creed Mirage te pones en la piel de Basim, un astuto ladrón callejero que sufre visiones de pesadilla y busca respuestas y justicia.
 - En el siglo IX, Bagdad está en su mejor momento, liderando el mundo en campos como la ciencia, el arte, la innovación y el comercio.
+- En Assassin’s Creed Mirage te pones en la piel de Basim, un astuto ladrón callejero que sufre visiones de pesadilla y busca respuestas y justicia.
 - En Assassin’s Creed Mirage te pones en la piel de Basim, un astuto ladrón callejero que sufre visiones de pesadilla y busca respuestas y justicia.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

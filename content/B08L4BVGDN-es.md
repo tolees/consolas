@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para juegos 2D con uso intensivo del pad direccional
-- Licencia oficial de Nintendo
 - ¡Nota! Este producto solo funciona en modo portátil y debe estar conectado a la consola Nintendo Switch TM para funcionar. Este producto no se puede utilizar en el modo TV o en el modo de sobremesa, ni como controlador inalámbrico. Las siguientes funciones de Joy-Con TM (L) no están incluidas con este producto: HD Rumble, Player LED, SYNC Button, SL/SR Buttons y acelerómetro/girosensores. Si el controlador no funciona correctamente, retírelo del consola Nintendo SwitchTM y vuelva a conectarlo. El oy-Con (izquierdo) puede vibrar si se sincroniza mientras usa el controlador D-Pad.
 - Joy-Con izquierdo con cruceta
+- Para juegos 2D con uso intensivo del pad direccional
+- Licencia oficial de Nintendo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08L4BVGDN{{</world>}}

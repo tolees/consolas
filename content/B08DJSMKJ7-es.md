@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Un rico sistema de lucha en moto con agarres, patadas, rechazos, golpes críticos y más
-- Montones de armas brutales
-- "Un increíblemente exitoso sucesor espiritual de Road Rash” - 90/100 -Ragequit
 - Gigantesco árbol de habilidades ampliables acumula botines para mejorar tu personaje, tu moto y tus armas
+- "Un increíblemente exitoso sucesor espiritual de Road Rash” - 90/100 -Ragequit
+- Montones de armas brutales
 - Campaña para un jugador con pantalla dividida completa de 2-4 jugadores (cooperativa de pantalla dividida de 2-4 jugadores en PS4/Xbox One y cooperativa de pantalla dividida de 2 jugadores en Switch) y hasta 10 jugadores cooperativos en línea
 
 [🛒 Visítala!!!]({{< param buyurl >}})

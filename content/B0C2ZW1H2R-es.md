@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Experimenta el homenaje definitivo a los shooters retro que mezcla el estilo visual con una mecánica moderna y fluida de FPS
 - Sumérgete en una experiencia de combate visceral, con una mecánica de armas agresivamente satisfactoria, gran movilidad y litros de sangre para recompensar tus habilidades
+- Experimenta el homenaje definitivo a los shooters retro que mezcla el estilo visual con una mecánica moderna y fluida de FPS
 - Domina el campo de batalla con la potencia de fuego y el metal pesado del devastador arsenal de un Marine Espacial
 
 [🛒 Visítala!!!]({{< param buyurl >}})

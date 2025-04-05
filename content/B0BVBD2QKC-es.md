@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ochin, el perro espacial, también te echará una pata durante la aventura. Este compañero fiel es capaz de hacer trizas los obstáculos, transportar objetos pesados y cargar con los Pikmin en su lomo. ¡Juntos, no habrá nada que os detenga!
-- ¡Hay Pikmin de distintos tamaños, formas y colores! Por ejemplo, los Pikmin rojos no se acaloran cuando les toca lidiar con obstáculos abrasadores; los Pikmin azules son nadadores natos; y los recientemente descubiertos Pikmin gélidos son capaces de congelar a los enemigos y ciertos obstáculos.
 - Un solo Pikmin resulta pequeño y vulnerable, pero cuando se juntan varios ¡pueden con todo lo que les echen! Aprovecha su prodigiosa fuerza y tus dotes de estrategia para superar cualquier cosa que se interponga en tu camino mientras exploras este planeta extraño e ignoto.
+- Ochin, el perro espacial, también te echará una pata durante la aventura. Este compañero fiel es capaz de hacer trizas los obstáculos, transportar objetos pesados y cargar con los Pikmin en su lomo. ¡Juntos, no habrá nada que os detenga!
 - Los Pikmin regresan para emprender otra gran misión, estos diminutos seres, similares a las plantas, habitan un misterioso planeta. Hazlos crecer, arráncalos del suelo y dales órdenes mientras recorres a su lado este nuevo mundo.
+- ¡Hay Pikmin de distintos tamaños, formas y colores! Por ejemplo, los Pikmin rojos no se acaloran cuando les toca lidiar con obstáculos abrasadores; los Pikmin azules son nadadores natos; y los recientemente descubiertos Pikmin gélidos son capaces de congelar a los enemigos y ciertos obstáculos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BVBD2QKC{{</world>}}

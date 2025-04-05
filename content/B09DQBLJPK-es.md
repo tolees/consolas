@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una historia jurásica original
 - Crea tu propio Jurassic World
 - Juega con la teoría del caos
+- Una historia jurásica original
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09DQBLJPK{{</world>}}

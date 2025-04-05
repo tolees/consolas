@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Eres Gollum: Por primera vez en un videojuego, juega como uno de los villanos más fascinantes de todos los tiempos
 - Acción y Sigilo: Sigilo, agilidad y astucia: usa las habilidades únicas de Gollum para explorar lugares y alturas vertiginosas
-- La Historia no contada – Aunque centrada en la historia de J.R.R. Tolkien, la búsqueda de Gollum nunca se ha contado en detalle. Descubre lugares y personajes originales en una aventura épica que se mantiene fiel a los libros
+- Eres Gollum: Por primera vez en un videojuego, juega como uno de los villanos más fascinantes de todos los tiempos
 - Un personaje, dos personalidades : Depende de ti decidir si el malvado Gollum o el amistoso Sméagol triunfarán a través de difíciles decisiones morales
+- La Historia no contada – Aunque centrada en la historia de J.R.R. Tolkien, la búsqueda de Gollum nunca se ha contado en detalle. Descubre lugares y personajes originales en una aventura épica que se mantiene fiel a los libros
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B68ZJVD7{{</world>}}

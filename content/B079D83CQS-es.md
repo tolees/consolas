@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sobrepasa los límites de tu mente y explota cada sombra para esconderte y sobrevivir. Pon a prueba tus nervios de acero y aventúrate en los abismos del inframundo
-- Resístete a la peligrosa “Diosa Roja” en esta historia de terror y erotismo inspirado por Dante Aligheri’s Inferno
 - Encuentra patrones secretos y dibújalos con tu propia sangre en las piedras de sacrificios. Recoge artefactos ancestrales y utiliza sus poderes para descubrir pasadizos ocultos en otras dimensiones
 - Increíbles gráficos con una ambientación hostil, y con diseños terroríficos. Encuentra tu camino a través de un bosque místico
+- Resístete a la peligrosa “Diosa Roja” en esta historia de terror y erotismo inspirado por Dante Aligheri’s Inferno
+- Sobrepasa los límites de tu mente y explota cada sombra para esconderte y sobrevivir. Pon a prueba tus nervios de acero y aventúrate en los abismos del inframundo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B079D83CQS{{</world>}}

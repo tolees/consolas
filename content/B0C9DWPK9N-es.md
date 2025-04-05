@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- MÚLTIPLES MISIONES: Sumérgete en un emocionante viaje mientras exploras el Rancho y completas misiones para encontrar los huevos perdidos. Supera obstáculos, construye y repara herramientas, incuba nuevos huevos y mucho más.
 - CABALGA Y RESCATA: Dino Ranch - Ride to the Rescue es un videojuego basado en la querida serie de animación Dino Ranch. En este juego, tu objetivo es recuperar unos huevos que han desaparecido del criadero, mientras exploras un mundo muy divertido.
 - DIVIÉRTETE EXPLORANDO: Únete a Jon, Min y Miguel en la aventura por descubrir quién ha robado los huevos del criadero, a la vez que te embarcas en un apasionante recorrido por el mundo de Dino Ranch. ¿Preparado para pasarlo en grande?
-- DINÁMICOS MINIJUEGOS: Disfruta de todo tipo de minijuegos y misiones llenas de giros con nuestro trío dino-tástico, lo que te ayudará a adentrarte de lleno en el universo Dino. ¡Saca a relucir todo tu ingenio para recuperar el orden en el Rancho!
 - RECUPERA LOS HUEVOS DE DINO: Los huevos de Dino-mitas han desaparecido y la tranquilidad del Rancho está en juego. Ayuda a nuestro trío de dinos, Jon, Min y Miguel, a traerlos de vuelta. Los Tinhorns quizás están involucrados... ¡Ves con cuidado!
+- DINÁMICOS MINIJUEGOS: Disfruta de todo tipo de minijuegos y misiones llenas de giros con nuestro trío dino-tástico, lo que te ayudará a adentrarte de lleno en el universo Dino. ¡Saca a relucir todo tu ingenio para recuperar el orden en el Rancho!
+- MÚLTIPLES MISIONES: Sumérgete en un emocionante viaje mientras exploras el Rancho y completas misiones para encontrar los huevos perdidos. Supera obstáculos, construye y repara herramientas, incuba nuevos huevos y mucho más.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C9DWPK9N{{</world>}}

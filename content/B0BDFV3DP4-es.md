@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 8.000 Hz de sondeo avanzado: Transmite las entradas con una velocidad hasta 8 veces superior, lo que permite una acción en el juego lo más rápida posible.
-- Diseño tenkeyless compacto: El formato que permite ahorrar espacio omite el teclado numérico para ofrecer un tamaño compacto tenkeyless que ocupa menos espacio en el escritorio y es fácil de colocar para jugar cómodamente.
-- Exclusivos interruptores de teclas óptico-mecánicos CORSAIR OPX RGB: Entradas ultrarrápidas con una distancia de accionamiento de 1,0 mm y un desplazamiento lineal fluido, con una garantía de 150 millones de pulsaciones.
-- Cable USB Type-C extraíble: El cable USB Type-C extraíble permite configurar rápidamente el teclado con una gestión sencilla de los cables, y se puede desenchufar rápidamente para permitir y simplificar su portabilidad.
 - Sólida estructura de aluminio cepillado: La estructura de aluminio cepillado con anodización en negro ofrece un estilo compacto, ligero y resistente a la vez para soportar toda una vida de juego.
+- 8.000 Hz de sondeo avanzado: Transmite las entradas con una velocidad hasta 8 veces superior, lo que permite una acción en el juego lo más rápida posible.
+- Cable USB Type-C extraíble: El cable USB Type-C extraíble permite configurar rápidamente el teclado con una gestión sencilla de los cables, y se puede desenchufar rápidamente para permitir y simplificar su portabilidad.
+- Exclusivos interruptores de teclas óptico-mecánicos CORSAIR OPX RGB: Entradas ultrarrápidas con una distancia de accionamiento de 1,0 mm y un desplazamiento lineal fluido, con una garantía de 150 millones de pulsaciones.
+- Diseño tenkeyless compacto: El formato que permite ahorrar espacio omite el teclado numérico para ofrecer un tamaño compacto tenkeyless que ocupa menos espacio en el escritorio y es fácil de colocar para jugar cómodamente.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BDFV3DP4{{</world>}}

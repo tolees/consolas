@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El popular modo repleto de acción Wargames debuta en WWE 2K23 y ofrece un caos multijugador de 3 contra 3 y de 4 contra 4 dentro de dos cuadriláteros uno al lado del otro, ¡rodeados por una jaula de acero doble!
 - Funciones ampliadas, gráficos espectaculares y la experiencia WWE definitiva. Sube al ring con un gran elenco de superestrellas y leyendas de la WWE, como Roman Reigns, "American Nightmare" Cody Rhodes, Ronda Rousey, Brock Lesnar, "Stone Cold" Steve Austin y muchos más
-- Colecciona y mejora cartas de Superestrellas y Leyendas de la WWE para crear la facción definitiva en Mi FACCIÓN. Ahora con multijugador online, Mi FACCIÓN te permite llevar tu facción a Internet y competir por el dominio mundial.
 - ¡El campeón ya está aquí! Vive los momentos clave y los rivales más duros de los 20 años de carrera de John Cena en la WWE. Y, por primera vez en la franquicia, adopta el papel de cada uno de sus grandes oponentes -algunos de los mejores de la WWE de todos los tiempos- para derrotar a Mr. Hustle, Loyalty & Respect.
+- Colecciona y mejora cartas de Superestrellas y Leyendas de la WWE para crear la facción definitiva en Mi FACCIÓN. Ahora con multijugador online, Mi FACCIÓN te permite llevar tu facción a Internet y competir por el dominio mundial.
+- El popular modo repleto de acción Wargames debuta en WWE 2K23 y ofrece un caos multijugador de 3 contra 3 y de 4 contra 4 dentro de dos cuadriláteros uno al lado del otro, ¡rodeados por una jaula de acero doble!
 - Con Mi GM, toma las riendas de un programa semanal y compite contra managers rivales por la supremacía de la marca. Ahora con más GMs entre los que elegir, opciones de espectáculo adicionales, múltiples temporadas, cartas de combate ampliadas y más tipos de combate para hasta 4 jugadores.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

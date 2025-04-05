@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sumérgete en el universo de los Cazafantasmas mientras proteges o embrujas múltiples ubicaciones únicas a lo largo del juego
+- Los icónicos actores de cine Dan Aykroyd y Ernie Hudson se unen a los nuevos favoritos Rahul Kohli y Greg Miller para prestar sus voces a Ghostbusters: Spirits Unleashed
 - Juega con hasta cuatro amigos o solo como un nuevo miembro de los Cazafantasmas o un Fantasma en el último juego de disparos asimétrico de IllFonic
 - La estación de bomberos Firehouse es el area central de los Cazafantasmas, ¡con Ray’s Occult Bookstore para explorar también!
-- Los icónicos actores de cine Dan Aykroyd y Ernie Hudson se unen a los nuevos favoritos Rahul Kohli y Greg Miller para prestar sus voces a Ghostbusters: Spirits Unleashed
 - Cazafantasmas: Spirits Unleashed es divertido, familiar y permite jugadores de todos los niveles
+- Sumérgete en el universo de los Cazafantasmas mientras proteges o embrujas múltiples ubicaciones únicas a lo largo del juego
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BBW2F2XS{{</world>}}

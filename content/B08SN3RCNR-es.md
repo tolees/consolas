@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Four heroes, four crystals – one legendary adventure!
-- Lead your party on a journey through five kingdoms as you seek to return the Crystals to their rightful home. Use Asterisks to unlock jobs and abilities that will allow you to take on all manner of monsters, and be sure to use the Brave and Default commands to manage the delicate balance of risk and reward!
-- Guided by the lightThe world is in crisis. Floods, rising temperatures, nature gone out of control – the theft of the Crystals threatens all living things. There is hope, however, in the form of the Heroes of Light: four fabled warriors who can bring the elements back into balance.
 - With its Brave and Default system, BRAVELY DEFAULT II puts a unique twist on the turn-based RPG formula, by allowing players to go all-in on attacks at the cost of future turns, or adopt a defensive stance in order to bank turns for later use.
 - Battle your way
+- Guided by the lightThe world is in crisis. Floods, rising temperatures, nature gone out of control – the theft of the Crystals threatens all living things. There is hope, however, in the form of the Heroes of Light: four fabled warriors who can bring the elements back into balance.
+- Lead your party on a journey through five kingdoms as you seek to return the Crystals to their rightful home. Use Asterisks to unlock jobs and abilities that will allow you to take on all manner of monsters, and be sure to use the Brave and Default commands to manage the delicate balance of risk and reward!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08SN3RCNR{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- AVENTURAS Y MISTERIOS: Para descubrir la relación que une a estas dos chicas, debes enfrentarte a complicados rompecabezas y acertijos. Une las piezas, sigue las pistas y vive la emoción de ir desgranando una historia repleta de aventuras.
-- DIÁLOGOS APASIONANTES: Disfruta de múltiples cinemáticas para adentrarte de lleno en las vidas de Dana y Kate. Asimismo, los diálogos te brindan la oportunidad de seleccionar entre varias respuestas para decidir qué camino tomar.
-- DESCUBRE LA VERDAD: Dana Roze y Kate Walker son dos heroínas, de distintas etapas de la historia, cuyos destinos están entrelazados. Llega al fondo de los misterios que envuelven sus vidas y que han permanecido ocultos durante mucho tiempo.
-- SAGA SYBERIA: Siguiendo la tradición de la saga, este juego presenta una historia rica y cautivadora, con diálogos interactivos, gráficos espectaculares y una gran banda sonora. Además, incluye un libro de prensa celebrando los 20 años de Syberia.
 - DOS LÍNEAS DE TIEMPO: Toma el control de Dana Roze (Vaghen, 1937), una joven pianista que se ve amenazada por la sombra de la Segunda Guerra Mundial, y de Kate Walker (Taiga, 2004), una abogada encarcelada en una mina de sal.
+- DESCUBRE LA VERDAD: Dana Roze y Kate Walker son dos heroínas, de distintas etapas de la historia, cuyos destinos están entrelazados. Llega al fondo de los misterios que envuelven sus vidas y que han permanecido ocultos durante mucho tiempo.
+- DIÁLOGOS APASIONANTES: Disfruta de múltiples cinemáticas para adentrarte de lleno en las vidas de Dana y Kate. Asimismo, los diálogos te brindan la oportunidad de seleccionar entre varias respuestas para decidir qué camino tomar.
+- SAGA SYBERIA: Siguiendo la tradición de la saga, este juego presenta una historia rica y cautivadora, con diálogos interactivos, gráficos espectaculares y una gran banda sonora. Además, incluye un libro de prensa celebrando los 20 años de Syberia.
+- AVENTURAS Y MISTERIOS: Para descubrir la relación que une a estas dos chicas, debes enfrentarte a complicados rompecabezas y acertijos. Une las piezas, sigue las pistas y vive la emoción de ir desgranando una historia repleta de aventuras.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B4YCK39R{{</world>}}

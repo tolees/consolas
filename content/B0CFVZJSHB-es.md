@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MATERIALIZA TUS SUEÑOS: Diseña y conduce tu propio coche con el nuevo creador de vehículos
-- SUMÉRGETE EN EL JUEGO: Diviértete luchando contra los elementos en tierra, nieve y asfalto en la búsqueda de la carrera perfecta
-- REESCRIBE LA HISTORIA: Compite y vence en pruebas reales tanto recientes como históricas con el modo Momentos
-- SISTEMA DINÁMICO DE CONDUCCIÓN: El famoso modelo de conducción multisuperficie de Codemasters se ha mejorado para WRC
-- RECORRE LA HISTORIA DEL WRC: Ponte al volante de los épicos coches de WRC y recorre la historia del rally gracias a los 70 vehículos históricos reproducidos con autenticidad
 - VIVE LO AUTÉNTICO: El legado de este juego se remonta a 25 años atrás y en esta entrega pilotarás los coches de WRC, WRC2 y Junior WRC con pilotos, equipos y diseños de la temporada 2023
+- REESCRIBE LA HISTORIA: Compite y vence en pruebas reales tanto recientes como históricas con el modo Momentos
+- MATERIALIZA TUS SUEÑOS: Diseña y conduce tu propio coche con el nuevo creador de vehículos
+- SISTEMA DINÁMICO DE CONDUCCIÓN: El famoso modelo de conducción multisuperficie de Codemasters se ha mejorado para WRC
+- SUMÉRGETE EN EL JUEGO: Diviértete luchando contra los elementos en tierra, nieve y asfalto en la búsqueda de la carrera perfecta
+- RECORRE LA HISTORIA DEL WRC: Ponte al volante de los épicos coches de WRC y recorre la historia del rally gracias a los 70 vehículos históricos reproducidos con autenticidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CFVZJSHB{{</world>}}

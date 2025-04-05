@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Explorar Tokio, desbloquear Personas, personalizar tu propia Guarida de los Ladrones y vivir finales alternativos
 - Conviértete en el Ladrón Fantasma y desafía las convenciones, descubre el poder que llevas dentro y lucha por la justicia en la versión definitiva de Personal 5 Royal
+- Explorar Tokio, desbloquear Personas, personalizar tu propia Guarida de los Ladrones y vivir finales alternativos
 - Elige jugarlo con voces en japonés o en inglés
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

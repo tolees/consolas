@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- REVIVE A LOS DIOSES: 10 años después de este suceso trágico, te topas con una botella con un SOS escrito por la Diosa de la Cosecha. Acompañado de tu amigo Doc Jr, debes despertar a la Diosa y a los Espíritus, mientras unificas los pueblos.
 - UN MUNDO DEVASTADO: Anthos era una pacífica tierra custodiada por la Diosa y los Espíritus de la Cosecha. Un día, una erupción volcánica arrasó con todo, incluidos con ellos, quienes agotaron su poder para salvar a los habitantes y animales.
-- EXPLORA ANTHOS: Cría diferentes tipos de vacas, gallinas y ovejas en tu granero, encuentra animales exóticos, recoge las semillas Harvest Wisps escondidas por todo Anthos, explora a pie o a lomos de monturas únicas, y muchas tareas más.
 - ENCUENTRA EL AMOR: Y, por si fuera poco, Harvest Moon: The Winds of Anthos brinda la oportunidad de encontrar el amor, cortejando a 5 solteros o 5 solteras diferentes para que puedas casarte con quien quieras. ¡Que el corazón decida!
 - UNA EXPERIENCIA DE JUEGO ÚNICA: Este videojuego se caracteriza por el realismo, lo que te permitirá adentrarte en la trama y conocer profundamente el pueblo de Anthos. Interactúa con los personajes y con los animales, y descubre lugares únicos.
+- REVIVE A LOS DIOSES: 10 años después de este suceso trágico, te topas con una botella con un SOS escrito por la Diosa de la Cosecha. Acompañado de tu amigo Doc Jr, debes despertar a la Diosa y a los Espíritus, mientras unificas los pueblos.
+- EXPLORA ANTHOS: Cría diferentes tipos de vacas, gallinas y ovejas en tu granero, encuentra animales exóticos, recoge las semillas Harvest Wisps escondidas por todo Anthos, explora a pie o a lomos de monturas únicas, y muchas tareas más.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C74TWLB6{{</world>}}

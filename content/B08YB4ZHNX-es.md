@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- - Lleva a tus leales compañeros a la batalla mientras intentas salvar Punto Planimal de la malvada SlimeCo.
+- - Tres estaciones únicas: Seca, mojada y oscura: un clima extraño y estaciones que cambian lo que el jugador puede cultivar.
 - - Compañeros planimales coleccionables. Algunos limos transforman tus cultivos en planimales.
 - - Una granja mutante. Usa limo mágico para mutar los cultivos de tu granja.
 - - Adéntrate en la villa de Punto Planimal: descubre la gente y las criaturas que la habitan, haz amigos y consigue descuentos en las tiendas.
-- - Tres estaciones únicas: Seca, mojada y oscura: un clima extraño y estaciones que cambian lo que el jugador puede cultivar.
-- - Lleva a tus leales compañeros a la batalla mientras intentas salvar Punto Planimal de la malvada SlimeCo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08YB4ZHNX{{</world>}}

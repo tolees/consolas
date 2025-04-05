@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hordas de enemigos monstruosos se interponen entre tú y tu objetivo; jefes retorcidos con rutinas de ataque exclusivas y capacidades aplastantes pondrán a prueba tus habilidades mientras luchas por alzarte con la victoria cuando las aguas se calmen.
 - Blasphemous 2 ofrece nuevas formas de jugar y te brinda la capacidad de personalizar y mejorar tu conjunto de habilidades básicas, además de varias armas nuevas únicas con las que realizar ataques devastadores contra tus enemigos.
-- Edición Coleccionista: Blasphemous 2
 - Combate salvaje. Personaliza tu sesión de juego a tu manera.
 - Explora un completo mundo nuevo. Grandiosas batallas apasionantes contra jefes
+- Edición Coleccionista: Blasphemous 2
+- Hordas de enemigos monstruosos se interponen entre tú y tu objetivo; jefes retorcidos con rutinas de ataque exclusivas y capacidades aplastantes pondrán a prueba tus habilidades mientras luchas por alzarte con la victoria cuando las aguas se calmen.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CQMHM44V{{</world>}}

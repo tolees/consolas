@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un conjunto de runas para perfeccionar armas o mejorar el equipamiento.
-- Navega desde las escarpadas y misteriosas costas de Noruega hasta los imponentes reinos de Inglaterra
-- Las avanzadas mecánicas de RPG te permitirán moldear a tu personaje y al mundo que lo rodea; forjarás tu camino hacia la gloria con cada decisión que tomes, desde alianzas políticas hasta estrategias de combate, pasando por opciones de diálogo y equipo
 - Incluye el juego y el Pack Ultimate, que contiene el pack de equipamiento Berserker, el pack de asentamiento Berserker, el pack de drakkar Berserker y más.
+- Las avanzadas mecánicas de RPG te permitirán moldear a tu personaje y al mundo que lo rodea; forjarás tu camino hacia la gloria con cada decisión que tomes, desde alianzas políticas hasta estrategias de combate, pasando por opciones de diálogo y equipo
+- Navega desde las escarpadas y misteriosas costas de Noruega hasta los imponentes reinos de Inglaterra
+- Un conjunto de runas para perfeccionar armas o mejorar el equipamiento.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09GLBBTJ8{{</world>}}

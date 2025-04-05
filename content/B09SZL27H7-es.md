@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Pedales analógicos con almohadillas antideslizante
-- Funciona con PS4, Xbox One/S/X, Switch y PC
-- Con una rotación de 240°
 - Volante con múltiples posiciones para videojuegos de 23 cm de diámetro
+- Pedales analógicos con almohadillas antideslizante
+- Con una rotación de 240°
+- Funciona con PS4, Xbox One/S/X, Switch y PC
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09SZL27H7{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pack de atuendos de obsidiana exclusivo para tus Avengers
 - Seis placas de identificación de obsidiana exclusivas para personalizar tus cosmeticos en el juego
+- Pack de atuendos de obsidiana exclusivo para tus Avengers
 - Un mes gratis de Marvel Unlimited disponible solo en ingles
 - 72 horas de acceso anticiPado
 

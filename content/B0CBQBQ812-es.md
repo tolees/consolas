@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Súper banda Sonora: Con más de 30 pistas, además de algunos extras ocultos, disfruta de rock, hip hop, dubstep y mucho más.
-- Caos multitarea: De escape room musical a arcade de ascensores, tendrás que pensar fuera del ritmo para adelantarte a las travesuras del rey. Combina la música con tareas complicadas y acción trepidante para resolver cada nivel.
 - Cooperativa de locos: Juego cooperativo caótico, divertido y accesible. ¿No eres un profesional de los juegos rítmicos? Cada jugador puede tocar su música en el modo de tres o cuatro botones, ¡o salir para centrarse en los puzles mientras tu amigo se encarga de la música! Tanto si juegas solo como si te sincronizas con tus amigos, prepárate para abrazar la locura y enfrentarte a los desafíos de Rhythm Castle.
+- Súper banda Sonora: Con más de 30 pistas, además de algunos extras ocultos, disfruta de rock, hip hop, dubstep y mucho más.
 - Revive el ritmo: ¿Quieres una medalla de oro? Desbloquea y toca todas las canciones de Music Lab. Sin tonterías, ¡puro ritmo!
+- Caos multitarea: De escape room musical a arcade de ascensores, tendrás que pensar fuera del ritmo para adelantarte a las travesuras del rey. Combina la música con tareas complicadas y acción trepidante para resolver cada nivel.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CBQBQ812{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- SELECCIONA TU BANDO: Juega como miembro de la Unión Cooperativa de Oceanía (O.C.U.) o de los Estados Continentales Unificados (U.C.S.) y demuestra tu valía en el campo de batalla mientras la isla entera se sumerge en un conflicto sin precedentes.
-- ACCIÓN Y AVENTURA: Un pelotón de reconocimiento de la O.C.U., dirigido por el capitán Royd Clive, es asignado para investigar una planta de municiones de los U.C.S. cuando les tienden una emboscada y comienza el conflicto. ¡A luchar!
 - ¡TÚ DECIDES!: Sumérgete en la experiencia de un clásico con el remake que ofrece gráficos impresionantes y efectos mejorados, o si prefieres la nostalgia, revívelo en su versión original también incluida.
-- CONFLICTOS MUNDIALES: En el año 2090, las disputas bélicas se libran con máquinas de guerra gigantes llamadas Wanzers. La isla Huffman, el único lugar donde la O.C.U. y los U.C.S. comparten frontera terrestre, es un hervidero de conflictos.
 - PERSONALIZA TU WANZER: Ajusta cada componente para mejorar su potencia de fuego, su defensa y su velocidad, ganando eficacia en combate. Asimismo, analiza el entorno y desarrolla estrategias inteligentes para obtener ventaja sobre el oponente.
+- CONFLICTOS MUNDIALES: En el año 2090, las disputas bélicas se libran con máquinas de guerra gigantes llamadas Wanzers. La isla Huffman, el único lugar donde la O.C.U. y los U.C.S. comparten frontera terrestre, es un hervidero de conflictos.
+- ACCIÓN Y AVENTURA: Un pelotón de reconocimiento de la O.C.U., dirigido por el capitán Royd Clive, es asignado para investigar una planta de municiones de los U.C.S. cuando les tienden una emboscada y comienza el conflicto. ¡A luchar!
+- SELECCIONA TU BANDO: Juega como miembro de la Unión Cooperativa de Oceanía (O.C.U.) o de los Estados Continentales Unificados (U.C.S.) y demuestra tu valía en el campo de batalla mientras la isla entera se sumerge en un conflicto sin precedentes.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CJY79CL9{{</world>}}

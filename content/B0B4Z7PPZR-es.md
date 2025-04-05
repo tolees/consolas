@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- No necesita pilas
-- Con licencia oficial de Nintendo y garantía limitada de dos años: visita PowerA.com/Support
 - Toma de audio de 3,5 mm
-- Cable USB extraíble de 3 metros
 - Una descarga de alto voltaje recorrerá tu cuerpo cada vez que uses este mando inspirado en Pikachu.
+- Cable USB extraíble de 3 metros
+- Con licencia oficial de Nintendo y garantía limitada de dos años: visita PowerA.com/Support
 - Botones de juego avanzado asignables
+- No necesita pilas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B4Z7PPZR{{</world>}}

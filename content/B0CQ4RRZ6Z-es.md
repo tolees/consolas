@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Age of Empires IV es una experiencia seductora para nuevos jugadores, con un tutorial específico para la consola que enseña la esencia de la estrategia en tiempo real y un modo de historia de campaña diseñado para principiantes para ayudarles a conseguir una configuración sencilla y éxito, pero a la vez presenta suficientes desafíos como para que los disfruten los jugadores experimentados con nuevas mecánicas de juego, estrategias evolucionadas y técnicas de combate.
 - Únete online para competir, cooperar o disfrutar del espectáculo con hasta 7 de tus amigos en los modos multijugador PVP y PVE en Xbox Series X|S y con hasta 3 amigos en Xbox One. (El modo multijugador online en la consola requiere una suscripción a Xbox Game Pass Ultimate o Xbox Game Pass Core; las suscripciones se venden por separado).
 - Elige tu camino hacia la grandeza con personajes históricos Vive las aventuras de Juana de Arco en su intento de derrotar a los ingleses o comanda las imponentes tropas mongolas como Genghis Khan durante su conquista de Asia.
-- Personaliza el juego con mapas de escaramuzas y multijugador, escenarios de misión únicos, paquetes de ajuste basados en datos y nuevos modos de juego para Age of Empires IV.
 - Haz historia una vez más con un nuevo avance en los juegos de estrategia con Age of Empires IV: Anniversary Edition, ahora disponible en consolas Xbox.
+- Personaliza el juego con mapas de escaramuzas y multijugador, escenarios de misión únicos, paquetes de ajuste basados en datos y nuevos modos de juego para Age of Empires IV.
+- Age of Empires IV es una experiencia seductora para nuevos jugadores, con un tutorial específico para la consola que enseña la esencia de la estrategia en tiempo real y un modo de historia de campaña diseñado para principiantes para ayudarles a conseguir una configuración sencilla y éxito, pero a la vez presenta suficientes desafíos como para que los disfruten los jugadores experimentados con nuevas mecánicas de juego, estrategias evolucionadas y técnicas de combate.
 - El pasado es el prólogo mientras te sumerges en un enriquecido entorno histórico de 10 civilizaciones diversas en todo el mundo... desde los ingleses hasta los chinos, pasando por el sultanato de Delhi, en tu búsqueda por la victoria.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

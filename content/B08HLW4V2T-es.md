@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Des événements magiques aléatoires peuvent se produire à tout moment… Vous pouvez gagner plus de mana ou même obtenir des skins exclusifs!
-- Du panda volant à la licorne arc-en-ciel, découvrez 12 créatures incroyables que vous adorerez câliner. Dès leur naissance, ils auront tous besoin de votre attention et de jouer avec vous
-- Bienvenue dans Fantasy Friends, un monde de magie et de fantaisie où vous êtes responsable de prendre soin de créatures fantastiques!
 - Chaque animal a besoin dune nourriture spécifique que vous devrez produire. Ils vivent chacun dans leur propre maison et ont leurs préférences. Amusez-vous tout en apprenant à les connaître tous!
+- Du panda volant à la licorne arc-en-ciel, découvrez 12 créatures incroyables que vous adorerez câliner. Dès leur naissance, ils auront tous besoin de votre attention et de jouer avec vous
 - Collectionnez des centaines de couleurs et de skins pour vos animaux de compagnie et défiez vos amis pour voir qui aura les créatures les plus uniques. Soyez le premier à trouver les plus rares!
+- Bienvenue dans Fantasy Friends, un monde de magie et de fantaisie où vous êtes responsable de prendre soin de créatures fantastiques!
+- Des événements magiques aléatoires peuvent se produire à tout moment… Vous pouvez gagner plus de mana ou même obtenir des skins exclusifs!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08HLW4V2T{{</world>}}

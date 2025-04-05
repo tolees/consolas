@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Explora la mansión Derceto en esta reinvención de Alone in the Dark, una carta de amor al clásico de terror de los 90
-- Vuelve a las raíces del terror psicológico y embárcate en un viaje envolvente digno del juego que inició el género
 - Sumérgete en un mundo lleno de sonidos que te erizan la piel, con una banda sonora de doom jazz inquietante y a la vez hipnotizadora
+- Explora la mansión Derceto en esta reinvención de Alone in the Dark, una carta de amor al clásico de terror de los 90
 - Sumérgete en una profunda historia psicológica que va más allá de lo imaginable de la mano de Mikael Hedberg, el escritor de terror de culto autor de SOMA y Amnesia
+- Vuelve a las raíces del terror psicológico y embárcate en un viaje envolvente digno del juego que inició el género
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B8LM27KC{{</world>}}

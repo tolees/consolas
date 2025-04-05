@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Construye y controla tu propia universidad ¡la potencia de las nuevas herramientas creativas te ayudará a construir una obra maestra educativa diferente del resto
-- Un simulador de gestión profundo y adictivo de los creadores del título Two Point Hospital
 - Educa a tus estudiantes a través de los mejores años de su vida con los nuevos y mejorados sistemas de relaciones
+- Un simulador de gestión profundo y adictivo de los creadores del título Two Point Hospital
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09S17YQKD{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sensor óptico de 26.000 PPP CORSAIR MARKSMAN: Con 26.000 ppp nativos y un rastreo de 650 pulgadas por segundo (IPS) y una aceleración de hasta 50 G, el sensor MARKSMAN capta.
 - Control de fusión de sensores: Combina un giroscopio de seis ejes y un acelerómetro para dar lugar a una distancia de levantamiento ultrabaja para que el rastreo sea más preciso.
-- Conmutadores ópticos: Ofrecen respuestas rapidísimas y precisas, con 70 millones de clics garantizados para que pueda usarlo rigurosamente varios años.
 - Tecnología de hiperprocesamiento CORSAIR AXON: Registra y transmite sus movimientos y clics hasta ocho veces más rápido que los ratones para juegos convencionales.
 - Estructura de aluminio característica: La estructura de aluminio anodizado del M65 RGB ULTRA ofrece una larga durabilidad con una forma conocida.
+- Conmutadores ópticos: Ofrecen respuestas rapidísimas y precisas, con 70 millones de clics garantizados para que pueda usarlo rigurosamente varios años.
+- Sensor óptico de 26.000 PPP CORSAIR MARKSMAN: Con 26.000 ppp nativos y un rastreo de 650 pulgadas por segundo (IPS) y una aceleración de hasta 50 G, el sensor MARKSMAN capta.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09JZTJHYG{{</world>}}

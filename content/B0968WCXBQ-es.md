@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Regula fácilmente el volumen de tus juegos con la cruceta del mando
 - Con licencia oficial de Nintendo
-- Usa el conector de 3,5 mm para el sonido en todos los juegos y para hablar por USB en los títulos que lo admitan
-- Carcasa y piezas intercambiables compatibles con todos los mandos con cable y audio Faceoff Deluxe+ y REMATCH
 - Personaliza tu juego programando los largos botones dobles traseros
+- Carcasa y piezas intercambiables compatibles con todos los mandos con cable y audio Faceoff Deluxe+ y REMATCH
+- Usa el conector de 3,5 mm para el sonido en todos los juegos y para hablar por USB en los títulos que lo admitan
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0968WCXBQ{{</world>}}

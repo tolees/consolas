@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- All new artwork from the same team of the first 2 games – Spirit Hunter: Death Mark & Spirit Hunter: NG
-- New 2D exploration “gameplay” - involve a partner and see how well you can do
 - Solve the mysterious deaths with help from many of the original characters from the first game - Spirit Hunter: Death Mark
+- New 2D exploration “gameplay” - involve a partner and see how well you can do
+- All new artwork from the same team of the first 2 games – Spirit Hunter: Death Mark & Spirit Hunter: NG
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BMBBB2Y1{{</world>}}

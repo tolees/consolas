@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ACCIÓN DE TIRO: Un nuevo juego de Cotton con gráficos modernos en alta definición y mecánicas de juego de tiros actualizadas. Jugabilidad fácilmente accesible para fans de la serie y recién llegados.
 - GRÁFICOS HERMOSOS: 16 coloridas y variadas etapas de desplazamiento para desbloquear, con movimientos verticales, horizontales y en 3D.
+- ELIGE TU PERSONAJE: 6 personajes jugables para elegir, cada uno con diferentes mecánicas y ataques, incluso personajes invitados como Umihara Kawase y Luffee de Doki Doki Poyacchio.
 - CONTENIDO DESBLOQUEABLE: Contenido desbloqueable y diferentes personajes ofrecen una alta rejugabilidad.
 - EDICIÓN COLECCIONISTA LIMITADA: ¡Solo 2.000 ejemplares numerados en todo el mundo!
-- ELIGE TU PERSONAJE: 6 personajes jugables para elegir, cada uno con diferentes mecánicas y ataques, incluso personajes invitados como Umihara Kawase y Luffee de Doki Doki Poyacchio.
+- ACCIÓN DE TIRO: Un nuevo juego de Cotton con gráficos modernos en alta definición y mecánicas de juego de tiros actualizadas. Jugabilidad fácilmente accesible para fans de la serie y recién llegados.
 - ESCENAS CINEMÁTICAS INCREÍBLES: Historia ligera y divertida con escenas cinemáticas encantadoras y divertidas con voces totalmente en japonés.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

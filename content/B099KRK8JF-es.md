@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Incluye contenido descargable: Expansión Iki Island, modo multijugador Legends, conjunto de aspecto del Héroe de Tsushima, objetos ingame, comentarios del director y minilibro de arte digital
-- El enemigo mongol es impredecible, y formidable en estrategia y armamento
-- En este mundo abierto de acción y aventura, recorrerás vastos campos y grandes extensiones de terreno en los que encontrarás personajes complejos, descubrirás antiguos monumentos y disfrutarás de la belleza oculta de Tsushima
 - El modo multijugador require conexión a Internet y subscripción a PlaySation Plus
+- En este mundo abierto de acción y aventura, recorrerás vastos campos y grandes extensiones de terreno en los que encontrarás personajes complejos, descubrirás antiguos monumentos y disfrutarás de la belleza oculta de Tsushima
+- El enemigo mongol es impredecible, y formidable en estrategia y armamento
 - Toma la delantera adaptando las habilidades de Jin y aprendiendo nuevas tácticas para defender la isla y proteger al pueblo de Tsushima
 
 [🛒 Aquí!!!]({{< param buyurl >}})

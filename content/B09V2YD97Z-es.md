@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Mitos y leyendas se vuelven a contar dentro del extraño y estilizado universo del salvaje oeste
-- Pelea solo o con un amigo en combates sangrientos con estilo
-- Explora y pelea a traves de una campaña impulsada por su historia para salvar América
 - Mejora tu arsenal con habilidades, armas que podrás mejorar y herramientas
+- Explora y pelea a traves de una campaña impulsada por su historia para salvar América
+- Pelea solo o con un amigo en combates sangrientos con estilo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09V2YD97Z{{</world>}}

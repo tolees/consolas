@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- No incluye copia del juego Mario Kart 8 Deluxe para Nintendo Switch
 - Para disfrutar de este contenido descargable se requiere copia de Mario Kart 8 Deluxe para Nintendo Switch
+- No incluye copia del juego Mario Kart 8 Deluxe para Nintendo Switch
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CJ3HXYX7{{</world>}}

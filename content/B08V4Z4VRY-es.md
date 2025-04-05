@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Una única tarjeta para almacenar diversos videojuegos con los que podrás jugar en cualquier momento y lugar
 - Velocidades de lectura de hasta 100 MB/s1 y velocidades de escritura de hasta 90 MB/s1
 - Hasta 128 GB* de memoria adicional
-- Una única tarjeta para almacenar diversos videojuegos con los que podrás jugar en cualquier momento y lugar
 - Diseñada, probada y aprobada para el sistema de juego Nintendo Switch
 
 [🛒 Comprar!!!]({{< param buyurl >}})

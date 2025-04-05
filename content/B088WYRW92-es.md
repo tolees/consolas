@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Disfruta de sus 40 niveles con su multijugador tanto online como local
+- Lucha y diviértete con la acción más frenética para 1 hasta 4 jugadores
 - 22 personajes icónicos para elegir, cada uno sus movimientos especiales diferentes
 - Fuerte juego competitivo con Rankings Online
-- Lucha y diviértete con la acción más frenética para 1 hasta 4 jugadores
-- Disfruta de sus 40 niveles con su multijugador tanto online como local
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B088WYRW92{{</world>}}

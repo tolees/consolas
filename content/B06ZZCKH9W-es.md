@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Figuras y tarjetas interactivas que puedes usar con los juegos
 - Los amiibo tienen diferentes efectos dependiendo del juego y con ellos descubrirás nuevas funciones
+- Figuras y tarjetas interactivas que puedes usar con los juegos
 - Con los amiibo se puede desbloquear nuevos modos, armas o atuendos para personajes
 
 [🛒 Comprar!!!]({{< param buyurl >}})

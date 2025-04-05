@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Crea y sube de nivel escuadrones compuestos por 5 clases iniciales de marines, con docenas de especializaciones, habilidades y armas
-- Descubre una apasionante historia de Alien mientras luchas contra las icónicas criaturas xenomorfas, que van desde los facehuggers hasta los pretorianos, reinas aliens y muchos enemigos más, incluidos comandos humanos rebeldes y una otra amenaza de esta historia de Alien
 - Busca formas de sobrevivir en un mundo persistente, descubre atajos, crea zonas seguras y pon en marcha los rastreadores de movimiento para estar un paso por delante de esas criaturas
 - Dirige estratégicamente y cambia las tácticas del escuadrón de una misión a otra, gestionando con cuidado la salud, los recursos y la cordura de tus soldados, a fin de evitar pérdidas permanentes en el equipo y crisis nerviosas
+- Crea y sube de nivel escuadrones compuestos por 5 clases iniciales de marines, con docenas de especializaciones, habilidades y armas
+- Descubre una apasionante historia de Alien mientras luchas contra las icónicas criaturas xenomorfas, que van desde los facehuggers hasta los pretorianos, reinas aliens y muchos enemigos más, incluidos comandos humanos rebeldes y una otra amenaza de esta historia de Alien
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BYPQZPZ9{{</world>}}

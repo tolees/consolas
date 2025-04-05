@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Controla territorios, entrena lugareños, comanda varios escuadrones y defiéndete de los enemigos
-- Elige habilidades y pericias; personaliza tus mercenarios al subir de nivel; influye en la historia con tus decisiones
-- Juega con amigos en modo cooperativo en línea
-- Gran elenco de mercenarios; individualiza armas y equipos
 - Combates tácticos por turnos
+- Elige habilidades y pericias; personaliza tus mercenarios al subir de nivel; influye en la historia con tus decisiones
+- Gran elenco de mercenarios; individualiza armas y equipos
+- Controla territorios, entrena lugareños, comanda varios escuadrones y defiéndete de los enemigos
+- Juega con amigos en modo cooperativo en línea
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CGXRFQHX{{</world>}}

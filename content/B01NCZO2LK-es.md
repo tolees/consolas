@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tipo de producto: VIDEO GAME CONTROLLER
 - Orzly Pack De Dos Volantes para Usar con los Joy-con de Nintendo Switch – Negro con luz indicando Jugador
-- Marca: Orzly
+- Tipo de producto: VIDEO GAME CONTROLLER
 - Color: 2x BLACK Steering Wheels for Nintendo Switch
+- Marca: Orzly
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01NCZO2LK{{</world>}}

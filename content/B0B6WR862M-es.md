@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- No necesita pilas
-- Cable USB extraíble de 3 metros
-- Botones de juego avanzado asignables
 - Toma de audio de 3,5 mm
+- No necesita pilas
 - Con licencia oficial de Nintendo y garantía limitada de dos años: visita PowerA.com/Support
+- Botones de juego avanzado asignables
+- Cable USB extraíble de 3 metros
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B6WR862M{{</world>}}

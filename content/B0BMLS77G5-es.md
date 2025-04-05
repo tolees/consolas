@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡The Great Yokai Battle (2022) ya incluye la actualización +Hell!
-- Primer lanzamiento de la serie en Occidente
+- ¡Una serie verdaderamente legendaria se merece una colección legendaria!
 - The Great Yokai Battle +Hell con modo de 2 jugadores local y más de 20 personajes jugables
 - Restaurado con amor y características adicionales
-- ¡Una serie verdaderamente legendaria se merece una colección legendaria!
+- Primer lanzamiento de la serie en Occidente
+- ¡The Great Yokai Battle (2022) ya incluye la actualización +Hell!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BMLS77G5{{</world>}}
