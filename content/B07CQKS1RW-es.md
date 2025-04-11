@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- My Hero Ones Justice - Nintendo Switch
 - PHYSISCHE VIDEOSPIEL-SOFTWARE
+- My Hero Ones Justice - Nintendo Switch
 - BANDAI NAMCO Entertainment Germany
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

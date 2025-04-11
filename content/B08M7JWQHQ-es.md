@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tiempos de carga más rápidos: los juegos se cargan significativamente más rápido con el SSD personalizado en la Xbox Series S
-- Las estaciones dinámicas lo cambian todo en el festival automovilístico
 - Xbox Velocity Architecture, impulsada por un SSD personalizado, funciona junto con la tecnología moderna de sistema en un chip (SOC) para proporcionar un juego de hasta 120 FPS en consola más pequeña
+- Tiempos de carga más rápidos: los juegos se cargan significativamente más rápido con el SSD personalizado en la Xbox Series S
 - Rendimiento de nueva generación en la Xbox más pequeña de la historia
+- Las estaciones dinámicas lo cambian todo en el festival automovilístico
 - Ve por cuenta propia o únete a otros equipos para explorar la hermosa e histórica Gran Bretaña en un mundo abierto compartido
 - Colecciona, modifica y conduce más de 450 coches
 

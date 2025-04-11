@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sumérgete en una profunda campaña con cientos de desafíos que te ofrecen premios por participar en las actividades que te encantan. Conoce nuevos personales y elige los resultados de sus misiones de Horizon Story
 - Forma equipo con otros jugadores y adéntrate en Horizon Arcade para disfrutar de una serie continua de diversión y misiones desmesuradas que os mantienen a ti y a tus amigos en la acción y divirtiéndose sin menús, cargas de pantalla ni salas de recepción
-- Enfréntate a eventos climáticos, como enormes tormentas de arena e intensas tormentas tropicales a medida que las singulares y dinámicas estaciones de México cambian el mundo cada semana. Vuelve una y otra vez para disfrutar de nuevos eventos, desafíos, coleccionables y premios, así como nuevas zonas que explorar
-- Explora un mundo de contrastes y belleza. Descubre desiertos vivientes, selvas frondosas, ciudades históricas, ruinas ocultas, playas salvajes, cañones amplios y un enorme volcán de pico nevado
 - Lidera expediciones asombrosas entre los cambiantes paisajes animados de mundo abierto de México, con una divertida acción de conducción sin límites en cientos de los coches del mundo
+- Explora un mundo de contrastes y belleza. Descubre desiertos vivientes, selvas frondosas, ciudades históricas, ruinas ocultas, playas salvajes, cañones amplios y un enorme volcán de pico nevado
+- Sumérgete en una profunda campaña con cientos de desafíos que te ofrecen premios por participar en las actividades que te encantan. Conoce nuevos personales y elige los resultados de sus misiones de Horizon Story
+- Enfréntate a eventos climáticos, como enormes tormentas de arena e intensas tormentas tropicales a medida que las singulares y dinámicas estaciones de México cambian el mundo cada semana. Vuelve una y otra vez para disfrutar de nuevos eventos, desafíos, coleccionables y premios, así como nuevas zonas que explorar
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09DGB9SHK{{</world>}}

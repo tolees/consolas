@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - [COMPATIBILIDAD] : este cargador es compatible con PlayStation 5.
-- [INDICACIÓN DE CARGA] : si el mando no está conectado a la consola: el LED parpadea en naranja y se apaga cuando la carga está completa. Si está conectado a la consola: el indicador LED permanece encendido.
 - [CAPACIDAD DE CARGA] : puedes cargar hasta dos mandos simultáneamente.
 - [PRÁCTICO] : su diseño pequeño y compacto te permite utilizarlo en casa o llevarlo a casa de amigos. Su soporte es estable, por lo que tus mandos estarán seguros.
 - [PRECAUCIONES Y MANTENIMIENTO] : asegúrate de que no se ejerza una presión extrema sobre este producto y evita colocarlo cerca de fuentes de calor como radiadores y calefactores.
+- [INDICACIÓN DE CARGA] : si el mando no está conectado a la consola: el LED parpadea en naranja y se apaga cuando la carga está completa. Si está conectado a la consola: el indicador LED permanece encendido.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B4HJXPWW{{</world>}}

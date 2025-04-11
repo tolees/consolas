@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Acuariofilia a su alcance
-- Acuarios de calidad
 - Acuarios económicos
+- Acuarios de calidad
+- Acuariofilia a su alcance
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08MBXJT92{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Encarna a Ashley y usa tus dotes detectivescas para observar lo que te rodea y recopilar posibles pistas que arrojen luz sobre el misterio. Usa los botones y los controles de movimiento para resolver complejos acertijos y superar los obstáculos que se interpongan en tu investigación.
 - Mediante un peculiar dispositivo portátil llamado DAS (Dual ANOTHER System), saca fotos que luego te servirán de referencia a la hora de resolver acertijos, o para comprobar cuál es la relación entre los distintos personajes con los que te hayas cruzado.
 - Desentraña la verdad en dos juegos de aventura y misterio que llegan totalmente mejorados a Nintendo Switch, reunidos en Another Code: Recollection.
 - Resuelve acertijos, reúne pistas e investiga los indicios del pasado de Ashley Mizuki Robins para descubrir qué les sucedió a sus padres a lo largo de dos historias. Parte rumbo a la isla Blood Edward en Two Memories, y luego retoma la historia dos años más tarde en un viaje a Lake Juliet en Más allá de la memoria.
+- Encarna a Ashley y usa tus dotes detectivescas para observar lo que te rodea y recopilar posibles pistas que arrojen luz sobre el misterio. Usa los botones y los controles de movimiento para resolver complejos acertijos y superar los obstáculos que se interpongan en tu investigación.
 - Examina cuidadosamente los objetos que reúnas para comprobar si son algo más de lo que parecen a simple vista. Habla con las personas que encuentres para recopilar información clave.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

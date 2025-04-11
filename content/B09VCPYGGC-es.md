@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Una historia, retorcida por las fuerzas sobrenaturales
 - Usa herramientas, escabúllete, lucha o desata un infierno de ratas
 - Gráficos óptimos y una música cautivadora
-- Una historia, retorcida por las fuerzas sobrenaturales
 - La secuela de la premiada aventura A Plague Tale: Innocence
 
 [🛒 Comprar!!!]({{< param buyurl >}})

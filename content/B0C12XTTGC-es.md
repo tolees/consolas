@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Diseño exclusivo que brilla en la oscuridad tras la exposición a la luz
+- Ajusta fácilmente el volumen del juego con el panel D del controlador.
 - Licencia oficial de Nintendo
 - Personaliza tu juego con los botones traseros con doble programación.
-- Ajusta fácilmente el volumen del juego con el panel D del controlador.
 - Utiliza el conector de 3,5 mm para disfrutar del audio en todos los juegos y el chat USB en los que sean compatibles
 
 [🛒 Visítala!!!]({{< param buyurl >}})

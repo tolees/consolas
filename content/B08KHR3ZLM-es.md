@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Two Joy-Con can be used independently in each hand or together (right sold separately) as one game controller when attached to the Joy-Con grip (sold separately)
-- Add more players to compatible games with a left Joy Con controller.
-- Each Joy-Con has a full set of buttons and can act as a standalone controller and each includes an accelerometer and gyroscope motion sensor, making independent left and right motion control possible
-- They can also attach to the main console for use in handheld mode or be shared with friends to enjoy two-player action in supported games
 - Compatible with Nintendo Switch, Nintendo Switch Lite
+- Add more players to compatible games with a left Joy Con controller.
+- They can also attach to the main console for use in handheld mode or be shared with friends to enjoy two-player action in supported games
+- Each Joy-Con has a full set of buttons and can act as a standalone controller and each includes an accelerometer and gyroscope motion sensor, making independent left and right motion control possible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08KHR3ZLM{{</world>}}

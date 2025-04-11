@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Rendimiento PCIe Gen4 de alta velocidad: Al aprovechar la tecnología PCIe Gen4 para obtener el mayor ancho de banda, la MP600 ELITE ofrece un rendimiento de almacenamiento increíble.
-- Ampliación de almacenamiento SSD M.2 compatible con PS5: Amplíe la capacidad de almacenamiento de su PS5 con una unidad SSD PCIe Gen4 x4 que ofrece velocidades de lectura y escritura secuenciales de hasta 7.000 MB/s y 6.500 MB/s* respectivamente, lo que le permite alcanzar unos tiempos de lectura, escritura y respuesta extraordinarios.
 - Amplíe el almacenamiento de su consola: Amplíe el almacenamiento de su consola, adaptándose a las necesidades de casi cualquier biblioteca de juegos, tanto si dispone de cuatro juegos como de 40.
 - Juegos aún más vertiginosos: La MP600 ELITE supera todos los requisitos de rendimiento de la PS5 M.2 de Sony, por lo que los archivos de juegos grandes se cargan directamente desde la SSD con mayor rapidez que nunca.
+- Ampliación de almacenamiento SSD M.2 compatible con PS5: Amplíe la capacidad de almacenamiento de su PS5 con una unidad SSD PCIe Gen4 x4 que ofrece velocidades de lectura y escritura secuenciales de hasta 7.000 MB/s y 6.500 MB/s* respectivamente, lo que le permite alcanzar unos tiempos de lectura, escritura y respuesta extraordinarios.
 - Disipador de aluminio de bajo perfil: El disipador de aluminio de bajo perfil ayuda a disipar el calor y reducir el estrangulamiento, por lo que su SSD mantiene un alto rendimiento sostenido sin necesidad de configuración inicial.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

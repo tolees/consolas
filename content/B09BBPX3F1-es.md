@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Death Stranding Director’s Cut está cargado de contenido y funciones de juego optimizadas
 - En el futuro, un evento misterioso conocido como el Death Stranding ha abierto una puerta entre los vivos y los muertos y ha permitido que criaturas del otro mundo deambulen por un planeta en ruinas habitado por una sociedad desolada
 - Resolución 4K y 60 FPS; retroalimentación háptica y gatillos adaptativos; audio 3D Tempest; tiempos de carga optimizados
+- Death Stranding Director’s Cut está cargado de contenido y funciones de juego optimizadas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09BBPX3F1{{</world>}}

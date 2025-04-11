@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Caza En Grupo O En Solitario: En WILD HEARTS puedes acechar a los kemono y darles caza en solitario o con hasta dos amistades (u otras personas jugadoras)
 - Prepárate Para Cazar, Caza Para: Prepararte, cuanto más caces, más progresarás, crea tu personaje, recoge los materiales después de cada cacería y acumula una selección de armas y armadura con la que derrotar a cualquier bestia, por grande que sea
-- Personaliza Los Terrenos De Caza: En todo Azuma, solo tú sabes manejar los karakuri, con esta tecnología ancestral podrás adaptar el entorno y usar la creatividad para dar forma a terrenos más apropiados donde cazar a kemono descomunales
-- Caza Bestias Enormes Imbuidas: Por la naturaleza, sobrevive a sus ataques, estudia sus comportamientos y combina el uso de armas y karakuri para derrotarlas
 - Descubre Un Japón Medieval De Fantasía: Explora terrenos de caza inspirados en las cuatro estaciones y descubre regiones tan fascinantes como peligrosas
+- Caza Bestias Enormes Imbuidas: Por la naturaleza, sobrevive a sus ataques, estudia sus comportamientos y combina el uso de armas y karakuri para derrotarlas
+- Personaliza Los Terrenos De Caza: En todo Azuma, solo tú sabes manejar los karakuri, con esta tecnología ancestral podrás adaptar el entorno y usar la creatividad para dar forma a terrenos más apropiados donde cazar a kemono descomunales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BGY6C74Q{{</world>}}

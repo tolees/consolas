@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Take Another Stab – After completing a chapter, players can revisit it and manipulate the Affection Levels and Character Abilities – the two main measures that determines the progress of a route. If you feel Shanao is headed down the wrong path, replay the chapter and get back on track!
 - The Object of My Affection – Shanao will encounter five potential routes, each with an Affection Level – a meter that shows how much you have progressed with the character based on the choices made. Once youve decided on your route, maintain your Affection Level to get up close and personal with someone…
 - Testing My Abilities – There are 3 Character Abilities Shanao possesses: Strength, Knowledge, and Kindness. As you progress, you are given choices that will affect her Character Abilities. Try to find an equal balance for all 3 abilities. Too high or low of any ability can trigger a bad outcome!
 - Apple of My Ai – The Ai-Catch system allow players to gauge how their choices affect a character’s Affection Level and Shanao’s Character Abilities in real time! A seedling will indicate a poor Affection Level, while a blooming flower shows a promising Affection Level. The outer frame of the screen will also change into 3 colours: Red, Blue, and Green. Respectively, each colour is associated with Shanao’s Character Ability: Strength, Knowledge, and Kindness. Keeping a close tab on your decision can help Shanao reach her true ending!
+- Take Another Stab – After completing a chapter, players can revisit it and manipulate the Affection Levels and Character Abilities – the two main measures that determines the progress of a route. If you feel Shanao is headed down the wrong path, replay the chapter and get back on track!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B5RLTPCH{{</world>}}

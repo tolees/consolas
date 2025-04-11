@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Harness the power of the AeternoBlade and defy the abyss in this sequel to the fast paced action/puzzle platformer
 - International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
+- Harness the power of the AeternoBlade and defy the abyss in this sequel to the fast paced action/puzzle platformer
 - Play as three unique characters as they journey across dimensions in a desperate struggle against the destruction of the Dark Abyss
 
 [🛒 Visítala!!!]({{< param buyurl >}})

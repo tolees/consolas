@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- ELIGE TU PERSONAJE: 6 personajes jugables para elegir, cada uno con diferentes mecánicas y ataques, incluso personajes invitados como Umihara Kawase y Luffee de Doki Doki Poyacchio.
 - EDICIÓN COLECCIONISTA LIMITADA: ¡Solo 2.000 ejemplares numerados en todo el mundo!
 - CONTENIDO DESBLOQUEABLE: Contenido desbloqueable y diferentes personajes ofrecen una alta rejugabilidad.
-- GRÁFICOS HERMOSOS: 16 coloridas y variadas etapas de desplazamiento para desbloquear, con movimientos verticales, horizontales y en 3D.
 - ESCENAS CINEMÁTICAS INCREÍBLES: Historia ligera y divertida con escenas cinemáticas encantadoras y divertidas con voces totalmente en japonés.
 - ACCIÓN DE TIRO: Un nuevo juego de Cotton con gráficos modernos en alta definición y mecánicas de juego de tiros actualizadas. Jugabilidad fácilmente accesible para fans de la serie y recién llegados.
-- ELIGE TU PERSONAJE: 6 personajes jugables para elegir, cada uno con diferentes mecánicas y ataques, incluso personajes invitados como Umihara Kawase y Luffee de Doki Doki Poyacchio.
+- GRÁFICOS HERMOSOS: 16 coloridas y variadas etapas de desplazamiento para desbloquear, con movimientos verticales, horizontales y en 3D.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BG2XZWNR{{</world>}}

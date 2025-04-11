@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sé el Mata Zombis Definitivo: hay seis personajes para elegir, cada uno con su propia personalidad y diálogos; puedes personalizar completamente las habilidades de cada uno, con el óptimo sistema de habilidades que te permite probar las construcciones más locas
 - Explora HELL-A: Explora la Ciudad de los Ángeles, ahora manchada de horror, en un emocionante viaje pulp desde los verdes suburbios de Beverly Hills hasta el peculiar paseo marítimo de Venice Beach
 - Brutal Melee Sandbox: el combate ofrece la experiencia en primera persona más intensa, visceral y sangrienta posible, con muchas armas y opciones tácticas y brutales para abrirse camino a través de la horda de zombis
+- Sé el Mata Zombis Definitivo: hay seis personajes para elegir, cada uno con su propia personalidad y diálogos; puedes personalizar completamente las habilidades de cada uno, con el óptimo sistema de habilidades que te permite probar las construcciones más locas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BLW2KDG3{{</world>}}

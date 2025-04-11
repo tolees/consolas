@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La misión adicional Los Cuarenta Ladrones está incluido en la caja.
 - Descubre una aventura de acción con una narrativa bien hilada que sigue los pasos de un joven desafiante a medida que se convierte en un Maestro Asesino.
 - Viaja a Alamut, el hogar legendario de los Asesinos que sentaron las bases del Credo, en este sentido homenaje al juego con el que empezó todo.
-- Resérvalo ya para obtener la misión adicional Los Cuarenta Ladrones.*
 - Assassins Creed Mirage Launch Edition incluye: - Assassins Creed Mirage (juego básico). - Mapa de Bagdad. - Conjunto de tres litografías.
+- Resérvalo ya para obtener la misión adicional Los Cuarenta Ladrones.*
+- La misión adicional Los Cuarenta Ladrones está incluido en la caja.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BF5H4JBD{{</world>}}

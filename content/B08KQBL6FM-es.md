@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Control de iluminación RGB dinámico y en directo
+- Programable con CORSAIR software iCUE
 - Con marco de aluminio cepillado
 - Tecnología de conectividad: USB
-- Programable con CORSAIR software iCUE
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08KQBL6FM{{</world>}}

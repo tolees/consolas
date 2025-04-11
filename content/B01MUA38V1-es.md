@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lánzate al Modo Historia para superar obstáculos únicos y enfrentarte a malvados Octarianos tras la desaparición de Mar, de las famosas Calamarciñas
-- Descubre Salmon Run, el nuevo modo de cooperación para 4 jugadores. Haz equipo con tus amigos y participad en la ocupación de la nave Salmónida
-- Utilizar las armas y el equipamiento adecuado puede ser clave para la victoria de tu equipo. Prueba diferentes combinaciones para conseguir la que más se adapte a tu estilo de juego
-- Splatoon 2 ofrece la posibilidad de desarrollar combates multijugador en privado en modo local, además de organizar batallas territoriales online contra jugadores de todo el mundo
-- Apunta a tu objetivo con el control de movimiento, ya sea usando los Joy-Con o el mando Pro
 - Sumérgete en batallas de cuatro contra cuatro y conquista territorio cubriéndolo de tinta. El equipo que cubra más terreno ganará el combate
+- Splatoon 2 ofrece la posibilidad de desarrollar combates multijugador en privado en modo local, además de organizar batallas territoriales online contra jugadores de todo el mundo
+- Lánzate al Modo Historia para superar obstáculos únicos y enfrentarte a malvados Octarianos tras la desaparición de Mar, de las famosas Calamarciñas
+- Apunta a tu objetivo con el control de movimiento, ya sea usando los Joy-Con o el mando Pro
+- Descubre Salmon Run, el nuevo modo de cooperación para 4 jugadores. Haz equipo con tus amigos y participad en la ocupación de la nave Salmónida
 - El juego permitirá chat de voz a través de la aplicación SplatNet 2, con la que podrás ver los resultados del combate, los registros online de tus armas y tu progreso en modo historia, que podrán compartirse en redes sociales
+- Utilizar las armas y el equipamiento adecuado puede ser clave para la victoria de tu equipo. Prueba diferentes combinaciones para conseguir la que más se adapte a tu estilo de juego
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MUA38V1{{</world>}}

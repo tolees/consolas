@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Defiende Tu Hogar Al Oscurecer: Trabaja junto a tus compañeros para detener las legiones de Hel de invadir tu Aldea al anochecer
-- Explora Tierras Aleatorias: Descubre mundos generados aleatoriamente llenos de secretos y sorpresas
 - Juego cooperativo de supervivencia para hasta 10 Jugadores: Crea una tribu, de 1 a 10 jugadores y sobrevivan juntos lo más que puedan
 - Crea Equipamiento Legendario: Usa tus materiales recogidos para crear equipamiento y reforzar tu Aldea
+- Defiende Tu Hogar Al Oscurecer: Trabaja junto a tus compañeros para detener las legiones de Hel de invadir tu Aldea al anochecer
+- Explora Tierras Aleatorias: Descubre mundos generados aleatoriamente llenos de secretos y sorpresas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09WJQYQ8M{{</world>}}

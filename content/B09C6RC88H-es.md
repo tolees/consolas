@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Domina la magia de Furia y desata sus formas: cada una de sus múltiples formas dará acceso a nuevas armas, movimientos y habilidades trasversales
-- Explora un mundo abierto: gran mundo abierto y vivo, con múltiples posibilidades en el que podrás visitar distintos entornos y descubrir secretos conforme avanza la historia
-- Juega como Furia: una maga que deberá usar su látigo y magia para restablecer el equilibrio entre el bien y el mal en la Tierra
-- Vence a los siete Pecados Capitales: además, tendrás que vencer a sus sirvientes, como criaturas místicas y entes degenerados
 - Deléitate con el característico estilo artístico de Darksiders: inmensos entornos postapocalípticos que llevan al jugador desde los cielos hasta las profundidades del infierno, lugares dilapidados por la guerra y la decadencia e invadidos por la naturaleza
+- Juega como Furia: una maga que deberá usar su látigo y magia para restablecer el equilibrio entre el bien y el mal en la Tierra
+- Explora un mundo abierto: gran mundo abierto y vivo, con múltiples posibilidades en el que podrás visitar distintos entornos y descubrir secretos conforme avanza la historia
+- Domina la magia de Furia y desata sus formas: cada una de sus múltiples formas dará acceso a nuevas armas, movimientos y habilidades trasversales
+- Vence a los siete Pecados Capitales: además, tendrás que vencer a sus sirvientes, como criaturas místicas y entes degenerados
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09C6RC88H{{</world>}}

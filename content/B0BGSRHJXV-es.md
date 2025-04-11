@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Modos cooperativos para hasta ocho jugadores!
-- Fuerte lista de reproducción con 20 éxitos internacionales y videos musicales originales y canciones de éxito local adicionales como DLC gratuito (+15)
-- ¿No tienes micrófono a mano? ¡No hay problema! ¡La aplicación oficial Lets Sing convierte tu smartphone en un micrófono!
 - Canta en solitario o hasta cuatro jugadores
 - Siete emocionantes modos de juego: Legend, Classic, Mix Tape 2.0, Jukebox, Feat., World Contest y Lets Party
+- Fuerte lista de reproducción con 20 éxitos internacionales y videos musicales originales y canciones de éxito local adicionales como DLC gratuito (+15)
+- ¿No tienes micrófono a mano? ¡No hay problema! ¡La aplicación oficial Lets Sing convierte tu smartphone en un micrófono!
+- ¡Modos cooperativos para hasta ocho jugadores!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGSRHJXV{{</world>}}

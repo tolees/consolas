@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 10+ mini games - Fishing, Racing, Matching and Rhythmic games are just a few to help you increase Happy Feelings and help the tree grow
 - 9 different animals living in the forest are your new BFFs!
+- 10+ mini games - Fishing, Racing, Matching and Rhythmic games are just a few to help you increase Happy Feelings and help the tree grow
 - Play mini-games as one of the furry friends - find out which animals are the best at which game.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

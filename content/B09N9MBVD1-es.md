@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Descubre la historia perdida y viaja por todo el mundo en busca de aventuras extraordinarias y conocimientos olvidados junto con los ladrones Nathan Drake y Chloe Frazer, dos personajes enormemente carismáticos y polifacéticos
+- Uncharted: El Legado Perdido: Para recuperar un antiguo artefacto y evitar que caiga en manos de un despiadado señor de la guerra, Chloe Frazer se ve obligada a reclutar a la famosa mercenaria Nadine Ross y aventurarse en las Ghats occidentales, en la India, para dar con el colmillo dorado de Ganesha
 - Uncharted 4: El Desenlace del Ladrón: Varios años después de su última aventura, el retirado buscador de fortunas Nathan Drake se ve obligado a regresar al mundo de los ladrones.
 - Incluye las laureadas aventuras para un jugador que ofrecen Uncharted 4: El Desenlace del Ladrón y Uncharted: El Legado Perdido, remasterizadas con gráficos mejorados, mayor velocidad de fotogramas y un increíble nivel de detalle para la consola PS5
-- Uncharted: El Legado Perdido: Para recuperar un antiguo artefacto y evitar que caiga en manos de un despiadado señor de la guerra, Chloe Frazer se ve obligada a reclutar a la famosa mercenaria Nadine Ross y aventurarse en las Ghats occidentales, en la India, para dar con el colmillo dorado de Ganesha
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09N9MBVD1{{</world>}}

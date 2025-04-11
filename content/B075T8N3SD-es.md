@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Trenzado para evitar enrredos en el cable
+- Permite jugar con cable en el mando mientras carga la bateria
+- Compatibilidad con mandos Dualshock 4 y Xbox One
 - Calidad premium
 - Cable de 2 metros de longitud
-- Permite jugar con cable en el mando mientras carga la bateria
-- Trenzado para evitar enrredos en el cable
-- Compatibilidad con mandos Dualshock 4 y Xbox One
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B075T8N3SD{{</world>}}

@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Muelles ajustables en la palanca de mandos para conseguir un movimiento suave y una resistencia lineal flexible, lo que permite un excelente nivel de control
 - Con licencia oficial para Xbox (Xbox One y Xbox Series X|S), y compatible con PC
-- Mecanismo suspendido PENDUL_R que reproduce la sensación pendular experimentada en los aviones de pasajeros Boeing Dreamliner genuinos (rango de recorrido de 21 cm)
 - Innovadora estructura interna 100% metálica de la palanca de mandos para una excelente solidez y una distribución equilibrada del peso de los controles, así como una mayor vida útil del producto
+- Mecanismo suspendido PENDUL_R que reproduce la sensación pendular experimentada en los aviones de pasajeros Boeing Dreamliner genuinos (rango de recorrido de 21 cm)
+- Muelles ajustables en la palanca de mandos para conseguir un movimiento suave y una resistencia lineal flexible, lo que permite un excelente nivel de control
 - Palanca de mandos y cuadrante de aceleración con licencia oficial de Boeing inspirados en el icónico avión de pasajeros Boeing 787 (réplicas ergonómicas a escala 1:1)
 
 [🛒 Visítala!!!]({{< param buyurl >}})

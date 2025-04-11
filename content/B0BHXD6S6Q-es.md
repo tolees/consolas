@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ciberpunk: na loca mezcla de armamento avanzado y futurismo retro de los 90
 - Una historia apasionante: La unidad Zombie descubre una gran conspiración corporativa en una versión distópica de Hong Kong; experiencia realmente dura: los combates no van a ser fáciles, endurece tu determinación y utiliza todo lo que te rodea mientras luchas contra hordas de mercenarios, sintéticos y fuerzas de seguridad privadas
-- Juego de disparos en tercera persona: Lucha en interiores y exteriores con una selección de armas de proyectiles: rifles de asalto, SMGs, LMGs y lanzagranadas
-- Combate cuerpo a cuerpo: utiliza una gran variedad de movimientos mortales y docenas de remates únicos para rebanar y cortar
 - Brutales golpes fatales : más de 50 movimientos finales
+- Juego de disparos en tercera persona: Lucha en interiores y exteriores con una selección de armas de proyectiles: rifles de asalto, SMGs, LMGs y lanzagranadas
+- Ciberpunk: na loca mezcla de armamento avanzado y futurismo retro de los 90
+- Combate cuerpo a cuerpo: utiliza una gran variedad de movimientos mortales y docenas de remates únicos para rebanar y cortar
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHXD6S6Q{{</world>}}

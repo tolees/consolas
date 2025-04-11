@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Helldivers II para PS5, Videojuego de Playstation Sony Interactive, Configurable en Español, Inglés y Portugués
-- Embajador de la marca TR-7. Armadura de SUMY Corp., creada como parte de una campaña publicitaria de yogur helado que fue todo un éxito
 - Caballero TR-62. Armadura creada para llevar la justicia a los rincones más oscuros de la galaxia
 - Jinete de la democracia TR-9. Los portadores de esta armadura no tienen armadura equina, pero entran en combate a lomos del fiel corcel de la Libertad
+- Embajador de la marca TR-7. Armadura de SUMY Corp., creada como parte de una campaña publicitaria de yogur helado que fue todo un éxito
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJKTBZTK{{</world>}}

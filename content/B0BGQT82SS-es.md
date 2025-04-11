@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Mundo alienígena para explorar: los jugadores deben explorar un mundo repleto de vistas y paisajes, con sorpresas por descubrir en cada rincón
-- Destrucción del mundo en tiempo real: The Eternal Cylinder puede destruir todos los elementos del mundo en tiempo real, de modo que los jugadores deben evitar continuamente su camino destructivo para sobrevivir, mientras se maravillan del esplendor visual de su poder divino
 - Resuelve misterios ancestrales: explora el mundo para descubrir una cantidad de desafiantes puzles que tendrás que resolver y superar
+- Destrucción del mundo en tiempo real: The Eternal Cylinder puede destruir todos los elementos del mundo en tiempo real, de modo que los jugadores deben evitar continuamente su camino destructivo para sobrevivir, mientras se maravillan del esplendor visual de su poder divino
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BGQT82SS{{</world>}}

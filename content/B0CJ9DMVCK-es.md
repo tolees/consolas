@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Diseño reforzado con aluminio y comodidad durante todo el día: El diseño de auriculares con rejilla de malla y diadema ajustable reforzada con aluminio es ligero al tiempo que proporciona mayor durabilidad, mientras que los auriculares ajustables de espuma viscoelástica y polipiel con tejido suave proporcionan un ajuste cómodo durante horas de juego.
 - Audio Corsair Gaming: Los controladores de audio de neodimio de 50 mm, de alta calidad y ajustados a medida, ofrecen un sonido excelente con el rango necesario para oírlo todo en el campo de batalla.
-- Sonido envolvente Dolby Audio 7.1 en PC y Mac: Permite disfrutar de una experiencia de audio multicanal en PC, situándole en el centro de la acción, además de compatibilidad con el audio Sony Tempest 3D en PS5.
 - Conexión inalámbrica o Bluetooth de 2,4 GHz y baja latencia: Disfrute de un audio de alta calidad sin cables, con un alcance de hasta 15 metros y una duración de la batería de hasta 24 horas, además de compatibilidad con Bluetooth para dispositivos móviles, entre otras características.
+- Sonido envolvente Dolby Audio 7.1 en PC y Mac: Permite disfrutar de una experiencia de audio multicanal en PC, situándole en el centro de la acción, además de compatibilidad con el audio Sony Tempest 3D en PS5.
 - Tecnología SoundID de SonarWorks: Tecnología SoundID de SonarWorks para un control de sonido personalizado que adapta la configuración de los auriculares a su estilo personal de sonido en PC y Mac.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

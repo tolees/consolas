@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Explora mundos generados dinámicamente que cambian cada vez que juegas en ellos, creando mapas, encuentros con enemigos, oportunidades de búsqueda y eventos en el mundo; cada uno de los cuatro mundos del juego está repleto de monstruosos habitantes y entornos que te plantearán desafíos en cada partida; adáptate y explora o muere en el intento
 - Incluye losnDLCs Swamp of Corsus y Subject 2933
 - Un retazo de la humanidad: un antiguo mal de otra dimensión ha sumido al mundo en el caos; la humanidad lucha por sobrevivir, pero posee la tecnología para abrir portales a otros reinos y realidades alternativas; deberás viajar a través de estos portales para descubrir el misterio del origen del mal, buscar recursos para sobrevivir y luchar para que la humanidad pueda reconstruirse
+- Explora mundos generados dinámicamente que cambian cada vez que juegas en ellos, creando mapas, encuentros con enemigos, oportunidades de búsqueda y eventos en el mundo; cada uno de los cuatro mundos del juego está repleto de monstruosos habitantes y entornos que te plantearán desafíos en cada partida; adáptate y explora o muere en el intento
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS9MGPDD{{</world>}}

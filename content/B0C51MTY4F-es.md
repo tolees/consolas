@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Decodificación del Lenguaje: El mecanismo central de descifrar el antiguo lenguaje jeroglífico añade profundidad al juego y la narrativa, convirtiéndolo en algo fundamental para desvelar los misterios del juego.
-- Edición Limitada Exclusiva: Edición numerada individualmente y limitada a 1,900 copias para NSW / 900 copias para PS4 en todo el mundo, incluye un manual.
-- Misterio e Intriga: La trama intrigante, llena de misterios y giros inesperados, mantiene a los jugadores comprometidos e interesados en descubrir los secretos del universo del juego.
 - Relaciones entre Personajes: Las interacciones con otros personajes no solo afectan a la historia, sino que también ofrecen una visión del pasado y las motivaciones del protagonista, mejorando la narrativa en general.
+- Edición Limitada Exclusiva: Edición numerada individualmente y limitada a 1,900 copias para NSW / 900 copias para PS4 en todo el mundo, incluye un manual.
 - Exploración Arqueológica: La exploración de antiguas ruinas y el detallado mundo abierto sumergen a los jugadores en una cautivadora aventura arqueológica.
+- Misterio e Intriga: La trama intrigante, llena de misterios y giros inesperados, mantiene a los jugadores comprometidos e interesados en descubrir los secretos del universo del juego.
+- Decodificación del Lenguaje: El mecanismo central de descifrar el antiguo lenguaje jeroglífico añade profundidad al juego y la narrativa, convirtiéndolo en algo fundamental para desvelar los misterios del juego.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C51MTY4F{{</world>}}

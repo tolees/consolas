@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Choisissez votre h ros et rejoignez jusquà 3 amis et lancez vous dans des combats en temps r el piques, avec un syst me de coop ration dynamique
 - Explorez le monde glacial dIcewind Dale, pourfendez des boss invincibles, gagnez des quipements puissants et d bloquez de nouvelles capacit s pour relever des d fis encore plus grands
 - Dark Alliance donne vie au monde de Donjons et Dragons dans un Action RPG explosif
-- Choisissez votre h ros et rejoignez jusquà 3 amis et lancez vous dans des combats en temps r el piques, avec un syst me de coop ration dynamique
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08ZFCWNH4{{</world>}}

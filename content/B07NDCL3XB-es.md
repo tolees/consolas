@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Botones de dirección de 4* u 8 direcciones Indicador LED de estado del jugador 2 motores de vibración personalizables
 - Compartimentos internos con pesos (2 x 10g, 2 x 14g, 2 x 16g) Funda de almacenamiento rígida
-- Conexión inalámbrica y con cable Funciones de sonido y chat en los modos inalámbrico y con cable. Dos joysticks personalizables* con amplitud de 30°/38°/46°
 - Controles integrados de volumen de micrófono y auriculares Cable trenzado USB tipo C de 3 m, extraíble, transferencia de datos + carga 4 botones de atajo configurables
 - Cabezales de joystick intercambiables Indicadores LED inteligentes. Conector para auriculares de 3,5 mm (auriculares no incluidos)
+- Botones de dirección de 4* u 8 direcciones Indicador LED de estado del jugador 2 motores de vibración personalizables
+- Conexión inalámbrica y con cable Funciones de sonido y chat en los modos inalámbrico y con cable. Dos joysticks personalizables* con amplitud de 30°/38°/46°
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07NDCL3XB{{</world>}}

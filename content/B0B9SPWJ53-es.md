@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- JUEGO DE ESTRATEGIA: Labyrinth of Zangetsu está basado en el juego de mesa superventas de Ravensburger. Incluye 6 tableros Labyrinth diferentes de versiones existentes del juego, 3 modos de dificultad y un manual para los nuevos jugadores.
 - COMPITE CON AMIGOS: Supera a tus familiares y amigos diseñando estrategias que te hagan alcanzar un mayor número de tesoros en las profundidades de los impuros Laberintos. No serán tus únicos adversarios, ya que peligrosos Yokai te esperan dentro.
-- FRUSTRA A TUS OPONENTES: La mayoría de los caminos y paredes son móviles, y justo cuando crees que has llegado a ese codiciado cofre del tesoro, te topas con un muro. Tus compañeros pueden bloquearte, pero tú puedes hacer lo mismo. ¡Sé el más astuto!
-- HAZTE CON LOS TESOROS: Recoge tantos tesoros como sea posible, estos se encuentran en las cartas de objetivo que se reparten al principio de la partida. Ábrete paso en el laberinto hasta alcanzar el objeto de tu carta.
 - NARRATIVA ATRACTIVA: Las ilustraciones con pinceladas de tinta negra al puro estilo japonés, una historia interesante y una música envolvente, son solo algunas de las características que hacen de este videojuego una experiencia cautivadora.
+- FRUSTRA A TUS OPONENTES: La mayoría de los caminos y paredes son móviles, y justo cuando crees que has llegado a ese codiciado cofre del tesoro, te topas con un muro. Tus compañeros pueden bloquearte, pero tú puedes hacer lo mismo. ¡Sé el más astuto!
+- JUEGO DE ESTRATEGIA: Labyrinth of Zangetsu está basado en el juego de mesa superventas de Ravensburger. Incluye 6 tableros Labyrinth diferentes de versiones existentes del juego, 3 modos de dificultad y un manual para los nuevos jugadores.
+- HAZTE CON LOS TESOROS: Recoge tantos tesoros como sea posible, estos se encuentran en las cartas de objetivo que se reparten al principio de la partida. Ábrete paso en el laberinto hasta alcanzar el objeto de tu carta.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B9SPWJ53{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un increíble RPG táctico con mecánica roguelite: multitud de estadísticas, habilidades, bonificaciones, características... ¡y mucho más!
 - Un universo gótico con un precioso pixel art.
+- Un increíble RPG táctico con mecánica roguelite: multitud de estadísticas, habilidades, bonificaciones, características... ¡y mucho más!
 - Sublimes melodías atronadoras de Rémi Gallégo y The Algorithm, con un toque de metal progresivo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

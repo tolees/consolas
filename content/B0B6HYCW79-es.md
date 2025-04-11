@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Es como un simulador de periodista de investigación: escabúllete y descubre los secretos de tus vecinos
+- ¡Raven Brooks y todos sus misterios son ahora tuyos para explorar! Recorre el pueblo, todas sus casas y habitantes manejados por la IA son ahora parte de tu patio de recreo
 - De ti depende descubrir los oscuros secretos que esconde Raven Brooks
 - La Edición Deluxe de Hello Neighbor 2 incluye un vale para el Pack de Contenido de la Edición Deluxe que incluirá 3 DLCs, y un acceso anticipado de 5 días
 - ¿Puedes ser más astuto que la IA? Todos los personajes de Hello Neighbor 2 están impulsados por una red neuronal de IA, que aprende de los jugadores y hace todo lo posible para proteger su comunidad cerrada y sus secretos
-- ¡Raven Brooks y todos sus misterios son ahora tuyos para explorar! Recorre el pueblo, todas sus casas y habitantes manejados por la IA son ahora parte de tu patio de recreo
+- Es como un simulador de periodista de investigación: escabúllete y descubre los secretos de tus vecinos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B6HYCW79{{</world>}}

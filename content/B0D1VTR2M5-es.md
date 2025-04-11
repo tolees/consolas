@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- BRAVIA Theatre: al combinar un TV BRAVIA con barra de sonido Sony (compatible con 360 Spatial Sound Mapping que añaden altavoces fantasma), disfrutarás de la emoción del cine en casa: una experiencia audiovisual sin igual; Acoustic Center Sync ofrece una alineación audiovisual impecable
+- Sonido inmersivo: la pantalla es el altavoz emite el sonido desde la escena como en el cine Voice Zoom 3 mejora el diálogo y 3D Surround Upscaling le da a todo el tratamiento de sonido envolvente
 - Optimo para gaming: el TV Sony Bravia 9 incluye funciones de juego, HDMI 2.1 (4K/120fps, VRR, ALLM), así como el Menú de juego, funciones adicionales para PS5 y PS Remote Play
 - Se presenta el TV BRAVIA 8 OLED 4K HDR: imagen y sonido cinematográficos insuperables
-- Sonido inmersivo: la pantalla es el altavoz emite el sonido desde la escena como en el cine Voice Zoom 3 mejora el diálogo y 3D Surround Upscaling le da a todo el tratamiento de sonido envolvente
+- BRAVIA Theatre: al combinar un TV BRAVIA con barra de sonido Sony (compatible con 360 Spatial Sound Mapping que añaden altavoces fantasma), disfrutarás de la emoción del cine en casa: una experiencia audiovisual sin igual; Acoustic Center Sync ofrece una alineación audiovisual impecable
 - Llevate el cine a casa: como lo concibieron los creadores con los modos de calibración; la optima precisión en imagen, el brillante panel OLED cuenta con más de 8 millones de píxeles autoiluminados; XR Contrast Booster ofrece un contraste realista
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

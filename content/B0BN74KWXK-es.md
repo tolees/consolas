@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- EDICIÓN COLECCIONISTA LIMITADA: ¡Solo 499 ejemplares numerados en todo el mundo!
 - ACCIÓN Y AVENTURA: ¡Cinco personajes aventureros entre los que elegir! Además del querido dúo de Pocky y Rocky, también puedes jugar como: Ame no Uzume, Ikazuchi y Gozen Hotaru. Gráficos y sonido de estilo clásico de 16 bits para una sensación retro nostálgica.
+- TABLA DE CLASIFICACIÓN: Compara tus puntuaciones con otros y sube hasta la cima de la tabla de clasificación en línea.
+- COMBATE EN EQUIPO: Domina los niveles en el modo historia para un jugador o combate a tus enemigos en equipo junto con un amigo en el modo libre cooperativo para 2 jugadores.
 - DESAFÍATE: domina varios niveles únicos con montones de enemigos diferentes. Colecciona monedas para desbloquear el modo fácil, reducir la dificultad y jugar con menos contratiempos hasta el final.
 - EDICIÓN COLECCIONISTA: ¡Caja de Edición Coleccionista especial estilo Rocky con cierre magnético, una banda sonora original en CD y un fantástico peluche de Rocky de aprox. 27 cm / 10,6 in!
-- COMBATE EN EQUIPO: Domina los niveles en el modo historia para un jugador o combate a tus enemigos en equipo junto con un amigo en el modo libre cooperativo para 2 jugadores.
-- EDICIÓN COLECCIONISTA LIMITADA: ¡Solo 499 ejemplares numerados en todo el mundo!
-- TABLA DE CLASIFICACIÓN: Compara tus puntuaciones con otros y sube hasta la cima de la tabla de clasificación en línea.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BN74KWXK{{</world>}}

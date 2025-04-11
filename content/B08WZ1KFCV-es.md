@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Embarquez vos amis dans des cuisines chaotiques avec les modes multijoueur et multiplateforme avec file dattente partagée, vous allez vite vous retrouver en pleine action culinaire !
 - Nouvelles fonctionnalités permettant au plus grand nombre de rejoindre la frénésie culinaire, une interface ajustable, des textes adaptés à la dyslexie ou des options pour les daltoniens.
-- De nouveaux environnements, de nouveaux chefs et une belle pagaille cullinaire vous attendent, exclusivement dans Overcooked! All You Can Eat
 - Un mode multijoueur en ligne incluant un chat vocal a été complètement intégré pour la première fois dans Overcooked!
+- Embarquez vos amis dans des cuisines chaotiques avec les modes multijoueur et multiplateforme avec file dattente partagée, vous allez vite vous retrouver en pleine action culinaire !
+- De nouveaux environnements, de nouveaux chefs et une belle pagaille cullinaire vous attendent, exclusivement dans Overcooked! All You Can Eat
 - Overcooked! 1 & 2 et tout le contenu additionnel, rassemblés et remasterisés dans cette délicieuse édition définitive. Des centaines de niveaux de gastronomie chaotique en coopération vous attendent.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

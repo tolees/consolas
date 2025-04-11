@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Peligros Encubiertos: Resuelve puzles, escabúllete por el barrio y enfrenta peligros ocultos mientras cruzas Greyhill.
-- Invasión Extraterrestre: ¡Lucha por la supervivencia en Greyhill, invadido por ovnis y alienígenas grises!
-- Paranoia Crescente: Descubre la creciente paranoia en el vecindario mientras los residentes temen a los aliens entre ellos.
-- Conspiración Desenterrada: Investiga casas, desentraña la conspiración alienígena y sobrevive a esta experiencia de survival-horror.
 - Misterios en la Oscuridad: Ryan Baker se aventura en la oscura trama alienígena para salvar a un vecino desesperado.
+- Peligros Encubiertos: Resuelve puzles, escabúllete por el barrio y enfrenta peligros ocultos mientras cruzas Greyhill.
+- Paranoia Crescente: Descubre la creciente paranoia en el vecindario mientras los residentes temen a los aliens entre ellos.
+- Invasión Extraterrestre: ¡Lucha por la supervivencia en Greyhill, invadido por ovnis y alienígenas grises!
+- Conspiración Desenterrada: Investiga casas, desentraña la conspiración alienígena y sobrevive a esta experiencia de survival-horror.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BW15TFG9{{</world>}}

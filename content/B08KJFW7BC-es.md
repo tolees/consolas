@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Une refonte du système de combat : Ecrasez vos adversaires dans des combats dynamiques au tour par tour, alternez entre plus de 19 classes différentes allant de garde du corps à musicien
+- Faites la connaissance dalliés hors normes : Recrutez jusquà 7 membres dans votre équipe constituée des rejetés de la société et développez vos liens avec eux pour débloquer de nouvelles capacités
 - Votre environnement est votre meilleure arme : Batte, parapluie, moto, panneau de signalisation… Utilisez tout ce qui peut vous passer sous la main pour vaincre vos adversaires
+- Une refonte du système de combat : Ecrasez vos adversaires dans des combats dynamiques au tour par tour, alternez entre plus de 19 classes différentes allant de garde du corps à musicien
 - Un nouveau héros habité par une grande rancœur : Incarnez Ichiban Kasuga, un yakuza trahi par lhomme quil admirait autrefois
 - La ville de Yokohama nattend plus que vous : Parcourez les paysages réaliste du quartier Ijincho, jouez à plus de 15 mini-jeux déjantés dans les salles darcade et de jeux, trouvez et forgez votre propre équipement, et plongez-vous dans la vie typique locale avec plus de 50 histoires optionnelles
-- Faites la connaissance dalliés hors normes : Recrutez jusquà 7 membres dans votre équipe constituée des rejetés de la société et développez vos liens avec eux pour débloquer de nouvelles capacités
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08KJFW7BC{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- BSO Digital del compositor Max LL
 - 6 postales coleccionables y adhesivos con lugares exóticos del juego
 - Libro de arte digital de 96 páginas (en inglés)
+- BSO Digital del compositor Max LL
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B096BMTY2R{{</world>}}

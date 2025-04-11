@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Deberán reaccionar rápido con el movimiento adecuado y sincronizar sus acciones para completar los microjuegos y hacerse con la victoria. Más de 200 microjuegos vertiginosos aguardan en WarioWare: Move It!
 - La nueva entrega de WarioWare viene cargada de microjuegos estrambóticos. Los jugadores cogerán los mandos Joy-Con y moverán todo el cuerpo para disfrutar con un aluvión de microjuegos a toda pastilla
-- Ponte en movimiento con WarioWare: Move It! para Nintendo Switch. Coge un par de mandos Joy-Con y úsalos con delicadeza para sacudir, dar puñetazos, bailar, menearte e incluso hacer reverencias a lo largo de más de 200 vertiginosos microjuegos (minijuegos que duran apenas unos segundos, con resultados desternillantes).
 - Otra persona puede unirse a la diversión con otro par de mandos Joy-Con para guardar tesoros, hacer girar ovejas ¡y mucho más! Hasta cuatro jugadores, cada uno con un mando Joy-Con, pueden también partirse de risa de manera local en los minijuegos del modo Fiesta, que incluyen hasta un peliagudo juego de mesa con reglas al más puro estilo Wario.
+- Ponte en movimiento con WarioWare: Move It! para Nintendo Switch. Coge un par de mandos Joy-Con y úsalos con delicadeza para sacudir, dar puñetazos, bailar, menearte e incluso hacer reverencias a lo largo de más de 200 vertiginosos microjuegos (minijuegos que duran apenas unos segundos, con resultados desternillantes).
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C8YTJ7QM{{</world>}}

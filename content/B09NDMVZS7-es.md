@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Diseño ergonómico: Diseñado ergonómicamente para largas sesiones de juego, el controlador proporciona un agarre cómodo y una colocación de botones optimizada para un control intuitivo.
 - Gamepad personalizable: Personaliza tu experiencia de juego con módulos intercambiables para sticks y D-pad, ofreciendo configuraciones versátiles para diferentes estilos de juego.
 - Software avanzado de personalización: Utiliza el software Thrustmapper para reasignar botones, ajustar zonas muertas y guardar múltiples perfiles para una experiencia de juego personalizada.
-- Diseño ergonómico: Diseñado ergonómicamente para largas sesiones de juego, el controlador proporciona un agarre cómodo y una colocación de botones optimizada para un control intuitivo.
 - Alta precisión: Disfruta de una mayor precisión y capacidad de respuesta con interruptores mecánicos de alta calidad y sensibilidad ajustable para un juego preciso.
 - Construcción duradera: Construido con materiales de primera calidad para una larga durabilidad, el ESWAP S está diseñado para soportar sesiones de juego intensas.
 - Amplia compatibilidad: Compatible con Xbox Series X|S, Xbox One y PC con Windows, lo que lo convierte en una opción versátil para jugadores en múltiples plataformas.

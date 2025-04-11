@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Reisen Sie in den Weltraum, entdecken Sie Welten und testen Sie Ihre Meisterbauer-Fähigkeiten
-- Die außerirdischen Monsterinvasoren haben Steinstadt zerstört und Emmets Freunde entführt
 - Das Lego Movie 2 Videogame ist vollgepackt mit beliebten und aufregenden neuen Charakteren, mysteriösen Schauplätzen und Action aus der Fortsetzung und dem originalen Blockbuster The Lego Movie
 - Verbünden Sie sich mit Emmet und einer Menge heldenhafter Charaktere, um ihre Freunde vor den seltsamen Bewohnern des Systar Systems zu retten
+- Reisen Sie in den Weltraum, entdecken Sie Welten und testen Sie Ihre Meisterbauer-Fähigkeiten
+- Die außerirdischen Monsterinvasoren haben Steinstadt zerstört und Emmets Freunde entführt
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07KXN8H1K{{</world>}}

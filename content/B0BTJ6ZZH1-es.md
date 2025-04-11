@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cooperativo Épico: Forja tu leyenda junto a amigos en emocionantes modos cooperativos. La camaradería y estrategia son esenciales para salvar todos los mundos.
-- Mundos Deslumbrantes: Explora paisajes surrealistas y mundos dimensionales llenos de secretos. Cada entorno ofrece desafíos únicos y una estética visual impresionante.
-- Alianzas Inesperadas: Descubre un universo donde las líneas entre amigos y enemigos se difuminan. Forja alianzas únicas y desentraña verdades dimensionales.
 - Poderes Únicos: Domina habilidades dimensionales para manipular el tiempo y la realidad. La evolución constante es clave para enfrentar desafíos formidables.
+- Alianzas Inesperadas: Descubre un universo donde las líneas entre amigos y enemigos se difuminan. Forja alianzas únicas y desentraña verdades dimensionales.
 - Abismo Interdimensional: Lucha contra criaturas de pesadilla del abismo, el último guardián en una épica batalla por restaurar el equilibrio.
+- Mundos Deslumbrantes: Explora paisajes surrealistas y mundos dimensionales llenos de secretos. Cada entorno ofrece desafíos únicos y una estética visual impresionante.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTJ6ZZH1{{</world>}}

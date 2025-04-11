@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Disfruta de una amplia variedad de emocionantes actividades de conducción y elige cómo quieres divertirte con tus vehículos
-- *Oferta disponible hasta fin de existencias. Cantidades limitadas disponibles.
 - Compite en intensas carreras, presume de estilo, colecciona coches emblemáticos y mucho más! Domina cada desafío de conducción y construye tu colección con los vehículos más legendarios jamás creados.
+- *Oferta disponible hasta fin de existencias. Cantidades limitadas disponibles.
+- Disfruta de una amplia variedad de emocionantes actividades de conducción y elige cómo quieres divertirte con tus vehículos
 - Mejora tu garaje con la Limited Edition y obtén el pack Fitted Jungle, que incluye contenido diseñado por el artista hawaiano Keola Rapozo: el Porsche 718 Spyder 2021 Fitted Edition, dos artículos estéticos y un pack de atuendo para el avatar.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

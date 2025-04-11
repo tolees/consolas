@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Añade hasta 512.GB al instante
-- Capacidad de almacenamiento de memoria: 64GB
 - Guarda los juegos que descargues y las capturas de pantalla y vídeo en un solo lugar para que así puedas viajar ligero
-- Velocidades increíbles en una tarjeta MicroSD con licencia oficial para el sistema Nintendo Switch
 - Pasa menos tiempo esperando y más tiempo jugando gracias a las velocidades de lectura de hasta 100.MB/s y velocidades de escritura de hasta 90.MB/s
+- Velocidades increíbles en una tarjeta MicroSD con licencia oficial para el sistema Nintendo Switch
+- Capacidad de almacenamiento de memoria: 64GB
+- Añade hasta 512.GB al instante
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07KXRGM8X{{</world>}}

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - INNOVACIÓN Y AVENTURA: Experimenta la evolución del clásico con Flashback 2. Gráficos impresionantes, tecnología innovadora y una trama cautivadora te esperan.
-- REVIVE LA LEYENDA: Flashback 2 te transporta a un mundo de nostalgia y emoción, donde la leyenda de Conrad cobra vida con gráficos 2.5D de vanguardia.
-- DISPONIBLE PARA TODOS: Flashback 2 está listo para que todos los jugadores se sumerjan en esta experiencia única. ¡La leyenda espera, prepárate para un viaje inolvidable!
 - CONECTA CON OTROS JUGADORES: Únete a la comunidad Flashback, comparte hazañas, participa en eventos exclusivos y forma parte de una comunidad apasionada que celebra la leyenda.
 - EXPLORA TU PROPIA HISTORIA: Enfréntate a desafíos, descubre secretos y toma decisiones que forjarán tu destino. Flashback 2 te invita a ser el héroe de tu propia historia.
+- DISPONIBLE PARA TODOS: Flashback 2 está listo para que todos los jugadores se sumerjan en esta experiencia única. ¡La leyenda espera, prepárate para un viaje inolvidable!
+- REVIVE LA LEYENDA: Flashback 2 te transporta a un mundo de nostalgia y emoción, donde la leyenda de Conrad cobra vida con gráficos 2.5D de vanguardia.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3KHNSVR{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 10 clásicos entretenidos de la historia arcade de Taito
 - Gran variedad de géneros y temas
+- 10 clásicos entretenidos de la historia arcade de Taito
 - Tres juegos sin publicar hasta ahora para consolas caseras fuera de Japón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Esta edición incluye:- Crash Team Rumble PS5- Paquete Proto digital, que incluye:-- 8 aspectos de héroe Blocky-- Sombra Pixelated-- Música de victoria Get On My Level-- Sombrero Blocky-- Mochila Blocky-- Efectos de puntuación Blocky-- Estandarte exclusivoPrepárate para deslizarte, saltar, patinar y rebotar en un nuevo
-- El trabajo en equipo es esencial en cada partida, y los jugadores deberán de trabajar juntos para luchar contra el equipo contrario, defender sus frutas Wumpa y capturar puntos clave alrededor del mapa para aumentar la puntuación
 - Álzate como un héroe, o alimenta a tu villano interior en un elenco de personajes de N.Sane, cada uno con sus habilidades
+- El trabajo en equipo es esencial en cada partida, y los jugadores deberán de trabajar juntos para luchar contra el equipo contrario, defender sus frutas Wumpa y capturar puntos clave alrededor del mapa para aumentar la puntuación
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C2ZSP7V1{{</world>}}

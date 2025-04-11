@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Terminator: Resistance Reloaded - Report for duty once again as Resistance soldier Jacob Rivers and experience the events leading up to the decisive, final battle for the fate of mankind in the war against the machines!
 - Infiltrator Mode - Get under the skin of the T-800 series Infiltrator and eliminate anything standing in your way with the included Infiltrator Mode.
 - Annihilation Line - Fight shoulder-to-shoulder with iconic Resistance hero Kyle Reese in the Annihilation Line Narrative Expansion, included in the Complete Edition and never before released on Xbox consoles.
+- Terminator: Resistance Reloaded - Report for duty once again as Resistance soldier Jacob Rivers and experience the events leading up to the decisive, final battle for the fate of mankind in the war against the machines!
 - I’ll Be Back…And Better Than Ever - Post-apocalyptic Pasadena has never looked better in this enhanced Terminator: Resistance experience, optimised for Xbox Series X|S. Return to battle with improved framerates, higher graphical fidelity, and faster load times!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

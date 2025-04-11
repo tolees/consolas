@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- OFFICIAL STAR WARS MERCHANDISE: Officially licensed by Star Wars. The much-loved Star Wars character in his classic rusty suit, Boba Fett joins our hugely popular 8" tall Cable Guys range
-- STAR WARS FANS: If youre a fan of Boba Fett, this is the perfect gaming accessory for you. Admire your favourite character as it neatens up the room. As long as it fits into his little hands, it can be held. Its also a perfect gift
 - PHONE HOLDER: Designed to hold almost any gaming controller while they charge, its also a great phone stand for most mobile phones including iPhone, Samsung & Google Pixel. Keeps hold even with a phone case
 - CONTROLLER HOLDER: Whether its your Xbox One, Ps5, Nintendo Switch gaming controller or tv remote, it can be held. Including the next-gen PS5 DualSense, Xbox Series X or Xbox Series S
+- OFFICIAL STAR WARS MERCHANDISE: Officially licensed by Star Wars. The much-loved Star Wars character in his classic rusty suit, Boba Fett joins our hugely popular 8" tall Cable Guys range
+- STAR WARS FANS: If youre a fan of Boba Fett, this is the perfect gaming accessory for you. Admire your favourite character as it neatens up the room. As long as it fits into his little hands, it can be held. Its also a perfect gift
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07QSBY68L{{</world>}}

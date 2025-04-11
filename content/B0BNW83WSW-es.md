@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ELIGE TU PERSONAJE: 22 personajes queridos para elegir. ¡Cada personaje tiene un movimiento especial diferente!
-- RÁPIDO: Acción de batalla rápida para 1-4 jugadores.
-- EQUIPO: Multijugador en línea y en el sofá en 40 niveles.
-- ACCIÓN PLATAFORMA: ¡Acción de plataformas clásica en 2D!
-- DIVERSIÓN ILIMITADA: ¡Encuentra oponentes de todo el mundo para una partida rápida!
 - EDICIÓN COLECCIONISTA LIMITADA: ¡Solo 1.500 ejemplares numerados en todo el mundo!
+- EQUIPO: Multijugador en línea y en el sofá en 40 niveles.
+- DIVERSIÓN ILIMITADA: ¡Encuentra oponentes de todo el mundo para una partida rápida!
+- ACCIÓN PLATAFORMA: ¡Acción de plataformas clásica en 2D!
+- RÁPIDO: Acción de batalla rápida para 1-4 jugadores.
+- ELIGE TU PERSONAJE: 22 personajes queridos para elegir. ¡Cada personaje tiene un movimiento especial diferente!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BNW83WSW{{</world>}}

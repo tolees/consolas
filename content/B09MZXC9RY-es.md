@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Forma parte del espectáculo automovilístico con la dramática historia de producción virtual Hasta la gloria o sumérgete en nuestra mayor Carrera profesional con cientos de eventos emocionantes.
 - Ábrete paso a golpes. Lleva coches legendarios al límite. Siente la adrenalina de la velocidad. Presiona al máximo a tu némesis. Vence a tus amigos una y otra vez... ¡Y haz que no lo olviden nunca!
-- Recuerda estas carreras con una increíble variedad de coches, nuevas ubicaciones urbanas como Londres y Moscú, tipos de eventos emocionantes y crea enemigos en los circuitos.
 - Usa el creador de carreras para diseñar carreras cargadas de adrenalina y destrozar a tus amigos con tipos de eventos como Elimination, las electrizantes carreras de Boost y el regreso de Drift. ¿Quieres competir con hipercoches contra camiones enormes? ¡Adelante!
 - Juega con hasta 21 amigos en el GRID más social y conectado hasta la fecha, incluido juego cruzado entre plataformas, y siembra el caos en la pista.
+- Recuerda estas carreras con una increíble variedad de coches, nuevas ubicaciones urbanas como Londres y Moscú, tipos de eventos emocionantes y crea enemigos en los circuitos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09MZXC9RY{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con los amiibo se puede desbloquear nuevos modos, armas o atuendos para personajes
 - Los amiibo tienen diferentes efectos dependiendo del juego y con ellos descubrirás nuevas funciones
+- Con los amiibo se puede desbloquear nuevos modos, armas o atuendos para personajes
 - Figuras y tarjetas interactivas que puedes usar con los juegos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
