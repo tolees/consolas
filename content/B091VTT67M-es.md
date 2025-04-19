@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Se dice que el enigmático Arceus es la clave para resolver un extraño fenómeno que afecta a ciertos Pokémon de la región. ¿Cómo estará conectado este Pokémon mítico con tu aventura?
-- Explora parajes salvajes inmensos donde te aguardan un sinfín de descubrimientos, observa, atrapa e investiga a los Pokémon salvajes en este juego de acción y rol que se desarrolla en el pasado.
 - En Leyendas Pokémon: Arceus, se mezclan las bases de los juegos de Pokémon anteriores con elementos propios de los juegos de acción y RPG.
+- Explora parajes salvajes inmensos donde te aguardan un sinfín de descubrimientos, observa, atrapa e investiga a los Pokémon salvajes en este juego de acción y rol que se desarrolla en el pasado.
+- Se dice que el enigmático Arceus es la clave para resolver un extraño fenómeno que afecta a ciertos Pokémon de la región. ¿Cómo estará conectado este Pokémon mítico con tu aventura?
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B091VTT67M{{</world>}}

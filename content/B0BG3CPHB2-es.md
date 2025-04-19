@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El juego tiene lugar en la región de Misrid, donde hay muchos laberintos únicos sobre la tierra, bajo tierra e incluso bajo el agua. ¡Los gráficos remasterizados dan una sensación de mayor realismo a la hora de recorrer las mazmorras!
 - Los demonios son criaturas parecidas a los androides que aparecieron de repente en Misrid, y cuando desatan su verdadero poder, revelan habilidades aún más viles.
-- ¡Usa la Mirada del Demonio para cazar formas de vida similares a androides conocidas como Demonios!
+- El juego tiene lugar en la región de Misrid, donde hay muchos laberintos únicos sobre la tierra, bajo tierra e incluso bajo el agua. ¡Los gráficos remasterizados dan una sensación de mayor realismo a la hora de recorrer las mazmorras!
 - Si derrotas a estos maestros de los laberintos, obtendrás habilidades únicas para la personalidad de cada Demonio. También puedes utilizar el comando Abrir Demonio para invocarlos y que participen en la batalla.
+- ¡Usa la Mirada del Demonio para cazar formas de vida similares a androides conocidas como Demonios!
 - Cuartel general del cazarrecompensas. Cuando el héroe regresa de un laberinto, es recibido en la Posada del Dragón por un grupo de personajes, todos con personalidades únicas. El ambiente aquí es alegre, divertido y a veces incluso serio.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

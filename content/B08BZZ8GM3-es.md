@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conviértete en un piloto de Sentinel, personaliza tu mecha y lucha contra oleadas de kaiju en combate táctico de arriba hacia abajo
-- Una representación bella en el característico estilo visual pintado a mano de Vanillaware
-- Descubre una historia profunda a través de visiones del pasado y el futuro
 - El reloj del fin del mundo está en marcha
+- Conviértete en un piloto de Sentinel, personaliza tu mecha y lucha contra oleadas de kaiju en combate táctico de arriba hacia abajo
+- Descubre una historia profunda a través de visiones del pasado y el futuro
+- Una representación bella en el característico estilo visual pintado a mano de Vanillaware
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08BZZ8GM3{{</world>}}

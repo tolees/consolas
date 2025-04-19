@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ULTIMATE Switch Accessories Bundle: The Orzly Geek Pack includes everything you need to make the most of your Nintendo Switch console
-- ESSENTIAL NINTENDO SWITCH ACCESSORIES: The pack includes basic accessories such as protective cases & screen protectors to get you going with your Switch console
-- PACK CONTENTS: Orzly Carry Case & Tempered Glass Screen Protectors [X2] for Nintendo Switch, Switch Racing Wheels [X2], Switch Joycon Grips [X2], Joycon & Pro-controller Charge Station, Switch Comfort Grip Case, Playstand, Cartridge Case, Earphones, USB Cable, Stylus
 - PREMIUM BUNDLE: The Orzly Ultimate Geek Pack is the perfect Nintendo Switch Accessories Bundle to get you equipped to play on your new console or the perfect gift with premium products for any Switch user. Available in Jet-Black or ColourPop variation packs. For more information see description below. (Console, joycon & games are for illustration only and not included.)
+- ULTIMATE Switch Accessories Bundle: The Orzly Geek Pack includes everything you need to make the most of your Nintendo Switch console
+- PACK CONTENTS: Orzly Carry Case & Tempered Glass Screen Protectors [X2] for Nintendo Switch, Switch Racing Wheels [X2], Switch Joycon Grips [X2], Joycon & Pro-controller Charge Station, Switch Comfort Grip Case, Playstand, Cartridge Case, Earphones, USB Cable, Stylus
 - PREMIUM SWITCH ACCESSORIES: The pack also includes fantastic accessories that will help enhance your gaming experience with the Nintendo Switch
+- ESSENTIAL NINTENDO SWITCH ACCESSORIES: The pack includes basic accessories such as protective cases & screen protectors to get you going with your Switch console
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07XBV69PY{{</world>}}

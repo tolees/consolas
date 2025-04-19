@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Todo el contenido de la versión original de The Stanley Parable está aquí, conservado tal como era en 2013. Pero The Stanley Parable: Ultra Deluxe también expande de manera notable el mundo del juego original con contenido nuevo, decisiones nuevas y secretos nuevos que deberás descubrir. El laberinto es ahora más grande.
-- La versión física* incluye cuatro cartas de arte con imágenes perfectamente normales de tus lugares favoritos de Stanley Parable
-- Y, al igual que antes, la impecable voz de Kevan Brighting te acompañará en todo momento.
 - Además, se mejoró visualmente el juego para adaptarlo a la tecnología moderna sin perder el tono del original. También se agregaron características de accesibilidad, como la localización del texto dentro del mundo del juego, opciones para daltónicos y advertencias de contenido.
 - Un 20 % de los ingresos netos se donará a la organización caritativa sin ánimo de lucro 350.org para combatir el cambio climático.
+- Todo el contenido de la versión original de The Stanley Parable está aquí, conservado tal como era en 2013. Pero The Stanley Parable: Ultra Deluxe también expande de manera notable el mundo del juego original con contenido nuevo, decisiones nuevas y secretos nuevos que deberás descubrir. El laberinto es ahora más grande.
+- Y, al igual que antes, la impecable voz de Kevan Brighting te acompañará en todo momento.
+- La versión física* incluye cuatro cartas de arte con imágenes perfectamente normales de tus lugares favoritos de Stanley Parable
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CZC3LZV5{{</world>}}

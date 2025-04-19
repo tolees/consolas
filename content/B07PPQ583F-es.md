@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Para asegurar su correcto funcionamiento, este controlador puede requerir una actualización en el sitio web del fabricante (también puede descargar el aviso de actualización en la página de este artículo).
 - Palancas de mando cóncavas analógicas para mayor precisión y gatillos traseros curvados para un agarre perfecto.
 - Motor de doble vibración y giroscopio integrado.
 - Batería recargable con cable de carga USB C de 2m incluido.
 - El mando bluetooth inalámbrico es un accesorio especialmente diseñado para la consola Nintendo Switch para los aficionados a los juegos retro.
-- Para asegurar su correcto funcionamiento, este controlador puede requerir una actualización en el sitio web del fabricante (también puede descargar el aviso de actualización en la página de este artículo).
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07PPQ583F{{</world>}}

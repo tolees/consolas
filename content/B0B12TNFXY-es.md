@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - El bono de preventa está incluido en el paquete
-- Desde resolver misterios que conectan los capítulos más oscuros de la historia de la ciudad hasta derrotar a villanos notorios en enfrentamientos épicos, debes evolucionar hacia el nuevo Caballero Oscuro y salvar las calles del descenso al caos
-- Batman está muerto. Un nuevo inframundo criminal expansivo ha barrido las calles de Gotham City. Ahora depende de la familia Batman; Batgirl, Nightwing, Red Hood y Robin; proteger a Gotham, traer esperanza a sus ciudadanos, disciplina a sus policías y miedo a sus criminales
 - Gotham Knights es un RPG de acción de mundo abierto ambientado en la Ciudad Gótica más dinámica e interactiva hasta la fecha. Ya sea en juego solo o con otro héroe, patrulla los cinco distritos distintos de Gotham y participa en la actividad criminal dondequiera que la encuentres
+- Batman está muerto. Un nuevo inframundo criminal expansivo ha barrido las calles de Gotham City. Ahora depende de la familia Batman; Batgirl, Nightwing, Red Hood y Robin; proteger a Gotham, traer esperanza a sus ciudadanos, disciplina a sus policías y miedo a sus criminales
+- Desde resolver misterios que conectan los capítulos más oscuros de la historia de la ciudad hasta derrotar a villanos notorios en enfrentamientos épicos, debes evolucionar hacia el nuevo Caballero Oscuro y salvar las calles del descenso al caos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B12TNFXY{{</world>}}

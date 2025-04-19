@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Dood de Wardens: vecht om te overleven door de talrijke unieke bazen uit te dagen die elk van de zones van het spel bewaken.
-- Verpest vriendschappen: test je verstand en reflexen met een vriend in coöp op de bank en ervaar een volledig unieke kijk op de coöp-roguelike.
-- Unieke Synth-Punk-wereld: speel een unieke kijk op een retro cyberpunk-dystopie en vecht om te overleven in 5 verschillende zonas, elk met hun eigen uitdagingen.
 - Mistmachines en laserstralen: breng een pistool en laserzwaard naar een vuurgevecht door jezelf te bewapenen met een selectie van de 50 unieke wapens die beschikbaar zijn in het spel, elk met hun eigen unieke effecten..Evolueer om te overleven: de enige manier om te overleven wanneer alles, inclusief je eigen hart, je probeert te vermoorden, is door jezelf voorzichtig een boost te geven of te vervloeken door strategisch te kiezen en te combineren uit 30 verschillende buffs en vloeken.
 - Kies je gif: speel als een van de 5 personajes desnudos, elk met hun eigen unieke verbeteringen en zwakke punten.
+- Unieke Synth-Punk-wereld: speel een unieke kijk op een retro cyberpunk-dystopie en vecht om te overleven in 5 verschillende zonas, elk met hun eigen uitdagingen.
+- Verpest vriendschappen: test je verstand en reflexen met een vriend in coöp op de bank en ervaar een volledig unieke kijk op de coöp-roguelike.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07VWGQDL3{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La edición coleccionista incluye: caja edición coleccionista, tarjeta de juego "The Legend of Zelda: Tears of the Kingdom", póster metálico, set de cuatro pines y libro de ilustraciones
 - Carátula no oficial
+- La edición coleccionista incluye: caja edición coleccionista, tarjeta de juego "The Legend of Zelda: Tears of the Kingdom", póster metálico, set de cuatro pines y libro de ilustraciones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BVBNDRL9{{</world>}}

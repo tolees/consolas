@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Solo Aloy es capaz de restablecer el orden y el equilibrio en el mundo
-- Descubre increíbles tribus en tu regreso a un futuro lejano en el mundo apocalíptico de Horizon
-- Incluye: Voucher (sin disco físico) válido para PS5 y PS4, steelbook, minilibro de arte y figuras de Terromamut y Aloy
-- Contenido descargable: Banda sonora digital, cómic digital y objetos dentro del juego
 - Acompaña a Aloy en su aventura por las peligrosas y fantásticas tierras del Oeste Prohibido y enfréntate a nuevas y misteriosas amenazas
+- Descubre increíbles tribus en tu regreso a un futuro lejano en el mundo apocalíptico de Horizon
+- Contenido descargable: Banda sonora digital, cómic digital y objetos dentro del juego
 - Explora páramos remotos y enfréntate a máquinas más grandes e imponentes
+- Incluye: Voucher (sin disco físico) válido para PS5 y PS4, steelbook, minilibro de arte y figuras de Terromamut y Aloy
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09FBL11DV{{</world>}}

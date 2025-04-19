@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Invitez 1 à 3 joueurs à vous rejoindre dans la vallée! Travaillez ensemble pour construire une ferme prospère, partagez des ressources et compétences
-- Faites partie intégrante de la communauté locale: apprenez à connaître les nombreux résidents de pélican town
+- Préparez de délicieux repas et fabriquez des objets utiles pour vous aider: avec plus de 100 recettes de cuisine et dartisanat, vous aurez une grande variété darticles à créer.
 - Construisez votre ferme à partir de zéro sur lune des 5 cartes la plus adaptées à votre style de jeu ! élevez des animaux, faites pousser diverses cultures, créez un verger…
 - Vous avez hérité de l’ancienne parcelle de ferme de votre grand-père à stardew valley. Armé de quelques outils, vous décidez de commencer votre nouvelle vie.
-- Préparez de délicieux repas et fabriquez des objets utiles pour vous aider: avec plus de 100 recettes de cuisine et dartisanat, vous aurez une grande variété darticles à créer.
+- Faites partie intégrante de la communauté locale: apprenez à connaître les nombreux résidents de pélican town
+- Invitez 1 à 3 joueurs à vous rejoindre dans la vallée! Travaillez ensemble pour construire une ferme prospère, partagez des ressources et compétences
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08FJQBCXY{{</world>}}

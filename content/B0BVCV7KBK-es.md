@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- No necesita pilas
-- Pikachu es siempre eléctrico, pero cuando está completamente cargado puede iluminar el ambiente.
-- Con licencia oficial de Nintendo y garantía limitada de dos años: visita PowerA.com/Support
-- Cable USB extraíble de 3 metros
 - Botones de juego avanzado asignables
 - Toma de audio de 3,5 mm
+- Cable USB extraíble de 3 metros
+- Con licencia oficial de Nintendo y garantía limitada de dos años: visita PowerA.com/Support
+- Pikachu es siempre eléctrico, pero cuando está completamente cargado puede iluminar el ambiente.
+- No necesita pilas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BVCV7KBK{{</world>}}

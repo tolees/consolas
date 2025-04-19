@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - PNJ Humanos: ayuda o traiciona a los nuevos vecinos que han llegado a la región para reconstruirla, podrás conocer Appalachia a través de los ojos de sus habitantes
-- Decisiones y reputación: Altera el destino de las personas con las que te encuentres utilizando los árboles de dialogo; las decisiones que tomes afectarán a tu relación con las facciones a través del nuevo sistema de reputación
 - Misión principal: Descubre los secretos de Virginia Occidental en una misión principal que comienza en el mismo momento en que sales del Refugio 76
+- Decisiones y reputación: Altera el destino de las personas con las que te encuentres utilizando los árboles de dialogo; las decisiones que tomes afectarán a tu relación con las facciones a través del nuevo sistema de reputación
 - Criaturas y equipo: Acaba con criaturas mutantes que están invadiendo la región y consigue armas y armaduras del máximo nivel
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

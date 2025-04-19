@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Remasterización de aniversario
 - Dos juegos en uno
-- Accesibilidad nueva
 - Juego icónico
+- Accesibilidad nueva
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09SLX9Z6F{{</world>}}

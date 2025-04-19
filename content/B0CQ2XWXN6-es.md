@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Volumen 1: Turrican, Turrican 2, Super Turrican, Super Turrican Directors Cut y Mega Turrican Score Attack
 - Edición Exclusiva: Limitada a 3500 copias para Nintendo Switch, 2500 copias para PS5, 2500 copias para PS4 en todo el mundo, cada copia está numerada individualmente.
 - Incluye: Ambos volúmenes, la Caja de la Edición Coleccionista, un Libro de Arte, el Documental de Turrican (BluRay), la Banda Sonora, una Postal Firmada, 4 Placas de Arte de Acrílico, 2 Pósters Grandes, una Hoja de Pegatinas y un Pin de Esmalte.
 - Volumen 2: Turrican 3, Mega Turrican, Mega Turrican Directors Cut, Super Turrican 2 y Super Turrican 1 Score Attack
+- Volumen 1: Turrican, Turrican 2, Super Turrican, Super Turrican Directors Cut y Mega Turrican Score Attack
 - Mejoras en la Jugabilidad: Sumérgete en la nostalgia con mejoras como mapas mejorados, bandas sonoras personalizables, opciones de control y contenido adicional para enriquecer tu experiencia con Turrican.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

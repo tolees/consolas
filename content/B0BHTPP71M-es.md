@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nota Asegúrese de que el firmware esté correctamente actualizado y conecte el Flightstick a un dispositivo inteligente compatible a través de Bluetooth y utilice la aplicación complementaria para permitir la personalización en tiempo real de las funciones del producto. La aplicación complementaria para dispositivos inteligentes requiere Android 8.0, iOS 15.4 o versiones posteriores.
 - Pantalla de gestión de vuelo: la pantalla OLED de gestión de vuelo integrada te permite adaptar el rendimiento del mando para que se adapte al juego al que estás jugando.
-- Compatibilidad multiplataforma: conéctate con el cable de 3 m/10 pies suministrado y disfruta de tus juegos favoritos de simulación de combate aéreo y espacial en Xbox y PC.
 - Alta precisión de 8 ejes: los sensores sin contacto de alta resolución proporcionan una respuesta precisa y una mayor vida útil de los controles principales del joystick. El nanocompensador preciso permite definir la actitud con precisión.
-- 27 botones programables: equipado con un punto de venta digital de 8 posiciones, un disparador rápido, botones tipo joystick y más, tendrás todos los controles que necesitas para tus funciones de vuelo más estratégicas.
 - Acelerador y palancas multifuncionales: el control del acelerador controla la fuente de alimentación del motor principal y las palancas facilitan el ajuste de las superficies de control adicionales. Además, las puntas intercambiables del joystick te permiten personalizar los controles en función de si utilizas un caza o un avión comercial.
+- Compatibilidad multiplataforma: conéctate con el cable de 3 m/10 pies suministrado y disfruta de tus juegos favoritos de simulación de combate aéreo y espacial en Xbox y PC.
+- 27 botones programables: equipado con un punto de venta digital de 8 posiciones, un disparador rápido, botones tipo joystick y más, tendrás todos los controles que necesitas para tus funciones de vuelo más estratégicas.
+- Nota Asegúrese de que el firmware esté correctamente actualizado y conecte el Flightstick a un dispositivo inteligente compatible a través de Bluetooth y utilice la aplicación complementaria para permitir la personalización en tiempo real de las funciones del producto. La aplicación complementaria para dispositivos inteligentes requiere Android 8.0, iOS 15.4 o versiones posteriores.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHTPP71M{{</world>}}

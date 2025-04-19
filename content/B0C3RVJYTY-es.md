@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Batallas dinámicas y omnidireccionales
 - Emocionantes batallas contra jefes
 - Personaliza el meca a tu estilo de juego
-- Batallas dinámicas y omnidireccionales
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C3RVJYTY{{</world>}}

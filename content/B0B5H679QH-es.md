@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Botones de juego avanzado asignables
-- Elimina a los enemigos con este diseño que muestra una de las mejores versiones potenciadas de Mario
 - Cable USB extraíble de 3 metros
 - Toma de audio de 3,5 mm
 - No necesita pilas
+- Botones de juego avanzado asignables
 - Con licencia oficial de Nintendo y garantía limitada de dos años: visita PowerA.com/Support
+- Elimina a los enemigos con este diseño que muestra una de las mejores versiones potenciadas de Mario
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B5H679QH{{</world>}}

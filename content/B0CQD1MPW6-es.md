@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Explora los misterios de Digital Kingdom - Viaja arriba, abajo, a izquierda y derecha para descubrir las profundidades más oscuras del código binario roto en esta historia interminable.
-- Perfeccionismo pixelado - Un ejemplo resplandeciente del trabajo de un perfeccionista. Disfruta del apartado visual retro que cobra vida con animaciones hechas a mano.
 - Lucha en una jungla de cristal digital - ¡Enfréntate a enemigos salidos de tus sueños febriles más oscuros!
 - Maximiza el Trichroma - Empuña la Techno-sword, la única arma capaz de derrotar a los Stallions, y húndela en los corazones digitales de tus enemigos. No dejes que este imperio contraataque: sé el verdadero blade runner.
+- Perfeccionismo pixelado - Un ejemplo resplandeciente del trabajo de un perfeccionista. Disfruta del apartado visual retro que cobra vida con animaciones hechas a mano.
 - Dales a los jefes en los bytes - Haz frente a montones de jefes increíbles y radicales. ¡Conviértete en el Terminator al derrotar a Deadly Crab, DragonBot, Black Rainbow y muchos más!
+- Explora los misterios de Digital Kingdom - Viaja arriba, abajo, a izquierda y derecha para descubrir las profundidades más oscuras del código binario roto en esta historia interminable.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CQD1MPW6{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - En algunas zonas, podrás moverse libremente, interactuar con otros personajes y reunir información.
-- Tu protagonista se encontrará con tres personajes —Edelgard, Dimitri y Claude— que desempeñan importantes papeles en la historia.
 - Un juego de rol táctico por turnos tradicional que añade nuevos elementos de estrategia al combate. Ahora, cuando mueves una unidad, la formación se moverá con ella para ofrecerle apoyo durante el combate.
+- Tu protagonista se encontrará con tres personajes —Edelgard, Dimitri y Claude— que desempeñan importantes papeles en la historia.
 - El juego se ambienta en un nuevo mundo, Fódlan, donde la Iglesia de Seiros detenta gran poder sobre la tierra y sus gentes.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

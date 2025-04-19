@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sé más listo que los vecinos: en Hello Neighbor 2, cada uno de los personajes cuenta con una IA de red neuronal que aprende de todos los jugadores y que hará todo lo que esté en su mano para proteger la privada comunidad y sus secretos
 - Descubre la verdad: eres Quentin, un periodista de investigación, y como tal tendrás que entrar a hurtadillas en las casas de la ciudad para resolver el misterio de los niños perdidos y destapar los secretos de sus habitantes
-- Hello Neighbor 2 es un juego de terror y sigilo en el que una misteriosa criatura te acecha mientras intentas localizar al Sr. Peterson (el vecino), que continúa en paradero desconocido tras los acontecimientos del primer juego
 - Explora Raven Brooks: La ciudad entera es tu patio de juegos, con numerosas casas y residentes manejados por la IA con los que interactuar; cada casa que investigues será otra pieza del gran puzle
 - Hello Neighbor 2 - Edición Imbir incluye la mochila Imbir de peluche y la edición estándar de Hello Neighbor 2, todo empaquetado en una caja coleccionable
+- Sé más listo que los vecinos: en Hello Neighbor 2, cada uno de los personajes cuenta con una IA de red neuronal que aprende de todos los jugadores y que hará todo lo que esté en su mano para proteger la privada comunidad y sus secretos
+- Hello Neighbor 2 es un juego de terror y sigilo en el que una misteriosa criatura te acecha mientras intentas localizar al Sr. Peterson (el vecino), que continúa en paradero desconocido tras los acontecimientos del primer juego
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B6G3LR2F{{</world>}}

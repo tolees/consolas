@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- BATALLAS DE TANQUES: Fabrica munición y apaga incendios mientras luchas contra tanques rivales para entregar paquetes por toda Nueva Pangea.
 - MÁS DE 100 MISIONES: Ocúpate de más de 100 misiones donde dos partidas nunca serán iguales.
-- ACCIÓN COOPERATIVA: ¡Lánzate a la batalla en solitario o trae hasta 3 amigos para acción cooperativa con 4 jugadores en multijugador local!
-- HISTORIA CAUTIVADORA: Conoce a personajes emocionantes en una historia cómica escrita por Patrick Baker, famoso por The Regular Show.
+- BATALLAS DE TANQUES: Fabrica munición y apaga incendios mientras luchas contra tanques rivales para entregar paquetes por toda Nueva Pangea.
 - TANQUES DESBLOQUEABLES: Aplasta a la competencia con más de 70 tanques desbloqueables cargados con diferente munición y habilidades.
+- HISTORIA CAUTIVADORA: Conoce a personajes emocionantes en una historia cómica escrita por Patrick Baker, famoso por The Regular Show.
+- ACCIÓN COOPERATIVA: ¡Lánzate a la batalla en solitario o trae hasta 3 amigos para acción cooperativa con 4 jugadores en multijugador local!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BNW57JQG{{</world>}}

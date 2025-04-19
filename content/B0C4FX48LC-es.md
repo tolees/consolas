@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Gran variedad de géneros y temas
-- Tres juegos sin publicar hasta ahora para consolas caseras fuera de Japón
 - 10 clásicos entretenidos de la historia arcade de Taito
+- Tres juegos sin publicar hasta ahora para consolas caseras fuera de Japón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C4FX48LC{{</world>}}

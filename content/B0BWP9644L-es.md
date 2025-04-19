@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Devasta con Ataques Icónicos: Utiliza los icónicos y devastadores ataques de Grendizer para destruir los terroríficos Monstronefs y salvar a la Tierra en esta aventura épica.
 - Defiende la Tierra: Pilotando Grendizer, encárgate de repeler la invasión del Imperio de Vega y protege nuestro planeta.
 - Modos de Juego Únicos: Experimenta emocionantes modos de juego, desde pilotar el Spazer hasta tiroteos verticales y combate en tercera persona con Grendizer.
 - Alianza Poderosa: Junto a Kôji Kabuto, el príncipe del Planeta Fleed, enfrenta los ataques de los Monstronefs y lucha por la supervivencia.
+- Devasta con Ataques Icónicos: Utiliza los icónicos y devastadores ataques de Grendizer para destruir los terroríficos Monstronefs y salvar a la Tierra en esta aventura épica.
 - Orígenes Épicos: Después de la destrucción del Planeta Fleed, Daisuke se refugia en la Tierra y adopta el poderoso robot.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

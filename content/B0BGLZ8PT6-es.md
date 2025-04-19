@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Amnesia: Crowd - Enjoy even more story scenarios, like the thrilling what-if story of SUSPENSE, where you must interact with your environment to escape danger in each route. Plus, play a variety of café mini-games in WORKING or card games in TRUMP, earning Orion Points to unlock events.
 - Amnesia: Later - Beginning with the enchanting storyline in NEW WORLD, you can unlock four different story scenarios, ranging from a study of the many sides of Waka in WAKAS WORLD to AFTER STORY, which takes place after the events of Amnesia: Memories. Depending on the routes unlocked in AFTER STORY, you may even hear wedding bells...
+- Amnesia: Crowd - Enjoy even more story scenarios, like the thrilling what-if story of SUSPENSE, where you must interact with your environment to escape danger in each route. Plus, play a variety of café mini-games in WORKING or card games in TRUMP, earning Orion Points to unlock events.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGLZ8PT6{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bajo una buena gestión: comanda a las fuerzas del mal bajo la dirección del nuevo personaje Thalya y llévalas a la victoria
-- Se el Señor de la Mazmorra que siempre has querido: Dungeons 3 es el más grande, mejor y más malvado simulador de mazmorras, unido a un total rediseño de la estrategia en el mundo superior
 - No hables mal: el narrador favorito de los fans de la saga vuelve con su inconfundible voz, continuando el legado de Dungeons de la mejor manera posible
 - Contiene los pack de expansión: “Once Upon a Time”, “Evil of the Caribbean” y “Lord of the Kings”
+- Se el Señor de la Mazmorra que siempre has querido: Dungeons 3 es el más grande, mejor y más malvado simulador de mazmorras, unido a un total rediseño de la estrategia en el mundo superior
 - El tamaño importa: gran campaña para un jugador con 20 misiones y más de 20 horas de juego con niveles generados aleatoriamente
+- Bajo una buena gestión: comanda a las fuerzas del mal bajo la dirección del nuevo personaje Thalya y llévalas a la victoria
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B5LN51CV{{</world>}}

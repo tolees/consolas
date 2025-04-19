@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - War and strife have been given a new assignment
-- war and strife must hunt down these masters
 - lucifer has been plotting to grant power to master demons throughout hell
+- war and strife must hunt down these masters
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07SQFZX1Z{{</world>}}

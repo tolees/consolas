@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lanzamiento Exclusivo: Limitado a 1000 copias para PS4 y 2500 copias para NSW en todo el mundo, cada copia está numerada individualmente.
-- Experiencia de juego variada: Elige entre un elenco de personajes diversos, cada uno con magias únicas y patrones de disparo que mejoran la jugabilidad.
-- Juegos de disparos icónicos de los años 90: Disfruta de tres títulos clásicos, Cotton 2, Cotton Boomerang y Guardian Force, en esta colección homenaje.
 - Edición de Coleccionista: Caja de Coleccionista, Libro de Arte, Banda Sonora, Figura de Taza de Té, Pin de Esmalte, 10 Tarjetas de Personaje, Pegatinas, Póster Doble Cara, Folleto Arcade, Manual del Juego.
 - Homenaje nostálgico a Saturn: Sumérgete en la acción y la nostalgia de la era de Saturn con esta cautivadora colección.
+- Experiencia de juego variada: Elige entre un elenco de personajes diversos, cada uno con magias únicas y patrones de disparo que mejoran la jugabilidad.
+- Lanzamiento Exclusivo: Limitado a 1000 copias para PS4 y 2500 copias para NSW en todo el mundo, cada copia está numerada individualmente.
+- Juegos de disparos icónicos de los años 90: Disfruta de tres títulos clásicos, Cotton 2, Cotton Boomerang y Guardian Force, en esta colección homenaje.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C9N3YBDX{{</world>}}

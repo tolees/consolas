@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- En la segunda expansión, Supervivencia, tendrás que durar todo lo que puedas en un entorno hostil con unas condiciones climáticas inhumanas.
 - Este nuevo modo pondrá a prueba incluso a los mejores agentes.
+- En la segunda expansión, Supervivencia, tendrás que durar todo lo que puedas en un entorno hostil con unas condiciones climáticas inhumanas.
 - En plena ventisca, la comida, el agua y el calor se convierten en recursos vitales.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

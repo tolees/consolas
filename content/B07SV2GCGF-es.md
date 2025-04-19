@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Treffen Sie im Kampf auf mythische Gegner wie Zyklopen, Medusen, dem Minotaurus, sowie korrumpierten Helden wie Achilles in schnellen Boden und Luftk mpfen entgegen
 - Erschaffen Sie mit Fenyx Ihre eigene Legende. Fenyx kann auf mannigfaltige Weise angepasst werden. So l sst sich das Geschlecht w hlen, das Aussehen, aber auch Waffen und Rüstungen anpassen
+- Treffen Sie im Kampf auf mythische Gegner wie Zyklopen, Medusen, dem Minotaurus, sowie korrumpierten Helden wie Achilles in schnellen Boden und Luftk mpfen entgegen
 - Die G tter der Olymps gew hren Ihnen m chtige Gaben. Nutzen Sie sie beim L sen von R tseln und bei der Erkundung der riesigen Spielwelt
 - K ufer der physischen Version von Immortals Fenyx Rising für PlayStation 4 haben kostenlosen Zugriff auf die digitale Playstation 5 Version des Spiels auf der PlayStation 5 Konsole
 

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Anillo de metal de Leroy Smith
-- Pegatinas, cartas coleccionables y ficha de arcade
+- Figura de Jin (25 cm)
 - Steelbook
 - Placa metálica
-- Figura de Jin (25 cm)
+- Anillo de metal de Leroy Smith
+- Pegatinas, cartas coleccionables y ficha de arcade
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CGDTQRFV{{</world>}}

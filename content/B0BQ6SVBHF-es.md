@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Videojuego para Nintendo Switch
-- Estilo visual infantil
 - Videojuego basado en el universo de DC
+- Estilo visual infantil
+- Videojuego para Nintendo Switch
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQ6SVBHF{{</world>}}

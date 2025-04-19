@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Completo equipo de vuelo: 5 ejes + 14 botones de acción + 1 gatillo de disparo rápido + 1 hat switch multidireccional (navegación/vista panorámica)
+- Funciona en Xbox Series X|S
 - Diseño ergonómico perfectamente adaptado para todos los tipos de simulación de vuelo (aventura espacial, combate moderno, aviones de guerra, vuelo civil)
-- El primer joystick oficial para Xbox One y Windows, con los botones oficiales para la consola Xbox One.
 - Resistencia de la palanca ajustable con reposamanos grande
 - Mando de potencia desmontable de tamaño real para lograr una maniobrabilidad sencilla, incluso en la realidad virtual
-- Funciona en Xbox Series X|S
+- Completo equipo de vuelo: 5 ejes + 14 botones de acción + 1 gatillo de disparo rápido + 1 hat switch multidireccional (navegación/vista panorámica)
+- El primer joystick oficial para Xbox One y Windows, con los botones oficiales para la consola Xbox One.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B075S7LG8X{{</world>}}

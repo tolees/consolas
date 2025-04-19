@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Leyendas Pokémon: Z‑A, la nueva y ambiciosa entrega de la serie de videojuegos, llegará a todo el mundo de forma simultánea en 2025.​
 - Fecha de lanzamiento no oficial, sujeta a cambios
+- Leyendas Pokémon: Z‑A, la nueva y ambiciosa entrega de la serie de videojuegos, llegará a todo el mundo de forma simultánea en 2025.​
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D42BGBV3{{</world>}}

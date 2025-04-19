@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Batería recargable integrada con LED indicador de nivel de carga
 - Autonomía: hasta 15 h / Alcance: hasta 10 m
-- Acelerómetro y giroscopio
-- Conexión inalámbrica mediante Bluetooth
 - Licencia oficial de Nintendo
+- Conexión inalámbrica mediante Bluetooth
+- Batería recargable integrada con LED indicador de nivel de carga
+- Acelerómetro y giroscopio
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08R8WK7FR{{</world>}}

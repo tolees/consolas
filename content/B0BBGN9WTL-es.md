@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Adapte su experiencia! - Tienes ganas de más formas de jugar a tu manera? con una jugabilidad reequilibrada y el ‘Modo de arreglos‘, ahora puedes seleccionar entre más de 20 personajes para jugar desde el principio! Además, el sistema de ‘Planes‘ permite a los jugadores crear y forjar nuevos elementos y equipos, agregar mazmorras para explorar e incluso modificar las gotas de los enemigos y los materiales cosechados en las mazmorras.
-- The Gang of Four: el límite de miembros de tu grupo ahora aumentó de 3 a 4 miembros! Transforma a Neptuno y las diosas activando el modo HDD para amplificar los ataques.
-- 1210483
 - Gone Fishing: ahora, Neptune puede refrescar sus sentidos y pasar un tiempo a solas pescando algunos peces en este nuevo minijuego. Y si eres lo suficientemente paciente, es posible que incluso puedas transportar un buen equipo. Pero ten cuidado! Cualquier paso en falso puede atraer a un enemigo apestoso.
+- The Gang of Four: el límite de miembros de tu grupo ahora aumentó de 3 a 4 miembros! Transforma a Neptuno y las diosas activando el modo HDD para amplificar los ataques.
+- Adapte su experiencia! - Tienes ganas de más formas de jugar a tu manera? con una jugabilidad reequilibrada y el ‘Modo de arreglos‘, ahora puedes seleccionar entre más de 20 personajes para jugar desde el principio! Además, el sistema de ‘Planes‘ permite a los jugadores crear y forjar nuevos elementos y equipos, agregar mazmorras para explorar e incluso modificar las gotas de los enemigos y los materiales cosechados en las mazmorras.
+- 1210483
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BBGN9WTL{{</world>}}

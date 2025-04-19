@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- REVIVE LA LEYENDA: Flashback 2 te transporta a un mundo de nostalgia y emoción, donde la leyenda de Conrad cobra vida con gráficos 2.5D de vanguardia. Incluye: El videojuego original de Flashback versión digital + Una figura de Conrad de 20 cm (8 pulgadas) + 3 litografías + Steelbook exclusivo + Insignia exclusiva + La banda sonora digital de Flashback 2 + 2 hojas de pegatinas.
 - CONECTA CON OTROS JUGADORES: Únete a la comunidad Flashback, comparte hazañas, participa en eventos exclusivos y forma parte de una comunidad apasionada que celebra la leyenda.
-- DISPONIBLE PARA TODOS: Flashback 2 está listo para que todos los jugadores se sumerjan en esta experiencia única. ¡La leyenda espera, prepárate para un viaje inolvidable!
 - EXPLORA TU PROPIA HISTORIA: Enfréntate a desafíos, descubre secretos y toma decisiones que forjarán tu destino. Flashback 2 te invita a ser el héroe de tu propia historia.
+- REVIVE LA LEYENDA: Flashback 2 te transporta a un mundo de nostalgia y emoción, donde la leyenda de Conrad cobra vida con gráficos 2.5D de vanguardia. Incluye: El videojuego original de Flashback versión digital + Una figura de Conrad de 20 cm (8 pulgadas) + 3 litografías + Steelbook exclusivo + Insignia exclusiva + La banda sonora digital de Flashback 2 + 2 hojas de pegatinas.
+- DISPONIBLE PARA TODOS: Flashback 2 está listo para que todos los jugadores se sumerjan en esta experiencia única. ¡La leyenda espera, prepárate para un viaje inolvidable!
 - INNOVACIÓN Y AVENTURA: Experimenta la evolución del clásico con Flashback 2. Gráficos impresionantes, tecnología innovadora y una trama cautivadora te esperan.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Sublimes melodías atronadoras de Rémi Gallégo y The Algorithm, con un toque de metal progresivo.
-- Un universo gótico con un precioso pixel art.
 - Un increíble RPG táctico con mecánica roguelite: multitud de estadísticas, habilidades, bonificaciones, características... ¡y mucho más!
+- Un universo gótico con un precioso pixel art.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CCP2H4SH{{</world>}}

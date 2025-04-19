@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Multijugador en línea para hasta 4 jugadores: Entorpece los planes de los demás y utiliza las descargas de forma inteligente para cambiar las tornas y hacerte con la victoria
 - El juego también cuenta con modos de reproductor de música y teatro que te permiten sentarte y disfrutar de las pistas y vídeos que has reunido sin tener que pasar a la acción
-- Aquí se reúne la música de FINAL FANTASY: Incluye temas populares de un total de 46 juegos diferentes
 - Pulsa los botones al ritmo de la música para hacerlos coincidir con los gatillos que se mueven por la pantalla en 3 tipos de escenarios diferentes
+- Aquí se reúne la música de FINAL FANTASY: Incluye temas populares de un total de 46 juegos diferentes
+- Multijugador en línea para hasta 4 jugadores: Entorpece los planes de los demás y utiliza las descargas de forma inteligente para cambiar las tornas y hacerte con la victoria
 - Reúne el grupo de tus sueños con un total de 104 personajes para elegir: Conoce las versiones molonas de muchos personajes y monstruos clásicos de la serie
 
 [🛒 Aquí!!!]({{< param buyurl >}})

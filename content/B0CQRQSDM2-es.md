@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ¡TOMA EL CONTROL DE ICÓNICOS PERSONAJES! ¡Los jugadores pueden elegir entre sus personajes favoritos, incluidos Tanjiro, Zenitsu, Inosuke y los nueve Pilares! Nezuko, que no puede estar activa durante el día, aparece como un personaje de apoyo para ayudar a los jugadores a lo largo del juego.
 - ¡EL ANIME GUARDIANES DE LA NOCHE SE CONVIERTE EN UN JUEGO DE MESA! ¡Las localizaciones icónicas del anime Guardianes de la Noche, como el Monte Fujikasane y Asakusa, aparecerán como tableros! ¡Tira los dados para avanzar por las casillas! El tablero tiene un período diurno y nocturno. Durante el día, jugarás eventos y minijuegos para prepararte para la noche, donde buscarás demonios para derrotar: ¡apunta a convertirte en un gran Caza Demonios!
 - ¡LUCHA CONTRA LOS DEMONIOS AGITANDO EL JOY-CON! En los minijuegos en los que luchas contra demonios como el Demonio de la Mano, ¡podrás blandir el Joy-Con como una Espada Nichirin para atacar! Conviértete en un Caza Demonios y desafía a los poderosos demonios.
+- ¡TOMA EL CONTROL DE ICÓNICOS PERSONAJES! ¡Los jugadores pueden elegir entre sus personajes favoritos, incluidos Tanjiro, Zenitsu, Inosuke y los nueve Pilares! Nezuko, que no puede estar activa durante el día, aparece como un personaje de apoyo para ayudar a los jugadores a lo largo del juego.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CQRQSDM2{{</world>}}

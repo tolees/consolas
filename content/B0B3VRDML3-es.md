@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Botones Sanwa Denshi auténticos de 30 mm y joystick desmontable Link 2 patentado en la base Sanwa JLF
-- Producto con licencia oficial de PlayStation
-- Abre el panel trasero de acceso rápido para ver los componentes limpiamente dispuestos para facilitar los mods y las actualizaciones
 - Carcasa duradera hecha de una sola pieza de aluminio de grado aeronáutico y con una inclinación de la muñeca integrada de 6,28° para ayudar a reducir la fatiga
+- Abre el panel trasero de acceso rápido para ver los componentes limpiamente dispuestos para facilitar los mods y las actualizaciones
+- Producto con licencia oficial de PlayStation
 - Compatible con PlayStation 5, PlayStation 4 y PC utilizando el interruptor de modo integrado
 
 [🛒 Aquí!!!]({{< param buyurl >}})

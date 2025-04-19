@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cable USB de 3 m extraíble con correa de velcro
 - Forma ergonómica del mando con cable con una disposición de botones estándar
+- Licencia oficial de Nintendo
+- Cable USB de 3 m extraíble con correa de velcro
+- Licencia oficial de Nintendo
 - Diseño negro mate
-- Licencia oficial de Nintendo
 - Forma ergonómica del mando con cable con una disposición de botones estándar
-- Cable USB de 3 m extraíble con correa de velcro
-- Cable USB de 3 m extraíble con correa de velcro
-- Licencia oficial de Nintendo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07PDJ45BT{{</world>}}

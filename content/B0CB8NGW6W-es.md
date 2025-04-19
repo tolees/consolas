@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Atraviesa imponentes escenarios desolados - Grandes ciudades y estructuras que se alzan entre la niebla y rasgan los cielos de paisajes nunca antes vistos.
+- Giro narrativo al mundo abierto - Observa tus alrededores y deja que el escenario te oriente por un vasto terreno completamente transitable, donde tendrás cartas e hilos narrativos que rastrear mediante la exploración.
 - Múltiples finales - Toma las decisiones que determinarán la conclusión de tu historia y la de los personajes que encontrarás a tu paso.
+- Atraviesa imponentes escenarios desolados - Grandes ciudades y estructuras que se alzan entre la niebla y rasgan los cielos de paisajes nunca antes vistos.
 - Contenido especial: Caja cerilla y booklet de 28 páginas
 - Una narrativa intrigante - Persigue los misteriosos cisnes de papel que albergan los secretos de la Tierra Más Allá de las Murallas y la vida de nuestro protagonista.
-- Giro narrativo al mundo abierto - Observa tus alrededores y deja que el escenario te oriente por un vasto terreno completamente transitable, donde tendrás cartas e hilos narrativos que rastrear mediante la exploración.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CB8NGW6W{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Construisez votre équipe ultime avec les tout nouveaux personnages jouables
-- Revivez les scènes les plus iconiques de l’anime
 - Basé sur l’anime à succès my hero academia, le jeu inclut les personnages favoris des fans tel que deku, all might et shigaraki
+- Revivez les scènes les plus iconiques de l’anime
+- Construisez votre équipe ultime avec les tout nouveaux personnages jouables
 - Utilisez des alter explosifs avec vos personnages préférés
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

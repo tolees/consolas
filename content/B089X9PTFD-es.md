@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Jeu daction sur PS5 : Miles Morales, nouveau h ros, apprend à maîtriser ses nouveaux pouvoirs explosifs pour devenir un nouveau Spider Man
-- Caract ristiques du jeu : 1 joueur, Version physique, Qualit dimage 4K, Disponible en français et en anglais
-- Exp rience immersive : plongez au c ur du New York enneig de Marvel gr ce à la technologie audio 3D Tempest avec des graphismes à couper le souffle
-- Compatibilit : console PS5 et manette DualSense
 - Contenu de la livraison : 1 x Jeu Marvels Spider Man : Miles Morales Edition Standard sur PS5, Version physique, Jaquette en français, Bonus de pr commande : 2 Spider Tenues, Spider Gadget Puits de gravit et 3 points de comp tences suppl mentaires
+- Jeu daction sur PS5 : Miles Morales, nouveau h ros, apprend à maîtriser ses nouveaux pouvoirs explosifs pour devenir un nouveau Spider Man
+- Compatibilit : console PS5 et manette DualSense
+- Exp rience immersive : plongez au c ur du New York enneig de Marvel gr ce à la technologie audio 3D Tempest avec des graphismes à couper le souffle
+- Caract ristiques du jeu : 1 joueur, Version physique, Qualit dimage 4K, Disponible en français et en anglais
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B089X9PTFD{{</world>}}

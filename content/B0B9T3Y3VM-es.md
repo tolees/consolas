@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Create your own dream course with the Course Designer, which features thousands of customizable objects and cross-platform sharing.
-- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
 - Introducing Topgolf with competitive 1-4 player local and online play, bringing the range’s excitement and fun to both casual and seasoned players.
+- International products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B9T3Y3VM{{</world>}}

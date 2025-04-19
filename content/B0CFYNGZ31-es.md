@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El código de Ubisoft Connect del paquete Mitológico se enviará en un correo electrónico de Amazon.
 - Just Dance 2024 Edition cuenta con 40 canciones, desde los últimos éxitos a los clásicos más queridos, ¡incluidos «Flowers» de Miley Cyrus, «Tití Me Preguntó» de Bad Bunny, «How You Like That» de BLACKPINK y «I Wanna Dance With Somebody» de Whitney Houston!
+- El lote incluye la edición estándar de Just Dance 2024 Edition (código en caja) y el paquete Mitológico (código de Ubisoft Connect).
+- El código de Ubisoft Connect del paquete Mitológico se enviará en un correo electrónico de Amazon.
 - Para conseguir el paquete Mitológico, los apartados «Envío desde» y «Vendido por» deben indicar «Amazon».
 - Solo código de descarga. Este producto no incluye una tarjeta de juego o un disco. Se necesita conexión a internet, una cuenta de Ubisoft, una cuenta de la consola correspondiente y una suscripción a la plataforma (se vende por separado).
-- El lote incluye la edición estándar de Just Dance 2024 Edition (código en caja) y el paquete Mitológico (código de Ubisoft Connect).
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CFYNGZ31{{</world>}}

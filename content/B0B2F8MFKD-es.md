@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Explora un planeta inexplorado con la ayuda de tus habilidades. Dispara, salta, usa el tablero o vuela para superar todos los retos y avanzar hasta el núcleo del planeta.
-- Mejora tus habilidades con potenciadores permanentes repartidos por todo el planeta. Explora todos los rincones para encontrar caminos ocultos u objetos que te ayuden en tu aventura.
 - Compra objetos en la tienda con los shpirti (espíritus de enemigos muertos) que consigues matando enemigos o encontrando cofres ocultos.
 - Encuentra las puertas de Echo y supera su desafío inspirado en los grandes clásicos de los videojuegos. Conoce a personajes intrigantes que pueden ayudarte en tu aventura o complicarte las cosas.
+- Explora un planeta inexplorado con la ayuda de tus habilidades. Dispara, salta, usa el tablero o vuela para superar todos los retos y avanzar hasta el núcleo del planeta.
+- Mejora tus habilidades con potenciadores permanentes repartidos por todo el planeta. Explora todos los rincones para encontrar caminos ocultos u objetos que te ayuden en tu aventura.
 - Resuelve los puzles repartidos por el planeta para conseguir premios, objetos o mejoras que te permitan continuar tu viaje. Una banda sonora cautivadora y atmosférica de ZeeWave Sound.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

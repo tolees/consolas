@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- WRC efectua la transición a la era híbrida. Afecta al rendimiento, cambia las estrategias y obliga a pilotos y escuderías a adaptarse. Para ganar, tendrás que gestionar con cuidado tu batería adaptando el mapa del motor durante las etapas especiales en las que participes
-- WRC Generations es un videojuego de carreras de rallies con licencia oficial del campeonato del WRC 2022. Simulador completo, realista y exigente, permitiendo al usuario sumergirse de lleno en la acción y pilotar los coches del mundial, incluyendo los nuevos modelos híbridos, para las cuales se han integrado nuevas mecánicas para representar las exigencias de este cambio de paradigma
-- El nuevo modo Ligas permite a los jugadores desafiar online a rivales de nivel similar
-- Entorno totalmente rediseñado para el Rally Sweden, con 6 nuevas etapas especiales en la región de Umea
 - WRC Generations incluye más contenido que ningún otro juego de rallies de la historia: 750 km de etapas especiales únicas en 22 países, 49 escuderías de la temporada 2022 (Rally1/Rally2/Junior WRC), 37 coches legendarios y extras adicionales, 165 etapas especiales cronometradas
+- WRC Generations es un videojuego de carreras de rallies con licencia oficial del campeonato del WRC 2022. Simulador completo, realista y exigente, permitiendo al usuario sumergirse de lleno en la acción y pilotar los coches del mundial, incluyendo los nuevos modelos híbridos, para las cuales se han integrado nuevas mecánicas para representar las exigencias de este cambio de paradigma
+- Entorno totalmente rediseñado para el Rally Sweden, con 6 nuevas etapas especiales en la región de Umea
+- WRC efectua la transición a la era híbrida. Afecta al rendimiento, cambia las estrategias y obliga a pilotos y escuderías a adaptarse. Para ganar, tendrás que gestionar con cuidado tu batería adaptando el mapa del motor durante las etapas especiales en las que participes
+- El nuevo modo Ligas permite a los jugadores desafiar online a rivales de nivel similar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BDFXM832{{</world>}}

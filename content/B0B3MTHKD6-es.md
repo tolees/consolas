@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 2 soportes de personajes
 - Pegatinas
 - Caja exclusiva con lenticular
+- 2 soportes de personajes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B3MTHKD6{{</world>}}

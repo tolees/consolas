@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ergonomic controller with standard button layout and Scorbunny design
-- Wireless freedom using Bluetooth 5.0
-- Play your favorite Nintendo Switch games* in style with this officially licensed PowerA Enhanced Wireless Controller featuring Scorbunny from Pokémon Sword and Pokémon Shield, motion controls, and two mappable Advanced Gaming Buttons.
 - LEDs for player number, button mapping, and low battery warning
+- Play your favorite Nintendo Switch games* in style with this officially licensed PowerA Enhanced Wireless Controller featuring Scorbunny from Pokémon Sword and Pokémon Shield, motion controls, and two mappable Advanced Gaming Buttons.
 - Features motion controls and mappable Advanced Gaming Buttons
+- Wireless freedom using Bluetooth 5.0
+- Ergonomic controller with standard button layout and Scorbunny design
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B084B7GGNW{{</world>}}
