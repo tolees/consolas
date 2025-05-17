@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La clásica combinación de colores de Super Mario añade una energía alegre y divertida a cualquier sesión de juego.
-- Mando con cable con diseño de botones intuitivo
-- Cruceta con forma de + y ocho direcciones
-- Botones disparadores frontales izquierdo/derecho y gatillos (L/R/ZL/ZR)
-- Incluye cable micro-USB a USB-A de 2,4 m (8 pies)
 - Dos controles analógicos con precisión optimizada
-- Ergonomía cómoda para manos de todos los tamaños
-- Botones de sistema Switch (+, -, Home, Capture)
-- Diseño de botones ABXY Nintendo (más grande que el Joy-Con)
+- Cruceta con forma de + y ocho direcciones
+- Incluye cable micro-USB a USB-A de 2,4 m (8 pies)
+- Botones disparadores frontales izquierdo/derecho y gatillos (L/R/ZL/ZR)
+- La clásica combinación de colores de Super Mario añade una energía alegre y divertida a cualquier sesión de juego.
 - LED de estado de conexión
+- Ergonomía cómoda para manos de todos los tamaños
+- Diseño de botones ABXY Nintendo (más grande que el Joy-Con)
+- Mando con cable con diseño de botones intuitivo
+- Botones de sistema Switch (+, -, Home, Capture)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BTMTR9BG{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Múltiples finales posibles en función de las decisiones del jugador
 - Niveles semiabiertos con misiones secundarias que completar
+- Un árbol de habilidades para mejorar tus capacidades a medida que subas de nivel
+- Sensor térmico, visión nocturna y otras mejoras robóticas para usar en combate y durante las fases de investigación
 - 20 armas disponibles para saquear de los enemigos
 - RoboCop cuenta con la voz del actor original, Peter Weller
-- Sensor térmico, visión nocturna y otras mejoras robóticas para usar en combate y durante las fases de investigación
-- Un árbol de habilidades para mejorar tus capacidades a medida que subas de nivel
+- Múltiples finales posibles en función de las decisiones del jugador
 - Una mecánica de juego que rivaliza con los mejores FPS, repleta de escenas de acción inolvidables
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
