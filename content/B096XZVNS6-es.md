@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Lucha contra una amenaza alienígena letal y en constante evolució
-- Lidera a agentes de élite de Rainbow Six en modo cooperativo o en solitario
 - Arriésgalo todo en zonas de contención impredecibles
+- Lidera a agentes de élite de Rainbow Six en modo cooperativo o en solitario
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096XZVNS6{{</world>}}

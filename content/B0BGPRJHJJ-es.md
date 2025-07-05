@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Conexión ultrarrápida SLIPSTREAM WIRELESS: SLIPSTREAM WIRELESS ofrece una conexión inalámbrica inferior a 1 ms con su PC o Mac; como alternativa, también puede conectarse mediante la versátil tecnología Bluetooth y USB con cable.
+- Botones CORSAIR QUICKSTRIKE: Su diseño de tensión por muelles con cero espacio entre los botones principales del ratón y sus conmutadores OMRON hace que todos sus clics, disparos y hechizos sean más rápidos que nunca.
+- Sensor óptico de 26.000 PPP CORSAIR MARKSMAN: Gracias a unos asombrosos 26.000 PPP nativos y un seguimiento de 650 pulgadas por segundo (IPS), así como una aceleración de hasta 50 G, el sensor MARKSMAN capta todos los movimientos del ratón.
 - Batería recargable con una duración de hasta 110 horas*: Con una sola carga podrá jugar sin interrupciones, partida tras partida. * Batería de 110 horas de duración con Bluetooth. Duración de la batería de 60 horas con SLIPSTREAM WIRELESS.
 - Ultraligero, solo 69 g: Permite realizar movimientos de ratón con gran agilidad y sin esfuerzo para sesiones de juego prolongadas.
-- Sensor óptico de 26.000 PPP CORSAIR MARKSMAN: Gracias a unos asombrosos 26.000 PPP nativos y un seguimiento de 650 pulgadas por segundo (IPS), así como una aceleración de hasta 50 G, el sensor MARKSMAN capta todos los movimientos del ratón.
-- Botones CORSAIR QUICKSTRIKE: Su diseño de tensión por muelles con cero espacio entre los botones principales del ratón y sus conmutadores OMRON hace que todos sus clics, disparos y hechizos sean más rápidos que nunca.
-- Conexión ultrarrápida SLIPSTREAM WIRELESS: SLIPSTREAM WIRELESS ofrece una conexión inalámbrica inferior a 1 ms con su PC o Mac; como alternativa, también puede conectarse mediante la versátil tecnología Bluetooth y USB con cable.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGPRJHJJ{{</world>}}
