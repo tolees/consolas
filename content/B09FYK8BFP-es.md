@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- The ultimate test for survival is found in the labyrinth. Terrifying monsters lurk in the shadows. Criminals with mysterious powers are out to thwart your efforts.
 - Cut through the walls and create your own path as you battle for your life in the depths of Yomi
 - The test of your survival skills begins now: A new generation of explorers flock to the colossal superstructure, Yomi, in hopes of striking the "mother lode"
 - Can you be victorious and rise above the shadows?
+- The ultimate test for survival is found in the labyrinth. Terrifying monsters lurk in the shadows. Criminals with mysterious powers are out to thwart your efforts.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09FYK8BFP{{</world>}}

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Más de 100 premios y nominaciones
-- Un cuento con los pies en la tierra presa de fuerzas sobrenaturales
 - Escabúllete, lucha y desata impresionantes plagas de ratas
-- Sumérgete en impresionantes efectos visuales combinados con una cautivadora banda sonora
+- Un cuento con los pies en la tierra presa de fuerzas sobrenaturales
 - Incluye un STEELBOOK con arte exclusivo
+- Sumérgete en impresionantes efectos visuales combinados con una cautivadora banda sonora
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHL9H8ST{{</world>}}

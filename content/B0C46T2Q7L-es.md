@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- GRÁFICOS Y SONIDO INMERSIVOS: Gráficos pixelados hechos a mano que capturan la esencia de Bud Spencer y Terence Hill, acompañados de la música original de Oliver Onions. Disfruta de voces en español, inglés, italiano y alemán, con doblaje de calidad que revive a los personajes icónicos.
 - MODO DE JUEGO DINÁMICO: Participa en el modo cooperativo local para 2 jugadores o compite en minijuegos para hasta 4 jugadores. Experimenta diversas mecánicas de juego en una aventura llena de acción y risas.
+- GRÁFICOS Y SONIDO INMERSIVOS: Gráficos pixelados hechos a mano que capturan la esencia de Bud Spencer y Terence Hill, acompañados de la música original de Oliver Onions. Disfruta de voces en español, inglés, italiano y alemán, con doblaje de calidad que revive a los personajes icónicos.
 - CARACTERÍSTICAS PRINCIPALES: Disfruta de la secuela de Bud Spencer & Terence Hill en Slaps and Beans 2, con un sistema de combate mejorado y una aventura que te llevará a recorrer el mundo. Incluye minijuegos competitivos y gráficos pixelados hechos a mano.
-- CONTENIDO EXCLUSIVO: Slaps and Beans 2 viene cargado de extras, como un mini artbook, un póster de película y una portada reversible de Renato Casaro. Estos añadidos hacen del juego un regalo perfecto para los aficionados.
 - HISTORIA AVENTURERA: Embárcate en una aventura global tras naufragar en África, con Bud y Terence enfrentándose a mafiosos, ninjas y soldados. Una sinopsis llena de giros inesperados, humor y acción que te mantendrá pegado a la pantalla.
+- CONTENIDO EXCLUSIVO: Slaps and Beans 2 viene cargado de extras, como un mini artbook, un póster de película y una portada reversible de Renato Casaro. Estos añadidos hacen del juego un regalo perfecto para los aficionados.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C46T2Q7L{{</world>}}

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Pon tu instinto de supervivencia a prueba, y toma decisiones morales implacables
-- Explore devastated environments based on real issues
-- Encuentra nuevas guaridas para estar a salvo de amenazas naturales y no naturales
 - Caza otros animales para alimentar a tus cachorros, y evita convertirte en la presa
+- Encuentra nuevas guaridas para estar a salvo de amenazas naturales y no naturales
+- Explore devastated environments based on real issues
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B1MTG8D8{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 50 jeux de société
-- Niveaux de boss: après avoir terminé les niveaux de puzzle, le jeu se réchauffe avec de sérieuses batailles de boss
 - Les niveaux de puzzle conduisent les boss à attendre leur match!
+- Niveaux de boss: après avoir terminé les niveaux de puzzle, le jeu se réchauffe avec de sérieuses batailles de boss
+- 50 jeux de société
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07VDDFYJD{{</world>}}

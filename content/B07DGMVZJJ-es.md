@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Steelbook Battlefield 5
 - No incluye juego
+- Steelbook Battlefield 5
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07DGMVZJJ{{</world>}}

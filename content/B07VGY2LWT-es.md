@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Su diseño incluye la sofisticada función de vibración HD, que ofrece una vibración mucho más realista que antes, y permite utilizar uno en cada mano o compartirlos con un amigo; además de poder incorporarlos al armazón para controles Joy-Con (venta por separado) que los transformará en un mando de estilo tradicional
-- Cada Joy-Con contiene sus propios botones, sensor de acelerómetro y sensor de movimiento que posibilita que puedan funcionar como un mando independiente
-- Además, los Joy-Con integran nuevas prestaciones que hacen de Nintendo Switch más interactiva. Por un lado, el Joy-Con izquierdo tiene un botón de captura para hacer capturas de pantalla durante tus partidas y compartirlas a través de las redes sociales. El Joy-Con derecho, por su parte, dispone de un punto NFC para usar figuras amiibo, así como una cámara infrarroja de movimiento que detecta la distancia, forma y movimiento de objetos cercanos en los juegos diseñados para esta tecnología
 - Con los nuevos mandos Joy-Con para Nintendo Switch tendrás flexibilidad total a la hora de jugar y descubrirás nuevas formas de interactuar que transformarán por completo tus experiencias de juego
+- Su diseño incluye la sofisticada función de vibración HD, que ofrece una vibración mucho más realista que antes, y permite utilizar uno en cada mano o compartirlos con un amigo; además de poder incorporarlos al armazón para controles Joy-Con (venta por separado) que los transformará en un mando de estilo tradicional
+- Además, los Joy-Con integran nuevas prestaciones que hacen de Nintendo Switch más interactiva. Por un lado, el Joy-Con izquierdo tiene un botón de captura para hacer capturas de pantalla durante tus partidas y compartirlas a través de las redes sociales. El Joy-Con derecho, por su parte, dispone de un punto NFC para usar figuras amiibo, así como una cámara infrarroja de movimiento que detecta la distancia, forma y movimiento de objetos cercanos en los juegos diseñados para esta tecnología
+- Cada Joy-Con contiene sus propios botones, sensor de acelerómetro y sensor de movimiento que posibilita que puedan funcionar como un mando independiente
 - Set compuesto por un mando Joy-Con morado neón (Izquierda), un mando Joy-Con naranja neón (Derecha) y dos correas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

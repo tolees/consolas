@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estamos en el año 2019.
 - Roxanne y Slayter, hijos del legendario Rex Power Colt, se dirigen hacia la 4ª guerra de Vietnam para devolver la libertad y salvar el mundo.
+- Estamos en el año 2019.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B085SP1CHZ{{</world>}}

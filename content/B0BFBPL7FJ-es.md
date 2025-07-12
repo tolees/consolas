@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - BATALLA DE ROL: Recluta a los aldeanos del pueblo y otras criaturas para explorar las peligrosas mazmorras y enfrentarte a los temibles monstruos con un arsenal de armas como lanzas, martillos y hasta hechizos. ¡La victoria está a tu alcance!
-- ENTRE DOS MUNDOS: Encarna a Micah, un joven con amnesia que tiene la capacidad de transformarse en una criatura similar a una oveja. Su misión: forjar una convivencia pacífica entre la humanidad y los misteriosos monstruos.
-- EDICIÓN DE COLECCIONISTA: Esta edición limitada ofrece exclusivos obsequios de coleccionista, entre los que se incluye un cuaderno A5, un póster A3, un set de pegatinas, 2 pines y un parche bordado. ¡Disfruta de estos tesoros únicos!
 - CULTIVA TU VIDA: Disfruta de emocionantes aventuras en la granja cuidando de tus animales, pescando y cosechando las semillas mágicas con habilidades sorprendentes que transformarán tu experiencia en una aventura única.
+- ENTRE DOS MUNDOS: Encarna a Micah, un joven con amnesia que tiene la capacidad de transformarse en una criatura similar a una oveja. Su misión: forjar una convivencia pacífica entre la humanidad y los misteriosos monstruos.
 - ENCUENTRA EL AMOR: Conoce a las encantadoras candidatas a través de diálogos y misiones, enamórate y celebra el amor por todo lo alto en una espectacular boda. ¡Deja que el corazón guíe tu camino y construye una familia!
+- EDICIÓN DE COLECCIONISTA: Esta edición limitada ofrece exclusivos obsequios de coleccionista, entre los que se incluye un cuaderno A5, un póster A3, un set de pegatinas, 2 pines y un parche bordado. ¡Disfruta de estos tesoros únicos!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BFBPL7FJ{{</world>}}

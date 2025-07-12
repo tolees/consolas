@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Un bello mundo de fantasía con gráficos deslumbrantes; óptima sistema de combate y tensas batallas de jefe
-- Un sistema de habilidades por misiones propio de cada personaje aporta al juego más profundidad y variedad que nunca
-- Exprésate: engalana a los héroes de Trine con atuendos personalizables
-- Aventura en 2.5D de la famosísima saga de rompecabezas y plataformas; juega en solitario o une fuerzas en cooperativo local o en línea (1-4 jugadores)
 - Salva al reino de una catástrofe mecánica en la historia más mágica de la saga Trine, con villanos infames y aliados inolvidables
+- Aventura en 2.5D de la famosísima saga de rompecabezas y plataformas; juega en solitario o une fuerzas en cooperativo local o en línea (1-4 jugadores)
+- Exprésate: engalana a los héroes de Trine con atuendos personalizables
+- Un sistema de habilidades por misiones propio de cada personaje aporta al juego más profundidad y variedad que nunca
+- Un bello mundo de fantasía con gráficos deslumbrantes; óptima sistema de combate y tensas batallas de jefe
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C27VN8FX{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Resiste y sobrevive
-- Gráficos mejorados, carga rápida, respuesta háptica, gatillo adaptativos y audio 3D
 - Revive el aclamado juego que lo cambió todo para la consola PlayStation5
 - Disfruta de la emotiva historia y los inolvidables personajes de The Last of Us
+- Gráficos mejorados, carga rápida, respuesta háptica, gatillo adaptativos y audio 3D
+- Resiste y sobrevive
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B3RZPMHY{{</world>}}

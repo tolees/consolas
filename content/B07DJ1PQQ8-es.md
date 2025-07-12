@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- A Land of myths & legends – Discover a world rich with myths and legends. From ancient rituals to famed statues, come face-to-face with Greece’s legendary figures.
+- Sail across the Aegean sea - Find uncharted locations, uncover hidden treasures or cleave your way through entire fleets in naval battles
+- Become a legendary Greek hero - In a first for the Assassins Creed franchise, you can choose which hero to embody throughout this epic journey, Alexios or Kassandra
 - Choose your own path - Your decisions shape the world around you with over 30 hours of choice dialogue and multiple game endings
 - Fight epic battles - Demonstrate your extraordinary warrior abilities and shift the tides of battle during the Peloponnesian War
-- Become a legendary Greek hero - In a first for the Assassins Creed franchise, you can choose which hero to embody throughout this epic journey, Alexios or Kassandra
-- Sail across the Aegean sea - Find uncharted locations, uncover hidden treasures or cleave your way through entire fleets in naval battles
+- A Land of myths & legends – Discover a world rich with myths and legends. From ancient rituals to famed statues, come face-to-face with Greece’s legendary figures.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07DJ1PQQ8{{</world>}}

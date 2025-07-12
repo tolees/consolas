@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Resistencia de la palanca ajustable con reposamanos grande
-- Funciona en Xbox Series X|S
-- Diseño ergonómico perfectamente adaptado para todos los tipos de simulación de vuelo (aventura espacial, combate moderno, aviones de guerra, vuelo civil)
-- Completo equipo de vuelo: 5 ejes + 14 botones de acción + 1 gatillo de disparo rápido + 1 hat switch multidireccional (navegación/vista panorámica)
-- Mando de potencia desmontable de tamaño real para lograr una maniobrabilidad sencilla, incluso en la realidad virtual
 - El primer joystick oficial para Xbox One y Windows, con los botones oficiales para la consola Xbox One.
+- Mando de potencia desmontable de tamaño real para lograr una maniobrabilidad sencilla, incluso en la realidad virtual
+- Completo equipo de vuelo: 5 ejes + 14 botones de acción + 1 gatillo de disparo rápido + 1 hat switch multidireccional (navegación/vista panorámica)
+- Resistencia de la palanca ajustable con reposamanos grande
+- Diseño ergonómico perfectamente adaptado para todos los tipos de simulación de vuelo (aventura espacial, combate moderno, aviones de guerra, vuelo civil)
+- Funciona en Xbox Series X|S
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B075S7LG8X{{</world>}}

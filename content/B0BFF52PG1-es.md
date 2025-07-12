@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- C-C-C-Combo Maker! – As you make your way around the lands of Gamindustri, youll encounter a multitude of enemies - its time to fight! Employ combos and chain your attacks together in real-time. Take control of the battlefield in a unique tactical action battle system!
 - Do You Hear the People Chirp? – In the wake of the devastation wrought by the Trendi Phenomenon, the vast majority of the population has turned to the rPhone for all manner of daily life, including communication. On your journey, connect to the Chirper social network to take on a variety of side quests put out by those in need and earn special rewards!
-- Get the Planeptune Look – Throughout the game youll discover fun accessories to deck out and customize your party members. After completing the game for the first time, you can show off your style in the new Photo Mode! Youll also unlock two BRAND NEW characters created by two legendary game developers - Higurashi from Ryukishi07 and Shanghai Alice from ZUN!
 - Match Game 23 – On the battlefield you can have three party members out at a time. Match up your team members with a partner for stat increases and elemental bonuses. The stronger the bond, the better the bonus!
+- C-C-C-Combo Maker! – As you make your way around the lands of Gamindustri, youll encounter a multitude of enemies - its time to fight! Employ combos and chain your attacks together in real-time. Take control of the battlefield in a unique tactical action battle system!
+- Get the Planeptune Look – Throughout the game youll discover fun accessories to deck out and customize your party members. After completing the game for the first time, you can show off your style in the new Photo Mode! Youll also unlock two BRAND NEW characters created by two legendary game developers - Higurashi from Ryukishi07 and Shanghai Alice from ZUN!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BFF52PG1{{</world>}}

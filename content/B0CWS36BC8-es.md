@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ARTEFACTOS MISTERIOSOS: Encuentra artefactos de gran poder escondidos en los rincones más oscuros del mundo. Utilízalos para dominar a tus enemigos y avanzar en tu misión en este fascinante juego de Nintendo Switch.
-- TECNOLOGÍA LEGENDARIA: Impulsado por la legendaria tecnología Quake 1, WRATH ofrece una experiencia auténtica de FPS clásico. Sumérgete en la música inquietante de Andrew Hulshult y revive la esencia de los shooters de los años 90 en tu consola Nintendo Switch.
 - ARMAS PODEROSAS: Equípate con un arsenal de armas mortales, cada una con múltiples modos de disparo. Domina estas herramientas de destrucción para abrirte camino a través de antiguos criptas y templos corrompidos en este emocionante videojuego para Nintendo Switch.
+- TECNOLOGÍA LEGENDARIA: Impulsado por la legendaria tecnología Quake 1, WRATH ofrece una experiencia auténtica de FPS clásico. Sumérgete en la música inquietante de Andrew Hulshult y revive la esencia de los shooters de los años 90 en tu consola Nintendo Switch.
 - ENEMIGOS FORMIDABLES: Enfréntate a numerosos y poderosos enemigos que acechan en las sombras. Tu ingenio y habilidad serán cruciales para sobrevivir en este desafiante juego de acción.
+- ARTEFACTOS MISTERIOSOS: Encuentra artefactos de gran poder escondidos en los rincones más oscuros del mundo. Utilízalos para dominar a tus enemigos y avanzar en tu misión en este fascinante juego de Nintendo Switch.
 - EXPLORA UN MUNDO OSCURO: Adéntrate en un vasto mundo lleno de oscuridad y misterio, meticulosamente creado por expertos de la escena Quake. Descubre secretos olvidados y enfréntate a horrores inimaginables en este juego para Nintendo Switch.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

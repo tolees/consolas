@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PS4
 - NFS Hot Pursuit Remastered PS4
 - Pegi
+- PS4
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08BD86SLC{{</world>}}

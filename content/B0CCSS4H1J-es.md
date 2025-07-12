@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Se te plantearán decisiones desafiantes que afectarán drásticamente a tu historia y al destino de los habitantes de New Eden, ya sean personas vivas o almas errantes
 - Hasta qué punto comprometerás tu promesa de cazar fantasmas por el bien de tu amante, convertida en uno de esos espíritus
+- Usa tu ingenio o combina los poderes espirituales de Antea y el arsenal de Red para derrotar y desterrar a las almas que atormentan a los vivos
 - Entra en la vida de las comunidades de New Eden como Banisher y resuelve casos de presencias en un mundo místico y rico en historias plagado de criaturas sobrenaturales y secretos antiguos
 - Sumérgete en una historia hermosa, íntima y poderosa entre dos amantes predestinados
-- Se te plantearán decisiones desafiantes que afectarán drásticamente a tu historia y al destino de los habitantes de New Eden, ya sean personas vivas o almas errantes
-- Usa tu ingenio o combina los poderes espirituales de Antea y el arsenal de Red para derrotar y desterrar a las almas que atormentan a los vivos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CCSS4H1J{{</world>}}

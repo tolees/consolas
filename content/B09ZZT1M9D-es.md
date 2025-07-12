@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Videojuego para XBOX
 - El paquete incluye una bonificación de precompra
+- Videojuego para XBOX
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09ZZT1M9D{{</world>}}

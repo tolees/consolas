@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gracias a los controles mediante botones, tanto los recién llegados como los jugadores expertos pueden golpear la bola de manera efectiva y sencilla. Solo hay que apuntar, elegir la potencia del golpe y ¡allá que va la bola!
-- Únete a tus personajes favoritos del Reino Champiñón y juega partidas de golf a toda velocidad en Mario Golf: Super Rush
 - Saca ventaja a los rivales en el modo "Golf rápido", en el que todos los jugadores lanzan al mismo tiempo y luego salen corriendo hasta el hoyo
-- Desde recorridos tradicionales hasta otros repletos de obstáculos, cada partida de golf es completamente distinta.
-- También puedes sujetar el mando Joy-Con como un palo de golf y usar los controles por movimiento. El personaje imitará tus movimientos dentro del juego ¡y te sentirás como si estuvieras jugando al golf de verdad!
 - Elige entre distintos personajes del Reino Champiñón, cada uno con sus propios puntos fuertes y movimientos especiales únicos.
+- También puedes sujetar el mando Joy-Con como un palo de golf y usar los controles por movimiento. El personaje imitará tus movimientos dentro del juego ¡y te sentirás como si estuvieras jugando al golf de verdad!
+- Gracias a los controles mediante botones, tanto los recién llegados como los jugadores expertos pueden golpear la bola de manera efectiva y sencilla. Solo hay que apuntar, elegir la potencia del golpe y ¡allá que va la bola!
+- Desde recorridos tradicionales hasta otros repletos de obstáculos, cada partida de golf es completamente distinta.
+- Únete a tus personajes favoritos del Reino Champiñón y juega partidas de golf a toda velocidad en Mario Golf: Super Rush
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08WY8JGPG{{</world>}}

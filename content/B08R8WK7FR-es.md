@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Licencia oficial de Nintendo
 - Conexión inalámbrica mediante Bluetooth
-- Autonomía: hasta 15 h / Alcance: hasta 10 m
 - Acelerómetro y giroscopio
+- Licencia oficial de Nintendo
+- Autonomía: hasta 15 h / Alcance: hasta 10 m
 - Batería recargable integrada con LED indicador de nivel de carga
 
 [🛒 Visítala!!!]({{< param buyurl >}})

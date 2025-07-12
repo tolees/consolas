@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Formato 60% con resistente estructura de aluminio: Formato mini compacto que se adapta fácilmente incluso a los espacios más reducidos, tanto en casa como fuera, y cuenta con una resistente estructura de aluminio.
 - Batería de larga duración con RGB en cada tecla y LightEdge 360°: Disfrute de hasta 32 horas de batería inalámbrica con la vibrante retroiluminación RGB y un intenso LightEdge 360°, o bien vaya hasta el final y disfrute de hasta 200 horas con la retroiluminación apagada.
-- Personalización con interruptores de teclas CHERRY MX Red intercambiables: Equipado con interruptores de teclas CHERRY MX con garantía de 100 millones de pulsaciones, suaves, de diseño modular y fácilmente intercambiables con cualquier combinación de interruptores de 3 patillas compatibles con MX.
 - Conviértalo en algo personal: Un teclado inalámbrico para juegos de alto rendimiento en el formato compacto 60%, de gran personalización, con interruptores MX intercambiables y LightEdge RGB 360°.
 - Tres formas de conexión: Potente conectividad inalámbrica con la tecnología ultrarrápida SLIPSTREAM WIRELESS inferior a 1 ms, Bluetooth de baja latencia o cableado USB con sondeo CORSAIR AXON de 8.000 Hz.
+- Formato 60% con resistente estructura de aluminio: Formato mini compacto que se adapta fácilmente incluso a los espacios más reducidos, tanto en casa como fuera, y cuenta con una resistente estructura de aluminio.
+- Personalización con interruptores de teclas CHERRY MX Red intercambiables: Equipado con interruptores de teclas CHERRY MX con garantía de 100 millones de pulsaciones, suaves, de diseño modular y fácilmente intercambiables con cualquier combinación de interruptores de 3 patillas compatibles con MX.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B64BHVL2{{</world>}}

@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Videojuego para PS5
 - El paquete incluye una bonificación de precompra
+- Videojuego para PS5
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B12NQBHF{{</world>}}
