@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 0
-- 0
-- 0
 - M65RGBULTRAWIRELESSWHITE
+- 0
+- 0
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BL3WKCYW{{</world>}}

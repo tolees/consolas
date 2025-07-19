@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- MODOS DE JUEGO INMERSIVOS: Con una mezcla de estrategia, exploración y combate, enfrenta peligrosas mazmorras llenas de enemigos y tesoros. La cooperación y la táctica son clave para superar cada desafío.
 - PERSONALIZACIÓN AVANZADA: Selecciona y personaliza tu grupo de estudiantes en Class of Heroes 1 & 2 - Complete Edition. Elige entre 10 razas y 18 clases para formar el equipo definitivo y enfrentarte a más de 250 enemigos. Personaliza nombres, género, y distribuye habilidades para una estrategia única.
 - HISTORIA ENVOLVENTE: Sumérgete en una narrativa rica con Class of Heroes 1 & 2. Aventúrate en más de 100 mapas laberínticos, descubre artefactos y viajes interdimensionales. Vive la vida de un estudiante de la Academia y conviértete en un verdadero héroe en esta edición completa.
 - CONTENIDO EXCLUSIVO: Incluye ambos juegos: Class of Heroes 1 & 2, con recetas de alquimia, objetos equipables y sistemas de afinidad entre compañeros. ¡Todo lo necesario para tu aventura en Nintendo Switch!
 - GRÁFICOS Y NIVELES MEJORADOS: Disfruta de gráficos remasterizados y nuevos personajes en Class of Heroes 1 & 2 - Complete Edition. Cada nivel presenta desafíos únicos y la posibilidad de recoger y equipar objetos para mejorar tus habilidades.
+- MODOS DE JUEGO INMERSIVOS: Con una mezcla de estrategia, exploración y combate, enfrenta peligrosas mazmorras llenas de enemigos y tesoros. La cooperación y la táctica son clave para superar cada desafío.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CNS2GXRW{{</world>}}

@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Protege tu dispositivo Nintendo Switch con el poder entrañable de Kirby
-- Soporte de juego integrado para el modo de sobremesa
-- Botones de juego avanzado asignables
-- Toma de audio de 3,5 mm
 - Carcasa exterior sólida con asa de goma y cremalleras dobles resistentes
+- Toma de audio de 3,5 mm
+- Soporte de juego integrado para el modo de sobremesa
 - Celebra el aniversario de la criatura rosa más querida de todos con un asombroso diseño de Kirby
+- Botones de juego avanzado asignables
+- Protege tu dispositivo Nintendo Switch con el poder entrañable de Kirby
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B8YMMDG1{{</world>}}

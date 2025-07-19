@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Controlador Elite diseñado para la competición.
-- Compatible con PC (juegos de plataformas D-Input y STEAM), PlayStation 3, PlayStation 4.
 - Palanca de mando y gatillos analógicos.
+- Compatible con PC (juegos de plataformas D-Input y STEAM), PlayStation 3, PlayStation 4.
 - Conexión por cable para latencia cero
+- Controlador Elite diseñado para la competición.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07NX68PPT{{</world>}}

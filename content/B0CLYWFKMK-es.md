@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dentro hallarás un elegante cofre con cuatro monedas conmemorativas, una caja expositora, postal ilustrada, código de descarga de la banda sonora, certificado de autenticidad y pegatinas de logotipos de videojuegos
 - Evoland te lleva de los gráficos monocromáticos a los completamente tridimensionales y de las batallas en tiempo activo a los combates contra jefes en tiempo real, todo ello con mucho humor y referencias a muchos juegos clásicos.
-- Inspirado en muchas series de culto que han dejado huella en la cultura de los videojuegos RPG.
-- Explora diferentes épocas y cambia la historia del mundo
+- Dentro hallarás un elegante cofre con cuatro monedas conmemorativas, una caja expositora, postal ilustrada, código de descarga de la banda sonora, certificado de autenticidad y pegatinas de logotipos de videojuegos
 - El estilo gráfico de Evoland va cambiando a medida que viajas en el tiempo y su jugabilidad evoluciona a medida que avanzas en la historia.
+- Explora diferentes épocas y cambia la historia del mundo
+- Inspirado en muchas series de culto que han dejado huella en la cultura de los videojuegos RPG.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CLYWFKMK{{</world>}}

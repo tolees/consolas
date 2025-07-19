@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Limited to 5000 numbered copies + Certificate of authenticity Official game PixelHeart / Just For Games
-- Disfruta un modo de juego que no pasa de moda: domina el combate a varios niveles, derrota enemigos implacables y enfréntate a jefes épicos
 - Experimenta unos controles intuitivos y envolventes: un stick analógico derecho que controla tu arma, garantizándote una amplia variedad de movimientos
 - Únete a una banda de simpáticos guerreros en una aventura sangrienta a través de una tierra llena de monstruos míticos y máquinas misteriosas; Juega solo o con amigos: hasta 4 jugadores en un modo cooperativo tanto local
+- Limited to 5000 numbered copies + Certificate of authenticity Official game PixelHeart / Just For Games
 - Atrévete con el sistema de combate libre: coordina combos, cambia de personaje en el aire y torna las habilidades de tus enemigos en su contra
+- Disfruta un modo de juego que no pasa de moda: domina el combate a varios niveles, derrota enemigos implacables y enfréntate a jefes épicos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08W35RDB9{{</world>}}

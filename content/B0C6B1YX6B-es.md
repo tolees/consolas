@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Huéspedes Carismáticos: Invita a osos y otros animales encantadores. Satisface sus necesidades para ganar reputación, dinero y nuevos clientes.
 - Creatividad sin Límites: Decenas de habitaciones y opciones de diseño. Dale vida a tu hostal con muebles y entretenimientos únicos. ¡La imaginación es tu única restricción!
 - Historias en Crecimiento: Cada elección cuenta. Observa cómo tu hostal evoluciona, forma conexiones especiales y crea un refugio virtual inolvidable en Bear & Breakfast.
-- Gestión y Desafíos: Completa misiones para desbloquear ventajas y objetos. Maneja estratégicamente para atraer a más huéspedes y mejorar tu negocio.
-- Huéspedes Carismáticos: Invita a osos y otros animales encantadores. Satisface sus necesidades para ganar reputación, dinero y nuevos clientes.
 - Forja tu Refugio Boscoso: Eres el dueño del Bear & Breakfast. Construye y personaliza tu propio rincón acogedor en el corazón del bosque. Incluye: Carátula reversible + 6 postales premium + Banda sonora digital
+- Gestión y Desafíos: Completa misiones para desbloquear ventajas y objetos. Maneja estratégicamente para atraer a más huéspedes y mejorar tu negocio.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C6B1YX6B{{</world>}}

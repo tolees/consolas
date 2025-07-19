@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forma ergonómica del mando con cable con una disposición de botones estándar
 - Licencia oficial de Nintendo
+- Forma ergonómica del mando con cable con una disposición de botones estándar
+- Cable USB de 3 m extraíble con correa de velcro
 - Diseño negro mate
 - Licencia oficial de Nintendo
-- Cable USB de 3 m extraíble con correa de velcro
 - Forma ergonómica del mando con cable con una disposición de botones estándar
 - Cable USB de 3 m extraíble con correa de velcro
 

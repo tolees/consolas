@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pista de voz en inglés y japonés
 - A la venta en PS4 y Nintendo Switch
+- Pista de voz en inglés y japonés
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B098KBYDKD{{</world>}}

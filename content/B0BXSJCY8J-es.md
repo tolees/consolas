@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sumérgete de lleno en un combate tan técnico como variado, ¡Esquiva, bloquea, defiéndete y ataca! Aprende a conquistar a un amplio elenco de monstruos, pequeños y grandes, y encuentra nuevos y útiles objetos para ayudarte en tu camino
 - Durante tus viajes, irás reconstruyendo el manual de instrucciones del juego, Página a página, desvelarás mapas, consejos, técnicas especiales y los más profundos secretos, Si descubres todos y cada uno de ellos, tal vez ocurra algo
 - Dicen las historias que hay un gran tesoro oculto en algún lugar de esta tierra, ¿Estará quizá más allá de la puerta dorada, ¿O enterrado en las profundidades? Hay quien habla de un palacio sobre las nubes y de seres ancestrales con un poder increíble, ¿Qué encontrarás?
+- Sumérgete de lleno en un combate tan técnico como variado, ¡Esquiva, bloquea, defiéndete y ataca! Aprende a conquistar a un amplio elenco de monstruos, pequeños y grandes, y encuentra nuevos y útiles objetos para ayudarte en tu camino
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BXSJCY8J{{</world>}}

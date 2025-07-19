@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ESTRATEGIA: Elige entre una amplia selección de naves impresionantes, cada una con sus propias habilidades asombrosas que se pueden utilizar estratégicamente para defender el planeta Tierra.
-- CONOCE A TUS ENEMIGOS: ¡Enfréntate a tus enemigos y derrota hábilmente a la mayor amenaza de la humanidad, el Con-Humano! ¡Con un alto valor de rejugabilidad gracias a desafiantes combates contra jefes y niveles complejos!
 - DOS VERSIONES: Juego enfocado en el láser de bloqueo y jefes desafiantes, contiene tanto las versiones arcade originales como las nuevas versiones HD de RayStorm y RayCrisis, lo que hace un total de cuatro juegos incluidos.
-- HÉROE DE LA HISTORIA: Derrota a la mayor amenaza para la humanidad demostrando tus habilidades de disparo y abriéndote camino a través de intrincados niveles y batallas contra jefes que intentan obstaculizar tu camino para salvar finalmente la Tierra.
 - ATMÓSFERA: Paisajes en polígonos 3D, un imponente estilo artístico y un diseño de niveles con maravillosos colores que enganchan a la historia a la perfección. La música ha sido compuesta por el legendario equipo de sonido ZUNTATA de Taito.
+- ESTRATEGIA: Elige entre una amplia selección de naves impresionantes, cada una con sus propias habilidades asombrosas que se pueden utilizar estratégicamente para defender el planeta Tierra.
+- HÉROE DE LA HISTORIA: Derrota a la mayor amenaza para la humanidad demostrando tus habilidades de disparo y abriéndote camino a través de intrincados niveles y batallas contra jefes que intentan obstaculizar tu camino para salvar finalmente la Tierra.
+- CONOCE A TUS ENEMIGOS: ¡Enfréntate a tus enemigos y derrota hábilmente a la mayor amenaza de la humanidad, el Con-Humano! ¡Con un alto valor de rejugabilidad gracias a desafiantes combates contra jefes y niveles complejos!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BWDV8BTX{{</world>}}

@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Enfréntate a los mayores enemigos de Iron Man en combates repletos de acción donde todo está en juego
-- con los dos mandos de movimiento PlayStationMove, activa los reactores de repulsión de Iron Man y lánzate a surcar los cielos con un arsenal de armas icónicas de Iron Man al alcance de tus manos
-- Colócate el casco de VR de PlayStation para ponerte en la piel del Vengador Armado en una aventura original de Iron Man
 - Mejora la tecnología en el garaje de Tony Stark para personalizar la impresionante armadura de Iron Man y sus increíbles habilidades
+- Colócate el casco de VR de PlayStation para ponerte en la piel del Vengador Armado en una aventura original de Iron Man
+- con los dos mandos de movimiento PlayStationMove, activa los reactores de repulsión de Iron Man y lánzate a surcar los cielos con un arsenal de armas icónicas de Iron Man al alcance de tus manos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B083WWFGF6{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Libros Digitales: o Metal Gear Solid: Screenplay Book o Metal Gear Solid: Master Book o Metal Gear Solid 2: Screenplay Book o Metal Gear Solid 2: Master Book o Metal Gear Solid 3: Screenplay Book o Metal Gear Solid 3: Master Book o Metal Gear & Metal Gear 2: Screenplay Book o Metal Gear & Metal Gear 2: Master Book
-- Novelas Gráficas: o Metal Gear Solid: Digital Graphic Novel o Metal Gear Solid 2: Digital Graphic Novel
 - Juegos: o Metal Gear o Metal Gear 2: Solid Snake o Metal Gear Solid (Including VR Missions/Special Missions) o Metal Gear Solid 2: Sons of Liberty (HD Collection version) o Metal Gear Solid 3: Snake Eater (HD Collection version) o Metal Gear (NES/FC version) o Snakes Revenge
+- Novelas Gráficas: o Metal Gear Solid: Digital Graphic Novel o Metal Gear Solid 2: Digital Graphic Novel
 - Banda Sonora Digital: o Metal Gear Solid: Digital Soundtrack
+- Libros Digitales: o Metal Gear Solid: Screenplay Book o Metal Gear Solid: Master Book o Metal Gear Solid 2: Screenplay Book o Metal Gear Solid 2: Master Book o Metal Gear Solid 3: Screenplay Book o Metal Gear Solid 3: Master Book o Metal Gear & Metal Gear 2: Screenplay Book o Metal Gear & Metal Gear 2: Master Book
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C9BN871X{{</world>}}

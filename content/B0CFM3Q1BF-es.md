@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DECIDE BAJO PRESIÓN: Reúne a tus aliados, maximiza sus habilidades y gestiona recursos limitados. En los momentos cruciales tendrás que tomar decisiones, cambiando para siempre el destino de tu equipo.
-- ACCIÓN EN TERCERA PERSONA: Siente la emoción de enfrentarte en una perspectiva en tercera persona con las hordas de caminantes y con una gran variedad de instrumentos de combate, tanto cuerpo a cuerpo como a distancia.
-- ROMPE EL DESTINO: Altera la historia de AMCs The Walking Dead tejiendo tu propio camino a través de los acontecimientos de la serie. Salva al villano, acaba con el héroe... y vive con las consecuencias.
 - VIVE LA TENSIÓN: Defiende tu campamento, rescata a aquellas personas que encuentres en tu camino y pelea sin descanso. Se trata de la última oportunidad de mantenerte en pie en un estado roto, donde los zombies te acechan en todo momento.
+- ACCIÓN EN TERCERA PERSONA: Siente la emoción de enfrentarte en una perspectiva en tercera persona con las hordas de caminantes y con una gran variedad de instrumentos de combate, tanto cuerpo a cuerpo como a distancia.
 - UN EQUIPO DE ENSUEÑO: Crea tu equipo con más de 12 personajes icónicos de AMCs The Walking Dead, como Rick, Shane, Michonne, Carol, Daryl y muchos más. ¡Tú decides en quién confiar en un mundo repleto de zombies!
+- DECIDE BAJO PRESIÓN: Reúne a tus aliados, maximiza sus habilidades y gestiona recursos limitados. En los momentos cruciales tendrás que tomar decisiones, cambiando para siempre el destino de tu equipo.
+- ROMPE EL DESTINO: Altera la historia de AMCs The Walking Dead tejiendo tu propio camino a través de los acontecimientos de la serie. Salva al villano, acaba con el héroe... y vive con las consecuencias.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CFM3Q1BF{{</world>}}

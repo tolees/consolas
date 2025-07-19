@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con licencia oficial de Nintendo y garantía limitada de dos años: visita PowerA.com/Support
-- Toma de audio de 3,5 mm
-- Cable USB extraíble de 3 metros
 - Este diseño explosivo, una perfecta incorporación a cualquier configuración de juego, te recuerda que la rapidez lo es todo.
+- Cable USB extraíble de 3 metros
 - Botones de juego avanzado asignables
+- Toma de audio de 3,5 mm
 - No necesita pilas
+- Con licencia oficial de Nintendo y garantía limitada de dos años: visita PowerA.com/Support
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTMT6CK6{{</world>}}

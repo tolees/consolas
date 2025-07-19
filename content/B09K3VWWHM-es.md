@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Compatible con Nintendo Switch OLED Model 2021 únicamente. No ajusta a Nintendo Switch 2017, asegúrese que su modelo es correcto antes de comprar
 - La manija de adecuada con el diseño ergonómico prononciona un agarre cómodo para mejorar su experiencia de juego; Los recortes precisos garantizan un acceso completo a todos los botones y funciones sin quitar la carcasa
-- Contienen 2 piezas de pantalla protector de cristal templado para Switch OLED y herramientas para instalarlos fácilmente, 99.9% de transpariencia
 - La cubierta posterior es hecha de TPU suave que no rasca su switch, con la frontal hecha de material de nailon puede proteger su aparato para que no son rayado, roto ni sucio
+- Contienen 2 piezas de pantalla protector de cristal templado para Switch OLED y herramientas para instalarlos fácilmente, 99.9% de transpariencia
 - La tapa frontal extríble puede proteger efectivamente los botones de su Switch cuando no se está en uso, y eliminarlo cuando no se juega
 
 [🛒 Aquí!!!]({{< param buyurl >}})

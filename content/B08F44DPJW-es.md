@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Diamond-texture grip on back and metallic d-pad on front
-- Headset Dial for game audio or chat mute via 3.5mm stereo headset jack
 - Ergonomic video game controller with standard button layout including new Share button
+- Diamond-texture grip on back and metallic d-pad on front
 - Detachable 10ft (3m) USB cable with Velcro closure
 - Wired controller features dual rumble motors and mappable Advanced Gaming Buttons
+- Headset Dial for game audio or chat mute via 3.5mm stereo headset jack
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08F44DPJW{{</world>}}

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Continúa el viaje de Cal: Cal ya no es un padawan y se ha convertido en un poderoso caballero Jedi; Lleva consigo los recuerdos y las expectativas de la orden Jedi y su cruzada contra el imperio se ha ido tornando cada vez más peligrosa; Se acercan tiempos oscuros; Rodeado de s y viejos enemigos, tendrá que decidir hasta dónde está dispuesto a llegar para salvar a sus seres queridos
 - Disfruta del diseño del mando inalámbrico Xbox Carbon Black, que, con sus superficies esculpidas y su geometría refinada, hace que jugar sea más cómodo. Mantén el objetivo gracias a la superficie de agarre texturizada y a la cruceta híbrida.
+- Continúa el viaje de Cal: Cal ya no es un padawan y se ha convertido en un poderoso caballero Jedi; Lleva consigo los recuerdos y las expectativas de la orden Jedi y su cruzada contra el imperio se ha ido tornando cada vez más peligrosa; Se acercan tiempos oscuros; Rodeado de s y viejos enemigos, tendrá que decidir hasta dónde está dispuesto a llegar para salvar a sus seres queridos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C2ZM67S8{{</world>}}
