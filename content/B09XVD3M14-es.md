@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CONTROLLER HOLDER: Whether its your Xbox One, Ps5, Nintendo Switch gaming controller or tv remote, it can be held. Including the next-gen PS5 DualSense, Xbox Series X or Xbox Series S
 - TERMINATOR FANS: If youre a fan of T-800, this is the perfect gaming accessory for you. Admire your favourite character as it neatens up the room. As long as it fits into his little hands, it can be held. Its also a perfect gift
 - OFFICIAL TERMINATOR MERCHANDISE: Officially licensed by Terminator. The much-feared Terminator character as his robotic self, T-800 joins our hugely popular 8" tall Cable Guys range
+- CONTROLLER HOLDER: Whether its your Xbox One, Ps5, Nintendo Switch gaming controller or tv remote, it can be held. Including the next-gen PS5 DualSense, Xbox Series X or Xbox Series S
 - PHONE HOLDER: Designed to hold almost any gaming controller while they charge, its also a great phone stand for most mobile phones including iPhone, Samsung & Google Pixel. Keeps hold even with a phone case
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -29,12 +29,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - El mando de juego incluye una toma audio de 3,5 mm y botones de juego avanzados programables
-- Licencia oficial de Nintendo
-- Licencia oficial de Nintendo
 - No necesita pilas
+- No necesita pilas
+- Licencia oficial de Nintendo
 - Cable USB de 3 m extraíble
-- No necesita pilas
 - Cable USB extraíble de 3 m
+- Licencia oficial de Nintendo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08T7X1H9V{{</world>}}

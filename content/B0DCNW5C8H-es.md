@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ahora es posible cambiar entre diferentes fuentes, incluida la fuente predeterminada y una fuente basada en píxeles basada en la atmósfera del juego original.
+- Funciones de mejora adicionales para ampliar las opciones de juego, como desactivar los encuentros aleatorios y ajustar los multiplicadores de experiencia ganada entre 0 y 4. Sumérgete en el mundo del juego con extras suplementarios como el bestiario, la galería de ilustraciones y el reproductor de música.
 - ¡Jugabilidad mejorada! Incluye una interfaz de usuario modernizada, opciones de batalla automática y mucho más. Cambia la banda sonora entre la versión reorganizada, creada para el remaster de píxeles, o la versión original, que captura el sonido del juego original.
 - ¡Bellamente revivido con nuevos gráficos y sonido! Gráficos 2D de píxeles universalmente actualizados, incluidos los icónicos diseños de píxeles de los personajes de FINAL FANTASY creados por Kazuko Shibuya, la artista original y actual colaboradora. Banda sonora maravillosamente reajustada al fiel estilo FINAL FANTASY, supervisada por el compositor original Nobuo Uematsu.
-- Funciones de mejora adicionales para ampliar las opciones de juego, como desactivar los encuentros aleatorios y ajustar los multiplicadores de experiencia ganada entre 0 y 4. Sumérgete en el mundo del juego con extras suplementarios como el bestiario, la galería de ilustraciones y el reproductor de música.
+- Ahora es posible cambiar entre diferentes fuentes, incluida la fuente predeterminada y una fuente basada en píxeles basada en la atmósfera del juego original.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DCNW5C8H{{</world>}}

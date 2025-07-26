@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Convierte la misión en una aventura cooperativa para 2 jugadores con Agatha y el Gran Cerdo Sangrante.
-- Únete a Nika y acaba con todo lo que no mola a los mandos de MechaNika.
-- Administra tus recursos durante el combate y ejecuta combos interminables de manera estratégica para hacer cada vez más daño a tus enemigos.
-- Disfruta de una banda sonora original variada, dinámica e inmersiva.
 - la Edición Destroyem up de Colossus Down incluye: - Juego- Caja Especial “Desayuno Destructor”- Libro de Arte (90 páginas)- CD con la BSO- Pin de PVC- Set de pegatinas- 3 Mini Cómics- Washi Tape- Colección de tarjetas de combate
+- Administra tus recursos durante el combate y ejecuta combos interminables de manera estratégica para hacer cada vez más daño a tus enemigos.
+- Únete a Nika y acaba con todo lo que no mola a los mandos de MechaNika.
+- Disfruta de una banda sonora original variada, dinámica e inmersiva.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B095TBCKFC{{</world>}}

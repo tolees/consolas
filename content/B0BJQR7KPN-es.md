@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Modo para juegos de móvil: Minimiza el retardo y la latencia de los juegos móviles a través de la aplicación ASUS Router
 - Compatible con ASUS AiMesh: Crea una red de malla para todo el hogar utilizando routers compatibles con AiMesh
 - Wi-Fi 6: Disfruta de hasta 5400 Mbps de velocidad y canales de 160 MHz con Wi-Fi 6 (802.11ax)
-- Modo para juegos de móvil: Minimiza el retardo y la latencia de los juegos móviles a través de la aplicación ASUS Router
 - Red doméstica con funciones de seguridad profesional: ASUS AiProtection Pro gratuito de por vida con tecnología Trend Micro, WPA3 y controles parentales para proteger tu hogar
 - Personaliza la iluminación: Puedes elegir entre una variedad de efectos ASUS Aura RGB y configurarlos para que respondan a modos específicos
 

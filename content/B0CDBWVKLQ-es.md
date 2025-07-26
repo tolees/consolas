@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Divisores intercambiables para la configuración personalizada de tus dispositivos, controladores, accesorios y más
-- Dos estuches en uno con el estuche de viaje extraíble y un diseño único que brilla en la oscuridad después de la exposición a la luz
 - Diseñada para viajar con su diseño duradero y su correa de hombro acolchada y extraíble para mayor comodidad al llevarla
+- Dos estuches en uno con el estuche de viaje extraíble y un diseño único que brilla en la oscuridad después de la exposición a la luz
+- Divisores intercambiables para la configuración personalizada de tus dispositivos, controladores, accesorios y más
 - Compatible con Nintendo Switch, Nintendo Switch Lite y Nintendo Switch (modelo OLED)
 - Licencia oficial de Nintendo
 

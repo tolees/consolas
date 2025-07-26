@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 🎮【Para Switch Joy-Con】Este cargador es compatible con el controlador Nintendo Switch NS/OLED Joy-Con. El soporte de carga del Switch no rayará el Joycon y se puede cargar directamente usando la interfaz Tipo-C del Switch. (Excluyendo Joycon)
-- 🎮【Juega mientras se carga】 Jugar mientras el Joy con se está cargando no se verá afectado y la batería del Joycon seguirá aumentando. Cuenta con protección automática de sobrecorriente PD y PTC de cinco voltios para una carga rápida sin la molestia de interrumpir el juego. El mango no solo carga el Joycon, sino que también lo ensambla como un controlador, lo que le permite sostenerlo cómodamente.
-- 🎮【Simula un mango en forma de V de sensación real】El soporte del mango de carga Joy-con elige un diseño en forma de V más cómodo para simular la sensación de juegos reales y aumentar tu experiencia de juego definitiva.
-- 🎮【Fácil de usar】Deslice el agarre para juegos en el riel y conéctelo a la fuente de alimentación utilizando el cable de carga tipo C. La luz indicadora LED tiene dos colores para indicar el estado de carga. La luz roja indica que se está cargando y la luz verde indica que está completamente cargada. Es conveniente para la confirmación y hace que la carga diaria ya no sea problemática.
 - 🎮【Durable y portátil】El mango del controlador de carga joy-con está hecho de material ABS de doble inyección, que es seguro y duradero y no se daña fácilmente después de un uso prolongado; Pequeño y liviano, adecuado para viajes o uso doméstico.
+- 🎮【Fácil de usar】Deslice el agarre para juegos en el riel y conéctelo a la fuente de alimentación utilizando el cable de carga tipo C. La luz indicadora LED tiene dos colores para indicar el estado de carga. La luz roja indica que se está cargando y la luz verde indica que está completamente cargada. Es conveniente para la confirmación y hace que la carga diaria ya no sea problemática.
+- 🎮【Juega mientras se carga】 Jugar mientras el Joy con se está cargando no se verá afectado y la batería del Joycon seguirá aumentando. Cuenta con protección automática de sobrecorriente PD y PTC de cinco voltios para una carga rápida sin la molestia de interrumpir el juego. El mango no solo carga el Joycon, sino que también lo ensambla como un controlador, lo que le permite sostenerlo cómodamente.
+- 🎮【Para Switch Joy-Con】Este cargador es compatible con el controlador Nintendo Switch NS/OLED Joy-Con. El soporte de carga del Switch no rayará el Joycon y se puede cargar directamente usando la interfaz Tipo-C del Switch. (Excluyendo Joycon)
+- 🎮【Simula un mango en forma de V de sensación real】El soporte del mango de carga Joy-con elige un diseño en forma de V más cómodo para simular la sensación de juegos reales y aumentar tu experiencia de juego definitiva.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D31L7CN2{{</world>}}

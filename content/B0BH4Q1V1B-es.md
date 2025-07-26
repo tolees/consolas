@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Recoge objetos y úsalos para resolver puzles
-- Explora ruinas antiguas, cuevas misteriosas y casas abandonadas
 - ¡Abre el pasadizo entre los mundos y encuentra el artefacto legendario!
 - Crea pociones alquímicas con las plantas mágicas que encuentres
+- Recoge objetos y úsalos para resolver puzles
+- Explora ruinas antiguas, cuevas misteriosas y casas abandonadas
 - Lucha con criaturas mágicas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

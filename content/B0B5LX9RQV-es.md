@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Superficie de agarre, gatillos, sticks y cruceta de mayor tamaño que los de los Joy-Con
+- Botones traseros programables
+- Licencia oficial de Nintendo
+- Compatible con la base de Nintendo Switch: carga la consola sin necesidad de retirarlo
 - La precisión y comodidad del Pro Controller, en modo portátil
 - Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
-- Compatible con la base de Nintendo Switch: carga la consola sin necesidad de retirarlo
-- Botones traseros programables
-- Superficie de agarre, gatillos, sticks y cruceta de mayor tamaño que los de los Joy-Con
 - Versión compacta del Split Pad Pro, ideal también para manos pequeñas
-- Licencia oficial de Nintendo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B5LX9RQV{{</world>}}

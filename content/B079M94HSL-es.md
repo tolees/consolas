@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Controlador inalámbrico Dualshock 4
-- Se puede utilizar con las aplicaciones disponibles en Windows PC y Mac
 - Es de la marca Sony
+- Se puede utilizar con las aplicaciones disponibles en Windows PC y Mac
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B079M94HSL{{</world>}}
