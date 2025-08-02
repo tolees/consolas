@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- MODO TORNEO: Los jugadores pueden organizar un torneo con una cantidad predefinida de minijuegos, ¡que se juegan de forma rápida y aleatoria para mayor diversión!
 - MODO DESAFÍO: Jugable por hasta 4 retadores, este modo permite a los jugadores practicar sus minijuegos favoritos sin la mecánica del juego de mesa. Todo lo que necesitas para una partida rápida... ¡o un entrenamiento intensivo!
 - 2 MODOS DE JUEGO ADICIONALES
-- MODO TORNEO: Los jugadores pueden organizar un torneo con una cantidad predefinida de minijuegos, ¡que se juegan de forma rápida y aleatoria para mayor diversión!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BF5R2GQS{{</world>}}

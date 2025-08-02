@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Juega con la batería recargable Xbox y el cable USB-C
-- Compatible con la consola Xbox One
+- Una batería de larga duración que se recarga en 4 horas
 - Compatible con Xbox One
+- Juega con la batería recargable Xbox y el cable USB-C
+- Carga mientras juegas o cuando está cargada, incluso cuando la Xbox está en modo de espera
+- Compatible con la consola Xbox One
+- Tipo de producto Controlador y estación de carga
 - Información importante Compatible con el mando inalámbrico Xbox con puerto USB-C
 - Color negro
-- Carga mientras juegas o cuando está cargada, incluso cuando la Xbox está en modo de espera
 - No más problemas de quedarse sin baterías, así que no tendrás que interrumpir tu juego
-- Tipo de producto Controlador y estación de carga
-- Una batería de larga duración que se recarga en 4 horas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08FCXLB8Z{{</world>}}

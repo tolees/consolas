@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - También puedes formar equipo con amigos para divertirte más en nuestro MODO CO-OP
-- El más nuevo y fresco Just Dance celebra 10 años de reunir a la gente con mucho contenido y sorpresas por descubrir
-- El modo KIDS está de vuelta con 8 nuevas coreografías creadas con la ayuda de expertos en desarrollo de niños para fomentar el movimiento saludable
 - Just Dance 2020 incluye 40 pistas calientes, desde éxitos de listas hasta favoritos de la familia
 - Rastrea tus calorías quemadas, tiempo dedicado a bailar y mantente motivado mientras te diviertes con el modo de sudor favorito de los fanáticos
+- El más nuevo y fresco Just Dance celebra 10 años de reunir a la gente con mucho contenido y sorpresas por descubrir
+- El modo KIDS está de vuelta con 8 nuevas coreografías creadas con la ayuda de expertos en desarrollo de niños para fomentar el movimiento saludable
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07SWSCBJJ{{</world>}}

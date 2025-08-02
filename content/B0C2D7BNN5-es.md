@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Beautifully themed retro visuals, audio and music
 - Play through 12 stages of a puzzle platformer game within the game
+- Beautifully themed retro visuals, audio and music
 - 13 Chapters follow the protagonists through their difficult experiences
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

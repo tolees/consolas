@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 4 tipos diferentes de unicornios y dragones para domar con un diseño único
-- 24 edificios y decoraciones que desbloquear para construir el rancho de tus sueños
-- Cuida de tus criaturas fantásticas: Construye las instalaciones necesarias para cuidar de tus unicornios y dragones. Ocúpate de su bienestar diario y asegúrate de que cuenten con un entorno ideal para vivir. Contrata personal para alimentarlos y cuidar de ellos. Recuerda: a veces necesitan descansar; si no, podrían comportarse de un modo inadecuado
-- Da clases divertidas: Los niños acudirán a tu rancho a recibir clases con tus animales. Construye un rancho para que los estudiantes entrenen montando en su dragón o unicornio favorito, un circuito para practicar acrobacias y vuelo, y mucho más
 - Convierte tu rancho en el más famoso del reino: consigue gemas para mejorar tus edificios, decorar tu rancho y adoptar más criaturas mágicas. Cuanto mejor sea la reputación de tu rancho, más estudiantes querrán apuntarse a las clases y participar en torneos. Empareja a los jinetes con sus corceles mágicos favoritos para crear los mejores dúos e impresionar al príncipe y la princesa del reino durante los festivales
+- 24 edificios y decoraciones que desbloquear para construir el rancho de tus sueños
+- Da clases divertidas: Los niños acudirán a tu rancho a recibir clases con tus animales. Construye un rancho para que los estudiantes entrenen montando en su dragón o unicornio favorito, un circuito para practicar acrobacias y vuelo, y mucho más
+- 4 tipos diferentes de unicornios y dragones para domar con un diseño único
+- Cuida de tus criaturas fantásticas: Construye las instalaciones necesarias para cuidar de tus unicornios y dragones. Ocúpate de su bienestar diario y asegúrate de que cuenten con un entorno ideal para vivir. Contrata personal para alimentarlos y cuidar de ellos. Recuerda: a veces necesitan descansar; si no, podrían comportarse de un modo inadecuado
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B7XP2Y88{{</world>}}

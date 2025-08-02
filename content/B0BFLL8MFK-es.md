@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Álzate como el campeón definitivo con habilidades y capacidades personalizadas sin parangón
-- Caza criaturas legendarias en solitario o en modo dos jugadores en combates heroicos y memorables
 - Domina las arenas y explora un mundo de fantasía repleto de secretos, lugares y peligros
+- Caza criaturas legendarias en solitario o en modo dos jugadores en combates heroicos y memorables
 - Desata tu poder para crear armas letales que cambian de forma
+- Álzate como el campeón definitivo con habilidades y capacidades personalizadas sin parangón
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BFLL8MFK{{</world>}}

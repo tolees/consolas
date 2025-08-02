@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Edición Exclusiva: Limitada a 2000 copias para PS5 / 2000 copias para PS4 en todo el mundo, cada copia está numerada individualmente.
+- Una Colección Completa: Explora arte conceptual, escaneos de manuales, jukebox y más para enriquecer tu experiencia de juego Turrican.
 - Características Mejoradas: Sumérgete en la nostalgia con nuevas mejoras, como mapas mejorados, bandas sonoras personalizables, opciones de control y contenido adicional.
 - La Banda Sonora de Chris Huelsbeck: Disfruta de la música inolvidable compuesta por Chris Huelsbeck, un sello distintivo de la serie Turrican.
 - 5 Títulos Clásicos de Turrican: Turrican, Turrican 2, Super Turrican, Super Turrican Directors Cut, Mega Turrican Score Attack.
-- Una Colección Completa: Explora arte conceptual, escaneos de manuales, jukebox y más para enriquecer tu experiencia de juego Turrican.
+- Edición Exclusiva: Limitada a 2000 copias para PS5 / 2000 copias para PS4 en todo el mundo, cada copia está numerada individualmente.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C9NNL5FW{{</world>}}

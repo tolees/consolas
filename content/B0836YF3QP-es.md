@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El pase de temporada te da acceso a nuevos compañeros, aventuras y artículos, como el paquete de trajes y ventajas de La Vara de la Verdad "Las reliquias de Zaron"
 - Adéntrate en el sórdido submundo criminal de South Park con Mapache y Amigos, el grupo de aguerridos justicieros liderado por Eric Cartman, también conocido como Mapache
-- El pase de temporada funciona con South Park Fractured But Whole
 - Únete a Mysterion, Cobertizo y el Cometa Humano entre otros para combatir el mal mientras el Mapache trata de que su equipo de superhéroes
+- El pase de temporada funciona con South Park Fractured But Whole
+- El pase de temporada te da acceso a nuevos compañeros, aventuras y artículos, como el paquete de trajes y ventajas de La Vara de la Verdad "Las reliquias de Zaron"
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0836YF3QP{{</world>}}

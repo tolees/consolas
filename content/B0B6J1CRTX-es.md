@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Es como un simulador de periodista de investigación: escabúllete y descubre los secretos de tus vecinos
-- ¡Raven Brooks y todos sus misterios son ahora tuyos para explorar! Recorre el pueblo, todas sus casas y habitantes manejados por la IA son ahora parte de tu patio de recreo
-- ¿Puedes ser más astuto que la IA? Todos los personajes de Hello Neighbor 2 están impulsados por una red neuronal de IA, que aprende de los jugadores y hace todo lo posible para proteger su comunidad cerrada y sus secretos
 - De ti depende descubrir los oscuros secretos que esconde Raven Brooks
+- ¿Puedes ser más astuto que la IA? Todos los personajes de Hello Neighbor 2 están impulsados por una red neuronal de IA, que aprende de los jugadores y hace todo lo posible para proteger su comunidad cerrada y sus secretos
+- ¡Raven Brooks y todos sus misterios son ahora tuyos para explorar! Recorre el pueblo, todas sus casas y habitantes manejados por la IA son ahora parte de tu patio de recreo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B6J1CRTX{{</world>}}

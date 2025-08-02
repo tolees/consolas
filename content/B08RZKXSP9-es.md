@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Juega como tus personajes favoritos y únete a tus amigos para derrotar a la Liga de los Evil Exes de Ramona
 - Redescubre el amado beat-‘em-up en 2D inspirado en Scott Pilgrim vs. The World
+- Juega como tus personajes favoritos y únete a tus amigos para derrotar a la Liga de los Evil Exes de Ramona
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08RZKXSP9{{</world>}}

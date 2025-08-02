@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Juglaría del poder: Contrata a un compañero musical para toque las melodías que te gusten y añade una poderosa banda sonora a tus aventuras.
 - Un sandbox medieval: la forma en la que progresas depende de ti. Dedica tu tiempo a completar misiones, sembrar el caos y divertirte a costa de otros.
-- Ponte la corona: Eres un mísero plebeyo y tendrás que ser creativo para ganar el Gran Torneo. Forma extrañas alianzas, engaña a tus enemigos y desentierra huesos de dinosaurio (porque, ¿por qué no?).
 - Gran Robo de Caballos: Siembra el caos en un mundo medieval inspirado en la jugabilidad clásica de GTA. Usa espadas, lanzas o plastas. cualquier cosa vale.
 - Mucho más que caballos: Lanza vacas por los aires, arrastra a tus vecinos por el fango, lanza granadas sagradas o traza dibujos vistosos en el campo con un arado.
+- Ponte la corona: Eres un mísero plebeyo y tendrás que ser creativo para ganar el Gran Torneo. Forma extrañas alianzas, engaña a tus enemigos y desentierra huesos de dinosaurio (porque, ¿por qué no?).
+- Juglaría del poder: Contrata a un compañero musical para toque las melodías que te gusten y añade una poderosa banda sonora a tus aventuras.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08ZZDNFFV{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hitman freelancer: una forma de jugar con tus propias condiciones, que combina elementos de protagonista solitario y una profunda planificación estratégica con una experiencia de juego persistente y rejugable infinitamente
-- El mundo del asesinato: viaja por un mundo vivito y coleando, lleno de personajes intrigantes y oportunidades letales
 - Conviértete en el agente 47: ponte el uniforme para una aventura de suspense y espías en la que se pondrán a prueba todas tus habilidades mortales en más de 20 ubicaciones
 - Libertad de estrategia: tu arma más mortal es la creatividad; desbloquea nuevos equipos y da un paso más allá en tu juego con misiones que podrás jugar una y otra vez
+- El mundo del asesinato: viaja por un mundo vivito y coleando, lleno de personajes intrigantes y oportunidades letales
+- Hitman freelancer: una forma de jugar con tus propias condiciones, que combina elementos de protagonista solitario y una profunda planificación estratégica con una experiencia de juego persistente y rejugable infinitamente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CBN6ZQTY{{</world>}}
