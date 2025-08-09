@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Aspyr - Tomb Raider 1-3 Remastered Starring Lara Croft - PS5'
+date: 2025-08-02 16:03:12
+image: 'https://m.media-amazon.com/images/I/41SgmSAWaYL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0D4QNH5RL-es Aspyr - Tomb Raider 1-3 Remastered Starring Lara Croft - PS5'
+sku: 'B0D4QNH5RL-es'
+tags: [ '856628d6-bd06-44c9-8556-c5cb75f77e2b_0','856628d6-bd06-44c9-8556-c5cb75f77e2b_2201','856628d6-bd06-44c9-8556-c5cb75f77e2b_3601','Arborist Merchandising Root','Hardware y juegos para PlayStation 5','Juegos para PlayStation 5','Preventa de Videojuegos','Self Service','Special Features Stores','Videojuegos','Videojuegos más esperados','aspyr','ps5','🇪🇸', ]
+actualPrice: 19.9 EUR
+currency: EUR
+price: 19.9
+comparePrice: 34.99 EUR
+prodname: 'Aspyr - Tomb Raider 1-3 Remastered Starring Lara Croft - PS5'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Aspyr'
+buyurl: 'https://www.amazon.es/dp/B0D4QNH5RL/?tag=tolees-21'
+descuento: '43.13'
+average: '24.7287499999999'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Una aventura por todo el mundo: Viaja por el mundo con Lara Croft y ayúdala a enfrentarse a enemigos despiadados y mitos atávicos.
+- Títulos incluidos: Tomb Raider I + The Unfinished Business Expansion, Tomb Raider II + The Gold Mask Expansion, Tomb Raider III + The Lost Artifact Expansion
+- Resuelve misterios antiguos: El antiguo mundo y sus misterios te esperan. Desvela las entrañas del pasado confinadas por el paso del tiempo.
+- Juega las tres aventuras originales de Tomb Raider: Hacemos historia brindando una experiencia completa con todas las expansiones y niveles secretos, pero en nuevas plataformas, la colección definitiva.
+- ¡Descubre las aventuras originales de Lara Croft fielmente remasterizadas!
+
+[🛒 Accede a la oferta!!]({{< param buyurl >}})
+{{<world>}}B0D4QNH5RL{{</world>}}
