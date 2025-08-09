@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Explora entornos impresionantes con una atmósfera que te enganchará. Descubre este universo con una ambientación muy cuidada mientras intentas escapar del Abismo de una vez por todas.
 - Cruza el Abismo usando un intuitivo sistema de desplazamiento y ataque. Su sistema mejorado de desplazamiento y ataque es ideal para enfrentarte a su entorno traicionero y a sus enemigos despiadados.
+- Un entorno repleto de trampas y peligros. Descubre las profundidades del Abismo con un personaje ligero y ágil. Haz acopio de toda tu destreza y perseverancia si quieres explorar y escapar sin daños del Abismo.
 - Evoluciona con nuevas destrezas y habilidades. Sácale partido a la gran variedad de destrezas y habilidades que puedes desbloquear para sobrevivir a las extenuantes pruebas de Elypse.
 - Juego de plataformas y acción en 2D con un estilo lúgubre y oscuro. Elypse es un juego metroidvania que combina plataformas y acción, se desarrolla en las profundidades de un mundo infernal.
-- Un entorno repleto de trampas y peligros. Descubre las profundidades del Abismo con un personaje ligero y ágil. Haz acopio de toda tu destreza y perseverancia si quieres explorar y escapar sin daños del Abismo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DX2CS4ZD{{</world>}}

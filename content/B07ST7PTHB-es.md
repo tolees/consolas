@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Premium Audio – Hear them coming with custom tuned 50mm drivers. Add spatial sound to your gaming experience with Windows Sonic.
-- Officially Licensed – For use with Xbox Series X|S and Xbox One. Also works great on PC.
-- Quick Access Audio Controls – Easily adjust headset volume and mute the mic via on-earcup controls. Focus on the win and not on fumbling around with cumbersome controls.
 - Dual-Mic System – Flexible boom mic with LED mute indicator for precision chat. Detach the boom mic to activate the built-in backup mic.
+- Officially Licensed – For use with Xbox Series X|S and Xbox One. Also works great on PC.
+- Premium Audio – Hear them coming with custom tuned 50mm drivers. Add spatial sound to your gaming experience with Windows Sonic.
+- Quick Access Audio Controls – Easily adjust headset volume and mute the mic via on-earcup controls. Focus on the win and not on fumbling around with cumbersome controls.
 - Designed for Comfort – Ultra-lightweight frame and memory foam earpads allow for hours of comfortable gaming.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

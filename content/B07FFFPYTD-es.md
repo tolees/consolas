@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Los jugadores lucharán contra oponentes, resolverán puzles y superarán obstáculos usando amenazadoras bromas y tácticas
-- Los jugadores deben combatir el mal con el mal; tanto si se trata de hacer pintadas por la ciudad o usar toxinas del miedo para aterrorizar a los personajes que haya cerca y darles un susto, los supervillanos tienen barra libre para usar cualquier truco de su arsenal y detener el malvado plan del Sindicato de la Justicia
 - Tus amigos y familiares pueden unirse a tu partida en cualquier momento gracias a la experiencia local cooperativa para dos jugadores
+- Los jugadores deben combatir el mal con el mal; tanto si se trata de hacer pintadas por la ciudad o usar toxinas del miedo para aterrorizar a los personajes que haya cerca y darles un susto, los supervillanos tienen barra libre para usar cualquier truco de su arsenal y detener el malvado plan del Sindicato de la Justicia
+- Los jugadores lucharán contra oponentes, resolverán puzles y superarán obstáculos usando amenazadoras bromas y tácticas
 - Los eventos centrales, diferentes para héroes y villanos, permiten a los jugadores realizar misiones junto a otros villanos o acabar con los malos en misiones de héroes
 
 [🛒 Visítala!!!]({{< param buyurl >}})

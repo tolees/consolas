@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Juego compatible con PlayStation 5
-- Con la Tarjeta Prepago PSN de 20€, recargarás tu monedero virtual con esa cantidad para comprar juegos o contenido descargable en la PlayStation Store.
 - Después de completar la compra, recibirás un enlace en la página de confirmación del pedido con instrucciones detalladas para canjear tu código en la Playstation Store. Este enlace estará también disponible en tu Biblioteca de juegos
+- Juego compatible con PlayStation 5
 - Desarrollador: Insomniac Games
+- Con la Tarjeta Prepago PSN de 20€, recargarás tu monedero virtual con esa cantidad para comprar juegos o contenido descargable en la PlayStation Store.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09P8QQCTX{{</world>}}

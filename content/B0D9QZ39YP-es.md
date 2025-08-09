@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Insane in the Membrane – Being in a realm filled with ghosts and evil spirits will have an effect on you. Throughout the game, your choices will impact not only your affection with the characters you meet with the Love Catch system, but your psyche as well. Making the wrong choices can lead to insanity and even change you into something else entirely.
-- Over Our Dead Bodies – School Ghost Stories, Urban Legends, the Other Realm, and the Spirit World. Get spirited away to an alternate reality or uncover tragic and thrilling truths in the real world, offering a unique mix of horror and romance with 8 romance options to explore.
+- Nightmare on Otome Street – For those wanting something a little spookier in their Otome, the School Ghost Stories route sees you trapped in a school where you hear whispers of gruesome murders having occurred. The presence of ghosts won’t make this any easier. Can you survive, and maybe even find romance in the face of horror?
 - Drop Dead Gorgeous – Witness rich environments and alluring characters designs. Beloved character artist from Cupid Parasite, Yuuya, stuns again with gorgeous visuals.
 - Day One Edition Includes: 9 R.I.P for Nintendo Switch, Reversible Cover Sleeve, Collector’s Box, Acrylic Standee (reveals an image when lit up!), set of 9 Character Cards, Cloth Poster
-- Nightmare on Otome Street – For those wanting something a little spookier in their Otome, the School Ghost Stories route sees you trapped in a school where you hear whispers of gruesome murders having occurred. The presence of ghosts won’t make this any easier. Can you survive, and maybe even find romance in the face of horror?
+- Insane in the Membrane – Being in a realm filled with ghosts and evil spirits will have an effect on you. Throughout the game, your choices will impact not only your affection with the characters you meet with the Love Catch system, but your psyche as well. Making the wrong choices can lead to insanity and even change you into something else entirely.
+- Over Our Dead Bodies – School Ghost Stories, Urban Legends, the Other Realm, and the Spirit World. Get spirited away to an alternate reality or uncover tragic and thrilling truths in the real world, offering a unique mix of horror and romance with 8 romance options to explore.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D9QZ39YP{{</world>}}

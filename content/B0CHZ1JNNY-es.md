@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - MODO DE JUEGO DINÁMICO: Enfrenta a la policía y a grupos rivales en un entorno vibrante y lleno de desafíos. Utiliza mochilas potenciadoras y un sistema de trucos innovador para navegar por la ciudad y dejar tu marca. El juego fomenta la creatividad y estrategia en cada movimiento.
 - CONTENIDO EXCLUSIVO: Incluye 6 pegatinas de vinilo troqueladas de graffiti y acceso a nuevos atuendos y música. Sumérgete en una experiencia completa con contenido adicional que enriquece tu aventura.
-- INNOVACIÓN Y DISEÑO: Con nuevos niveles, personajes y gráficos mejorados, Bomb Rush Cyberfunk lleva la experiencia PS5 a otro nivel. Disfruta de mecánicas de juego mejoradas y explora cada rincón de New Amsterdam con libertad y estilo.
 - CARACTERÍSTICAS PRINCIPALES: Bomb Rush Cyberfunk te sumerge en un futuro vibrante de acción y graffiti. Experimenta una aventura única en la ciudad de New Amsterdam, donde la estrategia y el arte se unen.
 - HISTORIA ENVOLVENTE: Sigue a Red y su grupo en su viaje por convertirse en leyendas del graffiti en All City. Descubre una trama profunda que conecta el pasado de Red con el mundo del graffiti.
+- INNOVACIÓN Y DISEÑO: Con nuevos niveles, personajes y gráficos mejorados, Bomb Rush Cyberfunk lleva la experiencia PS5 a otro nivel. Disfruta de mecánicas de juego mejoradas y explora cada rincón de New Amsterdam con libertad y estilo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CHZ1JNNY{{</world>}}
