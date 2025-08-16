@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Explora las islas flotantes de Haricot. Ya sea en las ciudades o en las mazmorras, ¡no dejes piedra sin levantar si quieres conseguir más poderes! Salta, corre, deslízate por bonitos entornos de píxel y recuerda: ¡los secretos están por todas partes!
-- ¡Lucha por alcanzar la excelencia y domina todas las combinaciones y hechizos para crear el conjunto de ataques más mortífero! ¡Cada vez que golpees a un enemigo, tendrás innumerables opciones a tu disposición.
-- Un metroidvania de ritmo rápido
 - Mientras que haya motivación en tu mente y pasión en tu corazón, ¡serás libre de hacer lo que te plazca! En Vernal Edge, podrás coger tu avión y viajar a la isla que quieras para explorarlas en el orden que prefieras.
+- ¡Lucha por alcanzar la excelencia y domina todas las combinaciones y hechizos para crear el conjunto de ataques más mortífero! ¡Cada vez que golpees a un enemigo, tendrás innumerables opciones a tu disposición.
+- Explora las islas flotantes de Haricot. Ya sea en las ciudades o en las mazmorras, ¡no dejes piedra sin levantar si quieres conseguir más poderes! Salta, corre, deslízate por bonitos entornos de píxel y recuerda: ¡los secretos están por todas partes!
+- Un metroidvania de ritmo rápido
 - Un sistema de combate dinámico y gratificante. Decide tu destino
 
 [🛒 Comprar!!!]({{< param buyurl >}})

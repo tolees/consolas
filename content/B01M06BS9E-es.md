@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El paquete trae dos videojuegos más vendidos remasterizados en un disco
-- Plataforma del juego: PlayStation 4
 - Tipo de producto: videojuego
+- Plataforma del juego: PlayStation 4
 - LEGO Harry Potter: Años 5-7 transportará a los jugadores a través de los tres últimos libros y las cuatro últimas películas
 - LEGO Harry Potter: Años 1-4 está basado en los cuatro primeros libros y películas
+- El paquete trae dos videojuegos más vendidos remasterizados en un disco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01M06BS9E{{</world>}}

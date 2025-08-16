@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Ponte en la piel de Shadow en una campaña de historia con nuevas habilidades. ¡Demuestra por qué es la forma de vida definitiva! Recorre fases icónicas de la historia de Shadow a toda velocidad, descubre secretos en un gran mundo central y desbloquea poderes para enfrentarte a Black Doom y salvar el mundo.
-- SONIC X SHADOW GENERATIONS incluye además una remasterización de SONIC GENERATIONS, una aventura en el tiempo con las fases 3D y 2D más icónicas de Sonic, ahora con mejoras visuales y contenido extra.
 - Shadow the Hedgehog vuelve junto al Sonic clásico y moderno en SONIC X SHADOW GENERATIONS, ¡una colección con dos experiencias únicas!
+- SONIC X SHADOW GENERATIONS incluye además una remasterización de SONIC GENERATIONS, una aventura en el tiempo con las fases 3D y 2D más icónicas de Sonic, ahora con mejoras visuales y contenido extra.
+- Ponte en la piel de Shadow en una campaña de historia con nuevas habilidades. ¡Demuestra por qué es la forma de vida definitiva! Recorre fases icónicas de la historia de Shadow a toda velocidad, descubre secretos en un gran mundo central y desbloquea poderes para enfrentarte a Black Doom y salvar el mundo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D6RDDPQ3{{</world>}}

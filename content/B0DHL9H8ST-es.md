@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Más de 100 premios y nominaciones
-- Escabúllete, lucha y desata impresionantes plagas de ratas
-- Un cuento con los pies en la tierra presa de fuerzas sobrenaturales
 - Incluye un STEELBOOK con arte exclusivo
+- Un cuento con los pies en la tierra presa de fuerzas sobrenaturales
+- Escabúllete, lucha y desata impresionantes plagas de ratas
 - Sumérgete en impresionantes efectos visuales combinados con una cautivadora banda sonora
 
 [🛒 Aquí!!!]({{< param buyurl >}})

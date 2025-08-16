@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La luciérnaga, tu aliada, puede ser controlada por otro jugador, permitiéndote compartir la aventura con un amigo.
-- Tu misión será recuperar las tres fuentes de luz, derrotar a la Reina Negra y salva el reino y sus habitantes. Haz un viaje extraordinario al vasto mundo de Lemuria, explora sus paisajes encantados e interactúa con sus habitantes en extraordinarios y llenos de secretos. Lucha junto a Igniculus con el sistema de batalla por tiempo activo. .
-- La Reina Negra ha robado el Sol, la Luna y las Estrellas. Hacerse pasar por Aurora, una joven princesa con un corazón puro cuya alma ha alcanzado el reino mágico de Lemuria.
 - De camino a Lemuria, encontrarás encuentros inolvidables: hadas amistosas y gnomos, pero también lobos peligrosos y dragones oscuros. Reserve ahora para obtener el Bonus Pack.
+- Tu misión será recuperar las tres fuentes de luz, derrotar a la Reina Negra y salva el reino y sus habitantes. Haz un viaje extraordinario al vasto mundo de Lemuria, explora sus paisajes encantados e interactúa con sus habitantes en extraordinarios y llenos de secretos. Lucha junto a Igniculus con el sistema de batalla por tiempo activo. .
+- La luciérnaga, tu aliada, puede ser controlada por otro jugador, permitiéndote compartir la aventura con un amigo.
+- La Reina Negra ha robado el Sol, la Luna y las Estrellas. Hacerse pasar por Aurora, una joven princesa con un corazón puro cuya alma ha alcanzado el reino mágico de Lemuria.
 - Aumente sus estadísticas con algunas Runas, desbloquee una habilidad exclusiva y obtenga un nuevo atuendo para Aurora.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

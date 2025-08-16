@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diafragmas de 50 mm Razer TriForc: Los Razer Kaira X incluyen diafragmas que pueden sintonizar agudos, medios y graves por separado, lo que produce un sonido más brillante y nítido con agudos más ricos y graves más potentes.
-- Funciona con Windows Sonic: Sácales el máximo partido a los potentes diafragmas de los auriculares al sincronizarlos con un sonido envolvente realista que ofrece un audio preciso e intensifica la inmersión y la presencia en el juego.
-- Micrófono cardioide Razer HyperClear: El micrófono plegable cuenta con recubrimiento mejorado y una captura de voz que anula el sonido procedente de los laterales y de la parte posterior, así como control de micrófono y equilibrio juego-chat para garantizar niveles óptimos.
 - Almohadillas FlowKnit de espuma viscoelástica transpirable: Su tejido transpirable minimiza la acumulación de calor y sudor, mientras que la densidad mejorada de la espuma suave reduce enormemente la presión que ejercen los auriculares, para ofrecer un soporte cómodo durante las maratones de juego.
+- Funciona con Windows Sonic: Sácales el máximo partido a los potentes diafragmas de los auriculares al sincronizarlos con un sonido envolvente realista que ofrece un audio preciso e intensifica la inmersión y la presencia en el juego.
+- Diafragmas de 50 mm Razer TriForc: Los Razer Kaira X incluyen diafragmas que pueden sintonizar agudos, medios y graves por separado, lo que produce un sonido más brillante y nítido con agudos más ricos y graves más potentes.
+- Micrófono cardioide Razer HyperClear: El micrófono plegable cuenta con recubrimiento mejorado y una captura de voz que anula el sonido procedente de los laterales y de la parte posterior, así como control de micrófono y equilibrio juego-chat para garantizar niveles óptimos.
 - Controles integrados en los auriculares: Activa y desactiva los ajustes fácilmente con un botón de desactivación del sonido del micrófono y con el control deslizante del volumen bajo el auricular izquierdo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

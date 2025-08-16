@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Texto y voces en Castellano
 - Compatible con PS5
+- Texto y voces en Castellano
 - De desarrollador Housemarque
 
 [🛒 Aquí!!!]({{< param buyurl >}})

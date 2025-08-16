@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Lista de juegos: Samurai Aces Episodio I, Samurai Aces Episodio II: TENGAI, Samurai Aces Episodio III: SENGOKU CANNON, GUNBIRD, GUNBIRD 2
 - Con el juego te llevas una página de pegatinas
+- Lista de juegos: Samurai Aces Episodio I, Samurai Aces Episodio II: TENGAI, Samurai Aces Episodio III: SENGOKU CANNON, GUNBIRD, GUNBIRD 2
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BSH2XNCT{{</world>}}

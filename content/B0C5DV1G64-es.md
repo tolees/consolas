@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Music from ikasumicco, says and GENIC PALLET will highlight the game action.
 - From the same character illustrator as Variable Barricade – Kagero Usuba.
+- Music from ikasumicco, says and GENIC PALLET will highlight the game action.
 - A glittering and fanciful 3-ring circus adventure!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

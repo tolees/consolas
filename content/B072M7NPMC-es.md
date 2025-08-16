@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Das kostenlose 2018 FIFA World Cup Russia Inhalts-Update ist ab dem 29. Mai verfügbar
-- Jeder Kunde mit einem FIFA 18 für PlayStation 4, Xbox One, PC oder Nintendo Switch kann sich das Update kostenlos herunterladen
 - Hinweis: Abbildung kann vom Original abweichen
 - Es sind alle vorherigen Spielupdates und eine Internetverbindung erforderlich
+- Jeder Kunde mit einem FIFA 18 für PlayStation 4, Xbox One, PC oder Nintendo Switch kann sich das Update kostenlos herunterladen
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B072M7NPMC{{</world>}}
