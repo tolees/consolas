@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Referencia: S0448411
 - Medidas: 1,6 x 18 x 14 centímetros
-- Color: multicolor
 - Si eres un apasionado de la informática y la electrónica, te gusta estar a la última en tecnología y no perderte detalle
+- Color: multicolor
+- Referencia: S0448411
 - Videojuego Xbox Series X de la marca Microsoft
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

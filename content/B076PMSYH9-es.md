@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Joystick plug-and-play, para lograr una experiencia de gaming simplificada e intuitiva
 - Diseñado para adaptarse a todos los tipos de vuelo, y perfecto para usarlo en realidad virtual: la palanca de potencia se desmonta incluso en realidad virtual
 - Otras características clave: resistencia ajustable de la palanca del joystick; reposamanos grande y cómodo; base pesada para una estabilidad óptima
-- Joystick plug-and-play, para lograr una experiencia de gaming simplificada e intuitiva
 - Lista de juegos compatibles de PS4 disponible en support.thrustmaster
 - Joystick oficial para PlayStation 4 con botones integrados para el sistema PlayStation 4 (PS/Share/Options
 

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- OddBallers es un juego multijugador fascinante, divertido y loco que cuenta con un nuevo tipo de balón prisionero en cada ronda.
 - Usa tácticas rastreras para fastidiar a tus rivales en este demencial juego multijugador!
+- OddBallers es un juego multijugador fascinante, divertido y loco que cuenta con un nuevo tipo de balón prisionero en cada ronda.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09VBVCCT5{{</world>}}

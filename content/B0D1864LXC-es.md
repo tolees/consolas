@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- SONIDO INMERSIVO: disfruta de tu propio sonido envolvente personal mientras nuestro 360 Spatial Sound Personaliser analiza tus oídos para crear un diseño cinematográfico de altavoces virtuales Dolby Atmos a tu alrededor.
-- CONECTIVIDAD FÁCIL: disfruta del rápido Bluetooth 5.2 con un televisor BRAVIA, conecta dos dispositivos a la vez con conexión multipunto, usa Sony | Aplicación Headphones Connect para control arlo desde tu smartphone.
-- DISEÑO ACÚSTICO SUPREMO: Las unidades de altavoz X-Balanced ofrecen graves profundos, menos distorsión y mayor claridad vocal, sin molestar a quienes lo rodean: el sonido se concentra en sus oídos. *Puede haber interferencias entre el audio del TV y el sonido de los altavoces en función de las condiciones de uso
 - PRESENTAMOS EL SONY BRAVIA THEATRE U: Tu cine portátil en casa más personal.
 - DISEÑO CÓMODO: Este altavoz inalámbrico está diseñado para descansar suavemente alrededor de tu cuello, con flexibilidad para moverse con usted. Es un 15 % más ligero que su predecesor y cuenta con una batería de 12 horas para entretenimiento durante todo el día.
+- CONECTIVIDAD FÁCIL: disfruta del rápido Bluetooth 5.2 con un televisor BRAVIA, conecta dos dispositivos a la vez con conexión multipunto, usa Sony | Aplicación Headphones Connect para control arlo desde tu smartphone.
+- DISEÑO ACÚSTICO SUPREMO: Las unidades de altavoz X-Balanced ofrecen graves profundos, menos distorsión y mayor claridad vocal, sin molestar a quienes lo rodean: el sonido se concentra en sus oídos. *Puede haber interferencias entre el audio del TV y el sonido de los altavoces en función de las condiciones de uso
+- SONIDO INMERSIVO: disfruta de tu propio sonido envolvente personal mientras nuestro 360 Spatial Sound Personaliser analiza tus oídos para crear un diseño cinematográfico de altavoces virtuales Dolby Atmos a tu alrededor.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D1864LXC{{</world>}}

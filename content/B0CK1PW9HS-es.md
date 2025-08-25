@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 6 regiones para explorar bien conocidas para los fans de Astérix
-- Un amplia gama de desafíos que completar
 - Más de 150 cartas disponibles para construir tu propio mazo
-- Una nueva y exclusiva aventura, nunca vista en los cómics
+- Un amplia gama de desafíos que completar
 - Todos los héroes de la famosa serie de cómics están en este nuevo juego: 24 emblemáticos héroes jugables de la serie de cómics
+- Una nueva y exclusiva aventura, nunca vista en los cómics
+- 6 regiones para explorar bien conocidas para los fans de Astérix
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CK1PW9HS{{</world>}}

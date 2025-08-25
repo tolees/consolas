@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Reposabrazos confortables
-- Peso máximo del usuario: 110 kg
 - 5 ruedas
-- Diseño ergonómico, altura regulable y reposabrazos
 - Silla de juego desarrollada específicamente para acoger todo tipo de morfología y ofrecer confort adaptada a las sesiones de juego
+- Peso máximo del usuario: 110 kg
+- Diseño ergonómico, altura regulable y reposabrazos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08LJNKFSW{{</world>}}

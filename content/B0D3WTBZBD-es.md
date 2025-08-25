@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hasta 6 TB, que permiten almacenar un total de 150 juegos, para que puedas guardar tus clásicos favoritos y seguir teniendo espacio para títulos nuevos
 - Formato portátil que proporciona rápido acceso a tu colección de juegos en cualquier lugar
+- Hasta 6 TB, que permiten almacenar un total de 150 juegos, para que puedas guardar tus clásicos favoritos y seguir teniendo espacio para títulos nuevos
 - Suscripción gratuita de 1 mes a Xbox Game Pass Ultimate incluida con la compra
 - Dispositivo especialmente diseñado para videojugadores según los estándares de calidad y fiabilidad de WD_Black
 - Disco duro de alto rendimiento con velocidades de hasta 130 MB/s que te permite optimizar tu experiencia en consola o en ordenador

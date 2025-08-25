@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Longitud de cable: aprox 220 cm
+- Compatible con PS5
 - Micrófono ajustable
 - Auriculares con cómodas almohadillas
-- Compatible con PS5
-- Longitud de cable: aprox 220 cm
 - Mandos en línea con acceso a la función de silenciar micrófono y al control de volumen
 - Altavoces de 40mm para bajos potentes y sonido cristalino
 

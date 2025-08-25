@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Haz tu reserva hoy y obtén la montura de hipogrifo ónix y la receta de la poción Felix Felicis.
-- Haz tu reserva y obtén la montura de hipogrifo ónix y la receta de la poción Felix Felicis.
 - Hogwarts Legacy es un RPG inmersivo de acción en mundo abierto. Ahora puedes tomar el control de la acción y ser el centro de tu propia aventura en el mundo mágico.
 - Hogwarts Legacy: La Collectors Edition incluye el juego, una varita flotante de magia antigua a tamaño real sobre una base de libro, un estuche metálico, una túnica de pelo de kelpie, una montura de thestral, una arena de batalla de las Artes Oscuras, una misión exclusiva, un conjunto cosmético de las Artes Oscuras, un gorro de guarnición de las Artes Oscuras y 72 horas de acceso anticipado
+- Haz tu reserva y obtén la montura de hipogrifo ónix y la receta de la poción Felix Felicis.
+- Haz tu reserva hoy y obtén la montura de hipogrifo ónix y la receta de la poción Felix Felicis.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BBVTL6X5{{</world>}}

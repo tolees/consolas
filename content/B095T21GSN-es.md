@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- PARTICIPA EN RÁPIDAS ACCIONES DE SIGILO: Gestiona las coberturas y los poderes con agilidad. Derrota a tus enemigos con asesinatos sigilosos y derribos no letales.
+- JUEGA EN MODO SINGLE o EN COOPERATIVO con TUS AMIGOS: Descubre la campaña al completo y únete al equipo de asesinos de hasta 3 jugadores en modo cooperativo.
 - ENTRA EN COMBATE COMO DECISIÓN TÁCTICA: Conviértete en maestro del combate basado en habilidades con alto riesgo y alta recompensa.
 - FORJA TU ASESINO DE SOMBRA: Crea tus armas y armaduras y mejora a tu guerrero de élite con tres árboles de habilidades de 42 habilidades y poderes de sombra.
 - PROTEGE EL VALLE DE RASHOMON: Salva a tu gente y derrota la maldición antes de que acabe contigo y descubre cómo los Aragami se convirtieron en leyenda.
-- JUEGA EN MODO SINGLE o EN COOPERATIVO con TUS AMIGOS: Descubre la campaña al completo y únete al equipo de asesinos de hasta 3 jugadores en modo cooperativo.
-- PARTICIPA EN RÁPIDAS ACCIONES DE SIGILO: Gestiona las coberturas y los poderes con agilidad. Derrota a tus enemigos con asesinatos sigilosos y derribos no letales.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B095T21GSN{{</world>}}

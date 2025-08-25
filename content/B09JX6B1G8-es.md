@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mundo abierto
-- Nintendo SWITCH
 - No recomendado para menores de 18 años
+- Nintendo SWITCH
+- Mundo abierto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09JX6B1G8{{</world>}}

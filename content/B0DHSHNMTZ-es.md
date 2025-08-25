@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Set inspirado en Mario Kart: El kart estándar está equipado con superala estándar desmontable, ruedas para derrapar y una función de lanzamiento de caparazones a la diana de la estación de trabajo
 - Figura de juguete de Toad (boxes): Este juego LEGO de aventuras para construir, basado en Mario Kart, incluye una figura del personaje Toad (boxes) con uniforme de boxes rojo, así como un elemento que representa un plátano, decorado con una cara
-- Sets de construcción coleccionables basados en la serie de videojuegos Nintendo: Explora la gama LEGO Super Mario: Mario Kart y descubre otros vehículos (a la venta por separado) contra los que competir o a los que acoplar la superala estándar
 - Activa la imaginación de tu peque: Los sets LEGO Super Mario, diseñados para practicar el juego independiente o social, ofrecen desafíos divertidos, de interpretación y de recogida de monedas digitales mediante la expansión y la reconstrucción
+- Set inspirado en Mario Kart: El kart estándar está equipado con superala estándar desmontable, ruedas para derrapar y una función de lanzamiento de caparazones a la diana de la estación de trabajo
 - Regalo de cumpleaños LEGO Super Mario para peques: Regala este juego a un niño, una niña o un gamer fan de Nintendo a partir de 7 años; para jugar de forma interactiva, necesitas el set 71439, 71440 o 71441 (a la venta por separado)
-- Set de juego LEGO Super Mario con un coche de juguete: Forma equipo con Toad (boxes) para competir, derrapar y planear con una maqueta para construir con ladrillos del kart estándar de Mario Kart y, además, una estación de trabajo
 - Juego interactivo: Coloca a LEGO Mario, LEGO Luigi o LEGO Peach (figuras no incluidas) en el kart para desencadenar efectos de sonido/visuales y pisa la etiqueta de acción de la estación de trabajo para provocar otras reacciones digitales
+- Set de juego LEGO Super Mario con un coche de juguete: Forma equipo con Toad (boxes) para competir, derrapar y planear con una maqueta para construir con ladrillos del kart estándar de Mario Kart y, además, una estación de trabajo
+- Sets de construcción coleccionables basados en la serie de videojuegos Nintendo: Explora la gama LEGO Super Mario: Mario Kart y descubre otros vehículos (a la venta por separado) contra los que competir o a los que acoplar la superala estándar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHSHNMTZ{{</world>}}

@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Una nueva historia basada en el arco War of Underworld
 - Sistema de combates emocionante y sublime
+- Una nueva historia basada en el arco War of Underworld
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BZQ7GNJ6{{</world>}}

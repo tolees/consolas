@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Take aim with the determination of Hyrules lionhearted hero.
 - No batteries required.Officially licensed by Nintendo with two-year limited warranty – visit PowerA.com/Support
 - 3.5mm audio jack
-- Take aim with the determination of Hyrules lionhearted hero.
 - Detachable 10ft (3m) USB Cable
 - Mappable Advanced Gaming Buttons
 

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Elimina a los enemigos con este diseño que muestra una de las mejores versiones potenciadas de Mario
-- No necesita pilas
 - Botones de juego avanzado asignables
-- Toma de audio de 3,5 mm
 - Con licencia oficial de Nintendo y garantía limitada de dos años: visita PowerA.com/Support
+- Elimina a los enemigos con este diseño que muestra una de las mejores versiones potenciadas de Mario
+- Toma de audio de 3,5 mm
+- No necesita pilas
 - Cable USB extraíble de 3 metros
 
 [🛒 Comprar!!!]({{< param buyurl >}})

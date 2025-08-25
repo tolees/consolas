@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Jujutsu Kaisen debuta en consolas!
 - ¡Peleas y acción en 3D!
+- ¡Jujutsu Kaisen debuta en consolas!
 - ¿Qué estilo va contigo?
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

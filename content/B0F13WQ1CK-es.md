@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Utiliza técnicas basadas en el sigilo para explorar el entorno hostil de la instalación sin ser detectado por las entidades robóticas y los guardias. Algunos enfrentamientos pueden evitarse mediante movimientos eficientes.
-- Usa las habilidades de parkour de Zoe para atravesar las instalaciones subterráneas y obtener una ventaja táctica. Desde las profundidades artificiales controladas por robots hasta el entorno natural abierto, el peligro acecha en cada esquina.
 - Una intrigante evolución del personaje principal unida a una experiencia narrativa convincente y profunda, revisada y editada por el escritor Martin Korda, ganador de un BAFTA.
 - La llave maestra de Steel Seed y el guía de Zoe en su solitario y peligroso viaje por el interior de la instalación subterránea. Al trabajar juntos, crean un dúo formidable y aportan algo nuevo a cada combate.
+- Usa las habilidades de parkour de Zoe para atravesar las instalaciones subterráneas y obtener una ventaja táctica. Desde las profundidades artificiales controladas por robots hasta el entorno natural abierto, el peligro acecha en cada esquina.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F13WQ1CK{{</world>}}
