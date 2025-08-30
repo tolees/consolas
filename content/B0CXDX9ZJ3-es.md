@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Outright Games - Teenage Mutant Ninja Turtles: Mutantes desencadenados - PS5'
+date: 2025-07-10 08:24:35
+image: 'https://m.media-amazon.com/images/I/51fN-8PyPaL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CXDX9ZJ3-es Outright Games - Teenage Mutant Ninja Turtles: Mutantes...'
+sku: 'B0CXDX9ZJ3-es'
+tags: [ '856628d6-bd06-44c9-8556-c5cb75f77e2b_0','856628d6-bd06-44c9-8556-c5cb75f77e2b_2201','856628d6-bd06-44c9-8556-c5cb75f77e2b_3601','856628d6-bd06-44c9-8556-c5cb75f77e2b_401','Arborist Merchandising Root','Hardware y juegos para PlayStation 5','Juegos para PlayStation 5','Preventa de Videojuegos','Self Service','Special Features Stores','Tienda de consolas y videojuegos infantiles','Videojuegos','Videojuegos más esperados','outright games','ps5','🇪🇸', ]
+actualPrice: 12.9 EUR
+currency: EUR
+price: 12.9
+comparePrice: 16.52 EUR
+prodname: 'Outright Games - Teenage Mutant Ninja Turtles: Mutantes desencadenados - PS5'
+country: 'es'
+flag: '🇪🇸'
+brand: 'Outright Games'
+buyurl: 'https://www.amazon.es/dp/B0CXDX9ZJ3/?tag=tolees-21'
+descuento: '21.91'
+average: '12.9'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- ES LA HORA DE LAS TORTUGAS: Patrulla las calles y lucha contra enemigos que MUTARÁN a lo largo del juego.
+- AFRONTA EL DESAFÍO BIEN ACOMPAÑADO: Juega con un amigo en el modo cooperativo local para dos jugadores.
+- ALGUNOS HÉROES LLEVAN CAPARAZÓN: Mejora tus habilidades de pelea con los cuatro héroes y desbloquea movimientos y habilidades para alcanzar su mayor potencial.
+- RELÁJATE EN EL VECINDARIO: Date un paseo por cinco barrios distintos para encontrarte con viejos y nuevos amigos, como April, Splinter y muchos más.
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B0CXDX9ZJ3{{</world>}}
