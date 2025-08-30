@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego interactivo: Pilota el Marchimotas GTI o el Tribólido con LEGO Mario, LEGO Luigi o LEGO Peach (figuras no incluidas) para desencadenar efectos de sonido/visuales de Mario Kart al tocar el claxon, derrapar y más
-- 2 figuras de personajes del videojuego Nintendo para mayor diversión interpretando historias: Este juego para hacer carreras de coche incluye figuras de los personajes Nintendo Bebé Mario y Bebé Luigi, así como 6 globos (3 rojos y 3 verdes)
+- Coches de juguete como los de Mario Kart: Pon a Bebé Mario en su Marchimotas GTI y a Bebé Luigi en su Tribólido, y luego trata de derribar los globos lanzándoles caparazones
+- Desata la creatividad de tu peque: Los juguetes LEGO Super Mario, diseñados para jugar a solas o en compañía, ofrecen desafíos creativos, de interpretación y de recogida de monedas digitales mediante la expansión y la reconstrucción
 - Idea de regalo de cumpleaños Mario Kart para peques: Este set LEGO Super Mario es un gran regalo para niños y niñas gamers a partir de 8 años; para jugar de forma interactiva, necesitas el set 71439, 71440 o 71441 (a la venta por separado)
 - Juguetes de construcción coleccionables inspirados en la gama Nintendo: Explora la gama LEGO Super Mario: Mario Kart (sets a la venta por separado) y descubre otros personajes de Super Mario y vehículos contra los que competir
-- Desata la creatividad de tu peque: Los juguetes LEGO Super Mario, diseñados para jugar a solas o en compañía, ofrecen desafíos creativos, de interpretación y de recogida de monedas digitales mediante la expansión y la reconstrucción
+- 2 figuras de personajes del videojuego Nintendo para mayor diversión interpretando historias: Este juego para hacer carreras de coche incluye figuras de los personajes Nintendo Bebé Mario y Bebé Luigi, así como 6 globos (3 rojos y 3 verdes)
+- Juego interactivo: Pilota el Marchimotas GTI o el Tribólido con LEGO Mario, LEGO Luigi o LEGO Peach (figuras no incluidas) para desencadenar efectos de sonido/visuales de Mario Kart al tocar el claxon, derrapar y más
 - Set Mario Kart para construir: Únete a Bebé Mario o Bebé Luigi en emocionantes carreras de karts y batallas explotaglobos con este juego de aventuras LEGO Super Mario
-- Coches de juguete como los de Mario Kart: Pon a Bebé Mario en su Marchimotas GTI y a Bebé Luigi en su Tribólido, y luego trata de derribar los globos lanzándoles caparazones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHSDXPLY{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Descubre tu estilo de combate: Crea, mejora y blande armas y poderes letales con movimientos en la vida real
 - Intensa acción cooperativa en RV: Ve en solitario o forma equipo con amigos en el modo cooperativo para 4 jugadores a través de un mundo post-apocalíptico y cambiante
 - El infierno se ha congelado: Adéntrate en las ruinas cubiertas de hielo y nieve de un LA post-apocalíptico para tomar el futuro de la ciudad en tus manos
 - No son no-muertos comunes: Lucha contra enormes hordas, enemigos especiales y jefes colosales
+- Descubre tu estilo de combate: Crea, mejora y blande armas y poderes letales con movimientos en la vida real
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09SGGYSZB{{</world>}}

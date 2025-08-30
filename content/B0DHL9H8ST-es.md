@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Escabúllete, lucha y desata impresionantes plagas de ratas
-- Más de 100 premios y nominaciones
-- Incluye un STEELBOOK con arte exclusivo
 - Sumérgete en impresionantes efectos visuales combinados con una cautivadora banda sonora
 - Un cuento con los pies en la tierra presa de fuerzas sobrenaturales
+- Más de 100 premios y nominaciones
+- Incluye un STEELBOOK con arte exclusivo
+- Escabúllete, lucha y desata impresionantes plagas de ratas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHL9H8ST{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Es para Nintendo Switch Lite
 - Es resistente
+- Es para Nintendo Switch Lite
 - Funda plegable y protector de pantalla
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

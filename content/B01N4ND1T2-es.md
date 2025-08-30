@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este mando te permite jugar cómodamente durante más tiempo con la consola tanto en modo televisor como en modo sobremesa
 - Cuando uses la consola en modo televisor, puedes conectar el mando Pro a la base con el cable USB de carga (HAC-010) para sincronizarlo o cargarlo
+- Este mando te permite jugar cómodamente durante más tiempo con la consola tanto en modo televisor como en modo sobremesa
 - Cuando se haya cargado el mando Pro, puedes desconectarlo del cable USB de carga y utilizarlo de forma inalámbrica
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- PS5 Edición Digital es una versión de la consola PS5 sin unidad de discos; Inicia sesión en tu cuenta para acceder a PlayStation Network y visita PlayStation Store para comprar y descargar juegos
-- A la velocidad de la luz: aprovecha la potencia de una unidad de estado sólido con E/S integradas, una CPU y una GPU personalizadas que reinventan las reglas de lo que una consola PlayStation es capaz de hacer
-- El soporte vertical se vende por separado
-- La consola PS5 hace posibles nuevas formas de juego que jamás habías imaginado
-- Juegos alucinantes: déjate sorprender por unos gráficos óptimos y experimenta funciones de PS5; Juega al catálogo de títulos compatibles de PS4
-- Ten tus juegos favoritos listos para la acción y juega con 1 TB de almacenamiento SSD integrado3
 - Inmersión impresionante: descubre una experiencia de juego más profunda mediante retroalimentación háptica, gatillos adaptativos y tecnología Audio 3D3
+- Juegos alucinantes: déjate sorprender por unos gráficos óptimos y experimenta funciones de PS5; Juega al catálogo de títulos compatibles de PS4
+- La consola PS5 hace posibles nuevas formas de juego que jamás habías imaginado
+- El soporte vertical se vende por separado
+- PS5 Edición Digital es una versión de la consola PS5 sin unidad de discos; Inicia sesión en tu cuenta para acceder a PlayStation Network y visita PlayStation Store para comprar y descargar juegos
+- Ten tus juegos favoritos listos para la acción y juega con 1 TB de almacenamiento SSD integrado3
+- A la velocidad de la luz: aprovecha la potencia de una unidad de estado sólido con E/S integradas, una CPU y una GPU personalizadas que reinventan las reglas de lo que una consola PlayStation es capaz de hacer
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CLTBHXWQ{{</world>}}
