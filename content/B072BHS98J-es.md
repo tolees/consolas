@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Materiales de gran calidad
 - Licencia Oficial Dragon Ball
+- Materiales de gran calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B072BHS98J{{</world>}}

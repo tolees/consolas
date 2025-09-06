@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- [COMPATIBILIDAD]: Esta funda es compatible con Nintendo Switch, Nintendo Switch Lite y Nintendo Switch OLED
 - [SEGURA]: Tendrás acceso a tu consola en todo momento gracias a su cierre con doble cremallera; tus accesorios y juegos estarán a salvo de cualquier golpe gracias al revestimiento semirrígido
+- [COMPATIBILIDAD]: Esta funda es compatible con Nintendo Switch, Nintendo Switch Lite y Nintendo Switch OLED
 - [PRÁCTICA]: Esta funda protectora cuenta con un asa resistente y rígida para transportar tu consola con facilidad
 - [GRAN ESPACIO DE ALMACENAMIENTO]: Además del bolsillo de almacenamiento interior con 8 compartimentos para guardar cartuchos de juegos, la red puede guardar otros accesorios pequeños como un cable HDMI o Joy-Con
 - [TAMAÑO]: 12 x 26 cm (ancho x alto)

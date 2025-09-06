@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compatibilidad universal con todos los mandos de Xbox* Tanto si tienes mandos de última generación como si son más antiguos, la base de carga rápida universal Razer para Xbox funciona con todos ellos. *Excepto el mando Xbox Elite 2
 - Carga rápida para que estés sin jugar el menor tiempo posible Capaz de cargar por completo tu mando en menos de 3 horas, la base también está diseñada con protección contra sobrecargas para prevenir el sobrecalentamiento y los cortocircuitos.
-- Sistema de contacto magnético para una carga segura Gracias al diseño magnético que asegura el mando a la base, puedes colocarlo fácilmente sin tener que preocuparte por si se interrumpe la carga.
+- Compatibilidad universal con todos los mandos de Xbox* Tanto si tienes mandos de última generación como si son más antiguos, la base de carga rápida universal Razer para Xbox funciona con todos ellos. *Excepto el mando Xbox Elite 2
 - Suministro de alimentación por USB para una conectividad flexible Basta con conectar la base de carga a tu Xbox, PC o enchufe de pared compatible para que funcione.
 - Desplazamiento con una sola mano para usarlo cómodamente mientras se carga La base de carga se ha diseñado pensando en la ergonomía, de manera que puedas usar el mando cómodamente para desplazarte por el panel de Xbox aunque esté colocado en la base.
 - Combina con tu mando de Xbox para encajar a la perfección Para encajar a la perfección en tu equipo, esta base de carga utiliza el mismo material duradero y los mismos colores llamativos que los mandos oficiales de Xbox Series X|S.
+- Sistema de contacto magnético para una carga segura Gracias al diseño magnético que asegura el mando a la base, puedes colocarlo fácilmente sin tener que preocuparte por si se interrumpe la carga.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BT1XQ4K3{{</world>}}

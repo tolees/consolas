@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye 4 x tapas de batería - 2 para los controladores de la generación Series X y 2 para los controladores de la generación Xbox One - para garantizar la compatibilidad con cualquier controlador que tengas
 - Diseño de juego y carga que permite que los paquetes de baterías se carguen en el controlador mientras sigues jugando
+- Incluye 4 x tapas de batería - 2 para los controladores de la generación Series X y 2 para los controladores de la generación Xbox One - para garantizar la compatibilidad con cualquier controlador que tengas
 - Incluye dos paquetes de baterías recargables compatibles con todos los controladores oficiales de Xbox, incluyendo la generación Series X y la generación Xbox One
 - Viene completo con un cable de carga USB de 3 metros con conexión de salida doble que permite cargar ambos paquetes de baterías simultáneamente
 - Potente capacidad de 1100mAh que ofrece hasta un 50% más de tiempo de juego que los paquetes de baterías recargables estándar

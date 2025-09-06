@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Explosivo sistema de combos: ¡Cada personaje puede realizar varios combos repletos de malabares con los que destrozar a los enemigos!
-- Juego rápido e intenso en una sola sesión: ¡Cada una de las rutas posibles en el modo Arcade se puede terminar en menos de una hora (al menos, si se te da bien el juego)!
-- Muchas combinaciones: ¡Los caminos alternativos, las cinemáticas y los finales cambian según los personajes que elijas y las decisiones que tomes!
 - Fácil de jugar, difícil de dominar: La dificultad no tiene que ver con malos controles o unas reglas injustas... ¡sino con tu capacidad de dominar los movimientos de tu personaje para librarte de enemigos duros!
+- Explosivo sistema de combos: ¡Cada personaje puede realizar varios combos repletos de malabares con los que destrozar a los enemigos!
+- Muchas combinaciones: ¡Los caminos alternativos, las cinemáticas y los finales cambian según los personajes que elijas y las decisiones que tomes!
+- Juego rápido e intenso en una sola sesión: ¡Cada una de las rutas posibles en el modo Arcade se puede terminar en menos de una hora (al menos, si se te da bien el juego)!
 - Desafíos reales: Todo depende de lo bueno que seas en el juego, no de un sistema de experiencia ni otros elementos de juego de rol que recompensan la paciencia. ¡Cada personaje podrá utilizar todos sus movimientos desde el principio; no tendrás que preocuparte por subir de nivel, más allá de mejorar tu habilidad como jugador!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

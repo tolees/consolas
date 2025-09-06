@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- GANA RECOMPENSAS – Consigue puntos de la comunidad para gastarlos en alucinantes atuendos y en objetos para mejorar el Centro Comunitario de las Olas de Malibú
-- EXPLORA EL MUNDO DE BARBIE – Descubre hasta 6 nuevos espacios y ayuda a restaurar el centro comunitario
 - ACTIVIDADES DIVERTIDAS – Completa las tareas en el salón de mascotas, la pista de patinaje, el laboratorio y muchos más.
-- UNE FUERZAS EN MINIJUEGOS – Puedes jugar de forma individual o en cooperativo
+- EXPLORA EL MUNDO DE BARBIE – Descubre hasta 6 nuevos espacios y ayuda a restaurar el centro comunitario
 - JUEGA COMO BARBIE – Juega como Barbie y Barbie mientras colaboras con amigos y familiares en desafíos y misiones para ayudar a la comunidad
+- GANA RECOMPENSAS – Consigue puntos de la comunidad para gastarlos en alucinantes atuendos y en objetos para mejorar el Centro Comunitario de las Olas de Malibú
+- UNE FUERZAS EN MINIJUEGOS – Puedes jugar de forma individual o en cooperativo
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D9T15TZW{{</world>}}

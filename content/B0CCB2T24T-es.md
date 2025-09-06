@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Una forma de jugar: El Sonic clásico que conoces y amas reinventado para las plataformas modernas
 - Juega con tus personajes favoritos: Elige entre Sonic, Tails, Knuckles y Amy Rose y aprovecha sus habilidades para explorar las Northstar Islands y derrotar al Dr; eggman, que se ha aliado con un viejo enemigo, Fang
 - Aprovecha el poder de las Esmeraldas del Caos: Multiplícate, nada por cascadas, cambia de forma y mucho más con el poder de las Esmeraldas del Caos
-- Una forma de jugar: El Sonic clásico que conoces y amas reinventado para las plataformas modernas
 - Amigos y diversión: Juega la campaña entera en cooperativo local para 4 jugadores
 
 [🛒 Comprar!!!]({{< param buyurl >}})

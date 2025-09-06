@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Botones de juego avanzado asignables
-- Toma de audio de 3,5 mm
-- No necesita pilas
 - Este diseño explosivo, una perfecta incorporación a cualquier configuración de juego, te recuerda que la rapidez lo es todo.
+- Toma de audio de 3,5 mm
 - Cable USB extraíble de 3 metros
 - Con licencia oficial de Nintendo y garantía limitada de dos años: visita PowerA.com/Support
+- Botones de juego avanzado asignables
+- No necesita pilas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTMT6CK6{{</world>}}

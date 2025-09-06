@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- MindsEye es un thriller narrativo de acción y aventura para un jugador ambientado en la ciudad desértica ficticia de Redrock, en un futuro cercano. Bajo la dirección de Leslie Benzies, MindsEye ofrece secuencias de vídeos espectaculares, persecuciones intensas y combates explosivos.
 - Juega como Jacob Diaz, un exsoldado modificado con el MindsEye, un misterioso implante cerebral que lo atormenta con recuerdos fragmentados de una misión secreta que le cambió la vida para siempre.
+- MindsEye es un thriller narrativo de acción y aventura para un jugador ambientado en la ciudad desértica ficticia de Redrock, en un futuro cercano. Bajo la dirección de Leslie Benzies, MindsEye ofrece secuencias de vídeos espectaculares, persecuciones intensas y combates explosivos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F2T8PNKG{{</world>}}

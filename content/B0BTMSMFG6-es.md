@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El rojo alegre y soleado aporta a este mando un animado ambiente veraniego que puedes disfrutar todo el año.
 - Diseño de mando ergonómico con diseño de botones de Nintendo Switch
+- El rojo alegre y soleado aporta a este mando un animado ambiente veraniego que puedes disfrutar todo el año.
 - Producto con licencia oficial y garantía limitada de dos años. Regístrate en PowerA.com
 - Cable USB extraíble de 3 metros con tira de velcro
 

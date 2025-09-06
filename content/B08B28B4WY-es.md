@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- EXPLORA un enorme mundo abierto: Descubre tierras lejanas, nuevos enemigos, ricas culturas y personajes llenos de vida. Recorre frondosos bosques, ciudades hundidas e imponentes montañas en el futuro lejano de un continente americano desolado.
-- OPTIMIZADO PARA PS5: Horizon Forbidden West es un juego de Playstation Studios y Guerrilla, por lo que está preparado para hacerte disfrutar de las características de PS5 como la carga rápida, gráficos imponentes, retroalimentación háptica, gatillos adaptativos o la tecnología de audio 3D Tempest con auriculares compatibles (no incluidos).
 - MISTERIOS SOPRENDENTES: Descubre el secreto del inminente colapso de la Tierra y saca a la luz un capítulo oculto del pasado lejano... que cambiará a Aloy para siempre.
-- NUEVOS PELIGROS: Lucha en batallas estratégicas contra máquinas enormes y los enemigos humanos que las controlan; usa armas, equipo y trampas improvisadas con las piezas que encuentres.
 - PROHIBIDO OESTE: Acompaña a Aloy en su aventura por las peligrosas y fantásticas tierras del Oeste Prohibido y enfréntate a nuevas y misteriosas amenazas
+- NUEVOS PELIGROS: Lucha en batallas estratégicas contra máquinas enormes y los enemigos humanos que las controlan; usa armas, equipo y trampas improvisadas con las piezas que encuentres.
+- OPTIMIZADO PARA PS5: Horizon Forbidden West es un juego de Playstation Studios y Guerrilla, por lo que está preparado para hacerte disfrutar de las características de PS5 como la carga rápida, gráficos imponentes, retroalimentación háptica, gatillos adaptativos o la tecnología de audio 3D Tempest con auriculares compatibles (no incluidos).
+- EXPLORA un enorme mundo abierto: Descubre tierras lejanas, nuevos enemigos, ricas culturas y personajes llenos de vida. Recorre frondosos bosques, ciudades hundidas e imponentes montañas en el futuro lejano de un continente americano desolado.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08B28B4WY{{</world>}}
