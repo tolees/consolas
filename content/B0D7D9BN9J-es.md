@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Salta, rueda y pega pisotones en la Isla de Donkey Kong en este juego de aventuras y plataformas en 2D
-- ¡Ayuda a Donkey Kong y Diddy Kong a recuperar su preciada provisión de plátanos de las garras de la tribu Tiki Tak en Donkey Kong Country Returns HD para Nintendo Switch! Pisotea a los enemigos, desplázate entre barriles a velocidades de vértigo y súbete a cohetes, vagonetas e incluso a lomos de Rambi el rinoceronte, en 80 niveles distribuidos en nueve mundos
-- Atacad a los enemigos con la cacahuetola de Diddy, volad con el barril a reacción, aporread el suelo como DK para doblegar a los malos ¡o despachadlos sin más con el ataque rueda! Formad equipo ¡y a por esos plátanos!
 - Aúna fuerzas con otra persona... ¡y completad el juego como Donkey Kong y Diddy Kong! En el modo local para dos jugadores, puedes pasarle un mando Joy-Con a otra persona para enfrentaros a la tribu Tiki Tak como DK y Diddy
+- Salta, rueda y pega pisotones en la Isla de Donkey Kong en este juego de aventuras y plataformas en 2D
+- Atacad a los enemigos con la cacahuetola de Diddy, volad con el barril a reacción, aporread el suelo como DK para doblegar a los malos ¡o despachadlos sin más con el ataque rueda! Formad equipo ¡y a por esos plátanos!
+- ¡Ayuda a Donkey Kong y Diddy Kong a recuperar su preciada provisión de plátanos de las garras de la tribu Tiki Tak en Donkey Kong Country Returns HD para Nintendo Switch! Pisotea a los enemigos, desplázate entre barriles a velocidades de vértigo y súbete a cohetes, vagonetas e incluso a lomos de Rambi el rinoceronte, en 80 niveles distribuidos en nueve mundos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D7D9BN9J{{</world>}}

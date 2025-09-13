@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- AVENTURA SIN PRECEDENTES: Sumérgete en la emocionante vida de Joshua Hayes, enfrentando desafíos en realidades paralelas. "The Gap" te lleva más allá de la imaginación, con puzles innovadores y la mecánica del déjà vu para avanzar en esta odisea de PS5.
-- NARRATIVA ENVOLVENTE: La lucha de una familia contra un trastorno neurológico se convierte en tu lucha. "The Gap" entrelaza recuerdos y realidades, ofreciendo una historia rica y profunda que tocará tu corazón.
-- EXCLUSIVIDAD DEFINITIVA: La Edición Limitada te brinda acceso a contenido exclusivo, intensificando tu experiencia de juego. "The Gap" para PS5 es más que un juego; es una puerta a un universo lleno de dinamismo. Además, incluye una postal metalizada y la banda sonora descargable.
-- JUGABILIDAD MAGISTRAL: Exploración, puzles, y decisiones críticas definen "The Gap". Cada decisión impacta el destino de Joshua y su familia, en un juego que redefine el concepto de aventura y estrategia.
 - VISUALES IMPACTANTES: Gráficos revolucionarios y nuevos personajes en cada nivel hacen de "The Gap" una experiencia visual sin igual. Prepárate para ser transportado a un mundo donde la belleza y el detalle cobran vida.
+- AVENTURA SIN PRECEDENTES: Sumérgete en la emocionante vida de Joshua Hayes, enfrentando desafíos en realidades paralelas. "The Gap" te lleva más allá de la imaginación, con puzles innovadores y la mecánica del déjà vu para avanzar en esta odisea de PS5.
+- JUGABILIDAD MAGISTRAL: Exploración, puzles, y decisiones críticas definen "The Gap". Cada decisión impacta el destino de Joshua y su familia, en un juego que redefine el concepto de aventura y estrategia.
+- EXCLUSIVIDAD DEFINITIVA: La Edición Limitada te brinda acceso a contenido exclusivo, intensificando tu experiencia de juego. "The Gap" para PS5 es más que un juego; es una puerta a un universo lleno de dinamismo. Además, incluye una postal metalizada y la banda sonora descargable.
+- NARRATIVA ENVOLVENTE: La lucha de una familia contra un trastorno neurológico se convierte en tu lucha. "The Gap" entrelaza recuerdos y realidades, ofreciendo una historia rica y profunda que tocará tu corazón.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CXJ492VG{{</world>}}

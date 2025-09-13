@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Sumérgete en impresionantes efectos visuales combinados con una cautivadora banda sonora
+- Un cuento con los pies en la tierra presa de fuerzas sobrenaturales
+- Escabúllete, lucha y desata impresionantes plagas de ratas
 - Incluye un STEELBOOK con arte exclusivo
 - Más de 100 premios y nominaciones
-- Escabúllete, lucha y desata impresionantes plagas de ratas
-- Un cuento con los pies en la tierra presa de fuerzas sobrenaturales
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHL9H8ST{{</world>}}

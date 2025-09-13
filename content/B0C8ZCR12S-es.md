@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Como 2D, el juego es fácilmente accesible y utilizable para jugadores de todas las edades
-- Nuevo Marios fortalecedor que le permite transformarse en elefante Mario. Además de los personajes clásicos (Mario, Luigi, Toad y Peach), en este juego también será posible gastar Daisy y Yoshi
 - Multijugador local y en línea para noches llenas de diversión compartida entre amigos y familiares
+- Nuevo Marios fortalecedor que le permite transformarse en elefante Mario. Además de los personajes clásicos (Mario, Luigi, Toad y Peach), en este juego también será posible gastar Daisy y Yoshi
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C8ZCR12S{{</world>}}

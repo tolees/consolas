@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- El Kioto de la década de 1860 está plagado de desigualdades generalizadas, y un samurái cambiará el curso de la historia en su búsqueda de la justicia
 - Coge la espada de Sakamoto Ryoma y aventúrate en Kioto para encontrar al asesino de tu padre, exculparte de un asesinato y restaurar tu honor
 - Rormato de juego PS5
-- El Kioto de la década de 1860 está plagado de desigualdades generalizadas, y un samurái cambiará el curso de la historia en su búsqueda de la justicia
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGKYCJVG{{</world>}}

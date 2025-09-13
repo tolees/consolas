@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Disfruta de la emotiva historia y los inolvidables personajes de The Last of Us
-- Gráficos mejorados, carga rápida, respuesta háptica, gatillo adaptativos y audio 3D
 - Resiste y sobrevive
+- Gráficos mejorados, carga rápida, respuesta háptica, gatillo adaptativos y audio 3D
 - Revive el aclamado juego que lo cambió todo para la consola PlayStation5
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Un luchador para una otra generación
 - Arcade Quest
+- Un luchador para una otra generación
 - Juego de otra rivalidad
 - Este juego trae un modo de juego específico
 

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Combina espadas, hechizos, armas y escudos para abrirte paso. Compañeros de distintas especies lucharán a tu lado, cada uno con su propio conjunto de habilidades únicas
 - Eres el enviado de Aedyr, una tierra lejana, enviado para investigar rumores sobre una plaga que se extiende por las Tierras Vivas, una isla llena de misterios y secretos, peligro y aventura, elecciones y consecuencias, y naturaleza salvaje
-- La edición Premium SteelBook incluye: el juego base de Avowed, acceso anticipado de hasta 5 días, SteelBook de Avowed, mapa de las Tierras Vivas, dos packs de apariencia Premium y acceso al libro de arte digital y la banda sonora original de Avowed
+- Combina espadas, hechizos, armas y escudos para abrirte paso. Compañeros de distintas especies lucharán a tu lado, cada uno con su propio conjunto de habilidades únicas
+- Explora una isla con una gran variedad de entornos y paisajes, cada uno con su propio ecosistema único
 - Ambientado en el mundo ficticio de Eora, presentado a los jugadores por primera vez en la franquicia Pillars of Eternity, Avowed es un juego de roles de acción y fantasía, en primera persona, del galardonado equipo de Obsidian Entertainment
 - El juego está incluido como código digital en la caja
-- Explora una isla con una gran variedad de entornos y paisajes, cada uno con su propio ecosistema único
+- La edición Premium SteelBook incluye: el juego base de Avowed, acceso anticipado de hasta 5 días, SteelBook de Avowed, mapa de las Tierras Vivas, dos packs de apariencia Premium y acceso al libro de arte digital y la banda sonora original de Avowed
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DMWPPFVC{{</world>}}

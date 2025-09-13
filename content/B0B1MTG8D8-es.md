@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Caza otros animales para alimentar a tus cachorros, y evita convertirte en la presa
 - Pon tu instinto de supervivencia a prueba, y toma decisiones morales implacables
+- Caza otros animales para alimentar a tus cachorros, y evita convertirte en la presa
 - Explore devastated environments based on real issues
 - Encuentra nuevas guaridas para estar a salvo de amenazas naturales y no naturales
 

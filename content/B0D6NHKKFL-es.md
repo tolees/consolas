@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Referencia: S71010026
-- Color: Multicolor
-- Medidas: 17 x 13,4 x 1,2 centímetros
 - ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
+- Color: Multicolor
 - Videojuego de la marca Bandai Namco
+- Medidas: 17 x 13,4 x 1,2 centímetros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D6NHKKFL{{</world>}}

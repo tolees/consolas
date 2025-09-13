@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- In Western Europe is a small island called Alpeciel where the black flowers of misfortune grow. This island is ruled by a royal family – the Revpowells. However, this is not a regular island. The people of this island are born with a "death curse" and are doomed to die before age 23. Before they turn 23, their lungs cease to function and they die a slow death.
 - The system that was created—a “memory download” - is where the body that dies by age 23 is discarded, and only the memories live on. Those who live forever through memory download are known as “relivers” and continue to resist their short lives.
 - In order to combat the rapidly shrinking population, the powers that be managed to create a super technological advancement that allowed them to clone someone’s memory and body in the process called “ReLife”.
+- In Western Europe is a small island called Alpeciel where the black flowers of misfortune grow. This island is ruled by a royal family – the Revpowells. However, this is not a regular island. The people of this island are born with a "death curse" and are doomed to die before age 23. Before they turn 23, their lungs cease to function and they die a slow death.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BMB7H35G{{</world>}}
