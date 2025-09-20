@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Este video juego es un inmersivo juego de rol en solitario en el que tendrás que destacar como líder; Une a la guardia del Velo y desafía a los dioses en Dragon Age: The Veilguard
-- ELIGE TU FORMA DE JUGAR: En tus aventuras, adquirirás nuevas técnicas y descubrirás artefactos únicos y poderosos que mejorarán tu estilo de combate; Prepárate, pues tendrás que tomar decisiones difíciles
-- Reúne a la GUARDIA DEL VELO: Reúne a un equipo de siete camaradas con historias profundas y llenas de matices; El grupo incluye personajes como un asesino, un nigromante y una detective que aportarán su propia experiencia y técnicas únicas al combate
 - SALVA UN MUNDO MALTRATADO: Entra en Thedas, un vibrante mundo de agrestes páramos, laberintos traicioneros y ciudades resplandecientes; El mundo está al borde del colapso mientras unos dioses corruptos desatan el caos por todo el continente
 - USA TU CARISMA Y DESTACA COMO LÍDER: Elige entre distintas razas y clases de combate, personaliza tu apariencia, elige el trasfondo de tu personaje y comienza tu aventura como Rook, la nueva figura heroica de Dragon Age; La decisión es tuya
+- ELIGE TU FORMA DE JUGAR: En tus aventuras, adquirirás nuevas técnicas y descubrirás artefactos únicos y poderosos que mejorarán tu estilo de combate; Prepárate, pues tendrás que tomar decisiones difíciles
+- Reúne a la GUARDIA DEL VELO: Reúne a un equipo de siete camaradas con historias profundas y llenas de matices; El grupo incluye personajes como un asesino, un nigromante y una detective que aportarán su propia experiencia y técnicas únicas al combate
+- Este video juego es un inmersivo juego de rol en solitario en el que tendrás que destacar como líder; Une a la guardia del Velo y desafía a los dioses en Dragon Age: The Veilguard
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DCGCMC7B{{</world>}}

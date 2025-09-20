@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Micrófono móvil dedicado: hay un segundo micrófono oculto en los auriculares que funciona sin el micrófono cardioide hyperclear, muy útil para cuando tengas que hablar mientras te desplazas, ya sea para juegos en línea o para responder llamadas
+- Diafragmas de titanio de 50 mm razer triforce: con diafragmas recubiertos de titanio para una nitidez extra, nuestros innovadores diafragmas pueden sintonizar agudos, medios y graves por separado, lo que produce un sonido óptimo y nítido con agudos más ricos y graves más potentes
 - Tipo de conectividad: inalámbrico
 - Almohadillas de espuma viscoeslástica transpirable: gracias a su tejido, que no atrapa el calor, los auriculares resultan muy cómodos, y la diadema acolchada ofrece incluso óptima comodidad para que te mantengas en plena forma durante las maratones de juego
-- Micrófono móvil dedicado: hay un segundo micrófono oculto en los auriculares que funciona sin el micrófono cardioide hyperclear, muy útil para cuando tengas que hablar mientras te desplazas, ya sea para juegos en línea o para responder llamadas
-- Botón de sincronización de ecualización y xbox: toca dos veces para alternar entre los 4 ajustes de ecualización, como el modo fps, que óptimiza el audio del juego, por ejemplo, los pasos del enemigo, y el modo graves, que amplifica los sonidos de baja frecuencia; mantén pulsado una vez para conectar los auriculares a la consola
-- Diafragmas de titanio de 50 mm razer triforce: con diafragmas recubiertos de titanio para una nitidez extra, nuestros innovadores diafragmas pueden sintonizar agudos, medios y graves por separado, lo que produce un sonido óptimo y nítido con agudos más ricos y graves más potentes
 - Micrófono supercardioide razer hyperclear: con un rechazo de ruido lateral y trasero óptimo, el micrófono extraíble de 9.9 mm cuenta también con una frecuencia baja de respuesta sensible, así como control de micrófono y equilibrio juego-chat para asegurar niveles óptimos
+- Botón de sincronización de ecualización y xbox: toca dos veces para alternar entre los 4 ajustes de ecualización, como el modo fps, que óptimiza el audio del juego, por ejemplo, los pasos del enemigo, y el modo graves, que amplifica los sonidos de baja frecuencia; mantén pulsado una vez para conectar los auriculares a la consola
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08GG9N1HH{{</world>}}

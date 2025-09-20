@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- LÚCETE – Dale estilo a tus amigos ponis con accesorios personalizables.
+- DIVIERSIÓN A RAUDALES – Minijuegos, coleccionables, fotos ¡y mucho más!
 - TODOS LOS PONIS REUNIDOS – Juega con tus ponis favoritos.
 - EXPLORA EL REINO – Salva Altos de Céfiro, la ciudad entre las nubes.
-- DIVIERSIÓN A RAUDALES – Minijuegos, coleccionables, fotos ¡y mucho más!
-- LÚCETE – Dale estilo a tus amigos ponis con accesorios personalizables.
 - JUEGA EN COOPERATIVO – Aventura para uno o dos jugadores.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

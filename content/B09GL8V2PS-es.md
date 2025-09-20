@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Usa tu jet pack para saltar, impulsarte en el aire, planear y atravesar este fantástico mundo abierto
-- Ten el control total para abordar la historia a tu ritmo en este mundo no lineal
-- Combina decenas de diferentes módulos para crear tu armamento personal y derribar a los robots invasores
-- Explora un mundo sin límites, descubre templos ocultos y la peligrosa fauna
 - Conoce la cultura Talan mientras liberas a los aldeanos y obtienes acceso a los antiguos poderes antiguos de Talan para usar la fuerza de la naturaleza para destruir a tus enemigos
+- Ten el control total para abordar la historia a tu ritmo en este mundo no lineal
+- Explora un mundo sin límites, descubre templos ocultos y la peligrosa fauna
+- Usa tu jet pack para saltar, impulsarte en el aire, planear y atravesar este fantástico mundo abierto
+- Combina decenas de diferentes módulos para crear tu armamento personal y derribar a los robots invasores
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09GL8V2PS{{</world>}}

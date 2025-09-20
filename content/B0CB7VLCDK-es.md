@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El traje de Megatron: El accesorio mochilero Emblema Decepticon, El pico Maza de energon, El gesto Cañón de fusión
 - El juego es un cupón Code in a Box, no incluye un cartucho/ disco.
-- El traje de Autobús de batalla: El accesorio mochilero Roboglobo, El pico Pico de Axle
 - 1000 paVos
-- El traje de Bumblebee: El accesorio mochilero Alas de Bumblebee, El pico Sable de Stinger, El gesto Listo para el combate
 - Avanza, álzate o toca el claxon con el pack de Transformers; incluye 3 trajes, 3 accesorios mochileros, 3 picos, 2 gestos, y 1000 paVos
+- El traje de Autobús de batalla: El accesorio mochilero Roboglobo, El pico Pico de Axle
+- El traje de Megatron: El accesorio mochilero Emblema Decepticon, El pico Maza de energon, El gesto Cañón de fusión
+- El traje de Bumblebee: El accesorio mochilero Alas de Bumblebee, El pico Sable de Stinger, El gesto Listo para el combate
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CB7VLCDK{{</world>}}

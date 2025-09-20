@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Une réimagination ludique de la Mecque de lélectronique au Japon - Faites une visite virtuelle du quartier dAkihabara, recréé dans les moindres détails, avec un tracé précis des rues et des magasins
 - Maniez un arsenal de figurines, dobjets de collection et dautres objets amusants pour humilier les vampires, tout en portant une gamme élégante de vêtements et de costumes personnalisables.
-- Dans AKIBAS TRIP : Hellbound & Debriefed, plongez dans le monde souterrain au c ur dAkihabara. Rejoindront les "Akiba Freedom Fighters" et combatte des créatures connues sous le nom de Shadow Soul
+- Une réimagination ludique de la Mecque de lélectronique au Japon - Faites une visite virtuelle du quartier dAkihabara, recréé dans les moindres détails, avec un tracé précis des rues et des magasins
 - Choisissez quelle faction soutenir dans la lutte pour Akihabara et observez comment vos décisions influencent le cours de lhistoire, jusquà lune des nombreuses fins possibles
 - Doublage audio anglais et japonais - Profitez dheures de dialogues entièrement doublées avec le choix entre langlais et le japonais original.
+- Dans AKIBAS TRIP : Hellbound & Debriefed, plongez dans le monde souterrain au c ur dAkihabara. Rejoindront les "Akiba Freedom Fighters" et combatte des créatures connues sous le nom de Shadow Soul
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B096KDNTDT{{</world>}}

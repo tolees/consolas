@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Gráficos pixelados con estilo
 - Lo que sin duda encontrarás en este juego (de nuevo):
 - Banda sonora chiptune
 - 69 (^_^) fases diferentes para demostrar tu habilidad.
+- Gráficos pixelados con estilo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F8JJBP8J{{</world>}}

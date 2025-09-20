@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ahora cuentas con más opciones que nunca para enfrentarte tanto a enemigos humanos como a entidades sobrenaturales. ¿Irás directo a la acción? ¿Preferirás utilizar el sigilo para evitar a los enemigos? ¿O esquivarás el peligro por completo? Sólo tú eliges cómo afrontar cada situación.
 - Únete a ellos y recorre un mundo asolado por enemigos sobrenaturales, obstáculos y una inquietante pregunta: ¿deberíamos haber conectado?
-- La historia sigue a Sam en un nuevo viaje tras los acontecimientos de Death Stranding. Espera lo inesperado.
-- Los vastos entornos en el mundo abierto de Death Stranding 2: On the Beach están llenos de secretos por descubrir, son increíblemente variados y ofrecen desafíos únicos que superar.
 - Tus acciones pueden afectar a cómo interactúan otros jugadores con el mundo del juego y viceversa. Asegúrate de dejar tu huella.
-- Paso a paso, el legendario creador de videojuegos Hideo Kojima vuelve a cambiar el mundo.
-- Sam emprende un nuevo viaje junto a sus compañeros para salvar a la humanidad de la extinción.
 - Embárcate en una inspiradora misión de conexión humana más allá de las UCA.
+- Los vastos entornos en el mundo abierto de Death Stranding 2: On the Beach están llenos de secretos por descubrir, son increíblemente variados y ofrecen desafíos únicos que superar.
+- La historia sigue a Sam en un nuevo viaje tras los acontecimientos de Death Stranding. Espera lo inesperado.
+- Sam emprende un nuevo viaje junto a sus compañeros para salvar a la humanidad de la extinción.
+- Paso a paso, el legendario creador de videojuegos Hideo Kojima vuelve a cambiar el mundo.
+- Ahora cuentas con más opciones que nunca para enfrentarte tanto a enemigos humanos como a entidades sobrenaturales. ¿Irás directo a la acción? ¿Preferirás utilizar el sigilo para evitar a los enemigos? ¿O esquivarás el peligro por completo? Sólo tú eliges cómo afrontar cada situación.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DZXY46HC{{</world>}}

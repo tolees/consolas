@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El "modo confort" permite a los jugadores teletransportarse de un punto a otro, eliminando por completo cualquier posible molestia
 - Mientras tanto, los usuarios experimentados de realidad virtual pueden seleccionar el "modo libre" para moverse y mirar a su alrededor con los botones del pulgar
+- El "modo confort" permite a los jugadores teletransportarse de un punto a otro, eliminando por completo cualquier posible molestia
 - Manipule reliquias hd, examine documentos y controle la linterna con el movimiento del controlador sixaxis mientras descubre el misterio de la casa de la infancia de lara en primera persona
 
 [🛒 Comprar!!!]({{< param buyurl >}})

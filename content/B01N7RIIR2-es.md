@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - El pack incluye 2 volantes
-- Controles Joy-Con no incluidos
 - Aporta más emoción a tus carreras de Mario Kart 8 Deluxe para Nintendo Switch introduciendo tu Joy-con en el volante
+- Controles Joy-Con no incluidos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01N7RIIR2{{</world>}}

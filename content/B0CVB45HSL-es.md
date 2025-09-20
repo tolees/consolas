@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- All Different Flavors to Choose From – Pick from three different modes that can satiate anyone with a sweet tooth. Select “After Drama” mode to follow-up with the original Parasite 6 and pick up from where you last left off. Go with “New Parasite” mode for a chance to experience Merenice Levins perspective of the events that take place after the common route of Cupid Parasite. You can also explore routes you unlocked in “Bonus Episode” mode for six bonus episodes with their own unlockable CGs!
-- Sweeter, Spicier! – Return to Los York with the original cast of Cupid Parasite, plus an all new-character Merenice Levin. Rendezvous with seven of the sweetest and spiciest bachelors in up to 3 game modes and unlock over 80 CGs, including some that may be too hot to handle!
 - In Sweetness and In Spiciness?! – You must choose the flavour of the next course. Will you go with the sweet? Or will you go with the spicy? When prompted with the choice during gameplay, select between sweet or spicy to impact the ending of your selected route. Manage to balance the flavours for a chance at something really appetizing.
+- All Different Flavors to Choose From – Pick from three different modes that can satiate anyone with a sweet tooth. Select “After Drama” mode to follow-up with the original Parasite 6 and pick up from where you last left off. Go with “New Parasite” mode for a chance to experience Merenice Levins perspective of the events that take place after the common route of Cupid Parasite. You can also explore routes you unlocked in “Bonus Episode” mode for six bonus episodes with their own unlockable CGs!
 - Rich, Decadent Visuals and Savory Scenarios – The original scenario writer and illustrator of Cupid Parasite return! Ririka Yoshimura (scenario writer) and Yuuya (illustrator) join forces once again to bring fans a delectable addition to the Cupid Parasite universe.
+- Sweeter, Spicier! – Return to Los York with the original cast of Cupid Parasite, plus an all new-character Merenice Levin. Rendezvous with seven of the sweetest and spiciest bachelors in up to 3 game modes and unlock over 80 CGs, including some that may be too hot to handle!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CVB45HSL{{</world>}}
