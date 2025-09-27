@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Descanso para pulso removível: Um descanso para pulso macio e emborrachado reduz o esforço das suas mãos para você jogar por mais tempo de forma confortável. Além disso.
-- Seis teclas de macro dedicadas: Ative funções, atalhos ou acionamento de teclas, de forma rápida, com seis teclas de macro dedicadas facilmente configuráveis com o software iCUE da CORSAIR.
 - Design resistente a poeira e respingos: A proteção com classificação IP42 protege contra acidentes, assim seus jogos nunca precisam ser interrompidos.
-- Teclas silenciosas e ágeis: Para uma digitação confortável durante o trabalho ou jogos, com um impacto tátil para um desempenho gamer responsivo.
 - Luz de fundo RGB dinâmica: Ilumine a sua área de trabalho com seis efeitos de iluminação integrados, atribua uma cor a cada zona de iluminação ou programe os seus próprios efeitos.
-- Teclas de volume e multimídia dedicadas: Controle a reprodução de mídias e ajuste o volume rapidamente sem interromper seu jogo.
 - Design resistente a poeira e respingos: A proteção com classificação IP42 protege contra acidentes, assim seus jogos nunca precisam ser interrompidos.
+- Seis teclas de macro dedicadas: Ative funções, atalhos ou acionamento de teclas, de forma rápida, com seis teclas de macro dedicadas facilmente configuráveis com o software iCUE da CORSAIR.
+- Teclas silenciosas e ágeis: Para uma digitação confortável durante o trabalho ou jogos, com um impacto tátil para um desempenho gamer responsivo.
+- Teclas de volume e multimídia dedicadas: Controle a reprodução de mídias e ajuste o volume rapidamente sem interromper seu jogo.
+- Descanso para pulso removível: Um descanso para pulso macio e emborrachado reduz o esforço das suas mãos para você jogar por mais tempo de forma confortável. Além disso.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08YKGSZB7{{</world>}}

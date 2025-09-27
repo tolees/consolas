@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 3 Litografías
+- Steelbook
 - Banda sonora digital
 - Libro de arte
-- Steelbook
 - Incluye:
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Firmware actualizable: Soporta el software 8BitDo Ultimate para PS5, PS4, Xbox One y los mandos pro de Switch en Switch y Windows
+- Permite su uso con Nintendo Switch, PC con Windows y macOS, Android TV box, Raspberry Pi y Retrofreak
+- Amplia gama de compatibilidad: Funciona con todos los mandos Bluetooth y arcade sticks de 8BitDo, mando Bluetooth de Xbox One, DualShock 3, DualShock 4, DualShock 4 Pro de PS5, mando de Wii, Wii U Pro, Joy-Con de Switch, mandos de Switch Pro
 - Fácil conexión: Sólo tienes que vincular este adaptador a tu mando inalámbrico para permitir la misma experiencia inalámbrica a la que estás acostumbrado en las mejores plataformas.
 - Bluetooth integrado: 2.1 Garantiza un juego sin retrasos
-- Firmware actualizable: Soporta el software 8BitDo Ultimate para PS5, PS4, Xbox One y los mandos pro de Switch en Switch y Windows
-- Amplia gama de compatibilidad: Funciona con todos los mandos Bluetooth y arcade sticks de 8BitDo, mando Bluetooth de Xbox One, DualShock 3, DualShock 4, DualShock 4 Pro de PS5, mando de Wii, Wii U Pro, Joy-Con de Switch, mandos de Switch Pro
-- Permite su uso con Nintendo Switch, PC con Windows y macOS, Android TV box, Raspberry Pi y Retrofreak
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B01NCLG45T{{</world>}}

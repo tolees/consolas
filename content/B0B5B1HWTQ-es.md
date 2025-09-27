@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 3 expansiones: El príncipe exiliado, Legado y La marca de la asesina.
-- Tienda de objetos de El Emporio Negro.
 - La Ultimate Edition incluye el juego básico.
+- Tienda de objetos de El Emporio Negro.
 - Conviértete en el Campeón de Kirkwall.
+- 3 expansiones: El príncipe exiliado, Legado y La marca de la asesina.
 - Conjunto de armadura Sangre de dragón y más.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

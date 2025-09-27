@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- JUGABILIDAD SIN PROBLEMAS: Tarjeta diseñada en asociación con Xbox para jugar sin problemas a juegos de Xbox Series X desde la unidad SSD interna o la tarjeta de expansión sin que los gráficos, la latencia, el tiempo de carga o la velocidad de fotogramas se vean afectados
 - REANUDACIÓN RÁPIDA: Cambie entre varios títulos en cuestión de segundos desde la unidad SSD interna o la tarjeta de expansión
+- JUGABILIDAD SIN PROBLEMAS: Tarjeta diseñada en asociación con Xbox para jugar sin problemas a juegos de Xbox Series X desde la unidad SSD interna o la tarjeta de expansión sin que los gráficos, la latencia, el tiempo de carga o la velocidad de fotogramas se vean afectados
 - 3 años Rescue Services incluidos
 - ALTA CAPACIDAD: 2 TB de almacenamiento que permite aumentar la capacidad general de Xbox Series X y Xbox Series S; gracias a ella, puede recopilar miles de juegos en cuatro generaciones de Xbox sin que el rendimiento se vea perjudicado
 
