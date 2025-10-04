@@ -30,11 +30,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - El diseño que se desliza fácilmente conecta cada Joy-Con al cargador
 - El diseño que se desliza fácilmente conecta cada Joy-Con al cargador
+- Base contrapesada para añadir estabilidad
+- Base contrapesada para añadir estabilidad
 - Funciona con USB
 - Carga hasta 4 mandos Joy-Con a la vez
-- Base contrapesada para añadir estabilidad
 - Funciona con USB
-- Base contrapesada para añadir estabilidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MR6JD1M{{</world>}}

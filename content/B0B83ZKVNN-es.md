@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Esta edición incluye:
 - Trading card
+- Esta edición incluye:
 - Hoja de pegatinas
 
 [🛒 Aquí!!!]({{< param buyurl >}})

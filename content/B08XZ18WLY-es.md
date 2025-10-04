@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Incluso puedes construir una pista de carreras dentro de tu propia habitación, un espacio que podrás personalizar con los muebles y los objetos que recogerás durante tu viaje
-- Prepárate para divertirte y demostrar tus habilidades de conducción. Derrapa como un profesional, carga tu impulso y atraviesa los bucles para vencer al tiempo, a los rivales y a la propia gravedad. Compite junto a un amigo en el modo local de pantalla dividida para 2 jugadores o enfréntate a hasta 12 jugadores online en un evento mundial
-- Los terrenos de juego temáticos están listos para acoger las carreras envolventes
-- Diviértete dentro y fuera de la pista con estos entornos bellamente detallados e interactivos, donde cualquier objeto puede desempeñar un papel y ser parte real de tu circuito
 - Dobla y estira la icónica pieza de pista naranja para crear tu diseño y luego añade potenciadores especiales, bucles, obstáculos y elementos interactivos para construir tu propio paraíso de las carreras
+- Diviértete dentro y fuera de la pista con estos entornos bellamente detallados e interactivos, donde cualquier objeto puede desempeñar un papel y ser parte real de tu circuito
+- Los terrenos de juego temáticos están listos para acoger las carreras envolventes
+- Prepárate para divertirte y demostrar tus habilidades de conducción. Derrapa como un profesional, carga tu impulso y atraviesa los bucles para vencer al tiempo, a los rivales y a la propia gravedad. Compite junto a un amigo en el modo local de pantalla dividida para 2 jugadores o enfréntate a hasta 12 jugadores online en un evento mundial
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08XZ18WLY{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Accesible para todos
 - Personajes variados con una historia interesante
 - Una experiencia única
+- Accesible para todos
 - Obtendras mucha diversión
 - Excelentes gráficos
 

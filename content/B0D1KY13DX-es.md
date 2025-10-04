@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Explora el Mysterious Blue Hole: Desde diminutos peces tropicales hasta pulpos colosales, ¡el mundo marino está lleno de biodiversidad! Nunca sabes qué encontrarás bajo las aguas. Escapa de depredadores y pesca ingredientes frescos para el sushi. Las reliquias ancestrales que hay dispersas por el inmenso mundo submarino apuntan a misterios aún más profundos.
 - Aspectos de barco: ¡Decora tu pesquero con populares personajes de GGST!
-- Arte de la caja en inglés; Textos del juego en: inglés, francés, italiano, alemán, español, chino tradicional, chino simplificado, portugués, ruso, japonés y coreano
 - Juego de ritmo: ¡Juega al ritmo de la banda sonora de GGST!
+- Explora el Mysterious Blue Hole: Desde diminutos peces tropicales hasta pulpos colosales, ¡el mundo marino está lleno de biodiversidad! Nunca sabes qué encontrarás bajo las aguas. Escapa de depredadores y pesca ingredientes frescos para el sushi. Las reliquias ancestrales que hay dispersas por el inmenso mundo submarino apuntan a misterios aún más profundos.
+- Arte de la caja en inglés; Textos del juego en: inglés, francés, italiano, alemán, español, chino tradicional, chino simplificado, portugués, ruso, japonés y coreano
 - Aspectos de personaje: ¡Algunos clientes pueden visitar el bar de sushi vestidos con cosplay de GGST!
 - El Midnight Sushi Bar: Prepara deliciosos platos de sushi con ingredientes del día. Si corre la voz, ¡podrían visitarte clientes especiales! Acumula ventas en el bar de sushi para adentrarte en el mar de lo desconocido!
 
