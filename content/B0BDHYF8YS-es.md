@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Color negro
 - Auriculares de sonido con micrófono
 - Sensación envolvente
-- Color negro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BDHYF8YS{{</world>}}

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - COMBATE REVOLUCIONARIO: Enfréntate a desafíos sin precedentes con un sistema de combate innovador en TEVI, donde la estrategia y la acción se fusionan para ofrecerte una experiencia de juego dinámica y emocionante.
-- EXPLORACIÓN ÉPICA: Aventúrate en el vasto y misterioso mundo de TEVI, un Metroidvania que te sumerge en más de 40 áreas interconectadas, acompañado por una banda sonora épica con más de 70 pistas magistrales.
 - EXCLUSIVIDAD GARANTIZADA: Descubre las características especiales y contenidos únicos que solo la edición estándar de TEVI para Nintendo Switch puede ofrecerte. Una aventura excepcional te espera, ya sea en solitario o en compañía.
-- RETOS MONUMENTALES: Prepárate para superar más de 20 fases de jefes épicas, diseñadas para desafiar tus habilidades y estrategias en TEVI. Disfruta de una experiencia visual inigualable con gráficos en 2D detallados y niveles meticulosamente diseñados.
+- EXPLORACIÓN ÉPICA: Aventúrate en el vasto y misterioso mundo de TEVI, un Metroidvania que te sumerge en más de 40 áreas interconectadas, acompañado por una banda sonora épica con más de 70 pistas magistrales.
 - INMERSIÓN LEGENDARIA: Sé protagonista de una narrativa emocionante en TEVI, donde más de 50 personajes con voces únicas te arrastrarán a una historia rica en matices y aventuras inolvidables.
+- RETOS MONUMENTALES: Prepárate para superar más de 20 fases de jefes épicas, diseñadas para desafiar tus habilidades y estrategias en TEVI. Disfruta de una experiencia visual inigualable con gráficos en 2D detallados y niveles meticulosamente diseñados.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CY2XTHD6{{</world>}}

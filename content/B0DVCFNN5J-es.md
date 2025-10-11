@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Estilo clásico de los 90, con gráficos de pixel art dibujados a mano.
 - Acción y peleas en 2D con secuencias de disparos y conducción de vehículos de estilo arcade.
-- Elenco de enemigos populares entre los fans, sacados de las distintas temporadas de la exitosa serie televisiva.
 - Remix de eventos y episodios memorables de la serie.
+- Elenco de enemigos populares entre los fans, sacados de las distintas temporadas de la exitosa serie televisiva.
+- Estilo clásico de los 90, con gráficos de pixel art dibujados a mano.
 - Pilotea todos los Dinozords originales.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

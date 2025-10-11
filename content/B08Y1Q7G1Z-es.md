@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DOS PUERTOS DELANTEROS Conecte y alimente sus periféricos en los puertos USB-C y USB-A delanteros.
 - LUZ Y COLOR Una barra LED integrada ilumina su centro Gaming con un verde Xbox.
 - GARANTÍA Disfrute de la tranquilidad que le proporciona contar con 3 años de Rescue Data Recovery Services para la recuperación de datos y 1 año de garantía limitada.
+- DOS PUERTOS DELANTEROS Conecte y alimente sus periféricos en los puertos USB-C y USB-A delanteros.
 - ALTA CAPACIDAD Los 8 TB de capacidad permiten tener el repositorio Gaming definitivo sin renunciar a ningún título.
 - CERTIFICADA PARA X-BOX Compatible con Xbox Series X, Xbox Series S y todas las generaciones de Xbox One.
 

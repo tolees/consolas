@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Reversible: en la parte delantera de la funda nórdica hay una gran impresión de Mario, Luigi, Bowser y Toad sobre un fondo rojo, amarillo y azul. El reverso cuenta con conchas rojas, 1 arriba y estrellas un fondo azul, con una funda de almohada reversible a juego
+- Producto oficial: juego de cama oficial de Nintendo, incluye una funda de edredón y funda de almohada, y cuenta con personajes icónicos de Super Mario y Mario Kart
 - Medidas: tamaño individual estándar del Reino Unido, la funda de edredón mide 135 x 200 cm y la funda de almohada mide 74 x 48 cm
 - De origen responsable: hecho de una mezcla de polialgodón de origen responsable y poliéster reciclado
-- Producto oficial: juego de cama oficial de Nintendo, incluye una funda de edredón y funda de almohada, y cuenta con personajes icónicos de Super Mario y Mario Kart
 - Cuidado fácil: la funda nórdica se cierra con botones de presión, por lo que es fácil de abrir y quitar lista para el lavado. La ropa de cama es apta para lavadora y secadora a baja temperatura
 
 [🛒 Comprar!!!]({{< param buyurl >}})

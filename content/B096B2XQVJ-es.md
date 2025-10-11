@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Tensión: 240 voltios
+- Marca del producto: BenQ
 - Tamaño de la pantalla: 27 pulgadas
 - Resolución: 2560 x 1440 Píxeles 2K Ultra HD
-- Marca del producto: BenQ
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B096B2XQVJ{{</world>}}

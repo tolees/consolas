@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Juega como Mickey y sus amigos: Elige a tu personaje favorito y desbloquea habilidades especiales mientras llevas a cabo logros de altos vuelos en plataformas, resuelves divertidos puzles y te enfrentas a épicas batallas de jefes
-- Forma parte de los dibujos animados de Mickey: Vive una aventura completamente nueva de Mickey y sus amigos con animación dibujada a mano, banda sonora original con orquesta y voces profesionales
 - Diversión con amigos en modo cooperativo de 4 jugadores: Juega en solitario o con hasta tres amigos para salvar la isla de Monoth en el modo cooperativo de 4 jugadores. Forma un equipo con tus amigos y utiliza habilidades exclusivas como Caída de la cuerda, Salto de la rana y Abrazo del corazón
+- Forma parte de los dibujos animados de Mickey: Vive una aventura completamente nueva de Mickey y sus amigos con animación dibujada a mano, banda sonora original con orquesta y voces profesionales
+- Juega como Mickey y sus amigos: Elige a tu personaje favorito y desbloquea habilidades especiales mientras llevas a cabo logros de altos vuelos en plataformas, resuelves divertidos puzles y te enfrentas a épicas batallas de jefes
 - Desvela los misterios de la Isla de la Ilusión de Disney: Corre, nada, colúmpiate y salta a través de la bonita y a la vez misteriosa isla y descubre ricos biomas, enigmáticos personajes y secretos ocultos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

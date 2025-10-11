@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CAOS COMBINAR 3: : No se trata solo de un juego de defensa de torres, sino que tiene el añadido de una mecánica de combinar 3 de lo más adictiva. Conecta gemas en el campo de recursos para obtener monedas y comprar felitorres. Intercambia y combina gatos en el campo de batalla para crear torres mejoradas y lanzar ataques devastadores.
 - DISFRUTA LA BATALLA: Cats on Duty es un miauravilloso juego que combina las mecánicas de los títulos de estrategia en tiempo real, los de defensa de torres y los de combinar 3. Gestiona dos campos de juego al mismo tiempo, arma y mejora tus felitorres y derrota a hordas de rivales. ¡Disfruta de la batalla!
-- GATUNALIDADES: Prepárate para batallas épicas, travesuras desternillantes y maullidos adorables, y deja que tus guerreros den rienda suelta a su gatunalidad y sus habilidades especiales. La combinación de diversión y estrategia no dejará que te aburras entre batalla y batalla.
-- DEFENSA DE TORRES: Defiende tu territorio con un enorme arsenal de armas, desde potentes fusiles con un gran alcance de tiro hasta espadas ninjas más afiladas que las tijeras de un peluquero felino. Coloca a tus soldados de manera estratégica para asegurarte la victoria en el campo de batalla.
 - DEFIENDE TU HOGAR: Un ejército de gatos armados hasta los bigotes y curtidos en batallas contra roedores y ovillos de lana debe defender su hogar —y sus areneros— contra las fuerzas del mal. Tendrás a tu disposición a una gran variedad de gatos para luchar contra 50 tipos de criaturas enemigas diferentes. Saca uñas ¡y devuelve a los zombis a las profundidades del inframundo!
+- GATUNALIDADES: Prepárate para batallas épicas, travesuras desternillantes y maullidos adorables, y deja que tus guerreros den rienda suelta a su gatunalidad y sus habilidades especiales. La combinación de diversión y estrategia no dejará que te aburras entre batalla y batalla.
+- CAOS COMBINAR 3: : No se trata solo de un juego de defensa de torres, sino que tiene el añadido de una mecánica de combinar 3 de lo más adictiva. Conecta gemas en el campo de recursos para obtener monedas y comprar felitorres. Intercambia y combina gatos en el campo de batalla para crear torres mejoradas y lanzar ataques devastadores.
+- DEFENSA DE TORRES: Defiende tu territorio con un enorme arsenal de armas, desde potentes fusiles con un gran alcance de tiro hasta espadas ninjas más afiladas que las tijeras de un peluquero felino. Coloca a tus soldados de manera estratégica para asegurarte la victoria en el campo de batalla.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DQD79YY3{{</world>}}

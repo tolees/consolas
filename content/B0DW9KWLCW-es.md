@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Vive el conflicto épico entre Kain y Raziel en su versión original o con gráficos remasterizados.
-- Empuña los poderes de un espectro: Destroza a tus hermanos vampiros con tus garras, rayos de energía telequinética y la segadora de almas elemental. Devora las almas de tus enemigos para hacerte más fuerte.
-- Sumérgete en una narrativa legendaria: Siglos después de que Kain, tu anterior amo, te traicionara y ejecutara, vuelves a alzarte para embarcarte en una búsqueda de venganza insaciable.
 - Títulos incluidos: Legacy of Kain: Soul Reaver & Legacy of Kain: Soul Reaver 2
+- Empuña los poderes de un espectro: Destroza a tus hermanos vampiros con tus garras, rayos de energía telequinética y la segadora de almas elemental. Devora las almas de tus enemigos para hacerte más fuerte.
 - Viaja entre reinos: El Dios Antiguo te ha otorgado la capacidad de viajar entre el reino espectral y el material. Recorre los reinos para resolver acertijos, revelar nuevos caminos y derrotar a tus enemigos. Idiomas: Voces: castellano, alemán, francés, inglés, italiano, japonés, ruso; Subtítulos: castellano, alemán, francés, inglés, italiano, japonés, chino simplificado, ruso.
+- Vive el conflicto épico entre Kain y Raziel en su versión original o con gráficos remasterizados.
+- Sumérgete en una narrativa legendaria: Siglos después de que Kain, tu anterior amo, te traicionara y ejecutara, vuelves a alzarte para embarcarte en una búsqueda de venganza insaciable.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DW9KWLCW{{</world>}}

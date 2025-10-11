@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sé testigo del nacimiento de los Saints: disfruta de una historia repleta de acción, delincuencia, escenas extraordinarias y sorpresas marca de la casa, rematadas con sentido del humor
+- Descubre el salvaje y extraño Oeste: sumérgete en Santo Ileso, el mayor y mejor patio de juegos jamás creado en Saints Row, dividido en nueve distritos únicos, rodeados de la vasta y majestuosa belleza del desierto del suroeste estadounidense
+- Construye tu propio imperio criminal: conquista la ciudad manzana a manzana, declara la guerra a las facciones enemigas y controla las calles con mano férrea gracias a ingeniosas empresas delictivas
 - Dispara, dispara mucho: dispara revólveres desde la cadera, dispara y olvida con el lanzacohetes o destroza a corta distancia con pesos pesados del cuerpo a cuerpo, derribos brutales incluidos. Una amplia variedad de armas exóticas y familiares, todas personalizables y mortalmente divertidas
 - Domina las calles y los cielos: surca entornos urbanos y desérticos en cualquiera de los coches, motos, aviones, helicópteros, VTOL, motos voladoras, hoverboards, karts o equípate con un traje aéreo y echa a volar
-- Construye tu propio imperio criminal: conquista la ciudad manzana a manzana, declara la guerra a las facciones enemigas y controla las calles con mano férrea gracias a ingeniosas empresas delictivas
-- Descubre el salvaje y extraño Oeste: sumérgete en Santo Ileso, el mayor y mejor patio de juegos jamás creado en Saints Row, dividido en nueve distritos únicos, rodeados de la vasta y majestuosa belleza del desierto del suroeste estadounidense
+- Sé testigo del nacimiento de los Saints: disfruta de una historia repleta de acción, delincuencia, escenas extraordinarias y sorpresas marca de la casa, rematadas con sentido del humor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09DTHR7W6{{</world>}}
