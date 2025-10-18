@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Continúa el viaje de Cal - Cal, que ya no es un padawan, se ha convertido en un poderoso caballero Jedi.
+- Domina nuevas habilidades, equipamiento y destrezas que aumentarán la forma de explorar, luchar y vagar.
+- Los Tiempos Oscuros se acercan y, con enemigos nuevos y conocidos que le rodean, Cal tendrá que decidir hasta dónde está dispuesto a llegar para salvar a sus seres queridos.
 - Explora una galaxia indómita: descubre nuevos planetas y fronteras conocidas en la galaxia de Star Wars, cada uno con biomas, desafíos y enemigos únicos.
 - Ve más allá de tu entrenamiento - El sistema de combate cinemático regresa con habilidades adicionales de la Fuerza y nuevos estilos de lucha con sable láser.
-- Continúa el viaje de Cal - Cal, que ya no es un padawan, se ha convertido en un poderoso caballero Jedi.
-- Los Tiempos Oscuros se acercan y, con enemigos nuevos y conocidos que le rodean, Cal tendrá que decidir hasta dónde está dispuesto a llegar para salvar a sus seres queridos.
-- Domina nuevas habilidades, equipamiento y destrezas que aumentarán la forma de explorar, luchar y vagar.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BTLJB31G{{</world>}}

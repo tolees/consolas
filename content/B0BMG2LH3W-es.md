@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Se informará a los clientes una vez el producto se haya enviado
-- la cantidad está limitada a una unidad por cliente
-- Las reservas de Playstation VR2 se entregarán, como tarde, el 22/02/2023
 - Explora todos nuestros productos
+- la cantidad está limitada a una unidad por cliente
+- Se informará a los clientes una vez el producto se haya enviado
+- Las reservas de Playstation VR2 se entregarán, como tarde, el 22/02/2023
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BMG2LH3W{{</world>}}

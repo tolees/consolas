@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- RECARGADO. REIMAGINADO. RENACIDO. ¡LA SERIE ORIGINAL DE CORRER Y DISPARAR ESTÁ DE VUELTA!
 - IMPRESIONANTES OVERLOADS: ¡Causa aún más caos con el sistema Overload (Sobrecarga)! Libera poderes específicos de cada arma, como una barrera, un bombardeo de misiles, un escudo de llamas y ¡mucho más!
-- ARSENAL EXPLOSIVO: ¡Ataca agresivamente con armas como el spread shot (disparo disperso), láser y homing missiles (misiles teledirigidos), ahora con mejoras acumulables!
 - ACCIÓN COOPERATIVA DE 4 JUGADORES: ¡Únete con amigos para un combate cooperativo local! Hasta dos jugadores pueden unirse en el Modo Historia y hasta cuatro jugadores pueden unir fuerzas en el Modo Arcade.
+- ARSENAL EXPLOSIVO: ¡Ataca agresivamente con armas como el spread shot (disparo disperso), láser y homing missiles (misiles teledirigidos), ahora con mejoras acumulables!
 - JUGABILIDAD CLÁSICA DE CORRER Y DISPARAR: ¡Corre, salta y dispara en ocho niveles llenos de acción! ¡Infíltrate en la jungla, asciende por la cascada, avanza a gran velocidad a través de una base enemiga en un hovercycle y mucho más!
+- RECARGADO. REIMAGINADO. RENACIDO. ¡LA SERIE ORIGINAL DE CORRER Y DISPARAR ESTÁ DE VUELTA!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CP3TSF6L{{</world>}}

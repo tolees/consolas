@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- EXPLORA EL REINO – Salva Altos de Céfiro, la ciudad entre las nubes.
-- LÚCETE – Dale estilo a tus amigos ponis con accesorios personalizables.
-- DIVIERSIÓN A RAUDALES – Minijuegos, coleccionables, fotos ¡y mucho más!
-- TODOS LOS PONIS REUNIDOS – Juega con tus ponis favoritos.
 - JUEGA EN COOPERATIVO – Aventura para uno o dos jugadores.
+- DIVIERSIÓN A RAUDALES – Minijuegos, coleccionables, fotos ¡y mucho más!
+- LÚCETE – Dale estilo a tus amigos ponis con accesorios personalizables.
+- EXPLORA EL REINO – Salva Altos de Céfiro, la ciudad entre las nubes.
+- TODOS LOS PONIS REUNIDOS – Juega con tus ponis favoritos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CXTR48XH{{</world>}}

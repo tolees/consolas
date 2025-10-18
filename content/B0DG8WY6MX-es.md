@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Audio espacial Dolby Atmos inmersivo en PC*: Experimente una nueva dimensión de inmersión en el juego, ya que Dolby Atmos sitúa el audio del juego completamente a su alrededor con una puesta en escena en 3D, lo que le permite detectar cada señal sonora y escuchar cada entonación del diálogo con un sonido multidireccional de cine. *Solo para PC.
+- Micrófono omnidireccional: El micrófono omnidireccional capta la voz con nitidez de transmisión, para mantenerse conectado con su equipo, independientemente de la plataforma.
 - Tecnología SoundID de SonarWorks: Sea el artífice de su propio universo sonoro. Utilice Sonarworks SoundID en PC y Mac* para ajustar la configuración de los auriculares a sus preferencias, lo que le proporciona un control total sobre la calibración del audio. *Con la iluminación RGB desactivada.
 - Transductores de grafeno de 50 mm de última generación: Los transductores de grafeno de 50 mm elevan el audio a una calidad vanguardista, con un sonido nítido y preciso. Apasiónese con la riqueza y variedad que ofrecen sus juegos.
 - Cancelación activa del ruido: Mantenga la inmersión en el juego con la cancelación activa del ruido, que silencia el ruido exterior y las distracciones para disfrutar de una concentración imperturbable.
-- Micrófono omnidireccional: El micrófono omnidireccional capta la voz con nitidez de transmisión, para mantenerse conectado con su equipo, independientemente de la plataforma.
+- Audio espacial Dolby Atmos inmersivo en PC*: Experimente una nueva dimensión de inmersión en el juego, ya que Dolby Atmos sitúa el audio del juego completamente a su alrededor con una puesta en escena en 3D, lo que le permite detectar cada señal sonora y escuchar cada entonación del diálogo con un sonido multidireccional de cine. *Solo para PC.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DG8WY6MX{{</world>}}
