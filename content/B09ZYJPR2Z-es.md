@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Compatible con PC, SWITCH, ANDROID, PS3, PS4 y IOS
-- Mando élite diseñado para la competición, Botones traseros y laterales configurables
-- Soporte Smartphone incluido
 - D-PAD o Entrada de XY AXIS, Facil personalización
+- Soporte Smartphone incluido
+- Mando élite diseñado para la competición, Botones traseros y laterales configurables
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09ZYJPR2Z{{</world>}}

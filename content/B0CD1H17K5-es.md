@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Este conjunto, ideal para mayores de 18 años, está diseñado para constructores que deseen disfrutar de una experiencia de construcción gratificante.
 - Modelo de réplica de la Xbox 360 para construir (a escala 3:4), con un diseño auténtico con detalles precisos
+- Incluye una consola y un controlador con luces que funcionan de verdad, además de un disco duro, un disco de juego y una funda
 - Los bloques y las piezas se combinan con todos los conjuntos de construcción de MEGA y son compatibles con otras marcas principales
 - Cuenta con un disco duro extraíble y paneles laterales que revelan un interior interactivo
-- Incluye una consola y un controlador con luces que funcionan de verdad, además de un disco duro, un disco de juego y una funda
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CD1H17K5{{</world>}}

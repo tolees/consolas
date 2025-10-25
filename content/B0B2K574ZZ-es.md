@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Banda sonora original compuesta por Carlos Viola
-- Inspirado en las obras de H.P. Lovecraft y Edgar Allan Poe
 - Incluye todos los episodios, extras y contenido adicional
 - La Complete Edition incluye el Libro de Retratos
+- Inspirado en las obras de H.P. Lovecraft y Edgar Allan Poe
 - Sigue a Jeremiah Devitt en su viaje al corazón de la locura y más allá adentrándose en la oscuridad
+- Banda sonora original compuesta por Carlos Viola
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0B2K574ZZ{{</world>}}

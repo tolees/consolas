@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Craft magical weapons and upgrade them to complement your playstyle!
-- Square off against powerful beasts in fast-paced battle
 - Find love among a wonderful cast of characters
+- Square off against powerful beasts in fast-paced battle
 - Brought to you by D3PUBLISHER, developer FELISTELLA
+- Craft magical weapons and upgrade them to complement your playstyle!
 - Enter the fantasy world of Eusdeal and play as a male or female Killizzerk, the Demon Lord of Swords
 
 [🛒 Visítala!!!]({{< param buyurl >}})

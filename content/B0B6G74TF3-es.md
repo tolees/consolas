@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- UN FUTURO NO ESCRITO: Atreus busca el conocimiento que le ayude a comprender la profecía de "Loki" y establecer su papel en el Ragnarök. Kratos debe decidir entre someterse al miedo de repetir sus errores o dejar atrás el pasado y convertirse en el padre que Atreus necesita.
-- COMPATIBILIDAD E IDIOMAS: God of War Ragnarok para PlayStation 5 edición estándar está disponible en español y portugués entre otros idiomas y es compatible solo con PS5. Se requiere suscripción a PS Plus para acceder al modo multijugador.
-- INSTRUMENTOS DE GUERRA: El hacha Leviatán, las Espadas del Caos y el escudo del Guardián regresan junto con un gran número de nuevas habilidades para Kratos y Atreus. Las letales habilidades espartanas de Kratos estarán a prueba como nunca antes.
 - EXPLORA VASTOS REINOS: Viaja a través de peligrosos e increíbles escenarios mientras te enfrentas a una gran variedad de criaturas, monstruos y dioses nórdicos al tiempo que Kratos y Atreus buscan respuestas.
+- UN FUTURO NO ESCRITO: Atreus busca el conocimiento que le ayude a comprender la profecía de "Loki" y establecer su papel en el Ragnarök. Kratos debe decidir entre someterse al miedo de repetir sus errores o dejar atrás el pasado y convertirse en el padre que Atreus necesita.
+- INSTRUMENTOS DE GUERRA: El hacha Leviatán, las Espadas del Caos y el escudo del Guardián regresan junto con un gran número de nuevas habilidades para Kratos y Atreus. Las letales habilidades espartanas de Kratos estarán a prueba como nunca antes.
+- COMPATIBILIDAD E IDIOMAS: God of War Ragnarok para PlayStation 5 edición estándar está disponible en español y portugués entre otros idiomas y es compatible solo con PS5. Se requiere suscripción a PS Plus para acceder al modo multijugador.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B6G74TF3{{</world>}}

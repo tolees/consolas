@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Otros personajes se unen a la refriega para reforzar un plantel ya de por sí potente
-- Los gráficos pixelados de alta definición dan vida a cada batalla con una calidad asombrosa
 - Disfruta del verdadero esplendor del combate con una lista de movimientos ampliada, junto con funciones online y un sistema de batalla ampliado
+- Los gráficos pixelados de alta definición dan vida a cada batalla con una calidad asombrosa
+- Otros personajes se unen a la refriega para reforzar un plantel ya de por sí potente
 - El código de red Rollback garantiza que cada golpe se materialice por completo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

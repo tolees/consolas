@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Usa tus poderes del tiempo, habilidades de combate y movimientos para ejecutar combos letales y derrotar a criaturas mitológicas y enemigos corrompidos por el tiempo.
-- Descubre un mundo maldito lleno de lugares exuberantes inspirado en Persia. Explora una gran variedad de biomas, cada uno con su propia identidad, maravillas y peligros.
 - Sumérgete en una fantasía mitológica persa a través de una historia original y misteriosa, mientras usas tu ingenio para resolver puzles, encontrar tesoros ocultos y cumplir misiones que te permitirán saber más sobre este lugar corrupto.
+- Descubre un mundo maldito lleno de lugares exuberantes inspirado en Persia. Explora una gran variedad de biomas, cada uno con su propia identidad, maravillas y peligros.
 - Se aplican condiciones y restricciones. Para actualizar las copias en disco físico que
 
 [🛒 Comprar!!!]({{< param buyurl >}})
