@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para su lanzamiento completo, el juego incluirá 12 equipos, cada uno con su propio terreno de juego y animadores, modos Campaña y Multijugador, y más opciones de personalización de las que jamás haya recibido un juego de Blood Bowl
-- Como entrenador, debes dar instrucciones a tus jugadores: obstaculiza el progreso de tus oponentes colocándolos en tu zona de tackle, derriba a los que se interpongan en tu camino y atraviesa la zona de meta de tus oponentes para anotar un touchdown
 - Un juego de estrategia por turnos inspirado en el fútbol americano del mundo de fantasía de Warhammer donde elfos, humanos, orcos y otras criaturas luchan por el balón con golpes en el hombro, patadas, puñetazos y armas de diversos grados de letalidad (y legalidad por parte del árbitro)
+- Como entrenador, debes dar instrucciones a tus jugadores: obstaculiza el progreso de tus oponentes colocándolos en tu zona de tackle, derriba a los que se interpongan en tu camino y atraviesa la zona de meta de tus oponentes para anotar un touchdown
+- Para su lanzamiento completo, el juego incluirá 12 equipos, cada uno con su propio terreno de juego y animadores, modos Campaña y Multijugador, y más opciones de personalización de las que jamás haya recibido un juego de Blood Bowl
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0981CVBQ3{{</world>}}

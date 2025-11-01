@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Soporte de juego integrado para el modo de sobremesa
-- Moldeado interior con forro de felpa y rejilla de almacenamiento con cremallera ideal para ambos sistemas
-- Con licencia oficial de Nintendo y garantía limitada de dos años: visita PowerA.com/Support
-- La solapa protectora de pantalla acolchada integrada incluye almacenamiento de juegos para nueve tarjetas de juego
 - Coge la bandera de cuadros con pegatinas de los patrocinadores de las carreras de Mario Kart
+- Con licencia oficial de Nintendo y garantía limitada de dos años: visita PowerA.com/Support
 - Carcasa exterior sólida con asa de goma y cremalleras dobles resistentes
+- Moldeado interior con forro de felpa y rejilla de almacenamiento con cremallera ideal para ambos sistemas
+- La solapa protectora de pantalla acolchada integrada incluye almacenamiento de juegos para nueve tarjetas de juego
+- Soporte de juego integrado para el modo de sobremesa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BVKYY1PG{{</world>}}

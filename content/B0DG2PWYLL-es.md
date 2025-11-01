@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Mapas de sombras de alta resolución
+- 60 fps
 - Mejora de efectos posteriores
 - Resolución nativa 4K; retroalimentación háptica
-- 60 fps
 - Incluye todos los DLCs anteriores
 
 [🛒 Visítala!!!]({{< param buyurl >}})

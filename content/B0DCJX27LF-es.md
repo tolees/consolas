@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Beautifully rearranged soundtrack in a faithful FINAL FANTASY style, overseen by original composer Nobuo Uematsu
 - Dive into the world of the game with supplemental extras like the bestiary, illustration gallery, and music player
-- Universally updated 2D pixel graphics, including the iconic FINAL FANTASY character pixel designs created by Kazuko Shibuya, the original artist and current collaborator
 - Additional boost features to expand gameplay options, including switching off random encounters and adjusting experience gained multipliers between 0 and 4
+- Universally updated 2D pixel graphics, including the iconic FINAL FANTASY character pixel designs created by Kazuko Shibuya, the original artist and current collaborator
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DCJX27LF{{</world>}}

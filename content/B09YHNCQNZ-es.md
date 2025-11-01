@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Referencia: S7191228
-- Color: Multicolor
-- Auriculares con Micrófono de la marca Corsair
-- Medidas: 24,9 x 23,1 x 8,1 centímetros
 - ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
+- Auriculares con Micrófono de la marca Corsair
+- Color: Multicolor
+- Referencia: S7191228
+- Medidas: 24,9 x 23,1 x 8,1 centímetros
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09YHNCQNZ{{</world>}}

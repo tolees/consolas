@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Playful reimagining of Japans Electronics Mecca, the famous Akihabara district has been painstakingly recreated to become a virtual Tour of Tokyos "electric town" Circa 2011, complete with accurate street layouts and shops based on real businesses present at the time
-- full Dual audio, enjoy hours of voiced-over banter in your choice of English or the original Japanese
 - fight like a Nerd, in the battle for Akihabara, anything counts as a weapon. Pick up an arsenal of replicas, collectibles, and other random junk to humiliate vampires into Submission with, all while doing it in style with a wide array of customizable clothes and costumes
 - your choices matter, every faction in the fight wants your power. What you choose to do with that power will decide the course of the story, leading to any one of several different endgames
+- full Dual audio, enjoy hours of voiced-over banter in your choice of English or the original Japanese
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B095T42VRD{{</world>}}

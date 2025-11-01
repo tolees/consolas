@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Mundo: Emprende un sinnúmero de misiones y descubre objetos ocultos en más de 150 zonas del mundo magníficas que combinan dioramas hechos a mano con gráficos generados por ordenador.
 - Combate: Usando el Warp Device que ha encontrado, Leo debe embarcarse en una aventura interdimensional para recuperar sus recuerdos perdidos y salvar el mundo de la infección de mechteria.
+- Mundo: Emprende un sinnúmero de misiones y descubre objetos ocultos en más de 150 zonas del mundo magníficas que combinan dioramas hechos a mano con gráficos generados por ordenador.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJ13HZLS{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Levas de cambio secuencial en el volante
+- Botón "m" funcional: utiliza el objeto equipado en el kart
 - Licencia oficial de nintendo
 - Compatible también con otros juegos de carreras para nintendo switch
 - Incluye pedales analógicos para una experiencia de conducción más realista
-- Levas de cambio secuencial en el volante
-- Botón "m" funcional: utiliza el objeto equipado en el kart
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07YMFYRVQ{{</world>}}

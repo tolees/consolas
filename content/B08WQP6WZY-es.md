@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 8.02317E+12
-- Negro
 - Peso del artículo: 2.8 onzas
+- Negro
+- 8.02317E+12
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08WQP6WZY{{</world>}}

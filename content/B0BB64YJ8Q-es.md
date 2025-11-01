@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La funda protectora está específicamente diseñada para Switch, se ajusta perfectamente al modelo de 2017 y no es compatible con Switch OLED (2021) ni Switch Lite (2019). La consola Switch y los Joy--Con no están incluidos.
-- ✔️ Puede instalarse en la base sin quitar la funda protectora, pero tenga en cuenta que, debido al mayor grosor de la funda protectora, necesitará usar un poco de fuerza al insertar la consola en la base para cargarla. Sin embargo, no se preocupe, esto no afectará la carga del Switch ni dañará su dispositivo Switch.
 - Fabricada en material TPU de alta calidad, con propiedades a prueba de golpes, resistente a caídas y arañazos, proporcionando protección integral para su Switch contra golpes diarios, caídas y otros daños.
 - Soporta la apertura del soporte trasero de la consola Switch, permitiéndole utilizar la función del soporte sin ninguna interferencia. Disfrute de una mejor experiencia de juego.
+- ✔️ Puede instalarse en la base sin quitar la funda protectora, pero tenga en cuenta que, debido al mayor grosor de la funda protectora, necesitará usar un poco de fuerza al insertar la consola en la base para cargarla. Sin embargo, no se preocupe, esto no afectará la carga del Switch ni dañará su dispositivo Switch.
+- La funda protectora está específicamente diseñada para Switch, se ajusta perfectamente al modelo de 2017 y no es compatible con Switch OLED (2021) ni Switch Lite (2019). La consola Switch y los Joy--Con no están incluidos.
 - Adopta un diseño dividido, la funda protectora para la consola Switch y los Joy--Con es separada y no afectará el uso de todos los botones, puertos de carga, ranuras para tarjetas de juego, etc. Diseño delgado, casi no agrega peso adicional, lo que la hace conveniente para llevar y usar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
