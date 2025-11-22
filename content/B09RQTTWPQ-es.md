@@ -29,13 +29,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Compatible con PS5/PS4/PC
-- Componentes de alta calidad para mayor precisión y durabilidad, incluyendo botones mecánicos Micro Switch
-- Stick analógico de corto recorrido con restrictor octagonal para una mayor rapidez y precisión
-- Hasta 4 perfiles distintos
-- Diseñado específicamente para juegos de lucha en 2D
-- Licencia oficial de Sony
 - Fácil configuración con la aplicación complementaria, compatible con PC
+- Stick analógico de corto recorrido con restrictor octagonal para una mayor rapidez y precisión
 - Toma de auriculares y controles de audio integrados
+- Componentes de alta calidad para mayor precisión y durabilidad, incluyendo botones mecánicos Micro Switch
+- Licencia oficial de Sony
+- Diseñado específicamente para juegos de lucha en 2D
+- Hasta 4 perfiles distintos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09RQTTWPQ{{</world>}}

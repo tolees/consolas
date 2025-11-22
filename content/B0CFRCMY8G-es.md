@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - PERSONAJES EXTRAVAGANTES: Humanos, elfos, orcos y mucho más. Explora el mundo a través de las historias que te cuentan tus clientes a la vez que disfrutas de un ambiente relajado en tu cafetería.
-- UN VIDEOJUEGO ÚNICO: El Coffee Talk 2 in 1 Double Pack ofrece la posibilidad de ayudar a los habitantes de Seattle a resolver sus problemas, mientras les preparas y sirves una reconfortante taza de té. ¡Descubre miles de historias!
 - RESUELVE PROBLEMAS: Adéntrate en las historias de los residentes de un Seattle alternativo, como una dramática historia de amor con un elfo hasta un alienígena que intenta comprender la vida de los humanos. ¡Un universo lleno de fantasía!
-- CAMBIA SUS VIDAS: Combina ingredientes como el té, la menta, el chocolate o el café, entre otros muchos. Experimenta nuevas recetas para servir las mejores bebidas calientes para tus clientes y así ayudarles a tomar las decisiones correctas.
 - DOS EN UNO: Este videojuego incluye el Coffee Talk Episode 1 y Episode 2, que consisten en escuchar los problemas de la gente y brindarles apoyo sirviéndoles una bebida caliente con los ingredientes que tengas disponibles.
+- CAMBIA SUS VIDAS: Combina ingredientes como el té, la menta, el chocolate o el café, entre otros muchos. Experimenta nuevas recetas para servir las mejores bebidas calientes para tus clientes y así ayudarles a tomar las decisiones correctas.
+- UN VIDEOJUEGO ÚNICO: El Coffee Talk 2 in 1 Double Pack ofrece la posibilidad de ayudar a los habitantes de Seattle a resolver sus problemas, mientras les preparas y sirves una reconfortante taza de té. ¡Descubre miles de historias!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CFRCMY8G{{</world>}}

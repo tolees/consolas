@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- No te detengas ante nada con tal de cumplir la misión.
 - Disfruta del aclamado (y querido) cibershooter FAR CRY 3: Blood Dragon, ahora en las plataformas de nueva generación.
+- No te detengas ante nada con tal de cumplir la misión.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09N4CFSG6{{</world>}}

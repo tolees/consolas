@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuado para regalar
 - Juego de entretenimiento
+- Adecuado para regalar
 - Producto de calidad óptima
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

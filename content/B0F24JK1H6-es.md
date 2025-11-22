@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ¡Con una banda sonora con nuevos arreglos de reputados compositores de videojuegos!
-- Disfruta Batsugun con nuevas características actualizadas. ¡Rebobina, guarda y carga para subsanar tus errores!
 - Personaliza tu experiencia. ¡Elige tu escenario, tu música y tus potenciadores favoritos!
+- Disfruta Batsugun con nuevas características actualizadas. ¡Rebobina, guarda y carga para subsanar tus errores!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F24JK1H6{{</world>}}

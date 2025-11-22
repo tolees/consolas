@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Desarrollador: Insomniac Games
 - Ratchet & Clank: Una Dimensión Aparte - por PS5
+- Desarrollador: Insomniac Games
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08WSYLHJ9{{</world>}}

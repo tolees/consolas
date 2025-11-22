@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 4 Spielmodi und neue, exklusive Szenarien
-- Die vielseitige Burst-Kanone bringt strategische Tiefe in die Reihe.Trete an gegen mehr als 40 riesige Schlachtschiffe
 - Moderne HD-Grafik und ein großartiger atmosphärischer Soundtrack
+- Die vielseitige Burst-Kanone bringt strategische Tiefe in die Reihe.Trete an gegen mehr als 40 riesige Schlachtschiffe
 - Hoher Wiederspielwert dank verzweigten Etappen
 - Lokales Co-op für bis zu 4 Spieler
 

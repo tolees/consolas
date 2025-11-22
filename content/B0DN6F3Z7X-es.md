@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 【NOTA】El convertidor óptico SZJUNXIAO a RCA es un convertidor digital a analógico, no se puede utilizar como convertidor analógico a digital! NO es compatible con sonido Dolby en Canales 5.1.
+- 【Plug and Play】Este convertidor de audio no requiere instalación de controladores, alimentado por el cable USB (5 V 1 A). Viene con un cable Toslink (cable óptico) y un cable coaxial para transmitir una señal digital o analógica, no es necesario comprarlas individualmente.
 - 【Convertidor digital a analógico】El adaptador óptico SZJUNXIAO convierte las señales de audio coaxiales ópticas digitales en señales de audio analógicas RCA en salida. Ideal para convertir audio de TV al receptor de cine en casa conectar sus altavoces.
 - 【Velocidad de muestreo estándar】El convertidor de audio digital a analógico soporta velocidades de muestreo de 32, 44,1, 48 y 96 kHz, flujo de bits entrante SPDIF de 24 bits en los canales izquierdo y derecho, proporcionando un sonido claro.
 - 【Compatible con formato de audio】Adaptador RCA Conector de audio de entrada con Toslink y RCA (Coaxial), conector de audio de salida con dos RCA (R/L). Admite salida de señal de audio digital LPCM sin comprimir. (Nota: modulación en formato PCM).
-- 【Plug and Play】Este convertidor de audio no requiere instalación de controladores, alimentado por el cable USB (5 V 1 A). Viene con un cable Toslink (cable óptico) y un cable coaxial para transmitir una señal digital o analógica, no es necesario comprarlas individualmente.
+- 【NOTA】El convertidor óptico SZJUNXIAO a RCA es un convertidor digital a analógico, no se puede utilizar como convertidor analógico a digital! NO es compatible con sonido Dolby en Canales 5.1.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DN6F3Z7X{{</world>}}

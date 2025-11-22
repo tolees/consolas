@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La serie MG-X de Nacon permite a los fans de Xbox disfrutar de una experiencia de juego óptima en teléfonos inteligentes
-- Sistemas Android 6 y versiones posteriores
 - Compatible con juegos disponibles en Google Play Store / Oferta Xbox Game Pass Ultimate no incluida
-- Los controladores MG-X son robustos e incluyen soportes ajustables que se adaptan de forma segura a cualquier teléfono inteligente Android de hasta 6.7 pulgadas
+- La serie MG-X de Nacon permite a los fans de Xbox disfrutar de una experiencia de juego óptima en teléfonos inteligentes
 - Con sus dos asas y la forma tradicional del controlador, proporciona comodidad y robustez para disfrutar plenamente de tus juegos favoritos de Smartphone; agarre ergonómico con empuñaduras para largas sesiones de juego
+- Los controladores MG-X son robustos e incluyen soportes ajustables que se adaptan de forma segura a cualquier teléfono inteligente Android de hasta 6.7 pulgadas
+- Sistemas Android 6 y versiones posteriores
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0912LSQS5{{</world>}}

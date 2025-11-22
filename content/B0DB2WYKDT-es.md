@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cada nivel tiene una historia que contar - Cada nuevo nivel al que llegues tendrá su propio escenario con vida propia y pequeñas historias por descubrir, inspiradas en ciudades y pueblos neerlandeses y europeos de la vida real
-- La edición física incluye 4 tarjetas de arte con escenas del juego
-- Sistema de plataformas 3D único - Solo puedes moverte por las sombras, así que tendrás que ingeniártelas para saltar a las sombras de los objetos animados y los seres en movimiento y usarlas para avanzar
 - La historia de una persona que pierde su sombra - Un schim es el alma y el espíritu de un objeto o un ser vivo. ¡Todo cuanto existe tiene uno, y no deben separarse nunca! ¡Tienes que encontrar la forma de volver con el ser humano al que perteneces antes de que sea demasiado tarde!
+- Sistema de plataformas 3D único - Solo puedes moverte por las sombras, así que tendrás que ingeniártelas para saltar a las sombras de los objetos animados y los seres en movimiento y usarlas para avanzar
 - Un precioso mundo abstracto - La paleta de colores cambia en cada nivel para plasmar el ambiente, la hora del día y el ánimo de las ubicaciones que explores
+- La edición física incluye 4 tarjetas de arte con escenas del juego
+- Cada nivel tiene una historia que contar - Cada nuevo nivel al que llegues tendrá su propio escenario con vida propia y pequeñas historias por descubrir, inspiradas en ciudades y pueblos neerlandeses y europeos de la vida real
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DB2WYKDT{{</world>}}

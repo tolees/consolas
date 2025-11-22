@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Plataforma del juego: PlayStation 4
 - Es un juego para un solo jugador
-- Los jugadores asumirán el control de Ellie
+- Plataforma del juego: PlayStation 4
 - Es un videojuego de acción y aventura
+- Los jugadores asumirán el control de Ellie
 - Tipo de producto: videojuego
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

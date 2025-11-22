@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- KOCH MEDIA SAS Dying Light 2 Deluxe ED PS4 VF
-- KOCH MEDIA SAS
-- 5902385109239
 - 5902390000000
+- KOCH MEDIA SAS Dying Light 2 Deluxe ED PS4 VF
+- 5902385109239
+- KOCH MEDIA SAS
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B095N4K3SG{{</world>}}

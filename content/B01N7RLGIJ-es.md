@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Los pilotos cuentan con el volante inteligente, que ayuda a no salirse de la pista
 - Nuevos personajes: Inkling, Rey Boo, Huesitos y Bowsy
 - Hasta 8 pilotos en partidas de multijugador local
-- Inclusión de circuitos inéditos en el modo batalla
 - Podrás jugar a Mario Kart 8 Deluxe con el manillar de moto de Nintendo Labo - Kit Variado
+- Inclusión de circuitos inéditos en el modo batalla
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01N7RLGIJ{{</world>}}

@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- EL PODER DE LA AMISTAD: Al principio Mio y Zoe no se llevan bien, pero pronto se convierten en la única esperanza de la otra; Este viaje les deparará giros inesperados y, si quieren salir adelante, tendrán que cubrirse las espaldas mutuamente
-- Hay sorpresas esperándoos a tu acompañante y a ti en cada nuevo nivel
-- Pass Amigo: Invita a tu acompañante a jugar contigo gratis en cualquier plataforma (juego cruzado en PS, Xbox y PC) con el Pase de amigo
-- Split Fiction para PlayStation 5 (disco) contiene el juego completo
-- Descubre mundos completamente diferentes entre sí, nuevas habilidades inesperadas y una variedad de mecánicas de juego que incluyen plataformas, puzles y mucho más
-- Escapa de un sol que se está volviendo una supernova, desafía a un mono a una batalla de baile, prueba a hacer trucos geniales en tu aeropatín, lucha contra un malvado gatito y date una vuelta en todo tipo de cosas
-- Se encontrarán con situaciones extrañas mientras atraviesan historias nacidas de su propia imaginación desbocada; Y, lo que es aún más importante, se enfrentarán a ellas juntas
-- Este videojuego es el nuevo e imprescindible juego de aventuras a pantalla partida hecho a medida para dos jugadores; Este juego requiere conexión a Internet
-- UNA VERDADERA AVENTURA COOPERATIVA: Esta aventura en pantalla dividida está hecha para dos; Disfrutad de una jugabilidad cooperativa en la que tendréis que coordinaros y sincronizaros, así como trabajar en equipo para superar los desafíos
 - VARIEDAD SIN IGUAL: Descubre nuevas mecánicas y habilidades en cada nivel de tu aventura, que alternarán entre mundos de ciencia ficción y fantasía
+- Descubre mundos completamente diferentes entre sí, nuevas habilidades inesperadas y una variedad de mecánicas de juego que incluyen plataformas, puzles y mucho más
+- Pass Amigo: Invita a tu acompañante a jugar contigo gratis en cualquier plataforma (juego cruzado en PS, Xbox y PC) con el Pase de amigo
+- Hay sorpresas esperándoos a tu acompañante y a ti en cada nuevo nivel
+- Este videojuego es el nuevo e imprescindible juego de aventuras a pantalla partida hecho a medida para dos jugadores; Este juego requiere conexión a Internet
+- Escapa de un sol que se está volviendo una supernova, desafía a un mono a una batalla de baile, prueba a hacer trucos geniales en tu aeropatín, lucha contra un malvado gatito y date una vuelta en todo tipo de cosas
+- Split Fiction para PlayStation 5 (disco) contiene el juego completo
+- UNA VERDADERA AVENTURA COOPERATIVA: Esta aventura en pantalla dividida está hecha para dos; Disfrutad de una jugabilidad cooperativa en la que tendréis que coordinaros y sincronizaros, así como trabajar en equipo para superar los desafíos
+- EL PODER DE LA AMISTAD: Al principio Mio y Zoe no se llevan bien, pero pronto se convierten en la única esperanza de la otra; Este viaje les deparará giros inesperados y, si quieren salir adelante, tendrán que cubrirse las espaldas mutuamente
+- Se encontrarán con situaciones extrañas mientras atraviesan historias nacidas de su propia imaginación desbocada; Y, lo que es aún más importante, se enfrentarán a ellas juntas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DQ5WMN4H{{</world>}}
