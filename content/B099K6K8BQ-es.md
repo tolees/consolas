@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Incluye Pack Arcoíris, contenido digital adcional
 - Reserva y consigue acceso a Pack Bunyy, contenido digital adicional
+- Incluye Pack Arcoíris, contenido digital adcional
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B099K6K8BQ{{</world>}}

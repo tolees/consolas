@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Drei neue Versus-Modi - Rennen, Panzer, Dodgeball
 - Sidescroll-Shootem Up wie in der guten alten Zeit, aber mit moderner Grafik und Präsentation
+- Drei neue Versus-Modi - Rennen, Panzer, Dodgeball
 - Intertiol products have separate terms, are sold from abroad and may differ from local products, including fit, age ratings, and language of product, labeling or instructions.
 - Lokaler Koop für zwei Spieler im Story-Modus
 

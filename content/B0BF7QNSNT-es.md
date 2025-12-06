@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Comparte los mandos Joy-Con y juega con hasta otros tres personas de manera local en la misma consola.
-- ¡Kirby’s Return to Dream Land Deluxe es una nueva versión de Kirbys Adventure Wii para Nintendo Switch! Hasta cuatro jugadores pueden unirse a Kirby y sus amigos para recorrer Dream Land y ayudar a Maglor a reparar su nave espacial.
 - ¡Tómate un respiro de tanta acción y relájate con subjuegos para hasta cuatro jugadores! Además de subjuegos conocidos como Dojo Ninja y Samurái Kirby, también podrás disfrutar de uno totalmente nuevo: ¡Cazagrimorios de Maglor!
+- ¡Kirby’s Return to Dream Land Deluxe es una nueva versión de Kirbys Adventure Wii para Nintendo Switch! Hasta cuatro jugadores pueden unirse a Kirby y sus amigos para recorrer Dream Land y ayudar a Maglor a reparar su nave espacial.
+- Comparte los mandos Joy-Con y juega con hasta otros tres personas de manera local en la misma consola.
 - Podrás encarnar a personajes tan queridos como Kirby, Meta Knight, Rey Dedede y Waddle Dee pañuelo, o, si lo preferís, también podréis jugar todos como Kirby, cada uno con sus habilidades de copia favoritas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

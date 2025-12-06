@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Nominado a Mejor lanzamiento de acceso anticipado en los Golden Joystick Awards 2022 y con más de 2 millones de copias ya vendidas
-- Recolecta reliquias y recursos para construir tu base, crear herramientas avanzadas y explorar un mundo en evolución dinámica que espera ser desenterrado.
-- Haz crecer tu jardín, pesca en aguas misteriosas, prepara recetas, incuba mascotas, conduce vehículos y forja tu propia aventura única solo o con amigos en un encantador sandbox subterráneo.
 - Explora biomas misteriosos, sube de nivel tus habilidades, enfréntate a los Cavelings, derrota a titanes legendarios y descubre el poder del Núcleo.
+- Recolecta reliquias y recursos para construir tu base, crear herramientas avanzadas y explorar un mundo en evolución dinámica que espera ser desenterrado.
 - Core Keeper es una galardonada aventura sandbox minera que se puede jugar en solitario o con amigos, y en la que tus elecciones dan forma a un viaje épico.
+- Haz crecer tu jardín, pesca en aguas misteriosas, prepara recetas, incuba mascotas, conduce vehículos y forja tu propia aventura única solo o con amigos en un encantador sandbox subterráneo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D4VKM3BQ{{</world>}}

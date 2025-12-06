@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vive las épicas aventuras del Oeste que definieron una generación.
 - Cuando agentes federales amenazan a su familia, el exforajido John Marston se ve obligado a ir tras la banda de criminales que en su día llamó amigos. Vive el viaje de Marston por el extenso territorio del Oeste americano y México, mientras lucha para enterrar su sangriento pasado en el aclamado predecesor del exitoso juego de 2018, Red Dead Redemption 2.
-- Red Dead Redemption incluye las experiencias completas para un jugador de Red Dead Redemption y Undead Nightmare, así como contenido adicional de la Game of the Year Edition y mucho más. Red Dead Redemption no incluye contenido multijugador.
 - También incluye Undead Nightmare, la icónica historia de terror que transforma el mundo de Red Dead Redemption en una lucha apocalíptica por la supervivencia contra una horda zombi.
 - Red Dead Redemption incluye las experiencias completas para un jugador de ambos juegos, así como contenido adicional de la Game of the Year Edition y mucho más.
+- Vive las épicas aventuras del Oeste que definieron una generación.
+- Red Dead Redemption incluye las experiencias completas para un jugador de Red Dead Redemption y Undead Nightmare, así como contenido adicional de la Game of the Year Edition y mucho más. Red Dead Redemption no incluye contenido multijugador.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CGV26PYK{{</world>}}

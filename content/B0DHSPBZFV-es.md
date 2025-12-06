@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CONSIGUE TU PROPIO BARCO: reúne a una singular tripulación mientras mejoras tu barco para explorar los mares, y forja tu leyenda con disparos de cañón, amistades inesperadas e innumerables riquezas que encontrarás por el camino; cuando un barco pirata enemigo te descubra, dará comienzo una emocionante batalla a cañonazos en tiempo real
 - REPARTE CANDELA EN COMBATES CREATIVOS: cambia dinámicamente entre los estilos de lucha Perro Loco y Lobo de Mar para combinar ataques y lograr combos explosivos, esquivas y derribos aéreos que recompensarán tu creatividad con una acción desbordante; en el estilo Perro Loco, usa tu velocidad, agilidad y talento para infligir golpes precisos y poderosos con los que aturdir a tus enemigos
+- CONSIGUE TU PROPIO BARCO: reúne a una singular tripulación mientras mejoras tu barco para explorar los mares, y forja tu leyenda con disparos de cañón, amistades inesperadas e innumerables riquezas que encontrarás por el camino; cuando un barco pirata enemigo te descubra, dará comienzo una emocionante batalla a cañonazos en tiempo real
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHSPBZFV{{</world>}}

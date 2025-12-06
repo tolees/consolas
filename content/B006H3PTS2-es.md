@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Productos compatibles: PlayStation Vita. Color: negro. Voltaje de salida: 5 V
 - Sony 22076 Tipo de cargador: Interior
+- Productos compatibles: PlayStation Vita. Color: negro. Voltaje de salida: 5 V
 - Compatibilidad del cargador: Consola de juegos portátiles
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- **Se necesita una Cuenta de Ubisoft.
-- *Oferta disponible hasta fin de existencias. Unidades limitadas.
-- Enfréntate a los peligros de Pandora aprovechando la certera precisión de las armas tradicionales navi, como el arco y el propulsor de lanzas, o recordando tu entrenamiento con los humanos para usar armas más destructivas como el rifle de asalto o la escopeta.
 - Aprende a controlar tu fuerza y agilidad sobrenaturales, personaliza tu personaje, fabrica equipo nuevo y mejora las habilidades y las armas para adaptarlas a tu estilo de juego.
+- *Oferta disponible hasta fin de existencias. Unidades limitadas.
+- **Se necesita una Cuenta de Ubisoft.
+- Juega la campaña de historia completa en solitario o junto a un amigo en el cooperativo en línea para dos jugadores.
 - Mejore su experiencia de juego con la edición limitada y obtenga acceso al paquete de equipo Sarentu Hunter, que incluye un arma única y un equipo de personaje.
 - Crea un vínculo con tu banshee para obtener ventaja en el combate aéreo y recorrer la extensa Frontera Occidental.
+- Enfréntate a los peligros de Pandora aprovechando la certera precisión de las armas tradicionales navi, como el arco y el propulsor de lanzas, o recordando tu entrenamiento con los humanos para usar armas más destructivas como el rifle de asalto o la escopeta.
 - Consigue gratis el pack Guerrero Aranahe cuando juegues en PlayStation5.**
-- Juega la campaña de historia completa en solitario o junto a un amigo en el cooperativo en línea para dos jugadores.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C6YD63NL{{</world>}}

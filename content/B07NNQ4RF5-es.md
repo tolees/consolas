@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatible con aplicaciones de streaming como XSplit u OBS, y con streaming en YouTube y Twitch nada más sacarlo de la caja
-- Nota La latencia de vídeo en el software es una situación normal y está limitada por el diseño del hardware. Recomendamos jugar el juego en la pantalla del intercomunicador y guardar las imágenes en el ordenador para evitar este problema y The Live Gamer Mini, que es una tarjeta de captura para AVerMedia , es un codificador de hardware según las especificaciones de hardware. Esto significa que la carga de codificación de vídeo no se cargará en la CPU. Sin embargo, esto provocará una ligera latencia.
-- Conecta y usa nada más sacarlo de la caja, no requiere batería. Transmite y graba tus juegos fácilmente en PS4, Xbox One, Switch, Wii U, iPhone, iPad
 - ReCentral La última versión del software de streaming de alto rendimiento, ahora con nuevas herramientas
-- Captura con calidad Full HD a 1080p60 con un codificador de hardware H.264
 - Latencia ultrabaja: disfrute de la reproducción de vídeo sin comprimir directamente en el monitor de su PC prácticamente sin latencia
+- Conecta y usa nada más sacarlo de la caja, no requiere batería. Transmite y graba tus juegos fácilmente en PS4, Xbox One, Switch, Wii U, iPhone, iPad
+- Nota La latencia de vídeo en el software es una situación normal y está limitada por el diseño del hardware. Recomendamos jugar el juego en la pantalla del intercomunicador y guardar las imágenes en el ordenador para evitar este problema y The Live Gamer Mini, que es una tarjeta de captura para AVerMedia , es un codificador de hardware según las especificaciones de hardware. Esto significa que la carga de codificación de vídeo no se cargará en la CPU. Sin embargo, esto provocará una ligera latencia.
+- Captura con calidad Full HD a 1080p60 con un codificador de hardware H.264
+- Compatible con aplicaciones de streaming como XSplit u OBS, y con streaming en YouTube y Twitch nada más sacarlo de la caja
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07NNQ4RF5{{</world>}}
