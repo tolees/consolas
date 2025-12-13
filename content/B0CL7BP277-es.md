@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Ilumina tu consola con una elección de siete colores diferentes con brillo ajustable y ciclos de color
 - Mantiene el acceso a todos los puertos, botones, rejillas de ventilación y otras funciones de la consola
 - Una pieza central impresionante para tu configuración de juego que será la envidia de todos tus compañeros de juego
 - Soporte LED multicolor para tu consola Xbox Series S
-- Ilumina tu consola con una elección de siete colores diferentes con brillo ajustable y ciclos de color
 - Alimentado por USB - se conecta simplemente a la parte trasera de tu consola e incluye un botón de encendido/apagado independiente que se puede utilizar para apagar las luces
 
 [🛒 Visítala!!!]({{< param buyurl >}})

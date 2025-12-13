@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un clásico de 1997 ¡que por fin llega a Occidente!
 - ¡Personaliza tu meka y adáptalo a tus necesidades!
+- Un clásico de 1997 ¡que por fin llega a Occidente!
 - ¡Mejorado con características actualizadas!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

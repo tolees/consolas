@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Configuraciones de la consola: Disfruta de FIFA donde, como y cuando quieras, conéctate a la televisión y juega en solitario o en multijugador, o llévate esos modos a cualquier lugar
-- Mecánicas: FIFA 23 Legacy Edition contará con las mismas mecánicas de juego que tenía FIFA 22 Legacy Edition, sin ninguna novedad ni cambios significativos
 - Modos de legacy: FIFA 23 Legacy Edition incluirá los siguientes modos de juego con las mismas características que en FIFA 22 Legacy Edition
 - Fútbol femenino: El fútbol de clubes femeninos llega por primera vez a FIFA 23 Legacy Edition con la incorporación de la Barclays FA Womens Super League (WSL) y de la France D1 Arkema (D1F)
 - Estadios: FIFA 23 Legacy Edition en Nintendo Switch contará con nuevos estadios de todo el mundo, entre los que se incluyen por primera vez los estadios de competiciones femeninas, como el Manchester City Academy stadium
+- Configuraciones de la consola: Disfruta de FIFA donde, como y cuando quieras, conéctate a la televisión y juega en solitario o en multijugador, o llévate esos modos a cualquier lugar
+- Mecánicas: FIFA 23 Legacy Edition contará con las mismas mecánicas de juego que tenía FIFA 22 Legacy Edition, sin ninguna novedad ni cambios significativos
 - Presentación: FIFA 23 Legacy Edition presentará una identidad visual actualizada con un diseño en la interfaz de usuario y los menús, además de contar con comentarios renovados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

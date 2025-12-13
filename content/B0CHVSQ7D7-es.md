@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ¡Pero la diversión no acaba aquí! El juego no será trifícil, sino muy divertido. ¡Descubre la alegría y las maravillas del mundo de Bluey, que incluye un modo multijugador local para que juegues con tu familia y tus amigos en el modo historia y en el modo libre!
-- Podrás explorar por primera vez lugares icónicos como la casa de los Heeler, los parques, el arroyo y, además, ¡una playa!
-- ¡Pásalo genial con Bluey y su familia en Bluey: el videojuego! Juega a una historia completamente nueva a lo largo de cuatro aventuras interactivas.
 - Juega a tus juegos favoritos de la serie, como ¡Que no toque el suelo!, ¡A la caza de Charlatán! y muchos más.
 - Explora y colecciona objetos para tu álbum de pegatinas, desbloquea atuendos y descubre los secretos y las referencias ocultas de cada lugar. Recrea escenas icónicas o crea tus propias aventuras y tus propios juegos inspirados en Bluey.
+- ¡Pásalo genial con Bluey y su familia en Bluey: el videojuego! Juega a una historia completamente nueva a lo largo de cuatro aventuras interactivas.
+- ¡Pero la diversión no acaba aquí! El juego no será trifícil, sino muy divertido. ¡Descubre la alegría y las maravillas del mundo de Bluey, que incluye un modo multijugador local para que juegues con tu familia y tus amigos en el modo historia y en el modo libre!
+- Podrás explorar por primera vez lugares icónicos como la casa de los Heeler, los parques, el arroyo y, además, ¡una playa!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CHVSQ7D7{{</world>}}

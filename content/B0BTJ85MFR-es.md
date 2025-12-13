@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Prepare yourself to... PROTECT THE INNOCENT AND UPHOLD THE LAW!
 - You have the power to decide how to fulfil prime directives in your own way, but as the story unfolds proceed with caution because corruption and greed know no limits.
+- Prepare yourself to... PROTECT THE INNOCENT AND UPHOLD THE LAW!
 - Armed with your trusty Auto-9, factory-built strength, years of experience on the force and a variety of tools at your disposal, you will fight forces seeking to destroy the city you call home in an all new first-person, explosive hunt for the truth.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

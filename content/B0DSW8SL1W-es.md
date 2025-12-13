@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ¡Inspirado en la época dorada de las recreativas!
 - Acción intensa y una jugabilidad muy pulida
 - ¡Lucha desde Verdún hasta el corazón de un antiguo mundo alienígena!
-- Corre el año 1917 y la guerra ha asolado la Tierra. Miles de millones de personas fueron masacradas.
 - 8 niveles con enormes jefes
-- ¡Inspirado en la época dorada de las recreativas!
 - Ponte en la piel de la Dra. Brunhild Stahlmüller, una consumada científica armamentística que mejora un triplano de la Primera Guerra Mundial con tecnología alienígena superior para atacar a los invasores. Vengarás a la humanidad y llevarás la batalla a la oscuridad del espacio.
+- Corre el año 1917 y la guerra ha asolado la Tierra. Miles de millones de personas fueron masacradas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DSW8SL1W{{</world>}}
