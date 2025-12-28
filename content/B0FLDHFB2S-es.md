@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Jugabilidad en constante evolución: Atraviesa dimensiones cambiantes y portales; minijuegos y niveles que rompen con el género te sorprenderán en cada esquina
-- Lumo2 Edición Estándar: Playstation 5
-- Encanto retro, diseño moderno: Un homenaje a la estética de la era de los 8 bits con mecánicas de plataformas modernas y pulidas
 - Plataformas y puzles con inspiración retro: Una secuela moderna que se apoya en el encanto y la creatividad de los clásicos isométricos británicos
+- Jugabilidad en constante evolución: Atraviesa dimensiones cambiantes y portales; minijuegos y niveles que rompen con el género te sorprenderán en cada esquina
+- Encanto retro, diseño moderno: Un homenaje a la estética de la era de los 8 bits con mecánicas de plataformas modernas y pulidas
+- Lumo2 Edición Estándar: Playstation 5
 - Coleccionables clásicos: Recoge 25 casetes vintage y 20 patos ocultos en ubicaciones ingeniosas que premian la exploración y la perseverancia.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Disfruta de gráficos en 2,5D en los entornos del juego, como ciudades en ruinas, montañas, bosques y cuevas
-- Con una gran variedad de habilidades que puedes aprender a medida que subes de nivel: crea la habilidad que mejor se adapte a tu estilo de juego. Ages 7 and Over
-- Conviértete en una fuerza gracias a las armas, habilidades, artefactos, combos intrincados y movimientos precisos que aprenderás a dominar.
-- Explora niveles llenos de acción, monstruos grotescos y jefes poderosos encontrando pistas que desvelen la historia.
 - Aventura de acción y plataformas en 2.5D estilo metroidvania, centrada en un combate preciso. Domina el sistema de contraataque.
+- Con una gran variedad de habilidades que puedes aprender a medida que subes de nivel: crea la habilidad que mejor se adapte a tu estilo de juego. Ages 7 and Over
+- Explora niveles llenos de acción, monstruos grotescos y jefes poderosos encontrando pistas que desvelen la historia.
+- Disfruta de gráficos en 2,5D en los entornos del juego, como ciudades en ruinas, montañas, bosques y cuevas
+- Conviértete en una fuerza gracias a las armas, habilidades, artefactos, combos intrincados y movimientos precisos que aprenderás a dominar.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DN2LBRZW{{</world>}}

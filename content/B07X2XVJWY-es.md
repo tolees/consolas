@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Inline remote control with access to Mic Mute and Volume level
 - 40mm speakers for powerful bass and a clear sound
 - Cable length: ca. 220cm
 - Ear cups with comfortable cushions
+- Inline remote control with access to Mic Mute and Volume level
 - Adjustable microphone
 
 [🛒 Visítala!!!]({{< param buyurl >}})

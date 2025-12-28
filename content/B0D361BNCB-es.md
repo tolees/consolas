@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pre-order now to get the Thrown to the Dogs bonus quest available at launch, and the Claws of Awaji expansion, releasing later in 2025.*Feel the fear of being hunted and under threat on a mysterious island. Reclaim a lost treasure while avoiding the traps and ambushes of deadly new foes. Master the Bō (a new weapon type), unlock new skills/gear/abilities, and get over 10 hours of additional content.
-- Make information your weapon as you explore the world, and build your own network of spies to be your eyes and ears across locations to hunt down your next target.
-- Create a fully customizable hideout for your growing shinobi league as you train your crew, craft new gear, interact with key characters, and choose your base’s layout, decorations, and accessories.
-- Explore the captivating open world of feudal Japan, from spectacular castle towns and bustling ports to peaceful shrines and war-ravaged landscapes
-- *Bonus mission available at launch and upcoming expansion granted for free as a limited time offer to players who preorder the game at participating retailers (expansion not available at launch, release date to be announced later). Content may also be available for purchase or as a separate giveaway at Ubisoft’s sole discretion. Please check system requirements and product details/restrictions before purchase and upon game release.
-- *Internet connection and Ubisoft Account required to redeem digital content.
 - Become Naoe, a shinobi Assassin, and Yasuke, a legendary samurai, as you experience their riveting stories and master their complementary playstyles. As Naoe, use stealth to avoid detection and agility to confound your enemies. As Yasuke, strike your foes with lethal precision and power.
 - Limited Edition includes: - Base game. - Sekiryu Character Pack including gear and weapon sets for Naoe, the Sekiryu Beast, and Dragon Tooth trinket.
+- Explore the captivating open world of feudal Japan, from spectacular castle towns and bustling ports to peaceful shrines and war-ravaged landscapes
+- Create a fully customizable hideout for your growing shinobi league as you train your crew, craft new gear, interact with key characters, and choose your base’s layout, decorations, and accessories.
+- Make information your weapon as you explore the world, and build your own network of spies to be your eyes and ears across locations to hunt down your next target.
+- *Bonus mission available at launch and upcoming expansion granted for free as a limited time offer to players who preorder the game at participating retailers (expansion not available at launch, release date to be announced later). Content may also be available for purchase or as a separate giveaway at Ubisoft’s sole discretion. Please check system requirements and product details/restrictions before purchase and upon game release.
+- Pre-order now to get the Thrown to the Dogs bonus quest available at launch, and the Claws of Awaji expansion, releasing later in 2025.*Feel the fear of being hunted and under threat on a mysterious island. Reclaim a lost treasure while avoiding the traps and ambushes of deadly new foes. Master the Bō (a new weapon type), unlock new skills/gear/abilities, and get over 10 hours of additional content.
+- *Internet connection and Ubisoft Account required to redeem digital content.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D361BNCB{{</world>}}

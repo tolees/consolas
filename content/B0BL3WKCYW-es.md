@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- M65RGBULTRAWIRELESSWHITE
 - 0
+- M65RGBULTRAWIRELESSWHITE
 - 0
 - 0
 

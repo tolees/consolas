@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- HISTORIA ENVOLVENTE: Explora la sinopsis de Withering Rooms sin repeticiones. Adéntrate en la historia de Nightingale, un joven atrapado en una mansión victoriana repleta de peligros. Descubre secretos oscuros y enfrenta desafíos inesperados en tu búsqueda por la supervivencia.
-- CARACTERÍSTICAS PRINCIPALES: Withering Rooms transforma cada noche la Mansión Mostyn, ofreciendo una experiencia única en PS5. Sumérgete en un juego de rol en 2,5D inspirado en los clásicos del terror y supervivencia, donde la estrategia y el valor son tus mejores aliados.
-- CONTENIDO EXCLUSIVO: Withering Rooms incluye no solo una emocionante aventura de terror, sino también objetos coleccionables, hechizos únicos y una variedad de niveles para explorar. Perfecto para fans de juegos de supervivencia y misterio.
 - MODOS DE JUEGO VARIADOS: Desde el modo individual hasta el multijugador, Withering Rooms ofrece diferentes formas de jugar. Encuentra o fabrica armas, hechizos y artefactos mágicos para superar los desafíos de la Casa Mostyn y sus misterios.
 - GRÁFICOS Y PERSONAJES: La Mansión Mostyn cobra vida con gráficos detallados y nuevos personajes. Cada nivel te sumerge en un ambiente lleno de terror victoriano, con enemigos que desafían tu ingenio y habilidad.
+- HISTORIA ENVOLVENTE: Explora la sinopsis de Withering Rooms sin repeticiones. Adéntrate en la historia de Nightingale, un joven atrapado en una mansión victoriana repleta de peligros. Descubre secretos oscuros y enfrenta desafíos inesperados en tu búsqueda por la supervivencia.
+- CONTENIDO EXCLUSIVO: Withering Rooms incluye no solo una emocionante aventura de terror, sino también objetos coleccionables, hechizos únicos y una variedad de niveles para explorar. Perfecto para fans de juegos de supervivencia y misterio.
+- CARACTERÍSTICAS PRINCIPALES: Withering Rooms transforma cada noche la Mansión Mostyn, ofreciendo una experiencia única en PS5. Sumérgete en un juego de rol en 2,5D inspirado en los clásicos del terror y supervivencia, donde la estrategia y el valor son tus mejores aliados.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CWLN34FP{{</world>}}

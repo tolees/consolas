@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Raccoon City Vuelve una vez más a la ciudad de la catástrofe y la desolación.Una ciudad del medio oeste de los EE.UU., sede central de la desaparecida compañía multinacional Umbrella.Durante el brote zombi de 1998, el gobierno aprobó una operación de esterilización: un ataque con misiles a la ciudad como intento para ganar el control de la situación, que fue encubierto rápidamente.
 - Grace Ashcroft Una analista de inteligencia del FBI con gran capacidad para razonamientos deductivos y análisis. La muerte de su madre la sacudió hasta el alma, y la convirtió en una introvertida inmersa en su trabajo. Ahora se dirige sola hacia el hotel abandonado para investigar la misteriosa muerte.
+- Raccoon City Vuelve una vez más a la ciudad de la catástrofe y la desolación.Una ciudad del medio oeste de los EE.UU., sede central de la desaparecida compañía multinacional Umbrella.Durante el brote zombi de 1998, el gobierno aprobó una operación de esterilización: un ataque con misiles a la ciudad como intento para ganar el control de la situación, que fue encubierto rápidamente.
 - Jugabilidad Experimenta el survival horror clásico de la saga, con su combate, investigaciones, puzles y gestión de recursos. La jugabilidad te permite cambiar libremente entre primera y tercera persona para afrontar los horrores de la forma que mejor encaje con tu estilo de juego.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

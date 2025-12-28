@@ -28,15 +28,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- RESPUESTA RÁPIDA: conduce camiones de bomberos Rosenbauer America con licencia, reproducidos con detalle, como el TP3 Pumper, Viper, 68 Roadrunner y más
-- UNIDOS CONTRA EL FUEGO: trabaja junto al equipo de PNJ en el modo Un jugador
-- HÉROE COTIDIANO: ponte en la piel de un bombero de EE. UU.
-- QUE ARDA TU PASIÓN: afronta peligrosos incendios en el modo multijugador y en solitario
-- SIMULACIÓN: simulaciones de fuego, calor, agua y humo realistas gracias a las físicas de Unreal Engine 5
 - TU CARRERA: elige entre 8 personajes y diferentes atuendos
+- UNIDOS CONTRA EL FUEGO: trabaja junto al equipo de PNJ en el modo Un jugador
 - PARQUE DE BOMBEROS: el lugar donde aprender técnicas y escoger la próxima misión de emergencia
-- EN EQUIPO: modo cooperativo con hasta 4 personas
 - AUTENTICIDAD: equipos de las principales marcas de EE. UU. para la extinción de incendios como HAIX, Fire-Dex y STIHL
+- SIMULACIÓN: simulaciones de fuego, calor, agua y humo realistas gracias a las físicas de Unreal Engine 5
+- RESPUESTA RÁPIDA: conduce camiones de bomberos Rosenbauer America con licencia, reproducidos con detalle, como el TP3 Pumper, Viper, 68 Roadrunner y más
+- HÉROE COTIDIANO: ponte en la piel de un bombero de EE. UU.
+- EN EQUIPO: modo cooperativo con hasta 4 personas
+- QUE ARDA TU PASIÓN: afronta peligrosos incendios en el modo multijugador y en solitario
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F1DCGS2J{{</world>}}

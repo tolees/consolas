@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ARMAS AUTÉNTICAS: ¡Elimínalos a todos con armas icónicas de la franquicia Starship Troopers!
 - LUCHAR CONTRA LA HORDA: Acaba con los Insectos de una vez por todas mientras enjambres interminables intentan detenerte para completar tu misión.
+- DEFENDE TU BASE: Construye una base con las mejores torretas y fortificaciones que la Federación pueda ofrecer ¡y luego defiéndela de los Insectos!
+- ARMAS AUTÉNTICAS: ¡Elimínalos a todos con armas icónicas de la franquicia Starship Troopers!
 - HAZ TU PARTE: Toma las armas como una de las seis clases únicas: Francotirador, Explorador, Demolidor, Guardián, Ingeniero y Médico.
 - A TRAVÉS DEL UNIVERSO: Lucha contra los Insectos en planetas hostiles que abarcan la galaxia.
-- DEFENDE TU BASE: Construye una base con las mejores torretas y fortificaciones que la Federación pueda ofrecer ¡y luego defiéndela de los Insectos!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D6N9CSF4{{</world>}}

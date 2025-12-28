@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Auriculares de sonido
 - Color: blanco
 - Incluye micrófono
+- Auriculares de sonido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJ3D6Q6C{{</world>}}
