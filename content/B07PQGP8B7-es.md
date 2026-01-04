@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Carrera First
-- Diversión única en las carreras en casa
-- Para grandes y pequeños
 - FIRST
+- Para grandes y pequeños
+- Diversión única en las carreras en casa
+- Carrera First
 - Para los niños
 
 [🛒 Visítala!!!]({{< param buyurl >}})

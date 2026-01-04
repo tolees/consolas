@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 30 cm
-- Peluche de Yoshi, Super Mario 30cm
 - Brand: Simba
+- Peluche de Yoshi, Super Mario 30cm
 - Adecuado para niños a partir de los primeros meses de vida
 
 [🛒 Comprar!!!]({{< param buyurl >}})

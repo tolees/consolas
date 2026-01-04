@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Descubre algunas de las ciudades que conforman el vasto y variado mundo del juego
 - Diversos hábitats y climas con unas doscientas especies de animales terrestres, aves y peces
 - Una banda de forajidos, renegados y parias unidos bajo el liderazgo del carismático e idealista Dutch van der Linde
-- Descubre algunas de las ciudades que conforman el vasto y variado mundo del juego
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01M6YIR2E{{</world>}}

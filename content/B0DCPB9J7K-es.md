@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - EXPLORA: Descubre biomas, recursos y criaturas, e ingéniate por un mundo repleto de sorpresas en el juego aislado definitivo
 - Incluye 3500 fichas* de moneda del juego para que los gastes en mash-ups, paquetes de texturas, paquetes de skins, mundos y más en el Minecraft Marketplace (* a través de un código de cupón PSN)
-- SOBREVIVE: Disfruta de aventuras inolvidables mientras te enfrentas a enemigos misteriosos, atraviesas paisajes emocionantes y viajas a dimensiones peligrosas
 - CREA: Crea lo que sea que puedas imaginar en tu propio mundo infinito que es único cada vez que lo juegues
+- SOBREVIVE: Disfruta de aventuras inolvidables mientras te enfrentas a enemigos misteriosos, atraviesas paisajes emocionantes y viajas a dimensiones peligrosas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DCPB9J7K{{</world>}}

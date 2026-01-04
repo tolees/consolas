@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡Las habilidades de papel de Mario te ayudarán a la hora de abrirte camino y explorar! Intenta convertirte en un avión de papel para sobrevolar abismos o en una finísima hoja para deslizarte a través de espacios estrechos. ¡Y hay muchas más habilidades por descubrir!
 - Únete a Mario y sus amigos en un viaje para descubrir el legendario tesoro que se oculta tras la Gran Puerta. ¡El clásico de Nintendo GameCube regresa con gráficos mejorados en Paper Mario: La puerta milenaria para Nintendo Switch!
+- ¡Las habilidades de papel de Mario te ayudarán a la hora de abrirte camino y explorar! Intenta convertirte en un avión de papel para sobrevolar abismos o en una finísima hoja para deslizarte a través de espacios estrechos. ¡Y hay muchas más habilidades por descubrir!
 - Mario viaja a Villa Viciosa, la famosa ciudad, para ayudar a la princesa Peach a buscar un tesoro. Pero, al llegar, ¡descubre que Peach ha desaparecido! Tras enterarse de la leyenda de los cristales estelares, Mario parte en búsqueda de este mítico tesoro con la esperanza de encontrar también a la princesa.
-- Por supuesto, Mario no es el único que espera encontrar los cristales estelares, ¡y Bowser tampoco estará solo causándole problemas esta vez! ¿Podrán nuestros héroes descubrir estos objetos ancestrales, abrir la Gran Puerta y, quizás, salvar el mundo?
 - Paper Mario: La puerta milenaria
+- Por supuesto, Mario no es el único que espera encontrar los cristales estelares, ¡y Bowser tampoco estará solo causándole problemas esta vez! ¿Podrán nuestros héroes descubrir estos objetos ancestrales, abrir la Gran Puerta y, quizás, salvar el mundo?
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CXQPRBB9{{</world>}}

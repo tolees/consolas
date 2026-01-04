@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Wireless Racing wheel with a range of up to 10m/32ft and up to 10 hours of battery life
-- Officially licensed by Sony
 - Compatible with Playstation 5 console, Playstation 4 console, & PC
 - Adjustable steering sensitivity and dead zone, programmable buttons and multi-function D-pad, companion app with customizable settings
 - Compatible for use with the HORI 7-Speed Racing Shifter on Windows PC. Shifter connects directly to PC via USB
+- Officially licensed by Sony
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DCCZCR26{{</world>}}

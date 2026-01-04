@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Pon a prueba tus habilidades de navegación con una gran variedad de desafíos en un mundo en cambio constante, como vuelos nocturnos, simulaciones atmosféricas en tiempo real y condiciones meteorológicas reales
 - La edición Premium Deluxe SteelBook contiene el estuche Jumbo SteelBook, un cordón de piloto personalizado con un código digital del juego y un mensaje del desarrollador
+- Desde aviones ligeros hasta jets de fuselaje ancho, vuela aviones muy detallados y precisos en la nueva generación de Microsoft Flight Simulator. El mundo está al alcance de las manos.
 - Recorre el planeta con un increíble nivel de detalle con más de dos millones de ciudades y mil quinientos millones de edificios, además de representaciones realistas de montañas, carreteras, árboles, ríos, animales, vehículos y mucho más.
 - Incluye todo lo de la edición estándar, más 25 aeronaves adicionales y 10 aeropuertos internacionales adicionales hechos a mano
-- Desde aviones ligeros hasta jets de fuselaje ancho, vuela aviones muy detallados y precisos en la nueva generación de Microsoft Flight Simulator. El mundo está al alcance de las manos.
 - Microsoft Flight Simulator se puede jugar en Windows y Xbox Series X|S
 
 [🛒 Aquí!!!]({{< param buyurl >}})
