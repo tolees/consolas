@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Agrandissez et personnalisez votre flotte de v hicules avec de nombreuses am liorations et accessoires.
-- Lexp rience Off Road nouvelle g n ration Partez à la conqu te denvironnements extr mes au volant de 40 monstres de puissance de marques iconiques comme Ford et Chevrolet.
 - Seul ou jusquà 4, explorez un monde ouvert simul par un moteur physique ultra r aliste. Affrontez boue, neige, torrents et lacs gel s pour mener à bien des missions p rilleuses.
+- Lexp rience Off Road nouvelle g n ration Partez à la conqu te denvironnements extr mes au volant de 40 monstres de puissance de marques iconiques comme Ford et Chevrolet.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08ZNNWSF4{{</world>}}

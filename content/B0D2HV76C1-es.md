@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Afronta misiones, adéntrate en mazmorras y busca tesoros de día; fortalece tus relaciones, forja vínculos y mejora tus virtudes reales de noche; el tiempo corre: elige bien cómo actuar para alcanzar tu objetivo
-- Una historia misteriosa y emocionante que se desarrolla en un mundo en el que la gente ha de enfrentarse a su inquietud; participa en el peligroso Torneo por el Trono y adéntrate en infinidad de rincones por explorar y descubrir
-- Viaja en surcador acorazado a mazmorras y poblaciones dispersas por este vasto mundo; descubre maravillosos paisajes mientras disfrutas de una banda sonora cautivadora, una IU inmersiva y escenas de animación
 - Un sistema de combate que combina turnos y acción en tiempo real y ofrece estrategia y emoción en todo momento; la posibilidad de personalizar el grupo mediante arquetipos da libertad a la hora de diseñar la aventura
+- Viaja en surcador acorazado a mazmorras y poblaciones dispersas por este vasto mundo; descubre maravillosos paisajes mientras disfrutas de una banda sonora cautivadora, una IU inmersiva y escenas de animación
+- Una historia misteriosa y emocionante que se desarrolla en un mundo en el que la gente ha de enfrentarse a su inquietud; participa en el peligroso Torneo por el Trono y adéntrate en infinidad de rincones por explorar y descubrir
+- Afronta misiones, adéntrate en mazmorras y busca tesoros de día; fortalece tus relaciones, forja vínculos y mejora tus virtudes reales de noche; el tiempo corre: elige bien cómo actuar para alcanzar tu objetivo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D2HV76C1{{</world>}}

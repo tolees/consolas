@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- RE Engine: Zombies y escenarios como nunca has visto
-- 2 personajes jugables/2 escenarios: Juega como León o Claire en 2 escenarios propios
-- Vista en la 3ª persona: Juego más moderno e inmersivo
 - Múltiples modos de dificultad: de principiante a veterano
+- Vista en la 3ª persona: Juego más moderno e inmersivo
 - Ubicación de daño: cada bola cuenta, apunta al más justo!
+- 2 personajes jugables/2 escenarios: Juega como León o Claire en 2 escenarios propios
+- RE Engine: Zombies y escenarios como nunca has visto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DN1YSHBZ{{</world>}}

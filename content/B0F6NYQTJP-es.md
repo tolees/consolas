@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - COMODIDAD HYPERX - Comodidad y durabilidad característica de HyperX.
-- MICRÓFONO 10MM - Micrófono desmontable de 10mm para una comunicación ultraclara y micrófono interno integrado, tú decides.
 - HASTA 200 HORAS DE BATERÍA - Disfruta de 200 horas de batería en modo bluetooth o 120 horas con conexión 2.4Ghz.
+- MICRÓFONO 10MM - Micrófono desmontable de 10mm para una comunicación ultraclara y micrófono interno integrado, tú decides.
 - COMPATIBILIDAD MULTIPLATAFORMA - Compatible con múltiples plataformas mediante, USB-C, USB-A y Bluetooth.
 - CONECTIVIDAD INALÁMBRICA - Conéctate de manera inalámbrica por Bluetooth, 2.4Ghz o Instant Pair.
 

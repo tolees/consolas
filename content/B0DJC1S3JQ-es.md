@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Mochila urbana de un compartimento principal y bolsillo frontal
 - Correas al hombro acolchadas y ajustables y cinta para el trolley
-- Dimensiones: 18 x 31 x 44 cm
-- Forro interior con bolsillo para dispositivos electrónicos
 - Material exterior de alta resitencia y repelente a los líquidos (Ripstop)
+- Forro interior con bolsillo para dispositivos electrónicos
+- Dimensiones: 18 x 31 x 44 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DJC1S3JQ{{</world>}}

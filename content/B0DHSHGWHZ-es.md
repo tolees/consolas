@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Regalo de cumpleaños LEGO Super Mario para peques: Este set es un óptimo regalo para niños y niñas gamers y fans de Nintendo a partir de 8 años; para jugar de forma interactiva, necesitas el set 71439, 71440 o 71441 (a la venta por separado)
-- Más posibilidades de juego: Explora la gama completa de sets LEGO Super Mario: Mario Kart (a la venta por separado) y descubre otros personajes Super Mario y vehículos de juguete construibles del universo Mario Kart contra los que competir
-- 2 figuras de personajes del videojuego Nintendo coleccionables de Toads Azules (boxes): Este garaje de juguete LEGO Mario Kart para construir incluye 2 figuras de Toads Azules (boxes) con uniforme de boxes azul, además de diversos accesorios
-- Estimula la imaginación de tu peque: Los juguetes de construcción LEGO Super Mario, diseñados para jugar solos o con amigos, ofrecen desafíos divertidos, de rol y de recogida de monedas digitales mediante la expansión y la reconstrucción
-- Juego interactivo: Pon a LEGO Mario, LEGO Luigi o LEGO Peach (figuras no incluidas) en el kart o en las etiquetas de acción de las máquinas de personalización para provocar interacciones digitales
-- Personajes de Super Mario Nintendo para regalar: Anima a tu peque a imaginar que es un mecánico de boxes que trabaja en el garaje de Toad poniendo a punto un kart Rayo GTI para correr trepidantes carreras con el set LEGO Super Mario: Mario Kart
 - Taller mecánico de juguete: Coloca el kart de juguete en la plataforma elevadora de vehículos y monta los neumáticos normales o los neumáticos normales azules, acopla el claxon o el motor de las máquinas de personalización, y más
+- Más posibilidades de juego: Explora la gama completa de sets LEGO Super Mario: Mario Kart (a la venta por separado) y descubre otros personajes Super Mario y vehículos de juguete construibles del universo Mario Kart contra los que competir
+- Personajes de Super Mario Nintendo para regalar: Anima a tu peque a imaginar que es un mecánico de boxes que trabaja en el garaje de Toad poniendo a punto un kart Rayo GTI para correr trepidantes carreras con el set LEGO Super Mario: Mario Kart
+- Regalo de cumpleaños LEGO Super Mario para peques: Este set es un óptimo regalo para niños y niñas gamers y fans de Nintendo a partir de 8 años; para jugar de forma interactiva, necesitas el set 71439, 71440 o 71441 (a la venta por separado)
+- Estimula la imaginación de tu peque: Los juguetes de construcción LEGO Super Mario, diseñados para jugar solos o con amigos, ofrecen desafíos divertidos, de rol y de recogida de monedas digitales mediante la expansión y la reconstrucción
+- 2 figuras de personajes del videojuego Nintendo coleccionables de Toads Azules (boxes): Este garaje de juguete LEGO Mario Kart para construir incluye 2 figuras de Toads Azules (boxes) con uniforme de boxes azul, además de diversos accesorios
+- Juego interactivo: Pon a LEGO Mario, LEGO Luigi o LEGO Peach (figuras no incluidas) en el kart o en las etiquetas de acción de las máquinas de personalización para provocar interacciones digitales
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DHSHGWHZ{{</world>}}
