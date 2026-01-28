@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Guarde hasta 3 perfiles personalizados en el controlador y cambie entre ellos en cualquier momento.
 - El controlador contiene todos los componentes que necesita para un juego óptimo.
 - Otros componentes se venden por separado.
-- Guarde hasta 3 perfiles personalizados en el controlador y cambie entre ellos en cualquier momento.
 - Producto util y practico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - When it’s too late to shout "freeze", you can rely on RoboCop’s arsenal to cool down enemies ambitions. Choose from a wide range of powerful weapons to serve Justice, including the iconic Auto-9 or the all-new Cryo Cannon.
 - Experience unique missions with familiar faces which reveal more of the storyline of Unfinished Business.
-- Following RoboCops decisive victory over Detroits gangs, a new chapter unfolds in this standalone extension set after the events of RoboCop: Rogue City.
 - Unfinished Business is a standalone mission related to RoboCop: Rogue City.
 - Prepare to take on a new breed of enemies: OmniTower is packed with high-tech threats.
+- Following RoboCops decisive victory over Detroits gangs, a new chapter unfolds in this standalone extension set after the events of RoboCop: Rogue City.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F4RQ9K6S{{</world>}}

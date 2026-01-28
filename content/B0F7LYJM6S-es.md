@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Explora Bywater: Explora el exterior para descubrir claros secretos y tesoros perdidos de la Comarca
-- Comida es Amor: El día de un hobbit no está completo sin una buena comida. Practica la pesca, la jardinería y la recolección para abastecer tu despensa con el fruto de tu trabajo
+- Te damos la bienvenida a casa, hobbit: Decora tu propio hogar hobbit y transforma el espacio para ubicar el mobiliario como más te guste, sin limitaciones de casillas
 - Experimenta la vida de ensueño de un hobbit: ¡Personifica a un hobbit del universo de los aclamados libros de J.R.R. Tolkien!
 - La versión física incluye un bonito mapa desplegable del pintoresco pueblo de Bywater y un código de descarga de la banda sonora oficial del juego
-- Te damos la bienvenida a casa, hobbit: Decora tu propio hogar hobbit y transforma el espacio para ubicar el mobiliario como más te guste, sin limitaciones de casillas
+- Explora Bywater: Explora el exterior para descubrir claros secretos y tesoros perdidos de la Comarca
+- Comida es Amor: El día de un hobbit no está completo sin una buena comida. Practica la pesca, la jardinería y la recolección para abastecer tu despensa con el fruto de tu trabajo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F7LYJM6S{{</world>}}

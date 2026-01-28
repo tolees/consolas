@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- BECOME A HERO - Take command of uniquely skilled heroes, each possessing their own abilities and distinct flair. While individually formidable, their skills create powerful synergies when they unite as a team.
-- TAKE ON THE NIGHT - Overcome a relentless environmental threat that sweeps through a land that changes between each game session and defeat the magnificent boss of that night!
-- RISE TOGETHER - Join forces with other players to take on the creeping night and the dangers within featuring 3-player co-op.
 - ELDEN RING NIGHTREIGN is a standalone adventure within the ELDEN RING universe, crafted to offer players a new gaming experience by reimagining the game’s core design.
+- RISE TOGETHER - Join forces with other players to take on the creeping night and the dangers within featuring 3-player co-op.
+- BECOME A HERO - Take command of uniquely skilled heroes, each possessing their own abilities and distinct flair. While individually formidable, their skills create powerful synergies when they unite as a team.
 - The Seekers Edition will include; the full Game in a Steelbook, DLC (will be available after the release of the main game), the digital artbook and the digital soundtrack.
+- TAKE ON THE NIGHT - Overcome a relentless environmental threat that sweeps through a land that changes between each game session and defeat the magnificent boss of that night!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DWY3BX2J{{</world>}}

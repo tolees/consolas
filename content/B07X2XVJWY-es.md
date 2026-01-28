@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Cable length: ca. 220cm
-- Inline remote control with access to Mic Mute and Volume level
 - Ear cups with comfortable cushions
+- Inline remote control with access to Mic Mute and Volume level
 - Adjustable microphone
 - 40mm speakers for powerful bass and a clear sound
 

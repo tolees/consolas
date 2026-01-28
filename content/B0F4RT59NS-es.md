@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡El juego ahora remasterizado para PlayStation 5!
 - La edición física incluye la BSO digital.
+- ¡El juego ahora remasterizado para PlayStation 5!
 - Ahora con mejoras gráficas y optimizaciones técnicas adicionales.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

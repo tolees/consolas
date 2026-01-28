@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dales a los jefes en los bytes - Haz frente a montones de jefes increíbles y radicales. ¡Conviértete en el Terminator al derrotar a Deadly Crab, DragonBot, Black Rainbow y muchos más!
 - Lucha en una jungla de cristal digital - ¡Enfréntate a enemigos salidos de tus sueños febriles más oscuros!
+- Dales a los jefes en los bytes - Haz frente a montones de jefes increíbles y radicales. ¡Conviértete en el Terminator al derrotar a Deadly Crab, DragonBot, Black Rainbow y muchos más!
+- Explora los misterios de Digital Kingdom - Viaja arriba, abajo, a izquierda y derecha para descubrir las profundidades más oscuras del código binario roto en esta historia interminable.
 - Narita Boy PS4: Edición Coleccionista
 - Maximiza el Trichroma - Empuña la Techno-sword, la única arma capaz de derrotar a los Stallions, y húndela en los corazones digitales de tus enemigos. No dejes que este imperio contraataque: sé el verdadero blade runner.
-- Explora los misterios de Digital Kingdom - Viaja arriba, abajo, a izquierda y derecha para descubrir las profundidades más oscuras del código binario roto en esta historia interminable.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CQD12TDC{{</world>}}

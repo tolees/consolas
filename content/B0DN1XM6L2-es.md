@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Dos personajes icónicos de la serie: Jill Valentine y el Nemesis
-- Motor re motor, utilizado para Resident evil 2 y Resident evil 7
 - ¡Aún más acción!
-- Vista en tercera persona
 - Remake uno de los juegos más queridos por los fans
+- Vista en tercera persona
+- Motor re motor, utilizado para Resident evil 2 y Resident evil 7
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DN1XM6L2{{</world>}}

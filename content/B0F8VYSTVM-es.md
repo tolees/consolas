@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Lucha a tu manera: Desde el soldado al hereje, domina una de las múltiples clases únicas a tu disposición y personaliza tus habilidades
-- Una compleja historia sobre la pérdida de humanidad: Hazte con el legendario Farol brujo y entra en el oscuro reino de la Entropía por medio de brechas en tejido mismo de la realidad
-- Un soulslike único de desplazamiento lateral: Disfruta de una combinación de niveles de desplazamiento lateral en 2.5D e intrincados combates donde encontrarás obstáculos y recompensas en la misma medida
 - Encuentra a artesanos que se unan a tu caravana, desbloquea nuevas mejoras y fabrica poderosas armas, armaduras y accesorios
 - Adéntrate en un mundo de fantasía oscura: Piérdete en un mundo rico y evocador que cobra vida gracias a la atemporal dirección artística y la grandiosa y retorcida banda sonora de Christos Antoniou
+- Un soulslike único de desplazamiento lateral: Disfruta de una combinación de niveles de desplazamiento lateral en 2.5D e intrincados combates donde encontrarás obstáculos y recompensas en la misma medida
+- Una compleja historia sobre la pérdida de humanidad: Hazte con el legendario Farol brujo y entra en el oscuro reino de la Entropía por medio de brechas en tejido mismo de la realidad
+- Lucha a tu manera: Desde el soldado al hereje, domina una de las múltiples clases únicas a tu disposición y personaliza tus habilidades
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F8VYSTVM{{</world>}}

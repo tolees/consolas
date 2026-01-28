@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- En Ciudad Luminalia, los Pokémon no solo pueden evolucionar, ¡sino también megaevolucionar! Cuando la Piedra Activadora de un Entrenador interactúe con la Megapiedra de su Pokémon, este no se limitará a cambiar de forma y tamaño, ¡sino que también alcanzará un nuevo nivel de poder que podría cambiar el curso del combate!
-- Te aguarda una nueva y ambiciosa aventura con el telón de fondo de Ciudad Luminalia en Leyendas Pokémon: Z-A, que llegará a Nintendo Switch a finales de 2025. ¡Explora la urbe, desentraña sus secretos y combate contra Pokémon como nunca lo habías hecho antes!
-- Además de la compatibilidad entre tipos, también habrá nuevas mecánicas que tener en cuenta, como cuál es el momento adecuado para utilizar un movimiento o intercambiar Pokémon o sopesar cuánto tardan en ejecutarse los movimientos, así como su radio de alcance.
-- En su compañía, podrás explorar las calles de la enorme ciudad o visitar las zonas salvajes, hábitats donde te toparás con Pokémon salvajes. Para atraparlos, apunta con cuidado y lánzales una Poké Ball o bien enfréntate a ellos con la ayuda de los Pokémon que formen parte de tu equipo.
 - Por primera vez, los Entrenadores y sus Pokémon pueden moverse y actuar en tiempo real durante los combates. Los Pokémon ejecutarán sus movimientos cuando sus Entrenadores se lo ordenen.
+- Además de la compatibilidad entre tipos, también habrá nuevas mecánicas que tener en cuenta, como cuál es el momento adecuado para utilizar un movimiento o intercambiar Pokémon o sopesar cuánto tardan en ejecutarse los movimientos, así como su radio de alcance.
 - ¡En Ciudad Luminalia se está llevando a cabo un plan de desarrollo urbanístico! Su objetivo es convertir la urbe en un lugar que humanos y Pokémon puedan compartir. Poco después de llegar, deberás elegir entre uno de estos compañeros Pokémon para que se una a tu aventura: Chikorita, Tepig o Totodile.
+- En su compañía, podrás explorar las calles de la enorme ciudad o visitar las zonas salvajes, hábitats donde te toparás con Pokémon salvajes. Para atraparlos, apunta con cuidado y lánzales una Poké Ball o bien enfréntate a ellos con la ayuda de los Pokémon que formen parte de tu equipo.
+- Te aguarda una nueva y ambiciosa aventura con el telón de fondo de Ciudad Luminalia en Leyendas Pokémon: Z-A, que llegará a Nintendo Switch a finales de 2025. ¡Explora la urbe, desentraña sus secretos y combate contra Pokémon como nunca lo habías hecho antes!
+- En Ciudad Luminalia, los Pokémon no solo pueden evolucionar, ¡sino también megaevolucionar! Cuando la Piedra Activadora de un Entrenador interactúe con la Megapiedra de su Pokémon, este no se limitará a cambiar de forma y tamaño, ¡sino que también alcanzará un nuevo nivel de poder que podría cambiar el curso del combate!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FBMLXK2D{{</world>}}

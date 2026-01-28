@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Forma ergonómica del mando con cable con una disposición de botones estándar
-- Licencia oficial de Nintendo
-- Diseño blanco con detalles en gris
 - Cable USB de 3 m extraíble con correa de velcro
+- Licencia oficial de Nintendo
 - Forma ergonómica del mando con cable con una disposición de botones estándar
 - Licencia oficial de Nintendo
+- Forma ergonómica del mando con cable con una disposición de botones estándar
+- Diseño blanco con detalles en gris
 - Cable USB de 3 m extraíble con correa de velcro
 
 [🛒 Aquí!!!]({{< param buyurl >}})
