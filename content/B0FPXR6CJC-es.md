@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Reta a jugadores de todo el mundo y escala hasta lo más alto de las clasificaciones. ¿Quieres más? Intenta conseguir todos los logros a lo largo del juego.
+- Elige entre una amplia selección de coches de rally inspirados en las leyendas del pasado, cada uno con características y prestaciones únicas.
 - Esta edición incluye cartas de coches coleccionables
 - Compite con una gran variedad de circuitos de rally de todo el planeta, corre sobre distintas superficies como tierra, asfalto y nieve, y pon a prueba tus habilidades de conducción.
-- Elige entre una amplia selección de coches de rally inspirados en las leyendas del pasado, cada uno con características y prestaciones únicas.
 - Visuales cuidadosamente diseñados con un estilo retro que recuerda a los juegos de rally de finales de los 90, llenos de nostalgia y encanto, convirtiéndolo en una experiencia imprescindible para todos los jugadores.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

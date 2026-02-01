@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- PRECAUCIONES: Este Producto Contiene Piezas Pequeñas. Riesgo de Asfixia
-- LICENCIA: Furgoneta de Mario y sus Amigos, Contiene Detalles Únicos de la Película y Solo Disponible en Jakks Pacific
-- DIMENSIONES: La Furgoneta mide unos 10 cm de Largo y Cuando se Transforma Alcanza los 30 cm
-- EDAD RECOMENDADA: Este Juego de Mesa Debe ser Utilizada por Mayores de 3 Años +
 - CARACTERÍSTICAS: La Furgoneta con Ruedas Funcionales, Transporta Durante la Película a Todos los Amigos de Mario en todos sus Viajes. Una vez se Transforma Aparecen todos los Ambientes por los que los Amigos de Mario y el Avanzan Durante la Película. Este Playset, Incluye 1 Minifigura de Mario para Poder Interactuar con los Obstáculos. ¿A que Esperas? ¡Hazte con ella y Recrea tus Escenas Favoritas de la Película!
+- LICENCIA: Furgoneta de Mario y sus Amigos, Contiene Detalles Únicos de la Película y Solo Disponible en Jakks Pacific
+- PRECAUCIONES: Este Producto Contiene Piezas Pequeñas. Riesgo de Asfixia
+- EDAD RECOMENDADA: Este Juego de Mesa Debe ser Utilizada por Mayores de 3 Años +
+- DIMENSIONES: La Furgoneta mide unos 10 cm de Largo y Cuando se Transforma Alcanza los 30 cm
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07KWXLM3M{{</world>}}

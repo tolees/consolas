@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Instrucciones para redimir DLC: (i) Inicia tu juego, (ii) Asegúrate de que tu consola está conectada a Internet, (iii) Elige la opción regalo misterioso, (iv) Canjea el código para recibir tu set
 - Los códigos DLC están incluídos en la caja de venta
 - Es posible que la opción regalo misterioso se desbloquee tras un cierto tiempo de juego
+- Instrucciones para redimir DLC: (i) Inicia tu juego, (ii) Asegúrate de que tu consola está conectada a Internet, (iii) Elige la opción regalo misterioso, (iv) Canjea el código para recibir tu set
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08Y6GQT1J{{</world>}}

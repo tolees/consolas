@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Machaca a tus rivales con combos demoledores, acciones de adrenalina salvajes y derribos fulminantes aprovechando el entorno que te rodea con la acción cuerpo a cuerpo de Yakuza Kiwami 2. Siente el poder físico de cada impacto con unos controles intuitivos que permiten disfrutar de peleas callejeras realistas y estratégicas donde todo vale
 - Incluye la "Saga Majima", una aventura separada de la historia principal. Descubre los acontecimientos que transcurren entre Yakuza Kiwami y Yakuza Kiwami 2 encarnando a Goro Majima
+- Machaca a tus rivales con combos demoledores, acciones de adrenalina salvajes y derribos fulminantes aprovechando el entorno que te rodea con la acción cuerpo a cuerpo de Yakuza Kiwami 2. Siente el poder físico de cada impacto con unos controles intuitivos que permiten disfrutar de peleas callejeras realistas y estratégicas donde todo vale
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FTZST8RL{{</world>}}

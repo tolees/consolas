@@ -31,8 +31,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 - FÁCIL DE USAR Y LLEVAR, PLUG AND PLAY - Simplemente conecte el Cable Carga Rapida Tipo C de este Cargador Switch en su consola Switch y el otro extremo en una toma de corriente estándar. Disfrute de su tiempo de juego con extra largo 5ft/1.5M cable de Carga Switch. Ligero y pequeño, fácil de llevar cuando viajas o sales
 - CONTENIDO DEL PAQUETE - 1*cargador switch 39W + 1*ccable tipo c carga rápida 1,5M + 1 *manual de instrucciones; Si se producen problemas de calidad con el producto que recibió, puede contactarnos en cualquier momento por correo electrónico
 - CARGADOR PARA NINTENDO SWITCH - Entrada: 100-240V, 50-60Hz; Salida: soporta 5V-1.5A/15V-2.6A; Longitud del cable: 1.5M; Cable de carga USB-C como un perfecto sustituto del cargador original de 39W para Switch. Este Cargador Rápido Switch utiliza tecnología de carga rápida Power Delivery (PD), siendo un 20% más rápido en 60 minutos que el cargador original de 15W
-- SEGURO Y CONFIABLE - Este switch cargador ha pasado los certificados CE / FCC / ROHS. El diseño del material térmico y CI inteligente integrada de PD (transmisión de potencia) protegen sus dispositivos contra sobrecorriente, sobretensión y sobrecarga
 - SOPORTA EL MODO TV SWITCH - El Cargador Switch admite la conexión con el interruptor para jugar en modo TV y modo de mano. Compatible con Switch/Switch oled/Switch lite, Switch TV dock, steam deck dock y Switch pro controller, soporta modo TV y otros dispositivos USB-C
+- SEGURO Y CONFIABLE - Este switch cargador ha pasado los certificados CE / FCC / ROHS. El diseño del material térmico y CI inteligente integrada de PD (transmisión de potencia) protegen sus dispositivos contra sobrecorriente, sobretensión y sobrecarga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DXPMKCW9{{</world>}}

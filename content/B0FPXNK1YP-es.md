@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DAGON: COMPLETE DITION Una experiencia narrativa en 3D inspirada en la obra de H. P. Lovecraft, que te sumerge en el corazón del horror cósmico y el universo de los Mitos de Cthulhu.
+- ANGLERFISH Cada muerte cambia la partida. Armado solo con tu escopeta y tu ingenio, enfréntate a una perturbadora noche en el bar más mortal que hayas visto.
 - BURNHOUSE LANE Acompaña a Angie Weather, una enfermera al borde de la muerte, en una oscura aventura donde deberá superar cinco tareas imposibles para recuperar su vida.
 - La edición incluye tres cartas de tarot coleccionables.
 - Descubre tres viajes inquietantes al corazón del terror reunidos en un solo pack.
-- ANGLERFISH Cada muerte cambia la partida. Armado solo con tu escopeta y tu ingenio, enfréntate a una perturbadora noche en el bar más mortal que hayas visto.
+- DAGON: COMPLETE DITION Una experiencia narrativa en 3D inspirada en la obra de H. P. Lovecraft, que te sumerge en el corazón del horror cósmico y el universo de los Mitos de Cthulhu.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FPXNK1YP{{</world>}}

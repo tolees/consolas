@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ¡Arriba se ha dicho! En cuanto salgas de la cama, ¡la alarma se detendrá sin necesidad de tocar el despertador!
 - Remoloneando: Alarmo tiene un sensor que reacciona a tus movimientos y reproduce sonidos si estiras los brazos o te das la vuelta. El volumen de la alarma irá descendiendo cuanto más te muevas.
-- ¡Dales un toque de videojuegos a tus mañanas! ¡Elige entre un total de 35 alarmas diferentes, procedentes de cinco juegos de Nintendo! Cada alarma tiene sus propios sonidos e imágenes, y ofrece una experiencia distinta. La apariencia de la pantalla también cambia según el juego que elijas.
-- Hora de despertar: Selecciona un título y una escena, elige a qué hora quieres levantarte ¡y del resto ya se ocupa Alarmo! Por la mañana, sonará la alarma a la hora que hayas escogido, reproduciendo música y efectos de sonido de la escena seleccionada.
 - Personaliza tu alarma y lleva un registro de tus hábitos de sueño. Consulta las estadísticas para ver distintos detalles, como el tiempo que has pasado en la cama, cuánto te has movido mientras dormías y cuánto has tardado en levantarte.
+- Hora de despertar: Selecciona un título y una escena, elige a qué hora quieres levantarte ¡y del resto ya se ocupa Alarmo! Por la mañana, sonará la alarma a la hora que hayas escogido, reproduciendo música y efectos de sonido de la escena seleccionada.
+- ¡Dales un toque de videojuegos a tus mañanas! ¡Elige entre un total de 35 alarmas diferentes, procedentes de cinco juegos de Nintendo! Cada alarma tiene sus propios sonidos e imágenes, y ofrece una experiencia distinta. La apariencia de la pantalla también cambia según el juego que elijas.
+- ¡Arriba se ha dicho! En cuanto salgas de la cama, ¡la alarma se detendrá sin necesidad de tocar el despertador!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DKCB3SSG{{</world>}}

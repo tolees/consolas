@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- BANNED FOOTAGE VOL. 1: - Pesadilla: Atrapado en un sótano repleto de horrores, debes luchar por tu vida… - Dormitorio: Atado a una cama, debes luchar por escapar mientras evitas la mirada vigilante de la Madre… incluye el Bonus Extra: Ethan Must Die.
-- END OF ZOE: Un misterioso hombre llamado Joe que vive a orillas del pantano y tiene la oportunidad de encontrarse con Zoe y juntos se enfrentarán a su destino. Revive la pesadilla que revolucionó el género del survival horror.
-- INCLUYE EL JUEGO ORIGINAL MÁS TODOS LOS DLC´s DEL SEASON PASS RESIDENT EVIL VII BIOHAZARD
 - BANNED FOOTAGE VOL. 2: 21: Participa en un juego de cartas retorcido donde la apuesta es tu vida…- Hijas: Vive los eventos que ocurrieron la noche que empezó todo, cuando la perdición de los Bakers se puso en marcha… incluye el bonus extra Jacks 55th Birthday.
+- BANNED FOOTAGE VOL. 1: - Pesadilla: Atrapado en un sótano repleto de horrores, debes luchar por tu vida… - Dormitorio: Atado a una cama, debes luchar por escapar mientras evitas la mirada vigilante de la Madre… incluye el Bonus Extra: Ethan Must Die.
+- INCLUYE EL JUEGO ORIGINAL MÁS TODOS LOS DLC´s DEL SEASON PASS RESIDENT EVIL VII BIOHAZARD
+- END OF ZOE: Un misterioso hombre llamado Joe que vive a orillas del pantano y tiene la oportunidad de encontrarse con Zoe y juntos se enfrentarán a su destino. Revive la pesadilla que revolucionó el género del survival horror.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DLWWKDX9{{</world>}}

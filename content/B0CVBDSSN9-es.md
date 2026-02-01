@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Defiende el Imperium como marine espacial en misiones JcE rejugables cuyos niveles de brutalidad te sorprenderán. Juega con hasta 3 jugadores con 6 clases disponibles y desbloquea nuevas habilidades y cosméticos
-- Purga los enjambres tiránidos como Titus, el legendario marine espacial, en una nueva campaña de lo más espectacular. Juega en solitario o con 2 amigos más en el modo cooperativo para 3 jugadores
-- Libra la guerra eterna contra tus enemigos en partidas JcJ 6 vs. 6 bestiales ¡y hazte con la gloria para tu facción!
 - Disfruta de la acción frenética, sangrienta e intensa con cientos de enemigos en pantalla. De los creadores del gran juego de disparos World War Z
+- Libra la guerra eterna contra tus enemigos en partidas JcJ 6 vs. 6 bestiales ¡y hazte con la gloria para tu facción!
+- Purga los enjambres tiránidos como Titus, el legendario marine espacial, en una nueva campaña de lo más espectacular. Juega en solitario o con 2 amigos más en el modo cooperativo para 3 jugadores
+- Defiende el Imperium como marine espacial en misiones JcE rejugables cuyos niveles de brutalidad te sorprenderán. Juega con hasta 3 jugadores con 6 clases disponibles y desbloquea nuevas habilidades y cosméticos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CVBDSSN9{{</world>}}
