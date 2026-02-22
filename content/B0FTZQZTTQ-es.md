@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cambia a tu aire entre 4 estilos de lucha (el brutal "camorrista", el veloz "acelerado", el imponente "bestia" y el legendario "dragón") y emplea cualquier cosa que encuentres por la calle como arma para machacar a oleadas de enemigos en combates realistas, trepidantes y divertidos
 - Tras partir algunas caras, date un respiro de la historia principal y disfruta de las actividades nocturnas que hay por toda la ciudad: el karaoke, el casino, el club de hostesses, máquinas recreativas, la zona de bateo y muchas más, mientras conoces a pintorescos personajes de todo tipo
 - Carga con la culpa de un asesinato y, tras una década entre rejas, regresa a las calles para descubrir que los clanes yakuza están a un paso de la guerra. Embárcate en una intensa aventura de amor, humanidad y traición, donde tus puños y una determinación inquebrantable te guiarán por el vibrante barrio rojo del Japón moderno
-- Cambia a tu aire entre 4 estilos de lucha (el brutal "camorrista", el veloz "acelerado", el imponente "bestia" y el legendario "dragón") y emplea cualquier cosa que encuentres por la calle como arma para machacar a oleadas de enemigos en combates realistas, trepidantes y divertidos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FTZQZTTQ{{</world>}}

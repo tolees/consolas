@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- FEEL EVERY DETAIL OF THE 2025 SEASON
 - RIDE, CREATE, INSPIRE: MAKE YOUR MARK ON MotoGP
-- A DEEPER CAREER TO FORGE YOUR LEGACY
 - NEW DISCIPLINES TO MASTER YOUR CRAFT
 - PRO OR ARCADE EXPERIENCE
-- FEEL EVERY DETAIL OF THE 2025 SEASON
+- A DEEPER CAREER TO FORGE YOUR LEGACY
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DWXZL7M6{{</world>}}

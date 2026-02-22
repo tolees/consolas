@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- HISTORIA: La historia gira en torno a un niño inmune al entorno hostil de la Tierra, perseguido por exploradores marcianos tras la Gran Catástrofe Ecológica. Cada nivel está cargado de pistas sobre el colapso de la civilización, con paisajes como torres industriales y laboratorios abandonados.
-- INSPIRADO EN LOS CLÁSICOS: El juego está inspirado en los clásicos y duros juegos SEGA de la vieja escuela de los 90. Aquellos como El libro de la selva, Aladdin, Lion King, pero con giros e ideas modernas. Inspirado por los clásicos, hecho para el siglo XXI
 - MELODÍAS: Acompañando esta experiencia, la banda sonora Radio Nostalgia de Marte combina melodías introspectivas con relatos de los sobrevivientes marcianos, todo en un estilo visual inspirado en películas animadas como Tarzán y El camino hacia El Dorado.
-- JUEGO DE PLATAFORMAS: Juego de plataformas clásico combina una narrativa rica con mecánicas modernas y una atmósfera apocalíptica única.
+- INSPIRADO EN LOS CLÁSICOS: El juego está inspirado en los clásicos y duros juegos SEGA de la vieja escuela de los 90. Aquellos como El libro de la selva, Aladdin, Lion King, pero con giros e ideas modernas. Inspirado por los clásicos, hecho para el siglo XXI
 - RESUELVE: En The Cub, los jugadores realizarán parkour a través de los restos de la humanidad, enfrentándose a flora y fauna peligrosamente evolucionadas mientras resuelven puzles medioambientales y huyen de humanos que regresan a la Tierra tras un éxodo a Marte.
+- JUEGO DE PLATAFORMAS: Juego de plataformas clásico combina una narrativa rica con mecánicas modernas y una atmósfera apocalíptica única.
+- HISTORIA: La historia gira en torno a un niño inmune al entorno hostil de la Tierra, perseguido por exploradores marcianos tras la Gran Catástrofe Ecológica. Cada nivel está cargado de pistas sobre el colapso de la civilización, con paisajes como torres industriales y laboratorios abandonados.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DQ5Y2V63{{</world>}}

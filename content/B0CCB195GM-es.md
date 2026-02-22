@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Hasta 150 horas de batería inalámbrica con recarga rápida: Juegue hasta 150 horas*, asalto tras salto, con una sola carga y recargue completamente en solo 90 minutos o menos. * vía Bluetooth con la retroiluminación apagada.
-- Conexión inalámbrica rápida y versátil: SLIPSTREAM WIRELESS ofrece una conexión inferior a 1 ms en PC o Mac con sondeo avanzado de 2.000 Hz, hasta dos veces más rápido que los ratones inalámbricos estándar. También puede conectarlo mediante Bluetooth o USB para cargarlo mientras juega.
-- Ajustable para cualquier tamaño de mano: El sistema de control Key Slider de 12 botones reposicionables pone todos los botones del panel lateral en el lugar ideal para su pulgar; asimismo, la forma contorneada del ratón reduce en gran medida la tensión durante el juego.
-- 16 botones programables: Asigne y ejecute las acciones y macros que necesite gracias a 16 botones de fácil acceso y totalmente programables.
 - Sensor óptico ultrapreciso de 26.000 PPP: Con 26.000 PPP nativos, un seguimiento de 650 IPS y una aceleración de hasta 50 G, el sensor óptico CORSAIR MARKSMAN captura con precisión hasta los reflejos más veloces del ratón.
+- Conexión inalámbrica rápida y versátil: SLIPSTREAM WIRELESS ofrece una conexión inferior a 1 ms en PC o Mac con sondeo avanzado de 2.000 Hz, hasta dos veces más rápido que los ratones inalámbricos estándar. También puede conectarlo mediante Bluetooth o USB para cargarlo mientras juega.
+- 16 botones programables: Asigne y ejecute las acciones y macros que necesite gracias a 16 botones de fácil acceso y totalmente programables.
+- Ajustable para cualquier tamaño de mano: El sistema de control Key Slider de 12 botones reposicionables pone todos los botones del panel lateral en el lugar ideal para su pulgar; asimismo, la forma contorneada del ratón reduce en gran medida la tensión durante el juego.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CCB195GM{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- EVITA ACECHADORES IMPLACABLES: Enfréntate a fantasmas y guardias nocturnos poseídos en este emocionante videojuego de PS5. Utiliza el flash de la cámara para aturdir temporalmente a tus perseguidores y escapar de situaciones peligrosas.
+- RESUELVE puzles COMPLEJOS: Busca pistas y objetos clave para resolver acertijos y desbloquear nuevas rutas en la historia. Incluye DLC de disfraces adicionales, como el tradicional Hanbok coreano y un nostálgico chándal de conserje.
 - ENCUENTROS ESCALOFRIANTES: Documenta sitios embrujados con tu cámara y revela los orígenes perturbadores de cada fantasma. Vive una experiencia de horror única con White Day 2.
 - EXPLORA EL INSTITUTO YEONDU: Sumérgete en los oscuros pasillos del instituto Yeondu con White Day 2: The Flower That Tells Lies - Complete Edition. Descubre nuevas revelaciones, objetos y áreas ocultas en este juego dinámico para PS5.
 - EPISODIOS RAMIFICADOS: Experimenta la historia desde múltiples perspectivas. Aprende de tus errores y revisita episodios completados para revelar rutas alternativas con 14 posibles desenlaces.
-- EVITA ACECHADORES IMPLACABLES: Enfréntate a fantasmas y guardias nocturnos poseídos en este emocionante videojuego de PS5. Utiliza el flash de la cámara para aturdir temporalmente a tus perseguidores y escapar de situaciones peligrosas.
-- RESUELVE puzles COMPLEJOS: Busca pistas y objetos clave para resolver acertijos y desbloquear nuevas rutas en la historia. Incluye DLC de disfraces adicionales, como el tradicional Hanbok coreano y un nostálgico chándal de conserje.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CV7XFDBH{{</world>}}

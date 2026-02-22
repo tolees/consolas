@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cableguys: exquisita gama de figuras de apoyo altamente detalladas de los mundos de dc comics, disney, marvel o los videojuegos, diseñadas y fabricadas por un equipo de fanáticos y jugadores apasionados
-- Licencia : figura de disney con licencia , del largometraje de animación lilo and stitch y que representa a stitch en su versión de elvis
 - Soporte: su práctico asistente para mostrar y sujetar el mando (nintendo switch, playstation o xbox), el smartphone o el mando a distancia de una forma atractiva
-- di «aloha» a la figura con soporte para teléfono y joystick más colorida y divertida de todo hawái, con su diseño de elvis, este soporte stitch es un deleite para la vista y la manera optima de alegrar tu espacio de juego
+- Licencia : figura de disney con licencia , del largometraje de animación lilo and stitch y que representa a stitch en su versión de elvis
 - Carga: se incluye un cable micro-usb de 2 m y un adaptador lightning para que puedas cargar tu mando o smartphone al mismo tiempo que lo ves o juegas
+- di «aloha» a la figura con soporte para teléfono y joystick más colorida y divertida de todo hawái, con su diseño de elvis, este soporte stitch es un deleite para la vista y la manera optima de alegrar tu espacio de juego
+- Cableguys: exquisita gama de figuras de apoyo altamente detalladas de los mundos de dc comics, disney, marvel o los videojuegos, diseñadas y fabricadas por un equipo de fanáticos y jugadores apasionados
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C6XLGRLQ{{</world>}}

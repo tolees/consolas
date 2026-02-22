@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Juego interactivo: Pon a LEGO Mario, LEGO Luigi o LEGO Peach (figuras no incluidas) en los vehículos de juguete, en las etiquetas de acción de otros modelos o en las 2 cajas de objetos para provocar reacciones digitales
-- Juguete de carreras personalizable: El set contiene un Floruquad, una Autonave y una moto de juguete (pueden lanzar caparazones), un carrito de dulces de Toad, un puente de salida, una nube de Lakitu y un podio de los ganadores
-- Figuras de personajes de Nintendo: Construye un circuito y vehículos de Mario Kart, acelera hacia la victoria (pero detente a descansar y tomarte un helado) con el juego infantil Mario Kart: Set Bebé Peach y Grand Prix LEGO Super Mario
+- Regalo LEGO Super Mario para peques: Este set de construcción es un regalo óptimo para niños y niñas gamers fans de Nintendo a partir de 8 años; para jugar de forma interactiva, necesitas el set 71439, 71440 o 71441 (a la venta por separado)
 - 4 personajes de Mario Kart coleccionables: Este juego LEGO para construir incluye figuras de juguete de Bebé Peach, Lemmy, un Lakitu y un Toad con diversos accesorios para interpretar aventuras mediante el juego de rol
+- Juego interactivo: Pon a LEGO Mario, LEGO Luigi o LEGO Peach (figuras no incluidas) en los vehículos de juguete, en las etiquetas de acción de otros modelos o en las 2 cajas de objetos para provocar reacciones digitales
 - Despierta la imaginación de tu peque: Los juguetes LEGO Super Mario, diseñados para jugar a solas o en compañía, ofrecen desafíos divertidos, de interpretación y de recogida de monedas digitales mediante la expansión y la reconstrucción
 - Más posibilidades de juego: Explora la gama completa de sets LEGO Super Mario: Mario Kart (a la venta por separado) y descubre otros personajes y vehículos de juguete construibles del universo Mario Kart contra los que competir
-- Regalo LEGO Super Mario para peques: Este set de construcción es un regalo óptimo para niños y niñas gamers fans de Nintendo a partir de 8 años; para jugar de forma interactiva, necesitas el set 71439, 71440 o 71441 (a la venta por separado)
+- Juguete de carreras personalizable: El set contiene un Floruquad, una Autonave y una moto de juguete (pueden lanzar caparazones), un carrito de dulces de Toad, un puente de salida, una nube de Lakitu y un podio de los ganadores
+- Figuras de personajes de Nintendo: Construye un circuito y vehículos de Mario Kart, acelera hacia la victoria (pero detente a descansar y tomarte un helado) con el juego infantil Mario Kart: Set Bebé Peach y Grand Prix LEGO Super Mario
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHSC3KCV{{</world>}}

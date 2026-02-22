@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El Capitán América puede lanzar su escudo contra otros objetos o enemigos, clavarlo en la pared para impulsarse con él, utilizarlo para desviar rayos láser o para protegerse ante cualquier ataque.
-- Más de 100 de tus superhéroes y villanos favoritos del Universo Marvel como Iron Man, Lobezno, Hulk, Spider-Man, Capitán América, Black Widow, Loki o Deadpool.
 - Spider-Man puede lanzar sus telas de araña, utilizar su sentido arácnido o trepar por las paredes.
 - Iron Man puede volar, deslizarse, lanzar misiles o enviar un poderoso flujo de energía desde su pecho.
+- El Capitán América puede lanzar su escudo contra otros objetos o enemigos, clavarlo en la pared para impulsarse con él, utilizarlo para desviar rayos láser o para protegerse ante cualquier ataque.
+- Más de 100 de tus superhéroes y villanos favoritos del Universo Marvel como Iron Man, Lobezno, Hulk, Spider-Man, Capitán América, Black Widow, Loki o Deadpool.
 - Descubre una ciudad de Nueva York como nunca antes, hecha de las características piezas de LEGO.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

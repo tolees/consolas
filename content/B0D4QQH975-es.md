@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ¡Descubre las aventuras originales de Lara Croft fielmente remasterizadas!
+- Una aventura por todo el mundo: Viaja por el mundo con Lara Croft y ayúdala a enfrentarse a enemigos despiadados y mitos atávicos.
 - Juega las tres aventuras originales de Tomb Raider: Hacemos historia brindando una experiencia completa con todas las expansiones y niveles secretos, pero en nuevas plataformas, la colección definitiva.
 - Títulos incluidos: Tomb Raider I + The Unfinished Business Expansion, Tomb Raider II + The Gold Mask Expansion, Tomb Raider III + The Lost Artifact Expansion
-- ¡Descubre las aventuras originales de Lara Croft fielmente remasterizadas!
 - Resuelve misterios antiguos: El antiguo mundo y sus misterios te esperan. Desvela las entrañas del pasado confinadas por el paso del tiempo.
-- Una aventura por todo el mundo: Viaja por el mundo con Lara Croft y ayúdala a enfrentarse a enemigos despiadados y mitos atávicos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D4QQH975{{</world>}}

@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - JUEGO DE ROL: VED es un juego de rol narrativo que presenta un diseño artístico y unas animaciones dibujados a mano y que las combina con un sistema de teletransporte único, mecánicas de combate por turnos y elementos roguelite.
+- UNIVERSO FANTÁSTICO: Sumérgete en un universo fantástico con un guion fascinante, decenas de consecuencias irreversibles, finales alternativos... ¡y una jugabilidad fácil de aprender pero difícil de dominar!
 - HISTORIA INTERACTIVA: Desentraña una historia interactiva en la que importa cada decisión que tomes y ayuda a Cyrus a descubrir la verdad acerca de este lugar mágico a fin de decidir el destino de ambos mundos. Para cumplir tu misión, tendrás que dominar el poder mágico de los veds.
 - PAPEL DE CYRUS: En VED, asumirás el papel de Cyrus, un joven héroe que llega a la ciudad de Micrópolis en busca de una nueva vida. Allí, de repente, descubre que posee la habilidad de teletransportarse entre dos mundos interconectados y llenos de misteriosas islas flotantes, criaturas extrañas y monstruos peligrosos.
 - VIDEOJUEGO DE ROL: Es un videojuego de rol dibujado a mano basado en una historia no lineal en la que cada decisión que tomes puede acarrear consecuencias irreversibles y finales alternativos.
-- UNIVERSO FANTÁSTICO: Sumérgete en un universo fantástico con un guion fascinante, decenas de consecuencias irreversibles, finales alternativos... ¡y una jugabilidad fácil de aprender pero difícil de dominar!
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CPTB3FHK{{</world>}}

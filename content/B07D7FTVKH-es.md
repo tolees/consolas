@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 64-Player Multiplayer in the Chaos of All-Out War - Lead your Company to victory in all-out multiplayer with new experiences like the massive Grand Operations mode. Take on classic modes like Conquest or squad up with friends in the cooperative Combined Arms.
-- The Most Physical Battlefield Yet - Manoeuvre through the battlefield using a new soldier move set, fortifications, and mobile tools of destruction.
-- World War 2 as Youve Never Seen It Before - Take the fight to unexpected but crucial moments of the war, as Battlefield goes back to where it all began.
-- Play Untold War Stories - Witness human drama set against global combat in the single player War Stories. Ski down Norwegian mountains as you battle for control of nuclear weapon supply lines, join the frontline with the French colonial troops, or go behind enemy lines in North Africa with a band of misfits sent to create mayhem.
 - Tides of War - Embark on a journey where new content drops continuously transport you and your Company to a huge variety of key WW2 locations, where new battlefields and gear await.
+- World War 2 as Youve Never Seen It Before - Take the fight to unexpected but crucial moments of the war, as Battlefield goes back to where it all began.
+- The Most Physical Battlefield Yet - Manoeuvre through the battlefield using a new soldier move set, fortifications, and mobile tools of destruction.
+- 64-Player Multiplayer in the Chaos of All-Out War - Lead your Company to victory in all-out multiplayer with new experiences like the massive Grand Operations mode. Take on classic modes like Conquest or squad up with friends in the cooperative Combined Arms.
+- Play Untold War Stories - Witness human drama set against global combat in the single player War Stories. Ski down Norwegian mountains as you battle for control of nuclear weapon supply lines, join the frontline with the French colonial troops, or go behind enemy lines in North Africa with a band of misfits sent to create mayhem.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07D7FTVKH{{</world>}}

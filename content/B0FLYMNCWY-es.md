@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ● Juego alucinante: Navega por una serie de escenarios desalentadores, cada uno envuelto en la incertidumbre y el enigma. Cada clic y cada decisión se recuerdan, lo que te obliga a lidiar con la naturaleza poco fiable de las pistas y orientaciones del narrador.
-- ● Cuestiona la realidad: Centum habla de temas que desafían a los jugadores a cuestionar no solo la realidad del juego, sino también sus propias percepciones y creencias.
 - ● Da forma a la historia: En Centum no hay un protagonista único, sino que los jugadores moldean el comportamiento de una inteligencia artificial a través de sus elecciones, guiándola hacia diferentes resultados y experiencias.
+- ● Cuestiona la realidad: Centum habla de temas que desafían a los jugadores a cuestionar no solo la realidad del juego, sino también sus propias percepciones y creencias.
+- ● Juego alucinante: Navega por una serie de escenarios desalentadores, cada uno envuelto en la incertidumbre y el enigma. Cada clic y cada decisión se recuerdan, lo que te obliga a lidiar con la naturaleza poco fiable de las pistas y orientaciones del narrador.
 - ● Sistema de diálogo dinámico: Participa en conversaciones que influyen en los estados del ego de los personajes y alteran el curso de la narración.
 - ● Narrador poco fiable: Centum desafía las convenciones de los juegos tradicionales tejiendo una intrincada narrativa en la que la realidad es tan fluida como la mente de su narrador.
 

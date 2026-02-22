@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Expande tu autoridad por un mundo inmenso y dinámico con detalles, flexibilidad y escala sin igual. Forja alianzas por todo el imperio o haz gala de tu poder en estratégicas batallas terrestres y en el combate naval. Podrás incluso desafiar al mismísimo emperador, aunque esto tendrá sus consecuencias.
-- Disfruta del mejor juego de construcción y diseña las ciudades de tus sueños en el cénit del Imperio romano. Optimiza tu economía mientras buscas un equilibrio entre las necesidades de tu pueblo y las implacables exigencias del emperador. Levanta tus construcciones sobre el terreno que tienes ante tus ojos, desde el bello corazón del Lacio hasta los misteriosos marjales celtas de Albión, un lugar donde ningún romano civilizado querría estar.
-- "*El contenido y las fechas de publicación definitivos pueden cambiar. Para recibir el contenido digital, necesitas conexión a Internet y una cuenta de Ubisoft.
-- Cada decisión que tomes importa. Crea tu imperio de la nada y enfréntate al verdadero desafío que supone ser un gran gobernador. ¿Respetarás la cultura celta local, o impondrás las tradiciones romanas? Expande tus provincias a través de la diplomacia y el crecimiento económico, o somételas mediante la fuerza de las armas. Tus decisiones no solo determinarán el futuro de tus ciudadanos y tus provincias, sino también tu propia historia.
 - Reserva ya Anno 117: Pax Romana* y llévate el Builder Pack con adornos exclusivos, así como un icono de jugador único**.
+- "*El contenido y las fechas de publicación definitivos pueden cambiar. Para recibir el contenido digital, necesitas conexión a Internet y una cuenta de Ubisoft.
+- Disfruta del mejor juego de construcción y diseña las ciudades de tus sueños en el cénit del Imperio romano. Optimiza tu economía mientras buscas un equilibrio entre las necesidades de tu pueblo y las implacables exigencias del emperador. Levanta tus construcciones sobre el terreno que tienes ante tus ojos, desde el bello corazón del Lacio hasta los misteriosos marjales celtas de Albión, un lugar donde ningún romano civilizado querría estar.
+- Cada decisión que tomes importa. Crea tu imperio de la nada y enfréntate al verdadero desafío que supone ser un gran gobernador. ¿Respetarás la cultura celta local, o impondrás las tradiciones romanas? Expande tus provincias a través de la diplomacia y el crecimiento económico, o somételas mediante la fuerza de las armas. Tus decisiones no solo determinarán el futuro de tus ciudadanos y tus provincias, sino también tu propia historia.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FCDNJB22{{</world>}}

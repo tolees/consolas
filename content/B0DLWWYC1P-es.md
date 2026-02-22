@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Enfréntate a hordas grotescas – Los zombis cobran vida con un espeluznante y realista efecto gore de humedad, mientras reaccionan en tiempo real con daños visibles inmediatos, haciendo que cada bala del jugador cuente.
 - Apartado visual terroríficamente realista – Desarrollado con el motor gráfico RE Engine propiedad de Capcom, Resident Evil 2 ofrece un impresionante apartado visual fotorrealista en 4K, al tiempo que la alucinante iluminación crea una experiencia cercana, intensa y atmosférica mientras los jugadores recorren los pasillos del Departamento de Policía de Raccoon City (RPD).
+- Enfréntate a hordas grotescas – Los zombis cobran vida con un espeluznante y realista efecto gore de humedad, mientras reaccionan en tiempo real con daños visibles inmediatos, haciendo que cada bala del jugador cuente.
+- Una escalofriante reinvención de un clásico del horror – Basado en el juego original lanzado para la consola PlayStation en 1998, el nuevo juego ha sido remodelado desde cero para una experiencia narrativa más profunda. Nuevo modo de cámara por encima del hombro y esquema de controles modernizados para ofrecer una perspectiva más moderna de la experiencia survival horror y ofrecer a los jugadores un viaje al pasado con los modos de juego originales de la versión de 1998.
 - El estilo de juego que definió la icónica saga – Sumérgete en un frenético combate contra los enemigos, explora oscuros pasillos amenazadores, resuelve puzles para acceder a las áreas, y recopila y utiliza objetos que hayas encontrado por el escenario en una aterradora lucha constante por la supervivencia.
 - Contempla a tus personajes favoritos bajo una perspectiva nueva – Únete al oficial de policía novato Leon S. Kennedy en su primer día de trabajo y a la estudiante universitaria Claire Redfield, que está buscando a su hermano en medio de una aterradora epidemia zombi. Ponte en la piel de ambos héroes – Disfruta de las campañas por separado de Leon y Claire, permitiendo que los jugadores vean la historia desde la perspectiva de ambos personajes.
-- Una escalofriante reinvención de un clásico del horror – Basado en el juego original lanzado para la consola PlayStation en 1998, el nuevo juego ha sido remodelado desde cero para una experiencia narrativa más profunda. Nuevo modo de cámara por encima del hombro y esquema de controles modernizados para ofrecer una perspectiva más moderna de la experiencia survival horror y ofrecer a los jugadores un viaje al pasado con los modos de juego originales de la versión de 1998.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DLWWYC1P{{</world>}}

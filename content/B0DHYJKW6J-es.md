@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Libro de ilustraciones digital
-- Juego completo de Horizon Zero Dawn Remastered
 - Atuendo de Guardabosques Tormenta Carja y arco Carja poderoso
-- Pack de comerciante Carja
 - Pack de viaje Banuk
 - Nora Keeper Paquete de
 - Juego completo de Horizon Zero Dawn Remastered
+- Juego completo de Horizon Zero Dawn Remastered
+- Pack de comerciante Carja
+- Libro de ilustraciones digital
 - Atuendo de Pionero Banuk y arco de sacrificio Banuk
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Aventura de terror y puzles en primera persona, centrada en la exploración y el sigilo.
+- Explora largos niveles de rica arquitectura y caminos e intercomunicados, abriendo atajos y desentrañando las estancias de lugares en los que una vez residió un gran poder.
 - Con un cuidado diseño visual, atravesarás salas palaciegas, enormes bibliotecas, zonas de residencias, exteriores góticos y pasadizos hacia el inframundo. Rebélate contra las órdenes de la voz que te empuja a despertar el mal elemental.
 - Con una narrativa profunda e inmersiva, tanto en notas como voz, el jugador irá adquiriendo un conocimiento paulatino de la trama y de sus habilidades.
-- Explora largos niveles de rica arquitectura y caminos e intercomunicados, abriendo atajos y desentrañando las estancias de lugares en los que una vez residió un gran poder.
+- Aventura de terror y puzles en primera persona, centrada en la exploración y el sigilo.
 - Evita al enemigo que te perseguirá por los niveles de manera inagotable utilizando escondites o el Clípeo, un instrumento mágico que te permitirá descubrir secretos y ahuyentar al mal.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

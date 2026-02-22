@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ilumina los oscuros secretos de estas tierras, caza mutantes y explora las misteriosas anomalías en busca de artefactos preciosos con afinidades que cambian el juego
 - Experimenta una jugabilidad única en su tipo, que combina elementos de un shooter en primera persona, simulador inmersivo y horror
 - Intenta sobrevivir en tiroteos tácticos contra diversos enemigos y más de 30 modelos de armas de fuego, que podrás mejorar y personalizar. Experimenta gráficos de referencia, impulsados por Unreal Engine 5
 - Juega un papel importante en una historia cinematográfica ramificada que se desarrolla en un escenario de un paisaje postapocalíptico oscuro de ciencia ficción
-- Ilumina los oscuros secretos de estas tierras, caza mutantes y explora las misteriosas anomalías en busca de artefactos preciosos con afinidades que cambian el juego
 - Mecánicas de supervivencia que dependen de buscar suministros cruciales y valiosos: comida, bebidas, medicinas para sobrevivir a las duras condiciones, peligros (naturales y no naturales) y habitantes hostiles
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ilumina tu juego con efectos de iluminación LED que puedes cambiar con los botones ABXY.
-- Figurita coleccionable capturada en el interior de la empuñadura y un diseño de varias capas con escenas icónicas del juego
-- Diseñado por expertos para ofrecer comodidad durante todo el día y un rendimiento duradero
-- Conector de 3,5 mm para audio y chat en el juego, además de controles de volumen integrados en el D-pad.
 - Con licencia oficial de Nintendo y SEGA
+- Conector de 3,5 mm para audio y chat en el juego, además de controles de volumen integrados en el D-pad.
+- Diseñado por expertos para ofrecer comodidad durante todo el día y un rendimiento duradero
+- Figurita coleccionable capturada en el interior de la empuñadura y un diseño de varias capas con escenas icónicas del juego
+- Ilumina tu juego con efectos de iluminación LED que puedes cambiar con los botones ABXY.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CBNNXG7M{{</world>}}

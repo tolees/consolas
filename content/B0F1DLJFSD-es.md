@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adquiere nuevas habilidades y construye el mazo óptimo antes de enfrentarte al Shogun
 - Rogue-like: la muerte no es el fin, sino el comienzo de tu búsqueda hacia la maestría. A medida que juegas, desbloquearás nuevos personajes, ataques, habilidades ¡y mucho más!
 - Disfruta de un entorno inspirado en Japón con gráficos de estilo pixel art
 - Combate por turnos donde cada acción cuenta. ¡Posiciónate con cuidado, prepara tus ataques y desata todo tu poder en el momento adecuado!
 - Mejora tus fichas de ataque y realiza las mejores combinaciones posibles
+- Adquiere nuevas habilidades y construye el mazo óptimo antes de enfrentarte al Shogun
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F1DLJFSD{{</world>}}

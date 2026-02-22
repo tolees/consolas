@@ -29,13 +29,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tecnología inalámbrica LIGHTSPEED de 24 bits: estos auriculares inalámbricos con micrófono ofrecen un sonido de juego envolvente y sin comprimir a toda velocidad
-- Micrófono con calidad de difusión: experimenta la máxima articulación con el micrófono de varilla con ancho de banda completo de 48 kHz que alcanza nuevos niveles en cuanto a la calidad de la voz
-- 24 horas de uso (a 78 dB): la base de carga magnética de la estación base incluida garantiza que tus A50 estén siempre cargados y listos para jugar
-- Control avanzado con G HUB y la aplicación Logitech G: optimiza tu experiencia de audio de gaming con EQ paramétrico de 10 bandas, ajustes de micrófono,bloqueador de ruido, mezcla de salida de stream y mucho más
-- DSP de 7 núcleos: extraordinario procesamiento de audio para un modelado avanzado del sonido de los juegos que se guarda en los auriculares mientras cambias de sistema.
-- Transductores de audio PRO-G GRAPHENE: nitidez y respuesta sin precedentes para ofrecer separación de sonido exacta, ubicación y precisión de sincronización (40 mm de diámetro con tecnología Live Edge)
-- Mezcla de dos dispositivos Bluetooth: conéctate a tu dispositivo móvil y mezcla tus comunicaciones de Discord o tu música con el audio de tu juego
 - Cambio entre tres sistemas con PLAYSYNC AUDIO: los auriculares inalámbricos con micrófono A50 para gaming se conectan a 3 plataformas a la vez mediante USB-C para que puedas cambiar entre Xbox, PS5, PC/Mac o Nintendo Switch & Switch 2 mediante el control integrado en el auricular
+- Transductores de audio PRO-G GRAPHENE: nitidez y respuesta sin precedentes para ofrecer separación de sonido exacta, ubicación y precisión de sincronización (40 mm de diámetro con tecnología Live Edge)
+- 24 horas de uso (a 78 dB): la base de carga magnética de la estación base incluida garantiza que tus A50 estén siempre cargados y listos para jugar
+- Mezcla de dos dispositivos Bluetooth: conéctate a tu dispositivo móvil y mezcla tus comunicaciones de Discord o tu música con el audio de tu juego
+- DSP de 7 núcleos: extraordinario procesamiento de audio para un modelado avanzado del sonido de los juegos que se guarda en los auriculares mientras cambias de sistema.
+- Control avanzado con G HUB y la aplicación Logitech G: optimiza tu experiencia de audio de gaming con EQ paramétrico de 10 bandas, ajustes de micrófono,bloqueador de ruido, mezcla de salida de stream y mucho más
+- Micrófono con calidad de difusión: experimenta la máxima articulación con el micrófono de varilla con ancho de banda completo de 48 kHz que alcanza nuevos niveles en cuanto a la calidad de la voz
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DBJ5YPXZ{{</world>}}

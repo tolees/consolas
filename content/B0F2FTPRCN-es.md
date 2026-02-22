@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Interactúa con PNJ únicos y descubre historias ocultas, algunas trágicas, otras oscuramente humorísticas.
 - Controla las mentes de tus enemigos y reescribe tu destino. El futuro de Detraxis está en tus manos. ¿Te liberarás o serás solo un recuerdo perdido?
-- Esta edición incluye una funda especial y una postal metalizada
-- Controla y cambia entre enemigos en tiempo real. 60 tipos de enemigos y 10 jefes poderosos , cada uno con habilidades únicas. Cinco árboles de mejora para personalizar tu estilo de juego
 - Explora un rico mundo ciberpunk , dividido en diversos centros y niveles.
-- Las escenas animadas dibujadas a mano dan vida al mundo.
 - Hackea, infíltrate y supera a tus enemigos para descubrir la verdad detrás de los experimentos de RedSky.
+- Esta edición incluye una funda especial y una postal metalizada
+- Interactúa con PNJ únicos y descubre historias ocultas, algunas trágicas, otras oscuramente humorísticas.
+- Las escenas animadas dibujadas a mano dan vida al mundo.
+- Controla y cambia entre enemigos en tiempo real. 60 tipos de enemigos y 10 jefes poderosos , cada uno con habilidades únicas. Cinco árboles de mejora para personalizar tu estilo de juego
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F2FTPRCN{{</world>}}

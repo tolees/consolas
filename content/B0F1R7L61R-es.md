@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Controles de audio patentados - Ajusta el volumen del audio de la mezcla de juego/chat y el volumen principal al instante con los controles de la cruceta y silencia el micrófono con un botón de función dedicado.
 - Con licencia oficial para Xbox y PC - El mando Afterglow Wave tiene licencia oficial para Xbox Series X, Xbox Series S, Xbox One y PC con Windows 10 y 11 con una fiable conexión por cable USB-C de 3 m.
+- Dos botones de acción rápida asignables - Mantén tus controles al alcance de la mano con dos botones de acción rápida asignables, que permiten personalizar y mejorar aún más el juego.
+- Controles de audio patentados - Ajusta el volumen del audio de la mezcla de juego/chat y el volumen principal al instante con los controles de la cruceta y silencia el micrófono con un botón de función dedicado.
 - Gatillos ajustables de 3 pasos con efecto Hall - Afina la sensibilidad de los gatillos ajustando 3 pasos que te permiten personalizar el recorrido para adaptarlo a tus preferencias o estilo de juego. Además, con la tecnología de efecto Hall, los gatillos ofrecen un control suave, duradero y preciso.
 - Iluminación RGB personalizable - El sistema de iluminación RGB inteligente con ocho zonas de iluminación RGB y ocho modos de iluminación preestablecidos diferentes te permite ajustar una gran variedad de efectos, colores y brillos.
-- Dos botones de acción rápida asignables - Mantén tus controles al alcance de la mano con dos botones de acción rápida asignables, que permiten personalizar y mejorar aún más el juego.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F1R7L61R{{</world>}}

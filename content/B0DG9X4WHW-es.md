@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - CUATRO PATRONES POLARES SELECCIONABLES - El QuadCast 2 S ofrece cuatro patrones polares (cardioide, omnidireccional, bidireccional o estéreo) para adaptarse a una amplia variedad de necesidades de grabación.
+- PANTALLA DE ILUMINACIÓN DINÁMICA - El QuadCast 2 S cuenta con más de 100 LEDs aRGB personalizables individualmente, lo que permite a los usuarios mostrar más de 16 millones de opciones de color para complementar sus transmisiones y creaciones.
 - AUDIO PREPARADO PARA EL FUTURO - El QuadCast 2 S cuenta con la mejor resolución de grabación de audio en su clase para un micrófono USB de gaming de consumo.
 - SOFTWARE HYPERX NGENUITY - El conjunto de software ofrece a los usuarios una mayor personalización, como la personalización individual de los LEDs, limitador, ecualizador de 10 bandas y más. Además, la nueva función de reducción de ruido mediante IA mejora aún más el sonido y reduce el ruido no deseado.
 - MONTURA ANTIVIBRACIÓN DESMONTABLE REDISEÑADA - La montura antivibración preinstalada, que amortigua las vibraciones, es fácilmente desmontable gracias a los pines con resorte. Además, la articulación de la montura antivibración es compatible con roscas de 3/8 pulgadas y 5/8 pulgadas, lo que facilita su configuración.
-- PANTALLA DE ILUMINACIÓN DINÁMICA - El QuadCast 2 S cuenta con más de 100 LEDs aRGB personalizables individualmente, lo que permite a los usuarios mostrar más de 16 millones de opciones de color para complementar sus transmisiones y creaciones.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DG9X4WHW{{</world>}}

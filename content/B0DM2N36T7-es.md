@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - GRÁFICOS DE PÍXELES: Disfruta de increíbles gráficos de píxeles, un sincero homenaje a la serie. Lleva a tu escuadrón a la victoria mediante astucia estratégica y potencia de fuego superior en una combinación perfecta de acción clásica y profundidad táctica.
-- ACCIÓN ARCADE Y TÁCTICA: Prepárate para un viaje intenso a través de lo mejor de ambos mundos: acción arcade clásica y emociones tácticas de tipo "roguelite". Salta a la zona de combate y revive tu nostalgia de METAL SLUG de una manera completamente nueva!
-- JUEGO DE ROL TÁCTICO: Metal Slug Tactics trae el encanto explosivo y la diversión nostálgica de la serie de culto METAL SLUG a la escena táctica
-- DESBLOQUEA ARMAS Y VENTAJAS: Acumula experiencia después de cada batalla para desbloquear nuevas armas o ventajas adicionales para mejorar la potencia de fuego y las habilidades tácticas de tu equipo. ¡Reúne a tu equipo y reescribe las reglas en este moderno tributo a un clásico de culto!
 - HISTORIA: ¡Donald Morden ha vuelto! Después de años de esconderse en un país opuesto al Gobierno Mundial, el tortuoso general ha organizado pacientemente un golpe de estado. Ahora, al fin está listo para vengarse del mundo con el ejército que ha reunido en secreto a lo largo de los años.
+- DESBLOQUEA ARMAS Y VENTAJAS: Acumula experiencia después de cada batalla para desbloquear nuevas armas o ventajas adicionales para mejorar la potencia de fuego y las habilidades tácticas de tu equipo. ¡Reúne a tu equipo y reescribe las reglas en este moderno tributo a un clásico de culto!
+- JUEGO DE ROL TÁCTICO: Metal Slug Tactics trae el encanto explosivo y la diversión nostálgica de la serie de culto METAL SLUG a la escena táctica
+- ACCIÓN ARCADE Y TÁCTICA: Prepárate para un viaje intenso a través de lo mejor de ambos mundos: acción arcade clásica y emociones tácticas de tipo "roguelite". Salta a la zona de combate y revive tu nostalgia de METAL SLUG de una manera completamente nueva!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DM2N36T7{{</world>}}

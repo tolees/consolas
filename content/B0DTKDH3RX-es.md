@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ¡Explora un mundo abierto único! Descubre los secretos y desafíos de los reinos centrales. Recorre los campos abiertos, adéntrate en antiguos túneles, saquea ruinas perdidas y descubre qué misterios acechan en sus rincones más ocultos.
-- ¡Sumérgete en una rica historia! Una multitud de personajes insólitos te aguardan en un mundo perdido en las profundidades de su propia tradición metafísica. Descubre las historias de las almas perturbadas que habitan en él y conoce la inverosímil historia de los reinos centrales...
 - ¡Derrota a tus enemigos! Pon a prueba tus habilidades en un combate táctico y deliberado en el que un esquive mal colocado o una parada inoportuna pueden significar la muerte.
 - ¡Logra la victoria con tus hechizos! Crea hasta 80 hechizos únicos y combínalos con diversos pentagramas, talismanes y otro equipamiento para perfeccionar tu construcción y abrirte camino a través de tus enemigos. Recoge materiales de artesanía de los enemigos caídos y elige cuidadosamente las estadísticas que subirás de nivel a medida que avances.
+- ¡Sumérgete en una rica historia! Una multitud de personajes insólitos te aguardan en un mundo perdido en las profundidades de su propia tradición metafísica. Descubre las historias de las almas perturbadas que habitan en él y conoce la inverosímil historia de los reinos centrales...
+- ¡Explora un mundo abierto único! Descubre los secretos y desafíos de los reinos centrales. Recorre los campos abiertos, adéntrate en antiguos túneles, saquea ruinas perdidas y descubre qué misterios acechan en sus rincones más ocultos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DTKDH3RX{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Contenido del paquete: CORSAIR NIGHTSABRE WIRELESS Gaming Mouse | Cable USB de carga y datos | Transceptor inalámbrico USB | Folleto de seguridad | Tarjeta de garantía | CH-931B011-EU
-- Potencia y rendimiento en la palma de la mano: El ratón inalámbrico que le mantiene bien equipado y preparado para todo en FPS, MOBA, Battle Royale y mucho más, con un diseño exquisito, resistente y simétrico.
-- Sensor óptico ultrapreciso de 26.000 PPP: Con 26.000 PPP nativos, un seguimiento de 650 IPS y una aceleración de hasta 50 G, el sensor óptico CORSAIR MARKSMAN captura con precisión hasta los reflejos más veloces del ratón.
-- Un ratón de 11: 11 botones completamente programables, incluida una rueda de desplazamiento inclinable, le permiten personalizar su forma de jugar con potentes macros o reasignaciones de botones.
 - Hasta 100 horas de batería inalámbrica con carga rápida Juegue hasta 100 horas,** partido tras partido sin cesar, con una sola carga, y una carga de tan solo 15 minutos le mantienen en el juego durante 20 horas. **vía Bluetooth con retroiluminación apagada
+- Potencia y rendimiento en la palma de la mano: El ratón inalámbrico que le mantiene bien equipado y preparado para todo en FPS, MOBA, Battle Royale y mucho más, con un diseño exquisito, resistente y simétrico.
+- Un ratón de 11: 11 botones completamente programables, incluida una rueda de desplazamiento inclinable, le permiten personalizar su forma de jugar con potentes macros o reasignaciones de botones.
+- Sensor óptico ultrapreciso de 26.000 PPP: Con 26.000 PPP nativos, un seguimiento de 650 IPS y una aceleración de hasta 50 G, el sensor óptico CORSAIR MARKSMAN captura con precisión hasta los reflejos más veloces del ratón.
+- Contenido del paquete: CORSAIR NIGHTSABRE WIRELESS Gaming Mouse | Cable USB de carga y datos | Transceptor inalámbrico USB | Folleto de seguridad | Tarjeta de garantía | CH-931B011-EU
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CBVTZM9S{{</world>}}

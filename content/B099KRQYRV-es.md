@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- OPTIMIZADO PARA PS5: Como juego de Sony interactive Entertainment el Ghost of Tsushima está optimizado para unos gráficos espectaculares, retroalimentación háptica, tecnología de audio 3D (en auriculares compatibles).
-- BARRO, SANGRE Y ACERO: El enemigo mongol es impredecible, y formidable en estrategia y armamento. Toma la delantera adaptando las habilidades de Jin y aprendiendo nuevas tácticas para defender la isla y proteger al pueblo de Tsushima.
-- EL ASCENSO DEL FANTASMA: Jin es un samurái criado en la tradición y la disciplina, pero cuando los mongoles invaden su tierra, deberá decidir entre honrar su educación y enfrentar una batalla perdida o proteger a su gente por cualquier medio necesario.
-- LA BELLEZA DE TSUSHIMA: En este mundo abierto de acción y aventura, recorrerás vastos campos y grandes extensiones de terreno en los que encontrarás personajes complejos, descubrirás antiguos monumentos y disfrutarás de la belleza oculta de Tsushima
 - DIRECTORS CUT INCLUYE: contenido descargable: Expansión Iki Island, modo multijugador Legends, conjunto de aspecto del Héroe de Tsushima, objetos ingame, comentarios del director y minilibro de arte digital
+- EL ASCENSO DEL FANTASMA: Jin es un samurái criado en la tradición y la disciplina, pero cuando los mongoles invaden su tierra, deberá decidir entre honrar su educación y enfrentar una batalla perdida o proteger a su gente por cualquier medio necesario.
+- BARRO, SANGRE Y ACERO: El enemigo mongol es impredecible, y formidable en estrategia y armamento. Toma la delantera adaptando las habilidades de Jin y aprendiendo nuevas tácticas para defender la isla y proteger al pueblo de Tsushima.
+- LA BELLEZA DE TSUSHIMA: En este mundo abierto de acción y aventura, recorrerás vastos campos y grandes extensiones de terreno en los que encontrarás personajes complejos, descubrirás antiguos monumentos y disfrutarás de la belleza oculta de Tsushima
+- OPTIMIZADO PARA PS5: Como juego de Sony interactive Entertainment el Ghost of Tsushima está optimizado para unos gráficos espectaculares, retroalimentación háptica, tecnología de audio 3D (en auriculares compatibles).
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B099KRQYRV{{</world>}}

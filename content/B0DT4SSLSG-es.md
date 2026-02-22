@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡Dos esquemas de control! Elige el esquema que se adapte a tu estilo: Arcade Style, diseñado para entradas precisas y técnicas, y Smart Style, que permite movimientos especiales llamativos y combos con simples entradas direccionales y pulsaciones de un solo botón. Ya seas nuevo en los juegos de lucha o un profesional experimentado, hay un enfoque personalizado para cada uno.
+- ¡Nuevo sistema REV! ¡Presentamos un conjunto de herramientas dinámico que ofrece poderosas opciones ofensivas desde el principio! ¡Aprovecha movimientos como REV Arts, REV Accel y REV Blows hasta que llenes y sobrecalienta el REV Meter!
 - 2 hojas de pegatinas con los logotipos de los juegos de la franquicia, Una caja coleccionable de estilo “NEOGEO” que contiene todos los contenidos, Y, por supuesto, el juego físico FATAL FURY: City of the Wolves – Special Edition (incluyendo el Pase de Temporada 1 y el traje DLC de Terry).
 - La Deluxe Edition incluye los siguientes artículos exclusivos: Steelbook con la banda sonora oficial del juego (en dos discos), Un Artbook de más de 100 páginas que destaca el estilo artístico distintivo y los personajes del juego, Un póster de doble cara con un mapa de South Town en un lado y un diagrama de relaciones que muestra cómo los destinos de los personajes se entrelazan en el otro lado
-- ¡Nuevo sistema REV! ¡Presentamos un conjunto de herramientas dinámico que ofrece poderosas opciones ofensivas desde el principio! ¡Aprovecha movimientos como REV Arts, REV Accel y REV Blows hasta que llenes y sobrecalienta el REV Meter!
+- ¡Dos esquemas de control! Elige el esquema que se adapte a tu estilo: Arcade Style, diseñado para entradas precisas y técnicas, y Smart Style, que permite movimientos especiales llamativos y combos con simples entradas direccionales y pulsaciones de un solo botón. Ya seas nuevo en los juegos de lucha o un profesional experimentado, hay un enfoque personalizado para cada uno.
 - ¡Modo RPG para un solo jugador: EOST (Episodes of South Town)! Enfréntate a desafiantes en diversas condiciones de combate, ganando XP y recompensas valiosas en el camino. Mejora a tu luchador, expande un conjunto versátil de habilidades y aplasta a la competencia mientras asciendes a la cima. En South Town, ¡los sueños y las ambiciones no tienen límites!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

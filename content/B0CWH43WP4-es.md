@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- App LEGO Builder: Descarga la app, donde encontrarás las instrucciones de construcción y herramientas que te permiten acercar y girar una imagen digital 3D de tu modelo a medida que construyes, guardar tus sets en un solo lugar y más
-- Experiencia interactiva: El kit de maquetas incluye una etiqueta de acción para que puedas agregar a las figuras LEGO Mario, LEGO Luigi o LEGO Peach (figuras no incluidas) y ver sus reacciones digitales
 - Maqueta para adultos LEGO Super Mario coleccionable: vuelve a la nostálgica época de los videojuegos Nintendo que utilizaban la mecánica de desplazamiento lateral con la maqueta para construir con ladrillos Super Mario World: Mario y Yoshi
 - Figuras Nintendo pixeladas: Acciona la manivela de la base del modelo y Yoshi correrá con Mario a cuestas; gira la rueda situada en la cabeza de Yoshi por detrás para que saque y meta la lengua
 - Regalo LEGO Super Mario para hombres y mujeres: Se necesita el set 71439, 71440 o 71441 (a la venta por separado) para disfrutar de una experiencia digital interactiva con este kit de maquetas de colección de Nintendo
-- Maqueta LEGO Super Mario para exponer: Exhibe esta construcción para adultos LEGO Super Mario como decoración del hogar o la oficina, una pieza que no dejará indiferente a ningún fan del videojuego
 - Maqueta LEGO Super Mario coleccionable: Este kit de maquetas forma parte de la gama de sets LEGO Adults, un amplio surtido diseñado para entusiastas de las construcciones creativas y divertidas que favorecen la atención plena
+- Maqueta LEGO Super Mario para exponer: Exhibe esta construcción para adultos LEGO Super Mario como decoración del hogar o la oficina, una pieza que no dejará indiferente a ningún fan del videojuego
+- Experiencia interactiva: El kit de maquetas incluye una etiqueta de acción para que puedas agregar a las figuras LEGO Mario, LEGO Luigi o LEGO Peach (figuras no incluidas) y ver sus reacciones digitales
+- App LEGO Builder: Descarga la app, donde encontrarás las instrucciones de construcción y herramientas que te permiten acercar y girar una imagen digital 3D de tu modelo a medida que construyes, guardar tus sets en un solo lugar y más
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CWH43WP4{{</world>}}

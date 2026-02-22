@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Descubre nuevos planetas y mundos ya conocidos en la galaxia de Star Wars, cada uno con biomas, desafíos y enemigos únicos; Domina nuevas habilidades y equipo que aumentarán tus formas de luchar y avanzar
 - Ve Más Allá De Tu Entrenamiento: El sistema de combate cinematográfico vuelve con nuevas habilidades de la Fuerza y nuevos estilos de espada láser
-- Hay zonas más grandes para explorar y mucho por descubrir, por lo que quienes se aventuren más allá encontrarán recompensas ocultas
+- Descubre nuevos planetas y mundos ya conocidos en la galaxia de Star Wars, cada uno con biomas, desafíos y enemigos únicos; Domina nuevas habilidades y equipo que aumentarán tus formas de luchar y avanzar
 - Cal ya no es un padawan y se ha convertido en un poderoso Caballero Jedi; Lleva consigo los recuerdos y las expectativas de la Orden Jedi y su cruzada contra el Imperio se ha ido tornando cada vez más peligrosa
+- Hay zonas más grandes para explorar y mucho por descubrir, por lo que quienes se aventuren más allá encontrarán recompensas ocultas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DBLXZ8HR{{</world>}}

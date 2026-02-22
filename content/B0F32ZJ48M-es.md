@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alta Rejugabilidad. Múltiples caminos, objetos y enemigos colocados aleatoriamente, y quick events que asegurarán una partida distinta cada vez que juegues.
-- Gameplay Survival Intenso. Mantente alerta y reacciona rápidamente a las amenazas que acechan en la oscuridad. Usa tu resolución y recursos limitados para sobrevivir.
+- La Edición Estándar incluye: Juego físico completo, Pack de 4 Postales con Códigos Mortales.
 - Experiencia de Horror Inmersivo. Ábrete paso a través de un barrio oscuro y atmosférico, lleno de peligros oculto y sorpresas sobrecogedoras.
 - Historia Apasionante. Descubre el misterio tras los secuestros y la siniestra secta mientras avanzas por el juego.
-- La Edición Estándar incluye: Juego físico completo, Pack de 4 Postales con Códigos Mortales.
+- Alta Rejugabilidad. Múltiples caminos, objetos y enemigos colocados aleatoriamente, y quick events que asegurarán una partida distinta cada vez que juegues.
+- Gameplay Survival Intenso. Mantente alerta y reacciona rápidamente a las amenazas que acechan en la oscuridad. Usa tu resolución y recursos limitados para sobrevivir.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F32ZJ48M{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Play, win, and progress with friends in more ways than ever before with Clubs. Connect with club mates in your all-new personalised Clubhouse and see your friends’ avatars when they enter the mode.
-- Team up with 5v5 Rush, a new way to play with friends in Football Ultimate Team, Clubs, and Kick-Off with small-sided gameplay.
-- For the first time, play an authentic Women’s Career experience, taking control of a club or player from the top five women’s leagues.
 - Enjoy more ways to build your dream squad in Football Ultimate Team with the best past and present players from across The World’s Game.
+- Team up with 5v5 Rush, a new way to play with friends in Football Ultimate Team, Clubs, and Kick-Off with small-sided gameplay.
 - Get your team playing like the world’s best with FC IQ. An overhaul of tactical foundations across the game delivers greater strategic control and more realistic collective movement.
+- For the first time, play an authentic Women’s Career experience, taking control of a club or player from the top five women’s leagues.
+- Play, win, and progress with friends in more ways than ever before with Clubs. Connect with club mates in your all-new personalised Clubhouse and see your friends’ avatars when they enter the mode.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D94PQMTX{{</world>}}

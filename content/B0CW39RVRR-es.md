@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Acción: Blande espadas y arcos, y usa magia. Las vocaciones de Dragons Dogma 2 te permiten afrontar los combates de diferentes formas. Pero eso no es todo: el terreno que atravieses y los enemigos que encuentres serán variados y llenos de detalles, tanto puentes colgantes repletos de rivales como pasos precarios que conducen a monstruos gigantescos.
 - Solo, pero en compañía: Los jugadores podrán personalizar y controlar a su Arisen. Humano o féride, tu Arisen liderará un grupo de hasta 3 peones diferentes durante tu viaje. Los jugadores pueden personalizar su peón principal, que te acompañará siempre además de formar un grupo con dos peones adicionales de otros jugadores de la red.
-- Historia: La historia arranca en una prisión subterránea donde el eco de la voz del dragón resuena en la niebla de recuerdos perdidos: Álzate, Arisen, y vénceme siguiendo el dogma de este mundo. Entre los dominios de los humanos y los férides, un héroe tendrá que cumplir su destino olvidado. ¿Qué dogma ve tu corazón a través de tus ojos? Esta es la historia de quien deberá matar al dragón y subir al trono.
 - Un mundo de fantasía inmersivo e increíblemente detallado: Los personajes y monstruos que encontrarás contarán con IA y los entornos que explorarás utilizan modelos físicos inmersivos y tecnología en gráficos.
+- Historia: La historia arranca en una prisión subterránea donde el eco de la voz del dragón resuena en la niebla de recuerdos perdidos: Álzate, Arisen, y vénceme siguiendo el dogma de este mundo. Entre los dominios de los humanos y los férides, un héroe tendrá que cumplir su destino olvidado. ¿Qué dogma ve tu corazón a través de tus ojos? Esta es la historia de quien deberá matar al dragón y subir al trono.
+- Acción: Blande espadas y arcos, y usa magia. Las vocaciones de Dragons Dogma 2 te permiten afrontar los combates de diferentes formas. Pero eso no es todo: el terreno que atravieses y los enemigos que encuentres serán variados y llenos de detalles, tanto puentes colgantes repletos de rivales como pasos precarios que conducen a monstruos gigantescos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CW39RVRR{{</world>}}

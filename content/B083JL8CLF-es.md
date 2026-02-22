@@ -29,11 +29,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 17 botones completamente programables; esquema idóneo para realizar acciones frecuentes y ejecutar macros complejas en los MMO y MOBA
-- Sistema de control Key Slider patentado; reposicione los 12 botones laterales para que se ajusten óptimamente a su mano
-- Forma cómoda y contorneada; diseñado para adaptarse a los contornos de su palma, sin importar el tamaño de su mano o el estilo de agarre, con un reposadedos en el lado derecho para optimizar el soporte
-- Sensor óptico de 18.000 ppp nativos; equipado con un sensor personalizado PixArt PMW3391, ajustable en incrementos de resolución de 1 ppp, para un seguimiento personalizable y muy preciso
 - Nota: El sistema de control Key Slider patentado le permite reposicionar los 12 botones laterales para adaptarse cómodamente a su agarre. Para ajustar el control deslizante del teclado, siga los pasos a continuación:> Inserte la llave Allen incluida en el bloqueo del control deslizante del teclado ubicado en la parte inferior del mouse y gírelo en sentido antihorario para desbloquear el teclado. > Mueva el teclado a la posición deseada y gire la llave Allen en el sentido de las agujas del reloj para bloquear el teclado
+- Sensor óptico de 18.000 ppp nativos; equipado con un sensor personalizado PixArt PMW3391, ajustable en incrementos de resolución de 1 ppp, para un seguimiento personalizable y muy preciso
 - Estructura resistente; los conmutadores Omron con capacidad de hasta 50 millones de clics, la rueda de desplazamiento resistente y el cable trenzado del SCIMITAR RGB ELITE
+- Forma cómoda y contorneada; diseñado para adaptarse a los contornos de su palma, sin importar el tamaño de su mano o el estilo de agarre, con un reposadedos en el lado derecho para optimizar el soporte
+- Sistema de control Key Slider patentado; reposicione los 12 botones laterales para que se ajusten óptimamente a su mano
 - Peso: 122 g (sin cable ni accesorios)
 
 [🛒 Aquí!!!]({{< param buyurl >}})

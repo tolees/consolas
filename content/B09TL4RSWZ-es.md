@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Disfrutarás de una aventura con un estilo totalmente nuevo, en la que podrás explorar libremente y sin tener que seguir un orden establecido por la trama. Por supuesto, además de todos los descubrimientos y las historias que están esperándote, tendrás que perfeccionar tus habilidades como Entrenador o Entrenadora.
-- En el modo multijugador de Pokémon Escarlata y Pokémon Púrpura pueden jugar hasta cuatro personas.​ Además de los elementos esenciales, como intercambiar Pokémon y combatir, podréis explorar juntos varios lugares de la región de estos juegos.
 - Pokémon Escarlata y Pokémon Púrpura serán los primeros RPG de mundo abierto de la saga Pokémon. Podrás seguir disfrutando de los clásicos de siempre, como descubrir Pokémon, entrenarlos, intercambiarlos, combatir y formar tu equipo con ellos, mientras te sumerges en esta enrome y nueva aventura.
 - Conoce a los habitantes de la región y a muchos Pokémon y adéntrate en el mundo de Pokémon como quieras.
+- En el modo multijugador de Pokémon Escarlata y Pokémon Púrpura pueden jugar hasta cuatro personas.​ Además de los elementos esenciales, como intercambiar Pokémon y combatir, podréis explorar juntos varios lugares de la región de estos juegos.
 - Carátula provisional.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

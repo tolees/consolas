@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 50 niveles emocionantes: Explora lugares icónicos del universo de Policán, incluyendo el ayuntamiento, la fábrica de nubes gigantes y la comisaría; en cada lugar encontrarás puzles que resolver y desafíos de plataformas
+- Artilugios: Consigue artilugios y habilidades conforme avances, incluyendo un gancho de escalada, botas cohete y guantes de fuerza para atravesar los niveles
+- Puzles y jefes: Usa la cabeza para resolver puzles y derrotar a jefes singulares; para cada jefe tendrás que combinar las habilidades de tu equipo con astucia
 - Puzles y jefes: Usa la cabeza para resolver puzles y derrotar a jefes singulares; para cada jefe tendrás que combinar las habilidades de tu equipo con astucia
 - Trabajo en equipo: Cambia entre Policán y los Mega Colegas, cada uno con sus habilidades especiales, para superar obstáculos y vencer a los jefes
-- Puzles y jefes: Usa la cabeza para resolver puzles y derrotar a jefes singulares; para cada jefe tendrás que combinar las habilidades de tu equipo con astucia
-- Artilugios: Consigue artilugios y habilidades conforme avances, incluyendo un gancho de escalada, botas cohete y guantes de fuerza para atravesar los niveles
+- 50 niveles emocionantes: Explora lugares icónicos del universo de Policán, incluyendo el ayuntamiento, la fábrica de nubes gigantes y la comisaría; en cada lugar encontrarás puzles que resolver y desafíos de plataformas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DJT9ZP5H{{</world>}}

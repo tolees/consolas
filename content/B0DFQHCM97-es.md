@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- COMPLETA TU COLECCIÓN: Adquiere modelos emblemáticos de todas las marcas más famosas: Ferrari, Lamborghini, Porsche, Bugatti, Koenigsegg, Aston Martin y muchas más. En total están representados más de 30 fabricantes de coches con una amplia gama de tipos de vehículos, desde utilitarios de los 60 hasta hiperdeportivos ultramodernos, pasando por coches todoterreno.
-- FORMA PARTE DE LA ÉLITE: Domina a tus rivales en un modo clasificado diseñado para las carreras competitivas. Desde el rango de bronce hasta el de Solar King/Queen, tu progreso será tan exigente como gratificante, con una serie de recompensas exclusivas disponibles para quienes busquen batallas
 - EXPLORA LA ISLA DE HONG KONG: Conduce por un mapa que nunca ha aparecido antes en un juego de carreras: la isla de Hong Kong. Reproducido fielmente a escala 1:1, está repleto de lugares únicos que explorar. Desde viejas calles estrechas y grandes autopistas hasta caminos de montaña y playas: cada trayecto será distinto del anterior
+- FORMA PARTE DE LA ÉLITE: Domina a tus rivales en un modo clasificado diseñado para las carreras competitivas. Desde el rango de bronce hasta el de Solar King/Queen, tu progreso será tan exigente como gratificante, con una serie de recompensas exclusivas disponibles para quienes busquen batallas
 - ELIGE TU CLAN: Participa en las guerras de clanes uniéndote a una de las dos familias que luchan por la supremacía: los Streets, provocadores ostentosos; o los Sharps, que prefieren la sofisticación discreta. Enfréntate cara a cara con los contendientes de cada clan en trepidantes carreras para subir en el escalafón y conseguir recompensas exclusivas.
 - CONOCE A OTROS ENTUSIASTAS: Crea un avatar que te represente y conoce a otros entusiastas de los coches en las calles de Hong Kong o en uno de los múltiples centros sociales: Solar Hotel, concesionarios de coches, talleres, cuarteles generales de los clanes... Son lugares ideales para conocer gente con la que compartir tu pasión por los coches.
+- COMPLETA TU COLECCIÓN: Adquiere modelos emblemáticos de todas las marcas más famosas: Ferrari, Lamborghini, Porsche, Bugatti, Koenigsegg, Aston Martin y muchas más. En total están representados más de 30 fabricantes de coches con una amplia gama de tipos de vehículos, desde utilitarios de los 60 hasta hiperdeportivos ultramodernos, pasando por coches todoterreno.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DFQHCM97{{</world>}}

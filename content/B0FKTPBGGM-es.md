@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Crea tu personaje con las habilidades y opciones que reflejen tu estilo de juego. La colonia reacciona a cada movimiento, creando una historia que solo te pertenece a ti.
 - ¡Prepárate para una aventura llena de acción con una nueva tripulación, nuevas armas y nuevos enemigos en una nueva colonia! ¡Un montón de novedades!
-- Como miembro de la intrépida Dirección de la Tierra, toda la galaxia depende de tus decisiones: tus fortalezas, tus defectos, tu tripulación y las facciones en las que decides confiar.
-- The Outer Worlds 2 es la esperada secuela del RPG de ciencia ficción en primera persona galardonado con premios de Obsidian Entertainment.
 - Recluta a compañeros con rasgos, antecedentes y objetivos únicos, y hazles partícipes de la historia inmersiva que crearéis juntos.
+- Crea tu personaje con las habilidades y opciones que reflejen tu estilo de juego. La colonia reacciona a cada movimiento, creando una historia que solo te pertenece a ti.
+- The Outer Worlds 2 es la esperada secuela del RPG de ciencia ficción en primera persona galardonado con premios de Obsidian Entertainment.
+- Como miembro de la intrépida Dirección de la Tierra, toda la galaxia depende de tus decisiones: tus fortalezas, tus defectos, tu tripulación y las facciones en las que decides confiar.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FKTPBGGM{{</world>}}

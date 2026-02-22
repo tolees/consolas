@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Past meets present in SONIC GENERATIONS! Modern and Classic Sonic team up to defeat Dr. Eggman and the Time Eater to restore their timeline to normal!
-- In this new standalone campaign, Black Doom has reemerged and threatens to take over the world. Shadow must journey into his past, confront his memories, and unlock new dark powers to save the world.
-- Harness Shadows new Doom Powers to battle hordes of enemies and tackle platforming challenges like never before. Surf on water, fly over obstacles, and stop time with the return of Chaos Control!
 - Rescue Chao hiding in every level, rack up the highest pinball score in the Casino Nights zone, and check out the museum for behind-the-scenes art, music, and more!
+- Harness Shadows new Doom Powers to battle hordes of enemies and tackle platforming challenges like never before. Surf on water, fly over obstacles, and stop time with the return of Chaos Control!
+- Past meets present in SONIC GENERATIONS! Modern and Classic Sonic team up to defeat Dr. Eggman and the Time Eater to restore their timeline to normal!
 - Spin dash through a greatest-hits collection of 3D and 2D versions of iconic stages from past Sonic games, now with updated visuals and reworked cinematics
+- In this new standalone campaign, Black Doom has reemerged and threatens to take over the world. Shadow must journey into his past, confront his memories, and unlock new dark powers to save the world.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D6JYR4M7{{</world>}}

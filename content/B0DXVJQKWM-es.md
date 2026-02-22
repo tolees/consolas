@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Toma decisiones estratégicas con respecto a tus mejoras, habilidades y armas para cambiar por completo la dinámica de cada partida. Prueba distintos estilos de juego para conseguir sinergias devastadoras.
-- Pon a prueba tus habilidades contra robots alborotadores, enormes jefes y los guardianes de los biomas, cuyos patrones deberás memorizar para alzarte con la victoria.
 - Esquiva, lánzate y dispara para abrirte paso a través de fases repletas de enemigos agresivos, todo ello mientras realizas paradas precisas y en perfecta sincronía.
-- Únete a la batalla con Andru, un personaje centrado en el combate cuerpo a cuerpo que incluye sus propias mejoras, armas y habilidades. ¡Planta cara a los malos y provoca un verdadero estruendo!
 - En este roguelike lleno de momentos trepidantes morirás, morirás y volverás a morir... Pero siempre volverás a ponerte en pie para adentrarte el caos.
 - Recorre los fascinantes biomas bañados en neón del planeta Ekis. La generación de niveles procedural da lugar a escenarios distintos en cada partida, lo que hace que cada una de ellas presente desafíos y enemigos únicos.
+- Pon a prueba tus habilidades contra robots alborotadores, enormes jefes y los guardianes de los biomas, cuyos patrones deberás memorizar para alzarte con la victoria.
+- Toma decisiones estratégicas con respecto a tus mejoras, habilidades y armas para cambiar por completo la dinámica de cada partida. Prueba distintos estilos de juego para conseguir sinergias devastadoras.
+- Únete a la batalla con Andru, un personaje centrado en el combate cuerpo a cuerpo que incluye sus propias mejoras, armas y habilidades. ¡Planta cara a los malos y provoca un verdadero estruendo!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DXVJQKWM{{</world>}}

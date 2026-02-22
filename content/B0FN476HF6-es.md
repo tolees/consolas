@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Un mundo de tinieblas: Entra en el Mundo de Tinieblas y asciende en la sociedad vampírica o lucha contra ella. En esta secuela del clásico de culto, tus elecciones, tramas y planes determinarán el equilibrio de poder y qué será de la ciudad y sus habitantes.
 - Tú eres el monstruo: La sangre te sustenta y potencia tus Disciplinas vampíricas. Utiliza tus poderes sobrenaturales o tu persuasión sobre mortales desprevenidos para atraerlos a callejones oscuros y saciar tu Hambre. Sin embargo, ten cuidado con romper la Mascarada: revelar tu verdadera naturaleza conlleva el riesgo de represalias.
-- Elige tu clan: Experimenta un combate inmersivo y visceral que recompensa varios estilos de juego y enfoques en función del clan vampírico que elijas. ¿Combatirás cuerpo a cuerpo con fuerza sobrenatural, atacarás a distancia con magia de sangre o reducirás la manada en silencio como el depredador supremo que eres?
 - Eres el Nómada: Atrapada en tu sangre está la voz de un extraño. Esta misteriosa entidad, un detective vampiro conocido como Fabien, será tu guía en la Seattle del siglo XXI. En algunas partes del juego explorarás la ciudad a través de sus ojos mientras revisas un caso sin resolver de hace cien años que amenaza a la sociedad de muertos vivientes y mortales.
+- Elige tu clan: Experimenta un combate inmersivo y visceral que recompensa varios estilos de juego y enfoques en función del clan vampírico que elijas. ¿Combatirás cuerpo a cuerpo con fuerza sobrenatural, atacarás a distancia con magia de sangre o reducirás la manada en silencio como el depredador supremo que eres?
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FN476HF6{{</world>}}

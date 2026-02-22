@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego cooperativo: disfruta jugando en modo cooperativo local con un amigo. Atacad juntos al enemigo, planead vuestros siguientes movimientos o simplemente disfrutad del caos de la batalla peleando codo con codo.
-- Vastos mundos creativos: explora niveles que ponen a prueba los límites de la creatividad, cada cual más sorprendente y visualmente asombroso que el anterior. Fondos vibrantes e intrincados diseños conforman el escenario de aventuras inolvidables.
 - La Exalted Edition incluye un libro de arte y una pegatina
+- Juego cooperativo: disfruta jugando en modo cooperativo local con un amigo. Atacad juntos al enemigo, planead vuestros siguientes movimientos o simplemente disfrutad del caos de la batalla peleando codo con codo.
 - Poderes heroicos únicos: cada héroe tiene sus propias habilidades especiales para demoler todo obstáculo y enemigo que se le ponga por delante. Estos superpoderes son únicos y visualmente explosivos, cosa que añadirá una capa extra de emoción al juego.
+- Vastos mundos creativos: explora niveles que ponen a prueba los límites de la creatividad, cada cual más sorprendente y visualmente asombroso que el anterior. Fondos vibrantes e intrincados diseños conforman el escenario de aventuras inolvidables.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DV9MJZ6V{{</world>}}

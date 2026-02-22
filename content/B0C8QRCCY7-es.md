@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La penitencia nunca termina
 - El Penitente despierta mientras Blasfemo 2 se une a él una vez más en una lucha sin fin contra El Milagro
+- La penitencia nunca termina
 - Sumérgete en un peligroso mundo nuevo lleno de misterios y secretos por descubrir, y abre camino a través de enemigos monstruosos que se interponen entre tú y tu búsqueda para terminar el ciclo de una y para todas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

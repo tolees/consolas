@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- JUEGO: SUPERVIVENCIA BATALLA DE INSTINTOS: Supera a tus enemigos con camuflaje, combate cuerpo a cuerpo, acecho, interrogatorios, escalada, caza y tratamiento de heridas
 - ERA: LOS AÑOS 60 BATALLA DE IDEOLOGÍAS: Revive la historia a medida que cambian la Guerra Fría y el paisaje geopolítico
+- JUEGO: SUPERVIVENCIA BATALLA DE INSTINTOS: Supera a tus enemigos con camuflaje, combate cuerpo a cuerpo, acecho, interrogatorios, escalada, caza y tratamiento de heridas
 - AMBIENTE: LA SELVA BATALLA DE REPTILES: Enfréntate a un entorno en el que puedes usar trampas para cazar a tus enemigos y presas, las amenazas se esconden en las sombras y los ruidos alertan a los depredadores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

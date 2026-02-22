@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Charles es un tren en busca de sangre y vísceras. Tu misión es destruirlo.
 - Mejora tu tren de acuerdo con tus necesidades.
 - Recorre una zona enorme sobre tu amigo mecánico.
 - Recibe ayuda de los isleños.
-- Charles es un tren en busca de sangre y vísceras. Tu misión es destruirlo.
 - Dos trenes entran, uno sale.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

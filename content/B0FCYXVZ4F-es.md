@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una lluvia interminable de miasma se cierne sobre un Tokio cercano en el tiempo tras la resurrección de un antiguo enemigo. El destino de la ciudad está en manos del joven ninja prodigio Yakumo.
 - NINJA GAIDEN 4 fusiona la templada filosofía de combate de Team NINJA con el estilo de juego de acción dinámica de PlatinumGames. Participa en combates visualmente impresionantes que recompensan la precisión y la estrategia.
 - Experimenta el regreso a los intensos combates de alta velocidad que consagraron a NINJA GAIDEN como una de las principales series de juegos de acción. Prepárate para el renacimiento de un legado con un estilo cautivador para una nueva generación de jugadores.
+- Una lluvia interminable de miasma se cierne sobre un Tokio cercano en el tiempo tras la resurrección de un antiguo enemigo. El destino de la ciudad está en manos del joven ninja prodigio Yakumo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FCYXVZ4F{{</world>}}

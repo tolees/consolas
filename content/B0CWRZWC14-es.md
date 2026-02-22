@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CONTENIDO EXCLUSIVO DE LA EDICIÓN LIMITADA: Empire of the Ants Limited Edition incluye características exclusivas: mapas adicionales, personajes y niveles para una experiencia de juego ampliada. Ideal para coleccionistas y fans de juegos de estrategia.
-- HISTORIA ENVOLVENTE Y DINÁMICA: Sumérgete en una narrativa basada en el ritmo de las estaciones, con efectos en las habilidades y comportamientos de la fauna. Experimenta una historia única donde cada hormiga tiene un papel crucial en el destino de la colonia.
 - GRÁFICOS Y NIVELES DETALLADOS: Disfruta de gráficos realistas gracias al Unreal Engine 5. Descubre niveles ricos en detalles, personajes únicos y un mundo que cambia según la hora del día.
+- HISTORIA ENVOLVENTE Y DINÁMICA: Sumérgete en una narrativa basada en el ritmo de las estaciones, con efectos en las habilidades y comportamientos de la fauna. Experimenta una historia única donde cada hormiga tiene un papel crucial en el destino de la colonia.
 - JUEGO ESTRATÉGICO EN TIEMPO REAL: Domina un juego de estrategia con dificultad progresiva. Aprende los fundamentos con tutoriales intuitivos y enfrenta desafíos que pondrán a prueba tus habilidades tácticas.
+- CONTENIDO EXCLUSIVO DE LA EDICIÓN LIMITADA: Empire of the Ants Limited Edition incluye características exclusivas: mapas adicionales, personajes y niveles para una experiencia de juego ampliada. Ideal para coleccionistas y fans de juegos de estrategia.
 - EXPLORA UN MUNDO MICROCÓSMICO: en Empire of the Ants para PS5 vivirás una aventura estratégica en la que cada decisión impacta el futuro de tu colonia. Explora un bosque fotorealista, interactúa con la fauna local y lidera a tu ejército de hormigas hacia la victoria.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

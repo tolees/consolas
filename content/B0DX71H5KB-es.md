@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Únete a Leeway en el mayor saqueo hasta la fecha para salvar a los robots de una crisis del agua.
-- * PERSONALIZA A LA TRIPULACIÓN A TU MANERA Con más de 150 armas, objetos y mejoras para la embarcación, las opciones de personalización de la tripulación son innumerables
 - * NUEVAS AGUAS, NUEVAS AVENTURAS Navega por el vasto océano en tu fiel submarino. Enfréntate a combates navales en tiempo real y dirige a tu tripulación en batallas tácticas entre barcos mientras descubres tesoros ocultos en cada ola. Tus decisiones como capitán determinarán tu viaje por el Gran Mar.
 - * LA MEJOR ESTRATEGIA POR TURNOS Sumérgete en una experiencia táctica mejorada creada a partir de la aclamada jugabilidad de SteamWorld Heist.
 - Prepárate para la aventura en SteamWorld con combates por turnos con mecánicas de rebote, más de 150 armas y objetos, un sistema de tareas, combate naval en tiempo real y más de 30 horas de juego. Tarifa
+- * PERSONALIZA A LA TRIPULACIÓN A TU MANERA Con más de 150 armas, objetos y mejoras para la embarcación, las opciones de personalización de la tripulación son innumerables
+- Únete a Leeway en el mayor saqueo hasta la fecha para salvar a los robots de una crisis del agua.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DX71H5KB{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una ayuda práctica: descarga la app complementaria LEGO Super Mario, donde encontrarás las instrucciones de construcción, creativos consejos y más contenidos; consulta la lista de dispositivos iOS y Android compatibles en LEGO.com/devicecheck
-- Juego de aventuras: la mansión construida con ladrillos LEGO se abre para jugar y cuenta con un sofá elevable, una estantería con función de descubrimiento de la llave, un bloque moneda, un bloque cofre y un bloque llave
-- Estimula la imaginación de tu peque: los juegos LEGO Super Mario, diseñados para jugar a solas o en compañía, ofrecen desafíos divertidos, de interpretación y de recogida de monedas digitales mediante la expansión y la reconstrucción
 - Casa encantada de juguete LEGO Super Mario: explora la maqueta La mansión encantada del Rey Boo, lucha contra fantasmales enemigos y busca la llave de un cofre del tesoro con este juguete Nintendo coleccionable
+- Estimula la imaginación de tu peque: los juegos LEGO Super Mario, diseñados para jugar a solas o en compañía, ofrecen desafíos divertidos, de interpretación y de recogida de monedas digitales mediante la expansión y la reconstrucción
+- Juego de aventuras: la mansión construida con ladrillos LEGO se abre para jugar y cuenta con un sofá elevable, una estantería con función de descubrimiento de la llave, un bloque moneda, un bloque cofre y un bloque llave
 - Juego digital interactivo: ayuda a LEGO Mario, LEGO Luigi o LEGO Peach (figuras no incluidas) a encontrar la llave del cofre del tesoro, hacer caer al Rey Boo de la mesa del patio y más
+- Una ayuda práctica: descarga la app complementaria LEGO Super Mario, donde encontrarás las instrucciones de construcción, creativos consejos y más contenidos; consulta la lista de dispositivos iOS y Android compatibles en LEGO.com/devicecheck
 - Incluye 4 figuras de juguete LEGO Super Mario coleccionables: El Rey Boo, un Bebé Yoshi Amarillo, un Huesitos y un Boo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

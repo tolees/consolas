@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- · Premium Edition incluye: Juego base Starfield, Expansión de historia Shattered Space (tras su lanzamiento), acceso anticipado de hasta 5 días, el Pack de aspectos Constellation: pack de rifle láser Equinox, traje espacial, casco y Boosty acceso al libro de imágenes y banda sonora original de Starfield Digital
 - · Pilota la nave de tus sueños: Pilota y manda la nave de tus sueños. Personaliza el aspecto de tu nave, modifica los sistemas críticos, como armas y escudos, y asigna miembros de la tripulación para proporcionar extra únicos.
+- · Explorar el espacio exterior: Aventúrate por las estrellas y explora más de 1000 planetas. Navega por ciudades animadas, explora bases peligrosas y atraviesa paisajes salvajes. Conoce y recluta un memorable elenco de personajes y únete a las aventuras de distintas facciones.
 - · Cuenta tu historia: En Starfield, la historia más importante es la que cuentas con tu personaje. Comienza tu viaje personalizando tu aspecto y eligiendo tu origen y características. Tú decides. Decide quién serás y en qué te convertirás.
 - · Descubre, recoge, construye: Explora los recursos planetarios necesarios para construir desde medicamentos y alimentos hasta equipos y armas. Crea puestos y contrata un equipo para extraer materiales de forma pasiva. Invierte estas materias primas en proyectos de investigación para desbloquear recetas de construcción únicas.
 - · Prepárate: Ya sea que prefieras rifles de largo alcance, armas láser o demoliciones, cada tipo de arma se puede modificar para complementar tu estilo de juego. Los entornos Zero G añades un espectáculo caótico al combate, mientras los packs de impulsos dan libertad para maniobrar como nunca antes.
-- · Explorar el espacio exterior: Aventúrate por las estrellas y explora más de 1000 planetas. Navega por ciudades animadas, explora bases peligrosas y atraviesa paisajes salvajes. Conoce y recluta un memorable elenco de personajes y únete a las aventuras de distintas facciones.
-- · Premium Edition incluye: Juego base Starfield, Expansión de historia Shattered Space (tras su lanzamiento), acceso anticipado de hasta 5 días, el Pack de aspectos Constellation: pack de rifle láser Equinox, traje espacial, casco y Boosty acceso al libro de imágenes y banda sonora original de Starfield Digital
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0C8VX4BWF{{</world>}}

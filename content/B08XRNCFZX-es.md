@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Captura y comparte tus momentos favoritos del juego con un modo fotográfico totalmente personalizable su retroalimentación háptica
-- Incluye un gran número de mejoras gráficas, de jugabilidad y de sistema sumérgete como nunca antes en la ciudad de Midgar con mejoras en las texturas, la iluminación y los elementos de fondo
 - Podrás alternar entre dos factores de optimización: - selecciona "para establecer como prioridad los gráficos en resolución 4K" - selecciona "para establecer como prioridad el rendimiento del juego a 60 FPS"
 - Vive los combates con una mayor sensación de inmersión usando el mando DualSense de PlayStation 5 y
+- Captura y comparte tus momentos favoritos del juego con un modo fotográfico totalmente personalizable su retroalimentación háptica
+- Incluye un gran número de mejoras gráficas, de jugabilidad y de sistema sumérgete como nunca antes en la ciudad de Midgar con mejoras en las texturas, la iluminación y los elementos de fondo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08XRNCFZX{{</world>}}
