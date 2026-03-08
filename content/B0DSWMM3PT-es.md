@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Character design by Kozaki Yusuke of Fire Emblem Awakening, Fire Emblem Fates, and AI the Somnium Files fame.
 - The choices you make influence the affection of the love interests towards you, how the main characters crime level changes, and the progression of the overall story.
+- Character design by Kozaki Yusuke of Fire Emblem Awakening, Fire Emblem Fates, and AI the Somnium Files fame.
 - Lead your team to success in mission mode by giving out orders as you watch six different surveillance camera feeds. Give out incorrect instructions, or run out of time, and youll get a game over.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

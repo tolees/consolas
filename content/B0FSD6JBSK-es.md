@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Contenido adicional Montañas flotantes: ¡personaliza tu montura voladora con los 3 patrones de colores de ikran* únicos incluidos en la Edición Desde las Cenizas de Avatar: Frontiers of Pandora!
-- Disfruta de la épica e impredecible Frontera Occidental en una aventura de mundo abierto.
 - Esta edición te da acceso a la expansión Desde las Cenizas* y al juego base de Avatar: Frontiers of Pandora. La expansión Desde las Cenizas está inspirada en la película Avatar: Fuego y Ceniza. Juégala de forma independiente al juego base a partir del 19 de diciembre de 2025 y emprende la aventura de Solek contra un grupo bélico de implacables navi Ceniza y la RDA.
-- *La expansión Desde las Cenizas y el contenido adicional Montañas flotantes se publicarán el 19 de diciembre de 2025. Contenido definitivo y fechas de publicación sujetos a cambios. Necesitas una conexión a internet y una cuenta de Ubisoft para canjear el contenido digital.
+- Disfruta de la épica e impredecible Frontera Occidental en una aventura de mundo abierto.
 - Explora en primera o tercera persona a partir del 5 de diciembre de 2025.
+- *La expansión Desde las Cenizas y el contenido adicional Montañas flotantes se publicarán el 19 de diciembre de 2025. Contenido definitivo y fechas de publicación sujetos a cambios. Necesitas una conexión a internet y una cuenta de Ubisoft para canjear el contenido digital.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FSD6JBSK{{</world>}}

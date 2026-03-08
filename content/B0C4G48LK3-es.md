@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- The Deluxe Collection includes this added content in addition to Minecraft: 1600 Minecoins, five maps, three skin packs, one texture pack, five Character Creator items, and three emotes.
 - Experience all the different ways to explore, survive, and build in Minecraft with Minecraft: Deluxe Collection!
+- The Deluxe Collection includes this added content in addition to Minecraft: 1600 Minecoins, five maps, three skin packs, one texture pack, five Character Creator items, and three emotes.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0C4G48LK3{{</world>}}

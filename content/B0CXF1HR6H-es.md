@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- RELÁJATE EN EL VECINDARIO: Date un paseo por cinco barrios distintos para encontrarte con viejos y nuevos amigos, como April, Splinter y muchos más.
 - ES LA HORA DE LAS TORTUGAS: Patrulla las calles y lucha contra enemigos que MUTARÁN a lo largo del juego.
-- ALGUNOS HÉROES LLEVAN CAPARAZÓN: Mejora tus habilidades de pelea con los cuatro héroes y desbloquea movimientos y habilidades para alcanzar su mayor potencial.
+- RELÁJATE EN EL VECINDARIO: Date un paseo por cinco barrios distintos para encontrarte con viejos y nuevos amigos, como April, Splinter y muchos más.
 - AFRONTA EL DESAFÍO BIEN ACOMPAÑADO: Juega con un amigo en el modo cooperativo local para dos jugadores.
+- ALGUNOS HÉROES LLEVAN CAPARAZÓN: Mejora tus habilidades de pelea con los cuatro héroes y desbloquea movimientos y habilidades para alcanzar su mayor potencial.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CXF1HR6H{{</world>}}

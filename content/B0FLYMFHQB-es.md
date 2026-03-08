@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ● Novela visual de terror psicológico: una experiencia de terror aparentemente adorable, pero inquietante.
+- ● Minijuegos Chompette: ¡disfruta de interacciones especiales con los Chompettes!
 - ● Gestiona las relaciones: toma decisiones que afectarán a tus relaciones.
 - ● Comedia negra: una mezcla de terror perturbador y humor retorcido.
-- ● Minijuegos Chompette: ¡disfruta de interacciones especiales con los Chompettes!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FLYMFHQB{{</world>}}

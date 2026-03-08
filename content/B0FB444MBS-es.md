@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La Edición Física incluye: Banda Sonara Digital del compositor Gareth Coker.
+- Conoce a los héroes proscritos de Talamh, cada uno de ellos con su propio estilo de combate
+- Explora múltiples caminos con enfrentamientos impredecibles que harán que cada partida sea una experiencia distinta
 - Una aventura épica en un original mundo de fantasía
 - Lidera el levantamiento contra el régimen de Azra como héroe en solitario o forma equipo con un amigo compartiendo sofá o en el modo cooperativo
-- Explora múltiples caminos con enfrentamientos impredecibles que harán que cada partida sea una experiencia distinta
-- Conoce a los héroes proscritos de Talamh, cada uno de ellos con su propio estilo de combate
+- La Edición Física incluye: Banda Sonara Digital del compositor Gareth Coker.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FB444MBS{{</world>}}

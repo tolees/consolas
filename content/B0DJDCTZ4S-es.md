@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Embárcate en una aventura espacial: como Trazacaminos, explora diferentes mundos de todo el universo y zambúllete en una aventura rebosante de una animación y una música impecables. Te ofrece una nueva experiencia de juego por turnos, fácil de aprender, pero muy táctica, en la que puedes crear equipos y estrategias únicas en función de las características del contexto, como enemigos, entornos, personajes, etc.
 - Experiencia optimizada de mundo semiabierto: busca cofres del tesoro, resuelve rompecabezas, descubre la historia de los NPC y desvela los secretos del mundo... Hay montones de contenidos que explorar.
 - Personajes encantadores: más de treinta personajes jugables, cada uno con su propia personalidad, historia y encanto. Además, en la versión de actualización se incorporarán más personajes con los que podrán experimentar los jugadores.
+- Embárcate en una aventura espacial: como Trazacaminos, explora diferentes mundos de todo el universo y zambúllete en una aventura rebosante de una animación y una música impecables. Te ofrece una nueva experiencia de juego por turnos, fácil de aprender, pero muy táctica, en la que puedes crear equipos y estrategias únicas en función de las características del contexto, como enemigos, entornos, personajes, etc.
 - Paquete de disco PS5 Trailblazer Edition: incluye un juego de nueve cartas holográficas doradas de personajes, dos exclusivos llaveros holográficos del Trazacaminos Chibi para PS5, un disco de juego físico para PS5 con su funda, una postal exclusiva para PS5
 
 [🛒 Comprar!!!]({{< param buyurl >}})

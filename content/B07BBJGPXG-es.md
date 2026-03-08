@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- NEW! Play as Coco in ALL Three Games
 - Stunning New Animations & Graphics
 - 3 Full Games, 100+ Levels & 2 Playable Characters
-- NEW! Time Trials in ALL Three Games
 - Experience N. Tense Platforming, Epic Challenges & Adventures
+- NEW! Time Trials in ALL Three Games
+- NEW! Play as Coco in ALL Three Games
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07BBJGPXG{{</world>}}

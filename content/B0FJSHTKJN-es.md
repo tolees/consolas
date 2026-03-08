@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El número de habitantes irá creciendo poco a poco y complicando las labores de gobierno y la forma de satisfacer sus exigencias. Como intendente, tendrás que desenvolverte con mucho cuidado en la maraña de intereses de los distintos grupos de tu ciudad.
-- Los habitantes de tu ciudad quieren tener voz y voto a la hora de dirigir las cosas. Cada facción tiene una ideología y una perspectiva de futuro, pero todas tienen algo en común: un ansia de poder insaciable. Elige a tus aliados del Consejo con cuidado.
-- El mundo está sumido en un invierno perenne que obliga a la ciudad a expandirse como única forma de supervivencia para la humanidad. Para crecer, la metrópolis necesita recursos como el carbón y el petróleo, al igual que sus ciudadanos necesitan calor y alimentos.
 - La historia de Frostpunk 2 presenta una saga con varios capítulos ambientada en los páramos helados. Esta campaña, que sigue la vida del intendente, te permite sentir la carga del liderazgo al ser responsable de miles de vidas
 - Esta edición incluye: Un diorama desplegable de Nueva Londres, un código de canje para el libro de arte oficial de Frostpunk 2 y un código de canje para la novela «Warm Flesh»
+- Los habitantes de tu ciudad quieren tener voz y voto a la hora de dirigir las cosas. Cada facción tiene una ideología y una perspectiva de futuro, pero todas tienen algo en común: un ansia de poder insaciable. Elige a tus aliados del Consejo con cuidado.
+- El mundo está sumido en un invierno perenne que obliga a la ciudad a expandirse como única forma de supervivencia para la humanidad. Para crecer, la metrópolis necesita recursos como el carbón y el petróleo, al igual que sus ciudadanos necesitan calor y alimentos.
+- El número de habitantes irá creciendo poco a poco y complicando las labores de gobierno y la forma de satisfacer sus exigencias. Como intendente, tendrás que desenvolverte con mucho cuidado en la maraña de intereses de los distintos grupos de tu ciudad.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FJSHTKJN{{</world>}}

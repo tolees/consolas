@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Guida razzie leggendarie lancia assalti su larga scala contro le truppe e le fortezze sassoni per tutta linghilterra. Guida il tuo clan in attacchi a sorpresa dalla tua nave, razzia i territori nemici e Offri le ricchezze depredate alla tua gente.
-- Scrivi la tua saga vichinga le avanzate meccaniche RPG ti permettono di creare e far evolvere il tuo personaggio come preferisci e di cambiare così il mondo che ti circonda.
 - Un mondo aperto medievale naviga dagli scoscesi e misteriosi fiordi della norvegia fino agli incantevoli ma minacciosi regni dInghilterra e oltre. Vivi la vita dei vichinghi: pesca, caccia, bevute da competizione e tanto altro.
+- Scrivi la tua saga vichinga le avanzate meccaniche RPG ti permettono di creare e far evolvere il tuo personaggio come preferisci e di cambiare così il mondo che ti circonda.
 - Stile di combattimenti viscerale stringi in ciascuna mano unarma diversa, che sia unascia, una spada o uno scudo, e rivivi lo spietato stile di combattimento dei vichinghi.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

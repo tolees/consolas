@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Este juego está completamente doblado en inglés
-- Revive el pasado : Rememora los recuerdos de Junon y reconstruye la historia de su pasado hasta revelar su trágico secreto
 - Junon tiene 36 años y su vida está patas arriba: se ha estancado laboralmente, es incapaz de sentir nada y su vida privada se desmorona; la situación se vuelve insostenible cuando la llaman de Urgencias: su madre, con quien no se hablaba
-- Altera el presente : Usa lo que sabes del trauma de Junon para cambiar cómo debe afrontar el día, desbloquea nuevas opciones de diálogo y repara lazos rotos
 - Acepta el futuro : Cuando tocas fondo, solo se puede remontar; ayuda a Junon a hacer las paces consigo misma y a descubrir el humor, la belleza y la esperanza que esconden incluso los días más horribles
+- Este juego está completamente doblado en inglés
+- Altera el presente : Usa lo que sabes del trauma de Junon para cambiar cómo debe afrontar el día, desbloquea nuevas opciones de diálogo y repara lazos rotos
+- Revive el pasado : Rememora los recuerdos de Junon y reconstruye la historia de su pasado hasta revelar su trágico secreto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CZS4SGLT{{</world>}}

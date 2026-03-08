@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Diseño de Super Mario - Homenajea a Mario con ilustraciones llamativas de temática de ladrillos que capturan la energía y la emoción de sus aventuras clásicas cruzando niveles llenos de acción y color.
 - Inalámbrico y recargable - Juega a tus juegos favoritos de Nintendo durante todo el día con hasta 9 metros de alcance inalámbrico y una batería recargable integrada con hasta 40 horas de juego por carga.
 - Producto con licencia oficial de Nintendo - Con licencia oficial de Nintendo para Nintendo Switch, Nintendo Switch Lite y Nintendo Switch modelo OLED. También funciona con Nintendo Switch 2. Botón C no disponible.
-- Diseño de Super Mario - Homenajea a Mario con ilustraciones llamativas de temática de ladrillos que capturan la energía y la emoción de sus aventuras clásicas cruzando niveles llenos de acción y color.
 - Dos botones de acción rápida asignables - Asigna funciones a los dos botones traseros programables para obtener reacciones más rápidas y vivir una experiencia de juego más personalizada.
 - Desvela tu estilo - Su acabado lenticular crea un efecto de imagen en movimiento que cambia entre dos diseños al inclinar el mando, añadiendo una profundidad muy llamativa a tu sistema de juego.
 

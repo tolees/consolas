@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Embárcate en una misión para devolver la vida a una chica
-- Aunque cada gigante tiene una debilidad específica, encontrarla y explotarla no será nada sencillo. Te espera una mezcla emocionante de exploración, plataformas, acertijos y acción
 - Adéntrate en paisajes expansivos encima de tu fiel corcel y busca cada coloso
+- Aunque cada gigante tiene una debilidad específica, encontrarla y explotarla no será nada sencillo. Te espera una mezcla emocionante de exploración, plataformas, acertijos y acción
+- Embárcate en una misión para devolver la vida a una chica
 - Tu tarea es derribar 16 bestias gigantescas armado sólo con tu ingenio, una espada mágica y un arco
 
 [🛒 Visítala!!!]({{< param buyurl >}})

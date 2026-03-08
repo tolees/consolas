@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Todo es fabuloso: Pon a prueba tu velocidad, tu ingenio y tu conocimiento sobre LEGO en un sinfín de minijuegos de lo más frenéticos
+- Llévate el oro: En LEGO Party, tu misión está clara: ¡obtener la mayor cantidad de ladrillos dorados! Válete de potenciadores para tomar la delantera y coloca trampas para sabotear a tus oponentes en diversas y personalizables zonas de desafíos con temáticas de LEGO
 - Tú decides cómo jugar: Reúne a tus amigos y disfrutad del caos en el modo multijugador, ya sea en casa o en línea con el juego multiplataforma
 - Hazlo a tu manera: Tendrás a tu disposición más de mil millones de combinaciones de minifiguras de icónicos sets de LEGO, así que podrás elegir entre ir a lo clásico o desatar tu creatividad con minifiguras alucinantes. ¡Luce tu creación en tu siguiente fiestón
-- Llévate el oro: En LEGO Party, tu misión está clara: ¡obtener la mayor cantidad de ladrillos dorados! Válete de potenciadores para tomar la delantera y coloca trampas para sabotear a tus oponentes en diversas y personalizables zonas de desafíos con temáticas de LEGO
+- Todo es fabuloso: Pon a prueba tu velocidad, tu ingenio y tu conocimiento sobre LEGO en un sinfín de minijuegos de lo más frenéticos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FCS7R38K{{</world>}}

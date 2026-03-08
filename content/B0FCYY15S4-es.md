@@ -30,10 +30,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Crea tu personaje con las habilidades y opciones que reflejen tu estilo de juego. La colonia reacciona a cada movimiento, creando una historia que solo te pertenece a ti.
 - Como miembro de la intrépida Dirección de la Tierra, toda la galaxia depende de tus decisiones: tus fortalezas, tus defectos, tu tripulación y las facciones en las que decides confiar.
-- ¡Prepárate para una aventura llena de acción con una nueva tripulación, nuevas armas y nuevos enemigos en una nueva colonia! ¡Un montón de novedades!
 - The Outer Worlds 2 es la esperada secuela del RPG de ciencia ficción en primera persona galardonado con premios de Obsidian Entertainment.
-- Premium Edition incluye: el juego base The Outer Worlds 2, acceso anticipado de hasta 5 días, DLC Pass para 2 expansiones futuras de historia, el Pack de premios Premium de reconocimiento corporativo de Moon Man y acceso al Libro de arte digital y banda sonora original. Se requiere descarga de contenido.
+- ¡Prepárate para una aventura llena de acción con una nueva tripulación, nuevas armas y nuevos enemigos en una nueva colonia! ¡Un montón de novedades!
 - Recluta a compañeros con rasgos, antecedentes y objetivos únicos, y hazles partícipes de la historia inmersiva que crearéis juntos.
+- Premium Edition incluye: el juego base The Outer Worlds 2, acceso anticipado de hasta 5 días, DLC Pass para 2 expansiones futuras de historia, el Pack de premios Premium de reconocimiento corporativo de Moon Man y acceso al Libro de arte digital y banda sonora original. Se requiere descarga de contenido.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FCYY15S4{{</world>}}

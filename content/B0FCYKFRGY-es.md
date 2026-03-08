@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sistema de mejoras y combates dinámicos.
-- Exploración 2D fascinante.
 - La secuela de Ender Lilies.
+- Exploración 2D fascinante.
+- Sistema de mejoras y combates dinámicos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FCYKFRGY{{</world>}}

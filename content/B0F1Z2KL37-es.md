@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crypt Custodian - Nintendo Switch'
-date: 2026-03-02 15:53:36
+date: 2026-03-08 09:12:14
 image: 'https://m.media-amazon.com/images/I/412kM-+I1uL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0F1Z2KL37-es Crypt Custodian - Nintendo Switch'
 sku: 'B0F1Z2KL37-es'
 tags: [ 'nintendo','🇪🇸', ]
-actualPrice: 24.99 EUR
+actualPrice: 24.9 EUR
 currency: EUR
-price: 24.99
+price: 24.9
 comparePrice: 34.99 EUR
 prodname: 'Crypt Custodian - Nintendo Switch'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F1Z2KL37/?tag=tolees-21'
-descuento: '28.58'
-average: '24.99'
+descuento: '28.84'
+average: '24.945'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
