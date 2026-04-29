@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un modo online para hasta 8 jugadores en carreras de tamaño monstruoso
 - 25 circuitos en diferentes ciudades de Estados Unidos
-- 16 vehículos personalizables con más de 50 opcione
 - Conducción y física realistas, incluyendo control independiente de las ruedas delanteras y traseras, y ajuste de diferentes elementos mecánicos, como suspensiones, caja de cambios y motor
+- Un modo online para hasta 8 jugadores en carreras de tamaño monstruoso
+- 16 vehículos personalizables con más de 50 opcione
 - 5 tipos de eventos: Carrera, Contrarreloj, Carreras de Arrastre, Estilo Libre y Destrucción
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

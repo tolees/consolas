@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Multiple endings to the game that are dynamically affected by additional play throughs and decisions made each time.
 - Unique roster of 4 playable characters with their own distinct abilities, which affect both movement and interaction as well as quest lines themselves.
 - A marriage of retro nostalgia and inventiveness, envisioned with warm and expressive lovingly crafted pixelated visuals.
+- Multiple endings to the game that are dynamically affected by additional play throughs and decisions made each time.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FVFTVJ9H{{</world>}}

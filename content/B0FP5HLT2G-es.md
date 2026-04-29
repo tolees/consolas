@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Descubre los secretos - Encuentra cómo escapar del taller y sobrevivir a la noche mientras intentas desentrañar los velados secretos del dueño misterioso y su abominable creación
+- La edición física incluirá un póster desplegable de 30 cm x 45 cm
 - Cualquier disfraz o personaje - El Imitador puede adoptar cualquier disfraz. Agudiza el ingenio, porque podría estar en cualquier parte
 - Murrays Costume Manor - Explora la Mansión de los Disfraces de Murray, una nueva ubicación llena de irreverencia y terror
-- La edición física incluirá un póster desplegable de 30 cm x 45 cm
-- Descubre los secretos - Encuentra cómo escapar del taller y sobrevivir a la noche mientras intentas desentrañar los velados secretos del dueño misterioso y su abominable creación
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FP5HLT2G{{</world>}}

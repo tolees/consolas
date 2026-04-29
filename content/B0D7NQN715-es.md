@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disfruta de características mejoradas añadidas a la colección clásica: para mejorar tu experiencia de jugabilidad, incorporamos las características añadidas favoritas de la colección Capcom Fighting, incluyendo modo de galería, guardado rápido, modo de entrenamiento para todos los títulos de lucha y el desafío de puntuación alta. Los principiantes y principiantes en la franquicia también son bienvenidos a jugar a través de ajustes ajustados y ejecución de especiales de un solo botón
 - El cómic está lleno de juego.
+- Disfruta de características mejoradas añadidas a la colección clásica: para mejorar tu experiencia de jugabilidad, incorporamos las características añadidas favoritas de la colección Capcom Fighting, incluyendo modo de galería, guardado rápido, modo de entrenamiento para todos los títulos de lucha y el desafío de puntuación alta. Los principiantes y principiantes en la franquicia también son bienvenidos a jugar a través de ajustes ajustados y ejecución de especiales de un solo botón
 - Experimenta tus clásicos favoritos de Marvel vs. CAPCOM todo en uno: disfruta de 7 de tus títulos clásicos favoritos que ayudaron a dar forma al universo MARVEL vs. CAPCOM tanto para un jugador como en línea.
-- Tamaño aproximado: 4 x 5 pulgadas (para caber en el paquete SW)
 - Reserva y recibe un nuevo cómic físico de Marvel vs. Capcom de 32 páginas.
+- Tamaño aproximado: 4 x 5 pulgadas (para caber en el paquete SW)
 - Juega con amigos en todo el mundo a través de la compatibilidad en línea: esta colección también incluye código de red de reversión para una experiencia suave y agradable en línea. Juega casual o competitivamente a través de partidos casuales, clasificados o personalizados utilizando las reglas de tu elección
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

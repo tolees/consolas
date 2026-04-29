@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modo Carrera para un jugador
-- Carreras para todos: Desde simracers hasta pilotos primerizos, Project Motor Racing ofrece
-- Lo mejor, sin concesiones: Compite a lo largo de distintas épocas con 72 coches recreados al detalle, distribuidos en 10 clases icónicas y 27 trazados de circuitos de todo el mundo
-- Circuitos: Escaneados para lograr la máxima precisión y autenticidad
 - Coches: Desde los radicales Hypercars LMDh actuales hasta las leyendas más icónicas de la historia, cada vehículo es una obra maestra con licencia oficial
+- Circuitos: Escaneados para lograr la máxima precisión y autenticidad
+- Carreras para todos: Desde simracers hasta pilotos primerizos, Project Motor Racing ofrece
+- Modo Carrera para un jugador
+- Lo mejor, sin concesiones: Compite a lo largo de distintas épocas con 72 coches recreados al detalle, distribuidos en 10 clases icónicas y 27 trazados de circuitos de todo el mundo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F7HQNHVV{{</world>}}

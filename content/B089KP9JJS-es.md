@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Volante con cable, con rotación de 180° para Nintendo Switch / PS4 / Xbox One / PC. No es compatible con PS5
 - Ajuste de sensibilidad
+- Entregado con 2 pedales. 2 paletas para cambiar de marcha
 - Gracias a su función de programación, el volante de carreras es compatible con todos los juegos para PS4 : Gran Turismo 7 (PS4) - Forza motor sport 7 - Drive club - Project Cars - Forza Horizon 5 - GTA V - Farming Simulator
 - Equipado con ventosas
-- Entregado con 2 pedales. 2 paletas para cambiar de marcha
+- Volante con cable, con rotación de 180° para Nintendo Switch / PS4 / Xbox One / PC. No es compatible con PS5
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B089KP9JJS{{</world>}}

@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- También tiene LED programables y un aspecto divertido y genial.
 - El Subsonic Pro Controller también incorpora una función turbo, ideal para juegos de lucha como Tekken 7 o Street Fighter.
+- También tiene LED programables y un aspecto divertido y genial.
 - Equipado con tecnología Bluetooth, este mando de PS4 tiene una autonomía de 9/10 horas. Viene con un cable de carga usb-c para recargarlo.
-- El mando Wireless Led está equipado con un altavoz y una toma de 3,5 para auriculares de juego.
+- Este mando para Playstation 4 está equipado con un motor de vibración para una inmersión total en el juego.
+- Para los fans de los FPS esport, el mando bluetooth para PS4 de Subsonic viene con 2 botones adicionales, M1 y M2, situados en la parte trasera del mando para mejorar el rendimiento del juego. Estas 2 palas traseras son programables y pueden reproducir todos los demás botones.
 - El mando inalámbrico PS4 de Subsonic reproduce las mismas funciones que el mando Dualshock 4 de PS4, a excepción del pad no táctil. Gracias a su diseño ergonómico, es muy cómodo de sujetar.
 - El botón Home del mando se puede utilizar para encender la consola a distancia, al igual que el mando Pro de PS4. Ten en cuenta que el pad central es exclusivamente clicable, no táctil.
-- Para los fans de los FPS esport, el mando bluetooth para PS4 de Subsonic viene con 2 botones adicionales, M1 y M2, situados en la parte trasera del mando para mejorar el rendimiento del juego. Estas 2 palas traseras son programables y pueden reproducir todos los demás botones.
-- Este mando para Playstation 4 está equipado con un motor de vibración para una inmersión total en el juego.
+- El mando Wireless Led está equipado con un altavoz y una toma de 3,5 para auriculares de juego.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D4R2RRJ5{{</world>}}

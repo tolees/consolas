@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- La historia completa: Historias detalladas de los personajes y líneas de tiempo que trazan la épica narrativa de Earthrealm, Outworld y Edenia a lo largo de la era arcade
+- No más secretos: Con solo pulsar un botón, desbloquea todos los personajes secretos, cambia la configuración del juego y accede a los menús ocultos de los desarrolladores para jugar a tu manera
 - Múltiples ediciones icónicas: Vive los orígenes legendarios de Mortal Kombat con los clásicos icónicos de arcade, junto con las versiones caseras más queridas para Super NES y Sega Genesis. Profundiza aún más con lanzamientos raros y favoritos de los fans para Game Boy, Game Gear, Sega 32X, Game Boy Advance y más
 - Juego en línea: Participa en batallas en línea mejoradas con rollback netcode — diseñado para preservar la precisión de cada ataque, incluso con jugadores a grandes distancias
-- La historia completa: Historias detalladas de los personajes y líneas de tiempo que trazan la épica narrativa de Earthrealm, Outworld y Edenia a lo largo de la era arcade
 - Documental interactivo: Contenido profundo detrás de cámaras que narra la historia de la franquicia, con entrevistas exclusivas y nuevas a los desarrolladores originales de MK, Ed Boon, John Tobias, Dan Forden, John Vogel y muchos más
-- No más secretos: Con solo pulsar un botón, desbloquea todos los personajes secretos, cambia la configuración del juego y accede a los menús ocultos de los desarrolladores para jugar a tu manera
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FKTNJXXR{{</world>}}

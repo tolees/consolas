@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Nuevos modos que hacen uso del modo ratón, el micrófono y una cámara USB-C compatible (a la venta por separado).
-- Los jugadores aparecen en el juego por medio de CameraPlay al utilizar una cámara USB-C compatible (a la venta por separado).
-- Nueva manera de jugar, exclusiva de Nintendo Switch 2: Jamboree TV.
 - Compatibilidad con GameShare en el modo multijugador local.
 - Resolución de alta definición cuádruple (WQHD, 1440p) en el modo televisor*, alta definición total (Full HD, 1080p) en los modos sobremesa y portátil.
+- Los jugadores aparecen en el juego por medio de CameraPlay al utilizar una cámara USB-C compatible (a la venta por separado).
+- Nueva manera de jugar, exclusiva de Nintendo Switch 2: Jamboree TV.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F2N6F62D{{</world>}}

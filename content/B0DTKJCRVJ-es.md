@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acción basada en turnos
-- Entorno visual remasterizado
-- Modos de velocidad de combate
-- Cambia entre los modos clásico y remasterizado
 - Gráficos actualizados en todas las escenas de vídeo
+- Cambia entre los modos clásico y remasterizado
+- Modos de velocidad de combate
+- Entorno visual remasterizado
+- Acción basada en turnos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTKJCRVJ{{</world>}}

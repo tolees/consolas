@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- RENOVATED GRAPHICS: Revamped and stylish character graphics. Watch your favorites from the golden age of game rooms recreated in modern 3D graphics. Powerful enemies from the past return to face the Lee brothers.
-- BETL-SCROLL GAME: The Double Dragon series has defined the belt-scroll action genre since it hit the arcades in 1987. Now he returns as Double Dragon Revive, thanks to the passionate support of retro game fans over the years!
 - DIVE INTO THE GAME: The carefully crafted experience, overseen by experienced Arc System Works fighting game title staff, makes it easy for new players to immerse themselves right away.
 - Action and Strategy: Combat requires adaptation and variety, rather than simply pressing buttons. Immerse yourself in strategy by learning the patterns of enemies and finding the most effective attack moments. Collect weapons scattered across the stages and take advantage of the tricks of the area to gain the edge in battle!
+- BETL-SCROLL GAME: The Double Dragon series has defined the belt-scroll action genre since it hit the arcades in 1987. Now he returns as Double Dragon Revive, thanks to the passionate support of retro game fans over the years!
 - ULTIMATE EXPERIENCE: Enjoy the ultimate belt-scroll action experience. The player scrolls horizontally across the screen to defeat enemies in this beloved genre. Experience the same simple and intuitive gameplay, with refined controls and balance for the modern era.
+- RENOVATED GRAPHICS: Revamped and stylish character graphics. Watch your favorites from the golden age of game rooms recreated in modern 3D graphics. Powerful enemies from the past return to face the Lee brothers.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FFN888BN{{</world>}}

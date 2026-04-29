@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Botón C para GameChat - El botón C incluido permite acceder rápidamente a las funciones clave de GameChat, mejorando la comunicación en el juego sin interrumpir la partida.
-- Sticks TMR - Disfruta de un nivel superior de control con los sticks con TMR (magnetorresistencia de túnel), diseñados para mejorar la precisión, reducir la deriva y ofrecer un rendimiento duradero para jugar con fluidez y una gran capacidad de respuesta.
-- Inalámbrico y recargable - Juega a tus juegos favoritos de Nintendo durante todo el día con hasta 9 metros de alcance inalámbrico y una batería recargable integrada con hasta 40 horas de juego por carga.
 - Botones de acción rápida asignables - Asigna funciones a los dos botones traseros programables para obtener reacciones más rápidas y vivir una experiencia de juego más personalizada.
+- Inalámbrico y recargable - Juega a tus juegos favoritos de Nintendo durante todo el día con hasta 9 metros de alcance inalámbrico y una batería recargable integrada con hasta 40 horas de juego por carga.
+- Sticks TMR - Disfruta de un nivel superior de control con los sticks con TMR (magnetorresistencia de túnel), diseñados para mejorar la precisión, reducir la deriva y ofrecer un rendimiento duradero para jugar con fluidez y una gran capacidad de respuesta.
+- Botón C para GameChat - El botón C incluido permite acceder rápidamente a las funciones clave de GameChat, mejorando la comunicación en el juego sin interrumpir la partida.
 - El estilo icónico de Super Mario - Presume del atrevido diseño de Super Mario Jump con una carcasa negra semitranslúcida, unos detalles en rojo intensos y el clásico salto de Mario en un homenaje divertido y llamativo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -30,11 +30,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Apoyo antideslizante y cables ordenados: Los pies de silicona antideslizantes se adhieren firmemente a los escritorios, mientras que el diseño en ángulo permite una fácil colocación bajo los monitores. La ranura de cable integrada organiza los cables para configuraciones minimalistas o desordenadas.
 - EQ personalizado y control de voz: Afina el audio con EQ de 10 bandas a través del software HECATE. Sincroniza con el asistente de voz utilizando el botón Bluetooth dedicado: ajusta el volumen o cambia los modos manos libres.
-- Diseño acústico y durabilidad: controladores MDF + chip DSP eliminan la distorsión. Los pies antideslizantes aislan las vibraciones, las tapas de aluminio resisten a los arañazos. Probado durante más de 500 horas en temperaturas extremas.
-- Modos de juego/película/música: el modo de juego agudiza los pasos, el modo de película activa el surround 7.1, el modo de música aumenta la voz. Guarda los presets de EQ o usa botones táctiles para cambiar instantáneamente.
 - Tamaño compacto, escenario de sonido grande: RMS de 32 W, potencia máxima de 64 W y sonido envolvente virtual 7.1 proporcionan bajos explosivos (75 Hz) y posicionamiento enemigo preciso para juegos de PC / PS5 / Xbox. Los controladores de gama completa de 3 pulgadas con doble reflejo de bajos impulsan la inmersión cinematográfica. Compacto de 5,5 x 4,6 x 6,3 pulgadas cada uno, ideal para configuraciones de escritorio.
+- Modos de juego/película/música: el modo de juego agudiza los pasos, el modo de película activa el surround 7.1, el modo de música aumenta la voz. Guarda los presets de EQ o usa botones táctiles para cambiar instantáneamente.
 - Tecnología TempoFlow: Disfruta del motor de iluminación dinámica TempoFlow: 20 tiras LED + 100 perlas RGB se sincronizan con el juego a través de 7 modos. Control con software o botones HECATE. El recinto transparente amplifica el resplandor dinámico de 270°, creando una zona de juego futurista.
 - Multidispositivo - Bluetooth 5.4/USB/AUX: Bluetooth 5.4 (rango de 33 pies) para libertad inalámbrica, USB-C (latencia ultrabaja) para PC/PS5, AUX de 3,5 mm para Xbox/Switch. Incluye cable USB-C a USB-A, cable de audio de 3,5 mm y adaptador de alimentación.
+- Diseño acústico y durabilidad: controladores MDF + chip DSP eliminan la distorsión. Los pies antideslizantes aislan las vibraciones, las tapas de aluminio resisten a los arañazos. Probado durante más de 500 horas en temperaturas extremas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F8HP8PH9{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego base. Bebop y Rocksteady han atacado el Canal 6 y han robado unos sofisticados dispositivos para fomentar el malvado plan de Krang y Shredder. En Teenage Mutant Ninja Turtles: Shredder’s Revenge, las Tortugas Ninja deberán combatir en una serie de emblemáticos enclaves de TMNT.
-- DLC Radical Reptiles. ¡Un poderoso dúo se une a las Tortugas para vivir con ellas otra fantástica aventura! Mondo Gecko y Mona Lisa, dos personajes legendarios de la serie de televisión clásica de 1987, se unirán a tu equipo de ninjas favoritos, ¡por primera vez como personajes jugables!
-- DLC Dimension Shellshock. Dimension Shellshock incluye a Usagi y Karai como nuevos guerreros, además del modo supervivencia. Reúne cristales y viaja por las dimensiones que rinden culto a toda la saga de las Tortugas Ninja.
 - ¡Descubre una banda sonora nueva y reeditada! Artistas invitados de la comunidad chiptune y de otros géneros se unen al formidable grupo responsable de la banda sonora del juego.
+- Juego base. Bebop y Rocksteady han atacado el Canal 6 y han robado unos sofisticados dispositivos para fomentar el malvado plan de Krang y Shredder. En Teenage Mutant Ninja Turtles: Shredder’s Revenge, las Tortugas Ninja deberán combatir en una serie de emblemáticos enclaves de TMNT.
+- DLC Dimension Shellshock. Dimension Shellshock incluye a Usagi y Karai como nuevos guerreros, además del modo supervivencia. Reúne cristales y viaja por las dimensiones que rinden culto a toda la saga de las Tortugas Ninja.
+- DLC Radical Reptiles. ¡Un poderoso dúo se une a las Tortugas para vivir con ellas otra fantástica aventura! Mondo Gecko y Mona Lisa, dos personajes legendarios de la serie de televisión clásica de 1987, se unirán a tu equipo de ninjas favoritos, ¡por primera vez como personajes jugables!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DZHKMZTD{{</world>}}

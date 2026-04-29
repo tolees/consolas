@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ve más allá de tu entrenamiento: El sistema de combate cinemático vuelve con nuevas habilidades de la fuerza y nuevos estilos de lucha de espada láser
 - Domina nuevas habilidades y equipo que aumentarán tus formas de luchar y avanzar
 - Explora una galaxia indómita: Descubre nuevos planetas y mundos ya conocidos en la galaxia de Star Wars, cada uno con biomas, desafíos y enemigos únicos
-- Ve más allá de tu entrenamiento: El sistema de combate cinemático vuelve con nuevas habilidades de la fuerza y nuevos estilos de lucha de espada láser
 - Continúa el viaje de Cal: Cal ya no es un padawan y se ha convertido en un poderoso caballero Jedi
 
 [🛒 Aquí!!!]({{< param buyurl >}})

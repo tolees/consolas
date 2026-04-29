@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Podrá cargar los mandos Joy-Con en cualquier momento. Incluso sin tener que acoplarlos a la consola. Pueden ser cargados de dos formas, en el soporte o bien tumbados fuera del mismo.
-- Carga tus mandos Joy-Con de NintendoSwitch y los mandos de Nintendo Entertainment System con este módulo de carga para mandos Joy-Con (divisible)
 - Nintendo Switch JoyCon Charging Stand (2 way)
+- Carga tus mandos Joy-Con de NintendoSwitch y los mandos de Nintendo Entertainment System con este módulo de carga para mandos Joy-Con (divisible)
+- Podrá cargar los mandos Joy-Con en cualquier momento. Incluso sin tener que acoplarlos a la consola. Pueden ser cargados de dos formas, en el soporte o bien tumbados fuera del mismo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D9W7VCZG{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Find Peace in the Hakurei Shrine — Explore the Hakurei Shrine through the lens of Reimu Hakurei! Keep tabs on any active missions, revisit sub-events, strike a pose with Photo Mode, and even talk to some of your favorite Touhou Project characters in Hakurei Shrine as you progress through the story!
+- Strategy RPG Meets Bullet Hell Mania — Battle in a grid system with a unique blend of real-time strategy elements and bullet hell madness! Hone in your strategy skills by moving characters to grid-specific areas, graze enemy bullets, and unleash special skills in one simultaneous, action-packed battle!
 - Need a Boost? — Players will occasionally see objects and attributes during battle. Objects are able to block incoming bullets and also provide additional effects once destroyed. Attributes can provide boosts and status effects. Use these boosts to your advantage and maybe youll be able to collect extra bonus loot from your victories!
 - Languages & More – English, French, and Spanish (Spain) in-game text. Japanese in-game voices. Comes with reversible cover.
-- Find Peace in the Hakurei Shrine — Explore the Hakurei Shrine through the lens of Reimu Hakurei! Keep tabs on any active missions, revisit sub-events, strike a pose with Photo Mode, and even talk to some of your favorite Touhou Project characters in Hakurei Shrine as you progress through the story!
 - Gotta Stay Prepped — Dont just run into battle unprepared! Organize your partys positioning on the grid, assign skills according to your enemies weaknesses, and choose wisely which Ace Spell Card youll use.
-- Strategy RPG Meets Bullet Hell Mania — Battle in a grid system with a unique blend of real-time strategy elements and bullet hell madness! Hone in your strategy skills by moving characters to grid-specific areas, graze enemy bullets, and unleash special skills in one simultaneous, action-packed battle!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DSC7C6XJ{{</world>}}

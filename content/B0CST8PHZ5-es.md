@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Una historia apasionante: vive una gran aventura con decenas de personajes y arcos narrativos
+- Combate activo por turnos: golpes cronometrados, combos, potenciadores, tipos de daño y rupturas de hechizos
 - ¡Un RPG por turnos inspirado en los clásicos
 - Un mundo que puedes tocar: ¿necesitas cambiar de ritmo? Navega, cocina, pesca o relájate en una taberna
-- Combate activo por turnos: golpes cronometrados, combos, potenciadores, tipos de daño y rupturas de hechizos
-- Una historia apasionante: vive una gran aventura con decenas de personajes y arcos narrativos
 - Muévete sin límites: nada, trepa, salta, lánzate o álzate para cruzar el mundo con naturalidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

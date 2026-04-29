@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Alimentado por la consola a través de cable Tipo-C. Compatible solo con la consola Xbox Series S (NO para consolas Xbox One S/Xbox Series X).
 - Dos ventiladores de refrigeración de alta velocidad incorporados para evitar que la consola se sobrecaliente después de largos períodos de juego y asegurar que esté libre de polvo.
-- 3 niveles de velocidad del ventilador disponibles: alto, medio, bajo. Puedes presionar el botón y ajustar la velocidad del ventilador fácilmente para satisfacer tus necesidades. Indicador LED para identificar el nivel de velocidad. Con función de memoria de apagado.
 - 2 puertos USB adicionales para otros periféricos de juego: uno para cargar y otro para transferencia de datos.
 - Diseñado especialmente para la consola Xbox Series S.
+- 3 niveles de velocidad del ventilador disponibles: alto, medio, bajo. Puedes presionar el botón y ajustar la velocidad del ventilador fácilmente para satisfacer tus necesidades. Indicador LED para identificar el nivel de velocidad. Con función de memoria de apagado.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B094ZJ9F7X{{</world>}}

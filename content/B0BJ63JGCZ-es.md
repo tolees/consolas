@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Gripping storyline: The Zombie unit uncovers a major corporate conspiracy in a dystopian version of Hong Kong
+- Brutal finishers: over 50 unique finishing moves
 - Cyberpunk: a crazy mix of advanced weaponry and lo-tech 90s retro futurism
 - Third-person shooter: Battle indoors and outdoors using a curated selection of projectile weapons - assault rifles, SMGs, LMGs and grenade launchers
-- Brutal finishers: over 50 unique finishing moves
 - Hack-n-slash melee combat: Use a wide variety of deadly moves and dozens of unique finishers to slice and dice
 
 [🛒 Aquí!!!]({{< param buyurl >}})

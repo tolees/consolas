@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- CAPÍTULOS: Capítulo 1: A Tight Squeeze - Intenta sobrevivir a los vengativos juguetes que te esperan en la fábrica de juguetes abandonada. Capítulo 2: Vuela en una telaraña - Desciende a lo más profundo de la fábrica de juguetes, donde te esperan rompecabezas alucinantes y juguetes horribles. Capítulo 3: Sueño Profundo - Bajo la fábrica de juguetes, antaño mágica, hay un orfanato decrépito conocido como Playcare.
 - NUEVOS PERSONAJES: Cada capítulo cuenta con nuevos y atractivos personajes de juguete que pueden ser amigos o enemigos. Sobrevive y progresa resolviendo rompecabezas desafiantes. Cada juego te revela un área recién descubierta de la enorme fábrica de juguetes
 - CONTIENE: Este pack contiene los tres primeros capítulos de la saga Poppy Playtime. ¡Inicia tu andadura por Playtime Co. con los tres primeros juegos de la saga Poppy Playtime!
 - HISTORIA: Hace más de una década, todos los empleados de Playtime Co. desaparecieron misteriosamente, todos menos tú. Debes regresar y descubrir lo que realmente sucedió en la fábrica abandonada de la empresa de juguetes más popular de la historia. Pero cuidado, los juguetes ahora están vivos y es posible que no sean tan amistosos como parecen.
-- CAPÍTULOS: Capítulo 1: A Tight Squeeze - Intenta sobrevivir a los vengativos juguetes que te esperan en la fábrica de juguetes abandonada. Capítulo 2: Vuela en una telaraña - Desciende a lo más profundo de la fábrica de juguetes, donde te esperan rompecabezas alucinantes y juguetes horribles. Capítulo 3: Sueño Profundo - Bajo la fábrica de juguetes, antaño mágica, hay un orfanato decrépito conocido como Playcare.
 - AVENTURA Y MISTERIO: COn Poppy Playtime Triple Pack embárcate en una aventura épica llena de misterio, puzles, entornos espeluznantes y, de personajes, los juguetes más aterradores que jamás hayan cobrado vida
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

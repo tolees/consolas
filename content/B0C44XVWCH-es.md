@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Rendimiento de Xbox. La tarjeta de expansión WD_BLACK C50 para Xbox emplea la tecnología Xbox Velocity Architecture y tiene un rendimiento similar al almacenamiento interno de la Xbox Series X|S, para ofrecer una experiencia fluida con tus juegos favoritos
 - Fácil instalación. Esta tarjeta de expansión con licencia oficial para Xbox está lista para conectar y usar con la Xbox Series XS, por lo que no tendrás que preocuparte por la compatibilidad ni abrir la consola para realizar la instalación.
-- Más almacenamiento para jugar más en Xbox. Las soluciones que no usan tarjetas de expansión requieren que transfieras los juegos entre el almacenamiento y la consola. La tarjeta de expansión WD_BLACK C50 para Xbox te permite divertirte sin preocupaciones y jugar cuando quieras.
 - Almacena más títulos grandes. Los juegos son cada vez más grandes y necesitan más almacenamiento. Gracias a las capacidades de 512 GB y 1 TB, podrás tener más juegos instalados y listos para jugar en cualquier momento.
 - Diseño de WD_BLACK. La estética industrial elegante de la tarjeta de expansión sigue el estilo atractivo de WD_BLACK y combina perfectamente con la consola Xbox.
+- Más almacenamiento para jugar más en Xbox. Las soluciones que no usan tarjetas de expansión requieren que transfieras los juegos entre el almacenamiento y la consola. La tarjeta de expansión WD_BLACK C50 para Xbox te permite divertirte sin preocupaciones y jugar cuando quieras.
 - Compatible con la reanudación rápida. Suspende el juego al que estás jugando, juega a otro y vuelve al primero justo donde lo dejaste. Solo el almacenamiento interno SSD de la consola Xbox y las tarjetas de expansión son compatibles con esta funcionalidad que te permite ahorrar tiempo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

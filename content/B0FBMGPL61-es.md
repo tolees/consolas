@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego de 3 pedales T3PM con sensores con Efecto Hall y 4 modos de presión
 - Aro de volante ergonómico y versátil (28 cm de diámetro) con 25 botones de acción
-- Levas de cambio con sensores Mag-Shift para ofrecer una respuesta instantánea
 - Nuevo diseño deportivo con piel perforada y acabados en imitación de carbono
 - Interfaz de siguiente generación: pantalla LCD y 4 LED para ajustar el Force Feedback y mostrar información de la carrera
-- Force Feedback T-HD (Hybrid Drive) configurable con 3,1 N⋅m de par
+- Levas de cambio con sensores Mag-Shift para ofrecer una respuesta instantánea
 - Compatible con PS5, PS4 y PC (Windows 10/11) en escritorios/mesas (de hasta 45 mm de grosor) y cabinas, mediante el sistema de sujeción incluido
+- Force Feedback T-HD (Hybrid Drive) configurable con 3,1 N⋅m de par
+- Juego de 3 pedales T3PM con sensores con Efecto Hall y 4 modos de presión
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FBMGPL61{{</world>}}

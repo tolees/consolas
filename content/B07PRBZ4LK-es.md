@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 2 9 metros
-- Carrera FIRST
 - A partir de 3 años
+- Carrera FIRST
 - Elementos de volteo para una mayor diversión en el juego
 - Genial pista de slot cars con Super Mario y Luigi y licencia de Nintendo
 

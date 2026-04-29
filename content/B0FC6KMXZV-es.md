@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- No te dejará ir: experimenta un inquietante terror que envuelve tus sentidos, con miedos que acechan en cada rincón. La oscuridad no solo habita en las sombras…...Nunca
 - Entre la realidad y la ficción: adéntrate en un lugar enigmático y explora sus laberínticos caminos llenos de secretos. La verdad tiene muchas caras, y tal vez no te guste la que encuentres.
-- Lo que se oculta tras la pérdida: siente el vacío que deja la ausencia de un ser querido, donde la desesperación crece, alimentándose de la ansiedad y la depresión. Día tras día…
 - Edición Especial Luto - Playstation
+- Lo que se oculta tras la pérdida: siente el vacío que deja la ausencia de un ser querido, donde la desesperación crece, alimentándose de la ansiedad y la depresión. Día tras día…
+- No te dejará ir: experimenta un inquietante terror que envuelve tus sentidos, con miedos que acechan en cada rincón. La oscuridad no solo habita en las sombras…...Nunca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FC6KMXZV{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Die vielseitige Burst-Kanone bringt strategische Tiefe in die Reihe.Trete an gegen mehr als 40 riesige Schlachtschiffe
-- Hoher Wiederspielwert dank verzweigten Etappen
-- 4 Spielmodi und neue, exklusive Szenarien
-- Lokales Co-op für bis zu 4 Spieler
 - Moderne HD-Grafik und ein großartiger atmosphärischer Soundtrack
+- Hoher Wiederspielwert dank verzweigten Etappen
+- Lokales Co-op für bis zu 4 Spieler
+- Die vielseitige Burst-Kanone bringt strategische Tiefe in die Reihe.Trete an gegen mehr als 40 riesige Schlachtschiffe
+- 4 Spielmodi und neue, exklusive Szenarien
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B092TLM1Y2{{</world>}}

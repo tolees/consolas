@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Sumérgete en una gran tierra que es a la vez antigua y nueva. Inspirado en la mitología china y creado para contar una nueva historia del viaje de Sun de antihéroe a héroe, este es un mundo donde la leyenda se encuentra con la realidad.
-- Descubre un sistema de combate fresco y sencillo que te otorga poderes incrementales mientras viajas por esta terrible tierra para resolver el misterio de la Corona robada. Prepárate para saltar, correr y hacer parkour en este nuevo mundo mientras resuelves intrincados puzles y superas pruebas cada vez más complejas a medida que avanzas por los diferentes niveles.
 - Aprovecha los poderes del aire, el fuego, la tierra y el rayo. Cada uno de tus poderes te da una forma de trabajar con el entorno o contra tus enemigos. Ataca con Aire, Fuego y Rayo. Defiende con Tierra. Invoca tus poderes para derrotar a tus enemigos y atravesar peligrosos abismos.
+- Descubre un sistema de combate fresco y sencillo que te otorga poderes incrementales mientras viajas por esta terrible tierra para resolver el misterio de la Corona robada. Prepárate para saltar, correr y hacer parkour en este nuevo mundo mientras resuelves intrincados puzles y superas pruebas cada vez más complejas a medida que avanzas por los diferentes niveles.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DT7FWXY8{{</world>}}

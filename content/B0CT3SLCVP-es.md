@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- JUGABILIDAD DINÁMICA: Experimenta un modo de juego variado y emocionante. Desde combates intensos hasta la exploración de paisajes neoccidentales, Dustborn te ofrece un gameplay que se adapta a tu estilo. ¡Prepárate para aventuras inesperadas y decisiones que impactan el viaje!
+- HISTORIA ENVOLVENTE: Sumérgete en una trama profunda de esperanza, amor y amistad. En Dustborn, encarnas a Pax, un exiliado con habilidades únicas, lidera una misión crítica a través de la República Americana enfrentando desafíos en un viaje repleto de misiones y decisiones.
 - DETALLES VISUALES Y NARRATIVOS: Sumérgete en niveles impresionantes y conoce nuevos personajes fascinantes, cada uno con habilidades únicas. Dustborn presenta gráficos inspirados en novelas gráficas y una narrativa que te mantendrá pegado a la pantalla de tu PS5.
 - INCLUYE CONTENIDO EXCLUSIVO: La Edición Deluxe de Dustborn para PS5 viene cargada con extras. Desde un autobús turístico conducido por robots hasta sesiones de música punk-rock, este juego te garantiza horas de entretenimiento diverso.
-- HISTORIA ENVOLVENTE: Sumérgete en una trama profunda de esperanza, amor y amistad. En Dustborn, encarnas a Pax, un exiliado con habilidades únicas, lidera una misión crítica a través de la República Americana enfrentando desafíos en un viaje repleto de misiones y decisiones.
+- JUGABILIDAD DINÁMICA: Experimenta un modo de juego variado y emocionante. Desde combates intensos hasta la exploración de paisajes neoccidentales, Dustborn te ofrece un gameplay que se adapta a tu estilo. ¡Prepárate para aventuras inesperadas y decisiones que impactan el viaje!
 - EXPERIENCIA ÚNICA DE JUEGO: Dustborn - Deluxe Edition para PS5 te ofrece una aventura de acción en solitario donde las palabras son tu arma más poderosa. Explora una América alternativa con tu tripulación de inadaptados y usa el lenguaje para superar obstáculos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

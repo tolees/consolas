@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Acompaña a Hanna en su aventura por Eriksholm para encontrar a su hermano y descubrir el misterio que se oculta tras su desaparición. Recorre impresionantes paisajes a lo largo de una apasionante historia en la que cada segundo cuenta mientras Hanna trata de reunir a su familia.
-- Cambia entre tres personajes únicos y emplea sus habilidades especiales para acceder a nuevas zonas, superar diversos retos y puzles y engañar a tus enemigos.
 - Observa el comportamiento de los guardias, aprovecha el entorno y encuentra soluciones ingeniosas para superar los obstáculos. Examina atentamente lo que te rodea, emplea el sigilo y las coberturas y utiliza tácticas de distracción para evitar que te detecten.
 - Explora el mundo ficticio de Eriksholm, un lugar repleto de belleza, adversidades y aventuras que se inspira en las ciudades nórdicas de comienzos del siglo XX.
+- Cambia entre tres personajes únicos y emplea sus habilidades especiales para acceder a nuevas zonas, superar diversos retos y puzles y engañar a tus enemigos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FQK2SYY3{{</world>}}

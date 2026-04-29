@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Juego clásico de malvado residente: supera encuentros escalofriantes en una lucha implacable por la supervivencia que aumenta la intensidad a través de la exploración de morderse las uñas y la resolución de acertijos.
 - Nuevo para PlayStation 5: las características mejoradas de la versión PlayStation5 del juego incluyen una mayor velocidad de fotogramas, audio 3D, trazado de rayos añadido y soporte DualSense para retroalimentación háptica y disparadores adaptativos.
-- Explora RACCOON CITY desde una nueva perspectiva: acércate aún más a la acción con una cámara sobre el hombro y un esquema de control actualizado, que te lleva a cada encuentro sangriento.
 - Sobrevive juntos en el modo multijugador: trae hasta cuatro amigos a la carnicería con Resident Evil Resistance, una experiencia de terror de supervivencia multijugador incluida en el paquete Resident Evil 3. Disponible como título de PlayStation 4 compatible en todos los dispositivos PlayStation 5. Incluye el código necesario para el canje, requiere descarga adicional que no está en el disco.
+- Juego clásico de malvado residente: supera encuentros escalofriantes en una lucha implacable por la supervivencia que aumenta la intensidad a través de la exploración de morderse las uñas y la resolución de acertijos.
+- Explora RACCOON CITY desde una nueva perspectiva: acércate aún más a la acción con una cámara sobre el hombro y un esquema de control actualizado, que te lleva a cada encuentro sangriento.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DKWQ5WSZ{{</world>}}

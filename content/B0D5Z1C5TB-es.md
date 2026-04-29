@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatible con PC, Mac, PS5, PS4 y dispositivos móviles: Use los mismos auriculares para PC, Mac o PlayStation, o conéctese mediante Bluetooth a dispositivos móviles y mucho más.
-- Gran duración de la batería: Disfrute de hasta 65 horas de batería con la tecnología inalámbrica de 2,4 GHz o de hasta 130 horas con Bluetooth. (Con la iluminación RGB desactivada). Hasta 24 horas a través de 2,4 GHz y con RGB activado).
 - Contenido del paquete: CORSAIR HS80 MAX WIRELESS Headset - Gris acero | Receptor USB inalámbrico | Cable de carga USB, 1,8m | Folleto de seguridad | Tarjeta de garantía | CA-9011295-WW
-- Conexión inalámbrica de baja latencia a 2,4 GHz más Bluetooth: Disfrute de audio inalámbrico de baja latencia a 2,4 GHz con un asombroso alcance de hasta 15 m y sonido de alta fidelidad a 24 bits/96 kHz (el doble que los auriculares para juegos habituales), además de compatibilidad Bluetooth.
+- Gran duración de la batería: Disfrute de hasta 65 horas de batería con la tecnología inalámbrica de 2,4 GHz o de hasta 130 horas con Bluetooth. (Con la iluminación RGB desactivada). Hasta 24 horas a través de 2,4 GHz y con RGB activado).
 - Horas de comodidad: Las almohadillas de espuma viscoelástica con tejido transpirable y el diseño de diadema flotante sin presión ofrecen una gran comodidad y están reforzadas con aluminio ligero para soportar años de juego competitivo.
+- Compatible con PC, Mac, PS5, PS4 y dispositivos móviles: Use los mismos auriculares para PC, Mac o PlayStation, o conéctese mediante Bluetooth a dispositivos móviles y mucho más.
+- Conexión inalámbrica de baja latencia a 2,4 GHz más Bluetooth: Disfrute de audio inalámbrico de baja latencia a 2,4 GHz con un asombroso alcance de hasta 15 m y sonido de alta fidelidad a 24 bits/96 kHz (el doble que los auriculares para juegos habituales), además de compatibilidad Bluetooth.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D5Z1C5TB{{</world>}}

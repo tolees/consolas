@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Optimo para gaming: el TV Sony Bravia 9 incluye funciones de juego, HDMI 2.1 (4K/120fps, VRR, ALLM), así como el Menú de juego, funciones adicionales para PS5 y PS Remote Play
-- Sonido cinematografico: compatible con las últimas barras de sonido, convierte el Bravia 9 en un cine; 360 Spatial Sound Mapping crea altavoces fantasmas a tu alrededor y Acoustic Center Sync convierte el televisor en el altavoz central
-- Imagenes de cine: el brillo y la precisión del color incomparables de QLED (XR I Mini LED) con el contraste definitivo XR Backlight Master Drive, la tecnología de los monitores de cine profesionales
 - Sonido inmersivo: el primer televisor con dos tweeters de haz orientados hacia arriba que emiten el sonido desde la pantalla como en un cine Voice Zoom 3 optimiza el diálogo y 3D Surround Upscaling ofrece sonido envolvente
 - Se presenta TV BRAVIA 9 QLED (XR l Mini LED) 4K HDR: el televisor Sony 4K más brillante hasta la fecha, para la optima experiencia cinematográfica
+- Optimo para gaming: el TV Sony Bravia 9 incluye funciones de juego, HDMI 2.1 (4K/120fps, VRR, ALLM), así como el Menú de juego, funciones adicionales para PS5 y PS Remote Play
+- Imagenes de cine: el brillo y la precisión del color incomparables de QLED (XR I Mini LED) con el contraste definitivo XR Backlight Master Drive, la tecnología de los monitores de cine profesionales
+- Sonido cinematografico: compatible con las últimas barras de sonido, convierte el Bravia 9 en un cine; 360 Spatial Sound Mapping crea altavoces fantasmas a tu alrededor y Acoustic Center Sync convierte el televisor en el altavoz central
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D1VYFB2C{{</world>}}

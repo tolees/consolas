@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Embárcate en una aventura inolvidable con Astérix y Obélix, ¡en modo cooperativo local o en solitario!
-- Enfréntate a jefes formidables y propina a los legionarios romanos una paliza memorable en batallas épicas.
-- Explora cinco asombrosos mundos repletos de paisajes y lugares emblemáticos, incluido un nuevo destino exclusivo: la legendaria ciudad de Babilonia.
 - Revive la acción a lo largo de veinte niveles rejugables, con una gran variedad de enemigos y un montón de emocionantes desafíos.
 - Prepárate para una nueva epopeya de plataformas repleta de acción, humor, sorpresas y pura diversión gala.
+- Enfréntate a jefes formidables y propina a los legionarios romanos una paliza memorable en batallas épicas.
+- Embárcate en una aventura inolvidable con Astérix y Obélix, ¡en modo cooperativo local o en solitario!
+- Explora cinco asombrosos mundos repletos de paisajes y lugares emblemáticos, incluido un nuevo destino exclusivo: la legendaria ciudad de Babilonia.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FBWR34PV{{</world>}}

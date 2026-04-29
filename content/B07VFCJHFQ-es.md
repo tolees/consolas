@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con licencia oficial de Nintendo
-- Conectividad inalámbrica y batería recargable para jugar durante más tiempo
-- Controles de movimiento para maximizar tu juego
-- Dobles botones largos programables en la parte posterior para adaptarse a tu forma de jugar
 - Vistoso diseño de luz LED con colores personalizables y diversos modos de iluminación
+- Conectividad inalámbrica y batería recargable para jugar durante más tiempo
+- Dobles botones largos programables en la parte posterior para adaptarse a tu forma de jugar
+- Controles de movimiento para maximizar tu juego
+- Con licencia oficial de Nintendo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07VFCJHFQ{{</world>}}

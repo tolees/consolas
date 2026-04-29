@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Figura de Bob Esponja de 20 cm; figura de Patricio de 18 cm; figura de Sandy de 20 cm
 - Set de llaveros Tiki; pegatinas; 6 litografías; calcetines de Bob Esponja
 - Juego base
-- Figura de Bob Esponja de 20 cm; figura de Patricio de 18 cm; figura de Sandy de 20 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07ZJLV9G6{{</world>}}

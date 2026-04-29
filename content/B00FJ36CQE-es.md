@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Permite el acceso completo a las funciones de la consola, puede jugar a su consola tan cómodo como normal
-- Sólo tiene que colocar la consola en el caso, simple y conveniente
 - Diseño cristalino y brillante para Nintendo 3DS LL/XL, evita eficazmente que la suciedad contamine la consola
 - Protege tu consola de arañazos y golpes, recortes para todos los controles de la consola
 - Hace su consola más elegante, virtualmente indestructible, transparente y delgada
+- Permite el acceso completo a las funciones de la consola, puede jugar a su consola tan cómodo como normal
+- Sólo tiene que colocar la consola en el caso, simple y conveniente
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00FJ36CQE{{</world>}}

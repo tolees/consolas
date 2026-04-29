@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El Escudero Valiente sigue las mágicas aventuras de Jota y sus amigos, todos ellos personajes de cuento que descubren un mundo tridimensional más allá de las páginas de su libro.
 - Muévete entre mundos en 2D y 3D en esta encantadora aventura llena de acción en la que resolverás rompecabezas, boxearás con tejones, volarás con un retropropulsor y disfrutarás de muchos otros minidesafíos sorprendentes y divertidos, mientras te conviertes en el héroe de un libro de cuentos lleno de vida.
 - Jota debe enfrentarse a retos que jamás imaginó para salvar a sus amigos de las fuerzas oscuras de Gruñonzón y restablecer el final feliz del cuento.
+- El Escudero Valiente sigue las mágicas aventuras de Jota y sus amigos, todos ellos personajes de cuento que descubren un mundo tridimensional más allá de las páginas de su libro.
 - El malvado Gruñonzón se percata de que es el malo del cuento, destinado a perder la batalla contra las fuerzas del bien por toda la eternidad, y expulsa al valeroso Jota de sus páginas cambiando la historia para siempre.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

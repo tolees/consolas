@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mezcla de vehículos: pintura, acabados, llantas, sonidos del motor, color de los cristales, neumáticos, manual o con palanca: personaliza lo que quieras; todo estará disponible desde el principio
 - Mezcla de todo: en MixWorld puedes ser un dios - controla el tiempo, la hora y el tráfico; Encuentra espacios y construye estructuras que impacten en tu mundo más allá de sus cimientos; el poder es tuyo
 - Mezcla de mundos: un mundo abierto que es tuyo para descubrir y diseñar; coloca saltos, bucles, medios tubos, obstáculos y más en casi cualquier lugar de tu MixWorld
+- Mezcla de vehículos: pintura, acabados, llantas, sonidos del motor, color de los cristales, neumáticos, manual o con palanca: personaliza lo que quieras; todo estará disponible desde el principio
 - Mezcla de marcadores: establece récords de siete maneras diferentes cuando conduzcas en cada calle de tu MixWorld: Derrape, Aire, Casi derrota, Acrobacia, Choque, y la más tradicional, Tiempo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

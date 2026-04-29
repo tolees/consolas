@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Alimenta la creatividad de tu peque: Los sets LEGO Super Mario, diseñados para jugar a solas o en compañía, ofrecen desafíos divertidos, de interpretación y de recogida de monedas digitales mediante la expansión y la reconstrucción
-- App LEGO Super Mario: Descarga la app, donde encontrarás las instrucciones de construcción, creativos consejos y más contenidos. Consulta la lista de dispositivos iOS y Android compatibles en LEGO.com/devicecheck
-- Que empiece la fiesta: La casa de juguete de Toad cuenta con cocina y dormitorio (con un cuadro del Castillo de Peach), y también con muebles desmontables para jugar cómodamente
-- Juego interactivo: Pisa la etiqueta de acción junto al gramófono con LEGO Mario, LEGO Luigi o LEGO Peach (figuras no incluidas) para reproducir música y la que está junto a la puerta para que suene el timbre
-- 2 figuras LEGO Super Mario y accesorios para el juego de rol: Este set LEGO Nintendo incluye figuras de un Toad Azul y un Toad Verde, así como una mesa de pícnic, un gramófono, tarta y globos
-- Regalo de Nintendo: Regala este juguete LEGO Super Mario a un niño o niña fan a partir de 7 años; para jugar de forma interactiva, se necesita uno de estos sets: 71439, 71440, 71441 o 72043 (a la venta por separado)
 - Un divertido juguete LEGO Super Mario: Saca los globos y la tarta para celebrar una gran Fiesta en la Casa de Toad, una casa de juguete para niños y niñas de 7 años en adelante
+- 2 figuras LEGO Super Mario y accesorios para el juego de rol: Este set LEGO Nintendo incluye figuras de un Toad Azul y un Toad Verde, así como una mesa de pícnic, un gramófono, tarta y globos
+- Juego interactivo: Pisa la etiqueta de acción junto al gramófono con LEGO Mario, LEGO Luigi o LEGO Peach (figuras no incluidas) para reproducir música y la que está junto a la puerta para que suene el timbre
+- Alimenta la creatividad de tu peque: Los sets LEGO Super Mario, diseñados para jugar a solas o en compañía, ofrecen desafíos divertidos, de interpretación y de recogida de monedas digitales mediante la expansión y la reconstrucción
+- Que empiece la fiesta: La casa de juguete de Toad cuenta con cocina y dormitorio (con un cuadro del Castillo de Peach), y también con muebles desmontables para jugar cómodamente
+- Regalo de Nintendo: Regala este juguete LEGO Super Mario a un niño o niña fan a partir de 7 años; para jugar de forma interactiva, se necesita uno de estos sets: 71439, 71440, 71441 o 72043 (a la venta por separado)
+- App LEGO Super Mario: Descarga la app, donde encontrarás las instrucciones de construcción, creativos consejos y más contenidos. Consulta la lista de dispositivos iOS y Android compatibles en LEGO.com/devicecheck
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DWDS8CNT{{</world>}}

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Corra com veículos e personagens emblemáticos de Hot Wheels Let’s Race - Escolha entre uma linha repleta de carros Hot Wheels favoritos dos fãs, cada um com direção, habilidades e toque visual distintos – de GT-Scorcher e Super Twin Mill a Roger Dodger e Duck N’ Roll.
-- Corrida de arcade amigável - Experimente controles rápidos, fluidos e adequados para crianças com uma jogabilidade focada em drift, projetada para uma competição emocionante cara a cara. Cada carro apresenta uma habilidade exclusiva do veículo!
 - Vários modos de jogo - Mergulhe em cinco modos de jogo emocionantes: Campo de Corrida, Campeão da Copa, Provações de Velocidade, Construção de Pista e Corrida Livre.
-- Progressão e itens desbloqueáveis - Ganhe insígnias de chamas para desbloquear novos carros, decalques e peças de pista na Garagem Suprema. Personalize seu carro Hot Wheels e exiba-o na pista.
 - 12 pistas exclusivas + modo de Construção de Pista - Acelere por 12 pistas alucinantes e exageradas baseadas na série de TV, como Perseguição da Pizza e Assombro de Tremer os Ossos, e então construa suas próprias pistas dos sonhos no modo Construção de Pista.
+- Progressão e itens desbloqueáveis - Ganhe insígnias de chamas para desbloquear novos carros, decalques e peças de pista na Garagem Suprema. Personalize seu carro Hot Wheels e exiba-o na pista.
+- Corrida de arcade amigável - Experimente controles rápidos, fluidos e adequados para crianças com uma jogabilidade focada em drift, projetada para uma competição emocionante cara a cara. Cada carro apresenta uma habilidade exclusiva do veículo!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FM4C2FLY{{</world>}}

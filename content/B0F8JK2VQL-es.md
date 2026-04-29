@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La primera tirada física incluirá un código de descarga para la banda sonora digital, hasta agotar existencias!
 - JUEGA A TU PROPIO RITMO: El juego se diseñó de forma que los jugadores no familiarizados con el género soulslike se sientan cómodos y para que, además, los más acérrimos del género lo consideren un desafío
-- PROFUNDIDADES SIN EXPLORAR: El océano es mucho más profundo de lo que nos imaginamos. Combate en bosques de algas marinas, arrecifes corales, ciudades de castillos de arena e incluso en la oscuridad de las fosas oceánicas. Todo ello a fin de recuperar tu preciada concha
-- APRENDE DE LA NATURALEZA: Conforme Kril explore el océano, recibirá un montón de Técnicas Umami; es decir, ataques que le enseñarán los habitantes marinos. Ataca a tus enemigos con la poderosa Mantis Gamba, atrápalos con el Gusano Bobbit y mucho más
 - ¿BASURA O TESORO?: En esta sociedad submarina, la basura no es solo una forma de vida, sino un recurso valioso que sirve para todo, como confeccionar ropa o armas de fuego. Sin embargo, la presencia de la basura acarrea una infección misteriosa conocida como Mugre, que podría suponer el fin de todo el océano
+- La primera tirada física incluirá un código de descarga para la banda sonora digital, hasta agotar existencias!
+- APRENDE DE LA NATURALEZA: Conforme Kril explore el océano, recibirá un montón de Técnicas Umami; es decir, ataques que le enseñarán los habitantes marinos. Ataca a tus enemigos con la poderosa Mantis Gamba, atrápalos con el Gusano Bobbit y mucho más
+- PROFUNDIDADES SIN EXPLORAR: El océano es mucho más profundo de lo que nos imaginamos. Combate en bosques de algas marinas, arrecifes corales, ciudades de castillos de arena e incluso en la oscuridad de las fosas oceánicas. Todo ello a fin de recuperar tu preciada concha
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F8JK2VQL{{</world>}}

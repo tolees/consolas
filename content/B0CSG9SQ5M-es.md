@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - CARACTERÍSTICAS PRINCIPALES: Explora la inmensidad de Railway Empire 2 Deluxe Edition en Nintendo Switch, con 60 locomotoras detalladamente recreadas y misiones que te sumergirán en la historia del ferrocarril. Aprende a optimizar rutas y horarios para liderar tu imperio ferroviario hacia el éxito.
-- MODO DE JUEGO: Disfruta de un gameplay estratégico y táctico con modos multijugador y single-player. Gestiona rutas ferroviarias, mejora tus trenes y supera a la competencia en Railway Empire 2.
 - CONTENIDO DEL JUEGO: Este paquete deluxe incluye el "Catálogo oficial de locomotoras", la "Guía oficial de misiones", y el "Compendio oficial" para una inmersión total en el mundo de la gestión ferroviaria.
 - HISTORIA Y SINOPSIS: Descubre la rica historia de la expansión ferroviaria en nuevos territorios con escenarios que recrean eventos históricos cruciales. Vive una campaña envolvente con misiones que desafiarán tu estrategia y gestión de recursos.
+- MODO DE JUEGO: Disfruta de un gameplay estratégico y táctico con modos multijugador y single-player. Gestiona rutas ferroviarias, mejora tus trenes y supera a la competencia en Railway Empire 2.
 - GRÁFICOS Y PERSONAJES: Con gráficos avanzados y nuevos personajes, Railway Empire 2 Deluxe Edition en Nintendo Switch eleva la experiencia de juego. Descubre niveles desafiantes y personajes únicos que aportan una dimensión adicional a tu imperio ferroviario.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

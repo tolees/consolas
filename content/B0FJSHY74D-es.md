@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡MULTIJUGADOR COOPERATIVO ONLINE! Campañas para hasta 4 jugadores
-- ¡EL DESPERTAR DE CARNIVAL! Libera el poder brutal del asesino en serie que llevas en la mente. Cambia el rumbo de la batalla. Conviértete en una leyenda
-- Siete asesinos en serie. Un hotel encantado. Y una segunda personalidad viviendo dentro de su cabeza… Conoce al Dr. Carnival: asesino, psicópata, monstruo antiguo devastador y la clave para su supervivencia
 - Cada vez que mueres, tu yo pasado lucha a tu lado — ¡como un fantasma con rencor! ¡LA SANGRE ES PODER! Cuanto más matas, más fuerte te vuelves. Pero si dejas de derramar sangre... serás el siguiente
 - ESTE OTOÑO… ¡LA MUERTE TIENE LA LLAVE DE UNA HABITACIÓN! En este sidescroller 2.5D empapado de sangre, salido directamente de tus pesadillas: ¡Enfréntate a pisos de horror totalmente locos! Enfrenta a asesinos inspirados en los rincones más siniestros de tu videoclub local
+- Siete asesinos en serie. Un hotel encantado. Y una segunda personalidad viviendo dentro de su cabeza… Conoce al Dr. Carnival: asesino, psicópata, monstruo antiguo devastador y la clave para su supervivencia
+- ¡EL DESPERTAR DE CARNIVAL! Libera el poder brutal del asesino en serie que llevas en la mente. Cambia el rumbo de la batalla. Conviértete en una leyenda
+- ¡MULTIJUGADOR COOPERATIVO ONLINE! Campañas para hasta 4 jugadores
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FJSHY74D{{</world>}}

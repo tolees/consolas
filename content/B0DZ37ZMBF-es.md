@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Encadena trucos más rápido que nunca con objetivos más desafiantes y un modo New Game+ mejorado.
-- Reúne a tu equipo en el modo multijugador en línea con crossplay, permitiendo que hasta 8 skaters se unan en modos de juego clásicos o totalmente nuevos. Además, por primera vez, ¡crea y comparte objetivos personalizados con tus amigos en los modos Crear un skater y Crear un skatepark!
-- Prepárate para el regreso de la legendaria franquicia con Tony Hawk’s Pro Skater 3 + 4. Una experiencia renovada con más skaters, nuevos skateparks, trucos aún más increíbles, una banda sonora impactante y mucho más.
 - Tanto si eres principiante como un profesional de la tabla, los controles sencillos y la jugabilidad fluida son los mismos que en Tony Hawk’s Pro Skater 1 + 2, permitiéndote patinar como un auténtico pro.
+- Prepárate para el regreso de la legendaria franquicia con Tony Hawk’s Pro Skater 3 + 4. Una experiencia renovada con más skaters, nuevos skateparks, trucos aún más increíbles, una banda sonora impactante y mucho más.
+- Reúne a tu equipo en el modo multijugador en línea con crossplay, permitiendo que hasta 8 skaters se unan en modos de juego clásicos o totalmente nuevos. Además, por primera vez, ¡crea y comparte objetivos personalizados con tus amigos en los modos Crear un skater y Crear un skatepark!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DZ37ZMBF{{</world>}}

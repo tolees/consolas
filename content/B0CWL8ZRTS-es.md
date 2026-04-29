@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - CARACTERÍSTICAS PRINCIPALES: Revive el clásico arcade de 2017 con Leonardo, Michelangelo, Donatello, y Raphael. Esta edición trae 3 fases y 6 batallas contra jefes adicionales para un desafío sin precedentes, en una aventura inspirada en Turtles in Time.
 - GRÁFICOS Y NIVELES MEJORADOS: Experimenta niveles detallados y gráficos mejorados que capturan la esencia de las Tortugas Ninja. Nuevos personajes y desafíos esperan en cada esquina, haciendo cada juego una aventura épica.
+- HISTORIA ENVOLVENTE: Adéntrate en la narrativa épica donde las Tortugas Ninja luchan contra el Clan del Pie. Atraviesa 6 escenarios únicos desde Dimensión X hasta Coney Island, enfrentándote a 13 jefes en una batalla épica contra Shredder. Disfruta de una trama emocionante en la que cada personaje aporta su esencia a esta aventura inolvidable.
 - MODOS DE JUEGO ENVOLVENTES: Explora modos cooperativos y competitivos. Juega solo o invita a hasta tres amigos para derrotar al Clan del Pie. Cada partida ofrece una experiencia única gracias a los diferentes estilos de combate de las Tortugas Ninja.
 - CONTENIDO EXCLUSIVO: Este juego incluye contenido exclusivo que no encontrarás en otra parte. Desde ataques especiales hasta coleccionables, hay algo nuevo y emocionante para cada tipo de jugador.
-- HISTORIA ENVOLVENTE: Adéntrate en la narrativa épica donde las Tortugas Ninja luchan contra el Clan del Pie. Atraviesa 6 escenarios únicos desde Dimensión X hasta Coney Island, enfrentándote a 13 jefes en una batalla épica contra Shredder. Disfruta de una trama emocionante en la que cada personaje aporta su esencia a esta aventura inolvidable.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CWL8ZRTS{{</world>}}

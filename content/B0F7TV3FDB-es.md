@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Diseño completamente reversible
 - Asa de transporte interior
 - Espacio para una consola Switch 2 y accesorios (base, mando, cable de alimentación, juegos, etc.)
-- Diseño completamente reversible
 - 3 compartimentos acolchados
 - Bolsillo externo para almacenamiento extra
 - Licencia oficial de Nintendo

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Sistema de fijación por ventosa o pinza para asientos de simulación. Totalmente programable, compatible con todos los juegos de carreras para PS4 y Xbox (Gran Turismo 7 (PS4), Forza Motor Sport 7 y Forza Horizon 5 (Xbox), Project Cars 2, F1 2020, Need for Speed, Dirt, WRC, Grid, V Rally 4, Gear Club 2, GTA V.)
 - Motor de doble vibración sólo en modo secuencial a través de las paletas de cambio. Paletas de cambio +/-.
 - Palanca de cambios manual. Grandes pedales con sistema de reposapiés y pedales de acelerador, freno y embrague. Motor de doble vibración sólo en modo secuencial a través de las levas de cambio (cuando la palanca de cambios está desconectada). Paletas de cambio +/-
 - Volante para Xbox Series X/S, PS4, Xbox One. No es compatible con PS5 o PC
 - Volante PS4: Ángulo de rotación de 270°. Ajuste de la sensibilidad (3 niveles de sensibilidad). Compatible con auriculares para jugadores.
-- Sistema de fijación por ventosa o pinza para asientos de simulación. Totalmente programable, compatible con todos los juegos de carreras para PS4 y Xbox (Gran Turismo 7 (PS4), Forza Motor Sport 7 y Forza Horizon 5 (Xbox), Project Cars 2, F1 2020, Need for Speed, Dirt, WRC, Grid, V Rally 4, Gear Club 2, GTA V.)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B097WNVYGQ{{</world>}}
