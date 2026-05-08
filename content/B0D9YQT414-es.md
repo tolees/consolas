@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- CONOCE A LA BOO CREW: ¡Clawdeen, Draculaura y Frankie son tus nuevas amigas!
 - DESCUBRE EL MUNDO DE Monster High: Explora el instituto y sus monstruosos secretos.
-- RESUELVE LOS CADAVÉRICOS SECRETOS: Descubre los secretos de las habitaciones ocultas y lo que está pasando en Monster High.
 - DESBLOQUEA HABILIDADES: Como el increíble Salto vampírico o la Evasión Gorgon.
 - CREA TU PERSONAJE: Sé tú misma. Sé única. Sé Monster.
-- CONOCE A LA BOO CREW: ¡Clawdeen, Draculaura y Frankie son tus nuevas amigas!
+- RESUELVE LOS CADAVÉRICOS SECRETOS: Descubre los secretos de las habitaciones ocultas y lo que está pasando en Monster High.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D9YQT414{{</world>}}

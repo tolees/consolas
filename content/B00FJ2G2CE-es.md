@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - La batería recargable de polímero de iones de litio ofrece diversión sin límites para Nintendo DS Lite
 - Compatible con: Nintendo DS Lite NDSL (USG-001)
-- Este paquete de baterías recargables de polímero de iones de litio está diseñado específicamente para encajar en el compartimento de la batería para Nintendo DS Lite
 - Sólo tiene que desenroscar la batería anterior del compartimento con el destornillador incluido, sustituirla por esta batería y enroscarla de nuevo
 - 1000mAh de potencia y fácil de instalar para Nintendo DS Lite
+- Este paquete de baterías recargables de polímero de iones de litio está diseñado específicamente para encajar en el compartimento de la batería para Nintendo DS Lite
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00FJ2G2CE{{</world>}}

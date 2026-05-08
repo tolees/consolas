@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatible con todas las consolas de Switch 1
 - Nintendo Switch 2 AC Adaptador
+- Compatible con todas las consolas de Switch 1
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F3JP5ZF1{{</world>}}

@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 1980s Nostalgia: Sumérgete en la atmósfera vibrante de los años 80 con música, estilos y cultura japonesa. Revive una década llena de misterios y posibilidades.
-- Un Viaje en el Tiempo: Nini, adolescente alienígena en 1983 Japón, enfrenta kegai y decide el destino del mundo con poderes divinos. ¿Podrás salvarlo?
-- Relaciones y Decisiones: Explora Ashihara, haz amistades y elige sabiamente. Cada decisión afecta el destino, en un bucle temporal lleno de sorpresas.
 - Lucha por la Supervivencia: En peleas por turnos, enfrenta a los kegai y usa el vínculo con los dioses para reiniciar el mundo. Cada ciclo es una oportunidad única.
+- Relaciones y Decisiones: Explora Ashihara, haz amistades y elige sabiamente. Cada decisión afecta el destino, en un bucle temporal lleno de sorpresas.
+- Un Viaje en el Tiempo: Nini, adolescente alienígena en 1983 Japón, enfrenta kegai y decide el destino del mundo con poderes divinos. ¿Podrás salvarlo?
 - ¿Último Mes en la Tierra?: Con el fin del mundo cercano, cada día cuenta. Toma decisiones cruciales, enfrenta tus miedos y descubre la solución antes de que el tiempo se agote.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

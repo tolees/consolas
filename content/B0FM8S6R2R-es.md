@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El juego de carreras arcade de primer nivel, llevado a la consola - Experimenta la emoción vertiginosa del juego arcade en casa, ahora optimizado para consolas y con la misma acción explosiva que hizo del original un favorito de los fans en las salas de juego.
-- Compite con vehículos icónicos - Sal a la carretera en 8 coches legendarios, incluido elDodge Charger, Corvette Z06, Shelby GT500 KR, Ford GT, Bronco DR, Jeep Wrangler, entre otros.
-- Carreras arcade de alta velocidad y adrenalina - Corre en pistas de alta intensidad en supercoches con licencia y estilo cinematográfico, derrapes, potenciadores de nitro y conducción precisa que captura la emoción del clásico arcade original.
 - Competid juntos en el modo multijugador local - Reúnete con un amigo y lánzate a la pista con 2 jugadores en el modo multijugador local en pantalla dividida, llevando la rivalidad arcade a casa con acción frente a frente y competición a raudales.
 - Personaliza tu aspecto, a tu manera - Dale estilo a tu vehículo con diseños de colores personalizados que te permiten destacar en la pista y representar tu personalidad.
+- El juego de carreras arcade de primer nivel, llevado a la consola - Experimenta la emoción vertiginosa del juego arcade en casa, ahora optimizado para consolas y con la misma acción explosiva que hizo del original un favorito de los fans en las salas de juego.
+- Carreras arcade de alta velocidad y adrenalina - Corre en pistas de alta intensidad en supercoches con licencia y estilo cinematográfico, derrapes, potenciadores de nitro y conducción precisa que captura la emoción del clásico arcade original.
+- Compite con vehículos icónicos - Sal a la carretera en 8 coches legendarios, incluido elDodge Charger, Corvette Z06, Shelby GT500 KR, Ford GT, Bronco DR, Jeep Wrangler, entre otros.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FM8S6R2R{{</world>}}

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sengoku Dynasty is the ultimate feudal Japan experience: build villages, grow your community, and shape the open world through combat or economy. Rise to power as a ruler or relax in hot springs. The choice is yours alone - or that of up to 4 players in multiplayer co-op!
-- Become a great leader either through combat or by building your economy. Experience the beauty of nature and take part in ancient rituals to uncover the mysteries of the divine. Sengoku Dynasty offers an immersive insight to life in medieval Japan: Choose your path as a Leader, Craftsman, Warrior, or Monk and embark on an epic journey.
 - This Ultimate Edition includes the game, Official Guide, Cookbook, Soundtrack and Scrolls of Sengoku containing first-hand development info as well as exciting background stories. Eight issues tell you everything you need to know about Sengoku Dynasty.
+- Become a great leader either through combat or by building your economy. Experience the beauty of nature and take part in ancient rituals to uncover the mysteries of the divine. Sengoku Dynasty offers an immersive insight to life in medieval Japan: Choose your path as a Leader, Craftsman, Warrior, or Monk and embark on an epic journey.
+- Sengoku Dynasty is the ultimate feudal Japan experience: build villages, grow your community, and shape the open world through combat or economy. Rise to power as a ruler or relax in hot springs. The choice is yours alone - or that of up to 4 players in multiplayer co-op!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FHQQYS1G{{</world>}}

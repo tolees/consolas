@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - GRÁFICOS Y NIVELES MEJORADOS: Disfruta de un remake visualmente impresionante, con efectos mejorados y un diseño de niveles y personajes renovado. Experimenta la jugabilidad clásica con una presentación moderna.
+- CARACTERÍSTICAS PRINCIPALES: Vive una aventura estratégica en un mundo dividido, personaliza tu Wanzer y elige tu camino en este emblemático juego táctico. Experimenta dos campañas únicas en la isla Huffman, donde la tecnología y la geopolítica se encuentran.
 - HISTORIA ENVOLVENTE: Adéntrate en la compleja trama geopolítica de Front Mission 1st. Como Royd Clive, lidera tu equipo a través de la isla Huffman, en medio de una creciente tensión entre la O.C.U. y la U.C.S. Descubre una historia de lealtad, táctica y guerra.
 - EDICIÓN LIMITADA: Front Mission 1st Limited Edition incluye contenido exclusivo para los fans del juego. Sumérgete en un universo único con esta edición de coleccionista, perfecta para entusiastas de los juegos de estrategia.
-- CARACTERÍSTICAS PRINCIPALES: Vive una aventura estratégica en un mundo dividido, personaliza tu Wanzer y elige tu camino en este emblemático juego táctico. Experimenta dos campañas únicas en la isla Huffman, donde la tecnología y la geopolítica se encuentran.
 - MODALIDAD DE JUEGO INMERSIVA: Domina el campo de batalla con estrategias adaptativas y personalización avanzada de Wanzers. Utiliza el entorno a tu favor y desarrolla tácticas para superar a tus enemigos en intensos combates tácticos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Search Through the Mist: Clear away the mist on the map to discover enemies, facilities, and equipment and form a battle plan
 - Battle system: Combines SRPG turn-based battles with card battles
+- Search Through the Mist: Clear away the mist on the map to discover enemies, facilities, and equipment and form a battle plan
 - Fresh Gameplay: Combining roguelike-style deckbuilding with SRPGs for a brand-new experience
 
 [🛒 Aquí!!!]({{< param buyurl >}})

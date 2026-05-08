@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 🎮 [Dirección artística espectacular] - Sumérgete en un mundo fantástico esculpido a mano en arcilla y animado en stop motion. Cada paisaje, desde las copas de los árboles hasta los monstruos viscosos, ha sido escaneado en 3D meticulosamente para ofrecerte una aventura con un estilo visual único e inolvidable, una auténtica proeza artística de los desarrolladores de Lost in Random.
-- 🔥 [Protege la Llama de tu Compañero] - Únete a Potboy, una entrañable linterna perdida, para sobrevivir al peligroso camino de la Caminata de Medianoche. Usa su preciosa llama para distraer a las aterradoras criaturas que buscan extinguirla, mientras te escondes para escapar de las numerosas amenazas que acechan en las sombras.
 - 🕶️ [Opcional: Vive una aventura extraordinaria en realidad virtual] - Disfruta de una inmersión total gracias a la compatibilidad con PlayStation VR2. El accesorio no es necesario para jugar, pero te permitirá admirar de cerca los sorprendentes detalles de este mundo de arcilla y sentir la emoción de esta oscura y maravillosa epopeya.
 - 🎵 [Déjate llevar por una banda sonora original] - Tu viaje entre la sombra y la luz está acompañado por una banda sonora excepcional que realza la atmósfera poética e inquietante del juego. Cada nota refuerza la inmersión y convierte a The Midnight Walk en una experiencia sensorial completa.
+- 🔥 [Protege la Llama de tu Compañero] - Únete a Potboy, una entrañable linterna perdida, para sobrevivir al peligroso camino de la Caminata de Medianoche. Usa su preciosa llama para distraer a las aterradoras criaturas que buscan extinguirla, mientras te escondes para escapar de las numerosas amenazas que acechan en las sombras.
 - 📜 [Desvela la leyenda de un mundo destrozado] - Reconstruye una historia conmovedora descubriendo cinco historias interconectadas que revelarán los secretos de este universo. Tu viaje te llevará a conocer nuevos amigos y recorrer paisajes impresionantes, en una aventura tan peligrosa como prometedora.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- El mando Wireless Led está equipado con sensores de movimiento (giroscopio de 6 ejes y acelerómetro) para que puedas jugar a Mario kart 8 deluxe simplemente inclinando el mando como lo harías con un joy-con Switch.
 - Equipado con tecnología Bluetooth, este joystick nintendo Switch tiene una autonomía de entre 9 / 10 horas. Viene con un cable de carga usb-c para recargarlo.
 - También está equipado con LED programables y tiene un aspecto realmente divertido y chulo.
-- Este mando para la consola Switch Nintendo tiene 3 niveles de vibración. Puedes ajustar la intensidad de las vibraciones para adaptarlas a tu estilo de juego.
-- El mando inalámbrico Switch 2 / Switch / Switch oled y Switch lite de Subsonic reproduce las mismas funciones que el mando nintendo switch pro. Gracias a su diseño ergonómico, es mucho más cómodo de sujetar que los mandos joy con switch para juegos multijugador.
 - El Subsonic Pro Controller también cuenta con una función turbo, ideal para juegos multijugador como Mario Party.
-- El mando Wireless Led está equipado con sensores de movimiento (giroscopio de 6 ejes y acelerómetro) para que puedas jugar a Mario kart 8 deluxe simplemente inclinando el mando como lo harías con un joy-con Switch.
-- Para los fans de los FPS esport, el mando bluetooth Switch pro de Subsonic viene con 2 botones adicionales, M1 y M2, situados en la parte trasera del mando para mejorar el rendimiento del juego. Estas 2 palas traseras son programables y pueden reproducir todos los demás botones.
+- Este mando para la consola Switch Nintendo tiene 3 niveles de vibración. Puedes ajustar la intensidad de las vibraciones para adaptarlas a tu estilo de juego.
 - El botón Home del mando se puede usar para encender la consola a distancia, igual que el mando Switch Pro.
+- Para los fans de los FPS esport, el mando bluetooth Switch pro de Subsonic viene con 2 botones adicionales, M1 y M2, situados en la parte trasera del mando para mejorar el rendimiento del juego. Estas 2 palas traseras son programables y pueden reproducir todos los demás botones.
+- El mando inalámbrico Switch 2 / Switch / Switch oled y Switch lite de Subsonic reproduce las mismas funciones que el mando nintendo switch pro. Gracias a su diseño ergonómico, es mucho más cómodo de sujetar que los mandos joy con switch para juegos multijugador.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CTT4CLDQ{{</world>}}

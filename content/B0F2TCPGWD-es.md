@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Bienvenido a Puerto Miller, una remota ciudad del sur de Estados Unidos con un pasado escalofriante. Fundado hace siglos por la solitaria tribu ismuit -un pequeño grupo religioso que rehuía el mundo exterior-, el pueblo oculta horrores indescriptibles bajo su antiguo exterior.
 - Enfréntate a combates trepidantes contra criaturas monstruosas utilizando una serie de ingeniosas armas improvisadas. Cada esquina puede esconder un enemigo, por lo que la gestión de recursos es clave para sobrevivir.
-- Tras los sucesos del Hospital Wildberger, Caroline anhela una vida normal con su hermana pequeña, Anna. Sin embargo, el destino tiene otros planes. Cuando Anna es víctima de una misteriosa enfermedad, tose sangre y experimenta ojos ennegrecidos y momentos de inconsciencia, los remedios convencionales resultan inútiles. En un intento desesperado por salvar a su hermana, Caroline debe recurrir a lo sobrenatural.
+- Bienvenido a Puerto Miller, una remota ciudad del sur de Estados Unidos con un pasado escalofriante. Fundado hace siglos por la solitaria tribu ismuit -un pequeño grupo religioso que rehuía el mundo exterior-, el pueblo oculta horrores indescriptibles bajo su antiguo exterior.
 - Utiliza la lógica y el razonamiento para establecer conexiones entre los objetos del entorno y los intrincados rompecabezas. Combina recursos de forma creativa para desvelar enigmas retorcidos y profundizar en los oscuros misterios que envuelven tu camino.
+- Tras los sucesos del Hospital Wildberger, Caroline anhela una vida normal con su hermana pequeña, Anna. Sin embargo, el destino tiene otros planes. Cuando Anna es víctima de una misteriosa enfermedad, tose sangre y experimenta ojos ennegrecidos y momentos de inconsciencia, los remedios convencionales resultan inútiles. En un intento desesperado por salvar a su hermana, Caroline debe recurrir a lo sobrenatural.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F2TCPGWD{{</world>}}

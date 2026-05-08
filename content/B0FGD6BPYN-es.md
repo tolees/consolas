@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 4 emocionantes modos de juego para jugar solo o en grupo
+- Utiliza tu smartphone como micrófono con la aplicación complementaria gratuita
 - Canta con los vídeos musicales oficiales para vivir una experiencia auténtica
 - Hasta 4 jugadores: perfecto para fiestas y reuniones familiares
-- Utiliza tu smartphone como micrófono con la aplicación complementaria gratuita
 - Incluye 1 mes gratis de VIP Pass: desbloquea más de 180 canciones adicionales.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

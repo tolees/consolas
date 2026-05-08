@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- EDICIÓN ESTÁNDAR: Disfruta de la versión estándar de Pocket Bravery, que incluye todos los elementos esenciales para una experiencia de juego completa y emocionante.
+- NIVELES Y PERSONAJES: Explora niveles desafiantes y conoce a nuevos personajes en cada etapa. Los gráficos vibrantes y la jugabilidad dinámica te sumergirán en un mundo de acción y lucha.
 - MODOS DE JUEGO INNOVADORES: Experimenta el emocionante modo de juego de Pocket Bravery, diseñado tanto para jugadores expertos como principiantes. Con esquemas de control adaptados a tu nivel, cada partida es una nueva aventura.
 - CARACTERÍSTICAS DESTACADAS: Descubre 12 personajes únicos en Pocket Bravery, cada uno con habilidades y estilos de juego distintos. Elige tu luchador favorito y explora escenarios vibrantes en 20 zonas diferentes del mundo.
-- NIVELES Y PERSONAJES: Explora niveles desafiantes y conoce a nuevos personajes en cada etapa. Los gráficos vibrantes y la jugabilidad dinámica te sumergirán en un mundo de acción y lucha.
-- EDICIÓN ESTÁNDAR: Disfruta de la versión estándar de Pocket Bravery, que incluye todos los elementos esenciales para una experiencia de juego completa y emocionante.
 - TRAMA ENVOLVENTE: Sumérgete en la historia de Nuno y su lucha contra la organización criminal Matilha. Disfruta de una narrativa rica y detallada que te mantendrá enganchado desde el principio hasta el final.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

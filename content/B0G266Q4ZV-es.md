@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- DIEZ CAMPEONES, UNA LEYENDA: Enfréntate a 10 campeones reales de distintas disciplinas, desde leyendas como Casey Stoner hasta estrellas emergentes como Skyler Howes. ¿Tienes lo que hace falta para ganarte un lugar entre esas leyendas?
+- EN EL ASFALTO Y MÁS ALLÁ: ¡Prepárate para conquistar nuevos terrenos en circuitos de todo el mundo! Desde pistas legendarias hasta trazados originales, cada carrera es un nuevo descubrimiento. Y ahora, prepárate para dejar atrás el asfalto y sentir la emoción del barro en los nuevos circuitos off-road.
+- ÚNETE AL RIDE FEST: Inicia tu carrera en RIDE en el RIDE Fest y vive la libertad de un auténtico festival de motociclismo. Aquí, cada decisión cuenta: tú eliges a qué eventos participar, qué desafíos afrontar y qué tipo de motorista quieres llegar a ser.
 - CONDUCE A TU MANERA: RIDE 6 se adapta a tu estilo de juego: la experiencia Arcade hace que tus carreras sean accesibles y realistas, mientras que la experiencia Pro ofrece una simulación profunda y un control total.¿El objetivo? Que siempre te sientas como un auténtico motorista
 - LA COLECCIÓN DEFINITIVA: Elige entre una enorme selección de motos en la gama más amplia de categorías. Disfruta de la emoción con deportivas icónicas, modelos naked atemporales y, por primera vez en la saga, baggers y maxi enduro.
-- ÚNETE AL RIDE FEST: Inicia tu carrera en RIDE en el RIDE Fest y vive la libertad de un auténtico festival de motociclismo. Aquí, cada decisión cuenta: tú eliges a qué eventos participar, qué desafíos afrontar y qué tipo de motorista quieres llegar a ser.
-- EN EL ASFALTO Y MÁS ALLÁ: ¡Prepárate para conquistar nuevos terrenos en circuitos de todo el mundo! Desde pistas legendarias hasta trazados originales, cada carrera es un nuevo descubrimiento. Y ahora, prepárate para dejar atrás el asfalto y sentir la emoción del barro en los nuevos circuitos off-road.
+- DIEZ CAMPEONES, UNA LEYENDA: Enfréntate a 10 campeones reales de distintas disciplinas, desde leyendas como Casey Stoner hasta estrellas emergentes como Skyler Howes. ¿Tienes lo que hace falta para ganarte un lugar entre esas leyendas?
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0G266Q4ZV{{</world>}}

@@ -30,10 +30,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - CONEXIÓN ÓPTIMA: La conexión mediante cable USB-C de 3 metros garantiza una latencia mínima y una transmisión de datos rápida y estable
 - GAMEPAD OFICIAL: Gamepad oficial compatible con Xbox Series X|S, Xbox One y Windows
-- GAMEPAD MODULAR: Con tecnología T-MOD, el ESWAP X2 permite a los usuarios cambiar y sustituir sus módulos sin necesidad de herramientas, para obtener posibilidades de reemplazo prácticamente ilimitadas
+- DOMINA TUS DIAGONALES: El D-pad mecánico ha sido desarrollado en estrecha colaboración con expertos en juegos de lucha para optimizar la comodidad, la capacidad de respuesta y el control
 - MEJORA TU PUNTERÍA: El ESWAP X2 cuenta con dos módulos de mini-stick S5 NXG, cuya precisión quirúrgica está avalada por reconocidos jugadores profesionales
 - UN NIVEL SUPERIOR DE RESPUESTA: Botones mecánicos un 64% más rápidos que los botones de membrana estándar, con una distancia de activación reducida a 0,3 mm
-- DOMINA TUS DIAGONALES: El D-pad mecánico ha sido desarrollado en estrecha colaboración con expertos en juegos de lucha para optimizar la comodidad, la capacidad de respuesta y el control
+- GAMEPAD MODULAR: Con tecnología T-MOD, el ESWAP X2 permite a los usuarios cambiar y sustituir sus módulos sin necesidad de herramientas, para obtener posibilidades de reemplazo prácticamente ilimitadas
 - AUMENTA TU ARSENAL: 4 botones adicionales en la parte posterior del ESWAP X2 se pueden reasignar directamente a través del propio gamepad o usando el software THRUSTMAPPERX
 
 [🛒 Visítala!!!]({{< param buyurl >}})

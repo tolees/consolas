@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bonus Original Printed Novel - Packed inside each game case is an original printed novel, “How to Be a Master Detective: A Halara Nightmare Case”!
 - Experience the Game in its Entirety - Contains all four previously released DLC starring different detectives, upgraded graphics, 4K compatibility, and a new gallery mode!
-- 3D Detective Adventure - Explore the neon-drenched city of rain and its stygian counterpart in a full 3D environment to the fantastic phantasmal music of Masafumi Takada. Eccentric Cast - Meet the unique characters of the detective agency as they face an oppressive corporate-controlled security force designed by Rui Komatsuzaki.
-- A Project from the Team of Danganronpa - Experience the latest lucid-noir adventure written by Kazutaka Kodaka!
+- Bonus Original Printed Novel - Packed inside each game case is an original printed novel, “How to Be a Master Detective: A Halara Nightmare Case”!
 - Puzzles and Paradoxes - Adventure through the paths of challenging dungeons and use deductions to fight Mystery Phantoms trying to bury the truth.
+- A Project from the Team of Danganronpa - Experience the latest lucid-noir adventure written by Kazutaka Kodaka!
+- 3D Detective Adventure - Explore the neon-drenched city of rain and its stygian counterpart in a full 3D environment to the fantastic phantasmal music of Masafumi Takada. Eccentric Cast - Meet the unique characters of the detective agency as they face an oppressive corporate-controlled security force designed by Rui Komatsuzaki.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D47VC46P{{</world>}}

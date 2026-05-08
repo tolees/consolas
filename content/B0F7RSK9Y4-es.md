@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nuevo Mundo y Modos — Explora el exclusivo Nuevo Mundo 8 con desafíos frescos, tesoros ocultos y sorpresas adicionales esperando ser descubiertas. Pasa por los modos fácil, normal y un modo difícil completamente nuevo para desafiar tus habilidades, llevando una experiencia similar a Souls al género de plataformas con modificadores de dificultad.
-- Transición Fluida — Actualiza fácilmente al Director’s Cut, manteniendo todos los juegos guardados y el progreso (sin costo adicional si posees el juego original), y pon a prueba tus habilidades con nuevos trofeos y logros por conseguir.
-- Gráficos y Rendimiento Mejorados — Experimenta Nikoderiko como nunca antes con gráficos mejorados, animaciones optimizadas y rendimiento optimizado en todas las plataformas.
 - Nueva Música de David Wise — El legendario compositor regresa para componer la banda sonora del Mundo 8 con una nueva pista exclusiva.
+- Transición Fluida — Actualiza fácilmente al Director’s Cut, manteniendo todos los juegos guardados y el progreso (sin costo adicional si posees el juego original), y pon a prueba tus habilidades con nuevos trofeos y logros por conseguir.
 - Mejoras en la Accesibilidad — Nuevas voces e idiomas, además de un modo fácil aún más accesible, haciendo que el juego sea aún más apto para toda la familia.
+- Gráficos y Rendimiento Mejorados — Experimenta Nikoderiko como nunca antes con gráficos mejorados, animaciones optimizadas y rendimiento optimizado en todas las plataformas.
+- Nuevo Mundo y Modos — Explora el exclusivo Nuevo Mundo 8 con desafíos frescos, tesoros ocultos y sorpresas adicionales esperando ser descubiertas. Pasa por los modos fácil, normal y un modo difícil completamente nuevo para desafiar tus habilidades, llevando una experiencia similar a Souls al género de plataformas con modificadores de dificultad.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F7RSK9Y4{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Form alliances with new friends and familiar mobs, then lead the charge in epic battles against the fierce piglins to defend the Overworld.
 - Traverse a lush, dynamic world that’s rich in resources and different in each playthrough.
+- Form alliances with new friends and familiar mobs, then lead the charge in epic battles against the fierce piglins to defend the Overworld.
 - Challenge your friends or team up in intense battles as you defend your village while leading your units to destroy your opponents’ settlements.
 - Experience an epic legend from the Minecraft universe and the Overworld as you’ve never seen it before.
 

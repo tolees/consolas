@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Experimenta en primera persona misiones únicas con caras conocidas que te revelarán más datos de la historia de Unfinished Business
 - Tras la decisiva victoria de RoboCop sobre las bandas de Detroit, un nuevo capítulo de la trama tiene lugar en esta extensión independiente ambientada después de los eventos de RoboCop: Rogue City
 - Desata la fuerza inigualable de RoboCop y lleva a cabo devastadores movimientos para aplastar el cráneo de tus oponentes contra una pared de cemento o en la máquina expendedora de refrescos más cercana
-- Experimenta en primera persona misiones únicas con caras conocidas que te revelarán más datos de la historia de Unfinished Business
-- Pero cuando un grupo de mercenarios altamente preparados y equipados con innovadoras armas toma el control del edificio y lo convierte en su fortaleza mortal, RoboCop debe entrar en escena y frustrar sus planes para desestabilizar el orden público
 - A pesar de haber derrotado a New Guy in Town, el crimen sigue inundando las calles. Así que con el último proyecto de OCP, OmniTower —un enorme complejo de viviendas diseñado especialmente para cubrir las necesidades de los residentes del Viejo Detroit—, surge un destello de esperanza
+- Pero cuando un grupo de mercenarios altamente preparados y equipados con innovadoras armas toma el control del edificio y lo convierte en su fortaleza mortal, RoboCop debe entrar en escena y frustrar sus planes para desestabilizar el orden público
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FHBKTF4H{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Incluye un póster desplegable de 46 x 61 cm con una ilustración de Yusuke Naora, exdirector de arte en juegos de sagas legendarias como Final Fantasy, Code Age y Chrono Trigger
 - Descubre nuevos slimes revoltosos: Colecciona slimes nunca antes vistos en la Lejana, Lejana Pradera, como el rebotante Slime Algodón o el acuático Slime Pescador
-- Explora un vibrante mundo nuevo: Continúa las aventuras del criadero de slimes de Beatrix LeBeau en su travesía a una misteriosa isla con colores del arcoíris
-- ¡Todas las reservas* recibirán un código de descarga digital para la banda sonora oficial!
 - Construye un invernadero en la Isla Arcoíris: Gana newbucks con los slime plorts y recolecta recursos en la Isla Arcoíris para mejorar tu vacpack, construir nuevos dispositivos y expandir tu invernadero
+- Explora un vibrante mundo nuevo: Continúa las aventuras del criadero de slimes de Beatrix LeBeau en su travesía a una misteriosa isla con colores del arcoíris
+- Incluye un póster desplegable de 46 x 61 cm con una ilustración de Yusuke Naora, exdirector de arte en juegos de sagas legendarias como Final Fantasy, Code Age y Chrono Trigger
+- ¡Todas las reservas* recibirán un código de descarga digital para la banda sonora oficial!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FKH7XVR2{{</world>}}

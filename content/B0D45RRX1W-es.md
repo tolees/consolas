@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TY the Tasmanian Tiger 2: Bush Rescue HD
 - TY the Tasmanian Tiger HD
-- TY the Tasmanian Tiger: Bush Rescue Bundle (edición estándar) - óptimo para recién llegados y seguidores de la franquicia
-- TY the Tasmanian Tiger 4: Bush Rescue Returns
 - Varios juegos; un solo cartucho; los tres juegos de plataformas remasterizados en un multi-cartucho
+- TY the Tasmanian Tiger 2: Bush Rescue HD
+- TY the Tasmanian Tiger 4: Bush Rescue Returns
+- TY the Tasmanian Tiger: Bush Rescue Bundle (edición estándar) - óptimo para recién llegados y seguidores de la franquicia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D45RRX1W{{</world>}}

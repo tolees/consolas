@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye 6 años de actualizaciones
 - Un universo cambiante
+- Incluye 6 años de actualizaciones
 - Embárcate en un viaje increible
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

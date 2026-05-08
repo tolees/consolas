@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Botones Extra y Entradas Mecánicas: Dos mini bumpers y dos botones traseros bloqueables para mapeo personalizado. Botones ABXY de micro interruptor óptico y D-Pad mecánico de micro interruptor para velocidad eSports y retroalimentación táctil.
 - Sticks TMR y Gatillos Conmutables: Primer mando Xbox licenciado con sticks Mag-Res TMR para precisión suave y sin drift. Deslizadores traseros cambian sin esfuerzo entre control analógico Hall Effect y actuación instantánea por micro interruptor.
 - Software GameSir Nexus Mejorado: Reasigna sensibilidad de giro, ajusta curvas de respuesta de sticks o asigna entradas de ratón mediante la app GameSir Nexus mejorada.
-- Polling Pro 1000Hz & Mapeo Giroscopio (exclusivo PC): Tasa de polling 1000Hz para respuesta precisa de baja latencia. Giroscopio integrado mapeable a stick, botones o ratón para control de movimiento preciso.
-- Botones Extra y Entradas Mecánicas: Dos mini bumpers y dos botones traseros bloqueables para mapeo personalizado. Botones ABXY de micro interruptor óptico y D-Pad mecánico de micro interruptor para velocidad eSports y retroalimentación táctil.
 - Conectividad Tri-Modo: Cableado para Xbox, 2,4G inalámbrico & cableado para PC, y Bluetooth para Android. Cambia de modo al instante mediante el interruptor físico. Sujetacable desmontable garantiza juego estable y seguro por cable.
+- Polling Pro 1000Hz & Mapeo Giroscopio (exclusivo PC): Tasa de polling 1000Hz para respuesta precisa de baja latencia. Giroscopio integrado mapeable a stick, botones o ratón para control de movimiento preciso.
 - Base de Carga Inteligente y Cubiertas Intercambiables: Batería 1200mAh para largas sesiones; base carga sin esfuerzo y almacena receptor 2,4G. Personaliza tu mando con 2 D-Pads extra y 3 cubiertas magnéticas. Compatible con todas las cubiertas de la serie G7 como "Black Desert" y "Rabbit".
 
 [🛒 Aquí!!!]({{< param buyurl >}})

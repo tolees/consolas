@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Conoce a la estrella original de Disney, Oswald, el conejo afortunado, en un mundo lleno de detalles donde la narrativa es un elemento clave
 - Explora un Páramo actualizado, lleno de historias y de personajes Disney imperecederos; empuña el pincel mágico: usa pintura para crear y disolvente para modificar; cada elección da forma a tu historia
-- Disfruta de una mecánica de juego con las habilidades y gráficos optimizados en un escenario clásico
-- Juega una y otra vez gracias a los múltiples finales en función de tu estilo de juego óptimo y tus decisiones
 - Mickey cuenta con movimientos como el acelerón, el salto bomba y el sprint
+- Juega una y otra vez gracias a los múltiples finales en función de tu estilo de juego óptimo y tus decisiones
+- Disfruta de una mecánica de juego con las habilidades y gráficos optimizados en un escenario clásico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CW3LJWV1{{</world>}}

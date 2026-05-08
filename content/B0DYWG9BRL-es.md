@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hasta 30 horas de duración de la batería - Una batería inalámbrica con una larga duración de hasta 30 horas te mantiene en el asiento del piloto durante una carrera tras otra sin que haga falta una recarga
-- Modo de mando - Diseñado para ser el volante inalámbrico en tus títulos de carreras favoritos, Racer también cuenta con un modo de mando para usarlo como volante en juegos de conducción que no lo admiten, como Rocket Racing
 - Versatilidad en opciones de configuración - Compite desde el sofá con el soporte para piernas antideslizante ajustable o monta el Racer en una mesa o escritorio con las abrazaderas para mesa integradas
-- Con licencia para Xbox y PC – Racer tiene licencia oficial para Xbox Series X/S, Xbox One y PC con Windows 10/11
 - Sistema de carreras completo todo en uno - Controla las funciones esenciales como el acelerador, el freno y el cambio de marchas mediante las levas analógicas dedicadas y los botones de pulgar situados en el volante, sin que hagan falta pedales
+- Modo de mando - Diseñado para ser el volante inalámbrico en tus títulos de carreras favoritos, Racer también cuenta con un modo de mando para usarlo como volante en juegos de conducción que no lo admiten, como Rocket Racing
+- Con licencia para Xbox y PC – Racer tiene licencia oficial para Xbox Series X/S, Xbox One y PC con Windows 10/11
+- Hasta 30 horas de duración de la batería - Una batería inalámbrica con una larga duración de hasta 30 horas te mantiene en el asiento del piloto durante una carrera tras otra sin que haga falta una recarga
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DYWG9BRL{{</world>}}

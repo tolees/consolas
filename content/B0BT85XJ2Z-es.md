@@ -30,9 +30,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Montaje fijo del volante y la caja de velocidades con tornillos incluidos
 - Asiento hecho con telas altamente transpirables para maximizar la comodidad
-- Soporte de palanca de cambios incluido
-- Montaje fijo de los pedales en posiciones planas o inclinadas
 - Producto con licencia oficial de Sony PlayStation
+- Montaje fijo de los pedales en posiciones planas o inclinadas
+- Soporte de palanca de cambios incluido
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BT85XJ2Z{{</world>}}

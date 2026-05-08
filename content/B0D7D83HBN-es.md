@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - APLICACIÓN DE SUSCRIPCIÓN GRATUITA* La aplicación de SCUF de suscripción gratuita te permite ajustar las curvas de respuesta de los gatillos y sticks, guardar tus perfiles de juego y acceder a tus juegos favoritos.*Necesaria para la configuración inicial
-- BATERÍA CON 16 HORAS DE DURACIÓN: Disfruta de hasta 16 horas de juego con cualquiera de tus juegos compatibles favoritos sin preocuparte por agotar la batería del teléfono. Además, se incluye un cable de carga USB-C para que puedas volver al juego.
 - PALETAS TRASERAS PROGRAMABLES: Las dos paletas están en una posición ergonómica en la parte trasera de mando, lo cual permite un uso natural. Asigna funciones de ABXY o el D-pad a las paletas para determinadas acciones de los juegos y mantén los pulgares en los sticks para reaccionar más rápido.
-- STICKS ANTIDRIFT: Nuestros sticks con efecto Hall duran más. Estos sticks de tamaño completo pueden intercambiarse (forma alta, convexa o cóncava) para adaptarse a tu estilo de juego. Ajusta la sensibilidad de los sticks en la aplicación de SCUF según tu estilo de juego.
 - FORMA ERGONÓMICA: El diseño de mayor tamaño de NOMAD se adapta de manera natural a tus manos, para una mayor comodidad y un agarre mejorado que te permitirán jugar mejor y durante más tiempo.
+- STICKS ANTIDRIFT: Nuestros sticks con efecto Hall duran más. Estos sticks de tamaño completo pueden intercambiarse (forma alta, convexa o cóncava) para adaptarse a tu estilo de juego. Ajusta la sensibilidad de los sticks en la aplicación de SCUF según tu estilo de juego.
+- BATERÍA CON 16 HORAS DE DURACIÓN: Disfruta de hasta 16 horas de juego con cualquiera de tus juegos compatibles favoritos sin preocuparte por agotar la batería del teléfono. Además, se incluye un cable de carga USB-C para que puedas volver al juego.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D7D83HBN{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- La edición física incluye: 5 cartas con arte de los orbes.
+- Guardianes monstruosos: Poderosos guardianes protegen todos los mundos y debes enfrentarte a ellos en feroces batallas. Cada pelea es única y requiere que domines mecánicas nuevas y satisfactorias.
 - Mundos dentro de mundos: COCOON es una versión única del género de aventuras de rompecabezas, donde cada mundo existe dentro de un orbe que puedes llevar a la espalda. Comprenda la mecánica central de saltar entre mundos y combínelos, manipúlelos y reorganícelos para resolver intrincados rompecabezas.
 - Maquinaria alienígena: Interactúa con entornos alienígenas y dispositivos biomecánicos dejados atrás por una civilización antigua. Viaje a través de biomas únicos y diversos, desde estructuras industriales hasta enormes cavernas orgánicas, y descubra cómo están conectados entre sí.
-- La edición física incluye: 5 cartas con arte de los orbes.
 - Habilidades de orbe: Cada orbe tiene una habilidad que se puede desbloquear, convirtiendo así el orbe en una herramienta única para que la utilices en otros mundos. Usa estas habilidades para descubrir caminos y objetos ocultos, disparar proyectiles para activar interruptores y más.
-- Guardianes monstruosos: Poderosos guardianes protegen todos los mundos y debes enfrentarte a ellos en feroces batallas. Cada pelea es única y requiere que domines mecánicas nuevas y satisfactorias.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D4YXY784{{</world>}}

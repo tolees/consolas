@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Survival Horror donde los enemigos pueden matarte (¡y tú defenderte!): enfréntate a enemigos letales en un entorno donde cada encuentro puede ser mortal. No estás indefenso: puedes defenderte para sobrevivir... si tienes el valor necesario
-- La Edición Estándar incluye: Juego físico completo, Carátula Reversible y Amuleto Ofuda
-- Una ambientación japonesa increíble: adéntrate en entornos inspirados en la cultura y el folclore japonés, con una atmósfera densa, inquietante y auténtica. Cada escenario es una pieza clave del horror
 - Una historia de terror trágica y macabra: sumérgete en una narrativa oscura y emocionalmente intensa, donde el miedo no solo proviene de lo que acecha en las sombras
+- La Edición Estándar incluye: Juego físico completo, Carátula Reversible y Amuleto Ofuda
+- Survival Horror donde los enemigos pueden matarte (¡y tú defenderte!): enfréntate a enemigos letales en un entorno donde cada encuentro puede ser mortal. No estás indefenso: puedes defenderte para sobrevivir... si tienes el valor necesario
 - Gráficos espectaculares gracias a Unreal Engine 5: experimenta un apartado visual impresionante que ofrece escenarios realistas, efectos de iluminación avanzados y un nivel de detalle que intensifica cada momento de tensión
+- Una ambientación japonesa increíble: adéntrate en entornos inspirados en la cultura y el folclore japonés, con una atmósfera densa, inquietante y auténtica. Cada escenario es una pieza clave del horror
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FFBDGN2L{{</world>}}

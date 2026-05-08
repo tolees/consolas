@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Recorre callejones, vallas y tejados mientras aprendes el verdadero significado del hogar. El ritmo reflexivo del juego te da la oportunidad de dejarte llevar por las emociones del amor, la soledad y el abandono a medida que avanzas en la historia
-- Copycat cuenta con horas de diálogo (doblado al inglés) y un talentoso reparto de voces con subtítulos disponibles. Música original de Daniel Bunting. Acurrúcate con tu gatito y hazte con Copycat hoy mismo
 - La Edición Estándar incluye: Juego físico + Postal
+- Copycat cuenta con horas de diálogo (doblado al inglés) y un talentoso reparto de voces con subtítulos disponibles. Música original de Daniel Bunting. Acurrúcate con tu gatito y hazte con Copycat hoy mismo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FCYGJD4V{{</world>}}

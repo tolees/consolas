@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Incluye figuras de Super Mario, Goomba, Bob-Omb. Y como accesorio de juego, Tuberia y Poste con Bandera
 - Nintendo, Super Mario Bros Set Dehesa Bellotera con 3 figuras y con 2 accesorios
 - Recrea, juega y vive la emoción de los videojuegos de Super Mario Bros con estas figuras y accesorios de un emblematico escenario de Super Mario
-- Los accesorios son modulares y se pueden combinar con los de otros sets de Nintendo
 - Inicia o amplia el universo de Super Mario con estas figuras articuladas de 6 CM y con accesorios
-- Incluye figuras de Super Mario, Goomba, Bob-Omb. Y como accesorio de juego, Tuberia y Poste con Bandera
+- Los accesorios son modulares y se pueden combinar con los de otros sets de Nintendo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07H3KTG37{{</world>}}

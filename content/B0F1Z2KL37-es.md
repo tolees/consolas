@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Viaja por un amplio paisaje que oculta secretos en cada rincón. Forma tu propio camino y descubre los muchos secretos del más allá a tu propio ritmo.
-- Conoce y hazte amigo de todos los demás fantasmas malos que viven fuera del palacio. ¡Descubre cómo murieron y qué hizo que se enfrentaran al exilio eterno! Y luego ve al lugar favorito local, la Posada del pecador, para charlar con los fantasmas que te encuentres y mejorar tu equipo.
 - Completa rompecabezas, lucha contra jefes épicos y ábrete camino a escobazos por mazmorras en ruinas para conseguir nuevas mejoras y habilidades. Personaliza tu estilo de juego mezclando tus mejoras y usa las habilidades que reúnas para expandir tus horizontes.
+- Conoce y hazte amigo de todos los demás fantasmas malos que viven fuera del palacio. ¡Descubre cómo murieron y qué hizo que se enfrentaran al exilio eterno! Y luego ve al lugar favorito local, la Posada del pecador, para charlar con los fantasmas que te encuentres y mejorar tu equipo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F1Z2KL37{{</world>}}

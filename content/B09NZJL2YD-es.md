@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- La Deluxe Edition incluye el juego y el pack Ultimate, una compilación de 3 packs de contenido para el juego
 - el pack Expedición en la jungla, el pack Cazador de cocodrilos y el pack Antivicio.
+- La Deluxe Edition incluye el juego y el pack Ultimate, una compilación de 3 packs de contenido para el juego
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09NZJL2YD{{</world>}}

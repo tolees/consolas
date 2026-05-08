@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Emulación de juegos, prototipos recientemente rescatados y nunca lanzados, y otras joyas raras creadas para siete plataformas de hardware: Arcade, Atari 800, Atari 2600, Atari 5200, Atari 7800, Atari Jaguar, Atari Lynx.
 - Ahora con más de 140 juegos clásicos presentados con emulación de primera clase y mejoras modernas en la calidad de vida, y la capacidad de jugar juegos clásicos que no han estado disponibles durante mucho tiempo.
-- Una retrospectiva ampliada sobre la historia de los videojuegos que es imprescindible para coleccionistas y aficionados a los videojuegos.
 - Más de 13 nuevos segmentos de entrevistas exclusivas con figuras clave de la industria de los videojuegos, que incluyen entrevistas de archivo y contemporáneas de empleados, programadores y artistas de primera y tercera parte, historiadores, fanáticos y desarrolladores de juegos caseros.
 - Ahora con más de 140 juegos clásicos presentados con emulación de primera clase y mejoras modernas en la calidad de vida, y la capacidad de jugar juegos clásicos que no han estado disponibles durante mucho tiempo.
+- Emulación de juegos, prototipos recientemente rescatados y nunca lanzados, y otras joyas raras creadas para siete plataformas de hardware: Arcade, Atari 800, Atari 2600, Atari 5200, Atari 7800, Atari Jaguar, Atari Lynx.
+- Una retrospectiva ampliada sobre la historia de los videojuegos que es imprescindible para coleccionistas y aficionados a los videojuegos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D845ZCW3{{</world>}}

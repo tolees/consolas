@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- DISEÑA NUEVOS ESTILOS: Personaliza tus conjuntos, peinados y maquillaje
+- ESTILO ÚNICO: Adéntrate en el característico mundo 3D de Bratz
 - DESFILA POR LA PASARELA: Compite en juegos de desfiles de moda, baile y ejercicio
 - TOUR DE LA MODA: Viaja a seis ciudades de la moda, entre ellas Londres, Milán y Tokio
 - MODO MULTIJUGADOR: Juega en solitario o con hasta cuatro amigos
-- DISEÑA NUEVOS ESTILOS: Personaliza tus conjuntos, peinados y maquillaje
-- ESTILO ÚNICO: Adéntrate en el característico mundo 3D de Bratz
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F9Z131SG{{</world>}}

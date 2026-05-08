@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Elabora tu estrategia con diferentes movimientos y desata ataques de aliento a larga distancia o golpes cuerpo a cuerpo para tomar ventaja. O acumula energía para el nuevo Asalto Sincronizado, donde todo tu equipo une fuerzas para infligir un daño masivo.
 - Lucha por turnos: Experimenta combates estratégicos por turnos usando el popular sistema de piedra, papel o tijera con Fuerza, Velocidad y Técnica.
+- Elabora tu estrategia con diferentes movimientos y desata ataques de aliento a larga distancia o golpes cuerpo a cuerpo para tomar ventaja. O acumula energía para el nuevo Asalto Sincronizado, donde todo tu equipo une fuerzas para infligir un daño masivo.
 - Explora un mundo mejorado: Disfruta de nuevos gráficos 3D estilizados que dan vida a la serie Monster Hunter Stories. Explora de manera fluida amplios entornos sin transiciones de pantalla durante acciones de montura, como volar o escalar, ofreciéndote una sensación de libertad e inmersión mientras recorres áreas abiertas.
 - Entrena a tu equipo: Construye tu equipo y crea lazos con Monstruos icónicos de la saga Monster Hunter como Chatacabra o Rey Dau
 

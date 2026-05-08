@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hyperdimension Neptunia Re;Birth2: Sisters Generation - Standard Edition (PS4)
 - Hyperdimension Neptunia Re;Birth3: V Generation - Standard Edition (PS4)
-- Hyperdimension Neptunia Re;Birth1 + - Standard Edition (PS4)
-- Revisit Classic Neptunia RPG Style Battles – Battle with up to 3 characters on the field, with 3 more as support. Use them to perform special attacks or swap them out at any time!
 - The Goddesses are Back! – Previously available on PlayStation Vita in North America, now you can immerse yourself in the zany JRPG madness for the first time on PlayStation4!
+- Hyperdimension Neptunia Re;Birth2: Sisters Generation - Standard Edition (PS4)
+- Revisit Classic Neptunia RPG Style Battles – Battle with up to 3 characters on the field, with 3 more as support. Use them to perform special attacks or swap them out at any time!
+- Hyperdimension Neptunia Re;Birth1 + - Standard Edition (PS4)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FHKQZ5VP{{</world>}}

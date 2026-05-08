@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Botones L/ZL y R/ZR funcionales: Diseñado para que puedas usar fácilmente los L/ZL y R/ZR del Joy-Con en modo click, manteniendo un control total sin sacrificar comodidad.
-- Más base, más comodidad al jugar: Adaptador de ratón diseñado para los Joy-Con de Nintendo Switch 2. Tus mandos se convertirán en un ratón cómodo con más base y estabilidad para los juegos o la navegación de los mandos.
-- Respuesta precisa y controlada: Diseñado para Nintendo Switch 2 y para sacar el máximo provecho del sensor óptico de los Joy-Con. Ofrece una experiencia de control más precisa y sensible en el modo ratón.
 - Acceso total a los botones: El diseño del adaptador permite usar todos los botones de los Joy-Con sin restricciones, asegurando una experiencia completa y cómoda en modo ratón.
+- Botones L/ZL y R/ZR funcionales: Diseñado para que puedas usar fácilmente los L/ZL y R/ZR del Joy-Con en modo click, manteniendo un control total sin sacrificar comodidad.
+- Respuesta precisa y controlada: Diseñado para Nintendo Switch 2 y para sacar el máximo provecho del sensor óptico de los Joy-Con. Ofrece una experiencia de control más precisa y sensible en el modo ratón.
+- Más base, más comodidad al jugar: Adaptador de ratón diseñado para los Joy-Con de Nintendo Switch 2. Tus mandos se convertirán en un ratón cómodo con más base y estabilidad para los juegos o la navegación de los mandos.
 - Solución ergonómica y fácil: Su forma ergonómica y estructura ayudan a mantener la estabilidad del uso. Con estos adaptadores será muy fácil colocar los Joy-Con de Switch 2 reduciendo sobrecargas en manos y muñecas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

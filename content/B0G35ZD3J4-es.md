@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sword of the Necromancer es un juego Action RPG de exploración de mazmorras con elementos de Rogue-like en el que puedes revivir a los enemigos derrotados para hacerlos luchar a tu lado
 - Sword of the Necromancer: Resurrection, el remake en 3D del ARPG original, que presenta gráficos renovados, combate dinámico y un sistema táctico de invocaciones
 - En Whispike Survivors - Sword of the Necromancer controlarás uno de los monstruos de Sword of the Necromancer y harás que luche contra otras criaturas para que sea el más fuerte! ¿Fuiste derrotado? ¡No te preocupes! Puedes tomar la semilla de tu último monstruo, plantarla y recuperarlo...
 - La Edición Special incluye: Juego físico (3 en 1), Libro de arte, Hoja de pegatinas, Selección de la BSO, Set de Cartas y Caja de coleccionista
+- Sword of the Necromancer es un juego Action RPG de exploración de mazmorras con elementos de Rogue-like en el que puedes revivir a los enemigos derrotados para hacerlos luchar a tu lado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0G35ZD3J4{{</world>}}

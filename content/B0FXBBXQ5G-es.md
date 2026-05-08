@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Personaliza Sims adorables y decora sus mundos: Crea Sims irresistibles y personaliza los mundos a su alrededor; Desbloquea prendas y opciones de construcción a medida que completas diferentes tareas
 - Crea amistades con personajes adorables: Conoce a personajes divertidos y simpáticos llenos de personalidad; Algunos te acompañarán todo el tiempo y a otros los irás conociendo a medida que juegas y exploras
+- Construye; Diseña; Juega; Sonríe — ¡Tu lanzamiento retro favorito ya está en PlayStation 5 (disco)!
 - Una ciudad toda tuya: Construir y decorar tu propia casa (por dentro y por fuera) es solo una muestra de lo que es posible en MySims; Podrás poner nombre y desarrollar toda la ciudad mientras ayudas a su gente
 - Descubre dos historias cautivadoras: Relájate con encantadoras historias rebosantes de creatividad y descubrimiento; Explora dos mundos llenos de rompecabezas que resolver, ubicaciones por desbloquear y peculiares habitantes que necesitan ayuda
-- Construye; Diseña; Juega; Sonríe — ¡Tu lanzamiento retro favorito ya está en PlayStation 5 (disco)!
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FXBBXQ5G{{</world>}}

@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Explora diversos paisajes, ciudades y mucho más en un mundo basado en la mitología.
-- Explora diversos paisajes, ciudades y mucho más en un mundo basado en la mitología.
+- ¡Disfruta de más de 30 horas de contenido de historia y misiones secundarias opcionales!
 - ¡Lucha en tiempo real y pasa de un jugador de tu grupo a otro al instante!
 - La Edición Deluxe de Sword and Fairy: Together Forever Deluxe Edition incluye: Juego Completo en disco (PS4/PS5), Caja Coleccionista, Tarjeta de descarga con la Banda Sonora Digital y Skins Atuendos de Estilo Moderno (*Incluye dos códigos de descarga para temas dinámicos en PlayStation 4), Standees de los protagonistas en cartón, Lámina con efecto metálico, Llavero Hada de las hojas y Juego de Cartas “Journey Heaven-Earth”
-- ¡Disfruta de más de 30 horas de contenido de historia y misiones secundarias opcionales!
+- Explora diversos paisajes, ciudades y mucho más en un mundo basado en la mitología.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CPJSK12F{{</world>}}

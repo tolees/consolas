@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- En "Against the Storm" debes construir una vasta y próspera red de asentamientos poblados por diversas razas fantásticas
-- La batalla contra la Tormenta Devastadora continúa, introduciendo una nueva especie, dos biomas únicos y una variedad de nuevos edificios, órdenes, riesgos y recompensas.
-- La edición física incluye el contenido descargable Keepers of the Stone valorado en 14.99 €
 - Against the Storm es un juego de construcción de ciudades de fantasía oscura en el que debes reconstruir la civilización frente a lluvias apocalípticas.
 - Desarrollado por Eremite Games, este híbrido de estrategia y roguelike de fantasía ha recibido más de 29,000 reseñas positivas en Steam superando los 1.5 millones de uds vendidas en PC.
+- En "Against the Storm" debes construir una vasta y próspera red de asentamientos poblados por diversas razas fantásticas
+- La edición física incluye el contenido descargable Keepers of the Stone valorado en 14.99 €
+- La batalla contra la Tormenta Devastadora continúa, introduciendo una nueva especie, dos biomas únicos y una variedad de nuevos edificios, órdenes, riesgos y recompensas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F7S699NS{{</world>}}

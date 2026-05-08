@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hitman: World of Assassination PS5'
-date: 2026-05-03 18:51:05
+date: 2026-05-07 14:11:57
 image: 'https://m.media-amazon.com/images/I/41d31UxF8NL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

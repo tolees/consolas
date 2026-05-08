@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Stunning New Animations & Graphics
 - Experience N. Tense Platforming, Epic Challenges & Adventures
 - 3 Full Games, 100+ Levels & 2 Playable Characters
 - NEW! Play as Coco in ALL Three Games
+- Stunning New Animations & Graphics
 - NEW! Time Trials in ALL Three Games
 
 [🛒 Visítala!!!]({{< param buyurl >}})

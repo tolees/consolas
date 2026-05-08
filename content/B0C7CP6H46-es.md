@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ¡Compite contra tus oponentes, presume de tu estilo, colecciona autos famosos y más! Supera cualquier desafío y enriquece tu colección con los vehículos más legendarios jamás creados.
+- Mejora tu garaje con la Edición Limitada y obtén el Paquete Fitted Jungle que incluye contenido creado por la artista hawaiana Keola Rapozo: el Porsche 718 Spyder 2021 Fitted Edition, dos artículos de tocador para personalización y un paquete completo de avatares.
 - ¡Disfruta de una variedad de emocionantes actividades de conducción y elige cómo divertirte con tus coches! Descubre listas de reproducción y sumérgete en campañas temáticas para explorar los universos más emocionantes de la cultura automotriz,
 - *Oferta válida hasta fin de existencias. Cantidades disponibles limitadas.
-- Mejora tu garaje con la Edición Limitada y obtén el Paquete Fitted Jungle que incluye contenido creado por la artista hawaiana Keola Rapozo: el Porsche 718 Spyder 2021 Fitted Edition, dos artículos de tocador para personalización y un paquete completo de avatares.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C7CP6H46{{</world>}}

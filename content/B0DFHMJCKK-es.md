@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Explora las Ruinas Esmeralda, el Fiordo Helado y las Ciénagas Konpeito, entre otros biomas generados proceduralmente. Observa cómo sus recursos cambian cada vez que los visitas, así como el tamaño y la forma de los mapas.
-- Desde Chai, la vendedora de té de burbujas, hasta Aliso, el carpintero amable y grandullón; Paell está lleno de gente dulce y salada con la que entablar amistad.
-- Acaba con monstruos y enemigos con los poderes del salado, ácido, dulce, amargo, umami, helado y tostado, los cuales liberan increíbles efectos de fuego, veneno y electricidad, entre otros.
 - Disfruta de un mundo en el que puedes encontrar más de 100 recetas diferentes que preparar, desde rollitos de Popiah crujientes hasta deliciosa mermelada de kaya, pasando por pollo frito en dos tiempos con un toque ácido o dulces con frutos rojos por encima.
+- Desde Chai, la vendedora de té de burbujas, hasta Aliso, el carpintero amable y grandullón; Paell está lleno de gente dulce y salada con la que entablar amistad.
+- Explora las Ruinas Esmeralda, el Fiordo Helado y las Ciénagas Konpeito, entre otros biomas generados proceduralmente. Observa cómo sus recursos cambian cada vez que los visitas, así como el tamaño y la forma de los mapas.
+- Acaba con monstruos y enemigos con los poderes del salado, ácido, dulce, amargo, umami, helado y tostado, los cuales liberan increíbles efectos de fuego, veneno y electricidad, entre otros.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DFHMJCKK{{</world>}}

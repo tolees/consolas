@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Conectividad Tri-Modo: 2,4G inalámbrico & cableado para Xbox y PC, y Bluetooth para Android. Cambia de modo al instante mediante el interruptor físico. Sujetacable desmontable garantiza juego estable y seguro por cable.
-- Edición oficial WUCHANG: Fallen Feathers: Diseñado en colaboración con el juego, este mando presenta la imagen icónica de Wuchang y una textura táctil de escamas de dragón en los agarres, lo que lo convierte en el compañero perfecto para tu viaje.
 - Sticks TMR y Gatillos Conmutables: Primer mando Xbox licenciado con sticks Mag-Res TMR para precisión suave y sin drift. Deslizadores traseros cambian sin esfuerzo entre control analógico Hall Effect y actuación instantánea por micro interruptor.
+- Conectividad Tri-Modo: 2,4G inalámbrico & cableado para Xbox y PC, y Bluetooth para Android. Cambia de modo al instante mediante el interruptor físico. Sujetacable desmontable garantiza juego estable y seguro por cable.
 - Botones Extra y Entradas Mecánicas: Dos mini bumpers y dos botones traseros bloqueables para mapeo personalizado. Botones ABXY de micro interruptor óptico y D-Pad mecánico de micro interruptor para velocidad eSports y retroalimentación táctil.
-- Base de Carga Inteligente y Cubiertas Intercambiables: Batería 1200mAh para largas sesiones; base carga sin esfuerzo y almacena receptor 2,4G. Personaliza tu mando con 2 D-Pads extra y 3 cubiertas magnéticas. Compatible con todas las cubiertas de la serie G7 como "Black Desert" y "Rabbit".
+- Edición oficial WUCHANG: Fallen Feathers: Diseñado en colaboración con el juego, este mando presenta la imagen icónica de Wuchang y una textura táctil de escamas de dragón en los agarres, lo que lo convierte en el compañero perfecto para tu viaje.
 - Software GameSir Nexus Mejorado: Reasigna sensibilidad de giro, ajusta curvas de respuesta de sticks o asigna entradas de ratón mediante la app GameSir Nexus mejorada.
+- Base de Carga Inteligente y Cubiertas Intercambiables: Batería 1200mAh para largas sesiones; base carga sin esfuerzo y almacena receptor 2,4G. Personaliza tu mando con 2 D-Pads extra y 3 cubiertas magnéticas. Compatible con todas las cubiertas de la serie G7 como "Black Desert" y "Rabbit".
 - Polling Pro 1000Hz & Mapeo Giroscopio (exclusivo PC): Tasa de polling 1000Hz para respuesta precisa de baja latencia. Giroscopio integrado mapeable a stick, botones o ratón para control de movimiento preciso.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

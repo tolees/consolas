@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Nintendo - tarjeta de memoria con licencia para el sistema de interruptor de Nintendo
 - Agregue instantáneamente hasta 128 GB de espacio adicional
 - Compatibilidad: UHS microSDHC, microSDXC, microSDHC - I, y UHS - I microSDXC dispositivos de apoyo de acogida
+- Nintendo - tarjeta de memoria con licencia para el sistema de interruptor de Nintendo
 - velocidades de transferencia de hasta 100 MB / s para cargar partidas rápidas
 - Almacenar juegos digitales y contenido adicional en un lugar para jugar en cualquier lugar
 

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Defiende aquello en lo que crees y demuestra que merece la pena luchar por ello: esta es la llamada que todo Screamer debe responder para descubrir la oscura verdad que se esconde tras el duelo de carreras más brutal de la historia y su misterioso cabecilla.
 - Participa en batallas que combinan las carreras extremas con mecánicas de lucha para contar una historia fascinante protagonizada por personajes épicos, a la vez que conduces los vehículos más chulos para descubrir lo que oculta este mundo estilo anime.
+- Defiende aquello en lo que crees y demuestra que merece la pena luchar por ello: esta es la llamada que todo Screamer debe responder para descubrir la oscura verdad que se esconde tras el duelo de carreras más brutal de la historia y su misterioso cabecilla.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DQL98CXY{{</world>}}

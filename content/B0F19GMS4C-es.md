@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yasha: Legends of the Demon Blade - PS5'
-date: 2026-05-04 06:33:59
+date: 2026-05-07 08:17:57
 image: 'https://m.media-amazon.com/images/I/51+3I5jQcmL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

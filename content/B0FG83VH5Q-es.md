@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- EXPANSIÓN: ¡SUMÉRGETE EN LA ACUICULTURA!: La pesca, tanto en tierra como en el mar, permite a los acuicultores criar peces: una nueva forma de obtener recursos y otra vía de escape relajante, además de los campos, bosques y establos. La pesca recreativa desde la orilla, con caña en mano, completa la imagen apacible de la vida junto al agua. La expansión Highlands Fishing también incluye cebollas, ganado de las tierras altas, más de 20 nuevas máquinas y mucho más
 - CUATRO MAPAS ALREDEDOR DEL MUNDO: Construye una granja junto a ríos serpenteantes y antiguos silos de grano en Norteamérica, rodeado de estanques en Europa Central, en un exuberante paisaje del Este Asiático lleno de arrozales, o en el pueblo de Kinlaig, inspirado en Escocia: un paraíso verde de colinas onduladas y aguas abiertas
 - Farming Simulator 25: Highlands Fishing Edition incluye tanto el aclamado juego principal como la expansión Highlands Fishing. Disfruta de 26 cultivos, 4 mapas, más de 400 máquinas, más de 150 marcas auténticas y acuicultura además de agricultura, silvicultura y ganadería
+- EXPANSIÓN: ¡SUMÉRGETE EN LA ACUICULTURA!: La pesca, tanto en tierra como en el mar, permite a los acuicultores criar peces: una nueva forma de obtener recursos y otra vía de escape relajante, además de los campos, bosques y establos. La pesca recreativa desde la orilla, con caña en mano, completa la imagen apacible de la vida junto al agua. La expansión Highlands Fishing también incluye cebollas, ganado de las tierras altas, más de 20 nuevas máquinas y mucho más
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FG83VH5Q{{</world>}}

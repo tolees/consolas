@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una sólida vía de iniciación para los jugadores nuevos, que incluye una nueva ruta de nivel de autorización para ayudarte con el aprendizaje de los conceptos básicos y a ganar la confianza y habilidad necesarias antes de lanzarte a la acción táctica.
+- La destrucción no solo es el caos: es la herramienta para el éxito. Usa el entorno y aprovéchate de él: convierte las paredes en oportunidades.
 - *El acceso a igualadas y a la Copa Siege se desbloquea al nivel 50. El modo Dual Front no está disponible en PlayStation 4 y Xbox One
 - La Elite Edition incluye: - Acceso a los modos de juego Partida rápida, No igualada y Dual Front con una selección de agentes. - Acceso a las listas del modo igualado y la Copa Siege*. - Desbloqueo instantáneo de 16 agentes adicionales.
-- La destrucción no solo es el caos: es la herramienta para el éxito. Usa el entorno y aprovéchate de él: convierte las paredes en oportunidades.
+- Una sólida vía de iniciación para los jugadores nuevos, que incluye una nueva ruta de nivel de autorización para ayudarte con el aprendizaje de los conceptos básicos y a ganar la confianza y habilidad necesarias antes de lanzarte a la acción táctica.
 - Alterna entre ataque y defensa, adapta tu forma de afrontar los mapas y a los agentes. Siente la emoción y la intensidad de la acción mientras te aprovechas de la destrucción y los dispositivos para superar a los rivales en todas y cada una de las rondas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

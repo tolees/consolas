@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Kate Walker, una brillante abogada de Nueva York, es enviada a un remoto pueblo de los Alpes franceses para ultimar la venta de una antigua fábrica de autómatas. Pero lo que comienza como un encargo rutinario pronto se convierte en un extraordinario viaje a través de Europa del Este y sus paisajes nevados.
 - Un viaje inesperado, emocionante y profundamente emotivo que pondrá en tela de juicio todo lo que ella creía saber.
 - Acompañada por Oscar, un autómata leal y único en su especie, Kate se dispone a explorar lugares misteriosos y olvidados, llenos de personajes excéntricos, mientras sigue la pista de Hans Voralberg, un inventor genial que persigue un sueño aparentemente imposible: encontrar los últimos mamuts vivos en la mítica isla de Syberia.
-- Kate Walker, una brillante abogada de Nueva York, es enviada a un remoto pueblo de los Alpes franceses para ultimar la venta de una antigua fábrica de autómatas. Pero lo que comienza como un encargo rutinario pronto se convierte en un extraordinario viaje a través de Europa del Este y sus paisajes nevados.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F9PSVSDY{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Personaliza tu coche y crea un kart que se adapte perfectamente a tu estilo de conducción. Elige tus propios parachoques, ruedas y alerones, así como el estilo y el color para darle un toque único. Lúcete en la pista y demuestra quién es el rey del circuito.
 - Juega como Garfield, Odie, Jon y muchos más personajes icónicos de los dibujos animados. Cada piloto tiene su propia personalidad, haciendo de cada carrera una experiencia única y envolvente.
-- ¡Enfréntate a tus amigos en alocados circuitos de tres universos únicos! Encuentra tu camino a través de misteriosas escenas de detectives, enfréntate a los mares piratas o levanta polvo por viejos caminos de vaqueros.
 - Juega contra hasta ocho jugadores online en todo el mundo, ¡o disfruta del modo multijugador para hasta cuatro jugadores con el modo de pantalla dividida! Perfecto para competiciones frenéticas entre amigos o en noches de juegos familiares.
+- Personaliza tu coche y crea un kart que se adapte perfectamente a tu estilo de conducción. Elige tus propios parachoques, ruedas y alerones, así como el estilo y el color para darle un toque único. Lúcete en la pista y demuestra quién es el rey del circuito.
+- ¡Enfréntate a tus amigos en alocados circuitos de tres universos únicos! Encuentra tu camino a través de misteriosas escenas de detectives, enfréntate a los mares piratas o levanta polvo por viejos caminos de vaqueros.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F9PGKTFF{{</world>}}

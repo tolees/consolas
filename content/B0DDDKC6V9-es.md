@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Test your skills in Free Mode! The more hands-on Free Mode includes six original choreographed dances in a variety of musical genres. Keep the beat and enjoy the fruits of your training with catchy background music!
-- Voiceover option: English Language Format (Subtitles): American English, British English, Korean, Simplified Chinese, Traditional Chinese
 - Many support features to keep you motivated Includes a variety of options to ensure youll never feel overwhelmed or bogged down. Need to get a closer look at some choreography for a more complicated dance move? Change the camera angle to a profile view! Feeling good about what youve accomplished? High-five your instructor and get some reward stamps!
+- Voiceover option: English Language Format (Subtitles): American English, British English, Korean, Simplified Chinese, Traditional Chinese
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DDDKC6V9{{</world>}}

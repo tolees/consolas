@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Retroiluminación RGB dinámica: ilumina tu escritorio con 5 efectos de iluminación integrados, asigna un color a cada zona de iluminación
+- Diseño a prueba de polvo y salpicaduras: gracias a la protección IP42, no tienes que temer accidentes y puedes continuar tu juego sin interrupciones
 - Seis teclas especiales para macros: activa funciones, accesos directos o pulsaciones de teclas con seis teclas macro dedicadas con una sola pulsación de tecla
 - Reposamuñecas extraíble: un reposamuñecas de goma suave alivia las manos y proporciona una comodidad de juego duradera
-- Diseño a prueba de polvo y salpicaduras: gracias a la protección IP42, no tienes que temer accidentes y puedes continuar tu juego sin interrupciones
-- Retroiluminación RGB dinámica: ilumina tu escritorio con 5 efectos de iluminación integrados, asigna un color a cada zona de iluminación
 - Volumen y botones multimedia dedicados: control cómodo de la reproducción multimedia y control de volumen en un instante sin interrumpir el juego
 
 [🛒 Visítala!!!]({{< param buyurl >}})
