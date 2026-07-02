@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - También se incluyen los nuevos DLCs Atari Attire y Mascot Mayhem, que comprenden nuevas entregas, eventos emocionantes y extravagantes atuendos nuevos
-- Stunt Sets: Nueva isla gigante, 15 entregas nuevas, Vehículos totalmente nuevos, Objetos cosméticos con poderes, Nuevos métodos de transporte
-- Dress Code: Trabaja con estilo gracias a las nuevas camisas, pantalones, sombreros, estilos de labios, ¡y mucho más! Más de 80 objetos cosméticos nuevos entre los que elegir: modernos, inquietantes, divertidos... ¡Hay para todos los gustos
 - Cyberfunk: Nueva isla gigante, 15 entregas nuevas, Vehículos totalmente nuevos, Islas flotantes que visitar, Nuevos métodos de transporte
+- Dress Code: Trabaja con estilo gracias a las nuevas camisas, pantalones, sombreros, estilos de labios, ¡y mucho más! Más de 80 objetos cosméticos nuevos entre los que elegir: modernos, inquietantes, divertidos... ¡Hay para todos los gustos
+- Stunt Sets: Nueva isla gigante, 15 entregas nuevas, Vehículos totalmente nuevos, Objetos cosméticos con poderes, Nuevos métodos de transporte
 - Mascot Mayhem: 15 atuendos cosméticos temáticos de mascotas, 5 eventos multijugador, 10 misiones de entrega
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

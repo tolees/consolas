@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Seguro y estable: Hecho de metal sólido con un acabado en polvo, este soporte es resistente, no se oxida ni se despega fácilmente, garantizando una sujeción firme y confiable.
 - Compatibilidad amplia: Este soporte mural está diseñado para almacenar de manera segura tu consola Switch2, dock Switch2, Joy-Con y Switch Pro. Puedes instalar este kit cerca o al lado de tu TV para disfrutar de la mejor experiencia de juego en pantalla grande.
+- Seguro y estable: Hecho de metal sólido con un acabado en polvo, este soporte es resistente, no se oxida ni se despega fácilmente, garantizando una sujeción firme y confiable.
 - Kit de tornillos incluido: Viene con un kit completo de tornillos para la instalación, sin necesidad de compras adicionales. Está listo para instalar.
 - Instalación sencilla: Coloca el soporte horizontalmente, ajústalo al muro y aprieta los tornillos para una instalación rápida y fácil.
 - Diseño ventilado: El soporte cuenta con un gran orificio en el centro de la parte inferior, lo que favorece la disipación del calor y asegura un rendimiento óptimo de la consola.

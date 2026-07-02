@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Construye el parque de tus sueños y redescubre el superventas de simulación de montañas rusas tan aclamado por la crítica. De vuelta en esta nueva Edición Completa, revive la experiencia completa de RollerCoaster Tycoon 3 o sumérgete por primera vez para sentir la adrenalina del clásico que definió el género, y que viene acompañado de las expansiones ¡Empapados! y ¡Salvaje
-- Tu parque, tus reglas: Sea lo que sea lo que quieras crear, RollerCoaster Tycoon 3 te da las herramientas y la libertad para construir el parque de atracciones de tus sueños
-- Gestiona como un magnate: Controla las finanzas, las tiendas, los servicios y el personal del parque para triunfar en docenas de escenarios. Conviértete en todo un magnate y embárcate en una prometedora nueva carrera
 - Prepárate para una aventura ¡Salvaje! Esta edición completa incluye todo el contenido de las dos expansiones ¡Empapados! y ¡Salvaje! Construye el hábitat definitivo para tus animales
+- Construye el parque de tus sueños y redescubre el superventas de simulación de montañas rusas tan aclamado por la crítica. De vuelta en esta nueva Edición Completa, revive la experiencia completa de RollerCoaster Tycoon 3 o sumérgete por primera vez para sentir la adrenalina del clásico que definió el género, y que viene acompañado de las expansiones ¡Empapados! y ¡Salvaje
+- Gestiona como un magnate: Controla las finanzas, las tiendas, los servicios y el personal del parque para triunfar en docenas de escenarios. Conviértete en todo un magnate y embárcate en una prometedora nueva carrera
+- Tu parque, tus reglas: Sea lo que sea lo que quieras crear, RollerCoaster Tycoon 3 te da las herramientas y la libertad para construir el parque de atracciones de tus sueños
 - Prepárate para que todos acaben ¡Empapados! Afronta el desafío añadido de crear y gestionar divertidos parques acuáticos
 
 [🛒 Visítala!!!]({{< param buyurl >}})

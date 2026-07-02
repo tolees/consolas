@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gráficos mejorados - Las escenas y los modelos del juego han mejorado para que tanto la historia como los personajes resulten más llamativos. Además, se han mejorado los elementos visuales para todas las plataformas. El nuevo renderizado de las sombras y la luz de la linterna crea una atmósfera de terror más realista para los jugadores.
-- Nuevos atuendos - La selección de atuendos originales ha cambiado ligeramente y se han añadido otros nuevos. Cambia el atuendo de los personajes para vivir la investigación de otra forma.
 - Nuevo Snap Mode - Haz posar a los personajes y a los fantasmas con libertad para crear recuerdos espeluznantes en el nuevo Snap Mode. Tal vez acabes fotografiando a un fantasma por accidente...
+- Nuevos atuendos - La selección de atuendos originales ha cambiado ligeramente y se han añadido otros nuevos. Cambia el atuendo de los personajes para vivir la investigación de otra forma.
+- Gráficos mejorados - Las escenas y los modelos del juego han mejorado para que tanto la historia como los personajes resulten más llamativos. Además, se han mejorado los elementos visuales para todas las plataformas. El nuevo renderizado de las sombras y la luz de la linterna crea una atmósfera de terror más realista para los jugadores.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BWNMSYLF{{</world>}}

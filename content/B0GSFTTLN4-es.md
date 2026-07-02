@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Arsenal extremo: empuña un arsenal devastador de armas angelicales, demoníacas y terrenales, y abre un camino de destrucción a lomos de Ruina, el ardiente corcel fantasmal de la Guerra.​
+- Poder apocalíptico: desata la ira de la Guerra, combinando ataques brutales y habilidades sobrenaturales para diezmar a todos los que se interpongan en tu camino.​
 - Progresión del personaje: descubre poderosas reliquias antiguas, mejora tus armas, desbloquea nuevas habilidades y personaliza tu estilo de juego.​
+- Arsenal extremo: empuña un arsenal devastador de armas angelicales, demoníacas y terrenales, y abre un camino de destrucción a lomos de Ruina, el ardiente corcel fantasmal de la Guerra.​
 - Lucha contra el cielo y el infierno: lucha contra todos los que se interpongan en tu camino, desde las fuerzas angelicales cansadas de la guerra hasta las horribles hordas de demonios del infierno.​
 - Misión épica: lucha en los páramos y mazmorras infestadas de demonios de la Tierra devastada en tu búsqueda de venganza y redención.​
-- Poder apocalíptico: desata la ira de la Guerra, combinando ataques brutales y habilidades sobrenaturales para diezmar a todos los que se interpongan en tu camino.​
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0GSFTTLN4{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Joystick de acero resistente con botones de contacto de microinterruptor: preciso y robusto
-- Función AUTO: desencadena golpes repetitivos muy rápidos y función COMBO: programa y luego lanza golpes y movimientos especiales con sólo pulsar un botón.
 - 8 botones de acción con contactos reed de microinterruptor (interruptor de hoja): más suaves, silenciosos y altamente sensibles.
-- Revestimiento "Soft Touch", reposamuñecas de goma y cable de 3 metros.
 - Compatible con todos los juegos de PS4, Xbox Serie X/S, Xbox One, Pc y PS3 (Street Fighter 6, Tekken 7 y 8, Mortal Kombat, Guilty gear, etc.) gracias a su función de programación.
+- Función AUTO: desencadena golpes repetitivos muy rápidos y función COMBO: programa y luego lanza golpes y movimientos especiales con sólo pulsar un botón.
+- Joystick de acero resistente con botones de contacto de microinterruptor: preciso y robusto
+- Revestimiento "Soft Touch", reposamuñecas de goma y cable de 3 metros.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0C6XYYPMW{{</world>}}

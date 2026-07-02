@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sumérgete en un mundo de fantasía mitológico inspirado en la antigua Persia para experimentar una historia original e intrigante. Usa tu astucia para resolver acertijos, encontrar tesoros ocultos y completar misiones, para que descubras más sobre este mundo corrupto.
 - Aprovecha los poderes temporales con las habilidades de combate y acrobacias para realizar combos letales y derrotar a criaturas mitológicas y enemigos corruptos por el tiempo.
 - Sujeto a condiciones y restricciones. Se requiere una consola con reproductor de discos para actualizar las copias permitidas en el disco físico.
+- Sumérgete en un mundo de fantasía mitológico inspirado en la antigua Persia para experimentar una historia original e intrigante. Usa tu astucia para resolver acertijos, encontrar tesoros ocultos y completar misiones, para que descubras más sobre este mundo corrupto.
 - Descubra un mundo maldito inspirado en la antigua Persia lleno de atracciones increíbles y explore una serie de biomas altamente detallados, cada uno con una identidad precisa y poblado por sus propias trampas y maravillas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

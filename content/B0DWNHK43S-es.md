@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Descubre runas poderosas que mejorarán tus habilidades en tu búsqueda a través de densos bosques, cumbres nevadas y oscuras criptas antiguas para salvar a los guardianes perdidos.
-- Viaja con total libertad por un enorme y antiguo mundo abierto que encierra una rica historia años ha olvidada. Explora biomas únicos y de gran atractivo visual, cada uno con sus propios desafíos y secretos por descubrir.
-- Embárcate en la aventura de un zorro pedido lejos de su casa en un mundo antiguo en ruinas. Busca a los guardianes legendarios perdidos con la ayuda de tu sabio acompañante corvino y libéralos de las garras de Grimnir, el chamán oscuro.
-- Enfréntate a formidables enemigos mientras salvas a las legendarias bestias guardianas en emocionantes encuentros centrados en puzles.
 - Personaliza el aspecto y las habilidades de tu zorro para que se adapten a tu estilo de juego de manera que cada partida sea única.
+- Viaja con total libertad por un enorme y antiguo mundo abierto que encierra una rica historia años ha olvidada. Explora biomas únicos y de gran atractivo visual, cada uno con sus propios desafíos y secretos por descubrir.
+- Descubre runas poderosas que mejorarán tus habilidades en tu búsqueda a través de densos bosques, cumbres nevadas y oscuras criptas antiguas para salvar a los guardianes perdidos.
+- Enfréntate a formidables enemigos mientras salvas a las legendarias bestias guardianas en emocionantes encuentros centrados en puzles.
+- Embárcate en la aventura de un zorro pedido lejos de su casa en un mundo antiguo en ruinas. Busca a los guardianes legendarios perdidos con la ayuda de tu sabio acompañante corvino y libéralos de las garras de Grimnir, el chamán oscuro.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DWNHK43S{{</world>}}

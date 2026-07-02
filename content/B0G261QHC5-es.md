@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Características de la Deluxe Edition física que incluye todo este contenido en disco/cartucho:
-- BlazBlue Entropy Effect X, edición estándar, Dos conjuntos de paleta de personajes
-- Paleta de personajes de BlazBlue [Archivo X] (14 personajes) Hibiki,Ragna,Noel, Λ-No.11, Es, Rachel, Taokaka, Jin, Kokonoe, Hakumen, Mai, Hazama, Bullet, Naoto (Este conjunto recibirá paletas adicionales para los personajes que se incorporen en futuras actualizaciones.)
-- Banda sonora original completa de BlazBlue Entropy Effect X (5 colecciones, 91 pistas en total) BSO de ACE: Entrenamiento mental, BSO de ACE: Fenómeno, BSO de ACE: Entrenamiento mental II, BSO de ACE: Voz Sobrenatural, BSO de BlazBlue Entropy Effect X, edición Infinity
 - Paleta de personajes de BlazBlue [El otro lado] (14 personajes) Hibiki, Ragna, Noel, Λ-No.11, Es, Rachel, Taokaka, Jin,Kokonoe, Hakumen,Mai, Hazama, Bullet, Naoto, (Este conjunto no incluye paletas de personajes futuros, que podrían venderse por separado.)
+- Banda sonora original completa de BlazBlue Entropy Effect X (5 colecciones, 91 pistas en total) BSO de ACE: Entrenamiento mental, BSO de ACE: Fenómeno, BSO de ACE: Entrenamiento mental II, BSO de ACE: Voz Sobrenatural, BSO de BlazBlue Entropy Effect X, edición Infinity
+- Características de la Deluxe Edition física que incluye todo este contenido en disco/cartucho:
+- Paleta de personajes de BlazBlue [Archivo X] (14 personajes) Hibiki,Ragna,Noel, Λ-No.11, Es, Rachel, Taokaka, Jin, Kokonoe, Hakumen, Mai, Hazama, Bullet, Naoto (Este conjunto recibirá paletas adicionales para los personajes que se incorporen en futuras actualizaciones.)
+- BlazBlue Entropy Effect X, edición estándar, Dos conjuntos de paleta de personajes
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G261QHC5{{</world>}}

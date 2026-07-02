@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Fallout 4: Anniversary Edition te trae la épica historia posnuclear completa en un único y definitivo pack.
-- Además, más de 150 artículos del Club de creación, que incluyen armas únicas, conjuntos de servoarmaduras, paquetes de construcción, trabajos de pintura, casas únicas e incluso la posibilidad de que Albóndiga adopte la apariencia de otra raza para enriquecer tu viaje por la Commonwealth.
-- El páramo es tuyo para explorarlo de nuevo.
 - Incluye el juego base completo y las 6 expansiones oficiales: Automatron, Wasteland Workshop, Far Harbor, Contraptions Workshop, Vault-Tec Workshop y Nuka-World.
+- El páramo es tuyo para explorarlo de nuevo.
+- Además, más de 150 artículos del Club de creación, que incluyen armas únicas, conjuntos de servoarmaduras, paquetes de construcción, trabajos de pintura, casas únicas e incluso la posibilidad de que Albóndiga adopte la apariencia de otra raza para enriquecer tu viaje por la Commonwealth.
 - Celebra una década de aventuras, supervivencia y elecciones en un mundo que ha cambiado para siempre.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

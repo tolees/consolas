@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ✦ REVIVE LA ESENCIA DE LO SOULSLIKE CLÁSICOS: Experimenta enfrentamientos estratégicos en un mundo lleno de misterios y una historia profunda narrada a través del entorno y de personajes enigmáticos que encontrarás a lo largo de tu viaje.
+- ✦ ELIGE TU ESTILO DE LUCHA: Domina el combate cuerpo a cuerpo, el ataque a distancia o el poder arcano de la magia.
+- The Bearer & The Last Flame es una aventura de acción y fantasía oscura. En un reino donde la muerte campa a sus anchas, un alma viva ha recibido su encargo. En tus manos está el valor, la determinación y el coraje para derrotar a la oscuridad de los cinco reinos. Transporta la última llama y devuelve a las bestias de la noche al reino de las tinieblas.
+- ✦ DIFICULTAD DESAFIANTE: Domina un sistema de combate en el que cada golpe cuenta. Enfréntate a enemigos exigentes.
 - ✦ ESCOGE ENTRE DIVERSOS PERSONAJES: Selecciona a tu héroe entre distintos personajes procedentes de mundos únicos.
 - ✦ EXPLORA LAS VASTAS TIERRAS DE HIPERBOREA: Atraviesa mazmorras, cuevas y castillos en una aventura épica de fantasía medieval.
-- ✦ ELIGE TU ESTILO DE LUCHA: Domina el combate cuerpo a cuerpo, el ataque a distancia o el poder arcano de la magia.
-- ✦ REVIVE LA ESENCIA DE LO SOULSLIKE CLÁSICOS: Experimenta enfrentamientos estratégicos en un mundo lleno de misterios y una historia profunda narrada a través del entorno y de personajes enigmáticos que encontrarás a lo largo de tu viaje.
-- The Bearer & The Last Flame es una aventura de acción y fantasía oscura. En un reino donde la muerte campa a sus anchas, un alma viva ha recibido su encargo. En tus manos está el valor, la determinación y el coraje para derrotar a la oscuridad de los cinco reinos. Transporta la última llama y devuelve a las bestias de la noche al reino de las tinieblas.
 - Características: 5 localizaciones distintas, cada una con enemigos y armas únicos. Variedad de NPCs y misiones secundarias. Variedad de armas, objetos y enemigos.
-- ✦ DIFICULTAD DESAFIANTE: Domina un sistema de combate en el que cada golpe cuenta. Enfréntate a enemigos exigentes.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G3Q6BFKQ{{</world>}}

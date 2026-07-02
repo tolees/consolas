@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Collect more than 250 vehicles, from compacts to rally cars and even prototypes!
+- Race solo or challenge your friends in split-screen for up to 4 players!
 - This special Podium Edition includes 2 games in 1 PLUS original soundtrack album from both games!
 - Feel the racing excitement of the 90s - A love letter to the world of motor sports.
-- Race solo or challenge your friends in split-screen for up to 4 players!
-- Collect more than 250 vehicles, from compacts to rally cars and even prototypes!
 - Includes online Leaderboards
 
 [🛒 Visítala!!!]({{< param buyurl >}})

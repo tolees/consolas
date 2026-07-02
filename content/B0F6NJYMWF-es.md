@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 16 botones programables: Todos los poderes del mundo, a su alcance. Tenga un botón listo para cada poder, consumible, acción y ataque gracias a los 16 botones programables.
-- MARKSMAN S de 33.000 PPP increíblemente preciso: Dispare a la cabeza, escanee todo el mapa, haga ping a sus compañeros de equipo..., y todo con una precisión asombrosa gracias al sensor óptico MARKSMAN S de 33.000 PPP. Con una detección de PPP mejorada, seguimiento IPS y un menor consumo de energía en comparación con la versión anterior, es una actualización que vale la pena.
 - Hasta 150 horas de batería inalámbrica: Despídase de la ansiedad por la batería y disfrute de hasta 150 horas* de incursiones, tareas y saqueos con una sola carga. Carga completa en 90 minutos o menos *Hasta 150 horas a través de 2,4 GHz con RGB desactivado, hasta 500 horas a través de Bluetooth con RGB desactivado
-- Libertad inalámbrica rápida y de baja latencia: Deshágase de los cables y del retraso. SLIPSTREAM WIRELESS ofrece una conexión inferior a 1 ms en PC o Mac con sondeo avanzado de 1.000 Hz, hasta dos veces más rápido que los ratones inalámbricos estándar. También puede conectarlo mediante Bluetooth o USB para cargarlo mientras juega.
 - Cómodo para cualquier tamaño de mano: Ajuste el Key Slider patentado para obtener 12 botones en la posición perfecta para su pulgar. La forma contorneada del ratón proporciona un agarre cómodo y ayuda a reducir la tensión de la muñeca.
+- 16 botones programables: Todos los poderes del mundo, a su alcance. Tenga un botón listo para cada poder, consumible, acción y ataque gracias a los 16 botones programables.
+- Libertad inalámbrica rápida y de baja latencia: Deshágase de los cables y del retraso. SLIPSTREAM WIRELESS ofrece una conexión inferior a 1 ms en PC o Mac con sondeo avanzado de 1.000 Hz, hasta dos veces más rápido que los ratones inalámbricos estándar. También puede conectarlo mediante Bluetooth o USB para cargarlo mientras juega.
+- MARKSMAN S de 33.000 PPP increíblemente preciso: Dispare a la cabeza, escanee todo el mapa, haga ping a sus compañeros de equipo..., y todo con una precisión asombrosa gracias al sensor óptico MARKSMAN S de 33.000 PPP. Con una detección de PPP mejorada, seguimiento IPS y un menor consumo de energía en comparación con la versión anterior, es una actualización que vale la pena.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F6NJYMWF{{</world>}}

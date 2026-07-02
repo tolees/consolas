@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Esta edición física incluye un set de cuatro cartas coleccionables Keepsake, con luchadores jugables seleccionados del plantel 3 contra 3 del juego.
 - Invincible VS cuenta con diversos modos de juego, como un cautivador modo historia cinematográfico que narra una historia original creada por uno de los guionistas de la serie animada.
-- También recibirás una tarjeta impresa Guía de controles para ayudarte a entrar rápidamente en Invincible VS y dominar su combate veloz y repleto de combos.
+- Esta edición física incluye un set de cuatro cartas coleccionables Keepsake, con luchadores jugables seleccionados del plantel 3 contra 3 del juego.
 - Desata combinaciones demoledoras a través de combates rápidos e inteligentes tácticas defensivas para dejar un rastro de sangre y destrucción a tu paso.
+- También recibirás una tarjeta impresa Guía de controles para ayudarte a entrar rápidamente en Invincible VS y dominar su combate veloz y repleto de combos.
 - Invincible VS es un brutal juego de lucha de 3 contra 3 con superhéroes ambientado en el universo de Invencible, donde puedes luchar hasta la muerte con un equipo formado por los personajes más aclamados en ubicaciones icónicas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

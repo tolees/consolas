@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Sobrevive a oleadas de enemigos para alcanzar el siguiente nivel de malicia y desesperación, recoge potenciadores, enfréntate a enemigos cada vez más desafiantes y aumenta tu multiplicador de puntuación a medida que encadenes múltiples muertes.
 - Guía a tu héroe a través de tormentas de balas, desafía a demonios y dioses, en una épica y adrenalínica lucha contra lo desconocido, donde todo es oscuro y arcano. Profundiza, encuentra el ojo oculto que todo lo vigila.
 - Z-Warp es un intenso shootem up vertical presentado en estilo retro pixel art, que ofrece una frenética acción inspirada en los arcades,
-- Sobrevive a oleadas de enemigos para alcanzar el siguiente nivel de malicia y desesperación, recoge potenciadores, enfréntate a enemigos cada vez más desafiantes y aumenta tu multiplicador de puntuación a medida que encadenes múltiples muertes.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CRWKX115{{</world>}}

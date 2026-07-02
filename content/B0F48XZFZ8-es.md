@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ¡Montones de juegos de palabras!
 - Voces completas para cada personaje
 - Al menos 3 finales por cada candidato romántico
-- Narrativas ramificadas
 - 100 personajes con los que puedes tener citas
+- ¡Montones de juegos de palabras!
+- Narrativas ramificadas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F48XZFZ8{{</world>}}

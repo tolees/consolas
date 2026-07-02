@@ -28,14 +28,14 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Joystick que incorpora 4 módulos de botones de cabezal de joystick intercambiables y 14 botones con interruptores táctiles reasignables con configuración de Xbox (Guía Xbox, Compartir…)
 - Icónicos controles de cuadrante de Airbus que incluyen compensación, tren de aterrizaje, freno automático, compensador del timón y freno de estacionamiento, para una inmersión total
 - 31 botones de acciones con sensaciones réplica de las de Airbus y 4 ejes en el cuadrante para una multitud de posibilidades en vuelo
+- Tecnología de sensores magnéticos sin contacto, sin potenciómetros, para lograr una vida útil ilimitada y una precisión óptima
+- Haz que tu ecosistema Thrustmaster Airbus existente sea compatible con Xbox a través de una conectividad simplificada gracias al nuevo ecosistema
+- Joystick que incorpora 4 módulos de botones de cabezal de joystick intercambiables y 14 botones con interruptores táctiles reasignables con configuración de Xbox (Guía Xbox, Compartir…)
+- Réplicas ergonómicas de la palanca de control lateral y del cuadrante de aceleración de Airbus (tipo A320), con licencia oficial de Airbus y Xbox Series X|S
 - Integrado automáticamente en el juego Microsoft Flight Simulator 2020 (se vende por separado) en Xbox Series X|S y PC
 - Acelerador mejorado con mecanismo inversor de empuje integrado y control del timón girando el mango de la palanca de control lateral (bloqueable/desbloqueable)
-- Tecnología de sensores magnéticos sin contacto, sin potenciómetros, para lograr una vida útil ilimitada y una precisión óptima
-- Réplicas ergonómicas de la palanca de control lateral y del cuadrante de aceleración de Airbus (tipo A320), con licencia oficial de Airbus y Xbox Series X|S
-- Haz que tu ecosistema Thrustmaster Airbus existente sea compatible con Xbox a través de una conectividad simplificada gracias al nuevo ecosistema
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B4SS2DNS{{</world>}}

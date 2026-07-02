@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Explora enormes entornos de parkour verticales y únicos.
-- La Edición Dual Pack incluye una copia física del juego y un código de descarga para regalar.
-- Desbloquea más de 100 opciones de personalización para tu personaje y tu paloma.
-- Usa tu paloma mensajera para descubrir nuevas zonas, viajar rápido y planificar rutas.
-- Decenas de desafíos y modos de juego: en solitario o con amigos (hasta 4 jugadores): TAG, Captura la Bandera, Modo Libre y Batalla de Trucos.
 - Descubre, aprende y domina cada truco, movimiento y sus infinitas combinaciones
+- Decenas de desafíos y modos de juego: en solitario o con amigos (hasta 4 jugadores): TAG, Captura la Bandera, Modo Libre y Batalla de Trucos.
+- La Edición Dual Pack incluye una copia física del juego y un código de descarga para regalar.
+- Usa tu paloma mensajera para descubrir nuevas zonas, viajar rápido y planificar rutas.
+- Explora enormes entornos de parkour verticales y únicos.
+- Desbloquea más de 100 opciones de personalización para tu personaje y tu paloma.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FM8SX3LB{{</world>}}

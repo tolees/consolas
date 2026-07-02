@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Nintendo Switch 2 versión en tarjeta con clave de juego
+- La edición definitiva Yakuza 0 Directors Cut es la edición definitiva de la historia de origen tan aclamada por la crítica, ahora en Nintendo Switch 2.
 - Diferentes estilos de combate Tanto Kiryu como Majima tienen tres estilos de combate intercambiables con los que puedes romper cráneos a voluntad, crear armas y más. A todos les gusta una buena aventura con comandos fáciles de aprender y habilidades del otro mundo.
 - Un drama de crimen épico Lucha como si no hubiera mañana en los distritos de Tokio y Osaka como el yakuza Kazuma Kiryu y el gerente del club de cabaret Goro Majima. Un crimen drama épico donde dos destinos se entrelazan y dan vida a la leyenda.
-- La edición definitiva Yakuza 0 Directors Cut es la edición definitiva de la historia de origen tan aclamada por la crítica, ahora en Nintendo Switch 2.
-- Nintendo Switch 2 versión en tarjeta con clave de juego
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F67CFW4G{{</world>}}

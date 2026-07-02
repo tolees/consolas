@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Incluye todas las expansiones y actualizaciones en una edición definitiva
 - Combate más fluido y ágil
+- Incluye todas las expansiones y actualizaciones en una edición definitiva
 - Mejores texturas, efectos de iluminación y campo de visión
 - Interfaz moderna y compatibilidad completa con mandos
 - Correcciones surgidas de la comunidad y mayor estabilidad

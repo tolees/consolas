@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ayuda a prolongar el tiempo de uso de la consola
-- La batería está diseñada en función de la especificación de la batería incorporada para la consola 3DS
-- Batería de iones de litio; Voltaje: 3.7V; Capacidad: 1300 mAh
-- Nota: Nunca se quede sin energía de la batería cuando está a punto
 - Desmontar y luego abrir la cubierta inferior de la consola para reemplazar la batería
+- Batería de iones de litio; Voltaje: 3.7V; Capacidad: 1300 mAh
+- Ayuda a prolongar el tiempo de uso de la consola
+- Nota: Nunca se quede sin energía de la batería cuando está a punto
+- La batería está diseñada en función de la especificación de la batería incorporada para la consola 3DS
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00FJ2WCCS{{</world>}}

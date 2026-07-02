@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- (Re)descubre por qué este juego es uno de los más divertidos de la historia
 - Disfruta de armas como la pistola de sondas anales
+- (Re)descubre por qué este juego es uno de los más divertidos de la historia
+- Vive el lado oscuro de una invasión alienígena estilo años 50
 - Hazte pasar por humano e infíltrate en su frágil democracia
 - Reconstruido desde cero en todo su galáctico esplendor
-- Vive el lado oscuro de una invasión alienígena estilo años 50
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07T14YQYZ{{</world>}}

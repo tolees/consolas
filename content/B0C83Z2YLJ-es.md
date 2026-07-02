@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Ha sido probado para resistir más de 25000 doblamientos.
-- Paquete de 2 cables USB-C a USB-C (PVC, blancos)
-- Entre los dispositivos USB-C compatibles con la carga rápida: iPhone 15, iPhone 15 Plus, iPhone 15 Pro, iPhone 15 Pro Max, Samsung Galaxy S24, S24+, S24 Ultra, S23, Note, Google Pixel, iPad Pro, Nintendo Switch, MacBook Pro, MacBook Air y otros (la batería del iPad Pro al 50 % en 75 minutos).
-- Cable de USB-C a USB-C.
 - Suministra corriente a tu smartphone USB-C por carga rápida, de 0 a 50 % en 36 minutos (si se utiliza junto a un cargador USB-C de 18 W o superior).
+- Cable de USB-C a USB-C.
+- Ha sido probado para resistir más de 25000 doblamientos.
+- Entre los dispositivos USB-C compatibles con la carga rápida: iPhone 15, iPhone 15 Plus, iPhone 15 Pro, iPhone 15 Pro Max, Samsung Galaxy S24, S24+, S24 Ultra, S23, Note, Google Pixel, iPad Pro, Nintendo Switch, MacBook Pro, MacBook Air y otros (la batería del iPad Pro al 50 % en 75 minutos).
+- Paquete de 2 cables USB-C a USB-C (PVC, blancos)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C83Z2YLJ{{</world>}}

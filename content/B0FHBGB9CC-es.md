@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Destapa el malvado complot
+- Conviértete en un verdadero samurái
 - Protege los humildes asentamientos
 - Diabluras de samuráis para todos
-- Conviértete en un verdadero samurái
-- Destapa el malvado complot
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FHBGB9CC{{</world>}}

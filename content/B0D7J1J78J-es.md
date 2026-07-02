@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Modo Djokovic: Juega como Djokovic a través de los partidos más icónicos de su carrera en los torneos ATP y gana los partidos perdidos
-- Más de 120 en el lanzamiento, incluidos los tres grandes y más de 50 en todo el calendario ATP/WT
 - Modo Online: un modo en línea personalizable en el que puedes enfrentarte a otros jugadores
 - Modo carrera: El modo carrera te permite crear tu propio jugador y aspirar a convertirte en el número uno del mundo. Gestiona tu reputación, asiste a ruedas de prensa y vive una carrera tanto dentro como fuera de la cancha. Mejora tus habilidades con un sistema de entrenamiento y toma decisiones clave sobre tu estado de forma y selección de torneos
+- Más de 120 en el lanzamiento, incluidos los tres grandes y más de 50 en todo el calendario ATP/WT
 - Función de comunidad: Comparte con la comunidad tus propios diseños de logos, sedes y jugadores
 
 [🛒 Aquí!!!]({{< param buyurl >}})

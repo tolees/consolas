@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Escape: Solve thrilling mysteries while exploring a locked environment. When you find the true answer beyond the surface level of logic, the door to escape will open!
-- Somnium: Explore the eccentric dream world of potential suspects to uncover clues and secret memories!
 - Investigation: Use the special functions in Dates left eye to gather information that will lead to Iriss whereabouts! Familiar and new characters will also appear!
+- Somnium: Explore the eccentric dream world of potential suspects to uncover clues and secret memories!
+- Escape: Solve thrilling mysteries while exploring a locked environment. When you find the true answer beyond the surface level of logic, the door to escape will open!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0G2SS92SK{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 🎮Fácil de instalar y retirar: Incluye una pestaña para facilitar la extracción de la carcasa de manera fácil y segura.
-- 🎮Funda mando PS5 rígida: Skin para mando de PlayStation 5 con material de plástico de alta calidad y acabado mate en la superficie para que juegues de manera cómoda y divertida.
 - 🎮Licencia oficial: Con el sello oficial de la liga de los reyes. Es el regalo perfecto para el fiel seguidor de la Kings League.
 - 🎮12 pegatinas para el panel táctil: Una pegatina para cada equipo, así eres tu quien elige. ¡Pega el sticker en el touchpad y disfruta del pack completo!
+- 🎮Fácil de instalar y retirar: Incluye una pestaña para facilitar la extracción de la carcasa de manera fácil y segura.
 - 🎮Grips protectores: Agarre asegurado gracias a los grips que se incluyen en el pack. El relieve del logo de Kings League en los grips ofrece agarre para evitar deslizamientos mientras juegas.
+- 🎮Funda mando PS5 rígida: Skin para mando de PlayStation 5 con material de plástico de alta calidad y acabado mate en la superficie para que juegues de manera cómoda y divertida.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FSD9LNSH{{</world>}}

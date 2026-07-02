@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- The kingdom of Temirana awaits – Enjoy a deep storyline with five possible routes that blends political intrigue with romance and drama. Follow the hierarchy in the Temirana family bloodline and discover the personal histories of the Tragic Knights as Cecilia balances her expectations as a princess with her relationships to her newly appointed royal guard.
 - The ultimate choice is yours! – The Lucky Princess is faced with making paramount decisions that can have valuable results. These choices appear during individual routes and are the only way to access certain epilogues after individual character endings, so there is a lot riding on these particular selections!
+- The kingdom of Temirana awaits – Enjoy a deep storyline with five possible routes that blends political intrigue with romance and drama. Follow the hierarchy in the Temirana family bloodline and discover the personal histories of the Tragic Knights as Cecilia balances her expectations as a princess with her relationships to her newly appointed royal guard.
 - Fortune favors the lucky – Certain choices appear when the Lucky Princess is in danger. She has a special ability to see impending dangers highlighted by a glow, but it is up to the player to decide how to avoid these dangers. Make the right choices to avoid even the greatest of tragedies.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

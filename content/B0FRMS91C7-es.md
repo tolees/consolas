@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Celebra 25 años de HITMAN con la Anniversary Box de HITMAN World of Assassination, que incluye artículos coleccionables:
-- Paquete Celebridades. Incluye los paquetes del Inmortal, el Pincha, el Spagat y el Banquero, que desbloquean objetos estéticos inspirados en los objetivos escurridizos y permiten acceder a las misiones.
-- - HITMAN World of Assassination (portada del 25.o aniversario). Incluye lo mejor de HITMAN, HITMAN 2 y HITMAN 3, incluida la campaña principal, intensificaciones del modo Contrato, el modo Freelancer y contenido en línea.
 - - Caja 3D "Maestro de ajedrez". Nadie está a salvo del Agente 47. Con la ICA19 Silverballer en mano, aguarda su próximo encargo en esta exclusiva caja 3D.
 - - Tarjeta lenticular "25 años de Hitman". Esta tarjeta rinde homenaje a la evolución del Agente 47, desde Hitman: Codename 47 hasta HITMAN World of Assassination
+- Celebra 25 años de HITMAN con la Anniversary Box de HITMAN World of Assassination, que incluye artículos coleccionables:
+- - HITMAN World of Assassination (portada del 25.o aniversario). Incluye lo mejor de HITMAN, HITMAN 2 y HITMAN 3, incluida la campaña principal, intensificaciones del modo Contrato, el modo Freelancer y contenido en línea.
+- Paquete Celebridades. Incluye los paquetes del Inmortal, el Pincha, el Spagat y el Banquero, que desbloquean objetos estéticos inspirados en los objetivos escurridizos y permiten acceder a las misiones.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FRMS91C7{{</world>}}

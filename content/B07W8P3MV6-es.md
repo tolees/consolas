@@ -28,14 +28,14 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Control avanzado con G HUB y aplicación móvil: optimiza tu experiencia de audio de gaming EQ paramétrico de 10 bandas, ajustes de micrófono, reducción de ruido, mezcla de salida de stream y mucho más
+- Multisistema simultáneo PLAYSYNC: Xbox + PS5 + Switch/Switch 2 + PC todo a la vez. Permanece conectado a todas tus plataformas y alterna AUDIO Y VÍDEO entre ellas con el control supraaural
+- 24 horas de uso (a 78 dB): Energía suficiente para usar todo el día. Siempre cargados. Basta conectar los A50 X con un clic a la base magnética de la estación base
 - Tecnología inalámbrica LIGHTSPEED profesional: Altísimo rendimiento, tecnología integral para un audio de gaming inmersivo, con gran capacidad de respuesta y sin cables
+- Suena como un profesional con una conexión ascendente de micrófono LIGHTSPEED de ancho de banda completo de 48 kHz que alcanza nuevas cotas en calidad de micrófono de varilla inalámbrico
+- Mezcla de dos dispositivos inalámbricos: Oye dos dispositivos a la vez: conéctate a tu consola preferida a través de LIGHTSPEED y habla desde el teléfono con Bluetooth
 - Transductores de audio PRO-G GRAPHENE: Nitidez y respuesta sin precedentes para ofrecer separación de sonido exacta, ubicación y precisión de sincronización (40 mm de diámetro)
 - Paso de HDMI 2.1 avanzado: Ofrece resolución Ultra HD para los máximos niveles de audio de consola (24 bits) y fidelidad visual (4K 120 Hz)
-- Mezcla de dos dispositivos inalámbricos: Oye dos dispositivos a la vez: conéctate a tu consola preferida a través de LIGHTSPEED y habla desde el teléfono con Bluetooth
-- Multisistema simultáneo PLAYSYNC: Xbox + PS5 + Switch/Switch 2 + PC todo a la vez. Permanece conectado a todas tus plataformas y alterna AUDIO Y VÍDEO entre ellas con el control supraaural
-- Suena como un profesional con una conexión ascendente de micrófono LIGHTSPEED de ancho de banda completo de 48 kHz que alcanza nuevas cotas en calidad de micrófono de varilla inalámbrico
-- 24 horas de uso (a 78 dB): Energía suficiente para usar todo el día. Siempre cargados. Basta conectar los A50 X con un clic a la base magnética de la estación base
-- Control avanzado con G HUB y aplicación móvil: optimiza tu experiencia de audio de gaming EQ paramétrico de 10 bandas, ajustes de micrófono, reducción de ruido, mezcla de salida de stream y mucho más
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07W8P3MV6{{</world>}}

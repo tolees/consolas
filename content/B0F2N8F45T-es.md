@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Disfruta del diseño modernizado del mando inalámbrico Xbox Velocity Green, con superficies esculpidas y una geometría refinada para una mayor comodidad durante el juego, con una batería que dura hasta 40 horas.
-- No todas las versiones de este mando tienen puerto de expansión.
-- Este producto viene en un nuevo empaque más pequeño, pero con el mismo mando oficial de Xbox.
-- Empareja rápidamente, juega y cambia entre dispositivos como Xbox Series X|S, Xbox One, PC Windows, Android e iOS.
-- Captura y comparte contenido sin problemas, como capturas de pantalla, grabaciones y mucho más con el nuevo botón Compartir.
 - Incluye tecnología inalámbrica de Xbox y Bluetooth para jugar sin cables en consolas, PC, teléfonos iOS y Android, además de tabletas compatibles.
+- No todas las versiones de este mando tienen puerto de expansión.
+- Captura y comparte contenido sin problemas, como capturas de pantalla, grabaciones y mucho más con el nuevo botón Compartir.
+- Empareja rápidamente, juega y cambia entre dispositivos como Xbox Series X|S, Xbox One, PC Windows, Android e iOS.
+- Este producto viene en un nuevo empaque más pequeño, pero con el mismo mando oficial de Xbox.
 - Personaliza el mando al cambiar la asignación de botones con la app Accesorios de Xbox. Además, conecta cualquier auricular compatible en el conector de audio para auriculares de 3,5 mm.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

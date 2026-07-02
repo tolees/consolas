@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ● Varias rutas para explorar y varios finales para descubrir en función de cómo juegues (modo solo o cooperativo)
 - ● Juega solo o con un compañero usando los joysticks y disfruta de un manejo optimizado para una mayor precisión apuntando.
+- ● Varias rutas para explorar y varios finales para descubrir en función de cómo juegues (modo solo o cooperativo)
 - ● Remake completo: gráficos, sonido y mecánica de juego del icónico juego de disparos arcade lanzado en 1998.
 - ● Acción sin límites para revivir la emoción de los juegos arcade
 

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
-- Botones traseros programables
-- Licencia oficial de Nintendo
-- Apto para Nintendo Switch y Nintendo Switch - Modelo OLED
 - Compatible con la base de Nintendo Switch: carga la consola sin necesidad de retirarlo
+- Botones traseros programables
+- Función turbo con 3 ajustes: 5/10/20 pulsaciones/s
+- Apto para Nintendo Switch y Nintendo Switch - Modelo OLED
+- Licencia oficial de Nintendo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08FJ7XY3B{{</world>}}
