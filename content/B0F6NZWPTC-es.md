@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'HyperX Cloud III S - Auriculares Gaming inalámbricos Bluetooth 2.4Ghz PC PS5 Xbox Drivers 53 mm DTS micrófono 10mm batería hasta 200h Negro'
+date: 2026-07-13 21:49:13
+image: 'https://m.media-amazon.com/images/I/31fTrHKg6HL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0F6NZWPTC-es HyperX Cloud III S - Auriculares Gaming inalámbricos...'
+sku: 'B0F6NZWPTC-es'
+tags: [ 'ps5','xbox','🇪🇸', ]
+actualPrice: 116.95 EUR
+currency: EUR
+price: 116.95
+comparePrice: 149.99 EUR
+prodname: 'HyperX Cloud III S - Auriculares Gaming inalámbricos Bluetooth 2.4Ghz PC PS5 Xbox Drivers 53 mm DTS micrófono 10mm batería hasta 200h Negro'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0F6NZWPTC/?tag=tolees-21'
+descuento: '22.03'
+average: '105.619090909092'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- COMPATIBILIDAD MULTIPLATAFORMA - Compatible con múltiples plataformas mediante, USB-C, USB-A y Bluetooth.
+- COMODIDAD HYPERX - Comodidad y durabilidad característica de HyperX.
+- CONECTIVIDAD INALÁMBRICA - Conéctate de manera inalámbrica por Bluetooth, 2.4Ghz o Instant Pair.
+- HASTA 200 HORAS DE BATERÍA - Disfruta de 200 horas de batería en modo bluetooth o 120 horas con conexión 2.4Ghz.
+- MICRÓFONO 10MM - Micrófono desmontable de 10mm para una comunicación ultraclara y micrófono interno integrado, tú decides.
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B0F6NZWPTC{{</world>}}

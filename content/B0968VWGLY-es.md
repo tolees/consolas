@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'PDP - Rock Candy Mando con Cable para Nintendo Switch Mario Nintendo Switch'
+date: 2026-05-17 12:09:29
+image: 'https://m.media-amazon.com/images/I/41gcudlmCQL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0968VWGLY-es PDP - Rock Candy Mando con Cable para Nintendo Switch...'
+sku: 'B0968VWGLY-es'
+tags: [ 'nintendo','🇪🇸', ]
+actualPrice: 16.57 EUR
+currency: EUR
+price: 16.57
+comparePrice: 24.99 EUR
+prodname: 'PDP - Rock Candy Mando con Cable para Nintendo Switch Mario Nintendo Switch'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0968VWGLY/?tag=tolees-21'
+descuento: '33.69'
+average: '15.721'
+---
+
+En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- Incluye un cable micro USB desenchufable de 2,4 metros para gozar de mucho espacio para jugar
+- Los elegantes sticks de pulgar cóncavos brindan una precisión óptima
+- Diseñados ergonómicamente para adaptarse cómodamente a manos de cualquier tamaño
+- Con licencia oficial de Nintendo
+- Cubiertas de policarbonato de vivos colores con divertidas ilustraciones de tus personajes favoritos
+
+[🛒 Aquí!!!]({{< param buyurl >}})
+{{<world>}}B0968VWGLY{{</world>}}
