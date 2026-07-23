@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Una historia verdamente personal: toma decisiones difíciles y elige tu propio futuro mientras te mueves libremente por las calles, tiendas y rincones de Haven Springs y conoces a personajes inolvidables
+- Encuentra la forma de expresarte: y elige el estilo de Alex a partir de los 24 atuendos del armario; una banda sonora: temas de mxmtoon y Novo Amor y un gran número de canciones con licencia de artistas como Radiohead, Phoebe Bridgers o Gabrielle Aplin
 - Establece relaciones estrechas: gánate la confianza de los vecinos del pueblo y entabla una relación amorosa o de amistad con Ryan y Steph
 - La verdad dolera: descubre los impactantes secretos que rodean la muerte de tu hermano en una aventura cargada de emociones
-- Encuentra la forma de expresarte: y elige el estilo de Alex a partir de los 24 atuendos del armario; una banda sonora: temas de mxmtoon y Novo Amor y un gran número de canciones con licencia de artistas como Radiohead, Phoebe Bridgers o Gabrielle Aplin
 - Sientelo todo: cambia el destino y cambia vidas con el poder de la empatía
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

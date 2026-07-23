@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Personaliza tu juego con la compatibilidad con mods disponible para PC y consolas
-- Compite en 28 circuitos con un alto nivel de detalle, escaneados para lograr la máxima precisión y autenticidad
-- Juega en el modo carrera para un jugador o compite en línea en campeonatos multiplataforma
-- Desde hipercoches LMDh hasta las leyendas más icónicas de la historia, conduce 70 coches recreados en 13 categorías legendarias
 - Actualización 2.0 de Project Motor Racing: ya disponible. Disfruta de la última gran actualización con una jugabilidad mejorada
+- Compite en 28 circuitos con un alto nivel de detalle, escaneados para lograr la máxima precisión y autenticidad
+- Desde hipercoches LMDh hasta las leyendas más icónicas de la historia, conduce 70 coches recreados en 13 categorías legendarias
+- Juega en el modo carrera para un jugador o compite en línea en campeonatos multiplataforma
+- Personaliza tu juego con la compatibilidad con mods disponible para PC y consolas
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F7HN3NP4{{</world>}}

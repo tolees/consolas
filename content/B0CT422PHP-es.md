@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nuestra Edición Estándar incluirá un divertido llavero con la nave del juego.
 - JetsnGuns Complete Collection vis una combinación de dos shooters espaciales de desplazamiento lateral con niveles demenciales de acción y destrucción.
+- Nuestra Edición Estándar incluirá un divertido llavero con la nave del juego.
 - Viaja por las galaxias y despliega un arsenal de las armas y artefactos más mortíferos para salvar al universo de su inevitable perdición... ¡dos veces!
 
 [🛒 Visítala!!!]({{< param buyurl >}})

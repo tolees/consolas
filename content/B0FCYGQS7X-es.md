@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Nuevos doblajes en inglés y japonés: ¡los personajes de Trails in the Sky cobran vida con nuevos doblajes en inglés y japonés!
-- Mecánicas de juego modernas: disfruta de una jugabilidad perfecta eligiendo entre el combate por turnos tradicional o el nuevo combate de acción en tiempo real. Adapta la aventura a tu estilo.
-- Gráficos HD mejorados: sumérgete en el imponente mundo de Liberl y su representación con vívidos detalles en alta definición.
 - Un mundo cautivador: déjate atrapar por incontables horas de aventura en todo Liberl mientras avanzas en una elaborada trama irrepetible. ¡Todas las acciones se adaptan a tu progreso único en el juego, tanto las de los personajes que te acompañan como las de los PNJ!
+- Mecánicas de juego modernas: disfruta de una jugabilidad perfecta eligiendo entre el combate por turnos tradicional o el nuevo combate de acción en tiempo real. Adapta la aventura a tu estilo.
+- Nuevos doblajes en inglés y japonés: ¡los personajes de Trails in the Sky cobran vida con nuevos doblajes en inglés y japonés!
+- Gráficos HD mejorados: sumérgete en el imponente mundo de Liberl y su representación con vívidos detalles en alta definición.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FCYGQS7X{{</world>}}

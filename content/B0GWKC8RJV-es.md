@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- EA SPORTS FC 26 ICONS Edition incluye las versiones para Xbox One y Xbox Series X|S y:
 - Tres elecciones de futbolista (intransferibles, con GRL 91 máximo), de una selección de ICONOS y Héroes de EA SPORTS FC 26 Football Ultimate Team de las campañas de FUT de FC 26 desde el lanzamiento del juego hasta el 31 de marzo de 2026, excluyendo ICONOS de Campeón y Equipo del año, y Héroes de Clásicos XI y Menciones honoríficas del TOTY §
 - Juega como quieras con una experiencia de juego renovada impulsada por los comentarios de la comunidad. La nueva opción de jugabilidad auténtica ofrece la experiencia más fiel al fútbol en el modo Carrera, mientras que la opción de jugabilidad competitiva, impulsada por fundamentos refinados, la cual aporta mayor consistencia y mejor capacidad de respuesta, está hecha especialmente para jugar en Football Ultimate Team y Clubes.
 - Un sobre once inicial Oro, con 11 artículos de futbolista Oro intransferibles (1 guardameta, 4 defensas, 3 centrocampistas y 3 atacantes) con GRL 84 o superior
+- EA SPORTS FC 26 ICONS Edition incluye las versiones para Xbox One y Xbox Series X|S y:
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GWKC8RJV{{</world>}}

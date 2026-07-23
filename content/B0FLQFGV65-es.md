@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Además del juego base, la Anniversary Edition incluye un diorama de combate, una caja metálica con ilustraciones del juego, una maqueta de papel de la diligencia, una baraja de cartas para jugar con personajes del juego y códigos para canjear la banda sonora original del juego base (más de 20 canciones), la nueva banda sonora original Kingdoms y tres contenidos descargables
-- El gran combate por turnos mejorado y héroes inolvidables
-- Partidas «roguelike», cada una con su propia historia en desarrollo
 - Darkest Dungeon II es el viaje «roguelike» de los condenados para un solo jugador. La secuela del aclamadísimo Darkest Dungeon te invita a reunir a un grupo, abastecer tu diligencia y embarcarte en un viaje por el yermo para evitar el apocalipsis.
+- El gran combate por turnos mejorado y héroes inolvidables
 - Celebra el legado de Darkest Dungeon II con esta Anniversary Edition. DISPONIBLE EN EL CUARTO TRIMESTRE DE 2025: ¡RESÉRVALA YA!
+- Partidas «roguelike», cada una con su propia historia en desarrollo
+- Además del juego base, la Anniversary Edition incluye un diorama de combate, una caja metálica con ilustraciones del juego, una maqueta de papel de la diligencia, una baraja de cartas para jugar con personajes del juego y códigos para canjear la banda sonora original del juego base (más de 20 canciones), la nueva banda sonora original Kingdoms y tres contenidos descargables
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FLQFGV65{{</world>}}

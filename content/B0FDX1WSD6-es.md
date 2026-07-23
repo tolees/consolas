@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - EXPLORA COMO QUIERAS: Empieza en la sala de manualidades y súbete al bus Gat-censor para ir a la sala de juegos, al baño, a la cocina, a la sala de fiestas y al jardín. Cada lugar está lleno de magia
-- VE DONDE TE LLEVE LA IMAGINACIÓN: Participa en actividades y minijuegos llenos de diversión mientras exploras la casa de muñecas de Gabby
 - DE FIESTA CON LOS GATOS DE GABBY: Pandy Patitas, Muffin, Marty el gato fiestero, Yogato, Siregata, DJ Capucha, Hadigata, Sueñigata, Carlita, Bebé Box y Mamá Box. Todos los gatos de Gabby están listos para jugar
+- VE DONDE TE LLEVE LA IMAGINACIÓN: Participa en actividades y minijuegos llenos de diversión mientras exploras la casa de muñecas de Gabby
 - VUÉLVETE DEL TAMAÑO DE GABBY Y PANDY PATITAS: Juega en solitario con Gabby o en modo cooperativo local con tus amigos para que Pandy Patitas también se una a la fiesta
 - APRENDE Y CRECE CON GABBY: Desata tu creatividad y prueba aficiones nuevas con controles sencillos y adaptados para manos pequeñas
 

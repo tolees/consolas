@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Licencia oficial de Nintendo
-- Cuenta con bolsillos de autocierre y de malla, un compartimento delantero con cremallera y ranuras para hasta 14 tarjetas de juego
-- Diseño exclusivo que brilla en la oscuridad tras la exposición a la luz
 - Asa de transporte acolchada y correa extraíble para mayor comodidad durante el viaje
+- Diseño exclusivo que brilla en la oscuridad tras la exposición a la luz
+- Cuenta con bolsillos de autocierre y de malla, un compartimento delantero con cremallera y ranuras para hasta 14 tarjetas de juego
 - Correas de retención ajustables para mantener el dispositivo y el controlador en su sitio
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Creación para sobrevivir: Construye y mejora armas utilizando materiales recuperados para tener una oportunidad contra los terrores implacables que te acechan.
-- Gestión de recursos: Navega por un sistema de inventario profundo donde cada objeto importa. Tu supervivencia depende de decisiones cuidadosas y pensamiento rápido.
-- Enfrenta enemigos de pesadilla: Lucha en combates desesperados contra criaturas horribles, cada una con sus propios comportamientos mortales y estrategias.
-- Atmósfera inmersiva: Explora las ruinas de pesadilla de Fort Oasis a lo largo de nueve capítulos angustiosos que te sumergen cada vez más en su mundo opresivo y decadente.
 - Narrativa ambiental: Descubre los secretos más oscuros de la isla y enfréntate a tu propio pasado fragmentado mediante notas crípticas, imágenes inquietantes y encuentros perturbadores.
+- Gestión de recursos: Navega por un sistema de inventario profundo donde cada objeto importa. Tu supervivencia depende de decisiones cuidadosas y pensamiento rápido.
+- Atmósfera inmersiva: Explora las ruinas de pesadilla de Fort Oasis a lo largo de nueve capítulos angustiosos que te sumergen cada vez más en su mundo opresivo y decadente.
+- Enfrenta enemigos de pesadilla: Lucha en combates desesperados contra criaturas horribles, cada una con sus propios comportamientos mortales y estrategias.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G4WH86RC{{</world>}}

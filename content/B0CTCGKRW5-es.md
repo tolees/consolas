@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Descubre qué figura te ha tocado para jugar con ella solo o con amigos
 - Un producto nuevo y con etiqueta de licencia oficial, 100% Original, con 8 personajes diferentes
-- Un juguete indicado para niños y niñas a partir de 3 años de edad; un accesorio de decoración, de viaje, para el coche o para llevarlo a todos lados
 - La Cápsula Sorpresa Prisma de Sonic the hedgehog es un producto oficial del videojuego clásico de SEGA
+- Un juguete indicado para niños y niñas a partir de 3 años de edad; un accesorio de decoración, de viaje, para el coche o para llevarlo a todos lados
+- Descubre qué figura te ha tocado para jugar con ella solo o con amigos
 - Las figuras miden 7 centímetros, son articuladas y están elaboradas con gran nivel de detalle
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

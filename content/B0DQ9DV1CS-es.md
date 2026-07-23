@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sprites, animaciones y fondos de 8 y 16 bits diseñados meticulosamente, con el espíritu de los clásicos.
 - ¡Incluye el DLC Picnic Panic!
-- Mejoras de personaje, nuevas habilidades, niveles ocultos y distintos caminos por descubrir.
+- Sprites, animaciones y fondos de 8 y 16 bits diseñados meticulosamente, con el espíritu de los clásicos.
 - Una mecánica de juego dinámica y acrobática y unos controles superafinados dignos de una épica aventura de ninjas.
 - Un memorable elenco de peculiares villanos, jefes y cómplices.
+- Mejoras de personaje, nuevas habilidades, niveles ocultos y distintos caminos por descubrir.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQ9DV1CS{{</world>}}

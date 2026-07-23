@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hasta 4 jugadores pueden correr en la misma consola, o competir en modos online para hasta 24 jugadores.
-- Free Race un nuevo modo sin pistas.
 - Sal de la pista y corre sobre la distancia; Compite al límite en feroces carreras para 24 pilotos; Nuevo modo Supervivencia, corre a través de una serie de carreras sin parar.
-- Corre por llanuras, a través de ciudades, sobre el agua entre volcanes, ¡todos los lugares están conectados!
 - Lanza GameChat para disfrutar de la compañía de tus amigos, ¡aunque no estén contigo!
+- Corre por llanuras, a través de ciudades, sobre el agua entre volcanes, ¡todos los lugares están conectados!
+- Free Race un nuevo modo sin pistas.
+- Hasta 4 jugadores pueden correr en la misma consola, o competir en modos online para hasta 24 jugadores.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F2N6V24N{{</world>}}

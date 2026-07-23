@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Explora cuatro mundos diferentes llenos de cofres del tesoro y secretos, resuelve varios acertijos y derrota a una serie de enemigos verdaderamente impredecibles en el campo de batalla.
 - Mario, Luigi, Peach y Yoshi unirán fuerzas con cuatro héroes Rabbid: el vanidoso Rabbid Mario, el temeroso Rabbid Luigi, la descarada Rabbid Peach y el loco Rabbid Yoshi.
+- El juego por turnos te permite elegir con calma cómo posicionar a tus héroes para desatar sus movimientos de ataque.
 - UNA LOCA AVENTURA TÁCTICA Mario y sus amigos se enfrentarán a sus oponentes con más de 250 armas y los jugadores podrán personalizar el equipamiento de sus héroes.
 - UNA MISIÓN ÉPICA CON OCHO HÉROES Embárcate en una misión épica con tu equipo de héroes para liberar a tus amigos y restaurar el orden en el Reino Champiñón.
-- El juego por turnos te permite elegir con calma cómo posicionar a tus héroes para desatar sus movimientos de ataque.
+- Explora cuatro mundos diferentes llenos de cofres del tesoro y secretos, resuelve varios acertijos y derrota a una serie de enemigos verdaderamente impredecibles en el campo de batalla.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08TDJ7L1J{{</world>}}

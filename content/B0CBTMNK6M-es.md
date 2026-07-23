@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Salva un mundo al borde del abismo: Jak, un fortuito, se ve atrapado en la Guerra Perpetua: un conflicto eterno entre Lucium y Rasharn por el control de la magia
-- La Deluxe Edition de IMMORTALS OF AVEUM incluye el pack Reliquias antiguas de Aveum
 - Utiliza tu arsenal de hechizos: desbloquea y mejora más de 25 hechizos y 80 talentos; descubre, mejora y fabrica cientos de piezas de equipamiento mágico
+- La Deluxe Edition de IMMORTALS OF AVEUM incluye el pack Reliquias antiguas de Aveum
 - Conviértete en mago de combate: Únete a la orden de los Inmortales, adalides de la protección de Lucium, y conviértete en Jak, un magnus triarca de élite
+- Salva un mundo al borde del abismo: Jak, un fortuito, se ve atrapado en la Guerra Perpetua: un conflicto eterno entre Lucium y Rasharn por el control de la magia
 - Domina tu magia: Un combate con hechizos, rápido, fluido y en primera persona que es fácil de aprender y satisfactorio de dominar, en el que la magia es el núcleo tanto del ataque como de la defensa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

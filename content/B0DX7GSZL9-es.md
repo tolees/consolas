@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡Forma tu equipo perfecto de 3 luchadores!
 - ¡Una variedad de modos de juego para una experiencia completa!
+- ¡Forma tu equipo perfecto de 3 luchadores!
 - ¡El primer juego de lucha en la historia de la franquicia!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

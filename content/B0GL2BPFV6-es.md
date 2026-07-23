@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 2K SHOWCASE - Reescribe la historia de la lucha libre y revive las mayores rivalidades de CM Punk en un mundo en el que la voz de los sin voz nunca se fue, incluyendo escenarios históricos fantásticos. El ascenso, la rebelión y el regreso de Punk hacen de este el Showcase más personal hasta la fecha.
 - EL SHOW NUNCA ACABA - Dirige el mayor espectáculo del mundo a tu manera y vive al máximo tu pasión por la WWE. Disfruta de la experiencia de juego más amplia hasta la fecha con las rebeldes Leyendas de la Attitude Era y las Superstars de hoy en día.
-- Reserva WWE 2K26 Edición Estándar y recibe el Pack Joe Hendry. El Pack Joe Hendry incluye: Joe Hendry como Superstar jugable / Carta EVO Joe Hendry Mi FACCIÓN / Pieza CUS Mi SUPERSTAR: Camiseta de Joe Hendry / Emote de Mi SUPERSTAR Island: Giro de Joe Hendry.
 - CONTENIDO DE LA CAJA: Juego y código de descarga para el bono de reserva
+- Reserva WWE 2K26 Edición Estándar y recibe el Pack Joe Hendry. El Pack Joe Hendry incluye: Joe Hendry como Superstar jugable / Carta EVO Joe Hendry Mi FACCIÓN / Pieza CUS Mi SUPERSTAR: Camiseta de Joe Hendry / Emote de Mi SUPERSTAR Island: Giro de Joe Hendry.
 - MÁS SUPERSTARS QUE NUNCA - Con la formación más completa de la historia de la franquicia, con más de 400 Superstars y Leyendas de la WWE jugables, entre las que se incluyen The Rock, Triple H, John Cena, Rhea Ripley y favoritos de los fans como Rey Fénix, Rusev y Blake Monroe.
+- 2K SHOWCASE - Reescribe la historia de la lucha libre y revive las mayores rivalidades de CM Punk en un mundo en el que la voz de los sin voz nunca se fue, incluyendo escenarios históricos fantásticos. El ascenso, la rebelión y el regreso de Punk hacen de este el Showcase más personal hasta la fecha.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GL2BPFV6{{</world>}}

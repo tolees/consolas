@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- A medida que desbloquees nuevas zonas, retrocedas y descubras más cosas, irás reconstruyendo por qué Edward cerró realmente su parque y dónde desapareció misteriosamente. Has oído rumores inquietantes, pero es imposible que sean ciertos..., ¿verdad
-- LA EDICIÓN FÍSICA INCLUYE: ¡Un manual de 20 páginas y póster con el mapa del parque!
 - Para los visitantes del parque que solo quieran encontrar cuervos y disfrutar de los lugares de interés, el modo Exploración les permite recorrerlo sin miedo a que les ataquen los misteriosos monstruos que vagan por Crow Country. Además, si supieras qué son realmente esos monstruos
-- Un juego de terror y supervivencia en el que te pondrás a prueba con puzles y acertijos mientras investigas la inquietante tranquilidad del parque de atracciones abandonado. No te dejes engañar por el caprichoso entorno, algo va terriblemente mal en Crow Country
 - El año es 1990. Han pasado dos años desde la misteriosa desaparición de Edward Crow y el abrupto cierre de su parque temático, Crow Country. Pero tu llegada ha roto el silencio, Mara Forest. Si quieres respuestas, tendrás que adentrarte en la oscuridad de Crow Country para encontrarlas
+- LA EDICIÓN FÍSICA INCLUYE: ¡Un manual de 20 páginas y póster con el mapa del parque!
+- A medida que desbloquees nuevas zonas, retrocedas y descubras más cosas, irás reconstruyendo por qué Edward cerró realmente su parque y dónde desapareció misteriosamente. Has oído rumores inquietantes, pero es imposible que sean ciertos..., ¿verdad
+- Un juego de terror y supervivencia en el que te pondrás a prueba con puzles y acertijos mientras investigas la inquietante tranquilidad del parque de atracciones abandonado. No te dejes engañar por el caprichoso entorno, algo va terriblemente mal en Crow Country
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FH59C4DB{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Modernisierte Steuerung
 - Herausforderndes Retro-Gameplay vom weltbekannten Studio Factor 5.Legendäre Soundtracks von Industrie-Veteran Chris Huelsbeck
-- Beinhaltet Turrican, Turrican II, Mega Turrican and Super Turrican
-- Speicher-und Rückspulfunktion
 - Verschiedene Optionen, um das Spielerlebnis anzupassen. Spiel im klassischen Pixel-Modus oder im dynamischen Breitbildmodus
+- Speicher-und Rückspulfunktion
+- Beinhaltet Turrican, Turrican II, Mega Turrican and Super Turrican
+- Modernisierte Steuerung
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08LNFVQC7{{</world>}}

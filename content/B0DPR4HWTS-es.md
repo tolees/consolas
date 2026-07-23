@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- ¡Vidas infinitas y numerosos puntos de control para un desafío con garantías!
 - ¡Banda sonora magistral del legendario David Wise!
 - ¡Al fin ha vuelto Yumetaro, el pequeño yokai verde!
+- ¡Vidas infinitas y numerosos puntos de control para un desafío con garantías!
 - Estrella mágica de Yumetaro: ¡arma y utensilio a la vez!
 
 [🛒 Comprar!!!]({{< param buyurl >}})

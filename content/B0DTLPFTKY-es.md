@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- GRIS es una experiencia narrativa serena y evocadora. GRIS es una experiencia serena y evocadora, libre de peligros, frustración y muerte. Los jugadores explorarán un mundo diseñado meticulosamente que cobra vida gracias a unos gráficos delicados, una animación detallada y una elegante banda sonora original. Según las distintas partes del mundo de GRIS se vuelvan accesibles, durante el juego se presentarán puzles sencillos, secuencias de plataformas y desafíos opcionales basados en la habilidad
 - GRIS es una experiencia casi sin texto, con simples recordatorios de los controles ilustrados a través de íconos universales. Cualquiera puede disfrutar del juego, independientemente de su idioma hablado
+- GRIS es una experiencia narrativa serena y evocadora. GRIS es una experiencia serena y evocadora, libre de peligros, frustración y muerte. Los jugadores explorarán un mundo diseñado meticulosamente que cobra vida gracias a unos gráficos delicados, una animación detallada y una elegante banda sonora original. Según las distintas partes del mundo de GRIS se vuelvan accesibles, durante el juego se presentarán puzles sencillos, secuencias de plataformas y desafíos opcionales basados en la habilidad
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DTLPFTKY{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Decora tu minilibrería con los objetos que consigas. ¡Puedes cubrirla enteramente de plantas, o iluminarla con velas para darle un toque terrorífico! Además, los objetos tienen efectos en tus clientes y pueden introducir mecánicas nuevas.
+- Recomienda el libro correcto a la persona indicada, ¡o haz que expanda sus horizontes literarios! A veces lo único que necesitan es que les eches una mano para encontrar el libro que les enamore.
 - Llena las estanterías con libros de diferentes géneros para que se ajusten al gusto literario de la gente del pueblo y observa como tu librería se llena de vida. Cada zona del pueblo atrae a un público diferente, así que haz lo que sea por conocer a la gente y ¡vende libros como nadie!
 - Forja amistades con el peculiar elenco de personajes de Literia y ¡ayudaos mutuamente! Son encantadores, ya verás :)
+- Decora tu minilibrería con los objetos que consigas. ¡Puedes cubrirla enteramente de plantas, o iluminarla con velas para darle un toque terrorífico! Además, los objetos tienen efectos en tus clientes y pueden introducir mecánicas nuevas.
 - Incluye banda sonora digital y marcapáginas físico.
-- Recomienda el libro correcto a la persona indicada, ¡o haz que expanda sus horizontes literarios! A veces lo único que necesitan es que les eches una mano para encontrar el libro que les enamore.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0G598F3QT{{</world>}}

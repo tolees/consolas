@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Solo contra todos, tendrá que enfrentarse a incontables enemigos sin aliados. Deberá confiar en su dominio del kung fu y en un misterioso colgante para sobrevivir y preservar el legado de su familia.
 - En busca de venganza. La persecución de tus enemigos te llevará a los rincones más escondidos de la ciudad, desde los suburbios plagados de bandas criminales hasta los fríos pasillos de las torres corporativas. Tienes un día y un sinfín de enemigos
-- ¿Basta una vida para aprender kung fu? SIFU es la historia de un joven estudiante de kung fu que persigue a los asesinos de su familia en busca de venganza.
 - La adaptación es clave. Elegir bien la posición y el uso inteligente del entorno en tu beneficio son la clave de la supervivencia. Usa todo lo que tengas a tu disposición: objetos arrojadizos, armas improvisadas, ventanas y cornisas... La suerte no está a tu favor y no tendrán piedad contigo
 - El entrenamiento nunca termina. El kung fu se domina a través de la práctica y es una senda que deberán recorrer el cuerpo y la mente. Aprende de tus errores, desbloquea habilidades especiales y encuentra la fuerza en tu interior para dominar las devastadoras técnicas del kung fu Pak-Mei.
+- Solo contra todos, tendrá que enfrentarse a incontables enemigos sin aliados. Deberá confiar en su dominio del kung fu y en un misterioso colgante para sobrevivir y preservar el legado de su familia.
+- ¿Basta una vida para aprender kung fu? SIFU es la historia de un joven estudiante de kung fu que persigue a los asesinos de su familia en busca de venganza.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GP6W1MGX{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Micrófono omnidireccional con reducción de ruido: El casco de juego inalámbrico incorpora un micrófono con tecnología de chip de reducción de ruido, lo que permite que los jugadores se concentren en la voz de sus compañeros de equipo en lugar del ruido de fondo, para una comunicación cristalina.
 - Súper comodidad de 50+ horas: Gracias a las más de 50 horas de duración de la batería, sus maratones de juego son aún más cómodos con este headset ligero que tiene almohadillas de espuma viscoelástica suave hechas de tela transpirable.
 - Audio de juego envolvente y claro: Con la ayuda de controladores de 50mm y una conexión inalámbrica sin pérdidas de 2.4G, este casco de juego inalámbrico ofrece un sonido estéreo nítido, claro y profundo que lo sumerge en un mundo de juegos para escuchar cada detalle.
 - 2.4GHz y Bluetooth: El casco de juego inalámbrico utiliza la tecnología de conexión de alta calidad de 2.4GHz (lag＜30ms), que es súper resistente, perfecta para PC y jugadores de PS4/5. Los modos Bluetooth le dan la libertad de conectarse con teléfonos móviles, laptops y Switch sin limitaciones.
+- Micrófono omnidireccional con reducción de ruido: El casco de juego inalámbrico incorpora un micrófono con tecnología de chip de reducción de ruido, lo que permite que los jugadores se concentren en la voz de sus compañeros de equipo en lugar del ruido de fondo, para una comunicación cristalina.
 - Compatibilidad multiplataforma: Estos cascos de juego admiten el modo receptor de 2.4GHz para PS5, PC, PS4, Switch, Mac, laptops y haga clic dos veces en el botón de encendido para cambiar al modo Bluetooth para dispositivos móviles, tabletas, iPads y dispositivos inteligentes. ⚠️ Note 1 : estos cascos no son compatibles con Xbox Series. ⚠️ Note 2 : El micrófono no está disponible cuando se conecta a Switch.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

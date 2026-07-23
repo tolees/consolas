@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Material exterior de alta resitencia y repelente a los líquidos (Ripstop)
-- Correas al hombro acolchadas y ajustables y cinta para el trolley
 - Forro interior con bolsillo para dispositivos electrónicos
+- Correas al hombro acolchadas y ajustables y cinta para el trolley
 - Mochila urbana de un compartimento principal y bolsillo frontal
 - Dimensiones: 18 x 31 x 44 cm
 

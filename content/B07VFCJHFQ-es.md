@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Vistoso diseño de luz LED con colores personalizables y diversos modos de iluminación
+- Dobles botones largos programables en la parte posterior para adaptarse a tu forma de jugar
 - Con licencia oficial de Nintendo
 - Controles de movimiento para maximizar tu juego
-- Dobles botones largos programables en la parte posterior para adaptarse a tu forma de jugar
+- Vistoso diseño de luz LED con colores personalizables y diversos modos de iluminación
 - Conectividad inalámbrica y batería recargable para jugar durante más tiempo
 
 [🛒 Visítala!!!]({{< param buyurl >}})

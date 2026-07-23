@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una acogedora y relajante exploración en 2D. La acción ligera, los puzles ambientales, las misiones secundarias y los objetos coleccionables apoyan su conmovedor núcleo narrativo, todo ello impregnado de nostalgia y afecto por un tiempo pasado.
-- Únete a Ayumi en una emocionante historia de autodescubrimiento en la que afrontará sus primeros tímidos pasos hacia la edad adulta y se enfrentará a la terrible maldición que ha caído sobre su ciudad natal
-- Conoce a un ecléctico elenco de personajes inspirados en la mitología japonesa y sumérgete en una aventura bellamente dibujada a mano y animada de forma tradicional
-- Sumérgete en una hermosa banda sonora lo-fi para estudiar y relajarte
 - En una aventura llena de amor, amistad y todas las pruebas de una floreciente adolescencia, conocerás por el camino a un seductor elenco de personajes fascinantes, desde amigos del colegio y pueblerinos fisgones hasta cuervos samuráis y kappas cleptómanas, pasando por la chica de tus sueños
+- Únete a Ayumi en una emocionante historia de autodescubrimiento en la que afrontará sus primeros tímidos pasos hacia la edad adulta y se enfrentará a la terrible maldición que ha caído sobre su ciudad natal
+- Sumérgete en una hermosa banda sonora lo-fi para estudiar y relajarte
+- Una acogedora y relajante exploración en 2D. La acción ligera, los puzles ambientales, las misiones secundarias y los objetos coleccionables apoyan su conmovedor núcleo narrativo, todo ello impregnado de nostalgia y afecto por un tiempo pasado.
+- Conoce a un ecléctico elenco de personajes inspirados en la mitología japonesa y sumérgete en una aventura bellamente dibujada a mano y animada de forma tradicional
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DBQXD2Q9{{</world>}}

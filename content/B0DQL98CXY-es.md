@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Screamer PS5'
-date: 2026-07-19 17:31:31
+date: 2026-07-23 15:45:31
 image: 'https://m.media-amazon.com/images/I/51Bb10g8CyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DQL98CXY-es Screamer PS5'
 sku: 'B0DQL98CXY-es'
 tags: [ 'ps5','🇪🇸', ]
-actualPrice: 29.9 EUR
+actualPrice: 29.95 EUR
 currency: EUR
-price: 29.9
+price: 29.95
 comparePrice: 40.57 EUR
 prodname: 'Screamer PS5'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DQL98CXY/?tag=tolees-21'
-descuento: '26.30'
-average: '45.4085714285714'
+descuento: '26.18'
+average: '43.47625'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

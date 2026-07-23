@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Accesorio cinta de la pierna para Nintendo Switch Sports para patear la pelota en el modo Duelo del fútbol.
-- No incluye copia del juego Nintendo Switch Sports.
 - La copia física del juego Nintendo Switch Sports incluye el accesorio cinta para pierna.
+- No incluye copia del juego Nintendo Switch Sports.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09S6S47YV{{</world>}}

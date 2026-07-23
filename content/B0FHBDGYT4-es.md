@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Diabluras de samuráis para todos
+- Conviértete en un verdadero samurái
 - Protege los humildes asentamientos
 - Destapa el malvado complot
-- Conviértete en un verdadero samurái
-- Diabluras de samuráis para todos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FHBDGYT4{{</world>}}

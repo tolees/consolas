@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- La dernière nouveauté de la franchise STORY OF SEASONS s’enracine sur la Nintendo Switch ! Ce titre de simulation de ferme/vie originale tant attendu donne aux joueurs plus de liberté que jamais !
 - Construisez des installations comme vous le souhaitez, améliorez vos compétences agricoles et fabriquez tout, des clôtures aux arroseurs pour les cultures !
 - Un monde sauvage à découvrir: Domptez la nature de la péninsule, découvrez la faune et la flore locales, ainsi que les secrets du monde autour de vous.
 - Inspirés par les histoires daventure et de pionniers de votre grand-père, faites vos bagages et quittez le tumulte de la ville pour profiter de la vie rurale dOlive Town
 - Cultivez et améliorez ! Réunissez et traitez les matériaux pour répondre aux demandes et améliorer les infrastructures, mettez vos outils à niveau ou commandez de nouveaux accessoires ou tenues
-- La dernière nouveauté de la franchise STORY OF SEASONS s’enracine sur la Nintendo Switch ! Ce titre de simulation de ferme/vie originale tant attendu donne aux joueurs plus de liberté que jamais !
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08MBTQH3H{{</world>}}

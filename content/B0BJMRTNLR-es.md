@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- histórico de rol y misterio ambientado en la Alemania
 - El protagonista es un avispado ilustrador que se ve envuelto en una serie de asesinatos en el monasterio de Kiersau a lo largo de veinticinco años
+- histórico de rol y misterio ambientado en la Alemania
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BJMRTNLR{{</world>}}

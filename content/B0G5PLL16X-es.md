@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El clásico survival horror Clock Tower, traducido y publicado oficialmente fuera de Japón por primera vez
-- Elige entre el modo original o el modo mejorado, con muchas novedades jugables y mejoras de calidad de vida
-- Arte 2D con gran atmósfera, animaciones detalladas y efectos de sonido inquietantes realzan la experiencia point-and-click
-- Varios finales y elementos aleatorios aumentan la rejugabilidad (¡y los sustos!)
 - Corre, escóndete y lucha por sobrevivir mientras intentas escapar del aterrador Scissorman
+- Elige entre el modo original o el modo mejorado, con muchas novedades jugables y mejoras de calidad de vida
+- Varios finales y elementos aleatorios aumentan la rejugabilidad (¡y los sustos!)
+- El clásico survival horror Clock Tower, traducido y publicado oficialmente fuera de Japón por primera vez
+- Arte 2D con gran atmósfera, animaciones detalladas y efectos de sonido inquietantes realzan la experiencia point-and-click
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0G5PLL16X{{</world>}}

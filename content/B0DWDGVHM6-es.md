@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MODELO COLECCIONABLE DEL UNIVERSO NINTENDO: Este modelo LEGO para construir y exponer pertenece a la gama de sets LEGO Adults, un amplio surtido diseñado para personas que disfruten relajándose con actividades manuales creativas
-- REGALO DE NINTENDO PARA GAMERS: Date un capricho o regala este decorativo kit de construcción LEGO para adultos a un jugador que sea fan de Super Mario o The Legend of Zelda
 - CON LOS DETALLES DE GAME BOY: Recrea la cruceta, los botones A y B, SELECT y START, el control de contraste, la rueda de volumen y la ranura para el Game Pak, y expón tu Game Boy construida con ladrillos en la base
-- PERSONALIZA TU CREACIÓN: Incluye cartuchos Game Pak para Game Boy de The Legend of Zelda: Link’s Awakening y Super Mario Land (únicamente con fines expositivos), pantallas lenticulares y de inicio de Nintendo
+- REGALO DE NINTENDO PARA GAMERS: Date un capricho o regala este decorativo kit de construcción LEGO para adultos a un jugador que sea fan de Super Mario o The Legend of Zelda
 - GAME BOY RETRO: Con esta maqueta para adultos, tanto a los constructores avanzados como a los recién llegados les encantará esta pieza de colección gamer, idónea como decoración del hogar
-- KIT DE MAQUETAS PARA ADULTOS LEGO: Disfruta recordando los videojuegos clásicos con esta réplica casi a tamaño real de una consola portátil Game Boy de Nintendo
+- MODELO COLECCIONABLE DEL UNIVERSO NINTENDO: Este modelo LEGO para construir y exponer pertenece a la gama de sets LEGO Adults, un amplio surtido diseñado para personas que disfruten relajándose con actividades manuales creativas
+- PERSONALIZA TU CREACIÓN: Incluye cartuchos Game Pak para Game Boy de The Legend of Zelda: Link’s Awakening y Super Mario Land (únicamente con fines expositivos), pantallas lenticulares y de inicio de Nintendo
 - INSTRUCCIONES DE CONSTRUCCIÓN 3D: Disfruta de cada paso de la construcción con la app LEGO Builder, que te permite acercar y girar una versión 3D de tu modelo, consultar tu progreso y guardar todos tus sets en un mismo lugar
+- KIT DE MAQUETAS PARA ADULTOS LEGO: Disfruta recordando los videojuegos clásicos con esta réplica casi a tamaño real de una consola portátil Game Boy de Nintendo
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DWDGVHM6{{</world>}}

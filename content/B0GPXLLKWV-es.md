@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - El hierro se afila con hierro. El combate es estratégico, metódico e implacable. Desenvaina tu espada solo cuando se presente la oportunidad adecuada.
-- Enfréntate a enemigos formidables. Tu camino está custodiado por adversarios entregados a dioses inescrutables. Contempla criaturas tan lamentables como grotescas, reúne el valor necesario y plántales cara.
 - Mortal Shell es un RPG de acción implacable y profundo que pone a prueba tu cordura y tu resistencia en un mundo devastado. Mientras los restos de la humanidad se marchitan y se pudren, enemigos fanáticos prosperan entre las ruinas. No muestran piedad alguna, y sobrevivir exige una conciencia aguda, precisión y reflejos impecables. Rastrea santuarios ocultos de seguidores devotos y descubre tu verdadero propósito.
+- Enfréntate a enemigos formidables. Tu camino está custodiado por adversarios entregados a dioses inescrutables. Contempla criaturas tan lamentables como grotescas, reúne el valor necesario y plántales cara.
 - Posee a guerreros perdidos. Los restos olvidados de guerreros derrotados están ahí para que los encuentres. Despierta estas Carcasas Mortales, ocupa sus cuerpos y amplía de forma significativa tu dominio sobre diversos estilos y maestrías de combate.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

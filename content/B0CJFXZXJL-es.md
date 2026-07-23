@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Una majestuosa frontera: recorre frondosos bosques, ciudades hundidas e imponentes montañas en el futuro lejano de un continente americano desolado
+- Disfruta del épico Horizon Forbidden West completo, con contenido adicional y la expansión Burning Shores
+- Enfréntate a nuevos peligros: lucha en batallas estratégicas contra máquinas enormes y los enemigos humanos que las controlan; usa armas, equipo y trampas improvisadas con las piezas que encuentres
 - Explora un enorme mundo abierto: descubre tierras lejanas, nuevos enemigos, ricas culturas y personajes llenos de vida
 - Desentraña misterios sorprendentes: descubre el secreto del inminente colapso de la Tierra y saca a la luz un capítulo oculto del pasado lejano que cambiará a Aloy para siempre
-- Una majestuosa frontera: recorre frondosos bosques, ciudades hundidas e imponentes montañas en el futuro lejano de un continente americano desolado
-- Enfréntate a nuevos peligros: lucha en batallas estratégicas contra máquinas enormes y los enemigos humanos que las controlan; usa armas, equipo y trampas improvisadas con las piezas que encuentres
-- Disfruta del épico Horizon Forbidden West completo, con contenido adicional y la expansión Burning Shores
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJFXZXJL{{</world>}}

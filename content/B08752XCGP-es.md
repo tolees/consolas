@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Incluye cable de carga de 2 metros (conector lightning, mini USB y USB).
-- Compatible con todos los teléfonos móviles o smartphones actuales.
 - Compatible con mando o controller PS4, PS5, Xbox one y Xbox X Series.
+- Compatible con todos los teléfonos móviles o smartphones actuales.
 - Personaje Mandalorian the Child de Star Wars - Disney.
 - Producto con licencia oficial de Disney.
 

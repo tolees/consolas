@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - "CHRONO CROSS: THE RADICAL DREAMERS EDITION" es una remasterización de "CHRONO CROSS".
-- Los modelos en 3D se han actualizado en HD y se han añadido nuevas ilustraciones y todo tipo de funciones.
 - ¡Además, el juego que sentó los cimientos de la historia, "RADICAL DREAMERS – El tesoro prohibido", también está incluido en esta edición! CHRONO CROSS es un RPG que transciende el tiempo y el espacio, al desarrollarse en dos mundos paralelos e interconectados.
+- Los modelos en 3D se han actualizado en HD y se han añadido nuevas ilustraciones y todo tipo de funciones.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09TDS8CHW{{</world>}}

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Junto con su nuevo amigo Six, se propone descubrir la fuente de la Transmisión.
-- Reserva Little Nightmares II y recibe la máscara de Mokujin para que puedas ponérsela a Mono.
 - Little Nightmares II es un juego de aventuras de suspenso en el que juegas como Mono, un niño atrapado en un mundo que ha sido distorsionado por una transmisión maligna.
+- Reserva Little Nightmares II y recibe la máscara de Mokujin para que puedas ponérsela a Mono.
+- Junto con su nuevo amigo Six, se propone descubrir la fuente de la Transmisión.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B08RZJNND5{{</world>}}

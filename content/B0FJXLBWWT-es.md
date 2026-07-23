@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - PERSONALIZA TU CONFIGURACIÓN CON LA BASE RGB INCLUIDA - La base RGB es un centro de control de audio con iluminación RGB personalizable, botones y macros programables, cambio fluido entre dispositivos y controles integrados, lo que garantiza una experiencia de juego fluida y sin interrupciones. Es la primera base RGB reprogramable en unos auriculares gaming inalámbricos.
-- AJUSTA Y OPTIMIZA CON HYPERX NGENUITY - Haz aún más con HyperX NGENUITY, que te ofrece más opciones para personalizar y ajustar a tu gusto, como ecualizadores, controles de audio e iluminación.
-- CONEXIÓN SIMULTÁNEA POR 2.4GHZ Y BLUETOOTH - Mantente conectado sin interrupciones: juega con un rendimiento de baja latencia a 2.4GHz en un dispositivo a través de USB-C o USB-A, mientras gestionas llamadas o música mediante Bluetooth en otro.
 - CONTROLADORES DUALES DE 53MM CON AUDIO ESPACIAL - Experimenta un sonido de alta fidelidad y calidad superior con nuestro diseño compuesto multicapa de HyperX y controladores de 53 mm, diseñados para reducir la distorsión al mínimo. Además, HyperX NGENUITY te ofrece audio espacial que te sumerge en el juego con una precisión milimétrica para cada sonido.
+- CONEXIÓN SIMULTÁNEA POR 2.4GHZ Y BLUETOOTH - Mantente conectado sin interrupciones: juega con un rendimiento de baja latencia a 2.4GHz en un dispositivo a través de USB-C o USB-A, mientras gestionas llamadas o música mediante Bluetooth en otro.
 - HASTA 250 HORAS DE BATERÍA - Disfruta de hasta 250 horas en modo 2.4GHz o 125 horas con conexión simultánea, manteniéndote con energía durante sesiones maratonianas sin interrupciones. El doble de duración de batería que los auriculares gaming de la competencia⁴.
+- AJUSTA Y OPTIMIZA CON HYPERX NGENUITY - Haz aún más con HyperX NGENUITY, que te ofrece más opciones para personalizar y ajustar a tu gusto, como ecualizadores, controles de audio e iluminación.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FJXLBWWT{{</world>}}

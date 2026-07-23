@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- El paquete incluye: 1* RT/LT/RB/LB Botones, 1* ABXY Acción Botones, 1* Start/Back/Sync Botones, 1* Barra Central, 1* Botón compatir dedicado, 1* Herramienta para abrir, 2* Destornilladores, 17* Tornillos de Repuesto. (Importante: El mando, carcasas y otras partes no están incluidos)
+- Requiere que los clientes retiren manualmente el mando para reemplazar este botones completos kit. Busca "eXtremeRate Buttons for Xbox Series X/S" o "kjIIxrSEzlc" en Youtube para obtener el vídeo de instalación.
 - Característica personalizada: El aspecto es muy bonito. Sería genial si lo combina con nuestra carcasa del control.
 - Sólo compatible con Xbox Series X & Series S. No es compatible con otros mandos de XB One. Verifique la segunda imagen antes de la compra.
 - Botones de repuesto diseñado a medida para adaptarse perfectamente al mando XB Series X/S. Corte preciso para que funcionen exactamente como los botones originales.
-- Requiere que los clientes retiren manualmente el mando para reemplazar este botones completos kit. Busca "eXtremeRate Buttons for Xbox Series X/S" o "kjIIxrSEzlc" en Youtube para obtener el vídeo de instalación.
-- El paquete incluye: 1* RT/LT/RB/LB Botones, 1* ABXY Acción Botones, 1* Start/Back/Sync Botones, 1* Barra Central, 1* Botón compatir dedicado, 1* Herramienta para abrir, 2* Destornilladores, 17* Tornillos de Repuesto. (Importante: El mando, carcasas y otras partes no están incluidos)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08THNFYC2{{</world>}}

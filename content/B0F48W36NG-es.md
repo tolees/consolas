@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Al menos 3 finales por cada candidato romántico
-- ¡Montones de juegos de palabras!
 - 100 personajes con los que puedes tener citas
-- Voces completas para cada personaje
+- ¡Montones de juegos de palabras!
 - Narrativas ramificadas
+- Voces completas para cada personaje
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F48W36NG{{</world>}}

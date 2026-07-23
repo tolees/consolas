@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DOMINA UN ESTILO RÁPIDO Y ACROBÁTICO: Eres el príncipe de Persia, y la agilidad es tu mejor arma. Esquiva trampas, corre por las paredes, encadena combos acrobáticos y golpea con precisión. Cada movimiento es una oportunidad, y cada batalla premiará tu habilidad y estilo
 - The Rogue Prince of Persia: Immortal Edition incluirá los siguientes objetos físicos exclusivos: Steelbook. 3 tarjetas de arte premium con piezas del mapa del juego en el reverso. Un póster de doble cara, con los amuletos, armas y herramientas del juego en un lado y un impresionante arte en el otro. El juego físico estará incluido dentro del Steelbook, y todos los demás componentes se incluirán en una faja externa coleccionable
+- DOMINA UN ESTILO RÁPIDO Y ACROBÁTICO: Eres el príncipe de Persia, y la agilidad es tu mejor arma. Esquiva trampas, corre por las paredes, encadena combos acrobáticos y golpea con precisión. Cada movimiento es una oportunidad, y cada batalla premiará tu habilidad y estilo
 - LUCHA A TU MANERA: Descubre, desbloquea y domina más de 100 armas y medallones únicos. Adapta, mejora y personaliza la configuración de tu personaje en cada partida. Crea combinaciones letales que se adapten a tu estilo de juego
 - REESCRIBE EL DESTINO. SALVA PERSIA. MUERE EN EL INTENTO: Da forma a la leyenda de un príncipe que escapó de la muerte, pero cuyo error fatal fue la perdición de su pueblo
 - UNA PARTIDA DIFERENTE CADA VEZ: Ninguna partida es igual. Vuelve a sumergirte en esta aventura en constante evolución, en la que la narración, el metaprogreso, los modificadores de dificultad, los eventos aleatorios y los niveles generados procedimentalmente te dejarán siempre con ganas de echar otra partida

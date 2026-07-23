@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - MECÁNICAS ALEGREMENTE DISRUPTIVAS: Desde destructivas aspiradoras hasta seductores gurús del amor... con It Takes Two, nunca sabes a qué te enfrentarás en cada momento. Con un montón de desafíos en diferentes géneros de juego y nuevas habilidades de personaje que dominar en cada nivel, descubrirás una combinación metafórica de juego e historia que desafía los límites de la narrativa interactiva.
-- PURA PERFECCIÓN COOPERATIVA: Invita a una amistad a acompañarte gratis en cooperativo online con el Pase de amigo** y disfrutad de una emocionante aventura creada para dos. Elige entre cooperativo local y online en pantalla dividida y enfréntate a toda una variedad de desafíos en los que solo podréis avanzar colaborando.
-- NUEVO PARA NINTENDO SWITCH: ¡La aventura que el público conoce y ama se ha optimizado para Nintendo Switch! Podrás jugar con una amistad en cooperativo local con un par de Joy-Con o un mando para cada persona, utilizar el juego local inalámbrico conectando dos consolas Nintendo Switch o jugar en cooperativo online con otra persona que juegue en Nintendo Switch mediante el Pase de amigo*.
 - Recordatorio: El hardware de la consola Nintendo Switch 2 es diferente al de Nintendo Switch, y es posible que algunos juegos de Nintendo Switch no se admitan en Nintendo Switch 2 o no sean totalmente compatibles con ella
-- Totalmente compatible con Switch 2
+- NUEVO PARA NINTENDO SWITCH: ¡La aventura que el público conoce y ama se ha optimizado para Nintendo Switch! Podrás jugar con una amistad en cooperativo local con un par de Joy-Con o un mando para cada persona, utilizar el juego local inalámbrico conectando dos consolas Nintendo Switch o jugar en cooperativo online con otra persona que juegue en Nintendo Switch mediante el Pase de amigo*.
 - UNA HISTORIA UNIVERSAL SOBRE RELACIONES: Descubrid una conmovedora y emotiva historia sobre las dificultades de llevarse bien. Ayudad a Cody y May a superar sus diferencias. Conoced a un variopinto reparto de personajes extraños y entrañables. Unid fuerzas y lanzaos a una aventura que recordaréis para siempre... ¡y no os separéis!
+- PURA PERFECCIÓN COOPERATIVA: Invita a una amistad a acompañarte gratis en cooperativo online con el Pase de amigo** y disfrutad de una emocionante aventura creada para dos. Elige entre cooperativo local y online en pantalla dividida y enfréntate a toda una variedad de desafíos en los que solo podréis avanzar colaborando.
+- Totalmente compatible con Switch 2
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BF54SNKB{{</world>}}
