@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Merch oficial de Epic Games: Con licencia oficial de Epic Games, este soporte movil coleccionable forma parte de la popular gama de accesorios gamer Cable Guys. Ideal como regalo Fortnite o como pieza de exhibición para auténticos seguidores
 - Porta Movil: Accesorios gaming para sujetar tu teléfono con estilo. Compatibles con dispositivos populares como iPhone, Samsung y Google Pixel, incluso con la mayoría de fundas. Un imprescindible para cualquier setup gaming o espacio de escritorio
-- Fans de Fortnite: Los accesorios escritorio definitivos para los amantes de Fortnite. Esta figura coleccionable da vida al Fishsticks mientras mantiene tus dispositivos organizados, a la vista y listos para la próxima batalla
-- Soporte Mando: Un accesorio gamer con gran capacidad de sujeción. Compatible con Xbox, PlayStation y la mayoría de mandos estándar, incluidos los de próxima generación: PS5 DualSense, Xbox Series X/S y Xbox One
 - Dimensiones: Con una altura de aproximadamente 8,5 pulgadas, estos accesorios gamer se integran perfectamente en cualquier setup, escritorio o dormitorio. La base y los brazos estables mantienen tus dispositivos seguros y listos para usar
+- Soporte Mando: Un accesorio gamer con gran capacidad de sujeción. Compatible con Xbox, PlayStation y la mayoría de mandos estándar, incluidos los de próxima generación: PS5 DualSense, Xbox Series X/S y Xbox One
+- Fans de Fortnite: Los accesorios escritorio definitivos para los amantes de Fortnite. Esta figura coleccionable da vida al Fishsticks mientras mantiene tus dispositivos organizados, a la vista y listos para la próxima batalla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FKN7WZ83{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Recluta a otros cazadores A medida que explores el foso, encontrarás a otros cazadores de tesoros ávidos de aportar sus habilidades a tu expedición
 - La edición física incluirá 6 cartas coleccionables y un póster a doble cara con las bolas básicas, fusionadas y evolucionadas del juego en un lado, y en el otro, un arte impresionante
-- Fusiona tus bolas: El sistema de fusión de bolas incita a que experimentes con más de 60 bolas aleatorias que podrás equipar y combinar a lo largo de tu aventura. Descubre combinaciones superpotentes y sinergias inesperadas entre cientos de resultados posibles
+- Recluta a otros cazadores A medida que explores el foso, encontrarás a otros cazadores de tesoros ávidos de aportar sus habilidades a tu expedición
 - Descubre nuevos confines: Enfréntate a legiones de enemigos de lo más variopintas dentro del foso. Lucha en desiertos áridos, cavernas heladas, bosques salvajes y mucho más
 - Construye Nueva Bolabilonia: ¡Expande Nueva Bolabilonia con más de 70 edificios únicos que mejoran la jugabilidad y desbloquean otros potenciadores, nuevos personajes y mucho más
+- Fusiona tus bolas: El sistema de fusión de bolas incita a que experimentes con más de 60 bolas aleatorias que podrás equipar y combinar a lo largo de tu aventura. Descubre combinaciones superpotentes y sinergias inesperadas entre cientos de resultados posibles
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0GN3PBPWC{{</world>}}

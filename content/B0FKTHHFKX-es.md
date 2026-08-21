@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mortal Kombat: Legacy Kollection - Deluxe Edition - PS5'
-date: 2026-07-24 21:07:38
+date: 2026-08-20 08:51:54
 image: 'https://m.media-amazon.com/images/I/41BCFiPTE7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FKTHHFKX-es Mortal Kombat: Legacy Kollection - Deluxe Edition - PS5'
 sku: 'B0FKTHHFKX-es'
 tags: [ 'ps5','🇪🇸', ]
-actualPrice: 34.99 EUR
+actualPrice: 34.12 EUR
 currency: EUR
-price: 34.99
+price: 34.12
 comparePrice: 69.99 EUR
 prodname: 'Mortal Kombat: Legacy Kollection - Deluxe Edition - PS5'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FKTHHFKX/?tag=tolees-21'
-descuento: '50.01'
-average: '42.0466666666666'
+descuento: '51.25'
+average: '41.436923076923'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Múltiples ediciones icónicas: Vive los orígenes legendarios de Mortal Kombat con los clásicos icónicos de arcade, junto con las versiones caseras más queridas para Super NES y Sega Genesis. Profundiza aún más con lanzamientos raros y favoritos de los fans para Game Boy, Game Gear, Sega 32X, Game Boy Advance y más
-- La historia completa: Historias detalladas de los personajes y líneas de tiempo que trazan la épica narrativa de Earthrealm, Outworld y Edenia a lo largo de la era arcade
 - Documental interactivo: Contenido profundo detrás de cámaras que narra la historia de la franquicia, con entrevistas exclusivas y nuevas a los desarrolladores originales de MK, Ed Boon, John Tobias, Dan Forden, John Vogel y muchos más
-- LMortal Kombat : Legacy Kollection – Deluxe Edition comprendra un Steelbook et dautres objets exclusifs qui seront bientôt confirmés
+- La historia completa: Historias detalladas de los personajes y líneas de tiempo que trazan la épica narrativa de Earthrealm, Outworld y Edenia a lo largo de la era arcade
 - Juego en línea: Participa en batallas en línea mejoradas con rollback netcode — diseñado para preservar la precisión de cada ataque, incluso con jugadores a grandes distancias
+- LMortal Kombat : Legacy Kollection – Deluxe Edition comprendra un Steelbook et dautres objets exclusifs qui seront bientôt confirmés
+- Múltiples ediciones icónicas: Vive los orígenes legendarios de Mortal Kombat con los clásicos icónicos de arcade, junto con las versiones caseras más queridas para Super NES y Sega Genesis. Profundiza aún más con lanzamientos raros y favoritos de los fans para Game Boy, Game Gear, Sega 32X, Game Boy Advance y más
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FKTHHFKX{{</world>}}

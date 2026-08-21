@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Más de 90vehículos que podrás conducir (¡y estrellar!).
-- Más de 50misiones únicas y trabajos con recompensas exclusivas que podrás desbloquear en solitario o con tus amigos.
+- Más de 250artículos de ropa para que presumas de estilazo.
 - ¡Diversión infinita!
 - Partidas en línea de 1 a 4jugadores y modo cooperativo local con pantalla dividida. Un sandbox de mundo abierto lleno de minijuegos, entretenimiento, secretos ¡y mucho más!
-- Más de 250artículos de ropa para que presumas de estilazo.
+- Más de 90vehículos que podrás conducir (¡y estrellar!).
+- Más de 50misiones únicas y trabajos con recompensas exclusivas que podrás desbloquear en solitario o con tus amigos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FGDXFTFG{{</world>}}

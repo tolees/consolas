@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Explora tierra, mar y aire mientras posees cualquier criatura que encuentres para experimentar la vida desde una perspectiva completamente nueva. ¡Vuela por enormes cañones como un loro! ¡Rueda entre la hierba como un wombat! ¡Nada por lagos brillantes como un pez! Tu viaje te llevará desde densas selvas boscosas hasta copas de frondosos bosques tropicales, pasando por áridas llanuras desérticas y templos ancestrales.
-- ¡Explora los restos de un mundo caído desde perspectivas fascinantes! Métete en la piel de distintos animales para descubrir el destino de un mundo antiguo. Sumérgete en profundas aguas, vuela a grandes alturas, excava bajo tierra como un topo o escala empinados acantilados como una cabra montesa: hay muchas formas de moverte.
 - En última instancia, descubrirás una historia de lealtad, desesperación y traición, mientras los ecos de la desaparecida cultura Yanrana cobran vida en una naturaleza exuberante desprovista de la presencia humana.
+- ¡Explora los restos de un mundo caído desde perspectivas fascinantes! Métete en la piel de distintos animales para descubrir el destino de un mundo antiguo. Sumérgete en profundas aguas, vuela a grandes alturas, excava bajo tierra como un topo o escala empinados acantilados como una cabra montesa: hay muchas formas de moverte.
 - Vive las historias contrastantes de la caída de la humanidad y la exuberante vida en un mundo reclamado por la naturaleza, con un lobo como personaje principal y un decidido compañero a tu lado.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Producto elaborado con cuidado y precisión
-- Optimo producto
-- Producto creado para satisfacer todas las necesidades
 - Gama confiable
+- Producto elaborado con cuidado y precisión
+- Producto creado para satisfacer todas las necesidades
+- Optimo producto
 - Fácil de usar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

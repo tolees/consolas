@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Standard Edition incluye: LISA: The Painful - Definitive Edition + LISA: The Joyful - Definitive Edition, Hoja de Pegatinas, BSO Descargable y Carátula Reversible (solo en NSW).
-- LISA: The Painful - Definitive Edition incluye nuevo contenido y pesadillas con gráficos en alta definición, modo 120 FPS, nuevas conversaciones de hoguera entre los miembros del grupo, sistemas de batalla actualizados, nuevos bordes para la interfaz, nueva música, reproductor de música (con música de LISA: The First), modo sin dolor (historia) y nuevos secretos que explorar.
 - LISA: The Joyful - Definitive Edition incluye nuevo contenido con gráficos en alta definición, modo 120 FPS, sistemas de batalla actualizados, 6 nuevas de señor de la guerra, nuevos bordes para la interfaz, nuevas canciones, reproductor de música en el juego (con música de LISA: The First), modo sin dolor (historia) y nuevos secretos que desvelar.
+- LISA: The Painful - Definitive Edition incluye nuevo contenido y pesadillas con gráficos en alta definición, modo 120 FPS, nuevas conversaciones de hoguera entre los miembros del grupo, sistemas de batalla actualizados, nuevos bordes para la interfaz, nueva música, reproductor de música (con música de LISA: The First), modo sin dolor (historia) y nuevos secretos que explorar.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DFKDTWQK{{</world>}}

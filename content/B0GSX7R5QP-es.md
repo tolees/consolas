@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adéntrate en la galaxia de Star Wars con un atrevido giro nuevo para MONOPOLY. Vive momentos emblemáticos de las películas mientras compites con tu familia y amigos en célebres ubicaciones de todas las épocas de la saga.
 - La partida puede cambiar con cada tirada al cambiar de manos las propiedades en un instante. Los eventos de SALIDA dinámicos plantean giros que ponen patas arriba la partida y alteran rápidamente su transcurso, con lo que todo está en juego en cada turno y la victoria no se decide hasta el final.
-- Reserva ya y desbloquea dos aspectos únicos para los dados del juego inspirados en personajes emblemáticos de Star Wars: el jawa y el soldado clon.
-- Forma equipo con tu familia y amigos jugando online o en cooperativo local, y disfruta de MONOPOLY como nunca antes con modos de juego competitivos 2c2 y 3c3. Con innumerables composiciones de equipo, el juego transforma la competición clásica en un divertido enfrentamiento estratégico.
 - Cada personaje aporta habilidades de héroe únicas, lo que te permite diseñar la composición de tu equipo para llevarlo a la victoria. Toma el control de leyendas como Darth Maul y la princesa Leia, todas con potentes habilidades que pueden dar la vuelta a la partida a tu favor.
+- Adéntrate en la galaxia de Star Wars con un atrevido giro nuevo para MONOPOLY. Vive momentos emblemáticos de las películas mientras compites con tu familia y amigos en célebres ubicaciones de todas las épocas de la saga.
+- Forma equipo con tu familia y amigos jugando online o en cooperativo local, y disfruta de MONOPOLY como nunca antes con modos de juego competitivos 2c2 y 3c3. Con innumerables composiciones de equipo, el juego transforma la competición clásica en un divertido enfrentamiento estratégico.
+- Reserva ya y desbloquea dos aspectos únicos para los dados del juego inspirados en personajes emblemáticos de Star Wars: el jawa y el soldado clon.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GSX7R5QP{{</world>}}

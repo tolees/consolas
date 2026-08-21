@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Los mandos Joy-Con 2 se han actualizado y no solo permiten usar fácilmente los controles de movimiento, sino que también cuentan con vibración HD 2, así como un nuevo botón C para acceder fácilmente a GameChat** y la opción de usar el nuevo modo ratón en juegos compatibles
-- Solo compatible con Nintendo Switch 2, "Para cualquier duda de carácter técnico o para obtener información adicional sobre funcionalidades y compatibilidad del producto, te recomendamos consultar la página de ayuda en el sitio web de Nintendo"
 - Nuevos colores del Mando Joy Con para Nintendo Switch 2, Azul y Amarillo
+- Solo compatible con Nintendo Switch 2, "Para cualquier duda de carácter técnico o para obtener información adicional sobre funcionalidades y compatibilidad del producto, te recomendamos consultar la página de ayuda en el sitio web de Nintendo"
 - Este juego de mandos incluye dos Joy-Con 2 (uno derecho y uno izquierdo), junto con un par de correas, Es perfecto para jugar en modo multijugador local con otra persona en títulos compatibles
+- Los mandos Joy-Con 2 se han actualizado y no solo permiten usar fácilmente los controles de movimiento, sino que también cuentan con vibración HD 2, así como un nuevo botón C para acceder fácilmente a GameChat** y la opción de usar el nuevo modo ratón en juegos compatibles
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0H4R5H9QN{{</world>}}

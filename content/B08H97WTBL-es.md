@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Una inmersión que te dejará sin aliento
 - Carga hasta dos mandos inalámbricos DualSensesimultáneamente sin necesidad de conectarlos a tu consola PlayStation 5.
+- Una inmersión que te dejará sin aliento
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08H97WTBL{{</world>}}

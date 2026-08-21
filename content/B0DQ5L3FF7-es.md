@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Armas y poderes desbloqueables y ¡mucha diversión y acción!
 - 4 mundos con 3 fases cada uno. Cooperativo local de 1 a 4 jugadores.
+- Armas y poderes desbloqueables y ¡mucha diversión y acción!
 - Run n Slash n Gun y sorprendentes gráficos de 16 bits.
 - 4 personajes principales, cada uno de ellos con habilidades especiales.
 

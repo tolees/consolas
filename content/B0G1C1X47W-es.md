@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 72 niveles que pondrán a prueba tus habilidades para romper ladrillos.
-- Modo infinito que puede desbloquearse con una tabla de clasificación global en línea.
 - Efectos visuales y audio de procedimiento que aumentan con tu combo.
+- Modo infinito que puede desbloquearse con una tabla de clasificación global en línea.
+- 72 niveles que pondrán a prueba tus habilidades para romper ladrillos.
 - Modo cooperativo de dos jugadores para gestionar el caos con un amigo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

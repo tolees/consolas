@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Enfréntate a Arturo con estilo con la Edición de lujo, que te da acceso a la colección definitiva de mejoras cosméticas para SWORN. El Combo cosmético contiene un diseño de arma único para cada una de las 4 armas de los 4 personajes y un atuendo insignia confeccionado a la medida de cada héroe
-- La Edición de lujo de SWORN contiene: Juego principal de SWORN SWORN: Paquete cosmético de lujo (Justiciero) SWORN: Paquete cosmético de lujo (Roca) SWORN: Paquete cosmético de lujo (Estratega) SWORN: Paquete cosmético de lujo (Espectro)
 - SWORN es un juego cooperativo rogue-like de acción para un máximo de 4 jugadores. Explora y salva a Camelot de la desgracia en que lo ha sumido el reinado de un rey Arturo corrompido y sus Caballeros de la Mesa Redonda.
+- La Edición de lujo de SWORN contiene: Juego principal de SWORN SWORN: Paquete cosmético de lujo (Justiciero) SWORN: Paquete cosmético de lujo (Roca) SWORN: Paquete cosmético de lujo (Estratega) SWORN: Paquete cosmético de lujo (Espectro)
+- Enfréntate a Arturo con estilo con la Edición de lujo, que te da acceso a la colección definitiva de mejoras cosméticas para SWORN. El Combo cosmético contiene un diseño de arma único para cada una de las 4 armas de los 4 personajes y un atuendo insignia confeccionado a la medida de cada héroe
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FP2MPWR5{{</world>}}

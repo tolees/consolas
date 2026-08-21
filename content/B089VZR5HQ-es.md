@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Ideal para fans de los juegos de carreras: compatible con juegos de carreras que utilizan el control por movimiento de los Joy-Con, como Mario Kart, Star Wars Racer y Fast RMX. Juegos como Team Sonic Racing y Horizon Chase Turbo no cuentan con esta función.
 - Este soporte de mesa con volante Joy-Con mejora los juegos de carreras con control por movimiento, ofreciendo una experiencia de conducción más realista e inmersiva en Switch y OLED.
 - Fácil de instalar y retirar, es ideal para configuraciones de juego en casa e incluye una garantía del fabricante de 1 año.
+- Ideal para fans de los juegos de carreras: compatible con juegos de carreras que utilizan el control por movimiento de los Joy-Con, como Mario Kart, Star Wars Racer y Fast RMX. Juegos como Team Sonic Racing y Horizon Chase Turbo no cuentan con esta función.
 - Diseñado únicamente para superficies lisas y no porosas, no es adecuado para superficies texturizadas, mates, irregulares, porosas o con polvo; la superficie debe estar limpia y seca antes de la instalación.
 - La base con ventosas resistentes se fija firmemente a superficies lisas, limpias, planas y no porosas como vidrio, madera pulida, metal o laminado para mantener la estabilidad durante el juego.
 

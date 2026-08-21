@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Explora las 9 Islas Canarias en una sola aventura: Recorre Lanzarote, La Graciosa, Fuerteventura, Gran Canaria, Tenerife, La Gomera, La Palma, El Hierro y la mítica San Borondón, cada una recreada con su ambiente, historia y cultura.
-- Colecciona objetos culturales y postales educativas: Completa tu colección encontrando postales y artefactos inspirados en piezas auténticas de las Islas Canarias, ampliando tu conocimiento a medida que avanzas.
-- Jugabilidad única en cada isla: Cada localización incluye su propio ecosistema, mecánicas exclusivas, puzles narrativos y zonas de plataformas 2D diseñadas para ofrecer desafíos variados.
 - Aprende sobre cultura e historia mientras juegas: El juego integra referencias reales al patrimonio natural y cultural canario, ofreciendo información educativa durante la aventura.
+- Colecciona objetos culturales y postales educativas: Completa tu colección encontrando postales y artefactos inspirados en piezas auténticas de las Islas Canarias, ampliando tu conocimiento a medida que avanzas.
+- Explora las 9 Islas Canarias en una sola aventura: Recorre Lanzarote, La Graciosa, Fuerteventura, Gran Canaria, Tenerife, La Gomera, La Palma, El Hierro y la mítica San Borondón, cada una recreada con su ambiente, historia y cultura.
+- Jugabilidad única en cada isla: Cada localización incluye su propio ecosistema, mecánicas exclusivas, puzles narrativos y zonas de plataformas 2D diseñadas para ofrecer desafíos variados.
 - Escenarios icónicos inspirados en lugares reales: Descubre maravillas como Timanfaya, la Cueva de los Verdes, Playa de las Conchas, Tindaya, Risco Caído, el Teide, Garajonay, el Observatorio del Roque de los Muchachos y el legendario Árbol Garoé
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

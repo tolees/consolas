@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - REMORSE: THE LIST Explora una inquietante ciudad húngara y desvela sus secretos siguiendo una enigmática lista.
+- PROJECT NIGHTMARES Adéntrate en una pesadilla única generada de forma procedimental y descubre el oscuro pasado de Henrietta Kedward.
+- La edición incluye tres cartas de tarot coleccionables
 - NO SON OF MINE Combate, sigilo y puzles en una historia donde serás cazado sin descanso. ¿Podrás descubrir la verdad antes de que te encuentre?
 - Vive tres intensos survival horror en un solo pack.
-- La edición incluye tres cartas de tarot coleccionables
-- PROJECT NIGHTMARES Adéntrate en una pesadilla única generada de forma procedimental y descubre el oscuro pasado de Henrietta Kedward.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FPXS7LYJ{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Recluta héroes y ponlos al mando de tus tropas; cada uno de ellos contará con una misión personalizada
 - Consigue que el grimorio, un artefacto viviente e interactivo, te revele hechizos y secretos
+- Expande tu torre y construye estancias para determinar el camino de tu hechicero
+- Recluta héroes y ponlos al mando de tus tropas; cada uno de ellos contará con una misión personalizada
 - Fabrica por doquier: desde runas mágicas y artefactos hasta sirvientes no muertos
 - Descubre aventuras en cada campaña generada procedimentalmente
-- Expande tu torre y construye estancias para determinar el camino de tu hechicero
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CJ959KW8{{</world>}}

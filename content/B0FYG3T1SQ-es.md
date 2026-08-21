@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ¿Tu tarea? Explorar el Palacio Imperial Oda, negociar con sus distintas facciones y asegurar la supervivencia del Imperio.
-- La historia sigue los acontecimientos de Shrouded in Sanity, Usurper y Into the Fray, mientras la saga Skautfold se acerca a su conclusión. No es necesario haber jugado a los títulos anteriores para disfrutar de esta entrega, aunque hacerlo sin duda enriquecerá la experiencia.
 - Pronto te encontrarás explorando el Palacio Imperial Oda, donde descubrirás el oscuro secreto que yace bajo sus cimientos. Será allí donde intentarás cumplir tu misión y recuperar un objeto muy especial del que depende la supervivencia de todo el Imperio.
-- Cuando todo se venga abajo y la Luna se abra, ¿salvarás al Imperio o caerás ante los cultistas de los Mitos?
+- La historia sigue los acontecimientos de Shrouded in Sanity, Usurper y Into the Fray, mientras la saga Skautfold se acerca a su conclusión. No es necesario haber jugado a los títulos anteriores para disfrutar de esta entrega, aunque hacerlo sin duda enriquecerá la experiencia.
 - Prepárate para un viaje demencial: la misma luna se abrirá para revelar el destino de la humanidad y la inevitable comprensión de nuestra insignificancia.
+- Cuando todo se venga abajo y la Luna se abra, ¿salvarás al Imperio o caerás ante los cultistas de los Mitos?
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FYG3T1SQ{{</world>}}

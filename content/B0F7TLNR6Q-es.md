@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pestalla de privacidad
-- Compatible con todos los modos (televisor, sobremesa y portátil)
-- Licencia oficial de Nintendo
-- Base con pinza plegable y regulable
 - Incluye cable USB-C y adaptador de audio en ángulo recto para conectar auriculares a la consola en horizontal
+- Base con pinza plegable y regulable
+- Pestalla de privacidad
+- Licencia oficial de Nintendo
+- Compatible con todos los modos (televisor, sobremesa y portátil)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0F7TLNR6Q{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Descubre habilidades que cambian el juego ocultas por todo el mapa. Golpea, salta por la pared y deslízate por una red interconectada de túneles, cavernas y laboratorios de investigación.
-- La Edición Estándar incluye: Juego Físico y Manual de Instrucciones.
 - ¡Combate contra más de 80 enemigos únicos y más de 10 formidables jefes! Desde gusanos mutantes y bestias electrificadas, hasta IAs rebeldes y bichos gigantescos. Todos ofrecen desafíos e interacciones diferentes y emocionantes.
-- Utiliza un versátil sistema de mapas que te ayudará a seguir tu progreso. Utiliza marcadores personalizados, controla tu porcentaje de finalización y encuentra terminales ocultos para descubrir zonas inexploradas.
 - Personaliza tu estilo de juego con 48 mejoras opcionales que pueden cambiar drásticamente tu forma de jugar. Lucha junto a un dron reprogramado, transforma tus ataques en ráfagas láser en espiral o incluso invoca tentáculos para bloquear proyectiles.
+- Utiliza un versátil sistema de mapas que te ayudará a seguir tu progreso. Utiliza marcadores personalizados, controla tu porcentaje de finalización y encuentra terminales ocultos para descubrir zonas inexploradas.
+- La Edición Estándar incluye: Juego Físico y Manual de Instrucciones.
+- Descubre habilidades que cambian el juego ocultas por todo el mapa. Golpea, salta por la pared y deslízate por una red interconectada de túneles, cavernas y laboratorios de investigación.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DZP36PXD{{</world>}}

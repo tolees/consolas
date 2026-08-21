@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatible con casi todos los mandos Bluetooth y joysticks de arcade de 8BitDo, así como con mandos modernos de conexión inalámbrica.
-- Compatibilidad con mandos: mandos de Xbox One, Series y Elite. Mandos de PS4/PS5. Mandos Wii U Pro y Switch Pro.
 - Prácticamente sin retrasos. Compatible con la vibración del mando y la actualización del firmware. Compatible con la función de memoria (los ajustes guardados en el receptor se pueden exportar mediante el software Ultimate).
-- Compatibilidad con sistemas: consola N64, otros sistemas con puerto para mando de N64 y Windows 10/11.
+- Compatible con casi todos los mandos Bluetooth y joysticks de arcade de 8BitDo, así como con mandos modernos de conexión inalámbrica.
 - Juega con tu consola N64 original utilizando tu mando favorito de forma inalámbrica.
+- Compatibilidad con sistemas: consola N64, otros sistemas con puerto para mando de N64 y Windows 10/11.
+- Compatibilidad con mandos: mandos de Xbox One, Series y Elite. Mandos de PS4/PS5. Mandos Wii U Pro y Switch Pro.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FF4RDW21{{</world>}}

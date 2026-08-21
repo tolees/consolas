@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Uses E-mote, which has been well-received in Anonymous;Code. Smooth animations and rich expressions breathe new life to beloved characters.
-- Characters, backgrounds, and pivotal moments have all been updated from scratch. There are twice the amount of still images and 20% more background graphics compared to the original version.
-- Character designer huke returns with redesigned outfits and accessories that bring a contemporary flair to the cast while Akihabara has been recreated with stunning realism and depth, including new scenes.
 - Exclusive bonus item included in the initial print run: 4.5-inch clear sticker featuring the games characters!
 - Series composer Takeshi Abo has remade the soundtrack, and the original voice actors have returned to re-record all in-game voices in Japanese. In addition to new dialogue and narrative text, a new route has been added with an additional ending.
+- Character designer huke returns with redesigned outfits and accessories that bring a contemporary flair to the cast while Akihabara has been recreated with stunning realism and depth, including new scenes.
+- Characters, backgrounds, and pivotal moments have all been updated from scratch. There are twice the amount of still images and 20% more background graphics compared to the original version.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0H35VW2VR{{</world>}}

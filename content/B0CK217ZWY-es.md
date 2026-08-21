@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Más de 150 cartas disponibles para construir tu propio mazo
-- 6 regiones para explorar bien conocidas para los fans de Astérix
 - Una nueva y exclusiva aventura, nunca vista en los cómics
-- Todos los héroes de la famosa serie de cómics están en este nuevo juego: 24 emblemáticos héroes jugables de la serie de cómics
+- Más de 150 cartas disponibles para construir tu propio mazo
 - Un amplia gama de desafíos que completar
+- 6 regiones para explorar bien conocidas para los fans de Astérix
+- Todos los héroes de la famosa serie de cómics están en este nuevo juego: 24 emblemáticos héroes jugables de la serie de cómics
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CK217ZWY{{</world>}}

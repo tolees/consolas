@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Beautiful character art and music
-- Includes DLC & behind-the-scenes commentary from the creative team
-- A coming-of-age story about overcoming hardships and finding yourself
 - Unravel a mystery stretching back hundreds of years
+- A coming-of-age story about overcoming hardships and finding yourself
+- Includes DLC & behind-the-scenes commentary from the creative team
+- Beautiful character art and music
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D5MDKC4H{{</world>}}

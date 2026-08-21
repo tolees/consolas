@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Controla a Alex y explora una isla 3D con tu fiel dispositivo Ambrosidex en la mano.
-- Devuelve los recuerdos a su dueño correcto para despertar su memoria, activar flashbacks y revelar la historia de la maldición de la isla.
 - Encuentra a los distintos habitantes de la isla y añade su señal personal a tu Ambrosidex. ¡Algunos dioses serán más difíciles de alcanzar que otros!
-- ¿Podrás despertar a los dioses, romper la maldición y encontrar el camino de regreso a casa?
 - Usa la señal del radar de tu Ambrosidex para localizar los tesoros perdidos de tus nuevos amigos escondidos por la isla.
+- Devuelve los recuerdos a su dueño correcto para despertar su memoria, activar flashbacks y revelar la historia de la maldición de la isla.
+- Controla a Alex y explora una isla 3D con tu fiel dispositivo Ambrosidex en la mano.
+- ¿Podrás despertar a los dioses, romper la maldición y encontrar el camino de regreso a casa?
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FW5JYCWG{{</world>}}

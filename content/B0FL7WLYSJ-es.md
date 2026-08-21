@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Visita lugares emblemáticos, como el Palacio de Neptuno y el Monte Bikini
+- Combina las habilidades únicas de plataformas de Bob Esponja y Patricio Controla las nuevas técnicas de Patricio: excavar y agarrar
+- Descubre una nueva historia fantasmal Con el reparto de voces originales de la serie
 - Salva Fondo de Bikini en esta nueva y fantasmagórica aventura! Alterna al instante entre Bob Esponja y Patricio
 - Enfréntate a jefes épicos, como el Holandés Errante, el Rey Neptuno y Arenita en hibernación
-- Visita lugares emblemáticos, como el Palacio de Neptuno y el Monte Bikini
-- Descubre una nueva historia fantasmal Con el reparto de voces originales de la serie
-- Combina las habilidades únicas de plataformas de Bob Esponja y Patricio Controla las nuevas técnicas de Patricio: excavar y agarrar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FL7WLYSJ{{</world>}}

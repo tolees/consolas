@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Un mundo que cambia con el tiempo: Los planetas de Outer Wilds están repletos de lugares ocultos que cambian con el paso del tiempo. Visita una ciudad subterránea antes de que la trague la arena, o explora la superficie de un planeta a medida que se desmorona debajo de tus pies. Cada secreto está protegido por entornos peligrosos y catástrofes naturales
 - ¡Te damos la bienvenida al programa espacial! Eres el nuevo recluta de Outer Wilds Ventures, un nuevo programa espacial que busca respuestas en un extraño sistema solar en constante evolución
-- Los misterios del sistema solar... ¿Qué acecha en el corazón del ominoso planeta Dark Bramble? ¿Quién construyó las ruinas alienígenas en la Luna? ¿Se puede detener el bucle temporal infinito? Las respuestas te esperan en los confines más peligrosos del espacio
 - Esta edición física incluye: Póster de mapa planetario plegable por el artista conceptual de Mobius Digital,Ian Jacobson
+- Los misterios del sistema solar... ¿Qué acecha en el corazón del ominoso planeta Dark Bramble? ¿Quién construyó las ruinas alienígenas en la Luna? ¿Se puede detener el bucle temporal infinito? Las respuestas te esperan en los confines más peligrosos del espacio
 - ¡Ponte tu equipo de exploración intergaláctica! Ponte tus botas de montaña, controla tus niveles de oxígeno y prepárate para aventurarte en el espacio. Utiliza una serie de artilugios únicos para explorar tu entorno, rastrear misteriosas señales, descifrar antiguas escrituras extraterrestres y tostar la nube de caramelo perfecta
+- Un mundo que cambia con el tiempo: Los planetas de Outer Wilds están repletos de lugares ocultos que cambian con el paso del tiempo. Visita una ciudad subterránea antes de que la trague la arena, o explora la superficie de un planeta a medida que se desmorona debajo de tus pies. Cada secreto está protegido por entornos peligrosos y catástrofes naturales
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DWFWRPT7{{</world>}}
