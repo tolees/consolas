@@ -1,0 +1,26 @@
+{{ define "main" }}
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  {{ partial "mobile_nav_toggle.html" . }}
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content">
+        <h2>{{ .Title }}</h2>
+        {{ partial "share-buttons.html" . }}
+        <p align="right">🔄: {{ .Params.date }}</p>
+
+<!-- Calculate the age in days and months -->
+{{ $ageDays := div (sub now.Unix .Date.Unix) 86400 }}
+
+
+<!-- Published more than 1 day ago -->
+{{  if lt $ageDays 1 }}
+  {{ partial "datasheet.html" . }}
+{{ end }}
+
+
+        {{ .Content }} {{ template "_internal/disqus.html" . }}
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
