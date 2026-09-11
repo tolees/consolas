@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La edición física de Train Sim World 6 también incluye el XC Class 220 paquete DLC.
-- La próxima estación es... ¡ANUNCIOS! Preste atención tanto en los andenes como en los trenes a los mensajes de megafonía sobre los detalles de los trayectos. Enfréntese a lo inesperado con ACONTECIMIENTOS ALEATORIOS: restricciones de velocidad o señales que tardan en dar vía libre. Embárquese en un nuevo viaje a su manera, con el MODO REVISOR, el RECORRIDO LIBRE, el CREATORS CLUB, el MODO DE FOTOGRAFÍA y otros.
 - ¡Espere lo inesperado en Train Sim World 6! Esté preparado para cualquier eventualidad mientras domina magníficos trenes en 3 rutas diferentes.
+- La edición física de Train Sim World 6 también incluye el XC Class 220 paquete DLC.
+- Cruce los suburbios de los condados de Morris & Essex y acelere hasta la ciudad de Dover con la MORRISTOWN LINE en los coches NJ TRANSIT Arrow III, ALP-46 y multiniveles.
+- La próxima estación es... ¡ANUNCIOS! Preste atención tanto en los andenes como en los trenes a los mensajes de megafonía sobre los detalles de los trayectos. Enfréntese a lo inesperado con ACONTECIMIENTOS ALEATORIOS: restricciones de velocidad o señales que tardan en dar vía libre. Embárquese en un nuevo viaje a su manera, con el MODO REVISOR, el RECORRIDO LIBRE, el CREATORS CLUB, el MODO DE FOTOGRAFÍA y otros.
 - Atraviese las fronteras de Nahverkehr Dresden y acelere a lo largo de BAHNSTRECKE LEIPZIG - DRESDEN en la DB BR 411 ICE-T y mucho más.
 - Viaje por el icónico dique de Dawlish y haga frente a los Devon Banks con la RIVIERA LINE, que incluye la GWR Class 802 y la Class 150/2.
-- Cruce los suburbios de los condados de Morris & Essex y acelere hasta la ciudad de Dover con la MORRISTOWN LINE en los coches NJ TRANSIT Arrow III, ALP-46 y multiniveles.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0GFF49VBM{{</world>}}

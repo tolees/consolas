@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nueva banda sonora de Anamanaguchi - Conocidos por su mezcla explosiva de música de 8 bits y su rock hipermelódico, el grupo vuelve a sus raíces con música inédita creada para esta aventura por Toronto
-- Caos cooperativo para 4 jugadores - Une fuerzas con hasta tres amigos, tanto de manera local como en línea, en un modo cooperativo del que podrás entrar y salir con facilidad. Lucha en solitario o salid juntos a la calle
 - Ponte en la piel de siete luchadores muy queridos por los fans - SCOTT PILGRIM, RAMONA FLOWERS, MATTHEW PATEL, GIDEON GRAVES, LUCAS LEE, ROXIE RICHTER y ROBOT-01 - que cuentan con sus propios estilos de combate
 - ¡La versión física incluye un póster plegable de doble cara con los personajes de Scott Pilgrim EX!
 - Una aventura completamente nueva - Adéntrate en misiones legendarias y lucha contra nuevos enemigos y jefes en niveles interconectados en esta nueva historia del creador de la novela gráfica, Bryan Lee O’Malley, que gustará tanto a los fans de siempre como a los recién llegados
+- Nueva banda sonora de Anamanaguchi - Conocidos por su mezcla explosiva de música de 8 bits y su rock hipermelódico, el grupo vuelve a sus raíces con música inédita creada para esta aventura por Toronto
+- Caos cooperativo para 4 jugadores - Une fuerzas con hasta tres amigos, tanto de manera local como en línea, en un modo cooperativo del que podrás entrar y salir con facilidad. Lucha en solitario o salid juntos a la calle
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0GY9QDBMK{{</world>}}

@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Seis corredores compiten y se empujan para pasar por los puntos de control y llegar a la meta. Aniquila a tus rivales con un arsenal de armas locas, como cañones de baba o bobinas Tesla, pero cuidado: cada punto de control sirve como punto de reaparición, y la venganza sabe mejor cuando llega en forma de un enorme mazo o una escopeta montada en el techo.
 - Hasta seis jugadores en la misma pantalla o en línea con multijugador multiplataforma
+- Combina piezas de pista y obstáculos únicos para crear circuitos casi infinitos
+- Seis corredores compiten y se empujan para pasar por los puntos de control y llegar a la meta. Aniquila a tus rivales con un arsenal de armas locas, como cañones de baba o bobinas Tesla, pero cuidado: cada punto de control sirve como punto de reaparición, y la venganza sabe mejor cuando llega en forma de un enorme mazo o una escopeta montada en el techo.
+- Activa o desactiva trampas y barreras de seguridad para hacer las curvas más sencillas (¡o más letales!) con reglas totalmente personalizables
 - Lucha por conseguir armas y potenciadores para ganar ventaja
 - Desbloquea nuevas piezas de pista y vehículos para carreras aún más alocadas
-- Activa o desactiva trampas y barreras de seguridad para hacer las curvas más sencillas (¡o más letales!) con reglas totalmente personalizables
-- Combina piezas de pista y obstáculos únicos para crear circuitos casi infinitos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FQPP6JD2{{</world>}}

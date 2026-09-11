@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Usa tácticas órkikas en Konvoy letal mientras los equipos defienden a su gigantesco Pizoteador mecánico a la vez que sabotean el del enemigo. En cada partida, ¡se desatará el caos conforme luchas por llegar a la línea de meta! Cada vehículo es diferente y recompensará a los jugadores con habilidades diversas, aztucia y estadísticas brutales
-- Más velocidad. Más dakka. Disfruta de la veloziwaaagh y recorre pistas devastadas por la guerra, compitiendo en solitario, contra bots o con otros jugadores en línea en diferentes modos de juego
-- Demuestra que corres que te las pelaz en Karrera mortal, una carrera de combate de 8 contra 8 donde la velocidad, la aztucia y la agresividad se unen antes de pisar el acelerador a fondo hasta la victoria
 - Cuando reine la calma, crea tu propio caos gracias a un poderoso editor de niveles con más de 400 recursos. Crea circuitos y campos de batalla en solitario o con amigos en tiempo real. Luego, ¡comparte tus creaciones en el taller, desde donde también podrás descargar otras creaciones locas de la comunidad
+- Más velocidad. Más dakka. Disfruta de la veloziwaaagh y recorre pistas devastadas por la guerra, compitiendo en solitario, contra bots o con otros jugadores en línea en diferentes modos de juego
+- Usa tácticas órkikas en Konvoy letal mientras los equipos defienden a su gigantesco Pizoteador mecánico a la vez que sabotean el del enemigo. En cada partida, ¡se desatará el caos conforme luchas por llegar a la línea de meta! Cada vehículo es diferente y recompensará a los jugadores con habilidades diversas, aztucia y estadísticas brutales
+- Demuestra que corres que te las pelaz en Karrera mortal, una carrera de combate de 8 contra 8 donde la velocidad, la aztucia y la agresividad se unen antes de pisar el acelerador a fondo hasta la victoria
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GRBTX5CJ{{</world>}}

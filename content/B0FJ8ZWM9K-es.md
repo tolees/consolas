@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Examina los informes, busca en los archivos, averigua el historial de la víctima.
-- Una combinación de simulador y juego de terror
 - Casos analizados por especialistas
 - Cartografía detallada de órganos y casos
+- Una combinación de simulador y juego de terror
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FJ8ZWM9K{{</world>}}

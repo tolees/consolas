@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - ¡Ocho títulos clásicos, incluidos algunos de los juegos más influyentes en la historia de los shoot ’em up!
-- ¡No solo una banda sonora inolvidable, sino ocho!
 - Mejoras modernas de calidad de vida como guardado rápido y tablas de clasificación.
+- ¡No solo una banda sonora inolvidable, sino ocho!
 - Conoce a Pipiru, la encantadora mascota de Toaplan. ¿Puedes encontrar todas sus ubicaciones?
 
 [🛒 Visítala!!!]({{< param buyurl >}})

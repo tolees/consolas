@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- DESARROLLA TU PERSONAJE Utiliza una gran cantidad de puntos de habilidad para expandir las capacidades de tu héroe, ofreciendo una multitud de opciones de desarrollo de personaje.
+- LUCHA Y APRENDE Sumérgete en un mundo donde dominar el combate, desde tácticas defensivas como el bloqueo y la evasión hasta una amplia variedad de ataques, es la clave del éxito. Si caes en batalla, levántate de nuevo, mejora las habilidades de tu héroe, prueba una táctica diferente y aventúrate una vez más.
+- ACHILLE DOUBLE PACK TROY EDITION incluye una funda especial, una lámina y el libro de arte
+- ENFRENTA DESAFÍOS ÚNICOS Enfréntate a enemigos que utilizan un innovador sistema de IA GAIA (Group AI Action). Tus adversarios muestran interacciones no guionizadas entre sí, lo que permite ataques coordinados, a menudo haciendo un uso estratégico de su entorno.
+- Esta vez la leyenda de Aquiles está en tus manos, descubre la historia inédita del héroe griego en ACHILLES: LEGENDS UNTOLD y sobrevive a interminables oleadas de enemigos en ACHILLES: SURVIVOR
 - EXPLORA LA ANTIGUA GRECIA Recorre ubicaciones meticulosamente diseñadas inspiradas en la antigua Grecia. Sube por pasos de montaña, adéntrate en las mazmorras más profundas y lucha por sobrevivir en fisuras de otro mundo.
 - ELIGE TU ESTILO DE COMBATE Selecciona tu arma ideal, ya sea empuñando una espada de una mano y un hacha en la otra, o el poder de las espadas de dos manos. Equípate con poderosos ataques especiales, crea unas cuantas granadas con ingredientes recopilados y lánzate a la batalla.
-- LUCHA Y APRENDE Sumérgete en un mundo donde dominar el combate, desde tácticas defensivas como el bloqueo y la evasión hasta una amplia variedad de ataques, es la clave del éxito. Si caes en batalla, levántate de nuevo, mejora las habilidades de tu héroe, prueba una táctica diferente y aventúrate una vez más.
-- Esta vez la leyenda de Aquiles está en tus manos, descubre la historia inédita del héroe griego en ACHILLES: LEGENDS UNTOLD y sobrevive a interminables oleadas de enemigos en ACHILLES: SURVIVOR
-- ENFRENTA DESAFÍOS ÚNICOS Enfréntate a enemigos que utilizan un innovador sistema de IA GAIA (Group AI Action). Tus adversarios muestran interacciones no guionizadas entre sí, lo que permite ataques coordinados, a menudo haciendo un uso estratégico de su entorno.
-- DESARROLLA TU PERSONAJE Utiliza una gran cantidad de puntos de habilidad para expandir las capacidades de tu héroe, ofreciendo una multitud de opciones de desarrollo de personaje.
-- ACHILLE DOUBLE PACK TROY EDITION incluye una funda especial, una lámina y el libro de arte
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GWMGS7BY{{</world>}}

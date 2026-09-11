@@ -31,8 +31,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - CONSTRUYA SU REPOSITORIO GAMING La capacidad de hasta 2 TB le permite crear el repositorio Gaming definitivo sin renunciar a ningún título.
 - LUZ Y COLOR Una barra LED integrada ilumina su centro Gaming con verde Xbox.
 - XBOX ONE funciona desde disco externo; SERIES X/S requiere transferencia al SSD interno.
-- DISEÑO BRILLANTE Un diseño atrevido y refinado, creado para estar a la altura de su Xbox.
 - CERTIFICADA PARA X-BOX Compatible con Xbox Series X, Xbox Series S y todas las generaciones de Xbox One.
+- DISEÑO BRILLANTE Un diseño atrevido y refinado, creado para estar a la altura de su Xbox.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BKV55P1H{{</world>}}

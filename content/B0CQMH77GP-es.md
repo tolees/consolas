@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Transporta a distintos clientes y responde a sus peticiones para conseguir propinas (charlar, abrir una ventanilla, cambiar la emisora de radio, etc.)
-- Gestiona tu empresa y maximiza los beneficios. Contrata conductores y asígnales coches, tramos horarios y áreas de la ciudad
-- Compra vehículos, encárgate de su mantenimiento y personalízalos. Mejora tus vehículos usando los beneficios y la experiencia que obtengas
 - ¡Primer simulador de taxi realista! Al volante de tu taxi y tu negocio, transporta pasajeros por toda Barcelona y desarrolla tu empresa
+- Compra vehículos, encárgate de su mantenimiento y personalízalos. Mejora tus vehículos usando los beneficios y la experiencia que obtengas
+- Gestiona tu empresa y maximiza los beneficios. Contrata conductores y asígnales coches, tramos horarios y áreas de la ciudad
 - Explora 460 kilómetros de carreteras por Barcelona y sus famosos monumentos.Adapta tus rutas en función de eventos aleatorios, como accidentes, obras y desfiles
 
 [🛒 Visítala!!!]({{< param buyurl >}})

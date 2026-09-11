@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 70 mapas y 168 eventos: Explora un vasto mundo interconectado, desde cavernas sombrías hasta castillos en ruinas y volcanes en erupción. Enfréntate a jefes colosales que se interponen entre tú y tu destino.
-- Más de 20 horas de historia principal única: Una aventura extensa y sin repeticiones, además de la rejugabilidad propia de los roguelike y niveles de dificultad desbloqueables.
-- 152 talentos y 34 habilidades: Combínalos libremente para crear un estilo de juego verdaderamente único.
-- Sistema clásico de botín: Recompensas aleatorias, combinaciones infinitas de afijos y armas raras que incluso pueden alterar tus habilidades.
 - En este mundo, el fracaso alimenta el progreso. Recolecta tu botín, muere, levántate y lucha de nuevo. ¿Serás tú, el hijo del destino, quien restaure el equilibrio en un mundo hecho pedazos?
+- Más de 20 horas de historia principal única: Una aventura extensa y sin repeticiones, además de la rejugabilidad propia de los roguelike y niveles de dificultad desbloqueables.
 - ¡Lucha, muere y vuelve a levantarte! Adéntrate en un mundo Roguelike × Metroidvania, donde el combate trepidante se une a una caza de botín sin fin.
+- Sistema clásico de botín: Recompensas aleatorias, combinaciones infinitas de afijos y armas raras que incluso pueden alterar tus habilidades.
+- 152 talentos y 34 habilidades: Combínalos libremente para crear un estilo de juego verdaderamente único.
+- 70 mapas y 168 eventos: Explora un vasto mundo interconectado, desde cavernas sombrías hasta castillos en ruinas y volcanes en erupción. Enfréntate a jefes colosales que se interponen entre tú y tu destino.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GNTHDLT7{{</world>}}

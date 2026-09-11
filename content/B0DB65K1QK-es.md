@@ -28,16 +28,16 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Incluye cable de alimentación USB-C de 10 pies (3 m)
 - Garantía limitada de dos años. Visita PowerA.com/Support
-- Anillos antifricción integrados para un control suave del mando del pulgar
+- Incluye cable de alimentación USB-C de 10 pies (3 m)
+- Dos botones asignables de juego avanzado
 - Indicador led de aviso de batería baja
-- Batería recargable de iones de litio: hasta 30 horas por carga*
+- Anillos antifricción integrados para un control suave del mando del pulgar
 - Ergonomía superior para jugar cómodamente durante horas
 - Diseño intuitivo de los botones de Nintendo
-- Mando inalámbrico para videojuegos con licencia oficial para Nintendo Switch y Nintendo Switch Lite + Nintendo Switch (OLED model)
-- Dos botones asignables de juego avanzado
 - Mando inalámbrico con tecnología Bluetooth 5.0
+- Batería recargable de iones de litio: hasta 30 horas por carga*
+- Mando inalámbrico para videojuegos con licencia oficial para Nintendo Switch y Nintendo Switch Lite + Nintendo Switch (OLED model)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DB65K1QK{{</world>}}

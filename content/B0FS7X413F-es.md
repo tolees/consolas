@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El mundo está lleno de tesoros codiciados por sabios, valientes y locos. Recorre los salones de tu santuario, desgarra los cadáveres de deidades derrotadas y caza en los rincones ocultos del cosmos para encontrar objetos capaces de otorgar poderes únicos
 - Voidwrought es un juego de acción y plataformas en 2D, rápido y vertiginoso, con desplazamiento preciso, habilidades variadas y combates contra jefes formidables, ambientado en un mundo dibujado a mano repleto de horrores cósmicos
 - Desciende bajo la superficie abrasada por las estrellas y explora profundidades multidimensionales llenas de secretos y leyendas
 - Excava entre los escombros de la Ciudad Gris para construir un santuario lleno de seguidores leales. A medida que expandes tu santuario y tu séquito, nuevos secretos, recompensas y horrores salen a la luz
+- El mundo está lleno de tesoros codiciados por sabios, valientes y locos. Recorre los salones de tu santuario, desgarra los cadáveres de deidades derrotadas y caza en los rincones ocultos del cosmos para encontrar objetos capaces de otorgar poderes únicos
 - Edición Coleccionista PS5
 
 [🛒 Aquí!!!]({{< param buyurl >}})

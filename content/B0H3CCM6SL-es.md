@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forma tu escuadrón con clones, contrabandistas, astromecánicos e incluso un Jedi—combina habilidades y equipo en combate táctico profundo.
+- Edición Estándar para PlayStation 5 (disco físico) incluye el juego completo Star Wars Zero Company en disco Blu-ray. Juego táctico por turnos para un jugador ambientado en las Guerras Clon—lidera a Hawks y Zero Company en una campaña intensa.
 - Personaliza a Hawks y a tu equipo, ajusta clases y equipamiento y desbloquea poderosas sinergias de escuadrón.
 - Planifica desde tu base, adáptate a campos de batalla dinámicos y toma decisiones que influyen en misiones y rejugabilidad.
-- Edición Estándar para PlayStation 5 (disco físico) incluye el juego completo Star Wars Zero Company en disco Blu-ray. Juego táctico por turnos para un jugador ambientado en las Guerras Clon—lidera a Hawks y Zero Company en una campaña intensa.
+- Forma tu escuadrón con clones, contrabandistas, astromecánicos e incluso un Jedi—combina habilidades y equipo en combate táctico profundo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0H3CCM6SL{{</world>}}

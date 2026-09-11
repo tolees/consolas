@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Elige entre las cinco clases disponibles (Carrera, Derrape, Todoterreno, Aceleración y Escape) y ajusta la puesta a punto para cambiar las tornas de la competición en cualquier carrera
-- Juégate la reputación y desafía a tus amigos o posibles rivales a través de las recomendaciones de Autolog en eventos de campaña
 - De piezas de chatarra a coche, de coche a supercoche: en Need for Speed Payback vas a depender de tu coche hagas lo que hagas
+- Juégate la reputación y desafía a tus amigos o posibles rivales a través de las recomendaciones de Autolog en eventos de campaña
 - Encuentra los coches de desguace por el mundo y crea tu coche desde cero
 
 [🛒 Aquí!!!]({{< param buyurl >}})

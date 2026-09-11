@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Inspector Waffles Early Days es un juego de aventuras y detectives con vista cenital, mecánica de apuntar y hacer clic y acertijos que resolver, inspirado en los clásicos juegos de Game Boy.
+- Al final de cada caso, después de haber interrogado a todos los sospechosos/testigos, debes informar a tu compañero, Pancakes. Él te hará un par de preguntas: ¡Depende de ti demostrar que has comprendido quién es el culpable!
 - Sospechosos, testigos, víctimas... te encontrarás con un elenco completo de animales antropomórficos que quizá tengan mucho que decirte o quizá algunos secretos que ocultar.
 - El juego se divide en 5 capítulos distintos: en cada uno de ellos, tendrás que resolver un caso. Podría tratarse de un robo, un incendio provocado, tráfico de drogas... pero siempre tendrás tres acciones principales que realizar
-- Al final de cada caso, después de haber interrogado a todos los sospechosos/testigos, debes informar a tu compañero, Pancakes. Él te hará un par de preguntas: ¡Depende de ti demostrar que has comprendido quién es el culpable!
 - Inspecciona las escenas del crimen, sigue las huellas del culpable, interactúa con el decorado... ¡Habrá muchas formas diferentes de encontrar pistas!
-- Inspector Waffles Early Days es un juego de aventuras y detectives con vista cenital, mecánica de apuntar y hacer clic y acertijos que resolver, inspirado en los clásicos juegos de Game Boy.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FM46LVZ6{{</world>}}

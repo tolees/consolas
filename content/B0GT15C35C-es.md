@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Forma tu escuadrón con clones, contrabandistas, astromecánicos e incluso un Jedi—combina habilidades y equipo en combate táctico profundo.
 - Personaliza a Hawks y a tu equipo, ajusta clases y equipamiento y desbloquea poderosas sinergias de escuadrón.
-- Planifica desde tu base, adáptate a campos de batalla dinámicos y toma decisiones que influyen en misiones y rejugabilidad.
+- Forma tu escuadrón con clones, contrabandistas, astromecánicos e incluso un Jedi—combina habilidades y equipo en combate táctico profundo.
 - Edición Estándar para Xbox Series X (disco físico) incluye el juego completo Star Wars Zero Company en disco. No compatible con Xbox One. Juego táctico por turnos ambientado en las Guerras Clon—lidera a Hawks en una campaña intensa.
+- Planifica desde tu base, adáptate a campos de batalla dinámicos y toma decisiones que influyen en misiones y rejugabilidad.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GT15C35C{{</world>}}

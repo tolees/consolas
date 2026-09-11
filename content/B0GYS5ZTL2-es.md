@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Gestión de recursos: equilibra tus necesidades con cuidado; descuidar el estado de tu vehículo o quedarte sin combustible puede tener consecuencias graves.
-- Heading Out es una aventura de viaje por carretera que desafía los géneros, fusionando carreras de alta velocidad con una narrativa inmersiva. Inspirada en las películas clásicas de culto del cine de carretera americano, esta experiencia centrada en la historia te invita a superar tus miedos y a forjar tu leyenda a través de las carreteras abiertas de una América mítica y atemporal.
-- Encuentros dinámicos: crúzate con un elenco de personajes carismáticos, cada uno con su propia historia y dilemas morales que pondrán a prueba tus decisiones.
-- Estilo visual único: una dirección artística minimalista inspirada en el cómic que refuerza la profundidad temática del juego.
 - Carreras con enfoque narrativo: una historia envolvente que evoluciona según tus decisiones, con múltiples finales e interacciones variadas con los personajes.
+- Estilo visual único: una dirección artística minimalista inspirada en el cómic que refuerza la profundidad temática del juego.
 - Huye de tus miedos y forja tu propia historia. Atraviesa carreteras míticas de América, donde tus decisiones dan giros a tu relato y el peligro siempre acecha en el retrovisor. Con rutas de estilo roguelike, recursos limitados y persecuciones a toda velocidad, esto no es solo un viaje: es tu leyenda en construcción. No se trata del destino, sino del camino.
+- Heading Out es una aventura de viaje por carretera que desafía los géneros, fusionando carreras de alta velocidad con una narrativa inmersiva. Inspirada en las películas clásicas de culto del cine de carretera americano, esta experiencia centrada en la historia te invita a superar tus miedos y a forjar tu leyenda a través de las carreteras abiertas de una América mítica y atemporal.
+- Gestión de recursos: equilibra tus necesidades con cuidado; descuidar el estado de tu vehículo o quedarte sin combustible puede tener consecuencias graves.
 - Un viaje inolvidable: embárcate en una travesía donde cada kilómetro cuenta una historia y cada decisión te acerca a tu destino. ¿Lograrás escapar de tus miedos o te alcanzarán en la carretera abierta?
+- Encuentros dinámicos: crúzate con un elenco de personajes carismáticos, cada uno con su propia historia y dilemas morales que pondrán a prueba tus decisiones.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GYS5ZTL2{{</world>}}

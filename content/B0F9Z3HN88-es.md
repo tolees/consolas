@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El juego se puede configurar de varias formas, como la selección de dificultad, el modo de invencibilidad, el modo de práctica, etc.
-- Juego cooperativo local. Los escenarios de conversación cambian con el juego cooperativo.
-- Armas futuristas gigantes del original.
-- Los escenarios cooperativos también pueden disfrutarse en el modo para un jugador utilizando el sistema de aviones cooperativo.
-- Ocho fases (incluidas las fases de bonificación) en las que luchar en ciudades y localizaciones del mundo moderno.
-- Ocho escenarios (incluidas fases de bonificación) para luchar en ciudades y lugares del mundo moderno.
 - Ocho personajes iniciales y personajes ocultos que pueden desbloquearse bajo ciertas condiciones.
+- Juego cooperativo local. Los escenarios de conversación cambian con el juego cooperativo.
+- Los escenarios cooperativos también pueden disfrutarse en el modo para un jugador utilizando el sistema de aviones cooperativo.
+- Ocho escenarios (incluidas fases de bonificación) para luchar en ciudades y lugares del mundo moderno.
+- El juego se puede configurar de varias formas, como la selección de dificultad, el modo de invencibilidad, el modo de práctica, etc.
+- Armas futuristas gigantes del original.
+- Ocho fases (incluidas las fases de bonificación) en las que luchar en ciudades y localizaciones del mundo moderno.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F9Z3HN88{{</world>}}

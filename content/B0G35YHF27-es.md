@@ -30,11 +30,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - La Edición Estándar incluye: Juego físico, Cómic prólogo y Carátula reversible
 - Shooter en primera persona trepidante, con referencias y atmósfera de los ‘80
-- Primer capítulo de una saga ambientada en el mismo universo, con mucho más por descubrir
 - Poderosos enemigos que solo caerán si logras clavarles una estaca en el corazón
-- 15 niveles increíbles, repletos de chupasangres, acción, exploración y giros inesperados
 - Arsenal variado: armas de fuego, cuerpo a cuerpo y los mejores remedios clásicos contra vampiros —agua bendita, ajos, crucifijos y la inconfundible estaca de madera
 - Survival horror clásico, con escasez de recursos, munición limitada y puzles que pondrán a prueba tu ingenio
+- 15 niveles increíbles, repletos de chupasangres, acción, exploración y giros inesperados
+- Primer capítulo de una saga ambientada en el mismo universo, con mucho más por descubrir
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0G35YHF27{{</world>}}

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- An arsenal of 10 different weapons to switch things up and turn the tables in your favour.
 - 6 intimidating bosses, each of which will require you to learn a different strategy to defeat them.
 - Procedurally generated maps and rooms, so you never know what’s coming up. Adapt your tactics on a room-by-room basis.
 - Optional 2-player cooperative play, so you can take a friend along for the fight - just make sure you share the ammo!
-- An arsenal of 10 different weapons to switch things up and turn the tables in your favour.
 - 7 diverse areas to explore, each with their own obstacles, hazards and secrets.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

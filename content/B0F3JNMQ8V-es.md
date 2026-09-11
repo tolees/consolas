@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Ergonomía excepcional: Su diseño compacto se adapta cómodamente a la mano, permitiendo un agarre firme y seguro incluso durante largas sesiones de juego.
 - Solo compatible con la Nintendo Switch 2
 - Este Joy-Con izquierdo en un vibrante azul claro ha sido diseñado específicamente para la Nintendo Switch 2, ofreciendo una experiencia de juego cómoda y precisa.
-- Ergonomía excepcional: Su diseño compacto se adapta cómodamente a la mano, permitiendo un agarre firme y seguro incluso durante largas sesiones de juego.
 - Botones responsivos: Equipado con botones de alta respuesta para una jugabilidad precisa y fluida, lo que te permite aprovechar al máximo cada partida. Conectividad inalámbrica: Se conecta a tu consola a través de Bluetooth, brindándote libertad de movimiento. Vibración HD 2: Proporciona una respuesta háptica detallada para una mayor inmersión en tus juegos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

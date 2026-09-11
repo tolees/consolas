@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- ¡Regresa el clásico matamarcianos en alta definición!
 - ¡Pule tus habilidades hasta la perfección en el nuevo modo de práctica!
 - ¡Nueva música de Chris Hülsbeck, Masahiko Ishida y el equipo de sonido de USP!
+- ¡Regresa el clásico matamarcianos en alta definición!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FT399YM2{{</world>}}

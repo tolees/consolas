@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Neptunia: Sisters VS Sisters: C-C-C-Combo Maker! – As you make your way around the lands of Gamindustri, youll encounter a multitude of enemies - its time to fight! Employ combos and chain your attacks together in real-time. Take control of the battlefield in a unique tactical action battle system!
-- Dual Pack Contents: Neptunia Game Maker R:Evolution - Day One Edition, Neptunia: Sisters VS Sisters - Day One Edition, Special Bonus Item Included: Acrylic Shikishi Board
-- Its Time to Vroom, Vroom! - Ride in style through dungeons and sell your games on your trusty purple motorcycle! As you explore more dungeons and find game element items to add to your next breakthrough hit, you also gain more shares of that location.
 - Neptunia Game Maker R:Evolution: Game Studio of The Year - Play as the main protag, Older Nep, and grow a previously defunct gaming studio to success. Building a game studio requires strong developers, cutting-edge video games, and the expansion of your market. Choose wisely and become the biggest game studio of the year!
+- Its Time to Vroom, Vroom! - Ride in style through dungeons and sell your games on your trusty purple motorcycle! As you explore more dungeons and find game element items to add to your next breakthrough hit, you also gain more shares of that location.
 - Pull off the Planeptune Look with 2 New Playable Characters – Throughout the game youll discover fun accessories to deck out and customize your party members. Snap a pic in Photo Mode and use the new Manga-style feature exclusive to the Nintendo Switch release. Play as characters created by two legendary game developers - Higurashi from Ryukishi07 and Shanghai Alice from ZUN from the start. The Nintendo Switch version also has two new exclusive playable characters, Maho and Anri!
+- Dual Pack Contents: Neptunia Game Maker R:Evolution - Day One Edition, Neptunia: Sisters VS Sisters - Day One Edition, Special Bonus Item Included: Acrylic Shikishi Board
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CP9V6MWH{{</world>}}

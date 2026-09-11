@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseñados ergonómicamente para adaptarse cómodamente a manos de cualquier tamaño
 - Los elegantes sticks de pulgar cóncavos brindan una precisión óptima
-- Cubiertas de policarbonato de vivos colores con divertidas ilustraciones de tus personajes favoritos
 - Incluye un cable micro USB desenchufable de 2,4 metros para gozar de mucho espacio para jugar
+- Cubiertas de policarbonato de vivos colores con divertidas ilustraciones de tus personajes favoritos
+- Diseñados ergonómicamente para adaptarse cómodamente a manos de cualquier tamaño
 - Con licencia oficial de Nintendo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
