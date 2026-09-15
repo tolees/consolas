@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El paquete incluye: 1 x estuche rígido
 - Segura, fácil de instalar y quitar
-- Compatible con: Nintendo DSi NDSi
-- *Completa protección contra arañazos y suciedad
+- El paquete incluye: 1 x estuche rígido
 - Plástico duro de poli carbonato
+- *Completa protección contra arañazos y suciedad
+- Compatible con: Nintendo DSi NDSi
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00FJ2YRC6{{</world>}}

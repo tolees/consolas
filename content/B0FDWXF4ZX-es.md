@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Una historia épica de supervivencia nórdica: Enfrenta el Ragnarok y descubre cómo Yggdrasil, el Árbol de la Vida, lucha por mantener con vida los Nueve Reinos.
-- Héroes legendarios a tu elección: Elige entre Axeldör, el valiente guerrero vikingo; Thyra, una cazadora implacable; o Hafgrim, un poderoso maestro de los elementos.
-- Aventura y carisma en cada partida: Explora el Fin del Mundo acompañado de héroes únicos y carismáticos en una batalla por la supervivencia final.
 - Edición Standard: Nordic Ashes para Playstation 5
+- Héroes legendarios a tu elección: Elige entre Axeldör, el valiente guerrero vikingo; Thyra, una cazadora implacable; o Hafgrim, un poderoso maestro de los elementos.
+- Una historia épica de supervivencia nórdica: Enfrenta el Ragnarok y descubre cómo Yggdrasil, el Árbol de la Vida, lucha por mantener con vida los Nueve Reinos.
+- Aventura y carisma en cada partida: Explora el Fin del Mundo acompañado de héroes únicos y carismáticos en una batalla por la supervivencia final.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FDWXF4ZX{{</world>}}

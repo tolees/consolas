@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tensos encuentros de sigilo: enfréntate a la amenaza alienígena en secuencias de sigilo tensas y emocionantes.
-- Exploración estilo ciencia ficción, pero con los pies en la tierra: una representación realista de una exploración espacial en un futuro próximo.
+- Supervivencia por partida doble: disfruta de la ingeniosa investigación de Thomas y de las trepidantes aventuras de Ariane.
 - Acción cinematográfica en tercera persona: mecánicas de desplazamiento apasionantes con agarres, deslizamientos e impulsos para seguir moviéndote.
 - Un núcleo emocional: dos astronautas, unidos por un pasado complicado, luchando por reunirse de nuevo.
-- Supervivencia por partida doble: disfruta de la ingeniosa investigación de Thomas y de las trepidantes aventuras de Ariane.
+- Exploración estilo ciencia ficción, pero con los pies en la tierra: una representación realista de una exploración espacial en un futuro próximo.
+- Tensos encuentros de sigilo: enfréntate a la amenaza alienígena en secuencias de sigilo tensas y emocionantes.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0G4RXNK2C{{</world>}}

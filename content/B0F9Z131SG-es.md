@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - MODO MULTIJUGADOR: Juega en solitario o con hasta cuatro amigos
-- TOUR DE LA MODA: Viaja a seis ciudades de la moda, entre ellas Londres, Milán y Tokio
 - DISEÑA NUEVOS ESTILOS: Personaliza tus conjuntos, peinados y maquillaje
+- TOUR DE LA MODA: Viaja a seis ciudades de la moda, entre ellas Londres, Milán y Tokio
 - DESFILA POR LA PASARELA: Compite en juegos de desfiles de moda, baile y ejercicio
 - ESTILO ÚNICO: Adéntrate en el característico mundo 3D de Bratz
 

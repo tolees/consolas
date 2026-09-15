@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- ¡Una versión optimizada del clásico de 2009!
 - ¡Banda sonora reorganizada y música completamente nueva!
 - ¡Gráficos pixelados en 2D encantadoramente mejorados!
-- ¡Una versión optimizada del clásico de 2009!
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0G2SK9VFC{{</world>}}

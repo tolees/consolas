@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Disco duro de alta calidad con 3 años de garantía limitada, especialmente diseñado para jugadores según los estándares de calidad y fiabilidad de WD_BLACK.
-- Hasta 6 TB, que permiten almacenar un total de 150 juegos, para que puedas guardar tus clásicos favoritos y seguir teniendo espacio para títulos nuevos.
-- Velocidades de hasta 130 MB/s para llevar tu consola u ordenador a otro nivel
 - Formato portátil con cubierta fina de metal que te permite acceder rápidamente a tu creciente colección de juegos
+- Disco duro de alta calidad con 3 años de garantía limitada, especialmente diseñado para jugadores según los estándares de calidad y fiabilidad de WD_BLACK.
+- Velocidades de hasta 130 MB/s para llevar tu consola u ordenador a otro nivel
+- Hasta 6 TB, que permiten almacenar un total de 150 juegos, para que puedas guardar tus clásicos favoritos y seguir teniendo espacio para títulos nuevos.
 - Compatible con consolas Xbox Series X|S (reproduce y almacena juegos de Xbox One y guarda juegos de Xbox Series X|S) y PlayStation 5 (reproduce y almacena juegos de PS4 y guarda juegos de PS5).
 
 [🛒 Aquí!!!]({{< param buyurl >}})

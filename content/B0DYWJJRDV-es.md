@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Turtle Beach Recon 70 Auriculares con cable para juegos con licencia oficial para Nintendo Switch también funciona con Nintendo Switch 2'
-date: 2026-09-12 09:50:30
+date: 2026-09-13 13:02:24
 image: 'https://m.media-amazon.com/images/I/31eKlnu1voL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

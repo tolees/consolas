@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Después de un apagón repentino, todos sus ciudadanos desaparecieron misteriosamente y la ciudad quedó en total caos
-- La mega-ciudad "MAGO" es una ciudad de alta tecnología gobernada por un conglomerado corrupto... al menos, eso era hace 24 horas
 - Eres capaz de usar tu brazo protésico para saltar sobre acantilados y rascacielos, esquivar balas y trampas, y derrotar a poderosos enemigos.
 - Tu gigantesco brazo protésico con gancho actúa tanto como un método para moverte rápidamente como una forma de eliminar rápidamente a tus oponentes.
 - Un emocionante juego de plataformas
+- La mega-ciudad "MAGO" es una ciudad de alta tecnología gobernada por un conglomerado corrupto... al menos, eso era hace 24 horas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKTLCC51{{</world>}}

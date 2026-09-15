@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KROM KEXAL – Gamepad inalámbrico Bluetooth 5.0 + 2.4 GHz con turbo doble vibración y soporte retráctil para smartphone – compatible con PC Nintendo Switch Android e iOS Negro'
-date: 2026-06-13 07:23:51
+date: 2026-09-13 11:41:59
 image: 'https://m.media-amazon.com/images/I/41oia9Rw+qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Alta personalización: 23 botones, incluyendo traseros/laterales configurables y función Turbo asignable a múltiples botones.
-- Diseño ergonómico y competitivo: Mando compacto con agarres texturizados, diseñado para largas sesiones y rendimiento de nivel profesional.
-- Conectividad versátil: Usa Bluetooth 5.0 o el receptor inalámbrico de 2.4 GHz incluido para jugar sin latencia tanto en PC, Switch, Android como iOS.
-- Soporte retráctil para móvil: Incluye una base segura para sujetar tu smartphone, ideal para juegos tipo arcade y emuladores
-- Vibración inmersiva y batería duradera: Motores de doble vibración para sentir cada acción + batería de litio con hasta 8 horas de autonomía recargable por USB.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BGRPF354{{</world>}}

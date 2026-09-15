@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Color: Multicolor
 - Videojuego PlayStation 5 de la marca CI Games
 - Medidas: 17,2 x 13,6 x 1,6 centímetros
-- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
 - Referencia: S7193684
+- Color: Multicolor
+- ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0C5MRS7MD{{</world>}}

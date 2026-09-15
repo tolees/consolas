@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Includes online Leaderboards
-- Race solo or challenge your friends in split-screen for up to 4 players!
-- Feel the racing excitement of the 90s - A love letter to the world of motor sports.
 - Collect more than 250 vehicles, from compacts to rally cars and even prototypes!
 - This special Podium Edition includes 2 games in 1 PLUS original soundtrack album from both games!
+- Feel the racing excitement of the 90s - A love letter to the world of motor sports.
+- Includes online Leaderboards
+- Race solo or challenge your friends in split-screen for up to 4 players!
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DFD2QWRW{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Lucha desde Verdún hasta el corazón de un antiguo mundo alienígena!
-- Acción intensa y una jugabilidad muy pulida
-- Corre el año 1917 y la guerra ha asolado la Tierra. Miles de millones de personas fueron masacradas.
 - Ponte en la piel de la Dra. Brunhild Stahlmüller, una consumada científica armamentística que mejora un triplano de la Primera Guerra Mundial con tecnología alienígena superior para atacar a los invasores. Vengarás a la humanidad y llevarás la batalla a la oscuridad del espacio.
+- Acción intensa y una jugabilidad muy pulida
+- ¡Lucha desde Verdún hasta el corazón de un antiguo mundo alienígena!
+- Corre el año 1917 y la guerra ha asolado la Tierra. Miles de millones de personas fueron masacradas.
 - 8 niveles con enormes jefes
 - ¡Inspirado en la época dorada de las recreativas!
 

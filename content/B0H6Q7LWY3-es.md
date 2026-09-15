@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Narrativa cómica con toques de terror donde cada misión, queja y objetivo de Encarnita te mete en situaciones cada vez más surrealistas mientras intentas reparar su dichoso televisor.
 - Exploración profunda de cada rincón de la mansión: habitaciones ocultas, pasillos inquietantes, coleccionables y eventos inesperados que cambian el rumbo de la historia.
+- Aventura en primera persona llena de humor y terror ligero donde exploras una mansión repleta de secretos, situaciones absurdas y personajes impredecibles.
+- Narrativa cómica con toques de terror donde cada misión, queja y objetivo de Encarnita te mete en situaciones cada vez más surrealistas mientras intentas reparar su dichoso televisor.
 - Puzles variados que combinan lógica, observación y elementos paranormales, diseñados para sorprender y desafiar sin romper el ritmo de la aventura.
 - Interacción constante con Encarnita, que no deja de darte órdenes, quejarse y exigirte que arregles su televisor mientras todo a tu alrededor se vuelve más extraño.
-- Aventura en primera persona llena de humor y terror ligero donde exploras una mansión repleta de secretos, situaciones absurdas y personajes impredecibles.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0H6Q7LWY3{{</world>}}

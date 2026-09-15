@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Vive las consecuencias de las decisiones de otros jugadores mientras defines la experiencia de los futuros Tidewalkers.
 - Cambia de "semilla" y experimenta cómo las elecciones de otro Tidewalker pueden transformar tu aventura
+- Vive las consecuencias de las decisiones de otros jugadores mientras defines la experiencia de los futuros Tidewalkers.
 - Explora diversas plataformas flotantes en paisajes únicos y cambiantes.
 - Descubre los "ecos" de los jugadores anteriores: sombras que revelan sus actos y decisiones. Navega por mares inciertos mientras reúnes recursos para aumentar tus posibilidades de supervivencia.
 - Los niveles, los PNJs y las elecciones narrativas pueden cambiar por completo según las acciones de otros Tidewalkers.

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- ¡Usa las balas de maldición para ajustar la dificultad del juego sobre la marcha!
+- Un clásico de arcade adaptado a las plataformas modernas.
 - ¡Varios personajes, atuendos alternativos y un amplio modo de galería!
 - ¿Modo de historia, modo arcade o desafíos? ¡Tú eliges!
-- Un clásico de arcade adaptado a las plataformas modernas.
-- ¡Usa las balas de maldición para ajustar la dificultad del juego sobre la marcha!
 - Composiciones originales de Yosuke Yasui, así como arreglos de ediciones anteriores.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

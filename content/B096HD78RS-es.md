@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Original Giftware: For those looking for novelty items and all things geek, crazy, and unique, Paladone is your best source for top-selling, high-quality toys, mugs, collectibles, and novelties.
-- Official Merchandise: The perfect piece of reusable drinkware for Super Mario fans, this Super Mario Metal Water Bottle with Straw is officially licensed and approved by Nintendo, giving you peace of mind with your purchase.
 - Diseño de Super Mario
+- Official Merchandise: The perfect piece of reusable drinkware for Super Mario fans, this Super Mario Metal Water Bottle with Straw is officially licensed and approved by Nintendo, giving you peace of mind with your purchase.
 - For The Fandom: This Super Mario Metal Water Bottle with Straw is the perfect practical gift for fans. Use it at home, at work, or on the go—it’s a great addition to any Super Mario drinkware collection.
 - Permite su transporte
 

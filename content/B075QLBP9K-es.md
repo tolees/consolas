@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Compatible con mando o controller PS4, Xbox one
 - Producto con licencia oficial Sonic the hedgehog de Sega
-- Compatible con todos los teléfonos móviles o smartphones actuales
+- Compatible con mando o controller PS4, Xbox one
 - Incluye cable de carga de 2 metros (conector lightning, mini usb y usb)
 - Personaje Sonic classic the hedgehog
+- Compatible con todos los teléfonos móviles o smartphones actuales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B075QLBP9K{{</world>}}

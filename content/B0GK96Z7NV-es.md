@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Hazte amigo de un cachorrito: Crea un vínculo de amistad con tu nuevo amigo: dale de comer, cuídalo y juega con él
+- Haz nuevos amigos: Conoce y ayuda a los animales del bosque
+- Resuelve puzzles: Apoyaos mutuamente para restaurar un antiguo bosque y activar sus misteriosos monumentos.
+- Un viaje por un misterioso bosque: Atraviesa sombrías arboledas, colinas nevadas, cuevas tenebrosas y muchos lugares más
 - Koira es una historia de amistad verdadera en la que tú y tu nueva mascota cruzáis un bosque musical, resolvéis antiguos puzles, os hacéis amigos de las criaturas del bosque e intentáis encontrar el camino de vuelta a casa. Evita los peligros del camino, los cazadores acechan en la oscuridad...
 - Huye de los cazadores, protege a tu compañero: Supera a los despiadados cazadores con sigilo y valentía
-- Resuelve puzzles: Apoyaos mutuamente para restaurar un antiguo bosque y activar sus misteriosos monumentos.
-- Hazte amigo de un cachorrito: Crea un vínculo de amistad con tu nuevo amigo: dale de comer, cuídalo y juega con él
-- Un viaje por un misterioso bosque: Atraviesa sombrías arboledas, colinas nevadas, cuevas tenebrosas y muchos lugares más
-- Haz nuevos amigos: Conoce y ayuda a los animales del bosque
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GK96Z7NV{{</world>}}

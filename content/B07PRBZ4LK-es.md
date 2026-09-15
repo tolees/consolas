@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Elementos de volteo para una mayor diversión en el juego
-- A partir de 3 años
-- Genial pista de slot cars con Super Mario y Luigi y licencia de Nintendo
 - 2 9 metros
+- Genial pista de slot cars con Super Mario y Luigi y licencia de Nintendo
+- Elementos de volteo para una mayor diversión en el juego
 - Carrera FIRST
+- A partir de 3 años
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07PRBZ4LK{{</world>}}

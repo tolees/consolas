@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Hogwarts Legacy es un RPG inmersivo de acción en mundo abierto. Ahora puedes tomar el control de la acción y ser el centro de tu propia aventura en el mundo mágico.
 - Haz tu reserva y obtén la montura de hipogrifo ónix y la receta de la poción Felix Felicis.
+- Hogwarts Legacy es un RPG inmersivo de acción en mundo abierto. Ahora puedes tomar el control de la acción y ser el centro de tu propia aventura en el mundo mágico.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BCQBSL7F{{</world>}}

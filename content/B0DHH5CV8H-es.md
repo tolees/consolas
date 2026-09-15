@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Material ultrarresistente
-- Funda de trasporte rigida para Nintendo Switch
 - Compartimento interior para los juegos
 - Compatible con los mandos Joy-Con de las consolas NINTENDO Switch, NINTENDO Switch MODELO OLED y NINTENDO Switch Lite
+- Funda de trasporte rigida para Nintendo Switch
+- Material ultrarresistente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DHH5CV8H{{</world>}}

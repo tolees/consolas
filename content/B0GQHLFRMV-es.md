@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- La Edición estándar incluye: Starfield (juego base).
+- Ya te decantes por fusiles de largo alcance, armas láser o instrumentos de demolición, podrás modificar cualquier arma para adaptarla a tu estilo de juego.
 - Pilota la nave de tus sueños, aventúrate a descubrir el firmamento y explora más de mil planetas.
 - En este juego de rol de próxima generación, podrás crear el personaje que desees y explorar con una libertad sin precedentes a lo largo de un viaje épico para desentrañar el mayor misterio de la humanidad.
-- Ya te decantes por fusiles de largo alcance, armas láser o instrumentos de demolición, podrás modificar cualquier arma para adaptarla a tu estilo de juego.
 - Antes de emprender el viaje, personalizarás tu aspecto y determinarás tu pasado y tus rasgos.
-- La Edición estándar incluye: Starfield (juego base).
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GQHLFRMV{{</world>}}

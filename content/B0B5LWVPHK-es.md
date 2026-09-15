@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La acción rápida y fuerte de toda la saga; aunque el juego te da el espacio para jugar como quieras, el alcance de las batallas también ha evolucionado; los personajes pueden combatir a un gran número de enemigos con ataques de movimiento de velocidad, habilidades como desvanecerte y una habilidad que puede matar de un solo golpe
-- Vuela libremente por el escenario: en Star Ocean The Divine Force, los personajes podrán moverse libremente en 360 grados y volar por los cielos
 - Muévete y explora libremente, todo lo que puedes ver puede ser explorado; podrás moverte por donde quieras mientras vuelas por el escenario jamás creado en la saga; tanto si vuelas y exploras las superficies rocosas o los tejados de los edificios, como si saltas de los acantilados para entrar en los combates, tendrás libertad tanto en las aventuras como en los combates
+- Vuela libremente por el escenario: en Star Ocean The Divine Force, los personajes podrán moverse libremente en 360 grados y volar por los cielos
+- La acción rápida y fuerte de toda la saga; aunque el juego te da el espacio para jugar como quieras, el alcance de las batallas también ha evolucionado; los personajes pueden combatir a un gran número de enemigos con ataques de movimiento de velocidad, habilidades como desvanecerte y una habilidad que puede matar de un solo golpe
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0B5LWVPHK{{</world>}}

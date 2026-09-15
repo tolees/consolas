@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ¡Para los apasionados de la informática y la electrónica que les gusta estar a la última en tecnología!
 - Referencia del fabricante: S7820472
+- Medidas: 23,36 x 16,17 x 13,11 centímetros
 - Color: multicolor
 - Mando Gaming de la marca Nacon
-- ¡Para los apasionados de la informática y la electrónica que les gusta estar a la última en tecnología!
-- Medidas: 23,36 x 16,17 x 13,11 centímetros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGY8KZP6{{</world>}}

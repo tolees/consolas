@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Más de 120 niveles adicionales: Incluye un prototipo de SNES nunca antes jugable, más de 120 niveles adicionales de los paquetes de niveles extra, así como una banda sonora reinventada
 - Funciones de juego mejoradas: Haz que el desafío sea un poco más accesible con rebobinado de 60 segundos, vidas infinitas, invencibilidad y más
+- Más de 120 niveles adicionales: Incluye un prototipo de SNES nunca antes jugable, más de 120 niveles adicionales de los paquetes de niveles extra, así como una banda sonora reinventada
+- Documental interactivo: Más de 50 minutos de entrevistas completamente nuevas, documentos de archivo, concept arts raros y mucho más cuentan la historia de la creación de Rayman
 - Cinco versiones del clásico: Varias versiones del juego original, incluyendo MS-DOS (PC), PlayStation, Atari Jaguar, Game Boy Color y Game Boy Advance
 - ¡La edición física incluye una hoja de pegatinas reutilizables con escenario, 3 postales premium, un póster de doble cara y una portada reversible!
-- Documental interactivo: Más de 50 minutos de entrevistas completamente nuevas, documentos de archivo, concept arts raros y mucho más cuentan la historia de la creación de Rayman
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0GN9H2SDS{{</world>}}

@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - RESIDENT EVIL 5
 - 5055060931516
-- Tiburón blanco
 - 23183
+- Tiburón blanco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01M6XZINS{{</world>}}

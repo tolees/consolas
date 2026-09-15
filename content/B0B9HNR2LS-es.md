@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Sistema de combate modernizado que acerca las premisas básicas del sistema original a la era moderna
+- Regresa a La Colonia, una nueva versión del popular Gothic, el revolucionario título de 2001. Vuelve a descubrir el mundo de la colonia minera, sus secretos y sus desafíos
 - Juega como el Héroe sin Nombre: controla el destino de un convicto condenado de por vida que debe sobrevivir en un mundo repleto de animales salvajes, criaturas y presos de mala reputación
 - Fiel reedición completa del Gothic 1 original
-- Regresa a La Colonia, una nueva versión del popular Gothic, el revolucionario título de 2001. Vuelve a descubrir el mundo de la colonia minera, sus secretos y sus desafíos
-- Sistema de combate modernizado que acerca las premisas básicas del sistema original a la era moderna
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B9HNR2LS{{</world>}}

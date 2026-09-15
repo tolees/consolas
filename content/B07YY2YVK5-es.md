@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Es para PS4
-- Es divertido
 - Juego de acción
+- Es divertido
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07YY2YVK5{{</world>}}
