@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Más de 50misiones únicas y trabajos con recompensas exclusivas que podrás desbloquear en solitario o con tus amigos.
 - Partidas en línea de 1 a 4jugadores y modo cooperativo local con pantalla dividida. Un sandbox de mundo abierto lleno de minijuegos, entretenimiento, secretos ¡y mucho más!
 - ¡Diversión infinita!
+- Más de 50misiones únicas y trabajos con recompensas exclusivas que podrás desbloquear en solitario o con tus amigos.
 - Más de 90vehículos que podrás conducir (¡y estrellar!).
 - Más de 250artículos de ropa para que presumas de estilazo.
 

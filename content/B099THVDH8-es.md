@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- - Cuando un superviviente muere, empieza de nuevo como otro, con nuevas y poderosasventajas a medida que avanzas.AF15
 - - Supera hordas de infectados rabiosos, algunos con habilidades especiales mortales
-- - Desafía a la muerte utilizando poderosas mutaciones para hacerte más fuerte.- Una experiencia zombie sombría y llena de tensión
 - - Escabúllete y combate en un mundo postapocalíptico extremadamente peligroso
+- - Cuando un superviviente muere, empieza de nuevo como otro, con nuevas y poderosasventajas a medida que avanzas.AF15
+- - Desafía a la muerte utilizando poderosas mutaciones para hacerte más fuerte.- Una experiencia zombie sombría y llena de tensión
 - - Supera hordas de infectados rabiosos, algunos con habilidades especiales mortales
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ✦ ELIGE TU ESTILO DE LUCHA: Domina el combate cuerpo a cuerpo, el ataque a distancia o el poder arcano de la magia.
-- ✦ EXPLORA LAS VASTAS TIERRAS DE HIPERBOREA: Atraviesa mazmorras, cuevas y castillos en una aventura épica de fantasía medieval.
-- ✦ REVIVE LA ESENCIA DE LO SOULSLIKE CLÁSICOS: Experimenta enfrentamientos estratégicos en un mundo lleno de misterios y una historia profunda narrada a través del entorno y de personajes enigmáticos que encontrarás a lo largo de tu viaje.
 - ✦ DIFICULTAD DESAFIANTE: Domina un sistema de combate en el que cada golpe cuenta. Enfréntate a enemigos exigentes.
 - Características: 5 localizaciones distintas, cada una con enemigos y armas únicos. Variedad de NPCs y misiones secundarias. Variedad de armas, objetos y enemigos.
+- ✦ EXPLORA LAS VASTAS TIERRAS DE HIPERBOREA: Atraviesa mazmorras, cuevas y castillos en una aventura épica de fantasía medieval.
+- ✦ REVIVE LA ESENCIA DE LO SOULSLIKE CLÁSICOS: Experimenta enfrentamientos estratégicos en un mundo lleno de misterios y una historia profunda narrada a través del entorno y de personajes enigmáticos que encontrarás a lo largo de tu viaje.
+- ✦ ELIGE TU ESTILO DE LUCHA: Domina el combate cuerpo a cuerpo, el ataque a distancia o el poder arcano de la magia.
 - The Bearer & The Last Flame es una aventura de acción y fantasía oscura. En un reino donde la muerte campa a sus anchas, un alma viva ha recibido su encargo. En tus manos está el valor, la determinación y el coraje para derrotar a la oscuridad de los cinco reinos. Transporta la última llama y devuelve a las bestias de la noche al reino de las tinieblas.
 - ✦ ESCOGE ENTRE DIVERSOS PERSONAJES: Selecciona a tu héroe entre distintos personajes procedentes de mundos únicos.
 

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - El juego cuenta con 15 niveles de dificultad, cartas desbloqueables, más de 80 logros para cumplir
-- Un modo infinito y ahora un modo persecución donde te atacarán continuamente desde todos los lados.
 - Las partidas pueden tomar aproximadamente 20 minutos en completarse
+- Un modo infinito y ahora un modo persecución donde te atacarán continuamente desde todos los lados.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CGTW2SN8{{</world>}}

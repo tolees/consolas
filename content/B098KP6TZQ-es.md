@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Crea, explora y sobrevive solo o con hasta siete amigos de PlayStation Network
 - ¿Te esconderás de los monstruos o fabricarás herramientas, armaduras y armas para luchar?
+- Crea, explora y sobrevive solo o con hasta siete amigos de PlayStation Network
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B098KP6TZQ{{</world>}}

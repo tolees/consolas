@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G G29 SE Driving Force Wheel and Shifter para Playstation & PC'
-date: 2026-09-15 22:39:35
+date: 2026-09-18 09:52:50
 image: 'https://m.media-amazon.com/images/I/41u77DigKxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FKN5F96V/?tag=tolees-21'
 descuento: '40.00'
-average: '240.405333333332'
+average: '236.827058823528'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

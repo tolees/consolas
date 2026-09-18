@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - ¡El regreso de una clásica serie de beat em up de desplazamiento lateral!
-- ¡Combina alimentos para crear comidas energizantes!
 - ¡Usa el Medidor de Ira para mejorar tu ataque y defensa!
+- ¡Combina alimentos para crear comidas energizantes!
 - ¡Juega solo o con un amigo!
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

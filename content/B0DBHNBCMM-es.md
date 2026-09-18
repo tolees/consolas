@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Conviértete en el cazarrecompensas intergaláctico más mortífero que el cosmos haya visto jamás con tu equipo de carismáticos pistoleros parlantes.
-- Aprovecha las distintas habilidades de cada arma para derrotar a una gran variedad de enemigos.
 - Incluye juego base + contenido DLC High on Knife en disco
 - Viaja a distintos biomas y lugares del cosmos, enfréntate al nefasto Garmantuous y su banda de matones, recoge botines y conoce a personajes únicos.
+- Conviértete en el cazarrecompensas intergaláctico más mortífero que el cosmos haya visto jamás con tu equipo de carismáticos pistoleros parlantes.
+- Aprovecha las distintas habilidades de cada arma para derrotar a una gran variedad de enemigos.
 - Navega por mundos dinámicos y cambiantes en este divertidísimo y único shooter en primera persona.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
