@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GXTrust Forze Cascos Gaming con Licencia Oficial para PlayStation Negro'
-date: 2026-09-16 16:29:50
+date: 2026-09-23 13:46:17
 image: 'https://m.media-amazon.com/images/I/41w9BmQtcfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B084WLMKGT/?tag=tolees-21'
 descuento: '50.01'
-average: '31.1001142857143'
+average: '31.0310734463277'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

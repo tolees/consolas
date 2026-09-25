@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Thrustmaster T300RS GT Volante Force Feedback y 3 Pedales - PS5 y PC'
-date: 2026-09-16 14:10:40
+date: 2026-09-25 18:24:11
 image: 'https://m.media-amazon.com/images/I/419ap33NSML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B01HRYFODO-es Thrustmaster T300RS GT Volante Force Feedback y 3 Pedales...'
 sku: 'B01HRYFODO-es'
 tags: [ 'ps5','🇪🇸', ]
-actualPrice: 313.71 EUR
+actualPrice: 361.41 EUR
 currency: EUR
-price: 313.71
+price: 361.41
 comparePrice: 449.99 EUR
 prodname: 'Thrustmaster T300RS GT Volante Force Feedback y 3 Pedales - PS5 y PC'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01HRYFODO/?tag=tolees-21'
-descuento: '30.29'
-average: '328.088615384616'
+descuento: '19.68'
+average: '329.08328358209'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

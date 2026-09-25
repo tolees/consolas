@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asterix Maxi Collection - PS5'
-date: 2026-07-12 16:03:03
+date: 2026-09-25 10:41:45
 image: 'https://m.media-amazon.com/images/I/51rezwi8bcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DV9GFNZ3-es Asterix Maxi Collection - PS5'
 sku: 'B0DV9GFNZ3-es'
 tags: [ 'ps5','🇪🇸', ]
-actualPrice: 29.59 EUR
+actualPrice: 24.42 EUR
 currency: EUR
-price: 29.59
+price: 24.42
 comparePrice: 49.99 EUR
 prodname: 'Asterix Maxi Collection - PS5'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DV9GFNZ3/?tag=tolees-21'
-descuento: '40.81'
-average: '29.92'
+descuento: '51.15'
+average: '28.545'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,6 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- NO MENOS DE SEIS JUEGOS DE ACCIÓN Y AVENTURA TE ESPERAN EN ESTA RECOPILACIÓN DE VIDEOJUEGOS, « 6 JUEGOS en 1» - MAXI COLECCIÓN.
-- El recopilatorio «ASTERIX MAXI COLLECTION», que incluye seis videojuegos de Astérix y Obélix para Nintendo Switch y PS5, te da la oportunidad de reunirte con todos tus héroes favoritos de la famosa serie de cómics para vivir emocionantes aventuras.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DV9GFNZ3{{</world>}}

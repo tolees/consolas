@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Turtle Beach Stealth 700 Azul Cobalto Xbox Auriculares de Juego Inalámbricos con 80hr Batería Altavoces de 60 mm Transmisores Duales y Bluetooth para Xbox Series X o S Xbox One PC y móviles'
-date: 2026-09-19 17:11:10
+date: 2026-09-24 16:33:47
 image: 'https://m.media-amazon.com/images/I/41iql1QLUEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0DB96KTGL-es Turtle Beach Stealth 700 Azul Cobalto Xbox Auriculares de...'
 sku: 'B0DB96KTGL-es'
 tags: [ 'xbox','🇪🇸', ]
-actualPrice: 139.99 EUR
+actualPrice: 149.99 EUR
 currency: EUR
-price: 139.99
+price: 149.99
 comparePrice: 199.99 EUR
 prodname: 'Turtle Beach Stealth 700 Azul Cobalto Xbox Auriculares de Juego Inalámbricos con 80hr Batería Altavoces de 60 mm Transmisores Duales y Bluetooth para Xbox Series X o S Xbox One PC y móviles'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DB96KTGL/?tag=tolees-21'
-descuento: '30.00'
-average: '146.239999999999'
+descuento: '25.00'
+average: '146.656666666666'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Inspector Waffles Early Days - PS5'
-date: 2026-09-18 16:28:36
+date: 2026-09-21 11:03:50
 image: 'https://m.media-amazon.com/images/I/516ym2QEDAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

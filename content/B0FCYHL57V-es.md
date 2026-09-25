@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Exploración 2D fascinante.
 - La secuela de Ender Lilies.
+- Exploración 2D fascinante.
 - Sistema de mejoras y combates dinámicos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

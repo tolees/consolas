@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Explora los reinos
 - Aquellos que desafían al destino
 - Armas de guerra
-- Explora los reinos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B6G74TF3{{</world>}}

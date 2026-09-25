@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hecho de silicona de alta calidad, suave y confortable. Se puede proteger muy bien su joystick de arañazos, golpes, suciedad u otros daños.
-- Nota: este artículo no es adecuado para ps4, Switch Pro, Xbox One. Por favor, verifique el modelo antes de la compra.
 - El diseño de tema animal que agrega toque y vitalidad a su switch, hace más atractivo. Pueda combinar con carcasa para personalizar su consola.
+- Hecho de silicona de alta calidad, suave y confortable. Se puede proteger muy bien su joystick de arañazos, golpes, suciedad u otros daños.
 - Fácil de instalar, sin pasos complicados, encaja perfectamente.
+- Nota: este artículo no es adecuado para ps4, Switch Pro, Xbox One. Por favor, verifique el modelo antes de la compra.
 - Este artículo está diseñado para Nintendo Switch joycons, para Nintendo Switch Lite y para Nintendo Switch Oled, no está compatible con otros modelos de control.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

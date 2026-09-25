@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Tu fiel cerdito volador no es sólo un alivio cómico: Piggy te ayuda en los puzles, el combate y la exploración, añadiendo encanto y corazón a tu viaje.
-- Viaja por diversos biomas -desde montañas nevadas hasta pantanos tóxicos- repletos de secretos.
-- Despierta el poder legendario de la Saga del Creador, desbloquea poderosas transformaciones y desata habilidades devastadoras en encuentros épicos.
 - Personaliza tu estilo de lucha con profundos árboles de habilidades, acción basada en combos y poderoso equipamiento.
+- Viaja por diversos biomas -desde montañas nevadas hasta pantanos tóxicos- repletos de secretos.
+- Tu fiel cerdito volador no es sólo un alivio cómico: Piggy te ayuda en los puzles, el combate y la exploración, añadiendo encanto y corazón a tu viaje.
+- Despierta el poder legendario de la Saga del Creador, desbloquea poderosas transformaciones y desata habilidades devastadoras en encuentros épicos.
 - Entra en templos antiguos llenos de trampas, rompecabezas y peligros para conseguir tesoros únicos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

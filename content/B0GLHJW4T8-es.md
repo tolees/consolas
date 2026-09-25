@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Formation Z PS5'
-date: 2026-09-14 12:17:53
+date: 2026-09-21 10:12:57
 image: 'https://m.media-amazon.com/images/I/51SxjjP6ugL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GLHJW4T8/?tag=tolees-21'
 descuento: '17.24'
-average: '39.795'
+average: '38.0633333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

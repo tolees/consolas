@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Licencia oficial de Nintendo
 - Bolsillo externo para almacenamiento extra
 - Reverso almohadillado y perforado para una adecuada transpiración
-- Licencia oficial de Nintendo
 - Correa regulable
 - Espacio para una consola Nintendo Switch y accesorios (mando, cable de alimentación, juegos, etc.)
 

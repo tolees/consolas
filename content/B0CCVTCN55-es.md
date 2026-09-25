@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TEFLOTY Cable HDMI 2.1 Cable HDMI 8K de Alta Velocidad Ultra HD 48Gbps 8K@60Hz 4K@120Hz 7680P eARC HDCP 2.2&2.3 DTS:X Compatible con HDTV PS5/4/3 Xbox Series X/S Monitor Mehr 2M'
-date: 2026-09-19 16:49:01
+date: 2026-09-20 19:59:02
 image: 'https://m.media-amazon.com/images/I/41sJd02hzfL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

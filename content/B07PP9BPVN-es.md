@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con elementos decorativos Mario Kart
-- 4 9 metros
-- Carrera GO!!!
 - A partir de 6 años
 - Circuito con curvas Mario Kart con dos slot cars
+- Carrera GO!!!
+- 4 9 metros
+- Con elementos decorativos Mario Kart
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07PP9BPVN{{</world>}}

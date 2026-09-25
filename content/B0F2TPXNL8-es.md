@@ -29,13 +29,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Ármate con el nuevo mando de edición limitada de DOOM: The Dark Ages, inspirado en la armadura del Doom Slayer.
-- Libera un poder ancestral con los botones verdes ABXY, evocando el alfabeto de las Centinelas.
 - Lucha contra hordas de demonios con la armadura verde satinada inspirada en el DOOM Slayer, equipada con un casco con pinchos plateados en 3D y fundas chapadas en la parte superior.
-- Agarra las empuñaduras de goma con acabado en cuero sintético para mantenerte en el corazón de la acción.
 - Apunta con la inquietante palanca roja que recuerda a la compuerta del pecho del DOOM Slayer.
-- TBC
-- Incluye el contenido descargable Skin DOOM Slayer Executioner para DOOM: The Dark Ages (juego vendido por separado).
 - Desenvaina el Escudo-Motosierra con el gatillo izquierdo naranja para sellar tus intenciones letales.
+- Agarra las empuñaduras de goma con acabado en cuero sintético para mantenerte en el corazón de la acción.
+- Incluye el contenido descargable Skin DOOM Slayer Executioner para DOOM: The Dark Ages (juego vendido por separado).
+- TBC
+- Libera un poder ancestral con los botones verdes ABXY, evocando el alfabeto de las Centinelas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0F2TPXNL8{{</world>}}

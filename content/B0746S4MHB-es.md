@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Conector para auriculares de 3.5 mm
+- Tipo de conectividad: por cable
 - Superficie "Soft touch" para un agarre perfecto incluso en sesiones de juego largas
+- Panel táctil totalmente funcional
+- Conector para auriculares de 3.5 mm
 - 2 motores de vibración
 - Indicador LED de jugador
-- Panel táctil totalmente funcional
-- Tipo de conectividad: por cable
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0746S4MHB{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Utiliza el ciclo del planeta para extraer recursos y mantener tu base en marcha.
-- Toma decisiones importantes desde el pasado para salvarte en el presente.
-- Crea nuevas versiones de ti mismo para llevar a cabo tareas imposibles de asumir en solitario. Entabla relaciones con los alters e intenta influir en sus decisiones.
 - Gestiona una base móvil para escapar de los rayos letales del sol naciente.
+- Utiliza el ciclo del planeta para extraer recursos y mantener tu base en marcha.
+- Crea nuevas versiones de ti mismo para llevar a cabo tareas imposibles de asumir en solitario. Entabla relaciones con los alters e intenta influir en sus decisiones.
+- Toma decisiones importantes desde el pasado para salvarte en el presente.
 - Conviértete en Jan Dolski, un hombre normal y corriente que se enfrenta a una situación complicadísima en un planeta lejano.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
