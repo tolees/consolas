@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xbox Wireless Controller Robot White Series X|S One Windows 10/11 iOS y Android'
-date: 2026-09-26 10:42:58
+date: 2026-09-29 21:21:44
 image: 'https://m.media-amazon.com/images/I/31YmM60lm+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F2NCQYTX/?tag=tolees-21'
 descuento: '29.24'
-average: '47.7871428571429'
+average: '47.7251724137932'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

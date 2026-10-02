@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Courtroom Cases Now Made for Consoles – Apollo Justice: Ace Attorney Trilogy will be available on numerous platforms including Nintendo Switch, PlayStation 4, Xbox One, Windows, and Steam for the first time ever.
 - A Collection of Special Items for Dedicated Defense Attorneys – The collection includes special items that will have attorneys excited to fight for justice!
 - Newly Added Features for a More In-Depth Gameplay Experience – The collection will have a new and intuitive design that allows players to experience the game’s story mode in an exciting and more in-depth way.
-- Courtroom Cases Now Made for Consoles – Apollo Justice: Ace Attorney Trilogy will be available on numerous platforms including Nintendo Switch, PlayStation 4, Xbox One, Windows, and Steam for the first time ever.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CKZZ5BTR{{</world>}}

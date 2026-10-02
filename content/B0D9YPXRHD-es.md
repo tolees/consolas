@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CREA TU PERSONAJE: Sé tú misma. Sé única. Sé Monster.
-- DESBLOQUEA HABILIDADES: Como el increíble Salto vampírico o la Evasión Gorgon.
 - RESUELVE LOS CADAVÉRICOS SECRETOS: Descubre los secretos de las habitaciones ocultas y lo que está pasando en Monster High.
+- CREA TU PERSONAJE: Sé tú misma. Sé única. Sé Monster.
 - CONOCE A LA BOO CREW: ¡Clawdeen, Draculaura y Frankie son tus nuevas amigas!
+- DESBLOQUEA HABILIDADES: Como el increíble Salto vampírico o la Evasión Gorgon.
 - DESCUBRE EL MUNDO DE Monster High: Explora el instituto y sus monstruosos secretos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

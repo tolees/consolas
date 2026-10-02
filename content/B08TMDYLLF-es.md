@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Carrera GO!!!
 - Nintendo Mario Kart - P-Wing - Mario
 - Autonélice de Mario Kart original
 - escala 1:43
-- Carrera GO!!!
 - Ab 6 años
 
 [🛒 Aquí!!!]({{< param buyurl >}})

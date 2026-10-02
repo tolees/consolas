@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño de jefes icónicos de inspiración marítima.
 - Jugable con gráficos modernos en alta resolución o con gráficos de la versión origi-nal de las Recreativas.
-- Sistema único de captura de naves espaciales enemigas para una profundidadestratégica.
 - Diferentes ramificaciones y caminos que poder tomar durante los niveles.
+- Sistema único de captura de naves espaciales enemigas para una profundidadestratégica.
+- Diseño de jefes icónicos de inspiración marítima.
 - Fantástica composición de la banda sonora y audio.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

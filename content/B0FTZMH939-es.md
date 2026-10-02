@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Correcciones surgidas de la comunidad y mayor estabilidad
-- Mejores texturas, efectos de iluminación y campo de visión
 - Incluye todas las expansiones y actualizaciones en una edición definitiva
+- Mejores texturas, efectos de iluminación y campo de visión
 - Combate más fluido y ágil
 - Interfaz moderna y compatibilidad completa con mandos
+- Correcciones surgidas de la comunidad y mayor estabilidad
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FTZMH939{{</world>}}

@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Aúna fuerzas con la misteriosa hada Tri, y usa el poder del cetro de Tri para crear réplicas, es decir, duplicados de cosas que encuentres en el entorno. Luego podrás recrear dichas réplicas cuando lo necesites para resolver acertijos y derrotar a los enemigos
 - Los habitantes de Hyrule se están desvaneciendo poco a poco a causa de extrañas brechas que han surgido de repente y, entre los desaparecidos, se encuentra cierto conocido espadachín. Ahora está en manos de la princesa Zelda salvar su reino
 - Crea réplicas como bloques acuosos para alcanzar lugares altos o camas viejas para levantar puentes, arroja piedras a los enemigos o combina las réplicas de forma creativa para hacer las cosas a tu manera. ¡Hasta puedes crear réplicas de monstruos para que te echen una mano en los combates!
+- Aúna fuerzas con la misteriosa hada Tri, y usa el poder del cetro de Tri para crear réplicas, es decir, duplicados de cosas que encuentres en el entorno. Luego podrás recrear dichas réplicas cuando lo necesites para resolver acertijos y derrotar a los enemigos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0D7DBHVWV{{</world>}}

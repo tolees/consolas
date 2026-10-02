@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Embárcate en la aventura más loca de tu vida con It Takes Two.
 - En esta aventura de plataformas multigénero creada para el juego cooperativo solo hay una cosa segura: que juntos somos mejores.
+- Embárcate en la aventura más loca de tu vida con It Takes Two.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08WLJTRPZ{{</world>}}

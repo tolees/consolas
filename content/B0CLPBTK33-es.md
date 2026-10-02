@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Wear Your Emotions On Your Sleeve – Some decisions require you to express how you feel through the Emotion Select system. Pick from two of a total of five emotions: Happy, Angry, Troubled, Sad, and Indifferent. Your selected emotions can influence future conversations. Your love interests will always remember to consider your emotions.
-- A Happy Worker Is A Productive Worker!  – Use the Love/Work system when making decisions to balance your work life and social life. Increase your Work Points or Love Points with each decision by choosing whether you will prioritize your career or romance. This will influence the outcome of your route and the ending.
 - Call or text if you need me! – Increase productivity, or dabble in some friendly office banter by maintaining contact with romanceable characters using the RiNG system. Respond to text messages and take fully-voiced calls from your favourite love interests.
+- A Happy Worker Is A Productive Worker!  – Use the Love/Work system when making decisions to balance your work life and social life. Increase your Work Points or Love Points with each decision by choosing whether you will prioritize your career or romance. This will influence the outcome of your route and the ending.
 - #POV: You Are A Modern-Day Office Worker in Japan  – Explore your career opportunities and work with up to six love interests. See through the eyes of a Japanese career woman and experience full immersion in a contemporary workplace setting where the fantasy can be found in the breakroom.
+- Wear Your Emotions On Your Sleeve – Some decisions require you to express how you feel through the Emotion Select system. Pick from two of a total of five emotions: Happy, Angry, Troubled, Sad, and Indifferent. Your selected emotions can influence future conversations. Your love interests will always remember to consider your emotions.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CLPBTK33{{</world>}}

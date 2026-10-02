@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Project Motor Racing - PS5'
-date: 2026-09-18 11:32:05
+date: 2026-10-01 00:44:02
 image: 'https://m.media-amazon.com/images/I/51CrBVP4BgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F7HN3NP4/?tag=tolees-21'
 descuento: '33.64'
-average: '36.9399999999999'
+average: '35.5199999999999'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'RollerCoaster Tycoon 3 Complete Edition - PS5'
-date: 2026-09-24 06:10:53
+date: 2026-09-29 23:51:54
 image: 'https://m.media-amazon.com/images/I/51pow7IMhCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0G2FB27HR/?tag=tolees-21'
 descuento: '20.01'
-average: '21.78125'
+average: '21.5822222222222'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
