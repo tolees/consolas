@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Battlefield 6 Phantom Edition PS5 | Videojuegos | Castellano'
-date: 2026-09-29 17:19:32
+date: 2026-10-15 12:24:53
 image: 'https://m.media-amazon.com/images/I/51gDPG9-txL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FJY2ZWRH-es Battlefield 6 Phantom Edition PS5 | Videojuegos | Castellano'
 sku: 'B0FJY2ZWRH-es'
 tags: [ 'ps5','🇪🇸', ]
-actualPrice: 42.99 EUR
+actualPrice: 32.9 EUR
 currency: EUR
-price: 42.99
+price: 32.9
 comparePrice: 89.99 EUR
 prodname: 'Battlefield 6 Phantom Edition PS5 | Videojuegos | Castellano'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FJY2ZWRH/?tag=tolees-21'
-descuento: '52.23'
-average: '56.6110526315791'
+descuento: '63.44'
+average: '55.4255000000002'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

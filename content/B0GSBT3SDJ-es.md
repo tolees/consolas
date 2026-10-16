@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trails in the Sky 2nd Chapter - PS5'
-date: 2026-10-11 21:43:05
+date: 2026-10-15 09:37:01
 image: 'https://m.media-amazon.com/images/I/51k5Jsng09L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GSBT3SDJ/?tag=tolees-21'
 descuento: '16.74'
-average: '53.638'
+average: '53.3027272727273'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

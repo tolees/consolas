@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Carrera - 20063028 Circuito de Coches Nintendo Mario Kart de 2.9 m Escala 1:50 Multicolor 114 x 87.5 cm'
-date: 2026-03-10 14:39:24
+date: 2026-10-15 09:45:18
 image: 'https://m.media-amazon.com/images/I/41OpmAlQmML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B07PRBZ4LK-es Carrera - 20063028 Circuito de Coches Nintendo Mario Kart...'
 sku: 'B07PRBZ4LK-es'
 tags: [ 'nintendo','🇪🇸', ]
-actualPrice: 29.96 EUR
+actualPrice: 29.41 EUR
 currency: EUR
-price: 29.96
-comparePrice: 39.99 EUR
+price: 29.41
+comparePrice: 39.95 EUR
 prodname: 'Carrera - 20063028 Circuito de Coches Nintendo Mario Kart de 2.9 m Escala 1:50 Multicolor 114 x 87.5 cm'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PRBZ4LK/?tag=tolees-21'
-descuento: '25.08'
-average: '32.9133333333333'
+descuento: '26.38'
+average: '31.512'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,6 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- A partir de 3 años
-- Carrera FIRST
-- Elementos de volteo para una mayor diversión en el juego
-- 2 9 metros
-- Genial pista de slot cars con Super Mario y Luigi y licencia de Nintendo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07PRBZ4LK{{</world>}}

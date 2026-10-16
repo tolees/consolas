@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Continúa el viaje de Cal: ya no es un padawan, Cal se ha convertido en un poderoso Caballero Jedi.
-- Domina nuevas habilidades, equipos y destrezas que aumentarán tus formas de explorar, luchar y deambular.
 - Explora una galaxia indómita: descubre nuevos planetas y fronteras familiares en la galaxia de Star Wars, cada uno con biomas, desafíos y enemigos únicos.
+- Domina nuevas habilidades, equipos y destrezas que aumentarán tus formas de explorar, luchar y deambular.
 - Vaya más allá de su entrenamiento: el sistema de combate cinematográfico con habilidades de fuerza adicionales y nuevos estilos de lucha con sables de luz.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

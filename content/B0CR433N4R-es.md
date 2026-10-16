@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Emocionante modo de juego
-- Un luchador para una nueva generación
 - Otro juego, nueva rivalidad
+- Un luchador para una nueva generación
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CR433N4R{{</world>}}

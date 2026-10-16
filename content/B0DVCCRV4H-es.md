@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - ¡El primer juego en combinar "Aventura Gráfica" con elementos de "Beat em up" y RPG!
 - Una experiencia profunda y emocional, llena de narrativa y de personajes que recuerdan a los dibujos clásicos de los 80 y los 90.
-- BROK es el primer juego de aventuras completo que puede ser jugado por jugadores ciegos o con problemas de visión.
 - ¡Hasta 4 jugadores pueden disfrutar de la aventura juntos!
+- BROK es el primer juego de aventuras completo que puede ser jugado por jugadores ciegos o con problemas de visión.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DVCCRV4H{{</world>}}

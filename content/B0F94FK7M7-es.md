@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Fabrica: Elabora y repara armas, armaduras, herramientas y vehículos con cientos de recetas y esquemas
-- La edición física también incluye skins exclusivos para cada plataforma*: PlayStation 5: Samurai
 - Coopera o compite: Trabaja en equipo para construir asentamientos, o enfréntate a otros jugadores en un páramo donde los zombis y los forajidos gobiernan la tierra
+- La edición física también incluye skins exclusivos para cada plataforma*: PlayStation 5: Samurai
 - Construye: Diseña un fuerte con trampas, electricidad, torretas automáticas y dispositivos para sobrevivir en un mundo completamente destructible y moldeable
 - Explora: Entornos enormes y abundantes, con biomas singulares y mundos de hasta 100 kilómetros cuadrados de extensión
 

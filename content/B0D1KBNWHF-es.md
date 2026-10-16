@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SteelSeries Arctis Nova 5 Cascos gaming inalámbricos PC PS5 Switch 2 móvil - Controladores magnéticos de neodimio - Más de 100 preajustes de audio - Batería de 60h - 2 4 GHz o BT - Micro Gen2.X'
-date: 2026-09-27 19:23:26
+date: 2026-10-16 09:24:36
 image: 'https://m.media-amazon.com/images/I/41VLMBQHM+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0D1KBNWHF-es SteelSeries Arctis Nova 5 Cascos gaming inalámbricos PC...'
 sku: 'B0D1KBNWHF-es'
 tags: [ 'ps5','🇪🇸', ]
-actualPrice: 109.95 EUR
+actualPrice: 99.99 EUR
 currency: EUR
-price: 109.95
+price: 99.99
 comparePrice: 139.99 EUR
 prodname: 'SteelSeries Arctis Nova 5 Cascos gaming inalámbricos PC PS5 Switch 2 móvil - Controladores magnéticos de neodimio - Más de 100 preajustes de audio - Batería de 60h - 2 4 GHz o BT - Micro Gen2.X'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D1KBNWHF/?tag=tolees-21'
-descuento: '21.46'
-average: '93.8719230769231'
+descuento: '28.57'
+average: '94.0985185185186'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puerto USB-C para compatibilidad con PC, Mac, PS4, Nintendo Switch y dispositivos inteligentes.
-- Sonido envolvente 7.1 con ocho controladores ASUS Essence y subwoofers virtuales para un sonido de juego increíblemente envolvente y graves potentes.
 - Micrófono con cancelación de ruido AI para una comunicación nítida durante el juego. Impedancia de auriculares: 32 ohmios.
+- Sonido envolvente 7.1 con ocho controladores ASUS Essence y subwoofers virtuales para un sonido de juego increíblemente envolvente y graves potentes.
 - Cuatro controladores de auriculares ESS-9601 y un DAC ROG 7.1 con calidad de cine en casa exclusivamente personalizado brindan un sonido excepcional sin pérdidas.
+- Puerto USB-C para compatibilidad con PC, Mac, PS4, Nintendo Switch y dispositivos inteligentes.
 - Las almohadillas híbridas ROG con un material especial de enfriamiento rápido y un diseño apto para gafas garantizan una comodidad de uso sin concesiones.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
