@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EA SPORTS FC 25 Standard Edition PS5 | Videojuegos | Castellano'
-date: 2026-08-19 17:49:55
+date: 2026-10-22 10:42:36
 image: 'https://m.media-amazon.com/images/I/51THx7OenuL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0D98BGQRW-es EA SPORTS FC 25 Standard Edition PS5 | Videojuegos |...'
 sku: 'B0D98BGQRW-es'
 tags: [ 'ps5','🇪🇸', ]
-actualPrice: 17.49 EUR
+actualPrice: 14.9 EUR
 currency: EUR
-price: 17.49
+price: 14.9
 comparePrice: 29.99 EUR
 prodname: 'EA SPORTS FC 25 Standard Edition PS5 | Videojuegos | Castellano'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D98BGQRW/?tag=tolees-21'
-descuento: '41.68'
-average: '36.0121428571427'
+descuento: '50.32'
+average: '35.2841379310344'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,11 +28,6 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Logra que tu equipo se convierta en el mejor del mundo con FC IQ; La renovación de los fundamentos tácticos dentro del juego ofrece un mayor control estratégico y movimientos colectivos más realistas con cada equipo
-- EA SPORTS FC 25 tiene a los y las mejores futbolistas de los clubes y competiciones más importantes de todo el mundo; Los datos de partidos de las mejores ligas del mundo determinan como se mueven, como juegan y como ganan en cada partido
-- Por primera vez, disfruta de una experiencia auténtica en Carrera femenina, en la que tomarás el control de un club o jugadora de las cinco mejores ligas femeninas
-- Este videojuego es el principal juego de fútbol del mundo; La Edición Estándar contiene el juego completo de FC 25. Disco fisico.
-- En Football Ultimate Team Rush, crea tu plantilla de ensueño de cinco futbolistas con un máximo de tres colegas, quienes controlarán a su artículo de futbolista favorito, o enfréntate a clubes de todo el mundo en Rush de Clubes
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D98BGQRW{{</world>}}

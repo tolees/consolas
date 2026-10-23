@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Reverso almohadillado y perforado para una adecuada transpiración
-- Licencia oficial de Nintendo
-- Bolsillo externo para almacenamiento extra
 - Correa regulable
+- Bolsillo externo para almacenamiento extra
+- Licencia oficial de Nintendo
+- Reverso almohadillado y perforado para una adecuada transpiración
 - Espacio para una consola Nintendo Switch y accesorios (mando, cable de alimentación, juegos, etc.)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

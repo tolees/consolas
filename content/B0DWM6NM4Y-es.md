@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Super Mario: Mario Kart - Mario y Kart Estándar 72037 | Set para adultos maqueta de coche figura articulada set del Videojuego de Nintendo regalo gamer 1972 piezas'
-date: 2026-10-17 17:07:55
+date: 2026-10-22 09:38:58
 image: 'https://m.media-amazon.com/images/I/51dqmA5OnPL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DWM6NM4Y/?tag=tolees-21'
 descuento: '25.30'
-average: '131.430909090909'
+average: '131.237826086956'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Wreck - Nintendo Switch'
-date: 2026-10-20 21:18:25
+date: 2026-10-22 17:05:35
 image: 'https://m.media-amazon.com/images/I/514jylDaipL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CZS3L33B/?tag=tolees-21'
 descuento: '24.52'
-average: '27.4775'
+average: '27.264'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

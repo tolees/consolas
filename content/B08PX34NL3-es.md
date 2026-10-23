@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Los dioses del Olimpo te han bendecido con regalos: las alas de daidalos, la espada de Aquiles, el arco de Odisea y más, así como poderes legendarios que te ayudarán a cambiar el rumbo de la batalla
-- Explora un mundo abierto con estilo. Descubre un mundo de fantasía bellamente renderizado
 - Immortals Fenyx Rising da vida a una gran aventura mitológica. Juega como Fenyx, un nuevo deigod alado en una misión para salvar a los dioses griegos y su hogar de una oscura maldición. Enfréntate a bestias mitológicas, domina los poderes del
+- Explora un mundo abierto con estilo. Descubre un mundo de fantasía bellamente renderizado
+- Los dioses del Olimpo te han bendecido con regalos: las alas de daidalos, la espada de Aquiles, el arco de Odisea y más, así como poderes legendarios que te ayudarán a cambiar el rumbo de la batalla
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08PX34NL3{{</world>}}

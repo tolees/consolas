@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Personaje Sonic classic the hedgehog
-- Incluye cable de carga de 2 metros (conector lightning, mini usb y usb)
 - Compatible con mando o controller PS4, Xbox one
-- Compatible con todos los teléfonos móviles o smartphones actuales
+- Personaje Sonic classic the hedgehog
 - Producto con licencia oficial Sonic the hedgehog de Sega
+- Incluye cable de carga de 2 metros (conector lightning, mini usb y usb)
+- Compatible con todos los teléfonos móviles o smartphones actuales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B075QLBP9K{{</world>}}

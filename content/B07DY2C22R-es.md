@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Sumérgete en un juego con balística realista y con gran atención a los detalles
-- Diseño de audio sin precedentes con chat de voz posicional para crear una atmósfera que hará que te palpite el corazón
-- Compite en partidas PVP basadas en objetivos
-- Forma equipo en un intenso juego de estilo cooperativo
 - Personaliza completamente tu personaje y tus armas
+- Diseño de audio sin precedentes con chat de voz posicional para crear una atmósfera que hará que te palpite el corazón
+- Forma equipo en un intenso juego de estilo cooperativo
+- Compite en partidas PVP basadas en objetivos
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07DY2C22R{{</world>}}
