@@ -1,0 +1,33 @@
+---
+layout: post
+title: 'MasterChef El Videojuego Oficial PS5'
+date: 2026-10-19 14:27:34
+image: 'https://m.media-amazon.com/images/I/41yI77lq4zL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0BZWPT4K1-es MasterChef El Videojuego Oficial PS5'
+sku: 'B0BZWPT4K1-es'
+tags: [ 'ps5','🇪🇸', ]
+actualPrice: 22.95 EUR
+currency: EUR
+price: 22.95
+comparePrice: 27.95 EUR
+prodname: 'MasterChef El Videojuego Oficial PS5'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0BZWPT4K1/?tag=tolees-21'
+descuento: '17.89'
+average: '29.4537499999999'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B0BZWPT4K1{{</world>}}
