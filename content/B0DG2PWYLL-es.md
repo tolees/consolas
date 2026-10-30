@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Incluye todos los DLCs anteriores
-- Mejora de efectos posteriores
 - Resolución nativa 4K; retroalimentación háptica
-- Mapas de sombras de alta resolución
 - 60 fps
+- Mejora de efectos posteriores
+- Incluye todos los DLCs anteriores
+- Mapas de sombras de alta resolución
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DG2PWYLL{{</world>}}

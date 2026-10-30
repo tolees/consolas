@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Exploración de puzzles.
 - Dificultad progresiva.
+- Exploración de puzzles.
 - Historia de intriga.
 - Desafío intelectual.
 - Mecánicas variadas.

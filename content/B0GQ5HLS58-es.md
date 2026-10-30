@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingdom Come Deliverance Royal Edition - PS5'
-date: 2026-10-27 17:42:29
+date: 2026-10-30 15:05:51
 image: 'https://m.media-amazon.com/images/I/51HX+uyU++L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GQ5HLS58/?tag=tolees-21'
 descuento: '21.17'
-average: '33.4434285714285'
+average: '33.2437837837838'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

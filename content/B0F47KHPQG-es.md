@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Wide Cutout for Game Card Slot - Keep your case on, swap your games effortlessly
-- Improved Shoulder Button Design - No finger pinching
-- 75 Stand Design - Brilliant design keeps the console standing firmly on tabletop
 - Textured Grips - Increases grip friction, handheld better, play better
+- 75 Stand Design - Brilliant design keeps the console standing firmly on tabletop
+- Improved Shoulder Button Design - No finger pinching
 - Soft Material - Easy to fit, provides full protection
 
 [🛒 Visítala!!!]({{< param buyurl >}})

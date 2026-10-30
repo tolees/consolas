@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Frank y Drake son reunidos por fuerzas desconocidas en el seno de una conspiración que los amenaza a ambos. Comparten el mismo apartamento, aunque están destinados a no encontrarse jamás; deben colaborar para desentrañar el misterio que envuelve sus vidas.
-- El misterio se despliega mediante una narrativa ramificada en la que las decisiones que tomes tendrán un impacto profundo en los acontecimientos que vivan ambos protagonistas. Las múltiples partidas te recompensarán con nuevas perspectivas de la historia, además de puzles y minijuegos exclusivos. ¿Qué camino escogerás? ¿Descubrirás todos los secretos ocultos en este mundo?
 - Frank es el conserje de un bloque de apartamentos en decadencia en Oriole City; está preocupado porque siente que pierde la cordura y lo poco que le queda de conexión con el mundo que le rodea. Drake es alérgico a la luz solar y actúa por la noche. Su existencia dividida les obliga a comunicarse mediante notas adhesivas dejadas por todo el apartamento.
+- El misterio se despliega mediante una narrativa ramificada en la que las decisiones que tomes tendrán un impacto profundo en los acontecimientos que vivan ambos protagonistas. Las múltiples partidas te recompensarán con nuevas perspectivas de la historia, además de puzles y minijuegos exclusivos. ¿Qué camino escogerás? ¿Descubrirás todos los secretos ocultos en este mundo?
+- Frank y Drake son reunidos por fuerzas desconocidas en el seno de una conspiración que los amenaza a ambos. Comparten el mismo apartamento, aunque están destinados a no encontrarse jamás; deben colaborar para desentrañar el misterio que envuelve sus vidas.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FR9VKSKM{{</world>}}

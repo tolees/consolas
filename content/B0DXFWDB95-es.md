@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Acción y plataformas 2.5D: Disfruta de una aventura de acción con elementos de plataformas. Navega por la ciudad practicando Parkour para sortear los desafíos físicos
+- Persecuciones sincronizadas: Prepárate para correr a toda velocidad mientras la música del juego acompaña todas tus acciones
 - Resolución de puzles: Resuelve intrincados puzles musicales para superar los desafíos presentados por las distópicas calles de Antro
 - Ambientación musical: Juega a ritmo de Hip Hop, Drill, R&B y música electrónica
-- Persecuciones sincronizadas: Prepárate para correr a toda velocidad mientras la música del juego acompaña todas tus acciones
-- Acción y plataformas 2.5D: Disfruta de una aventura de acción con elementos de plataformas. Navega por la ciudad practicando Parkour para sortear los desafíos físicos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DXFWDB95{{</world>}}

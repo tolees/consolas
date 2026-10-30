@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Almacenamiento cómodo y fácil de transportar para cartuchos de juegos y tarjetas micro SD
+- Compatible con cartuchos de juego Nintendo Switch 1 y Switch 2
+- Capacidad para hasta 3 cartuchos de Nintendo Switch y 3 tarjetas micro SD
 - Fabricado en silicona, protege las tarjetas contra arañazos y evita su pérdida; incluye llavero
 - Diseño retro personalizado, creado desde cero para un estilo único
-- Capacidad para hasta 3 cartuchos de Nintendo Switch y 3 tarjetas micro SD
-- Compatible con cartuchos de juego Nintendo Switch 1 y Switch 2
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0FN3W8JQS{{</world>}}

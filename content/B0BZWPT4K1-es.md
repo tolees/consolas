@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MasterChef El Videojuego Oficial PS5'
-date: 2026-10-24 14:32:38
+date: 2026-10-29 15:46:54
 image: 'https://m.media-amazon.com/images/I/41yI77lq4zL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BZWPT4K1/?tag=tolees-21'
 descuento: '17.89'
-average: '29.2566666666666'
+average: '29.0711764705882'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

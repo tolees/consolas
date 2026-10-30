@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Third party made product
 - ompatible with GBA, NDS, DSL, Dsi, 3DS, 3DS XL, Switch,Switch OLED, Wii and PS4 Controller
+- Third party made product
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00WU9I3G2{{</world>}}
