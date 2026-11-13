@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Series composer Takeshi Abo has remade the soundtrack, and the original voice actors have returned to re-record all in-game voices in Japanese. In addition to new dialogue and narrative text, a new route has been added with an additional ending.
 - Exclusive bonus item included in the initial print run: 4.5-inch clear sticker featuring the games characters!
 - Character designer huke returns with redesigned outfits and accessories that bring a contemporary flair to the cast while Akihabara has been recreated with stunning realism and depth, including new scenes.
-- Series composer Takeshi Abo has remade the soundtrack, and the original voice actors have returned to re-record all in-game voices in Japanese. In addition to new dialogue and narrative text, a new route has been added with an additional ending.
 - Uses E-mote, which has been well-received in Anonymous;Code. Smooth animations and rich expressions breathe new life to beloved characters.
 - Characters, backgrounds, and pivotal moments have all been updated from scratch. There are twice the amount of still images and 20% more background graphics compared to the original version.
 

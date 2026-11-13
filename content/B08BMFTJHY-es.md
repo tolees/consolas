@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fecha de lanzamiento sujeta a cambios
 - Caratula no definitiva
+- Fecha de lanzamiento sujeta a cambios
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08BMFTJHY{{</world>}}

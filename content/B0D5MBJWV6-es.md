@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - A coming-of-age story about overcoming hardships and finding yourself
-- Includes DLC & behind-the-scenes commentary from the creative team
 - Beautiful character art and music
+- Includes DLC & behind-the-scenes commentary from the creative team
 - Unravel a mystery stretching back hundreds of years
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

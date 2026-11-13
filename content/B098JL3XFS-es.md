@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Sistema único de captura de naves espaciales enemigas para una profundidadestratégica.
-- Jugable con gráficos modernos en alta resolución o con gráficos de la versión origi-nal de las Recreativas.
 - Fantástica composición de la banda sonora y audio.
-- Diseño de jefes icónicos de inspiración marítima.
 - Diferentes ramificaciones y caminos que poder tomar durante los niveles.
+- Jugable con gráficos modernos en alta resolución o con gráficos de la versión origi-nal de las Recreativas.
+- Diseño de jefes icónicos de inspiración marítima.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B098JL3XFS{{</world>}}

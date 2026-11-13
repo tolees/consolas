@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100 personajes con los que puedes tener citas
-- Narrativas ramificadas
 - Voces completas para cada personaje
 - Al menos 3 finales por cada candidato romántico
+- Narrativas ramificadas
+- 100 personajes con los que puedes tener citas
 - ¡Montones de juegos de palabras!
 
 [🛒 Aquí!!!]({{< param buyurl >}})

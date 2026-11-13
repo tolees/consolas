@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Método de carga sencillo: simplemente coloca el controlador en la base
-- Licencia oficial de Microsoft
 - Compatible con el controlador inalámbrico Xbox Series X/S, Xbox Elite Series 1 y Xbox One
 - Duración de la batería: hasta 20 horas
+- Licencia oficial de Microsoft
 - Incluye una batería y dos tapas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

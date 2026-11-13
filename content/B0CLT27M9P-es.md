@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Referencia: S7823552
 - Videojuego Xbox One de la marca Warner Games
+- Color: multicolor
+- Referencia: S7823552
 - Medidas: 14 x 2 x 18 centímetros
 - ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
-- Color: multicolor
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CLT27M9P{{</world>}}

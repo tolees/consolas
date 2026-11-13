@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EA SPORTS FC™ 27 - Edición Estándar Nintendo Switch 2 Llave de Juego'
-date: 2026-11-06 16:10:23
+date: 2026-11-12 23:50:46
 image: 'https://m.media-amazon.com/images/I/51wpvnqqoRL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H7K1XGBS/?tag=tolees-21'
 descuento: '16.69'
-average: '59.388965517241331'
+average: '59.072666666666621'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

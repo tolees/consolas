@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disciples Domination - PlayStation 5'
-date: 2026-11-11 20:25:03
+date: 2026-11-13 09:13:32
 image: 'https://m.media-amazon.com/images/I/41gd8qugUOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GF2VJKXR/?tag=tolees-21'
 descuento: '41.15'
-average: '33.54625'
+average: '33.087777777777781'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

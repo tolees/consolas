@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Respuesta de entrada ochos veces más rápida con la tecnología Gambit Dual Core2
 - Reacciona más rápidamente con los gatillos sensibles ajustables patentados con cinco topes
-- Catorce componentes intercambiables para adaptar el mando a tu estilo de juego
 - Personaliza la configuración del mando con la aplicación Victrix Control Hub
+- Catorce componentes intercambiables para adaptar el mando a tu estilo de juego
 - Con licencia oficial de Xbox
 
 [🛒 Aquí!!!]({{< param buyurl >}})
