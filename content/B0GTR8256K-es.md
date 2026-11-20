@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MOUSE: P.I. For Hire - PS5'
-date: 2026-11-19 01:07:36
+date: 2026-11-20 08:30:23
 image: 'https://m.media-amazon.com/images/I/41Cdw4VCDIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0GTR8256K-es MOUSE: P.I. For Hire - PS5'
 sku: 'B0GTR8256K-es'
 tags: [ 'ps5','🇪🇸', ]
-actualPrice: 23.66 EUR
+actualPrice: 21.4 EUR
 currency: EUR
-price: 23.66
+price: 21.4
 comparePrice: 34.99 EUR
 prodname: 'MOUSE: P.I. For Hire - PS5'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GTR8256K/?tag=tolees-21'
-descuento: '32.38'
-average: '28.618076923076892'
+descuento: '38.84'
+average: '28.350740740740708'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

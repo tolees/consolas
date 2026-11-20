@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SANDISK Optimus GX PRO 850P SSD para PS5 1 TB lectura hasta 7300 MB/s | Licencia Oficial para Consolas Playstation 5. Escritura hasta 6300MB/s NVMe PCIe 4.0 M.2 2280 disipador para PS5 y PS5 Pro'
-date: 2026-11-18 17:00:59
+date: 2026-11-20 02:08:16
 image: 'https://m.media-amazon.com/images/I/31YBF6wL0YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Talla única.
-- Controlador Nintendo Joy-Con (R) Rojo Neón.
 - Fácil de usar.
+- Controlador Nintendo Joy-Con (R) Rojo Neón.
+- Talla única.
 - Material resistente.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

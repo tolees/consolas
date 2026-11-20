@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Live2D brings the characters to life, allowing for a more immersive experience in the beautiful but flawed world of Itehari
-- From a self-centered noble to an awkward arcanist, experience love with a colorful cast of characters with unique personalities and backgrounds
 - Enjoy a unique setting that combines steampunk and traditional Japanese elements
+- From a self-centered noble to an awkward arcanist, experience love with a colorful cast of characters with unique personalities and backgrounds
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FDGCFT5H{{</world>}}

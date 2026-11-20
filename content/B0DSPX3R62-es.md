@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PlayStation 5 - Mando inalámbrico DualSense Edge® – Midnight Black'
-date: 2026-11-19 10:18:05
+date: 2026-11-20 13:07:44
 image: 'https://m.media-amazon.com/images/I/31KqHtib1SL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DSPX3R62/?tag=tolees-21'
 descuento: '18.22'
-average: '179.674'
+average: '179.71166666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

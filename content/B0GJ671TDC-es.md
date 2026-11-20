@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Snoopy & The Great Mystery Club Deluxe Edition Nintendo Switch 2'
-date: 2026-10-31 15:34:16
+date: 2026-11-19 18:49:03
 image: 'https://m.media-amazon.com/images/I/51HQI9uD1GL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0GJ671TDC-es Snoopy & The Great Mystery Club Deluxe Edition Nintendo...'
 sku: 'B0GJ671TDC-es'
 tags: [ 'nintendo','🇪🇸', ]
-actualPrice: 26.83 EUR
+actualPrice: 25.75 EUR
 currency: EUR
-price: 26.83
+price: 25.75
 comparePrice: 39.99 EUR
 prodname: 'Snoopy & The Great Mystery Club Deluxe Edition Nintendo Switch 2'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GJ671TDC/?tag=tolees-21'
-descuento: '32.91'
-average: '25.5533333333333'
+descuento: '35.61'
+average: '25.581428571428543'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

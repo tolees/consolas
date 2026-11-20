@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Turtle Beach Rematch draadloze gamecontroller Nintendo Switch 2 en Lite | Zwart & rood Nintendo Switch OLED TMR-thumbsticks oplaadbare batterij 40 uur 2 toewijsbare knoppen bewegingsbesturing'
-date: 2026-11-19 01:55:28
+date: 2026-11-20 02:15:04
 image: 'https://m.media-amazon.com/images/I/31qsNh75xrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

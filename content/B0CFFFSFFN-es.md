@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UGREEN 8K Cable HDMI 2.1 Certificado 8K 60Hz 4K 240Hz 48Gbps 2M | Ultra Alta Velocidad Aluminio eARC HDCP Dynamic HDR Dolby Atmos Compatible con Monitor HDTV PS5 PS4 Xbox PC'
-date: 2026-11-18 11:03:40
+date: 2026-11-20 14:41:09
 image: 'https://m.media-amazon.com/images/I/416pEOA3-lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CFFFSFFN/?tag=tolees-21'
 descuento: '39.83'
-average: '10.162333333333265'
+average: '10.090937499999935'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

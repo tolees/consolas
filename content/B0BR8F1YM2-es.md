@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mecánicas variadas.
-- Dificultad progresiva.
-- Desafío intelectual.
-- Historia de intriga.
 - Exploración de puzzles.
+- Desafío intelectual.
+- Mecánicas variadas.
+- Historia de intriga.
+- Dificultad progresiva.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BR8F1YM2{{</world>}}

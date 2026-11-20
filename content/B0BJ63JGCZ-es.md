@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hack-n-slash melee combat: Use a wide variety of deadly moves and dozens of unique finishers to slice and dice
 - Third-person shooter: Battle indoors and outdoors using a curated selection of projectile weapons - assault rifles, SMGs, LMGs and grenade launchers
+- Hack-n-slash melee combat: Use a wide variety of deadly moves and dozens of unique finishers to slice and dice
 - Cyberpunk: a crazy mix of advanced weaponry and lo-tech 90s retro futurism
-- Gripping storyline: The Zombie unit uncovers a major corporate conspiracy in a dystopian version of Hong Kong
 - Brutal finishers: over 50 unique finishing moves
+- Gripping storyline: The Zombie unit uncovers a major corporate conspiracy in a dystopian version of Hong Kong
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BJ63JGCZ{{</world>}}

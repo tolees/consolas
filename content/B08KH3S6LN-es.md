@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 3 metros de longitud
+- Luz LED de estado de carga
 - Cable trenzado que evita que se enrede
 - Cable de carga y datos
-- Luz LED de estado de carga
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08KH3S6LN{{</world>}}

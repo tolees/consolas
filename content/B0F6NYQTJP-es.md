@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HyperX Cloud III S - Auriculares Gaming inalámbricos Bluetooth 2.4Ghz PC PS5 Xbox Drivers 53 mm DTS micrófono 10mm batería hasta 200h Rojo-Negro'
-date: 2026-11-18 10:50:40
+date: 2026-11-19 22:54:47
 image: 'https://m.media-amazon.com/images/I/3163UthYOSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F6NYQTJP/?tag=tolees-21'
 descuento: '38.00'
-average: '105.41999999999922'
+average: '104.5913333333326'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

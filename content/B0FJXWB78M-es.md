@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Battlefield 6 Standard Edition PS5 | Videojuegos | Castellano'
-date: 2026-11-16 09:37:16
+date: 2026-11-19 22:15:38
 image: 'https://m.media-amazon.com/images/I/513I4bzeyFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0FJXWB78M-es Battlefield 6 Standard Edition PS5 | Videojuegos | Castellano'
 sku: 'B0FJXWB78M-es'
 tags: [ 'ps5','🇪🇸', ]
-actualPrice: 25.99 EUR
+actualPrice: 24.71 EUR
 currency: EUR
-price: 25.99
+price: 24.71
 comparePrice: 59.99 EUR
 prodname: 'Battlefield 6 Standard Edition PS5 | Videojuegos | Castellano'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FJXWB78M/?tag=tolees-21'
-descuento: '56.68'
-average: '41.814705882352911'
+descuento: '58.81'
+average: '41.325999999999972'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Edifier G2000 Pro Altavoces Gaming RGB con Sonido Envolvente 7.1，Negro | 64W de potencia máxima Luz sincronizada TempoFlow 270° Bluetooth 5.4 USB-C AUX compatibles con PC y PS5'
-date: 2026-11-18 16:55:55
+date: 2026-11-19 22:56:41
 image: 'https://m.media-amazon.com/images/I/41S5Bkx8UpL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F8HFXXVZ/?tag=tolees-21'
 descuento: '40.63'
-average: '97.49'
+average: '97.132857142857134'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

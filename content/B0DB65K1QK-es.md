@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Indicador led de aviso de batería baja
-- Garantía limitada de dos años. Visita PowerA.com/Support
-- Batería recargable de iones de litio: hasta 30 horas por carga*
 - Dos botones asignables de juego avanzado
-- Diseño intuitivo de los botones de Nintendo
-- Ergonomía superior para jugar cómodamente durante horas
 - Mando inalámbrico para videojuegos con licencia oficial para Nintendo Switch y Nintendo Switch Lite + Nintendo Switch (OLED model)
-- Incluye cable de alimentación USB-C de 10 pies (3 m)
 - Anillos antifricción integrados para un control suave del mando del pulgar
+- Ergonomía superior para jugar cómodamente durante horas
+- Incluye cable de alimentación USB-C de 10 pies (3 m)
+- Batería recargable de iones de litio: hasta 30 horas por carga*
+- Diseño intuitivo de los botones de Nintendo
+- Garantía limitada de dos años. Visita PowerA.com/Support
+- Indicador led de aviso de batería baja
 - Mando inalámbrico con tecnología Bluetooth 5.0
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

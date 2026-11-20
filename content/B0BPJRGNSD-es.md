@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Los productos internacionales tienen términos separados, se venden desde el extranjero y pueden diferir de los productos locales, incluyendo ajuste, calificaciones de edad e idioma del producto, etiquetado o instrucciones.
 - Comentarios en el juego: La primera función de comentarios en tiempo real de Street Fighter, apoyada con subtítulos en 13 idiomas, incorpora las voces de los populares comentaristas de Fighting Game Community (FGC) como Vicious y Aru directamente en el juego para narrar lo que está sucediendo en la pantalla como un torneo real.
 - Distintos estilos de lucha para dominar: 18 personajes diversos, incluidos los legendarios World Warriors y emocionantes personajes nuevos añaden su propio estilo al juego en el lanzamiento, y se agregarán más después del lanzamiento.
-- Los productos internacionales tienen términos separados, se venden desde el extranjero y pueden diferir de los productos locales, incluyendo ajuste, calificaciones de edad e idioma del producto, etiquetado o instrucciones.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BPJRGNSD{{</world>}}

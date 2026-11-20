@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ¡Se necesita un pueblo! - rescatar a sus compañeros pasajeros naufragados y llévalos a su aldea donde proporcionarán servicios valiosos
 - otro lado: desentrañar el misterio de la doncella de pelo azul Dana a través de sus secciones de juego únicas
+- ¡Se necesita un pueblo! - rescatar a sus compañeros pasajeros naufragados y llévalos a su aldea donde proporcionarán servicios valiosos
 - ¡Fiesta en! - Cambia tu personaje jugable sobre la marcha mientras luchas contra enemigos feroces en un combate ultrarrápido
 - Una historia épica: sigue a Adol en su última aventura y descubre los misterios de la isla maldita
 

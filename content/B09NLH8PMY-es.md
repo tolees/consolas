@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PlayStation 5 - Mando inalámbrico DualSense Starlight Blue - Exclusivo para PS5'
-date: 2026-11-18 15:50:16
+date: 2026-11-19 19:36:41
 image: 'https://m.media-amazon.com/images/I/31dC8ySv8aL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09NLH8PMY/?tag=tolees-21'
 descuento: '26.67'
-average: '73.6105'
+average: '71.917727272727277'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
