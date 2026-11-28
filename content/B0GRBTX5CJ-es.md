@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warhammer 40 000: Speed Freeks - PS5'
-date: 2026-11-26 16:48:15
+date: 2026-11-27 19:33:47
 image: 'https://m.media-amazon.com/images/I/51FTm4IRCkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GRBTX5CJ/?tag=tolees-21'
 descuento: '30.22'
-average: '15.2'
+average: '14.783333333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Avatar: Frontiers of Pandora From the Ashes Edition PS5'
-date: 2026-11-24 14:55:30
+date: 2026-11-27 17:21:15
 image: 'https://m.media-amazon.com/images/I/51KQEri+g1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FSD6JBSK/?tag=tolees-21'
 descuento: '50.24'
-average: '24.738305084745562'
+average: '24.579672131147348'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

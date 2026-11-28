@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rayman: 30th Anniversary Edition - PS5'
-date: 2026-11-23 10:16:45
+date: 2026-11-28 12:11:47
 image: 'https://m.media-amazon.com/images/I/5124P46+YVL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GN9H2SDS/?tag=tolees-21'
 descuento: '43.13'
-average: '27.614090909090816'
+average: '27.278695652173823'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

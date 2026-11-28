@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Split Fiction PS5 | Disco |Videojuegos | Castellano'
-date: 2026-11-26 01:04:22
+date: 2026-11-27 22:45:59
 image: 'https://m.media-amazon.com/images/I/51UHV3NZL4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DQ5WMN4H/?tag=tolees-21'
 descuento: '52.39'
-average: '30.366769230769378'
+average: '30.17074626865686'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

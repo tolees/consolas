@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Desplazamiento con una sola mano: La base de carga se ha diseñado pensando en la ergonomía, de manera que puedas usar el mando cómodamente para desplazarte por los menús de la PS5 aunque esté colocado en la base
 - Suministro de alimentación por USB: Basta con conectar la base de carga a la consola PS5, al PC o a un enchufe de pared compatible (se vende por separado) para que funcione
+- Desplazamiento con una sola mano: La base de carga se ha diseñado pensando en la ergonomía, de manera que puedas usar el mando cómodamente para desplazarte por los menús de la PS5 aunque esté colocado en la base
 - Carga rápida: Capaz de cargar por completo tu mando en menos de 3 horas, la base también está diseñada con protección contra sobrecargas para prevenir el sobrecalentamiento y los cortocircuitos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

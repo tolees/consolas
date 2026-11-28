@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubisoft Tom Clancy s Rainbow Six Siege X - Elite Edition PS5'
-date: 2026-11-11 08:42:28
+date: 2026-11-27 16:24:44
 image: 'https://m.media-amazon.com/images/I/519MG16cEkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FJ8ZJLJR/?tag=tolees-21'
 descuento: '68.53'
-average: '9.3237500000000022'
+average: '8.9866666666666699'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

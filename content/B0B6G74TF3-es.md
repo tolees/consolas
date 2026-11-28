@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Explora los reinos
 - Armas de guerra
+- Explora los reinos
 - Aquellos que desafían al destino
 
 [🛒 Aquí!!!]({{< param buyurl >}})

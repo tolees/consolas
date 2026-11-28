@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Assassin s Creed Black Flag Resynced Standard Edition PS5'
-date: 2026-11-23 18:20:16
+date: 2026-11-27 14:30:41
 image: 'https://m.media-amazon.com/images/I/51iYI3Z6ITL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GXL8QVM6/?tag=tolees-21'
 descuento: '33.49'
-average: '50.541071428571343'
+average: '50.174137931034402'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

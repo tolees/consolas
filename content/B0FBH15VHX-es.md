@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DOMINA LA SENDA DEL SHINOBI Ejecuta combos ilimitados con movimientos de combate únicos, consigue amuletos para mejorar tus habilidades y descubre herramientas ningi para superar los obstáculos y descubrir nuevos caminos.
 - EXPLORA UN NUEVO MUNDO LLENO DE ESTILO Recorre más de una docena de escenarios únicos y visualmente impactantes, desde bases militares hasta un desierto abrasador, desafiantes puzles de plataformas y secretos ocultos.
+- DOMINA LA SENDA DEL SHINOBI Ejecuta combos ilimitados con movimientos de combate únicos, consigue amuletos para mejorar tus habilidades y descubre herramientas ningi para superar los obstáculos y descubrir nuevos caminos.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FBH15VHX{{</world>}}

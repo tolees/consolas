@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MAESTRO - Nintendo Switch'
-date: 2026-11-26 10:07:01
+date: 2026-11-27 18:07:13
 image: 'https://m.media-amazon.com/images/I/41h4xIVgCEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0H5S3JRDN/?tag=tolees-21'
 descuento: '37.73'
-average: '29.445000000000004'
+average: '28.536000000000005'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

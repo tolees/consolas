@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alan Wake 2 Deluxe Edition - PS5 + Dead Space PS5 | Videojuegos | Idioma: Castellano'
-date: 2026-11-26 18:17:56
+date: 2026-11-27 19:04:38
 image: 'https://m.media-amazon.com/images/I/41PnvBfXV3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

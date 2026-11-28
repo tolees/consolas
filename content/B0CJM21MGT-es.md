@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El combate en Lost Ruins es en tiempo real, y puede ser tanto rápido como metódico. Acuchilla a tus enemigos, quémalos a fuego lento o desvía sus proyectiles hacia ellos.
 - El mundo de Lost Ruins es peligroso, y a veces no basta con ir armado hasta los dientes. Ahí es donde entran en juego los accesorios. Los accesorios son piezas únicas de equipo con todo tipo de efectos.
 - A medida que explores las profundidades de las mazmorras poco iluminadas de Lost Ruin, descubrirás que, aunque todo lo que te rodea puede provocarte la muerte, también puedes utilizar el entorno que te rodea en tu beneficio.
+- El combate en Lost Ruins es en tiempo real, y puede ser tanto rápido como metódico. Acuchilla a tus enemigos, quémalos a fuego lento o desvía sus proyectiles hacia ellos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CJM21MGT{{</world>}}

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair HS80 MAX Wireless Auriculares para Juegos – Gris Acero | Bluetooth Dolby Atmos Micrófono de Calidad Broadcast Compatible con iCUE - PC Mac PS5 PS4 Switch Móvil'
-date: 2026-11-19 23:09:48
+date: 2026-11-28 14:42:42
 image: 'https://m.media-amazon.com/images/I/31kwzic7LWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'ps4','ps5','🇪🇸', ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99
-comparePrice: 159.99 EUR
+comparePrice: 156.16 EUR
 prodname: 'Corsair HS80 MAX Wireless Auriculares para Juegos – Gris Acero | Bluetooth Dolby Atmos Micrófono de Calidad Broadcast Compatible con iCUE - PC Mac PS5 PS4 Switch Móvil'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D5Z1C5TB/?tag=tolees-21'
-descuento: '31.25'
-average: '124.22833333333332'
+descuento: '29.57'
+average: '123.13307692307691'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

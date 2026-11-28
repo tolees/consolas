@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo Switch 2 Cámara HD con Micrófono Integrado y Conexión USB-C'
-date: 2026-11-25 11:54:27
+date: 2026-11-27 19:34:45
 image: 'https://m.media-amazon.com/images/I/31vxZ+t7rKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F3JNJXQ5/?tag=tolees-21'
 descuento: '65.16'
-average: '28.357222222222038'
+average: '28.155675675675496'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

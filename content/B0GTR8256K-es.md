@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MOUSE: P.I. For Hire - PS5'
-date: 2026-11-25 11:18:12
+date: 2026-11-28 06:49:50
 image: 'https://m.media-amazon.com/images/I/41Cdw4VCDIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GTR8256K/?tag=tolees-21'
 descuento: '38.84'
-average: '27.8713793103448'
+average: '27.65566666666664'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

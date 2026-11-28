@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PlayStation 5- Stellar Blade™'
-date: 2026-11-26 23:55:29
+date: 2026-11-28 09:09:33
 image: 'https://m.media-amazon.com/images/I/51c+yBNetxL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CTTNWZCM/?tag=tolees-21'
 descuento: '17.82'
-average: '46.016923076923149'
+average: '45.572195121951289'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
